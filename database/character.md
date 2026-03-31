@@ -8941,6 +8941,7 @@ example:
 | kimberly jackson | 金佰莉 | ![](https://static.wikia.nocookie.net/streetfighter/images/8/86/Sf6-kimberly.png)<br>出自作品：`p:street fighter` |  |
 | dee jay | 迪·杰 | ![](https://static.wikia.nocookie.net/streetfighter/images/b/bd/SF6_Dee_Jay.png)<br>出自作品：`p:street fighter` |  |
 | luke sullivan | 卢克·沙利文 | ![](https://static.wikia.nocookie.net/streetfighter/images/1/1b/Sf6-luke.png)<br>出自作品：`p:street fighter` |  |
+| marisa rossetti | 玛丽莎·罗塞蒂 | ![](https://static.wikia.nocookie.net/streetfighter/images/1/17/SF6_Marisa.png)<br>出自作品：`p:street fighter` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
