@@ -2327,7 +2327,7 @@ example:
 | zangief | 桑吉尔夫 | ![](https://static.wikia.nocookie.net/streetfighter/images/6/6b/SF6_Zangief.png)<br>出自作品：`p:street fighter` |  |
 | balrog | 巴洛克 |  |  |
 | akuma | 豪鬼 | ![](https://static.wikia.nocookie.net/streetfighter/images/5/57/Akuma_SF6_Render.png)<br>出自作品：`p:street fighter` |  |
-| blanka | 布兰卡 |  |  |
+| blanka | 布兰卡 | ![](https://static.wikia.nocookie.net/streetfighter/images/7/75/Blanka_SF6_Render.png)<br>出自作品：`p:street fighter` |  |
 | edmond honda | 埃德蒙·本田 | ![](https://static.wikia.nocookie.net/streetfighter/images/7/73/EHonda_SF6_Render.png)<br>出自作品：`p:street fighter` |  |
 | guile | 古烈 | ![](https://static.wikia.nocookie.net/streetfighter/images/b/ba/Sf6-guile.png)<br>出自作品：`p:street fighter` |  |
 | ken masters | 肯·马斯达斯 | ![](https://static.wikia.nocookie.net/streetfighter/images/1/14/Ken_SF6_Render.png)<br>出自作品：`p:street fighter` |  |
