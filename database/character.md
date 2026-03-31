@@ -8952,6 +8952,7 @@ example:
 | reiko terayama | 寺山丽子 | ![](https://static.wikia.nocookie.net/goldenboy/images/7/7c/Reiko_Terayama_PP.jpg)<br>所属作品：`golden boy` |  |
 | miyuki nonogusa | 野野草美由纪 | ![](https://www.bibleblackwiki.com/w/images/0/01/Miyuki_nonogusa.png)<br>所属作品：`bible black` |  |
 | erina pendleton | 艾莉娜·班德鲁顿 | ![](https://static.wikia.nocookie.net/jjba/images/d/d8/Erina_infobox_anime.PNG)<br>出自作品：`p:jojos bizarre adventure`<br><br>艾莉娜·班德鲁顿（日语：エリナ・ペンドルトン；英语：Erina Pendleton）是由荒木飞吕彦所创作的漫画《JOJO的奇妙冒险》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/艾莉娜·班德鲁顿) |
+| yuuna yagi | 八木夕凪 | ![](https://ehgt.org/w/02/324/52782-9e7szouu.webp)<br>出自作品：`p:medalist` | [Fandom](https://medalist.fandom.com/wiki/Yuna_Yagi) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
