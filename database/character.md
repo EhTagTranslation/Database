@@ -2331,7 +2331,7 @@ example:
 | edmond honda | 埃德蒙·本田 | ![](https://static.wikia.nocookie.net/streetfighter/images/7/73/EHonda_SF6_Render.png)<br>出自作品：`p:street fighter` |  |
 | guile | 古烈 | ![](https://static.wikia.nocookie.net/streetfighter/images/b/ba/Sf6-guile.png)<br>出自作品：`p:street fighter` |  |
 | ken masters | 肯·马斯达斯 | ![](https://static.wikia.nocookie.net/streetfighter/images/1/14/Ken_SF6_Render.png)<br>出自作品：`p:street fighter` |  |
-| ryu | 隆 |  |  |
+| ryu | 隆 | ![](https://static.wikia.nocookie.net/streetfighter/images/3/3a/Sf6-ryu.png)<br>出自作品：`p:street fighter` |  |
 | sagat | 沙盖特 |  |  |
 | urien | 尤里安 |  |  |
 | vega | 维加 |  |  |
