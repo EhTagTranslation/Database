@@ -8948,6 +8948,7 @@ example:
 | nami kozono | 小园奈美 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/7/75/Nami_Kozono_cha.png)<br>所属作品：`bible black` |  |
 | reika kitami | 北见丽华 | ![](https://ehgt.org/w/01/712/88720-au2thrdj.webp)<br>所属作品：`bible black` |  |
 | yukiko minase | 水无濑由起子 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/6/63/Yukiko_Minase.png)<br>所属作品：`bible black` |  |
+| madame president | 女社长 | ![](https://static.wikia.nocookie.net/goldenboy/images/e/ed/545294-mp1.png)<br>所属作品：`golden boy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
