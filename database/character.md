@@ -4772,7 +4772,7 @@ example:
 | hoolheyak | 霍尔海雅 | ![](https://patchwiki.biligame.com/images/arknights/9/97/hnu3p0w01t4q5we72zjgeifrdyz4c8n.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:霍尔海雅)<br><br>[https://prts.wiki/w/霍尔海雅](https://prts.wiki/w/霍尔海雅) |
 | dorothy | 多萝西 | ①所属作品`p:goddess of victory nikke`<br>![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/25/Dorothy_%28Nostalgia%29_FB.png)<br>——————<br>②所属作品`p:arknights`<br>![](https://patchwiki.biligame.com/images/arknights/a/a2/pcxmozzqaiwmdsr7z70g9dt9dliw1t7.png) | [PRTS ](https://prts.wiki/w/多萝西)<br>[Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Dorothy/Gallery) |
 | daki | 堕姬 | 所属作品：`p:kimetsu no yaiba` | [萌娘百科](https://zh.moegirl.org.cn/堕姬) |
-| professor juniper | 红豆杉博士 |  | [神奇宝贝百科](https://wiki.52poke.com/zh-hans/紅豆杉博士) |
+| professor juniper | 红豆杉博士 | ![](https://s1.52poke.com/wiki/thumb/0/02/紅豆杉博士_黑白.png/141px-紅豆杉博士_黑白.png)<br>所属作品：`pokemon` | [神奇宝贝百科](https://wiki.52poke.com/zh-hans/紅豆杉博士) |
 | hirato | 平户 | 所属作品: `p:kantai collection`<br><br>![](https://static.wikia.nocookie.net/kancolle/images/b/b4/Hirato_Full.png) | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:平户) [Fandom](https://kancolle.fandom.com/wiki/Hirato) |
 | dancer of the boreal valley | 冷冽谷的舞娘 | 所属作品: `p:demons souls` | [Fandom](https://darksouls.fandom.com/wiki/Dancer_of_the_Boreal_Valley) |
 | ayumi momozono | 桃园步美 | ![](https://static.wikia.nocookie.net/prettycure/images/7/78/FPC03_Ayumi_has_a_suspicion_of_what_to_talk_about.jpg)<br>所属作品: `p:pretty cure`<br>女主角桃园爱（`c:cure peach`）的母亲。 | [Fandom](https://prettycure.fandom.com/wiki/Momozono_Ayumi) |
