@@ -8934,6 +8934,7 @@ example:
 | laura | 松田劳拉 | ![](https://static.wikia.nocookie.net/streetfighter/images/7/76/Laurarender.png)<br>出自作品：`p:street fighter` |  |
 | cody travers | 科迪·特拉弗斯 | ![](https://static.wikia.nocookie.net/streetfighter/images/1/19/CodyDefault_Render_SFV.png)<br>出自作品：`p:street fighter` |  |
 | terry bogard | 特瑞·博加德 | ![](https://static.wikia.nocookie.net/streetfighter/images/1/10/Terry_SF6.png)<br>出自作品：`p:street fighter` |  |
+| dhalsim | 达尔西姆 | ![](https://static.wikia.nocookie.net/streetfighter/images/e/ea/Dhalsim_SF6_Render.png)<br>出自作品：`p:street fighter` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
