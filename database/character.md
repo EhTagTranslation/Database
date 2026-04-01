@@ -8956,6 +8956,7 @@ example:
 | etsuya eizan | 叡山枝津也 |  |  |
 | moca miyamai | 宫舞茉歌 | ![](https://static.wikia.nocookie.net/synthv/images/f/f2/SV2_moca.png)<br>所属：AH-Software，使用声源库：`voiceroid`,Synthesizer V。 |  |
 | shiho suzui | 铃井志帆 | ![](https://static.wikia.nocookie.net/megamitensei/images/d/da/Shiho_portrait.png)<br>所属作品：`persona 5` |  |
+| suguru kamoshida | 鸭志田卓 | ![](https://static.wikia.nocookie.net/megamitensei/images/e/e2/Suguru.png)<br>所属作品：`persona 5` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
