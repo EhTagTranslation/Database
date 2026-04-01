@@ -12800,7 +12800,7 @@ example:
 | kuware | クワレ |  |  |
 | izumida izumi | 泉田一角 |  |  |
 | yurashima | ゆらしま |  | [pixiv](https://www.pixiv.net/users/14503246) [X](https://x.com/yurashimayura) |
-| aoyagi kabota | 青柳カボた |  |  |
+| aoyagi kabota | 青柳カボた |  | [FANBOX](https://kabochaaan.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/478030) \| [X](https://x.com/kabochaaan___) \| [pixiv](https://www.pixiv.net/users/65337697) |
 | phathusa | Phathusa |  |  |
 | kitsune maru | きつね丸 |  |  |
 | toshizou | としぞう |  | [pixiv](https://www.pixiv.net/users/13835102) |
