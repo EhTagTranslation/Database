@@ -8964,6 +8964,7 @@ example:
 | shaula | 夏乌拉 | ![](https://static.wikia.nocookie.net/rezero/images/3/38/Shaula_Character_Art.png)<br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>日语：シャウラ<br>监视塔的星番贤者。 |  |
 | saint charloss | 查尔罗斯圣 | ![](https://static.wikia.nocookie.net/onepiece/images/4/49/Saint_Charlos_Anime_Concept_Art.png)<br>出自作品：`p:one piece` | [Fandom](https://onepiece.fandom.com/zh/wiki/查爾羅斯?variant=zh-cn) |
 | kasumi miwa | 三轮霞 | ![](https://ehgt.org/w/02/033/05046-t8h7qnt2.webp)<br>出自作品：`p:jujutsu kaisen`<br><br>三轮霞（Miwa Kasumi）是芥见下下创作的漫画《咒术回战》及其衍生作品中的角色。 | [百度百科](https://baike.baidu.com/item/三轮霞/23206993) |
+| genos | 杰诺斯 | ![](https://static.wikia.nocookie.net/onepunchman/images/5/5b/Genos_Profile.png)<br>出自作品：`p:one punch man` | [萌娘百科](https://zh.moegirl.org.cn/杰诺斯) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
