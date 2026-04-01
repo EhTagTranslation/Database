@@ -15054,6 +15054,7 @@ example:
 | ishita | いした |  |  |
 | wabi mochi | わびもち |  | [DLsite](https://ci-en.dlsite.com/creator/27773) \| [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22わびもち%22/ana_flg/all) |
 | noe | Noe |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=207720/) \| [FANBOX](https://noe-8ban.fanbox.cc/) \| [X](https://x.com/Noe_no8) \| [BOOTH](https://noe-8ban.booth.pm/) \| [pixiv](https://www.pixiv.net/users/37479378) |
+| nari | NARI |  | [pixiv](https://www.pixiv.net/users/372331) |
 
 <!--TEMPLATE:
 |  |  |  |  |
