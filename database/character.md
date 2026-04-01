@@ -4353,7 +4353,7 @@ example:
 | assaultron | 突袭者机器人 | 突袭者（Assaultron）是单机RPG游戏《辐射系列》中的一种机器人。 | [萌娘百科](https://zh.moegirl.org.cn/突袭者机器人) |
 | satoru gojo | 五条悟 |  |  |
 | aki hayakawa | 早川秋 | 早川秋是由藤本树所创作的漫画《电锯人》及其衍生作品的登场角色。 |  |
-| annie leonhart | 阿尼·利昂纳德 | 阿尼·利昂纳德是谏山创创作的漫画《进击的巨人》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/阿尼·利昂纳德) |
+| annie leonhart | 阿尼·利昂纳德 | ![](https://ehgt.org/w/01/915/63078-fw033jwi.webp)<br>出自作品：`p:shingeki no kyojin`<br><br>阿尼·利昂纳德是谏山创创作的漫画《进击的巨人》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/阿尼·利昂纳德) |
 | nekomiya hinata | 猫宫日向 | 猫宮 ひなた 是从2018年2月开始活动的日本虚拟YouTuber。<br>![塑料袋战神](https://img.moegirl.org.cn/common/9/9c/Nekomiya_Hinata_Creator002.png) | [萌娘百科](https://zh.moegirl.org.cn/猫宫日向) |
 | himeno ayanokoji | 绫小路姫乃 |  |  |
 | seia yurizono | 百合园圣娅 | ![](https://static.wikia.nocookie.net/blue-archive/images/3/3b/Seia_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/百合园圣亚) |
