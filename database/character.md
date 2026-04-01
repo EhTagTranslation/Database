@@ -8955,6 +8955,7 @@ example:
 | yuuna yagi | 八木夕凪 | ![](https://ehgt.org/w/02/324/52782-9e7szouu.webp)<br>出自作品：`p:medalist` | [Fandom](https://medalist.fandom.com/wiki/Yuna_Yagi) |
 | etsuya eizan | 叡山枝津也 |  |  |
 | moca miyamai | 宫舞茉歌 | ![](https://static.wikia.nocookie.net/synthv/images/f/f2/SV2_moca.png)<br>所属：AH-Software，使用声源库：`voiceroid`,Synthesizer V。 |  |
+| shiho suzui | 铃井志帆 | ![](https://static.wikia.nocookie.net/megamitensei/images/d/da/Shiho_portrait.png)<br>所属作品：`persona 5` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
