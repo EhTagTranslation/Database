@@ -8957,6 +8957,7 @@ example:
 | moca miyamai | 宫舞茉歌 | ![](https://static.wikia.nocookie.net/synthv/images/f/f2/SV2_moca.png)<br>所属：AH-Software，使用声源库：`voiceroid`,Synthesizer V。 |  |
 | shiho suzui | 铃井志帆 | ![](https://static.wikia.nocookie.net/megamitensei/images/d/da/Shiho_portrait.png)<br>所属作品：`persona 5` |  |
 | suguru kamoshida | 鸭志田卓 | ![](https://static.wikia.nocookie.net/megamitensei/images/e/e2/Suguru.png)<br>所属作品：`persona 5` |  |
+| sayuka kouenji | 高円寺沙由香 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/a/a7/Sayuka_Koenji_full_cha.png)<br>![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/2/22/Beat_Angel_Escalayer_full_cha.png)<br>所属作品：`choukou tenshi escalayer` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
