@@ -12491,7 +12491,7 @@ example:
 | mmchair | MM |  | [pixiv](https://www.pixiv.net/users/1815304) \| [X](https://x.com/Muuchansan18) \| [FANBOX](https://mmchair.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/93083) \| [misskey](https://misskey.io/@muuchansan) |
 | arisugawa kotone | 有栖川琴音 |  |  |
 | hitonitati | ひとにたち |  |  |
-| ryou | 涼 |  |  |
+| ryou | 涼 | レッド松 | [FANBOX](https://www.fanbox.cc/@ryou9999) \| [pixiv](https://www.pixiv.net/users/18756684) \| [X](https://x.com/AbcM2jih) |
 | ono elle | える |  |  |
 | usitora tatumi | 牛虎たつみ |  |  |
 | takashima shoa | 高嶋しょあ |  | [X](https://x.com/shoa_tksm) [pixiv](https://www.pixiv.net/users/64208336) |
