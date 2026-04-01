@@ -3613,7 +3613,7 @@ example:
 | sadayo kawakami | 川上贞代 | ![](https://static.wikia.nocookie.net/megamitensei/images/4/43/Sadayo_Kawakami.png)<br>所属作品：`persona 5`<br>日语：川上貞代（カワカミサタヨ） | [萌娘百科](https://zh.moegirl.org.cn/川上贞代) |
 | tae takemi | 武见妙 | ![](https://static.wikia.nocookie.net/megamitensei/images/e/eb/P5_Tae_Takemi.png)<br>所属作品：`persona 5`<br>日语：武見妙（タケミタエ） | [萌娘百科](https://zh.moegirl.org.cn/武见妙) |
 | chihaya mifune | 御船千早 | 御船千早（日语：御船（ミフネ） 千早（チハヤ））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/御船千早) |
-| hifumi togo | 东乡一二三 | 东乡一二三（日语：東郷（トウゴウ） 一二三（ヒフミ））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/东乡一二三) |
+| hifumi togo | 东乡一二三 | ![](https://static.wikia.nocookie.net/megamitensei/images/7/78/Hifumi_Togo.png)<br>所属作品：`persona 5`<br>日语：東郷一二三（トウゴウヒフミ） | [萌娘百科](https://zh.moegirl.org.cn/东乡一二三) |
 | yae miko | 八重神子 | ![](https://patchwiki.biligame.com/images/ys/0/0f/1gwfe6adkx3atyptw9u6nwkxpahrtl8.gif)<br>所属作品:`p:genshin impact`<br>鸣神大社的宫司大人，兼任「八重堂」总编。艳丽动人的外表下藏着令人意想不到的聪慧与狡黠。 | [萌娘百科](https://zh.moegirl.org.cn/八重神子) |
 | yoimiya naganohara | 宵宫 | ![](https://patchwiki.biligame.com/images/ys/f/f3/6t9e0xt7pwdurfgxnag4xiodbxjj828.gif)<br>所属作品:`p:genshin impact`<br>「长野原烟花店」店长，「夏祭的女王」，将人们的愿望寄托于烟花中的能工巧匠。 | [萌娘百科\_宵宫](https://zh.moegirl.org.cn/宵宫) |
 | kei yuuki | 结城萤 |  |  |
