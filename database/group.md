@@ -2104,7 +2104,7 @@ example:
 | kitsune no yomeiri | きつねのよめいり |  |  |
 | shinsei lolishota | 新生ロリショタ | kozi主办的社团名称 |  |
 | bakuretsu fusen | 爆裂风船 |  |  |
-| natsume benkei | 夏目ベンケイ |  |  |
+| natsume benkei | 夏目ベンケイ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70495/) \| [FANBOX](https://natsumebenkei.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/11339300) \| [X](https://x.com/natsumebenkei) \| [Fantia](https://fantia.jp/fanclubs/17988) |
 | la-go-on | LA-GO-ON |  |  |
 | takahashisan | たかはしさん |  |  |
 | kiracnadays | KiracnaDays |  |  |
