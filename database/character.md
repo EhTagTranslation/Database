@@ -3610,7 +3610,7 @@ example:
 | futaba sakura | 佐仓双叶 | ![](https://static.wikia.nocookie.net/megamitensei/images/6/62/Futaba_Sakura.png)<br>出自作品：`p:persona 5` | [萌娘百科](https://zh.moegirl.org.cn/佐仓双叶) |
 | haru okumura | 奥村春 | 奥村春（日语：奥村 春（オクムラ ハル））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/奥村春) |
 | makoto niijima | 新岛真 | ![](https://static.wikia.nocookie.net/megamitensei/images/0/04/Makoto_Nijima.png)<br>所属作品：`persona 5`<br>日语：新島真（にいじままこと） | [萌娘百科](https://zh.moegirl.org.cn/新岛真) |
-| sadayo kawakami | 川上贞代 | 川上贞代（日语：川上（カワカミ） 貞代（サタヨ））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/川上贞代) |
+| sadayo kawakami | 川上贞代 | ![](https://static.wikia.nocookie.net/megamitensei/images/4/43/Sadayo_Kawakami.png)<br>所属作品：`persona 5`<br>日语：川上貞代（カワカミサタヨ） | [萌娘百科](https://zh.moegirl.org.cn/川上贞代) |
 | tae takemi | 武见妙 | 武见妙（日语：武見（タケミ） 妙（タエ））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/武见妙) |
 | chihaya mifune | 御船千早 | 御船千早（日语：御船（ミフネ） 千早（チハヤ））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/御船千早) |
 | hifumi togo | 东乡一二三 | 东乡一二三（日语：東郷（トウゴウ） 一二三（ヒフミ））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/东乡一二三) |
