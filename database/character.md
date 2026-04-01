@@ -8962,6 +8962,7 @@ example:
 | akari sonozaki | 园崎明里 | ![](https://static.wikitide.net/alicesoftwiki/a/ad/BWEH-Akari_Sonozaki-Portrait.png)<br>所属作品：`choukou tenshi escalayer` |  |
 | katsura tenjoin | 天上院桂 |  |  |
 | shaula | 夏乌拉 | ![](https://static.wikia.nocookie.net/rezero/images/3/38/Shaula_Character_Art.png)<br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>日语：シャウラ<br>监视塔的星番贤者。 |  |
+| saint charloss | 查尔罗斯圣 | ![](https://static.wikia.nocookie.net/onepiece/images/4/49/Saint_Charlos_Anime_Concept_Art.png)<br>出自作品：`p:one piece` | [Fandom](https://onepiece.fandom.com/zh/wiki/查爾羅斯?variant=zh-cn) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
