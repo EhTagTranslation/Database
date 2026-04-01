@@ -15052,6 +15052,7 @@ example:
 | arehoko | あれほこ |  |  |
 | turmixane | つるみかざね |  |  |
 | ishita | いした |  |  |
+| wabi mochi | わびもち |  | [DLsite](https://ci-en.dlsite.com/creator/27773) \| [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22わびもち%22/ana_flg/all) |
 
 <!--TEMPLATE:
 |  |  |  |  |
