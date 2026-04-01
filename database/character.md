@@ -3607,7 +3607,7 @@ example:
 | kasumi yoshizawa | 芳泽霞 | ![](https://ehgt.org/w/02/154/12858-evageomj.webp)<br>出自作品：`p:persona 5`<br><br>芳泽霞（日语：芳澤  かすみ / よしざわ かすみ）是Atlus旗下的游戏系列《女神异闻录》系列正传游戏《女神异闻录5 皇家版》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/芳泽堇) |
 | sae niijima | 新岛冴 | 新岛冴（日语：新島（ニイジマ） 冴（サエ））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/新岛冴) |
 | akira kurusu | 来栖晓 | ![](https://storage.moegirl.org.cn/moegirl/commons/c/c1/主人公（P5）.png)<br>出自作品：`p:persona 5`<br><br>来栖晓（日语：来栖 暁 / くるすあきら/ Kurusu Akira）是Atlus旗下的游戏系列《女神异闻录》系列正传游戏《女神异闻录5》的主人公。 | [萌娘百科](https://zh.moegirl.org.cn/主人公%28女神异闻录5%29#) |
-| futaba sakura | 佐仓双叶 | ![](https://ehgt.org/w/01/915/00725-9ag9na87.webp)<br>出自作品：`p:persona 5`<br><br>佐仓双叶（日语：佐倉 双葉 / さくら ふたば）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/佐仓双叶) |
+| futaba sakura | 佐仓双叶 | ![](https://static.wikia.nocookie.net/megamitensei/images/6/62/Futaba_Sakura.png)<br>出自作品：`p:persona 5` | [萌娘百科](https://zh.moegirl.org.cn/佐仓双叶) |
 | haru okumura | 奥村春 | 奥村春（日语：奥村 春（オクムラ ハル））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/奥村春) |
 | makoto niijima | 新岛真 | 新岛真（日语：新島（にいじま） 真（まこと））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/新岛真) |
 | sadayo kawakami | 川上贞代 | 川上贞代（日语：川上（カワカミ） 貞代（サタヨ））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/川上贞代) |
