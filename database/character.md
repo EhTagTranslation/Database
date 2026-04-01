@@ -8954,6 +8954,7 @@ example:
 | erina pendleton | 艾莉娜·班德鲁顿 | ![](https://static.wikia.nocookie.net/jjba/images/d/d8/Erina_infobox_anime.PNG)<br>出自作品：`p:jojos bizarre adventure`<br><br>艾莉娜·班德鲁顿（日语：エリナ・ペンドルトン；英语：Erina Pendleton）是由荒木飞吕彦所创作的漫画《JOJO的奇妙冒险》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/艾莉娜·班德鲁顿) |
 | yuuna yagi | 八木夕凪 | ![](https://ehgt.org/w/02/324/52782-9e7szouu.webp)<br>出自作品：`p:medalist` | [Fandom](https://medalist.fandom.com/wiki/Yuna_Yagi) |
 | etsuya eizan | 叡山枝津也 |  |  |
+| moca miyamai | 宫舞茉歌 | ![](https://static.wikia.nocookie.net/synthv/images/f/f2/SV2_moca.png)<br>所属：AH-Software，使用声源库：`voiceroid`,Synthesizer V。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
