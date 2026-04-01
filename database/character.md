@@ -8961,6 +8961,7 @@ example:
 | takamaru ikusabe | 战部鹰丸 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/a/aa/Takamaru_Ikusabe.png)<br>所属作品：`beat blades haruka` |  |
 | akari sonozaki | 园崎明里 | ![](https://static.wikitide.net/alicesoftwiki/a/ad/BWEH-Akari_Sonozaki-Portrait.png)<br>所属作品：`choukou tenshi escalayer` |  |
 | katsura tenjoin | 天上院桂 |  |  |
+| shaula | 夏乌拉 | ![](https://static.wikia.nocookie.net/rezero/images/3/38/Shaula_Character_Art.png)<br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>日语：シャウラ<br>监视塔的星番贤者。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
