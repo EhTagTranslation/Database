@@ -1834,7 +1834,7 @@ example:
 | kuma no tooru michi | くまのとおるみち |  |  |
 | kindou shoujo | 金瞳少女 |  |  |
 | yukimi-fuumi | ゆきみ風味 |  |  |
-| cotesdenoix | CotesDeNoix |  |  |
+| cotesdenoix | CotesDeNoix | Cotes De Noix | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=24761) |
 | from nuts | From nuts |  |  |
 | upagoya | うぱ小屋 |  |  |
 | muraimura | 村井村 |  |  |
