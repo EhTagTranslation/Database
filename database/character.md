@@ -8960,6 +8960,7 @@ example:
 | sayuka kouenji | 高円寺沙由香 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/a/a7/Sayuka_Koenji_full_cha.png)<br>![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/2/22/Beat_Angel_Escalayer_full_cha.png)<br>所属作品：`choukou tenshi escalayer` |  |
 | takamaru ikusabe | 战部鹰丸 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/a/aa/Takamaru_Ikusabe.png)<br>所属作品：`beat blades haruka` |  |
 | akari sonozaki | 园崎明里 | ![](https://static.wikitide.net/alicesoftwiki/a/ad/BWEH-Akari_Sonozaki-Portrait.png)<br>所属作品：`choukou tenshi escalayer` |  |
+| katsura tenjoin | 天上院桂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
