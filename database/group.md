@@ -4638,7 +4638,7 @@ example:
 | extry | ExTry |  |  |
 | ezogoro | エゾゴロウ |  |  |
 | f no heya | Fの部屋 |  |  |
-| f.w.zholic | F.W.ZHolic |  |  |
+| f.w.zholic | F.W.ZHolic |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=125441) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG35307.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=209600/) |
 | f.workshop | F.Workshop |  |  |
 | f4-company | F4 COMPANY |  |  |
 | face to face | face to face |  |  |
