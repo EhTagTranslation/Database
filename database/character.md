@@ -8958,6 +8958,7 @@ example:
 | shiho suzui | 铃井志帆 | ![](https://static.wikia.nocookie.net/megamitensei/images/d/da/Shiho_portrait.png)<br>所属作品：`persona 5` |  |
 | suguru kamoshida | 鸭志田卓 | ![](https://static.wikia.nocookie.net/megamitensei/images/e/e2/Suguru.png)<br>所属作品：`persona 5` |  |
 | sayuka kouenji | 高円寺沙由香 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/a/a7/Sayuka_Koenji_full_cha.png)<br>![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/2/22/Beat_Angel_Escalayer_full_cha.png)<br>所属作品：`choukou tenshi escalayer` |  |
+| takamaru ikusabe | 战部鹰丸 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/a/aa/Takamaru_Ikusabe.png)<br>所属作品：`beat blades haruka` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
