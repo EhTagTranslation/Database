@@ -15051,6 +15051,7 @@ example:
 | konnandakke | コンナンダッケ |  | [Fantia](https://fantia.jp/fanclubs/31894) \| [X](https://x.com/konnandaakke) \| [pixiv](https://www.pixiv.net/users/17285281) \| [FANBOX](https://lo0gq2tb.fanbox.cc/) \| [DLsite](https://ci-en.dlsite.com/creator/12100) \| [nijie.info](https://nijie.info/members.php?id=2442561) |
 | arehoko | あれほこ |  |  |
 | turmixane | つるみかざね |  |  |
+| ishita | いした |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
