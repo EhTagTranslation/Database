@@ -13839,6 +13839,7 @@ example:
 | puru-ya | プル屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54892.html) |
 | multiplication | multiplication |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49067.html) |
 | gallium wear | gallium wear |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01021193.html) \| [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=126230) |
+| omochi no mochi-ya | おもちのもち屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01032668.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
