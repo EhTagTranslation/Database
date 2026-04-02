@@ -8972,6 +8972,7 @@ example:
 | tanya akulova | 塔尼娅·阿克罗 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ae/61/1688_J858N.jpg)<br>所属作品：`darker than black` |  |
 | suou pavlichenko | 苏芳·帕夫利琴科 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8a/3a/1685_crt_PORHm.jpg)<br>所属作品：`darker than black` |  |
 | genma shizume | 镇目弦马 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e7/21/1695_Akxjk.jpg)<br>所属作品：`darker than black` |  |
+| mina hazuki | 叶月水无 | ![](https://lain.bgm.tv/r/400/pic/crt/l/5c/f2/1696_Wn9fH.jpg?r=1429260612)<br>所属作品：`darker than black` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
