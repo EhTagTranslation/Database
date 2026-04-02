@@ -8973,6 +8973,7 @@ example:
 | suou pavlichenko | 苏芳·帕夫利琴科 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8a/3a/1685_crt_PORHm.jpg)<br>所属作品：`darker than black` |  |
 | genma shizume | 镇目弦马 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e7/21/1695_Akxjk.jpg)<br>所属作品：`darker than black` |  |
 | mina hazuki | 叶月水无 | ![](https://lain.bgm.tv/r/400/pic/crt/l/5c/f2/1696_Wn9fH.jpg?r=1429260612)<br>所属作品：`darker than black` |  |
+| runa tsukimi | 月见瑠奈 | ![](https://static.wikia.nocookie.net/osananajimi-to-wa-lovecom-ni-naranai/images/6/6c/Runa_Tsukimi.png)<br>所属作品：`osananajimi to wa love comedy ni naranai` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
