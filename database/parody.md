@@ -2772,6 +2772,7 @@ example:
 | chaos zero nightmare | ![](https://static.wikia.nocookie.net/chaos-zero-nightmare/images/f/f4/Chaos_Zero_Nightmare.png) 卡厄思梦境 | ![](https://preview.redd.it/chaos-zero-nightmare-has-released-and-begun-official-service-v0-xlzhc3p0fkwf1.png?width=640&crop=smart&auto=webp&s=358f5c24efd7d10664022fc0a502c082e7ce3a57)<br>由韩国Smilegate旗下SUPER CREATIVE团队研发的幻想题材角色扮演游戏。 |  |
 | renegade immortal | 仙逆 | 《仙逆》是中国网络作家耳根所著的仙侠小说，并有同名改编动画。 |  |
 | fuyukara kururu. | 冬旅，方冥冥 | ![](https://do4ryrayvtpwi.cloudfront.net/optimized/3X/1/a/1aedf86758a38de74e822693b7862ed0fe6a2eab_2_1035x730.jpeg)<br>日本开发商silkysplus制作的游戏。 |  |
+| osananajimi to wa love comedy ni naranai | 和青梅竹马之间不会有恋爱喜剧 | ![](https://static.wikia.nocookie.net/dubbing9585/images/f/f1/You_Can%27t_Be_In_a_Rom-Com_With_Your_Childhood_Friends!.jpg)<br>三簾真也创作的漫画，并有改编动画作品。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
