@@ -2774,6 +2774,7 @@ example:
 | fuyukara kururu. | 冬旅，方冥冥 | ![](https://do4ryrayvtpwi.cloudfront.net/optimized/3X/1/a/1aedf86758a38de74e822693b7862ed0fe6a2eab_2_1035x730.jpeg)<br>日本开发商silkysplus制作的游戏。 |  |
 | osananajimi to wa love comedy ni naranai | 和青梅竹马之间不会有恋爱喜剧 | ![](https://static.wikia.nocookie.net/dubbing9585/images/f/f1/You_Can%27t_Be_In_a_Rom-Com_With_Your_Childhood_Friends!.jpg)<br>三簾真也创作的漫画，并有改编动画作品。 |  |
 | shine post | 闪耀路标 | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Shine_Post_logo.webp/500px-Shine_Post_logo.webp.png)<br>科乐美数码娱乐与Straight Edge合作的大型跨媒体偶像企划。<br>日语：シャインポスト |  |
+| alma-chan wa kazoku ni naritai | 小阿尔玛想要成为家人 | ![](https://upload.wikimedia.org/wikipedia/en/9/9e/Alma-chan_wa_Kazoku_ni_Naritai_volume_1_cover.jpg)<br>ななてる创作的漫画作品。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
