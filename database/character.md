@@ -8969,7 +8969,7 @@ example:
 | hei | 黑（李舜生） | ![](https://lain.bgm.tv/r/400/pic/crt/l/f0/4f/292_crt_aMPWP.jpg)<br>所属作品：`darker than black` |  |
 | yin | 银 | ![](https://lain.bgm.tv/r/400/pic/crt/l/30/82/293_crt_uzbcR.jpg)<br>所属作品：`darker than black` |  |
 | misaki kirihara | 雾原未咲 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d2/96/296_iInlU.jpg)<br>所属作品：`darker than black` |  |
-| tanya akulova | 塔尼娅·阿克罗 | 所属作品：`darker than black` |  |
+| tanya akulova | 塔尼娅·阿克罗 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ae/61/1688_J858N.jpg)<br>所属作品：`darker than black` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
