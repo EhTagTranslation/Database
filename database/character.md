@@ -8976,7 +8976,7 @@ example:
 | runa tsukimi | 月见瑠奈 | ![](https://static.wikia.nocookie.net/osananajimi-to-wa-lovecom-ni-naranai/images/6/6c/Runa_Tsukimi.png)<br>所属作品：`osananajimi to wa love comedy ni naranai` |  |
 | rikumu | Rikumu | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/4/4a/Talent_Rikumu.png)<br>所属社团：`nijisanji`<br>日语：リクム |  |
 | yawara naekawa | 苗川柔 | ![](https://static.wikia.nocookie.net/shine-post/images/c/c3/Yawara_game.webp)<br>所属作品：`shine post`<br>日语：なえかわ やわら |  |
-| alma | 阿尔玛 | ![](https://lain.bgm.tv/r/400/pic/crt/l/11/94/169868_crt_SZ4SV.jpg?r=1744945779)<br>所属作品：`alma-chan wa kazoku ni naritai` |  |
+| alma | 阿尔玛 | ![](https://lain.bgm.tv/r/400/pic/crt/l/11/94/169868_crt_SZ4SV.jpg?r=1744945779)<br>所属作品：`alma-chan wa kazoku ni naritai`<br>日语：アルマ |  |
 | makina | 玛琪娜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/58/58/183310_crt_0zg0U.jpg)<br>所属作品：`alma-chan wa kazoku ni naritai`<br>日语：マキナ |  |
 
 <!--TEMPLATE: 
