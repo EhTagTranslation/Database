@@ -6022,7 +6022,7 @@ example:
 | ichinashi kimi | 市梨きみ |  |  |
 | ichino | いちの |  |  |
 | ichinomiya kazusa | 一ノ宮かずさ |  |  |
-| ichinose | イチノセ |  |  |
+| ichinose | いちのせ | イチノセ | [FANBOX](https://ichinose.fanbox.cc/) \| [X](https://x.com/Ichinose_hw) \| [pixiv](https://www.pixiv.net/users/59476957) |
 | ichiokunen wakusei | 1亿年惑星 |  |  |
 | ichiro | 一滝 |  |  |
 | ichitaka | いちたか |  |  |
