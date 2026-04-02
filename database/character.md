@@ -8969,6 +8969,7 @@ example:
 | hei | 黑 | 所属作品：`darker than black` |  |
 | yin | 银 | 所属作品：`darker than black` |  |
 | misaki kirihara | 雾原未咲 | 所属作品：`darker than black` |  |
+| tanya akulova | 塔尼娅·阿克罗 | 所属作品：`darker than black` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
