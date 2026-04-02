@@ -8966,7 +8966,7 @@ example:
 | kasumi miwa | 三轮霞 | ![](https://ehgt.org/w/02/033/05046-t8h7qnt2.webp)<br>出自作品：`p:jujutsu kaisen`<br><br>三轮霞（Miwa Kasumi）是芥见下下创作的漫画《咒术回战》及其衍生作品中的角色。 | [百度百科](https://baike.baidu.com/item/三轮霞/23206993) |
 | genos | 杰诺斯 | ![](https://static.wikia.nocookie.net/onepunchman/images/5/5b/Genos_Profile.png)<br>出自作品：`p:one punch man` | [萌娘百科](https://zh.moegirl.org.cn/杰诺斯) |
 | amanogawa shiina | 天之川椎名 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/dd/Amanogawa_Shiina_Portrait.png)<br>Phase-Connect二期生。<br>日语：天ノ川 しいな |  |
-| hei | 黑 | 所属作品：`darker than black` |  |
+| hei | 黑 | ![](https://lain.bgm.tv/r/400/pic/crt/l/f0/4f/292_crt_aMPWP.jpg)<br>所属作品：`darker than black` |  |
 | yin | 银 | 所属作品：`darker than black` |  |
 | misaki kirihara | 雾原未咲 | 所属作品：`darker than black` |  |
 | tanya akulova | 塔尼娅·阿克罗 | 所属作品：`darker than black` |  |
