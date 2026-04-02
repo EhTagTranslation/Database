@@ -8968,7 +8968,7 @@ example:
 | amanogawa shiina | 天之川椎名 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/dd/Amanogawa_Shiina_Portrait.png)<br>Phase-Connect二期生。<br>日语：天ノ川 しいな |  |
 | hei | 黑（李舜生） | ![](https://lain.bgm.tv/r/400/pic/crt/l/f0/4f/292_crt_aMPWP.jpg)<br>所属作品：`darker than black` |  |
 | yin | 银 | ![](https://lain.bgm.tv/r/400/pic/crt/l/30/82/293_crt_uzbcR.jpg)<br>所属作品：`darker than black` |  |
-| misaki kirihara | 雾原未咲 | 所属作品：`darker than black` |  |
+| misaki kirihara | 雾原未咲 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d2/96/296_iInlU.jpg)<br>所属作品：`darker than black` |  |
 | tanya akulova | 塔尼娅·阿克罗 | 所属作品：`darker than black` |  |
 
 <!--TEMPLATE: 
