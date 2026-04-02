@@ -8970,6 +8970,7 @@ example:
 | yin | 银 | ![](https://lain.bgm.tv/r/400/pic/crt/l/30/82/293_crt_uzbcR.jpg)<br>所属作品：`darker than black` |  |
 | misaki kirihara | 雾原未咲 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d2/96/296_iInlU.jpg)<br>所属作品：`darker than black` |  |
 | tanya akulova | 塔尼娅·阿克罗 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ae/61/1688_J858N.jpg)<br>所属作品：`darker than black` |  |
+| suou pavlichenko | 苏芳·帕夫利琴科 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8a/3a/1685_crt_PORHm.jpg)<br>所属作品：`darker than black` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
