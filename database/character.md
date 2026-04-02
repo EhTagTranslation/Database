@@ -8978,6 +8978,7 @@ example:
 | yawara naekawa | 苗川柔 | ![](https://static.wikia.nocookie.net/shine-post/images/c/c3/Yawara_game.webp)<br>所属作品：`shine post`<br>日语：なえかわ やわら |  |
 | alma | 阿尔玛 | ![](https://lain.bgm.tv/r/400/pic/crt/l/11/94/169868_crt_SZ4SV.jpg?r=1744945779)<br>所属作品：`alma-chan wa kazoku ni naritai`<br>日语：アルマ |  |
 | makina | 玛琪娜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/58/58/183310_crt_0zg0U.jpg)<br>所属作品：`alma-chan wa kazoku ni naritai`<br>日语：マキナ |  |
+| kurumi mirai | 可露米·未来 | ![](https://lain.bgm.tv/r/400/pic/crt/l/30/bf/158504_crt_533Gu.jpg?r=1717038341)<br>所属作品：`mahoutsukai ni narenakatta onnanoko no hanashi` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
