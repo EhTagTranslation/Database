@@ -1925,7 +1925,7 @@ example:
 | daphne in the brilliant blue | 光与水的女神 |  | [维基百科](https://zh.wikipedia.org/wiki/光与水的女神) |
 | dark chronicle | 暗云编年史 |  | [维基百科](https://zh.wikipedia.org/wiki/暗云编年史) |
 | dark water | Dark Water |  |  |
-| darker than black | DARKER THAN BLACK |  | [维基百科](https://zh.wikipedia.org/wiki/DARKER%20THAN%20BLACK) |
+| darker than black | 黑之契约者 | ![](https://upload.wikimedia.org/wikipedia/zh/8/8a/DTB_logo.jpg)<br>由日本动画公司BONES制作、冈村天斋执导的原创电视动画作品。 | [维基百科](https://zh.wikipedia.org/wiki/DARKER%20THAN%20BLACK) |
 | darkwing duck | 狡猾飞天德 |  | [维基百科](https://zh.wikipedia.org/wiki/狡猾飛天德) |
 | dave the barbarian | 野蛮人戴夫 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/バーバリアン・デイブ) |
 | day break illusion | 穿透幻影的太阳 |  | [维基百科](https://zh.wikipedia.org/wiki/穿透幻影的太阳) |
