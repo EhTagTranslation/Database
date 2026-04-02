@@ -8967,6 +8967,7 @@ example:
 | genos | 杰诺斯 | ![](https://static.wikia.nocookie.net/onepunchman/images/5/5b/Genos_Profile.png)<br>出自作品：`p:one punch man` | [萌娘百科](https://zh.moegirl.org.cn/杰诺斯) |
 | amanogawa shiina | 天之川椎名 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/dd/Amanogawa_Shiina_Portrait.png)<br>Phase-Connect二期生。<br>日语：天ノ川 しいな |  |
 | hei | 黑 | 所属作品：`darker than black` |  |
+| yin | 银 | 所属作品：`darker than black` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
