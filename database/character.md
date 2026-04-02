@@ -4574,7 +4574,7 @@ example:
 | kenjirou hato | 波户贤二郎 |  |  |
 | rika yoshitake | 吉武莉华 |  |  |
 | harunobu madarame | 斑目晴信 |  |  |
-| rea sanka | 散华礼弥 |  |  |
+| rea sanka | 散华礼弥 | ![](https://ehgt.org/w/02/309/40352-pc96cutj.webp)<br>所属作品：`sankarea` |  |
 | mero furuya | 降谷萌路 |  |  |
 | judge | 法官 | `p:girls frontline`的铁血工造的人形法官<br>![](https://www.gfwiki.org/images/5/55/Pic_Justice_LL.png) | [少前百科GFwiki](http://www.gfwiki.org/w/法官)<br>[萌娘百科](https://zh.moegirl.org.cn/少女前线:法官) |
 | himawari shinomiya | 四宫向日葵 |  |  |
