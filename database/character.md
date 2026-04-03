@@ -8999,6 +8999,7 @@ example:
 | rinna sarukawa | 申川凛奈 | ![](https://static.wikia.nocookie.net/medalisttest/images/5/5b/Rinna_Sarukawa_Anime.png)<br>所属作品：`medalist`<br>日语：申川りんな |  |
 | nova terra | 诺娃·泰拉 | ![](https://static.wikia.nocookie.net/starcraft/images/1/1b/Nova_Heroes_Art1.jpg)<br>所属作品：`starcraft` |  |
 | the queen of hatred | 憎恶女王 | ![](https://static.wikia.nocookie.net/lobotomycorp/images/e/ed/Queen_of_Hatred_Crop.png)<br>所属作品：`lobotomy corporation` |  |
+| caron | 卡伦 | ![](https://ehgt.org/w/02/291/64977-8jcoouc7.webp)<br>所属作品：`cream lemon` 超次元伝説ラル |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
