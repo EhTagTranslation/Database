@@ -5175,7 +5175,7 @@ example:
 | ada wong | 艾达·王 | ![](https://ehgt.org/w/02/147/35078-kyeu1dvo.webp)<br>出自作品：`p:resident evil`<br><br>艾达·王（英语：Ada Wong）是Capcom旗下的游戏《`resident evil`》及其衍生作品的登场角色。 | [维基百科](https://zh.wikipedia.org/wiki/艾達·王) [萌娘百科](https://zh.moegirl.org.cn/艾达·王) |
 | yamato takeru | 大和武尊 | 日本武尊是TYPE-MOON旗下《Fate系列》及其衍生作品的登场角色，在游戏《Fate/Samurai Remnant》中初次登场。 | [萌娘百科](https://zh.moegirl.org.cn/日本武尊%28Fate%29#) |
 | wriothesley | 莱欧斯利 | 莱欧斯利是米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/莱欧斯利) |
-| rin uehara | 上原燐 |  |  |
+| rin uehara | 上原燐 | ![](https://static.wikia.nocookie.net/taimanin/images/3/3b/Uehara_Rin_7.png)<br>所属作品：`taimanin asagi` |  |
 | himeno | 姬野 | 出自《电锯人》 |  |
 | tomori takamatsu | 高松灯 | ![](https://anime.bang-dream.com/mygo/wordpress/wp-content/themes/mygo_v1/assets/images/common/character/thumb_tomori.png)<br>![](https://pic.cangku.moe/images/2025/11/21/1lFWF.gif)<br>所属作品：《‌`bang dream`! It's MyGO!!》<br>高松灯（日语：高松燈（たかまつ ともり））。 | [萌娘百科](https://zh.moegirl.org.cn/高松灯) |
 | anon chihaya | 千早爱音 | ![](https://anime.bang-dream.com/mygo/wordpress/wp-content/themes/mygo_v1/assets/images/common/character/thumb_anon.png)<br>![](https://pic.cangku.moe/images/2025/11/21/1l0Qc.gif)<br>所属作品：《`bang dream`! It's MyGO!!》<br>日语名：ちはやあのん | [萌娘百科](https://zh.moegirl.org.cn/千早爱音) |
