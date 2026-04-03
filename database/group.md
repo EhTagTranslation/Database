@@ -5557,7 +5557,7 @@ example:
 | hellenism | へれニズム |  |  |
 | hellfragrance | ヘルフレグランス |  |  |
 | hello girls | Hello Girls! |  |  |
-| hellter skelter | HELLTER SKELTER |  |  |
+| hellter skelter | HELLTER SKELTER |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27413/) |
 | helmet ga naosemasen | ヘルメットが直せません |  |  |
 | hemelopa | HeMeLoPa |  |  |
 | henderson | HENDERSON |  |  |
