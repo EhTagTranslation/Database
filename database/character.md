@@ -8989,6 +8989,7 @@ example:
 | haruno akiyama | 秋山春乃 | ![](https://static.wikia.nocookie.net/mono-manga/images/b/b7/Mono-weekend-photo-haruno_img.png)<br>所属作品：`mono` |  |
 | an kiriyama | 雾山杏 | ![](https://static.wikia.nocookie.net/mono-manga/images/7/7b/Mono-weekend-photo-an_img.png)<br>所属作品：`mono` |  |
 | ema yamato | 大和绘马 | ![](https://static.wikia.nocookie.net/medalisttest/images/a/af/Ema_Yamato_Anime_2.png)<br>所属作品：`medalist` |  |
+| suzu kamoto | 鹿本铃 | ![](https://static.wikia.nocookie.net/medalisttest/images/7/7c/Suzu_Kamoto_Anime_2.png)<br>所属作品：`medalist`<br>日语：鹿本すず |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
