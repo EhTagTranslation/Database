@@ -8209,7 +8209,7 @@ example:
 | mutsukidou | 睦月堂 |  |  |
 | mutsuraboshi | むつらぼし |  |  |
 | mutsuya | 陸奥屋 |  |  |
-| muttumuu | むっつむー |  |  |
+| muttumuu | むっつむー |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG36122.html) \| [DLsite](https://ci-en.dlsite.com/creator/786) \| [pixiv](https://www.pixiv.net/users/28407136) \| [X](https://x.com/muttumuu) \| [BOOTH](https://muttumu.booth.pm/) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74089/?utm_medium=dmm_affiliate&utm_source=m2m00-004) |
 | mx2 | M×2 |  |  |
 | my blue sky | マイブルースカイ |  |  |
 | my darling | my\_darling |  |  |
