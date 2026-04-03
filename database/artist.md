@@ -1040,7 +1040,7 @@ example:
 | caviar | きゃびあ |  |  |
 | mojyako | モジャコ |  |  |
 | hammer | ハマー |  |  |
-| sugiyuu | スギユウ |  |  |
+| sugiyuu | スギユウ |  | [FANBOX](https://www.fanbox.cc/@sugiyuu) \| [pixiv](https://www.pixiv.net/users/97799) \| [X](https://x.com/sugiyuu) |
 | wox yang | 沃克羊 |  |  |
 | garland | があらんど |  |  |
 | homare | ほまれ \| 誉 | 鈴の丘<br>FOOL's ART GALLERY |  |
