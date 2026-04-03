@@ -8982,6 +8982,7 @@ example:
 | minami suzuki | 美奈海·铃树 | ![](https://lain.bgm.tv/r/400/pic/crt/l/35/46/161086_crt_PLI82.jpg?r=1721310392)<br>所属作品：`mahoutsukai ni narenakatta onnanoko no hanashi` |  |
 | rabu komakaze | 河驹风兰舞 | ![](https://static.wikia.nocookie.net/blue-archive/images/5/58/Rabu_Portrait.png)<br>所属作品：`blue archive` |  |
 | alma judikhali | 阿妮玛·尤迪卡雷 | ![](https://static.wikia.nocookie.net/talker/images/2/28/Alma_Judikhali_anime_design.png)<br>所属作品：`saikyou no shienshoku wajutsushi de aru ore wa sekai saikyou clan wo shitagaeru`<br>日语：アルマ・イウディカーレ | [Bangumi](https://bgm.tv/character/156048) |
+| reinhard van astrea | 莱因哈鲁特·梵·阿斯特雷亚 | ![](https://static.wikia.nocookie.net/rezero/images/7/75/Reinhard_van_Astrea_LN_character_design.png)<br>所属作品：`re zero kara hajimeru isekai seikatsu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
