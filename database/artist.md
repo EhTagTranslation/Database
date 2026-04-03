@@ -6433,7 +6433,7 @@ example:
 | kaidou | 海道 |  |  |
 | kaidou j1 | 蚕堂j1 | 蚕堂カナ |  |
 | kaidou mizuki | 海棠深月 |  |  |
-| kaiga | kaiga |  |  |
+| kaiga | kaiga |  | [FANBOX](https://kaiga.fanbox.cc/) |
 | kaigun santouhei | 怪軍三等兵 |  |  |
 | kaika | Kaika |  |  |
 | kaiko | 初音 |  |  |
