@@ -9001,6 +9001,7 @@ example:
 | the queen of hatred | 憎恶女王 | ![](https://static.wikia.nocookie.net/lobotomycorp/images/e/ed/Queen_of_Hatred_Crop.png)<br>所属作品：`lobotomy corporation` |  |
 | caron | 卡伦 | ![](https://ehgt.org/w/02/291/64977-8jcoouc7.webp)<br>所属作品：`cream lemon` 超次元伝説ラル |  |
 | lihanna owenzaus | 莉亚娜·欧文萨乌斯 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/9/9d/Liana_Owenzaus_Anime_Character_Render.png)<br>所属作品：`tsue to tsurugi no wistoria`<br>日语：リアーナ・オーウェンザウス |  |
+| elfaria albis serfort | 艾尔菲利亚·阿尔薇丝·塞尔弗特 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/3/3f/Elfaria_Albis_Serfort_Character_KV.png)<br>所属作品：`tsue to tsurugi no wistoria`<br>日语：エルフアリア・アルグィス・セルフオルト |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
