@@ -6290,7 +6290,7 @@ example:
 | reina akatsuki | 晓零菜 | 晓零菜，日本作家三云岳斗所著轻小说以及动漫作品《噬血狂袭》的人物。 [1]容貌和雪菜几乎一样，但拥有比同龄的雪菜还要大的胸部。继承了古城不死的诅咒，以及拥有和雪菜几乎一样的容貌。<br>「晓之帝国」的公主，母亲是狮子王机关的剑巫姬柊雪菜，父亲是号称「世界最强吸血鬼」的第四真祖晓古城。 |  |
 | grace | 格蕾丝 \| 格蕾斯 | ①格蕾斯<br>![](https://patchwiki.biligame.com/images/pcr/thumb/5/58/6k8a0ccr4eh9lsbdowry0qs49ajwozh.png/750px-格蕾斯.png)<br>所属作品：`princess connect`<br><br>②格蕾丝<br>![](https://static.wikia.nocookie.net/sound-voltex/images/2/2a/Grace_VI.jpg/revision/latest?cb=20230821220533)<br>所属作品`sound voltex` | ①[Grace（SDVX）](https://zh.moegirl.org.cn/格蕾丝) |
 | fuuko izumo | 出云风子 | 所属作品: `p:undead unluck` | [萌娘百科](https://zh.moegirl.org.cn/出云风子) |
-| alina clover | 阿莉娜·克洛瓦 | 所属作品: `p:girumasu` | [萌娘百科](https://zh.moegirl.org.cn/阿莉娜·克洛瓦) [Fandom](https://dengeki.fandom.com/wiki/Alina_Clover) |
+| alina clover | 阿莉娜·克洛瓦 | ![](https://static.wikia.nocookie.net/dengeki/images/0/05/Alinaclover.png)<br>所属作品: `p:girumasu` | [萌娘百科](https://zh.moegirl.org.cn/阿莉娜·克洛瓦) [Fandom](https://dengeki.fandom.com/wiki/Alina_Clover) |
 | rindo chihaya | 轮堂千速 | 轮堂千速（日语：輪堂 千速／りんどう ちはやRindo Chihaya）是一名于2024年11月7日开始活动的VTuber，隶属于日本hololive DEV\_IS旗下音乐团体『FLOW GLOW』。 | [Fandom](https://virtualyoutuber.fandom.com/wiki/Rindo_Chihaya) [萌娘百科](https://zh.moegirl.org.cn/轮堂千速) |
 | marie antoinette alter | 玛丽·安托瓦内特〔Alter〕 | ![](https://storage.moegirl.org.cn/moegirl/commons/1/10/黑玛丽贺图.jpg)<br>出自作品：`p:fate grand order`<br><br>玛丽·安托瓦内特〔Alter〕是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/玛丽·安托瓦内特_Alter) |
 | zani | 赞妮 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/b/b7/9relhfe7txqu4dmjpmxhz7u71d82q25.png/514px-角色_赞妮_立绘.png)<br>所属作品：`wuthering waves`<br>来自黎那汐塔，埃费拉德银行的员工。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/赞妮) |
