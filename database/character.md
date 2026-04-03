@@ -8987,6 +8987,7 @@ example:
 | liliana masquerade | 莉莉安娜·马斯可芮德 | ![](https://static.wikia.nocookie.net/rezero/images/3/30/Liliana_Masquerade_LN_character_design.png)<br>所属作品：`re zero kara hajimeru isekai seikatsu` |  |
 | satsuki amamiya | 雨宫纱月 | ![](https://static.wikia.nocookie.net/mono-manga/images/7/7a/Mono-weekend-photo-satsuki_img.png)<br>所属作品：`mono` |  |
 | haruno akiyama | 秋山春乃 | ![](https://static.wikia.nocookie.net/mono-manga/images/b/b7/Mono-weekend-photo-haruno_img.png)<br>所属作品：`mono` |  |
+| an kiriyama | 雾山杏 | ![](https://static.wikia.nocookie.net/mono-manga/images/7/7b/Mono-weekend-photo-an_img.png)<br>所属作品：`mono` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
