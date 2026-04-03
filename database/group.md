@@ -3884,7 +3884,7 @@ example:
 | clodia | CLODIA |  |  |
 | close heart | CLOSE HEART |  |  |
 | cloud nine | 雲9 |  |  |
-| cloud noise | クラウドノイズ |  |  |
+| cloud noise | クラウドノイズ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG09593.html) |
 | cloud palette | Cloud Palette |  |  |
 | cloudair | cloudair |  |  |
 | cloudy | くらうでぃ |  |  |
