@@ -14,9 +14,11 @@ copyright: >
   3.0 协议）进行二次分发。
 rules:
   - 优先使用官方译名，无官方译名时可以使用公认的中文名称，本命名空间**暂不接受日文名称**。
-  - 推荐使用[萌娘百科](https://zh.moegirl.org.cn/)，或百度百科、[Fandom](https://www.fandom.com/)，维基百科查找译名。
+  - >-
+    推荐使用[萌娘百科](https://zh.moegirl.org.cn/)，或百度百科、[Fandom](https://www.fandom.com/)，维基百科查找译名。
   - 添加图片请使用图床，优先使用官方的角色形象及广泛使用的二创形象，不要使用含有色情或暴力等违法内容的图片。
-  - 因萌娘百科服务器压力过大，建议使用[Fandom](https://www.fandom.com/)的图片链接，也可以使用私人上传的图床如[流浪图床](https://p.sda1.dev/)。
+  - >-
+    因萌娘百科服务器压力过大，建议使用[Fandom](https://www.fandom.com/)的图片链接，也可以使用私人上传的图床如[流浪图床](https://p.sda1.dev/)。
   - 描述图片尽量出现尽可能多的主角，或者其他易于辨识的作品标志物。
 example:
   raw: kantai collection
@@ -2778,6 +2780,7 @@ example:
 | alma-chan wa kazoku ni naritai | 小阿尔玛想要成为家人 | ![](https://upload.wikimedia.org/wikipedia/en/9/9e/Alma-chan_wa_Kazoku_ni_Naritai_volume_1_cover.jpg)<br>ななてる创作的漫画作品。 |  |
 | mahoutsukai ni narenakatta onnanoko no hanashi | 没能成为魔法师的女孩子的故事 | ![](https://upload.wikimedia.org/wikipedia/en/3/36/Mahō_Tsukai_ni_Narenakatta_Onna_no_Ko_no_Hanashi_anime_key_visual.jpg)<br>赤坂优月创作的网络小说作品。<br>日语：魔法使いになれなかった女の子の |  |
 | my card is better than your card | 我的牌更好! | ![](https://utustudios.com/press/mycard/media/header.png)<br>由Utu Studios开发的Roguelike卡牌游戏。 | [Steam](https://store.steampowered.com/app/3617620/My_Card_Is_Better_Than_Your_Card/) |
+| tsue to tsurugi no wistoria | 杖与剑的魔剑谭 | ![](https://upload.wikimedia.org/wikipedia/en/2/25/Wistoria%2C_Wand_and_Sword_volume_1_cover.jpg)<br>《杖与剑的魔剑谭》是由日本漫画家青井圣作画、大森藤野担任剧本创作的漫画作品，并有改编动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
