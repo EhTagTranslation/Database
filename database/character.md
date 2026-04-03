@@ -8981,6 +8981,7 @@ example:
 | kurumi mirai | 可露米·未来 | ![](https://lain.bgm.tv/r/400/pic/crt/l/30/bf/158504_crt_533Gu.jpg?r=1717038341)<br>所属作品：`mahoutsukai ni narenakatta onnanoko no hanashi` |  |
 | minami suzuki | 美奈海·铃树 | ![](https://lain.bgm.tv/r/400/pic/crt/l/35/46/161086_crt_PLI82.jpg?r=1721310392)<br>所属作品：`mahoutsukai ni narenakatta onnanoko no hanashi` |  |
 | rabu komakaze | 河驹风兰舞 |  |  |
+| alma judikhali | 阿妮玛·尤迪卡雷 | ![](https://static.wikia.nocookie.net/talker/images/2/28/Alma_Judikhali_anime_design.png)<br>所属作品：`saikyou no shienshoku wajutsushi de aru ore wa sekai saikyou clan wo shitagaeru`<br>日语：アルマ・イウディカーレ | [Bangumi](https://bgm.tv/character/156048) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
