@@ -1892,7 +1892,7 @@ example:
 | ryuu no kinyoubi | 龍の金曜日 |  |  |
 | kuusoubune | 空想舟 |  |  |
 | perorimeshi. | ぺろり飯。 |  |  |
-| coupe pain ginga | こっぺぱん銀河 |  |  |
+| coupe pain ginga | こっぺぱん銀河 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG59348.html) |
 | kimi no tomodachi. | 君の友達。 |  |  |
 | mugendai | ムゲンダイ |  |  |
 | sanshikisumire | さんしきすみれ |  |  |
