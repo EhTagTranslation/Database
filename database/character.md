@@ -9004,6 +9004,7 @@ example:
 | elfaria albis serfort | 艾尔菲利亚·阿尔薇丝·塞尔弗特 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/3/3f/Elfaria_Albis_Serfort_Character_KV.png)<br>所属作品：`tsue to tsurugi no wistoria`<br>日语：エルフアリア・アルグィス・セルフオルト |  |
 | colette loire | 柯蕾特·卢瓦尔 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/5/51/Colette_Loire1_Anime_Character_Render.png)<br>所属作品：`tsue to tsurugi no wistoria`<br>日语：コレット・ロワール |  |
 | mayuri hanyuu | 羽生真由梨 | ![](https://static.wikia.nocookie.net/25-dimensional-seduction/images/d/da/Hanyū_Mayuri_Anime.png)<br>所属作品：`2.5-jigen no yuuwaku`<br>日语：羽生まゆり |  |
+| aria kisaki | 喜咲亚理亚 | ![](https://static.wikia.nocookie.net/25-dimensional-seduction/images/6/61/Kisaki_Aria_Anime.png)<br>![](https://static.wikia.nocookie.net/25-dimensional-seduction/images/3/3c/Kisaki_Aria_%28Ariel%29_Anime.png)<br>所属作品：`2.5-jigen no yuuwaku`<br>日语：喜咲アリア |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
