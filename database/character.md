@@ -14,9 +14,11 @@ copyright: >
   3.0 协议）进行二次分发。
 rules:
   - 优先使用官方译名，无官方译名时可以使用公认的中文名称，本命名空间**暂不接受日文名称**。
-  - 推荐使用[萌娘百科](https://zh.moegirl.org.cn/)，或百度百科、[Fandom](https://www.fandom.com/)，维基百科查找译名。
+  - >-
+    推荐使用[萌娘百科](https://zh.moegirl.org.cn/)，或百度百科、[Fandom](https://www.fandom.com/)，维基百科查找译名。
   - 添加图片请使用图床，优先使用官方的角色形象及广泛使用的二创形象，不要使用含有色情或暴力等违法内容的图片。
-  - 因萌娘百科服务器压力过大，建议使用[Fandom](https://www.fandom.com/)的图片链接，也可以使用私人上传的图床如[流浪图床](https://p.sda1.dev/)。
+  - >-
+    因萌娘百科服务器压力过大，建议使用[Fandom](https://www.fandom.com/)的图片链接，也可以使用私人上传的图床如[流浪图床](https://p.sda1.dev/)。
   - 介绍角色日语名时，请不要将日语、片假名与罗马音混合，这会导致无法有效检索。
   - 介绍角色时请**不要添加剧透**，以及大篇幅的文本，这会降低关联检索效率。
 example:
@@ -8996,6 +8998,7 @@ example:
 | manaka roba | 炉场爱花 | ![](https://static.wikia.nocookie.net/medalisttest/images/0/08/Manaka_Roba_Anime.png)<br>所属作品：`medalist`<br>日语：炉場まなか |  |
 | rinna sarukawa | 申川凛奈 | ![](https://static.wikia.nocookie.net/medalisttest/images/5/5b/Rinna_Sarukawa_Anime.png)<br>所属作品：`medalist`<br>日语：申川りんな |  |
 | nova terra | 诺娃·泰拉 | ![](https://static.wikia.nocookie.net/starcraft/images/1/1b/Nova_Heroes_Art1.jpg)<br>所属作品：`starcraft` |  |
+| the queen of hatred | 憎恶女王 | ![](https://static.wikia.nocookie.net/lobotomycorp/images/e/ed/Queen_of_Hatred_Crop.png)<br>所属作品：`lobotomy corporation` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
