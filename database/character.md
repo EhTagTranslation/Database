@@ -8991,6 +8991,7 @@ example:
 | ema yamato | 大和绘马 | ![](https://static.wikia.nocookie.net/medalisttest/images/a/af/Ema_Yamato_Anime_2.png)<br>所属作品：`medalist` |  |
 | suzu kamoto | 鹿本铃 | ![](https://static.wikia.nocookie.net/medalisttest/images/7/7c/Suzu_Kamoto_Anime_2.png)<br>所属作品：`medalist`<br>日语：鹿本すず |  |
 | manaka roba | 炉场爱花 | ![](https://static.wikia.nocookie.net/medalisttest/images/0/08/Manaka_Roba_Anime.png)<br>所属作品：`medalist`<br>日语：炉場まなか |  |
+| rinna sarukawa | 申川凛奈 | ![](https://static.wikia.nocookie.net/medalisttest/images/5/5b/Rinna_Sarukawa_Anime.png)<br>所属作品：`medalist`<br>日语：申川りんな |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
