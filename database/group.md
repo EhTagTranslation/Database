@@ -11605,7 +11605,7 @@ example:
 | tsurumachi | 鶴町 |  |  |
 | tsurumiku | つるみく |  |  |
 | tsurupeta kenkyuusho | つるぺた研究所 |  |  |
-| tsurutsuru ippai | つるつるいっぱい |  |  |
+| tsurutsuru ippai | つるつるいっぱい |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75681/) |
 | tsurutsuru pain | つるつるぱいん |  |  |
 | tsutakazura mau mau | ツタカズラまうまう |  |  |
 | tsutsumorien | 筒森園 |  |  |
