@@ -6638,7 +6638,7 @@ example:
 | shushu suruga | 骏河朱朱 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/2/20/Shushu_Suruga_S2.webp)<br>所属作品：`mato seihei no slave`<br>七番组成员，好奇心旺盛的少女，能力为“玉体革命”。 | [萌娘百科](https://zh.moegirl.org.cn/骏河朱朱) |
 | yuuki wakura | 和仓优希 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/4/41/Yuuki_Wakura_S2.webp)<br>所属作品：`mato seihei no slave`<br>因魔都灾害被转移至魔都，遭丑鬼袭击时被京香解救，通过“无穷之锁”契约成为其“奴隶”加入魔防队。 | [萌娘百科](https://zh.moegirl.org.cn/和仓优希) |
 | yumina urnea belfast | 由美娜·艾尔涅雅·贝尔法斯特 | ![](https://img.moegirl.org.cn/common/thumb/2/2f/Yumina_Ernea_Belfast_Anime.png/364px-Yumina_Ernea_Belfast_Anime.png)<br>所属作品：`isekai wa smartphone to tomo ni.`<br>贝尔法斯特王国的公主。 | [萌娘百科](https://zh.moegirl.org.cn/由美娜·艾尔涅雅·贝尔法斯特) |
-| mei mei | 冥冥 | ![](https://ehgt.org/w/02/070/90774-3dn5hcwi.webp)<br>出自作品：`p:jujutsu kaisen`<br><br>芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。五条悟的前辈，原东京都立咒术高专的辅助监督，1级咒术师；现为自由职业咒术师，在日本拥有多家企业的股份。通过家系入学高专。 | [萌娘百科](https://zh.moegirl.org.cn/冥冥%28咒术回战%29#) |
+| mei mei | 冥冥 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/a/a8/Mei_Mei_%28Anime_2%29.png)<br>出自作品：`p:jujutsu kaisen` | [萌娘百科](https://zh.moegirl.org.cn/冥冥%28咒术回战%29#) |
 | shizuku yaegashi | 八重㭴雫 | ![](https://i.pixiv.cat/img-master/img/2025/02/12/16/06/22/127160677_p0_master1200.jpg)<br>所属作品：`arifureta shokugyou de sekai saikyou`<br>南云始的同学，和白崎香织、天之河光辉、坂上龙太郎为青梅竹马。某天上课时全班被召唤而来到异世界托达斯，被召唤后的天职为“剑士”。 | [萌娘百科](https://zh.moegirl.org.cn/八重㭴雫) |
 | rei miyamoto | 宫本丽 | ![](https://ehgt.org/w/02/114/59002-8c0bs1s7.webp)<br>所属作品：`highschool of the dead` | [萌娘百科](https://zh.moegirl.org.cn/宫本丽) |
 | yukino mifuyu | 雪乃深冬 | ![](https://ehgt.org/w/02/115/45267-5y29tzzg.webp) |  |
