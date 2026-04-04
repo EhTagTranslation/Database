@@ -1218,7 +1218,7 @@ example:
 | p.l.t.works | P.L.T.works |  |  |
 | galaxy monooki | ギャラクシー物置 |  |  |
 | arikawadou | 有川堂 |  |  |
-| akatsuki souken | 晓创圈 |  |  |
+| akatsuki souken | 晓创圈 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01808.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=20243/) \| [DLsite](https://ci-en.dlsite.com/creator/766) |
 | ikaring | 乌贼轮 |  |  |
 | marvelous grace | Marvelous Grace |  |  |
 | muchi muchi seven | ムチムチ7 |  |  |
