@@ -3580,7 +3580,7 @@ example:
 | carnevale9 | CARNEVALE9 |  |  |
 | carol works | Carol Works |  |  |
 | carpaccio | カルパッチョ |  |  |
-| carrot | きゃろっと |  |  |
+| carrot | きゃろっと |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27127/) |
 | carrot academy | キャロットアカデミー |  |  |
 | carrot caramel batake | きゃろっときゃらめる畑 |  |  |
 | carrot works | きゃろっとワークス |  |  |
