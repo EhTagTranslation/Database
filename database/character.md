@@ -9008,6 +9008,7 @@ example:
 | krasny kavkaz | 红色山脉 | ![](https://azurlane.netojuu.com/images/thumb/5/5f/Krasny_Kavkaz.png/1146px-Krasny_Kavkaz.png?20260227042046)<br>所属作品：`azur lane` |  |
 | kirara hoshi | 星绮罗罗 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/2/21/Kirara_Hoshi_%28Anime%29.png)<br>所属作品：`jujutsu kaisen`<br>日语：星綺羅羅 |  |
 | mai zenin | 禅院梅 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/86/Mai_Zen%27in_%28Anime_4%29.png)<br>所属作品：`jujutsu kaisen` |  |
+| saitou | Saitou | 所属作品：`jujutsu kaisen` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
