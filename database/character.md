@@ -9005,6 +9005,7 @@ example:
 | colette loire | 柯蕾特·卢瓦尔 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/5/51/Colette_Loire1_Anime_Character_Render.png)<br>所属作品：`tsue to tsurugi no wistoria`<br>日语：コレット・ロワール |  |
 | mayuri hanyuu | 羽生真由梨 | ![](https://static.wikia.nocookie.net/25-dimensional-seduction/images/d/da/Hanyū_Mayuri_Anime.png)<br>![](https://static.wikia.nocookie.net/25-dimensional-seduction/images/a/a3/Hanyū_Mayuri_%28Lustalotte%29_Anime.png)<br>所属作品：`2.5-jigen no yuuwaku`<br>日语：羽生まゆり |  |
 | aria kisaki | 喜咲亚理亚 | ![](https://static.wikia.nocookie.net/25-dimensional-seduction/images/6/61/Kisaki_Aria_Anime.png)<br>![](https://static.wikia.nocookie.net/25-dimensional-seduction/images/3/3c/Kisaki_Aria_%28Ariel%29_Anime.png)<br>所属作品：`2.5-jigen no yuuwaku`<br>日语：喜咲アリア |  |
+| krasny kavkaz | 红色山脉 | ![](https://azurlane.netojuu.com/images/thumb/5/5f/Krasny_Kavkaz.png/1146px-Krasny_Kavkaz.png?20260227042046)<br>所属作品：`azur lane` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
