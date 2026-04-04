@@ -3850,7 +3850,7 @@ example:
 | circle sigma | Circle Σ |  |  |
 | circle six | circle six |  |  |
 | slave | SLAVE |  |  |
-| circle spice | さーくるスパイス |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70599/) |
+| circle spice | さーくるスパイス |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70599/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG25896.html) \| [DLsite](https://ci-en.dlsite.com/creator/5854) \| [toranoana](https://ec.toranoana.jp/tora_r/ec/app/catalog/list?actorKindId=作家★☆★ACTR000000142527) |
 | circle streak | CIRCLE STREAK |  |  |
 | tintin | TinTin |  |  |
 | circle trident | Circle Trident |  |  |
