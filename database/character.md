@@ -7137,7 +7137,7 @@ example:
 | shion hoshino | 星野汐音 | 所属作品：`shuumatsu no harem` |  |
 | nidhoggr | 尼德霍格 | ![](https://ehgt.org/w/01/879/93022-4wjv1yz5.webp)<br>所属作品：`fire emblem heroes` |  |
 | nate argente loup mitotsudaira | 奈特·弥托黛拉 | ![](https://ehgt.org/w/02/085/61060-ctxppz2c.webp)<br>所属作品：`kyoukai senjou no horizon` |  |
-| utahime iori | 庵歌姬 | ![](https://ehgt.org/w/01/907/06450-828sstqp.webp)<br>所属作品：`jujutsu kaisen` |  |
+| utahime iori | 庵歌姬 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/b/b0/Utahime_Iori_%28Anime_2%29.png)<br>所属作品：`jujutsu kaisen` |  |
 | pieck finger | 皮克·芬格尔 | ![](https://ehgt.org/w/01/897/46094-egy9wqrb.webp)<br>所属作品：`shingeki no kyojin` |  |
 | zetton | 芝顿 |  |  |
 | andromeda | 安德洛墨达 | 所属作品：`fate grand order` |  |
