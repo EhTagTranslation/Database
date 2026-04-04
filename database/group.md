@@ -13842,6 +13842,7 @@ example:
 | omochi no mochi-ya | おもちのもち屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01032668.html) |
 | muripoyo | むりぽよ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG69755.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=205699/) |
 | morintomeme | モリントメメ |  |  |
+| 38.5 c | 38.5℃ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72964/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
