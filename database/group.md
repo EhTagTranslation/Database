@@ -9785,7 +9785,7 @@ example:
 | rocket kyoudai | ロケット兄弟 |  |  |
 | rocket nenryou 21 | ロケット燃料★21 |  |  |
 | rockinchair | ROCK\`inChair |  |  |
-| rocomani | ろこまに |  |  |
+| rocomani | ろこまに |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78733/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47800.html) |
 | rocoroto | ロコロト |  |  |
 | rodeo | ■RODEO |  |  |
 | rodiura. | ろぢうら。 |  |  |
