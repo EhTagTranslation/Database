@@ -9007,6 +9007,7 @@ example:
 | aria kisaki | 喜咲亚理亚 | ![](https://static.wikia.nocookie.net/25-dimensional-seduction/images/6/61/Kisaki_Aria_Anime.png)<br>![](https://static.wikia.nocookie.net/25-dimensional-seduction/images/3/3c/Kisaki_Aria_%28Ariel%29_Anime.png)<br>所属作品：`2.5-jigen no yuuwaku`<br>日语：喜咲アリア |  |
 | krasny kavkaz | 红色山脉 | ![](https://azurlane.netojuu.com/images/thumb/5/5f/Krasny_Kavkaz.png/1146px-Krasny_Kavkaz.png?20260227042046)<br>所属作品：`azur lane` |  |
 | kirara hoshi | 星绮罗罗 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/2/21/Kirara_Hoshi_%28Anime%29.png)<br>所属作品：`jujutsu kaisen`<br>日语：星綺羅羅 |  |
+| mai zenin | 禅院梅 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/86/Mai_Zen%27in_%28Anime_4%29.png)<br>所属作品：`jujutsu kaisen` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
