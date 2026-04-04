@@ -745,7 +745,7 @@ example:
 | amanatsu mero | 甘夏メロ |  |  |
 | sayika | Sayika |  |  |
 | rihito akane | りひと茜 |  |  |
-| abe inori | 阿部いのり |  |  |
+| abe inori | 阿部いのり |  | [FANZA](https://book.dmm.co.jp/list/?author=25911) |
 | akuochisukii sensei | アクオチスキー先生 |  |  |
 | ameyama denshin | 雨山电信 | 雨山電信 |  |
 | aoyama mayama | 青山まやま |  |  |
