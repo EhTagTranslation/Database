@@ -3532,7 +3532,7 @@ example:
 | cabbage box | キャベツBOX |  |  |
 | cabbage soft | きゃべつそふと |  |  |
 | cabbit | Cabbit |  |  |
-| caburibbon | caburibbon |  |  |
+| caburibbon | caburibbon |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45733.html) |
 | cacao | カカオ |  |  |
 | cactus | Cactus |  |  |
 | cafe atagawa | カフェあたがわ |  |  |
