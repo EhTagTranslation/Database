@@ -13086,7 +13086,7 @@ example:
 | chouya waneko | 蝶屋和猫 |  |  |
 | horenso metro | ほうれん草メトロ |  |  |
 | devils tongue | Devil’s Tongue |  |  |
-| rampel | らんぺる |  |  |
+| rampel | らんぺる |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01005413.html) \| [DLsite](https://ci-en.dlsite.com/creator/22387) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=208767/) \| [X](https://x.com/doopliss_18) \| [pixiv](https://www.pixiv.net/users/26952766) \| [FANBOX](https://doopliss.fanbox.cc/) |
 | torinosu | 鸟之巢 |  |  |
 | kyou majo | 京まじょ！ |  |  |
 | yokaranu yakara | よからヌ夜空 |  |  |
