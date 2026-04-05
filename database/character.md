@@ -1158,7 +1158,7 @@ example:
 | jinta yadomi | 宿海仁太 |  |  |
 | atsumu matsuyuki | 松雪集 |  |  |
 |  | ▼ 粗点心战争 角色 |  |  |
-| hotaru shidare | 枝垂萤 |  |  |
+| hotaru shidare | 枝垂萤 | ![](https://ehgt.org/w/02/189/73679-u802n394.webp)<br>出自作品：`p:dagashi kashi`<br><br>枝垂萤是琴山创作的漫画《粗点心战争》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/枝垂萤) |
 | kokonotsu shikada | 鹿田九 |  |  |
 | saya endou | 远藤沙耶 | 远藤沙耶 (Endou Saya) 是琴山创作的漫画《粗点心战争》(英语：Dagashi Kashi)及其衍生的动画等作品的登场角色。<br>![](https://thumbsnap.com/i/m4BnqNFX.jpg) | [萌娘百科](https://zh.moegirl.org.cn/远藤沙耶) |
 | hajime owari | 尾张一 |  |  |
