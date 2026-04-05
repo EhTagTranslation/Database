@@ -386,7 +386,7 @@ example:
 | tear drop | Tear Drop |  |  |
 | 434notfound | 434 Not Found |  |  |
 | hikiwari nattou | ひきわり納豆 |  |  |
-| hirahira | ひらひら |  |  |
+| hirahira | ひらひら |  | [toranoana](https://ec.toranoana.jp/tora_r/ec/cot/circle/MUPA4D6P8476dD6Pd687/all/) \| [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=14972) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75561/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG39732/) |
 | yasakaninomagatama | 八坂琼曲玉 |  |  |
 | kansen shoujo | 甘泉少女 |  |  |
 | yuzuponz | ゆずぽん酢 |  |  |
