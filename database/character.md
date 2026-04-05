@@ -3454,7 +3454,7 @@ example:
 | akari fujisaki | 藤崎明 |  |  |
 | tetsuo kaga | 加贺铁男 |  |  |
 | asumi nase | 奈濑明日美 |  |  |
-| mitsuko shindo | 进藤美津子 |  |  |
+| mitsuko shindo | 进藤美津子 | ![](https://ehgt.org/w/01/861/08671-g5x7tgt1.webp)<br>出自作品：`p:hikaru no go`<br><br>日本漫画《棋魂》及其衍生作品中的角色。 | [百度百科](https://baike.baidu.com/item/进藤美津子/2582278) |
 | yuki mitani | 三谷祐辉 |  |  |
 | kimihiro tsutsui | 筒井公宏 |  |  |
 | yoko ritona | 优子 | 所属作品 `p:tengen toppa gurren lagann`<br>![图](https://ehgt.org/95/52/9552e39c309b1c22b341abae6e5284f4d758d0e5-148248-491-700-jpg_l.jpg) |  |
