@@ -2419,7 +2419,7 @@ example:
 | tsunade | 纲手 | ![](https://img.moegirl.org.cn/common/4/48/Tsunade.jpg)<br>本名:	綱手（つなで）(Tsunade)<br>別號:	綱手公主、綱手婆婆、蛞蝓公主、綱手姬、第五代火影<br>髮色:	黃髮<br>瞳色:	褐瞳<br>身高:	163.1cm<br>體重:	48.9kg<br>三圍:	B:106W:62H:90 |  |
 | anko mitarashi | 御手洗红豆 |  |  |
 | ino yamanaka | 山中井野 | ![](https://ehgt.org/w/02/191/97019-40996tm1.webp)<br>出自作品：`p:naruto`<br><br>山中井野是岸本齐史所创作的漫画《火影忍者》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/山中井野) |
-| kurotsuchi | 黑土 |  |  |
+| kurotsuchi | 黑土 | ![](https://ehgt.org/w/02/095/64807-k837jwyv.webp)<br>黑土是岸本齐史所创作的漫画《火影忍者》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/黑土%28火影忍者%29) |
 | sarada uchiha | 宇智波佐良娜 | ![](https://ehgt.org/w/01/665/84832-jxnb1wuo.webp)<br>出自作品：`p:boruto`<br><br>宇智波佐良娜（日语：うちは サラダ）是漫画《BORUTO》及其衍生作品的登场角色。<br>初登场于前作《火影忍者》漫画最终话，在短篇《火影忍者外传~七代目火影与绯色花月~》担任主人公。<br>名字有莎拉娜、佐良娜、纱罗妲等多种翻译。名字的日文在日语中是食物“沙拉”之意。 | [萌娘百科](https://zh.moegirl.org.cn/宇智波佐良娜) |
 | tayuya | 多由也 |  |  |
 | temari | 手鞠 | ![](https://ehgt.org/w/01/916/37419-4w1ltybq.webp)<br>出自作品：`p:naruto`<br><br>手鞠，女，日本漫画《火影忍者》及其衍生作品中的角色。风之国砂隐村的女忍者，第四代风影罗砂的长女，第五代风影我爱罗和勘九郎的姐姐。性格爽朗，擅长使用三星扇进行大范围的远程风遁忍术攻击。后与木叶的奈良鹿丸结亲，并育有一子奈良鹿戴。 | [百度百科](https://baike.baidu.com/item/手鞠/19307) |
