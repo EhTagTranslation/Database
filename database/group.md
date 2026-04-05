@@ -13460,7 +13460,7 @@ example:
 | gin eiji | 銀エイジ | `a:gin eiji`使用的同人社团名 |  |
 | studio m3 | studio えむすり |  |  |
 | miura koudai | 三浦鋼大 |  |  |
-| doron | どろん |  |  |
+| doron | どろん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01033136.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=218947/) |
 | emuo koubou | えむお工房 |  |  |
 | kuishinbou | くいしん房 |  |  |
 | sanman sanzen koiking | 三万三千こいきんぐ |  |  |
