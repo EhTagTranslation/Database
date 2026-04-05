@@ -2303,7 +2303,7 @@ example:
 | wonderful precure | 美妙宠物 光之美少女 | 《美妙宠物 光之美少女》（日语：わんだふるぷりきゅあ！，英语：WonderfulPrecure!，简称“わんぷり”）是由东堂泉制作的魔法少女动画，<br>为“光之美少女系列”第二十一作，第十九代光之美少女，2024年2月4日在全日本新闻网的电视台播放。 |  |
 | katsute mahou shoujo to aku wa tekitai shite ita. | 魔法少女与邪恶曾经敌对。 |  | [维基百科](https://zh.wikipedia.org/wiki/曾經、魔法少女和邪惡相互為敵。) |
 | maplestory | 冒险岛 | 《冒险岛(新楓之谷)》（韩语：메이플스토리，英语：MapleStory）是一款横向卷轴平面动作操作的免费大型多人在线角色扮演游戏，由韩国Wizet开发。 | [维基百科](https://zh.wikipedia.org/wiki/新楓之谷) |
-| tengoku daimakyou | 天国大魔境 |  |  |
+| tengoku daimakyou | 天国大魔境 | 日本漫画家石黑正数创作的科幻冒险漫画，并有改编动画。 |  |
 | black myth wukong | 黑神话：悟空 |  | [萌娘百科](https://zh.moegirl.org.cn/黑神话：悟空) |
 | h2o footprints in the sand | H2O 沙中足迹 |  | [https://zh.m.wikipedia.org/wiki/H2O\_-FOOTPRINTS\_IN\_THE\_SAND-](https://zh.wikipedia.org/wiki/H2O_-FOOTPRINTS_IN_THE_SAND-)<br>[https://www.makura-soft.com/h2o/](https://www.makura-soft.com/h2o/)<br>[https://www.makura-soft.com/AAA/index.htm](https://www.makura-soft.com/AAA/index.htm)<br>[萌娘百科](https://zh.moegirl.org.cn/H2O_-沙中足迹-http://m.iqiyi.com/lib/m_206265214.html)<br>[百度百科](https://baike.baidu.com/item/H2O%20赤砂印记/17021792) |
 | shikanoko nokonoko koshitantan | 鹿乃子乃子虎视眈眈 | 《鹿乃子乃子虎视眈眈》（日语：しかのこのこのここしたんたん）是おしおしお创作的一部搞笑漫画，有动画等衍生作品。<br>![](https://img.moegirl.org.cn/common/6/62/鹿乃子乃子虎视眈眈01.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鹿乃子乃子虎视眈眈) |
