@@ -463,7 +463,7 @@ example:
 | mon-mon | MON-MON |  |  |
 | kohoshi moe | 小星萌 |  |  |
 | kurumiko | 胡桃子 |  |  |
-| hirari | ひらり |  |  |
+| hirari | ひらり |  | [pixiv](https://www.pixiv.net/users/8934942) \| [Fantia](https://fantia.jp/hirari) \|  [FANBOX](https://hirari.fanbox.cc/) |
 | aoi nagisa | 葵渚 |  |  |
 | alde hyde | アルデヒド | 醛-アルデヒド-aldehyde<br>アルデヒド /aldehyde<br>![](https://i.pixiv.cat/user-profile/img/2011/03/26/23/38/26/2919602_6bef42a978de006f30762fc59d438935_170.jpg)<br>アルデヒド＠日曜日め63a<br>@alde\_hyde | [哔哩哔哩](https://space.bilibili.com/1205070298)<br>[pixiv](https://www.pixiv.net/users/578571)<br>[X](https://x.com/alde_hyde)<br>[Fantia](https://fantia.jp/fanclubs/2931) |
 | mutsuno hexa | 六ツ野へきさ |  |  |
