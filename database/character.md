@@ -9014,6 +9014,7 @@ example:
 | mash burnedead | 马修·班地德 | ![](https://static.wikia.nocookie.net/mashle/images/6/6b/Mash_Burnedead_anime_design.png)<br>所属作品：`mashle`<br>日语：マッシュ・バーンデッド |  |
 | lemon irvine | 蕾蒙·埃尔文 | ![](https://static.wikia.nocookie.net/mashle/images/7/7b/Lemon_Irvine_anime_design.png)<br>所属作品：`mashle`<br>日语：レモン・アーヴィン |  |
 | kiruko | 斩子 | ![](https://static.wikia.nocookie.net/heavenly-delusion/images/1/1b/Kiruko.png)<br>所属作品：`tengoku daimakyou`<br>日语：キルコ |  |
+| till | 蒂儿 | ![](https://lain.bgm.tv/r/400/pic/crt/l/fe/aa/182564_crt_gd2Y5.jpg)<br>所属作品：`okiraku ryoushu no tanoshii ryouchi bouei` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
