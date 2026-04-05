@@ -9011,6 +9011,7 @@ example:
 | saitou | 斋藤老师 | ![](https://ehgt.org/w/01/887/46970-fe2rshcd.webp)<br>所属作品：`jujutsu kaisen`<br>日语：斎藤さん |  |
 | beatrix amerhauser | 贝雅托里斯·阿默豪瑟 | ![](https://ehgt.org/w/01/897/97839-3p8gui7r.webp)<br>所属作品：`zom 100 zombie ni naru made ni shitai 100 no koto`<br>日语：ベアトリクス・アメルハウザ |  |
 | saori ootori | 凤沙织 | ![](https://ehgt.org/w/02/302/14844-cb0c7bwb.webp)<br>所属作品：`zom 100 zombie ni naru made ni shitai 100 no koto`<br>日语：鳳沙織 |  |
+| mash burnedead | 马修·班地德 | ![](https://static.wikia.nocookie.net/mashle/images/6/6b/Mash_Burnedead_anime_design.png)<br>所属作品：`mashle`<br>日语：マッシュ・バーンデッド |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
