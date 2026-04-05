@@ -9010,6 +9010,7 @@ example:
 | mai zenin | 禅院梅 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/86/Mai_Zen%27in_%28Anime_4%29.png)<br>所属作品：`jujutsu kaisen` |  |
 | saitou | 斋藤老师 | ![](https://ehgt.org/w/01/887/46970-fe2rshcd.webp)<br>所属作品：`jujutsu kaisen`<br>日语：斎藤さん |  |
 | beatrix amerhauser | 贝雅托里斯·阿默豪瑟 | ![](https://ehgt.org/w/01/897/97839-3p8gui7r.webp)<br>所属作品：`zom 100 zombie ni naru made ni shitai 100 no koto`<br>日语：ベアトリクス・アメルハウザ |  |
+| saori ootori | 凤沙织 | ![](https://ehgt.org/w/02/302/14844-cb0c7bwb.webp)<br>所属作品：`zom 100 zombie ni naru made ni shitai 100 no koto`<br>日语：鳳沙織 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
