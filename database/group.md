@@ -8713,7 +8713,7 @@ example:
 | ns2k | ns2k |  |  |
 | dondondon | どんどんどん | NSG |  |
 | nt confess | NTconfess |  |  |
-| nt robo | NTラボ |  |  |
+| nt robo | NTラボ |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=45061) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG39864.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75602/) |
 | ntr king | NTR キング |  |  |
 | ntr suishin iinkai | NTR推進委員会 |  |  |
 | ntr system | NTRシステム |  |  |
