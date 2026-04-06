@@ -13846,6 +13846,7 @@ example:
 | aosuke no circle | あおすけのサークル |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48453.html) |
 | honey trap | はにーとらっぷ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG58196.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202871/) |
 | wasu no ie | ワスの家 |  |  |
+| rakuen tengoku | 楽園天国 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
