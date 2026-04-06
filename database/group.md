@@ -2440,7 +2440,7 @@ example:
 | 86 saver | 86 SAVER |  |  |
 | 86cafe | 86珈琲店 |  |  |
 | 88scones | 88scones |  |  |
-| 8cm | 8cm |  |  |
+| 8cm | 8cm |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71872/) |
 | 8graphica | エイトグラフィカ |  |  |
 | 8ji sugi | 8時すぎ |  |  |
 | 93bangai | 93番街 |  |  |
