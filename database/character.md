@@ -9022,6 +9022,7 @@ example:
 | ohana matsumae | 松前绪花 | ![](https://static.wikia.nocookie.net/hanasakuiroha/images/d/da/Iroha_Matsumae.gif)<br>所属作品：`hanasaku iroha`<br>日语：松前緒花 |  |
 | minko tsurugi | 鹤来民子 | ![](https://static.wikia.nocookie.net/hanasakuiroha/images/2/2a/Minko_Tsurugi.gif)<br>所属作品：`hanasaku iroha`<br>日语：鶴来民子 |  |
 | kanon nakagawa | 中川奏音 | ![](https://lain.bgm.tv/r/400/pic/crt/l/00/1c/11259_crt_2G1CU.jpg?r=1378924332)<br>所属作品：`the world god only knows`<br>日语：中川かのん |  |
+| ayumi takahara | 高原步美 | ![](https://lain.bgm.tv/r/400/pic/crt/l/34/18/11258_crt_Z8cUx.jpg?r=1378923920)<br>所属作品：`the world god only knows`<br>日语：たかはらあゆみ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
