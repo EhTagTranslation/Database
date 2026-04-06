@@ -2715,7 +2715,7 @@ example:
 | fumina hoshino | 星野文奈 | ![](https://ehgt.org/w/02/099/57529-ismi5mnn.webp)<br>所属作品：`gundam build fighters try` |  |
 | angela balzac | 安吉拉·巴尔扎克 | 所属作品: `p:expelled from paradise`<br><br>![](https://static.wikia.nocookie.net/rakuen-tsuiho/images/d/df/Angela_Balzac.jpg) | [萌娘百科](https://zh.moegirl.org.cn/安吉拉·巴尔扎克) [Fandom](https://rakuen-tsuiho.fandom.com/wiki/Angela_Balzac) |
 | yanagi takayama | 高山柳 |  |  |
-| nako oshimizu | 押水菜子 |  |  |
+| nako oshimizu | 押水菜子 | ![](https://static.wikia.nocookie.net/hanasakuiroha/images/2/2b/Nako_Oshimizu.gif)<br>所属作品：`hanasaku iroha`<br>日语：押水菜子 |  |
 | sawa okita | 冲田纱羽 |  |  |
 | bloodberry | 红莓 |  |  |
 | cherry | 樱桃 |  |  |
