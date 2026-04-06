@@ -9037,6 +9037,7 @@ example:
 | tooru amami | 天美透 | ![](https://static.wikia.nocookie.net/kaminomi/images/4/4a/Tooru.jpg)<br>所属作品：`the world god only knows` |  |
 | fabiola iglesias | 法碧欧拉・伊格雷西亚斯 | ![](https://static.wikia.nocookie.net/lagooncompany/images/3/3f/424676-fabiola_iglesias_super.jpg)<br>出自作品：`p:black lagoon` | [Fandom](https://hero.fandom.com/wiki/Fabiola_Iglesias) |
 | garcia lovelace | 格鲁西亚·费尔南多·拉布雷斯 | ![](https://bkimg.cdn.bcebos.com/pic/472309f79052982293265b7ad1ca7bcb0a46d476?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080)<br>出自作品：`p:black lagoon` | [百度百科](https://baike.baidu.com/item/格鲁西亚·费尔南多·拉布雷斯/16859598) |
+| marth | 马尔斯 | ![](https://static.wikia.nocookie.net/fireemblem/images/5/5a/MarthFE3DS.png)<br>马尔斯（Marth、マルス） 是火焰之纹章系列游戏中的角色。 | [Fandom](https://fireemblem.fandom.com/zh/wiki/馬爾斯?variant=zh-hans) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
