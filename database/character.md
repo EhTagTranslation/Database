@@ -9026,6 +9026,7 @@ example:
 | haqua du lot herminium | 哈克雅·杜·罗德·赫尔梅尼姆 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b3/56/13331_crt_XnnzZ.jpg?r=1378921597)<br>所属作品：`the world god only knows` |  |
 | elucia de lute ima | 艾利由西亚·D·鲁德·伊玛 | ![](https://lain.bgm.tv/r/400/pic/crt/l/56/a2/11257_crt_ZbdIO.jpg?r=1378924067)<br>所属作品：`the world god only knows` |  |
 | keima katsuragi | 桂木桂马 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e5/33/780_crt_FtRvo.jpg?r=1378924028)<br>所属作品：`the world god only knows` |  |
+| yui goidou | 五位堂结 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b7/ec/13100_crt_51Zt5.jpg?r=1378924581)<br>所属作品：`the world god only knows`<br>日语：ごいどう ゆい |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
