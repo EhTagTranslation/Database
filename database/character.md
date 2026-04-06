@@ -9020,6 +9020,7 @@ example:
 | marche lorraine | 洛林军歌 | ![](https://static.wikia.nocookie.net/umamusume/images/7/7f/Marche_Lorraine_%28Race%29.png)<br>所属作品：`uma musume pretty derby` |  |
 | yuina wakura | 和仓结名 | ![](https://static.wikia.nocookie.net/hanasakuiroha/images/7/7f/Yuina_Wakura.gif)<br>所属作品：`hanasaku iroha`<br>日语：和倉結名 |  |
 | ohana matsumae | 松前绪花 | ![](https://static.wikia.nocookie.net/hanasakuiroha/images/d/da/Iroha_Matsumae.gif)<br>所属作品：`hanasaku iroha`<br>日语：松前緒花 |  |
+| minko tsurugi | 鹤来民子 | ![](https://static.wikia.nocookie.net/hanasakuiroha/images/2/2a/Minko_Tsurugi.gif)<br>所属作品：`hanasaku iroha`<br>日语：鶴来民子 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
