@@ -9030,6 +9030,7 @@ example:
 | kusunoki kasuga | 春日楠 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e4/5b/14039_crt_t4Az1.jpg?r=1378924227)<br>所属作品：`the world god only knows`<br>日语：かすがくすのき |  |
 | tenri ayukawa | 鲇川天理 | ![](https://lain.bgm.tv/r/400/pic/crt/l/20/6c/15151_crt_0t0Pr.jpg?r=1378924619)<br>所属作品：`the world god only knows` |  |
 | urara shiratori | 白鸟丽 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ac/04/138851_crt_yc6i6.jpg)<br>所属作品：`the world god only knows`<br>日语：白鳥麗 |  |
+| tsukiyo kujou | 九条月夜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/c3/2e/20078_crt_ey6Wl.jpg?r=1378924668)<br>所属作品：`the world god only knows` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
