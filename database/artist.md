@@ -15060,6 +15060,7 @@ example:
 | ika9 | ika9 |  | [pixiv](https://www.pixiv.net/users/120554605) \| [X](https://x.com/dakahumi) |
 | asamitsu fumi | あさみつ史 |  |  |
 | whesky | ウエスキー |  | [DLsite](https://ci-en.dlsite.com/creator/11481) \| [pixiv](https://www.pixiv.net/users/70235610) \| [X](https://x.com/whesky_ht) |
+| sukenyan | すけにゃん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
