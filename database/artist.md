@@ -3656,7 +3656,7 @@ example:
 | yoshika | ヨシカ |  |  |
 | uduki takeru | 卯月たける |  |  |
 | yunagi amane | 忧凪天音 |  |  |
-| nusmusbim | ナスムスビム |  |  |
+| nusmusbim | ナスムスビム |  | [pixiv](https://www.pixiv.net/users/647774) \| [FANBOX](https://nusmusbim.fanbox.cc/) \| [X](https://x.com/nusmusbim_ss) \| [Fantia](https://fantia.jp/fanclubs/9575) |
 | tatsu tairagi | 燵成 |  |  |
 | doemutan | どえむたん |  |  |
 | ooshima towa | 大島永遠 |  |  |
