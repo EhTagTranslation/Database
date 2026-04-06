@@ -13848,6 +13848,7 @@ example:
 | wasu no ie | ワスの家 |  |  |
 | rakuen tengoku | 楽園天国 |  |  |
 | hiiroism | ヒイロイズム |  |  |
+| peppy angel | PEPPY ANGEL |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
