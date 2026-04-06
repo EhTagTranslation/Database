@@ -6312,7 +6312,7 @@ example:
 | gummy | 古米 | ![](https://patchwiki.biligame.com/images/arknights/1/14/hcrrkpg4f6y5599cxyb55utd71xxbi5.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/古米) |
 | namazuo toushirou | 鲶尾藤四郎 | 所属作品: `p:touken ranbu` | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞:鲶尾藤四郎) |
 | honebami toushirou | 骨喰藤四郎 | 所属作品: `p:touken ranbu` | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞:骨喰藤四郎) |
-| shiori shiomiya | 汐宫栞 | 所属作品: `p:the world god only knows` | [萌娘百科](https://zh.moegirl.org.cn/汐宫栞) |
+| shiori shiomiya | 汐宫栞 | ![](https://lain.bgm.tv/r/400/pic/crt/l/26/9a/11260_crt_S2LC1.jpg?r=1378924317)<br>所属作品: `p:the world god only knows` | [萌娘百科](https://zh.moegirl.org.cn/汐宫栞) |
 | najimi osana | 长名奈津美 |  |  |
 | boothill | 波提欧 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/Character_Boothill_Splash_Art.png)<br>所属作品: `honkai star rail` | [Fandom](https://honkai-star-rail.fandom.com/zh/wiki/波提欧)<br>[萌娘百科](https://zh.moegirl.org.cn/波提欧) |
 | angelina kudou shields | 安洁莉娜·库都·希尔兹 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/11/07/55/31/129178446_p3_master1200.jpg)<br><br>所属作品: `p:mahouka koukou no rettousei`<br>和北山雫交换留学来到魔法科高中的USNA（北美利坚大陆合众国）高中生，拥有不世出的魔法技术的金发碧眼美少女。但其真实身份是世界顶级的魔法师部队【STARS】中的总队长，代号“天狼星”。 | [萌娘百科](https://zh.moegirl.org.cn/安洁莉娜·库都·希尔兹) |
