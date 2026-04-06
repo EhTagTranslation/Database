@@ -1840,7 +1840,7 @@ example:
 | muraimura | 村井村 |  |  |
 | apple effect | Apple Effect |  |  |
 | sukoburuyama | すこぶるやま |  |  |
-| otabe dynamites | おたべ★ダイナマイツ |  |  |
+| otabe dynamites | おたべ★ダイナマイツ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26472/) |
 | milk bar | MILK BAR |  |  |
 | chikuwa no wakka | ちくわのわっか |  |  |
 | nekoyashiki | 猫屋敷 |  |  |
