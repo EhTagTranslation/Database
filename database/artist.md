@@ -15063,6 +15063,7 @@ example:
 | sukenyan | すけにゃん |  |  |
 | fun fan | Funふぁん |  |  |
 | sakuratsuki rin | 桜月りん |  |  |
+| gran | GRAN |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
