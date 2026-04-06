@@ -7304,7 +7304,7 @@ example:
 | mahoro andou | 安藤麻幌 | 所属作品：`mahoromatic` |  |
 | aya natsume | 枣亚夜 | ![](https://pics0.baidu.com/feed/4bed2e738bd4b31c0fe075835e20fa709f2ff835.jpeg)<br>所属作品：`tenjou tenge` |  |
 | feldt grace | 菲露特·古蕾斯 | ![](https://ehgt.org/w/02/081/90347-alkpwljo.webp)<br>所属作品：`gundam 00` |  |
-| roberta | 罗贝尔特 | ![](https://ehgt.org/w/01/967/21666-6l2rwg5b.webp)<br>所属作品：`black lagoon` |  |
+| roberta | 罗贝尔特 | ![](https://ehgt.org/w/01/967/21666-6l2rwg5b.webp)<br>所属作品：`black lagoon` | [萌娘百科](https://zh.moegirl.org.cn/罗贝尔特) |
 | tiffania westwood | 蒂法妮娅 | ![](https://ehgt.org/w/01/959/88766-tjd2v7xj.webp)<br>所属作品：`zero no tsukaima`<br>日语名：ティファニア |  |
 | alexstrasza | 阿莱克斯塔萨 | 所属作品：魔兽世界<br>红龙女王 |  |
 | cassandra alexandra | 卡桑德拉 | ![](https://zurswtyclg.hath.network/om/182846461/115420a29b7f12069297cd676bb90031253dee01-1256880-832-1216-png/3f6bc1ba006e61b63752a018b693b87366cb6bc7-82060-800-1169-wbp/800/cvmvxsbjqunftf1tiza/0448.webp)<br>所属作品：`soulcalibur`<br>登场于《刀魂:失落之剑》 |  |
