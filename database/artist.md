@@ -15058,6 +15058,7 @@ example:
 | panic america | パニックアメリカ |  | [BOOTH](https://panicamerica.booth.pm/) \| [pixiv](https://www.pixiv.net/users/61813659) \| [X](https://x.com/Panic_America) |
 | hahakigi | ははきぎ |  | [FANBOX](https://www.fanbox.cc/@hagi0202) \| [pixiv](https://www.pixiv.net/users/30660337) |
 | ika9 | ika9 |  | [pixiv](https://www.pixiv.net/users/120554605) \| [X](https://x.com/dakahumi) |
+| asamitsu fumi | あさみつ史 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
