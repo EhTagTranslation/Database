@@ -8858,7 +8858,7 @@ example:
 | np | NP |  |  |
 | npo | んぽ |  |  |
 | ns | NS |  |  |
-| nt robo | NTロボ |  |  |
+| nt robo | NTロボ |  | [FANBOX](https://nt-robo.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/25137918) \| [X](https://x.com/NT_ROBO) |
 | nt00 | NT00 |  |  |
 | nu- | ぬー |  |  |
 | nucomas | ぬこマス |  |  |
