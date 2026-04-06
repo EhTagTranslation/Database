@@ -9018,6 +9018,7 @@ example:
 | kat | 凯特 | ![](https://static.wikia.nocookie.net/gravityrush/images/d/d6/Gravity-rush-remastered-two-column-01-ps4-eu-26oct15.png)<br>所属作品：`gravity rush`<br>全名：葛拉毕褆·琪顿 |  |
 | kirthia | 可丽希亚 | ![](https://storage.moegirl.org.cn/moegirl/commons/8/80/洛世界_可丽公主.png)<br>出自作品：`p:roco kingdom` | [Fandom](https://roco.fandom.com/zh/wiki/可丽希亚) \| [萌娘百科](https://zh.moegirl.org.cn/可丽希亚) |
 | marche lorraine | 洛林军歌 | ![](https://static.wikia.nocookie.net/umamusume/images/7/7f/Marche_Lorraine_%28Race%29.png)<br>所属作品：`uma musume pretty derby` |  |
+| yuina wakura | 和仓结名 | ![](https://static.wikia.nocookie.net/hanasakuiroha/images/7/7f/Yuina_Wakura.gif)<br>所属作品：`hanasaku iroha`<br>日语：和倉結名 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
