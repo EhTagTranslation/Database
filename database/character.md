@@ -9035,6 +9035,7 @@ example:
 | mio aoyama | 青山美生 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b6/c5/11227_crt_v52dn.jpg?r=1378924178)<br>所属作品：`the world god only knows` |  |
 | ikumi yoshino | 吉野郁美 | ![](https://static.wikia.nocookie.net/kaminomi/images/1/1c/Ikumo.jpg)<br>所属作品：`the world god only knows`<br>日语：吉野郁美 |  |
 | tooru amami | 天美透 | ![](https://static.wikia.nocookie.net/kaminomi/images/4/4a/Tooru.jpg)<br>所属作品：`the world god only knows` |  |
+| fabiola iglesias | 法碧欧拉・伊格雷西亚斯 | ![](https://static.wikia.nocookie.net/lagooncompany/images/3/3f/424676-fabiola_iglesias_super.jpg)<br>出自作品：`p:black lagoon` | [Fandom](https://hero.fandom.com/wiki/Fabiola_Iglesias) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
