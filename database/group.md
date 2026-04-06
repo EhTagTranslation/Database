@@ -2290,7 +2290,7 @@ example:
 | ntype | NtyPe | `a:mizoguchi keiji`从事同人活动的别名。 |  |
 | h.b | H・B |  |  |
 | star track | ★track |  |  |
-| o.s | O.S |  |  |
+| o.s | O.S |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG43793.html) |
 | wakame no oyatsu | Wakame no Oyatsu |  |  |
 | pantyhose | パンティーHOSE |  |  |
 | tomboy | TomBoy |  |  |
