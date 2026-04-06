@@ -444,7 +444,7 @@ example:
 | onegai twins | 拜托了☆双子星 | 《拜托了☆双子星》（日语：おねがい☆ツインズ）是一部日本动画作品，是《拜托了☆老师》的续篇。 | [维基百科](https://zh.wikipedia.org/wiki/拜託了☆雙子星) (\*) |
 | rinne no lagrange | 轮回的拉格朗日 |  |  |
 | monster musume no iru nichijou | 魔物娘的相伴日常 |  |  |
-| black lagoon | 黑礁 |  |  |
+| black lagoon | 黑礁 | ![](https://static.wikia.nocookie.net/lagooncompany/images/b/b1/Black_Lagoon.jpg)<br>《黑礁》（ブラックラグーン，BLACK LAGOON）是由广江礼威创作的一部漫画，并有动画、小说等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/黑礁) |
 | steven universe | 史帝芬宇宙 |  |  |
 | the legend of zelda | 塞尔达传说 |  |  |
 | totally spies | 少女特工组 |  |  |
