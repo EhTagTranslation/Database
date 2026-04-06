@@ -9034,6 +9034,7 @@ example:
 | chihiro kosaka | 小阪千寻 | ![](https://lain.bgm.tv/r/400/pic/crt/l/86/7b/14040_crt_Yvk4m.jpg?r=1378923886)<br>所属作品：`the world god only knows`<br>日语：小阪ちひろ |  |
 | mio aoyama | 青山美生 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b6/c5/11227_crt_v52dn.jpg?r=1378924178)<br>所属作品：`the world god only knows` |  |
 | ikumi yoshino | 吉野郁美 | ![](https://static.wikia.nocookie.net/kaminomi/images/1/1c/Ikumo.jpg)<br>所属作品：`the world god only knows`<br>日语：吉野郁美 |  |
+| tooru amami | 天美透 | ![](https://static.wikia.nocookie.net/kaminomi/images/4/4a/Tooru.jpg)<br>所属作品：`the world god only knows` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
