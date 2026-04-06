@@ -15062,6 +15062,7 @@ example:
 | whesky | ウエスキー |  | [DLsite](https://ci-en.dlsite.com/creator/11481) \| [pixiv](https://www.pixiv.net/users/70235610) \| [X](https://x.com/whesky_ht) |
 | sukenyan | すけにゃん |  |  |
 | fun fan | Funふぁん |  |  |
+| sakuratsuki rin | 桜月りん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
