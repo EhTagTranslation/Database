@@ -9028,6 +9028,7 @@ example:
 | keima katsuragi | 桂木桂马 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e5/33/780_crt_FtRvo.jpg?r=1378924028)<br>所属作品：`the world god only knows` |  |
 | yui goidou | 五位堂结 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b7/ec/13100_crt_51Zt5.jpg?r=1378924581)<br>所属作品：`the world god only knows`<br>日语：ごいどう ゆい |  |
 | kusunoki kasuga | 春日楠 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e4/5b/14039_crt_t4Az1.jpg?r=1378924227)<br>所属作品：`the world god only knows`<br>日语：かすがくすのき |  |
+| tenri ayukawa | 鲇川天理 | ![](https://lain.bgm.tv/r/400/pic/crt/l/20/6c/15151_crt_0t0Pr.jpg?r=1378924619)<br>所属作品：`the world god only knows` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
