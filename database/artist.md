@@ -15065,6 +15065,7 @@ example:
 | sakuratsuki rin | 桜月りん |  |  |
 | gran | GRAN |  |  |
 | inari mochi | 稲荷もち |  |  |
+| asteria | アステリア |  | [melonbooks](https://www.melonbooks.co.jp/search/search.php?name=アステリア&text_type=author) |
 
 <!--TEMPLATE:
 |  |  |  |  |
