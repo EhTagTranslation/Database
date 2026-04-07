@@ -12425,7 +12425,7 @@ example:
 | rhf migite no tomo sha | RHF=右手の友社 |  |  |
 | jurei no mori | 呪霊の杜 |  |  |
 | tsukitate-koubou | つきたて工房 |  |  |
-| aramaa | あらまあ |  |  |
+| aramaa | あらまあ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200006/) |
 | kazamidori | かざみどり | `a:footaro` |  |
 | m3 | M3 |  |  |
 | hiwa izumo taisha | 秘話出雲大社 |  |  |
