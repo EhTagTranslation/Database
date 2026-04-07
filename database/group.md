@@ -2239,7 +2239,7 @@ example:
 | mokumokusei | モクモクセイ |  |  |
 | junjou harinezumi | 纯情ハリネズミ |  |  |
 | miniomlet ongakudan | ミニオムレツ音楽団 |  |  |
-| baiuzensen | 梅雨前線 |  |  |
+| baiuzensen | 梅雨前線 |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=101440) |
 | nagomiyasan | なごみやさん |  |  |
 | kocc house | koccハウス |  |  |
 | hito no fundoshi | 人の裈 | ひとのふんどし，画师`yukiyoshi mamizu`所属社团。 | [HP](http://hitonohundoshi.sakura.ne.jp) |
