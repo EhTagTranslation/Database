@@ -13850,7 +13850,7 @@ example:
 | hiiroism | ヒイロイズム |  |  |
 | peppy angel | PEPPY ANGEL |  |  |
 | kuriimo souda | 栗芋操舵 |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=113293) |
-| empress | Empress |  | [mangagamer](https://www.mangagamer.com/r18/product_list.php?page=1&goods_type=1&company=Empress) |
+| empress | Empress |  | [mangagamer](https://www.mangagamer.com/r18/product_list.php?page=1&goods_type=1&company=Empress) \| [empress-game](https://www.empress-game.com/main.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
