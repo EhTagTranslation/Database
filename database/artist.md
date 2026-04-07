@@ -15067,6 +15067,7 @@ example:
 | inari mochi | 稲荷もち |  |  |
 | asteria | アステリア |  | [melonbooks](https://www.melonbooks.co.jp/search/search.php?name=アステリア&text_type=author) |
 | kuriimo pie | 栗芋パイ |  | [X](https://x.com/kuriimopie) \| [FANBOX](http://kuriimopie.fanbox.cc) \| [misskey](https://misskey.io/@kuriimopie) \| [pixiv](https://www.pixiv.net/users/83428006) |
+| ondoreanko mochi | おんどれあんこ餅 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22おんどれあんこ餅%22/ana_flg/all) |
 
 <!--TEMPLATE:
 |  |  |  |  |
