@@ -15064,6 +15064,7 @@ example:
 | fun fan | Funふぁん |  |  |
 | sakuratsuki rin | 桜月りん |  |  |
 | gran | GRAN |  |  |
+| inari mochi | 稲荷もち |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
