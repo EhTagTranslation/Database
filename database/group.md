@@ -13849,6 +13849,7 @@ example:
 | rakuen tengoku | 楽園天国 |  |  |
 | hiiroism | ヒイロイズム |  |  |
 | peppy angel | PEPPY ANGEL |  |  |
+| kuriimo souda | 栗芋操舵 |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=113293) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
