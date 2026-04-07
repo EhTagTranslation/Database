@@ -4677,7 +4677,7 @@ example:
 | emu otori | 凤笑梦 |  |  |
 | haruka kiritani | 桐谷遥 |  |  |
 | honami mochizuki | 望月穗波 |  |  |
-| ichika hoshino | 星乃一歌 |  |  |
+| ichika hoshino | 星乃一歌 | ![](https://storage.moegirl.org.cn/moegirl/commons/2/2b/星乃一歌2023.png)<br>出自作品：`p:project sekai`<br><br>星乃一歌（星乃 一歌  / ほしのいちか）是《世界计划 彩色舞台 feat. 初音未来》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/星乃一歌) |
 | kohane azusawa | 小豆泽心羽 |  |  |
 | minori hanasato | 花里实乃理 | ![](https://storage.moegirl.org.cn/moegirl/commons/c/c3/Sekai_minori01.png)<br>所属作品：`project sekai`<br>宫益坂女子学园的一年级生，是MORE MORE JUMP!的一员。 |  |
 | nene kusanagi | 草薙宁宁 |  |  |
