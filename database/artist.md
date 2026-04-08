@@ -15070,6 +15070,7 @@ example:
 | ondoreanko mochi | おんどれあんこ餅 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22おんどれあんこ餅%22/ana_flg/all) |
 | aisu no a | アイスのあ |  |  |
 | yubi | 指 |  |  |
+| kiduki sai | 綺月さい |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
