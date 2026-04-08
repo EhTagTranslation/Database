@@ -3562,7 +3562,7 @@ example:
 | milly ashford | 米蕾·阿什福德 | ![](https://patchwiki.biligame.com/images/loststories/d/db/q1ygrhf7i0090csppy80cmfzqufrnrq.png)<br>![](https://patchwiki.biligame.com/images/loststories/0/0d/mzujygl2cdzdsmyh26vvlmnhnman6d8.png)<br>![](https://patchwiki.biligame.com/images/loststories/9/94/bmdlb3gxbxotbze14yffxa33lw9xy2r.png)<br>所属作品：`code geass` |  |
 | anya alstreim | 阿妮亚·阿鲁斯特莱依姆 | ![](https://img.moegirl.org.cn/common/5/5e/Anya.jpg)<br>所属作品：`code geass`<br>布里塔尼亚皇帝直属的圆桌骑士团的第六骑士。 | [萌娘百科](https://zh.moegirl.org.cn/阿妮亚·阿鲁斯特莱依姆) (\*\*) |
 | kaguya sumeragi | 皇神乐耶 | ![](https://patchwiki.biligame.com/images/loststories/4/4b/by9xch95sirakj3t8rjhtzucb05l4he.png)<br>![](https://patchwiki.biligame.com/images/loststories/f/f4/5tbe5y5xra1fce8b70lwrvdvc1160lb.png)<br>![](https://patchwiki.biligame.com/images/loststories/3/38/dbwvumba989g2uix32hx0pezv3dp1wr.png)<br>所属作品：`code geass`<br>日语：すめらぎ かぐや | [萌娘百科](https://zh.moegirl.org.cn/皇神乐耶) |
-| krillin | 克林 |  |  |
+| krillin | 克林 | ![](https://static.wikia.nocookie.net/dragonball/images/5/54/Krillin_DB_Episode_134.png)<br>克林是由鸟山明所创作的漫画《龙珠》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/克林) |
 | rudeus greyrat | 鲁迪乌斯·格雷拉特 | ![](https://thumbsnap.com/i/Sg1dkUsv.jpg)<br>鲁迪乌斯·格雷拉特（日语：ルーデウス・グレイラット）是由理不尽な孫の手创作的轻小说《`p:mushoku tensei`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/鲁迪乌斯·格雷拉特) |
 | sylphiette | 希露菲叶特 | ![](https://ehgt.org/w/01/995/73446-adbcz41k.webp)<br>所属作品：`mushoku tensei` |  |
 | zamasu | 扎马斯 |  |  |
