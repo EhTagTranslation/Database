@@ -1726,7 +1726,7 @@ example:
 | miwako sato | 佐藤美和子 |  |  |
 | masumi sera | 世良真纯 | ![](https://static.wikia.nocookie.net/caseclosed/images/7/72/1600px-M18-Sera.jpg/revision/latest?cb=20250922045921)<br>所属作品：`detective conan` | [萌娘百科](https://zh.moegirl.org.cn/世良真纯) |
 |  | ▼ 龙珠系列 |  |  |
-| yamcha | 雅木茶 |  |  |
+| yamcha | 雅木茶 | ![](https://static.wikia.nocookie.net/dragonball/images/f/f3/Yamcha_manga.PNG)<br>雅木茶是由鸟山明所创作的漫画《龙珠》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/雅木茶) |
 | bulma briefs | 布尔玛 |  |  |
 | chi chi | 琪琪 | ![](https://ehgt.org/w/01/752/92597-brbdfl94.webp)<br>出自作品：`p:dragon ball`<br><br>琪琪（チチ、Chichi），女，日本漫画《龙珠》及其衍生作品中的角色。其首次登场于漫画《龙珠》第137话 。 | [百度百科](https://baike.baidu.com/item/琪琪/10204) |
 | son gohan | 孙悟饭 |  |  |
