@@ -9041,6 +9041,7 @@ example:
 | lena | 蕾娜 | ![](https://static.wikia.nocookie.net/fireemblem/images/5/54/Lena-FE1_Manual_Artwork.png)<br>蕾娜 (Lena / レナ) 是火焰之纹章系列游戏中的角色。 | [Fandom](https://fireemblem.fandom.com/wiki/Lena#:~:text=Profile-,Background,or%20constant%20pillages%20by%20bandits). |
 | medeus | 梅迪烏斯 | ![](https://static.wikia.nocookie.net/villains/images/9/97/MedeusNeutral_FEH.png)<br>梅迪烏斯 (Medeus / メディウス) 是火焰之纹章系列游戏中的角色。 | [Fandom](https://villains.fandom.com/wiki/Medeus) |
 | rignetta-san | 莉吉妮塔 |  |  |
+| bacterian | 巴比 | ![](https://static.wikia.nocookie.net/dragonball/images/3/3c/Bacterian_DB_Ep_21_001.png)<br>在《龍珠》（Dragon Ball）系列中，巴比迪（英文：Bacterian；日文：バクテリアン）是一位極具特色的參賽者。他以「不洗澡」聞名，利用身上產生的強烈惡臭作為武器。 | [Fandom](https://dragonball.fandom.com/wiki/Bacterian) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
