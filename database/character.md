@@ -9040,6 +9040,7 @@ example:
 | marth | 马尔斯 | ![](https://static.wikia.nocookie.net/fireemblem/images/5/5a/MarthFE3DS.png)<br>马尔斯（Marth、マルス） 是火焰之纹章系列游戏中的角色。 | [Fandom](https://fireemblem.fandom.com/zh/wiki/馬爾斯?variant=zh-hans) |
 | lena | 蕾娜 | ![](https://static.wikia.nocookie.net/fireemblem/images/5/54/Lena-FE1_Manual_Artwork.png)<br>蕾娜 (Lena / レナ) 是火焰之纹章系列游戏中的角色。 | [Fandom](https://fireemblem.fandom.com/wiki/Lena#:~:text=Profile-,Background,or%20constant%20pillages%20by%20bandits). |
 | medeus | 梅迪烏斯 | ![](https://static.wikia.nocookie.net/villains/images/9/97/MedeusNeutral_FEH.png)<br>梅迪烏斯 (Medeus / メディウス) 是火焰之纹章系列游戏中的角色。 | [Fandom](https://villains.fandom.com/wiki/Medeus) |
+| rignetta-san | 莉吉妮塔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
