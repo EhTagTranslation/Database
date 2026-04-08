@@ -6015,7 +6015,7 @@ example:
 | juri ushimaki | 牛牧朱莉 | 所属作品: `p:blue archive`<br>![](https://static.wikia.nocookie.net/blue-archive/images/f/f8/Mashiro_Portrait.png)<br>![](https://patchwiki.biligame.com/images/ba/e/ea/bzr9fwrokm0rd7s6pwjm3xkvguezlys.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Juri) |
 | akiha shishidou | 狮子堂秋叶 | 所属作品: `p:sora wo kakeru shoujo` |  |
 | jace beleren | 杰斯贝连 | 《万智牌》角色 |  |
-| aira shiratori | 白鸟爱罗 |  |  |
+| aira shiratori | 白鸟爱罗 | ![](https://ehgt.org/w/01/888/36284-oyr9b0dp.webp)<br>出自作品：`p:dandadan`<br><br>白鸟爱罗/爱罗（日语：白鳥 愛羅 しらとりあいら / アイラ）是由龙幸伸创作的漫画《当哒当》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/白鸟爱罗) |
 | ken takakura | 高仓健 | 日本漫画《当哒当》（日文《ダンダダン》）及其衍生作品中的男主角。因为热衷神秘学事物而被小桃称作“超然仔”（オカルン） |  |
 | fubuki azuma | 东风舞希 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/9/9a/Fubuki_Azuma_Visual_Reveal.jpeg)<br>所属作品：`mato seihei no slave`<br>九番组组长，其在东之晚宴获胜后成为新任东家当家。 | [萌娘百科](https://zh.moegirl.org.cn/东风舞希) |
 | sky striker ace - raye | 闪刀姬-零衣 | 游戏王OCG知名卡组系列角色之一 | [萌娘百科](https://zh.moegirl.org.cn/闪刀姬-零衣) |
