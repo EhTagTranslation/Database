@@ -15071,6 +15071,7 @@ example:
 | aisu no a | アイスのあ |  |  |
 | yubi | 指 |  |  |
 | kiduki sai | 綺月さい |  |  |
+| tonagi tsuyu | 灯凪つゆ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
