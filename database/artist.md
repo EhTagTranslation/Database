@@ -15074,6 +15074,7 @@ example:
 | tonagi tsuyu | 灯凪つゆ |  |  |
 | senukin | Senukin |  | [X](https://x.com/senukin69) \| [Patreon](https://www.patreon.com/cw/senukin69) |
 | gyokuro sakana | 魚クロ |  |  |
+| yansu | ヤンス |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
