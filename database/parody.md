@@ -2783,6 +2783,7 @@ example:
 | tsue to tsurugi no wistoria | 杖与剑的魔剑谭 | ![](https://upload.wikimedia.org/wikipedia/en/2/25/Wistoria%2C_Wand_and_Sword_volume_1_cover.jpg)<br>《杖与剑的魔剑谭》是由日本漫画家青井圣作画、大森藤野担任剧本创作的漫画作品，并有改编动画。 |  |
 | mashle | 物理魔法使马修 | ![](https://static.wikia.nocookie.net/mashle/images/0/08/Mashle_Main.png)<br>甲本一创作的漫画，并有改编动画。 |  |
 | roco kingdom | 洛克王国 | ![](https://patchwiki.biligame.com/images/rocom/7/70/rf3bk8nfdgcqwmarscywzpd048mz6lq.png)<br>《洛克王国：世界》是腾讯魔方工作室群自主研发的精灵大世界游戏。基于童年回忆“洛克王国”IP，集精灵收集对战、开放世界探索与自由轻松社交于一体，一个充满回忆与期待的新洛克王国！ | [BILIGAME WIKI](https://wiki.biligame.com/rocom/首页) |
+| fields of mistria | 米斯特里亚牧场 | ![](https://upload.wikimedia.org/wikipedia/en/c/c2/Fields_of_Mistria_header.png)<br>由 NPC Studio 开发的像素风格农场模拟 RPG 游戏。 | [Steam](https://store.steampowered.com/app/2142790/Fields_of_Mistria/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
