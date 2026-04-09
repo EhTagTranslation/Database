@@ -15075,6 +15075,7 @@ example:
 | senukin | Senukin |  | [X](https://x.com/senukin69) \| [Patreon](https://www.patreon.com/cw/senukin69) |
 | gyokuro sakana | 魚クロ |  |  |
 | yansu | ヤンス |  |  |
+| tsumikisata | 積観木沙汰 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
