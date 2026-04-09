@@ -9045,6 +9045,7 @@ example:
 | hana somei | 染井华 | ![](https://static.wikia.nocookie.net/worldtrigger/images/c/c6/Hanaanime.jpeg)<br>所属作品：`world trigger`<br>日语：染井華 |  |
 | methode | 梅特蒂 | ![](https://static.wikia.nocookie.net/frieren/images/2/20/Methode_anime_profile.png)<br>所属作品：`sousou no frieren`<br>日语：メトーデ |  |
 | ada | 艾达（博人传） | ![](https://ehgt.org/w/02/330/68816-2oqaohzt.webp)<br>所属作品：`boruto`<br>日语：エイダ |  |
+| seiko fuji | 藤圣子 | ![](https://static.wikia.nocookie.net/police-in-a-pod/images/8/8b/Seiko_Fuji.png)<br>所属作品：<br>日语：藤聖子 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
