@@ -4438,7 +4438,7 @@ example:
 | haruka yuzuhara | 柚原春夏 | 所属作品: `p:toheart2` | [萌娘百科](https://zh.moegirl.org.cn/柚原春夏) |
 | matsuri kazamaki | 风卷祭里 | 漫画《`ayakashi triangle`》的主人公。男转女。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=437762) |
 | suzu kanade | 花奏铃 | 《`ayakashi triangle`》的登场角色，女主角。 |  |
-| mahiro oyama | 绪山真寻 | 绪山真寻是猫豆腐创作的漫画《`p:onii-chan wa oshimai`》及其衍生作品的登场角色，性转后的主人公（♀），喜欢玩工口游戏的家里蹲废柴尼特族。<br>被妹妹灌了奇怪的药后变成了女孩子的“原”哥哥，虽然基本上是个吊儿郎当的人，但因为有来自大家的帮助，目前正努力作为一个女孩子生活着。<br>![绪山真寻](https://img.moegirl.org.cn/common/1/1e/别当欧尼酱了！一迅社_第一卷.jpg)![绪山真寻](https://img.moegirl.org.cn/common/2/21/Onimai_Teaser1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/绪山真寻) |
+| mahiro oyama | 绪山真寻 | ![](https://ehgt.org/w/02/338/93187-2gauy0en.webp)<br>所属作品：`p:onii-chan wa oshimai` | [萌娘百科](https://zh.moegirl.org.cn/绪山真寻) |
 | seiun sky | 青云天空 | ![](https://static.wikia.nocookie.net/umamusume/images/5/5a/Seiun_Sky_%28Race%29.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹セイウンスカイ（Seiun Sky）。 | [萌娘百科](https://zh.moegirl.org.cn/青云天空) |
 | curren chan | 真机伶 | ![](https://static.wikia.nocookie.net/umamusume/images/a/ad/Curren_Chan_%28Race%29.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹カレンチャン（Curren Chan）。 | [萌娘百科](https://zh.moegirl.org.cn/真机伶) |
 | symboli rudolf | 鲁道夫象征 | ![](https://moegirl.icu/media/thumb/UPDCH_SymboliRudolf_00.png/580px-UPDCH_SymboliRudolf_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹シンボリルドルフ（Symboli Rudolf）。 | [萌娘百科](https://zh.moegirl.org.cn/鲁道夫象征) |
