@@ -9043,6 +9043,7 @@ example:
 | rignetta-san | 莉吉妮塔 |  |  |
 | bacterian | 巴比迪 | ![](https://static.wikia.nocookie.net/dragonball/images/3/3c/Bacterian_DB_Ep_21_001.png)<br>在《龍珠》（Dragon Ball）系列中，巴比迪（英文：Bacterian；日文：バクテリアン）是一位極具特色的參賽者。他以「不洗澡」聞名，利用身上產生的強烈惡臭作為武器。 | [Fandom](https://dragonball.fandom.com/wiki/Bacterian) |
 | hana somei | 染井华 | ![](https://static.wikia.nocookie.net/worldtrigger/images/c/c6/Hanaanime.jpeg)<br>所属作品：`world trigger`<br>日语：染井華 |  |
+| methode | 梅特蒂 | ![](https://static.wikia.nocookie.net/frieren/images/2/20/Methode_anime_profile.png)<br>所属作品：`sousou no frieren`<br>日语：メトーデ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
