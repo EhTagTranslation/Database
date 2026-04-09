@@ -8888,7 +8888,7 @@ example:
 | omikidokkuri | オミキドックリ |  |  |
 | omizuya | おみずや |  |  |
 | ommed | オムメド |  |  |
-| omocha kaden | 玩具家電 |  |  |
+| omocha kaden | 玩具家電 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG15320.html) |
 | omochaya meguri | おもちゃやめぐり |  |  |
 | omochi bazooka | おもち☆バズーカ |  |  |
 | omochi soft | おもちそふと |  |  |
