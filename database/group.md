@@ -13856,6 +13856,7 @@ example:
 | tourendou | 灯恋堂 |  |  |
 | tamagoyaki | たまごやき |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/exclude_ai=0/id=205487/) \| [FANBOX](https://tamagoyaki.fanbox.cc/) \| [X](https://x.com/tamagoyaki_adu) \| [pixiv](https://www.pixiv.net/users/36550589) |
 | pomesame teishokuya | ポメ鮫定食屋 |  |  |
+| waseichigo | わせいちご |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
