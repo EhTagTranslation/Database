@@ -12765,7 +12765,7 @@ example:
 | iro murasaki | やみつきハグハグ |  |  |
 | minshuku izmd | 民宿IZMD |  |  |
 | youyouan | 葉々庵 |  |  |
-| kurumaya koudou | クルマヤ公道 |  |  |
+| kurumaya koudou | 车屋公道 |  |  |
 | harugakita | はるがきた |  |  |
 | imoimolatte | いもいもラテ |  |  |
 | kitahara koubou | 北原工房。 |  |  |
