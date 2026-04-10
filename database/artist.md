@@ -12824,7 +12824,7 @@ example:
 | katou roca | カトウロカ |  |  |
 | lsc5 | LSC5 |  |  |
 | kanitama | カニタマ |  |  |
-| smallflyingrat | 小飛鼠 |  |  |
+| smallflyingrat | 小飞鼠 |  | [个人网站](https://a.h-manhua.org/manga/authors/smallflyingrat/) \| [linktr.ee](https://linktr.ee/smallflyingrat) \| [X](https://x.com/smallflyingrat) |
 | sanhualishuwu | 三花栗鼠屋 |  | [pixiv](https://www.pixiv.net/users/1194931) |
 | haishima shioji | はいしま潮路 |  |  |
 | dokuro deluxe | ドクロ Deluxe |  | [pixiv](https://www.pixiv.net/users/34682567) |
