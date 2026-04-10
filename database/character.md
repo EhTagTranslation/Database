@@ -9049,6 +9049,7 @@ example:
 | tenebria | 泰妮布里雅 | ![](https://static.wikia.nocookie.net/epic-seven/images/9/98/Hoodie_Tenebria_big.png)<br>所属作品：`epic seven` |  |
 | rio sonidori | 鴗鸟理凰 | 日：鴗鳥（そにどり） 理凰（りお） |  |
 | bartholomew kuma | 巴索罗米·熊 | ![](https://static.wikia.nocookie.net/onepiece/images/8/8d/Bartholomew_Kuma_Anime_Infobox.png)<br>所属作品：`one piece` |  |
+| ginny | 金妮 | ![](https://ehgt.org/w/01/963/31189-8jt0evmg.webp)<br>所属作品：`one piece` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
