@@ -2785,6 +2785,7 @@ example:
 | roco kingdom | 洛克王国 | ![](https://patchwiki.biligame.com/images/rocom/7/70/rf3bk8nfdgcqwmarscywzpd048mz6lq.png)<br>《洛克王国：世界》是腾讯魔方工作室群自主研发的精灵大世界游戏。基于童年回忆“洛克王国”IP，集精灵收集对战、开放世界探索与自由轻松社交于一体，一个充满回忆与期待的新洛克王国！ | [BILIGAME WIKI](https://wiki.biligame.com/rocom/首页) |
 | fields of mistria | 米斯特里亚牧场 | ![](https://upload.wikimedia.org/wikipedia/en/c/c2/Fields_of_Mistria_header.png)<br>由 NPC Studio 开发的像素风格农场模拟 RPG 游戏。 | [Steam](https://store.steampowered.com/app/2142790/Fields_of_Mistria/) |
 | tenkuu no tobira | 天空之扉 | ![](https://lain.bgm.tv/r/400/pic/cover/l/00/4c/61365_ci8q4.jpg)<br>KAKERU创作的日本连载冒险魔法漫画。 | [Bangumi](https://bgm.tv/subject/61365) |
+| hanebado | 轻羽飞扬 | ![](https://static.wikia.nocookie.net/hanebado/images/4/43/Characters.jpg)<br>滨田浩辅创作的漫画，并有动画改编。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
