@@ -9048,6 +9048,7 @@ example:
 | seiko fuji | 藤圣子 | ![](https://static.wikia.nocookie.net/police-in-a-pod/images/8/8b/Seiko_Fuji.png)<br>所属作品：<br>日语：藤聖子 |  |
 | tenebria | 泰妮布里雅 | ![](https://static.wikia.nocookie.net/epic-seven/images/9/98/Hoodie_Tenebria_big.png)<br>所属作品：`epic seven` |  |
 | rio sonidori | 鴗鸟理凰 | 日：鴗鳥（そにどり） 理凰（りお） |  |
+| bartholomew kuma | 巴索罗米·熊 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
