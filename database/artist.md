@@ -15007,7 +15007,7 @@ example:
 | anetani kiki | 義姉峪キキ | あねたに きき | [FANBOX](https://anetanikiki.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/22682) \| [DLsite](https://ci-en.dlsite.com/creator/3501) \| [pixiv](https://www.pixiv.net/users/9665132) \| [X](https://x.com/anetani_kiki) |
 | oniku steak | お肉ステーキ |  | [FANBOX](https://www.fanbox.cc/@onikusteak0245) |
 | xter | XTER | 泰国画师。 | [subscribestar](https://subscribestar.adult/xter) \| [X](https://x.com/xtercomic) \| [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22Xter%22/ana_flg/all) |
-| kurumaya koudou | クルマヤ公道 |  | [X](https://x.com/hino_kuruma_ya) |
+| kurumaya koudou | 车屋公道 |  | [X](https://x.com/hino_kuruma_ya) |
 | at-sa-kon13 | AT-SA-KON |  | [pixiv](https://www.pixiv.net/users/10393617) \| [ganknow](https://ganknow.com/atsakon?tab=shop) |
 | shiro maru | 白丸 |  | [DLsite](https://ci-en.dlsite.com/creator/14261) \| [pixiv](https://www.pixiv.net/users/5632418) \| [X](https://x.com/shiro_maru) \| [lit.link](https://lit.link/en/shiromul) |
 | karigura | カリぐら |  |  |
