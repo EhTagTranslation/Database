@@ -3028,7 +3028,7 @@ example:
 | fujoujoshi | 不嬢女子 |  | [X](https://x.com/huzeu1) [pixiv](https://www.pixiv.net/users/6486425) |
 | mikuni saho | 御国纱帆 | 御国紗帆 |  |
 | tatsuse yumino | 龙濑弓乃 | 龍瀬弓乃 |  |
-| ma-kurou | まー九郎 |  |  |
+| ma-kurou | まー九郎 |  | [pixiv](https://www.pixiv.net/users/1293240) \| [FANBOX](https://www.fanbox.cc/@eromazun1) \| [X](https://x.com/markrou2) \| [Fantia](https://fantia.jp/fanclubs/546087) |
 | maitaimu | 舞大梦 | 舞大夢 |  |
 | kyozip | 狂zip |  |  |
 | nishi yoshiyuki | 西义之 | 西義之 | [X](https://x.com/nishiyoshiyuki) |
