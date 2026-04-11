@@ -15082,6 +15082,7 @@ example:
 | matuokanili | 松岡二 |  |  |
 | itou shinichi | 伊藤星一 |  |  |
 | mahomaho | まほまほ |  |  |
+| ratetaso | らてたそ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
