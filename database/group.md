@@ -13859,6 +13859,7 @@ example:
 | waseichigo | わせいちご |  |  |
 | coela network | Coela Network |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=39fd048a-3dd3-49ca-86dd-c20c7c316d05/section=mens/) |
 | niisan koubou | にぃさん工房 |  |  |
+| otyamao | お茶魔男 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
