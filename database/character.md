@@ -9047,7 +9047,7 @@ example:
 | ada | 艾达（博人传） | ![](https://ehgt.org/w/02/330/68816-2oqaohzt.webp)<br>所属作品：`boruto`<br>日语：エイダ |  |
 | seiko fuji | 藤圣子 | ![](https://static.wikia.nocookie.net/police-in-a-pod/images/8/8b/Seiko_Fuji.png)<br>所属作品：<br>日语：藤聖子 |  |
 | tenebria | 泰妮布里雅 | ![](https://static.wikia.nocookie.net/epic-seven/images/9/98/Hoodie_Tenebria_big.png)<br>所属作品：`epic seven` |  |
-| rio sonidori | 鴗鸟理凰 | 日：鴗鳥（そにどり） 理凰（りお） |  |
+| rio sonidori | 鴗鸟理凰 | ![](https://static.wikia.nocookie.net/medalisttest/images/d/dd/Rioh_Sonidori_Anime.png)<br>所属作品：`medalist`<br>日语：鴗鳥理凰（そにどりりお） |  |
 | bartholomew kuma | 巴索罗米·熊 | ![](https://static.wikia.nocookie.net/onepiece/images/8/8d/Bartholomew_Kuma_Anime_Infobox.png)<br>所属作品：`one piece` |  |
 | ginny | 金妮 | ![](https://ehgt.org/w/01/963/31189-8jt0evmg.webp)<br>所属作品：`one piece` |  |
 | yuu ebina | 海老名悠 | ![](https://static.wikia.nocookie.net/hanebado/images/3/34/Yuu.png)<br>所属作品：`hanebado` |  |
