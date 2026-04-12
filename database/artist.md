@@ -14287,7 +14287,7 @@ example:
 | kumakko | くまっこ |  |  |
 | kurinohana | 栗の花 |  |  |
 | koushouin teisetsu | 高尚院貞節 |  |  |
-| marumai | まるまい |  |  |
+| marumai | まるまい |  | [X](https://x.com/PBw3z) \| [Skeb](https://skeb.jp/@PBw3z) \| [pixiv](https://www.pixiv.net/users/55987029) |
 | kyozow | きょぞう |  |  |
 | london inu | London犬 |  |  |
 | manchi kan | マンチ★カン |  |  |
