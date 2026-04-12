@@ -8701,7 +8701,7 @@ example:
 | marshadow | 玛夏多 | ![](https://archives.bulbagarden.net/media/upload/7/7b/0802Marshadow.png)<br>出自作品：`p:pokemon` | [bulbagarden](https://bulbapedia.bulbagarden.net/wiki/Marshadow_%28Pokémon%29) \| [神奇宝贝百科](https://wiki.52poke.com/zh-hans/玛夏多) |
 | shizuka kiba | 木场静火 | ![](https://img.konami.com/pawa/app/_img/suc06/KibaShizuka.png)<br>出自作品：`p:jikkyou powerful pro yakyuu`<br>日文名：木場 静火<br>纯假名：きば しずか | [konami](https://www.konami.com/pawa/app/success_06.html) |
 | norton campbell | 诺顿·坎贝尔 | ![](https://static.wikia.nocookie.net/id5/images/a/ae/Prospector.png)<br>出自作品：`p:identity v`<br><br>诺顿·坎贝尔（勘探员）是由网易游戏所制作的游戏《第五人格》中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/勘探员) |
-| emma woods | 艾玛·伍兹 | ![](https://static.wikia.nocookie.net/id5/images/1/19/Gardener.png)<br>出自作品：`p:identity v`<br><br>艾玛·伍兹（园丁）是由网易游戏所制作的游戏《第五人格》中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/园丁%28第五人格%29#) |
+| emma woods | 艾玛·伍兹（园丁） | ![](https://static.wikia.nocookie.net/id5/images/1/19/Gardener.png)<br>出自作品：`p:identity v` | [萌娘百科](https://zh.moegirl.org.cn/园丁%28第五人格%29#) |
 | raidian | 电弧 | ![](https://storage.moegirl.org.cn/moegirl/commons/3/3d/明日方舟立绘_Raidian_1.png)<br>出自作品：`p:arknights`<br><br>Raidian，本名塞拉菲娜·伊万诺夫娜·彼得罗娃，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/电弧) |
 | yvonne | 伊冯 | ![](https://patchwiki.biligame.com/images/zmd/3/31/3oun3hly1hoqb8w1w034ut6gzwllgx3.png)<br>所属作品:`arknights endfield` | [BILIGAME WIKI](https://wiki.biligame.com/zmd/伊冯) |
 | yukiko kanzaki | 神崎有希子 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/b/b6/Kanzaki_transparent.png/revision/latest?cb=20161211165201)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/神崎有希子) |
