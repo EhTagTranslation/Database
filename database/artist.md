@@ -291,7 +291,7 @@ example:
 | kouzuki hajime | 香月一花 |  |  |
 | furukawa remon | 古川柠檬 | 古川れもん，女性原画师，Lass Pixy主力原画<br>Furukawa Remon, born February 4th, is a Japanese adult game artist from Saitama, Japan. |  |
 | nukunuku batten | ぬくぬくばってん |  |  |
-| sadokko | さどっこ |  |  |
+| sadokko | さどっこ |  | [X](https://x.com/sadocc0eromanga) \| [Skeb](https://skeb.jp/sadocc0eromanga) |
 | izumi | 和泉 |  |  |
 | reizei | 冷泉 |  |  |
 | petenshi | ペテン师 |  |  |
