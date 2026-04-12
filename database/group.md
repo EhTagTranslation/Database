@@ -13863,6 +13863,7 @@ example:
 | mahomaho koubou | まほまほ工房 |  |  |
 | uraumiya | うらうみ屋 |  |  |
 | toukibi batake de tsukamaete | とうきび畑でつかまえて |  |  |
+| otoko no saimin fetiya-san | 男の催眠フェチ屋さん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
