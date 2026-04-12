@@ -1568,7 +1568,7 @@ example:
 | hajime kunihiro | 国广一 |  |  |
 |  | 泽村智纪 |  |  |
 |  | 井上纯 |  |  |
-| koromo amae | 天江衣 |  |  |
+| koromo amae | 天江衣 | ![](https://static.wikia.nocookie.net/saki/images/0/03/Koromo_biyori.jpg)<br>所属作品：`saki` |  |
 |  | 杉乃步 |  |  |
 |  | 萩良 |  |  |
 | mihoko fukuji | 福路美穗子 | ![](https://static.wikia.nocookie.net/saki/images/a/a0/Mihoko_Fukuji.png)<br>所属作品：`saki` |  |
