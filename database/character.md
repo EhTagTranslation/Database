@@ -1634,7 +1634,7 @@ example:
 | haru takimi | 泷见春 |  |  |
 | hatsumi usuzumi | 薄墨初美 |  |  |
 | kasumi iwato | 石户霞 | ![](https://ehgt.org/w/02/288/79944-8d3pvpf0.webp)<br>所属作品：`saki` |  |
-| shiromi kosegawa | 小濑川白望 |  |  |
+| shiromi kosegawa | 小濑川白望 | ![](https://static.wikia.nocookie.net/saki/images/1/15/000a.jpg)<br>所属作品：`saki` |  |
 | aislinn wishart | 爱丝琳·威夏尔特 |  |  |
 |  | 鹿仓胡桃 |  |  |
 | sae usuzawa | 臼泽塞 |  |  |
