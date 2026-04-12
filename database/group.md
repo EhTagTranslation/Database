@@ -13861,6 +13861,7 @@ example:
 | niisan koubou | にぃさん工房 |  |  |
 | otyamao | お茶魔男 |  |  |
 | mahomaho koubou | まほまほ工房 |  |  |
+| uraumiya | うらうみ屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
