@@ -2790,6 +2790,7 @@ example:
 | ghostpia | 幽灵镇少女 | ![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2192620/header.jpg?t=1700118722) |  |
 | kizetsu yuusha to ansatsu hime | 气绝勇者与暗杀公主 | ![](https://static.wikia.nocookie.net/kizetsuyusha/images/e/e3/Kizetsu_Yūsha_to_Ansatsu_Hime.jpg)<br>りしろちゃん负责剧本、雪田幸路负责作画的漫画作品，并有改编动画。 |  |
 | jishou akuyaku reijou na konyakusha no kansatsu kiroku. | 自称恶役大小姐的婚约者观察记录 | ![](https://lain.bgm.tv/r/400/pic/cover/l/61/04/558088_BrFF1.jpg)<br>しき创作的小说，并有改编动画。<br>日语：自称悪役令嬢な婚約者の観察記録 |  |
+| jidou hanbaiki ni umarekawatta ore wa meikyuu wo samayou | 转生成自动贩卖机的我今天也在迷宫徘徊 | ![](https://upload.wikimedia.org/wikipedia/en/f/ff/Reborn_as_a_Vending_Machine%2C_I_Now_Wander_the_Dungeon.png)<br>昼熊创作的轻小说作品，并有改编动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
