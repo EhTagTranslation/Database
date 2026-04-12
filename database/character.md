@@ -1558,7 +1558,7 @@ example:
 | megumi noda | 野田惠 |  |  |
 | shinichi chiaki | 千秋真一 |  |  |
 |  | ▼ 天才麻将少女 |  |  |
-| saki miyanaga | 宫永咲 |  |  |
+| saki miyanaga | 宫永咲 | ![](https://static.wikia.nocookie.net/saki/images/a/a6/Miyanaga_saki.jpg)<br>所属作品：`saki` |  |
 | nodoka haramura | 原村和 | ![](https://ehgt.org/w/02/259/71949-3tyyq0sv.webp)<br>所属作品：`saki`<br>日语：はらむら のどか | [萌娘百科](https://zh.moegirl.org.cn/原村和) |
 | yuuki kataoka | 片冈优希 |  |  |
 | mako someya | 染谷真子 |  |  |
