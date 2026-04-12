@@ -9086,6 +9086,7 @@ example:
 | crane yuzuriha | 让叶（天鹤座） | ![](https://static.wikia.nocookie.net/saintseiya/images/b/bd/Grus_Silver_Amazon-Saint_Yuzuriha_2.jpg)<br>所属作品：`saint seiya`<br>日语：ユズリハ |  |
 | shunrei | 春丽（圣斗士） | ![](https://static.wikia.nocookie.net/saintseiya/images/a/a3/Shunrei_as_a_child.png)<br>所属作品：`saint seiya`<br>日语：春麗 |  |
 | shoko sugimoto | 杉本翔子 | 麻美吕创作的角色。 |  |
+| sophia f. shirring | 索菲亚·F·希琳 | ![](https://static.myfigurecollection.net/upload/entries/1/299626-84f48.jpg)<br><br>所属作品：`bunny suit planning` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
