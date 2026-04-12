@@ -1560,7 +1560,7 @@ example:
 |  | ▼ 天才麻将少女 |  |  |
 | saki miyanaga | 宫永咲 | ![](https://static.wikia.nocookie.net/saki/images/a/a6/Miyanaga_saki.jpg)<br>所属作品：`saki` |  |
 | nodoka haramura | 原村和 | ![](https://ehgt.org/w/02/259/71949-3tyyq0sv.webp)<br>所属作品：`saki`<br>日语：はらむら のどか | [萌娘百科](https://zh.moegirl.org.cn/原村和) |
-| yuuki kataoka | 片冈优希 |  |  |
+| yuuki kataoka | 片冈优希 | ![](https://static.wikia.nocookie.net/saki/images/9/9b/Yuuki_Kataoka.png)<br>所属作品：`saki` |  |
 | mako someya | 染谷真子 |  |  |
 | hisa takei | 竹井久 |  |  |
 | kyoutarou suga | 须贺京太郎 |  |  |
