@@ -9070,6 +9070,7 @@ example:
 | tracy reznik | 特蕾西·列兹尼克（机械师） | ![](https://patchwiki.biligame.com/images/dwrg/b/b6/bsyma6g9d3qrxv2jwzdn7zmhs8u5b5x.png)<br>所属作品：`identity v` |  |
 | naib subedar | 奈布·萨贝达（佣兵） | ![](https://patchwiki.biligame.com/images/dwrg/2/2b/sg7fqtvlp8jza3ryyabwrcqcbkmxorw.png)<br>所属作品：`identity v` |  |
 | ada mesmer | 艾达·梅斯默（心理学家） | ![](https://patchwiki.biligame.com/images/dwrg/1/11/oe7xzgsuezj4c7p7u40g5coe4rozxkf.png)<br>所属作品：`identity v` |  |
+| aesop carl | 伊索·卡尔（入殓师） | ![](https://patchwiki.biligame.com/images/dwrg/0/0a/phuewg60wn5l9waffhzgl46w5poi3nv.png)<br>所属作品：`identity v` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
