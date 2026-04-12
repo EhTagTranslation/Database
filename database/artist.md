@@ -15084,6 +15084,7 @@ example:
 | mahomaho | まほまほ |  |  |
 | ratetaso | らてたそ |  |  |
 | urashina | 裏科 |  |  |
+| toukibi | とうきび |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
