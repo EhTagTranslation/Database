@@ -9067,6 +9067,7 @@ example:
 | xie bian | 谢必安（宿伞之魂） | ![](https://patchwiki.biligame.com/images/dwrg/5/55/sp82i4nw8r2t0k9k5rp31fwq5dl330o.png)<br>所属作品：`identity v`<br>范无咎与谢必安自幼结义，情同手足。 |  |
 | fan wujiu | 范无咎（宿伞之魂） | ![](https://patchwiki.biligame.com/images/dwrg/5/55/sp82i4nw8r2t0k9k5rp31fwq5dl330o.png)<br>所属作品：`identity v`<br>范无咎与谢必安自幼结义，情同手足。 |  |
 | melly plinius | 梅莉·普林尼（女王蜂） | ![](https://patchwiki.biligame.com/images/dwrg/0/03/kegfwui57olyai8pokz8qpulgbvy149.png)<br>所属作品：`identity v` |  |
+| tracy reznik | 特蕾西·列兹尼克（机械师） | ![](https://patchwiki.biligame.com/images/dwrg/b/b6/bsyma6g9d3qrxv2jwzdn7zmhs8u5b5x.png)<br>所属作品：`identity v` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
