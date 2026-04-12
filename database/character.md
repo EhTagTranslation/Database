@@ -9083,6 +9083,7 @@ example:
 | nemumu | 涅姆姆 | ![](https://static.wikia.nocookie.net/my-gift-lvl-9999-unlimited-gacha/images/6/6a/MugenGacha_Anime_Character_Nemumu.png)<br>所属作品：`mugen gacha de level 9999`<br>日语：ネムム |  |
 | mera | 美拉 | ![](https://static.wikia.nocookie.net/my-gift-lvl-9999-unlimited-gacha/images/6/6e/MugenGacha_Anime_Character_Mera.png)<br>所属作品：`mugen gacha de level 9999`<br>日语：メラ |  |
 | nazuna | 纳芝娜 | ![](https://static.wikia.nocookie.net/my-gift-lvl-9999-unlimited-gacha/images/4/40/MugenGacha_Anime_Character_Nazuna.png)<br>所属作品：`mugen gacha de level 9999`<br>日语：ナズナ |  |
+| crane yuzuriha | 让叶（天鹤座） | ![](https://static.wikia.nocookie.net/saintseiya/images/b/bd/Grus_Silver_Amazon-Saint_Yuzuriha_2.jpg)<br>所属作品：`saint seiya`<br>日语：ユズリハ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
