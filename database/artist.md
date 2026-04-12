@@ -15083,6 +15083,7 @@ example:
 | itou shinichi | 伊藤星一 |  |  |
 | mahomaho | まほまほ |  |  |
 | ratetaso | らてたそ |  |  |
+| urashina | 裏科 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
