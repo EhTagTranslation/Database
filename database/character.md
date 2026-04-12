@@ -1346,7 +1346,7 @@ example:
 | nyaruko | 奈亚子 |  |  |
 | cthugha | 克图格亚 |  |  |
 | mahiro yasaka | 八坂真寻 |  |  |
-| hastur | 哈斯太 |  |  |
+| hastur | 哈斯塔（黄衣之主） | ![](https://patchwiki.biligame.com/images/dwrg/2/24/qn7ul5nb9sr5k8hv2aglicnuxhq0m6a.png)<br>所属作品：`identity v` |  |
 |  | ▼ 其中一个是妹妹 |  |  |
 | konoe tsuruma | 鹤真心乃枝 |  |  |
 | miyabi kannagi | 神凪雅 |  |  |
