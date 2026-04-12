@@ -1529,7 +1529,7 @@ example:
 | yamanashi musume. | やまなし娘。 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75924/) |
 | zetsubou shiromuji | 絶望しろむじ |  |  |
 | tottoko mtarou | とっとこMたろう |  |  |
-| sad.co | sad.co |  |  |
+| sad.co | sad.co |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG27820.html) \| [pixiv](https://www.pixiv.net/users/12568137) |
 | an an shokudou | あん♪あん♪食堂 |  |  |
 | hurupontei | ふるぽん亭 |  |  |
 | samidaregiri | 五月雨斬り |  |  |
