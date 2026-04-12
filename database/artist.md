@@ -15085,6 +15085,7 @@ example:
 | ratetaso | らてたそ |  |  |
 | urashina | 裏科 |  |  |
 | toukibi | とうきび |  |  |
+| matsukaze akitarou | 松風あきたろう |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
