@@ -2788,6 +2788,7 @@ example:
 | hanebado | 轻羽飞扬 | ![](https://static.wikia.nocookie.net/hanebado/images/4/43/Characters.jpg)<br>滨田浩辅创作的漫画，并有动画改编。 |  |
 | shimeji simulation | 蘑菇的拟态日常 | ![](https://upload.wikimedia.org/wikipedia/en/5/54/Volume_1_Shimeji_Simulation.jpg)<br>日本漫画家 Tsukumizu创作的漫画作品。 |  |
 | ghostpia | 幽灵镇少女 | ![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2192620/header.jpg?t=1700118722) |  |
+| kizetsu yuusha to ansatsu hime | 气绝勇者与暗杀公主 | ![](https://static.wikia.nocookie.net/kizetsuyusha/images/e/e3/Kizetsu_Yūsha_to_Ansatsu_Hime.jpg)<br>りしろちゃん负责剧本、雪田幸路负责作画的漫画作品，并有改编动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
