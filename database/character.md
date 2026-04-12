@@ -9059,6 +9059,7 @@ example:
 | bertia ibil noches | 芭蒂雅·伊弗·诺切斯 | ![](https://static.wikia.nocookie.net/isekai/images/6/6f/Bertia_Ibil_Noches_-_Anime-Adult-CH.webp)<br>所属作品：`jishou akuyaku reijou na konyakusha no kansatsu kiroku.`<br>日语：バーティア・イビル・ノーチェス |  |
 | silica lunea | 西莉卡·路尼亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/dc/f8/202277_crt_0olfl.jpg)<br>所属作品：`jishou akuyaku reijou na konyakusha no kansatsu kiroku.`<br>日语：シーリカ・ルネア |  |
 | anne kogares | 安妮·可格雷斯 | ![](https://lain.bgm.tv/r/400/pic/crt/l/3b/8b/207116_crt_2Fc66.jpg)<br>所属作品：`jishou akuyaku reijou na konyakusha no kansatsu kiroku.`<br>日语：アンネ・コガーレス |  |
+| joanna curtswarren | 乔安娜·凯兹沃蓝 | ![](https://lain.bgm.tv/r/400/pic/crt/l/2c/36/202279_crt_8h6rG.jpg)<br>所属作品：`jishou akuyaku reijou na konyakusha no kansatsu kiroku.`<br>日语：ジョアンナ・ケルツウォーレン |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
