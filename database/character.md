@@ -9088,6 +9088,7 @@ example:
 | shoko sugimoto | 杉本翔子 | 麻美吕创作的角色。 |  |
 | sophia f. shirring | 索菲亚·F·希琳 | ![](https://static.myfigurecollection.net/upload/entries/1/299626-84f48.jpg)<br><br>所属作品：`bunny suit planning` |  |
 | rim | 理芽 | ![](https://ehgt.org/w/02/256/79322-pw29v220.webp)<br>日本虚拟主播。 |  |
+| kaf | 花谱 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/df/KAF_Fourth_Form_Owl_KV.jpg)<br>所属社团：AMITSUBAKI STUDIO<br>日语：花譜 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
