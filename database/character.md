@@ -9079,6 +9079,7 @@ example:
 | andrew kreiss | 安德鲁·克雷斯（守墓人） | ![](https://patchwiki.biligame.com/images/dwrg/6/68/ta4sx6146hiumyu4cqepvzuvd4qenoo.png)<br>所属作品：`identity v` |  |
 | patricia dorval | 帕缇夏·多里瓦尔（咒术师） | ![](https://patchwiki.biligame.com/images/dwrg/0/0f/mlvcugalnvqg8560st3jr7u6ekfh0c3.png)<br>所属作品：`identity v` |  |
 | lammis | 拉蜜丝 | ![](https://lain.bgm.tv/r/400/pic/crt/l/69/f0/126409_crt_Jw222.jpg?r=1686634941)<br>所属作品：`jidou hanbaiki ni umarekawatta ore wa meikyuu wo samayou`<br>日语：ラッミス |  |
+| zhuang fangyi | 庄方宜 | 所属作品：`arknights endfield` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
