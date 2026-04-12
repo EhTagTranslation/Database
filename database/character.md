@@ -9056,6 +9056,7 @@ example:
 | ciel zebul | 雪儿·泽布尔 | ![](https://static.wikia.nocookie.net/kizetsuyusha/images/8/87/Ciel.png)<br>所属作品：`kizetsu yuusha to ansatsu hime`<br>日语：シエル·ゼブル |  |
 | goa minagawa | 戈雅·皆川 | ![](https://static.wikia.nocookie.net/kizetsuyusha/images/9/96/Gore.png)<br>所属作品：`kizetsu yuusha to ansatsu hime`<br>日语：ゴア·ミナガワ |  |
 | anemone | 阿内莫涅 | ![](https://static.wikia.nocookie.net/kizetsuyusha/images/b/b1/Anemone.png)<br>所属作品：`kizetsu yuusha to ansatsu hime`<br>日语：アネモネ |  |
+| bertia ibil noches | 芭蒂雅·伊弗·诺切斯 | ![](https://static.wikia.nocookie.net/isekai/images/6/6f/Bertia_Ibil_Noches_-_Anime-Adult-CH.webp)<br>所属作品：`jishou akuyaku reijou na konyakusha no kansatsu kiroku.` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
