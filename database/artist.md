@@ -14417,7 +14417,7 @@ example:
 | tenki nori | 天气海苔 | 天気海苔 | [pixiv](https://www.pixiv.net/users/59560975) [X](https://x.com/3tenki9) |
 | vanicooo | ばにこ一 |  | [pixiv](https://www.pixiv.net/users/7336390) |
 | shirotobi | しろとび |  |  |
-| ubuo | うぶお |  |  |
+| ubuo | うぶお |  | [FANBOX](https://ubuo.fanbox.cc/) \| [X](https://x.com/FdghUbuotsu) \| [pixiv](https://www.pixiv.net/users/63122805) |
 | re shimashima | Re:しましま |  |  |
 | takashiro go-ya | 高城ごーや |  |  |
 | yonesuke | よねすけ |  |  |
