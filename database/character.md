@@ -9072,6 +9072,7 @@ example:
 | ada mesmer | 艾达·梅斯默（心理学家） | ![](https://patchwiki.biligame.com/images/dwrg/1/11/oe7xzgsuezj4c7p7u40g5coe4rozxkf.png)<br>所属作品：`identity v` |  |
 | aesop carl | 伊索·卡尔（入殓师） | ![](https://patchwiki.biligame.com/images/dwrg/0/0a/phuewg60wn5l9waffhzgl46w5poi3nv.png)<br>所属作品：`identity v` |  |
 | helena adams | 海伦娜·亚当斯（盲女） | ![](https://patchwiki.biligame.com/images/dwrg/b/be/no3qmmuylejxaeinw47xfwquese9hfl.png)<br>所属作品：`identity v` |  |
+| eli clark | 伊莱·克拉克（先知） | ![](https://patchwiki.biligame.com/images/dwrg/2/23/psh5intt7havuywhcd5raul3vso363b.png)<br>所属作品：`identity v` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
