@@ -15086,6 +15086,7 @@ example:
 | urashina | 裏科 |  |  |
 | toukibi | とうきび |  |  |
 | matsukaze akitarou | 松風あきたろう |  |  |
+| yukiya ruru | 雪谷るる |  | [X](https://x.com/yukiya__ruru) |
 
 <!--TEMPLATE:
 |  |  |  |  |
