@@ -9074,6 +9074,7 @@ example:
 | helena adams | 海伦娜·亚当斯（盲女） | ![](https://patchwiki.biligame.com/images/dwrg/b/be/no3qmmuylejxaeinw47xfwquese9hfl.png)<br>所属作品：`identity v` |  |
 | eli clark | 伊莱·克拉克（先知） | ![](https://patchwiki.biligame.com/images/dwrg/2/23/psh5intt7havuywhcd5raul3vso363b.png)<br>所属作品：`identity v` |  |
 | michiko | 美智子（红蝶） | ![](https://patchwiki.biligame.com/images/dwrg/4/4a/7r49607kikj290byzd5ltbah9rw64jw.png)<br>所属作品：`identity v` |  |
+| kevin alonso | 凯文·阿尤索（牛仔） | ![](https://patchwiki.biligame.com/images/dwrg/9/9d/tg9ktnmo89jqimm813duhx8z0prltbx.png)<br>所属作品：`identity v` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
