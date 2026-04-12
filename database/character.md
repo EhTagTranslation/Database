@@ -9077,6 +9077,7 @@ example:
 | kevin alonso | 凯文·阿尤索（牛仔） | ![](https://patchwiki.biligame.com/images/dwrg/9/9d/tg9ktnmo89jqimm813duhx8z0prltbx.png)<br>所属作品：`identity v` |  |
 | william webb ellis | 威廉·艾利斯（前锋） | ![](https://patchwiki.biligame.com/images/dwrg/7/75/ck4a7oqrwxkwkg8lqrafdq0z87902tp.png)<br>所属作品：`identity v` |  |
 | andrew kreiss | 安德鲁·克雷斯（守墓人） | ![](https://patchwiki.biligame.com/images/dwrg/6/68/ta4sx6146hiumyu4cqepvzuvd4qenoo.png)<br>所属作品：`identity v` |  |
+| patricia dorval | 帕缇夏·多里瓦尔（咒术师） | ![](https://patchwiki.biligame.com/images/dwrg/0/0f/mlvcugalnvqg8560st3jr7u6ekfh0c3.png)<br>所属作品：`identity v` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
