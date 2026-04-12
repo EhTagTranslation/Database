@@ -2786,6 +2786,7 @@ example:
 | fields of mistria | 米斯特里亚牧场 | ![](https://upload.wikimedia.org/wikipedia/en/c/c2/Fields_of_Mistria_header.png)<br>由 NPC Studio 开发的像素风格农场模拟 RPG 游戏。 | [Steam](https://store.steampowered.com/app/2142790/Fields_of_Mistria/) |
 | tenkuu no tobira | 天空之扉 | ![](https://lain.bgm.tv/r/400/pic/cover/l/00/4c/61365_ci8q4.jpg)<br>KAKERU创作的日本连载冒险魔法漫画。 | [Bangumi](https://bgm.tv/subject/61365) |
 | hanebado | 轻羽飞扬 | ![](https://static.wikia.nocookie.net/hanebado/images/4/43/Characters.jpg)<br>滨田浩辅创作的漫画，并有动画改编。 |  |
+| shimeji simulation | 蘑菇的拟态日常 | ![](https://upload.wikimedia.org/wikipedia/en/5/54/Volume_1_Shimeji_Simulation.jpg)<br>日本漫画家 Tsukumizu创作的漫画作品。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
