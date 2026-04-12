@@ -1592,7 +1592,7 @@ example:
 |  | 栋居仁美 |  |  |
 | shizuno takakamo | 高鸭稳乃 |  |  |
 | ako atarashi | 新子憧 | ![](https://ehgt.org/w/02/278/75594-5avdajt8.webp)<br>所属作品：`saki` |  |
-| kuro matsumi | 松实玄 |  |  |
+| kuro matsumi | 松实玄 | ![](https://ehgt.org/w/02/025/43822-dvtmunkl.webp)<br>所属作品：`saki` |  |
 | yuu matsumi | 松实宥 |  |  |
 | arata sagimori | 鹭森灼 |  |  |
 | harue akado | 赤土晴绘 |  |  |
