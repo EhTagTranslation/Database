@@ -13864,6 +13864,7 @@ example:
 | uraumiya | うらうみ屋 |  |  |
 | toukibi batake de tsukamaete | とうきび畑でつかまえて |  |  |
 | otoko no saimin fetiya-san | 男の催眠フェチ屋さん |  |  |
+| rurukoya | るる小屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
