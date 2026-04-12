@@ -1571,7 +1571,7 @@ example:
 | koromo amae | 天江衣 |  |  |
 |  | 杉乃步 |  |  |
 |  | 萩良 |  |  |
-| mihoko fukuji | 福路美穗子 |  |  |
+| mihoko fukuji | 福路美穗子 | ![](https://static.wikia.nocookie.net/saki/images/a/a0/Mihoko_Fukuji.png)<br>所属作品：`saki` |  |
 | kana ikeda | 池田华菜 |  |  |
 | miharu yoshitome | 吉留未春 |  |  |
 | sumiyo fukabori | 深堀纯代 |  |  |
