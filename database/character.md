@@ -9064,6 +9064,7 @@ example:
 | miharu kashiwagi | 柏木美晴 | ![](https://static.wikia.nocookie.net/handoreddo/images/2/23/7E105F96-5441-4C48-AF26-1AAB2ABC79F1.jpg)<br>所属作品：`hundred`<br>日语：柏木ミハル |  |
 | alice deross | 爱丽丝·德罗斯 | ![](https://static.wikia.nocookie.net/id5/images/1/1e/Journalist.png)<br>所属作品：`identity v` |  |
 | alva lorenz | 阿尔瓦·洛伦兹 | ![](https://static.wikia.nocookie.net/id5/images/1/1e/Hermit.png)<br>所属作品：`identity v` |  |
+| xie bian | 谢必安（宿伞之魂） | ![](https://patchwiki.biligame.com/images/dwrg/5/55/sp82i4nw8r2t0k9k5rp31fwq5dl330o.png)<br>所属作品：`identity v` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
