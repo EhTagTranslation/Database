@@ -9087,6 +9087,7 @@ example:
 | shunrei | 春丽（圣斗士） | ![](https://static.wikia.nocookie.net/saintseiya/images/a/a3/Shunrei_as_a_child.png)<br>所属作品：`saint seiya`<br>日语：春麗 |  |
 | shoko sugimoto | 杉本翔子 | 麻美吕创作的角色。 |  |
 | sophia f. shirring | 索菲亚·F·希琳 | ![](https://static.myfigurecollection.net/upload/entries/1/299626-84f48.jpg)<br><br>所属作品：`bunny suit planning` |  |
+| rim | 理芽 | ![](https://ehgt.org/w/02/256/79322-pw29v220.webp)<br>日本虚拟主播。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
