@@ -9073,6 +9073,7 @@ example:
 | aesop carl | 伊索·卡尔（入殓师） | ![](https://patchwiki.biligame.com/images/dwrg/0/0a/phuewg60wn5l9waffhzgl46w5poi3nv.png)<br>所属作品：`identity v` |  |
 | helena adams | 海伦娜·亚当斯（盲女） | ![](https://patchwiki.biligame.com/images/dwrg/b/be/no3qmmuylejxaeinw47xfwquese9hfl.png)<br>所属作品：`identity v` |  |
 | eli clark | 伊莱·克拉克（先知） | ![](https://patchwiki.biligame.com/images/dwrg/2/23/psh5intt7havuywhcd5raul3vso363b.png)<br>所属作品：`identity v` |  |
+| michiko | 美智子（红蝶） | ![](https://patchwiki.biligame.com/images/dwrg/4/4a/7r49607kikj290byzd5ltbah9rw64jw.png)<br>所属作品：`identity v` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
