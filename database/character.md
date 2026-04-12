@@ -9063,6 +9063,7 @@ example:
 | cynthia linnerith | 辛西亚·索尼利斯 | ![](https://lain.bgm.tv/r/400/pic/crt/l/06/e9/207114_crt_FEnEj.jpg)<br>所属作品：`jishou akuyaku reijou na konyakusha no kansatsu kiroku.`<br>日语：シンシア・ソーネリス |  |
 | miharu kashiwagi | 柏木美晴 | ![](https://static.wikia.nocookie.net/handoreddo/images/2/23/7E105F96-5441-4C48-AF26-1AAB2ABC79F1.jpg)<br>所属作品：`hundred`<br>日语：柏木ミハル |  |
 | alice deross | 爱丽丝·德罗斯 | ![](https://static.wikia.nocookie.net/id5/images/1/1e/Journalist.png)<br>所属作品：`identity v` |  |
+| alva lorenz | 阿尔瓦·洛伦兹 | ![](https://static.wikia.nocookie.net/id5/images/1/1e/Hermit.png)<br>所属作品：`identity v` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
