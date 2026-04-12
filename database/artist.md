@@ -15087,6 +15087,7 @@ example:
 | toukibi | とうきび |  |  |
 | matsukaze akitarou | 松風あきたろう |  |  |
 | yukiya ruru | 雪谷るる |  | [X](https://x.com/yukiya__ruru) |
+| matsuda oruta | 松田おるた |  | [X](https://x.com/matudayazo) |
 
 <!--TEMPLATE:
 |  |  |  |  |
