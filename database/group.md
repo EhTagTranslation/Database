@@ -13358,7 +13358,7 @@ example:
 | wakabatei | わかば帝 |  |  |
 | seinikuten | 性肉店 |  |  |
 | ibukichika | イブキチカ |  |  |
-| unian | うに庵 |  |  |
+| unian | うに庵 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78965/) |
 | 10-jikan suimin | 10時間睡眠 |  |  |
 | dekai buki wa roman | デカイ武器はロマン |  |  |
 | pandalix | ぱんだりっくす |  |  |
