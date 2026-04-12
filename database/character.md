@@ -9089,6 +9089,7 @@ example:
 | sophia f. shirring | 索菲亚·F·希琳 | ![](https://static.myfigurecollection.net/upload/entries/1/299626-84f48.jpg)<br><br>所属作品：`bunny suit planning` |  |
 | rim | 理芽 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/3/39/RIM_Dr_Futurity_Outfit_KV.jpg)<br>所属社团：AMITSUBAKI STUDIO |  |
 | kaf | 花谱 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/df/KAF_Fourth_Form_Owl_KV.jpg)<br>所属社团：AMITSUBAKI STUDIO<br>日语：花譜 |  |
+| nanako yamamoto | 山本菜菜子 | ![](https://static.wikia.nocookie.net/hanamaru-kindergarten/images/a/a8/8a5adc6fbe.jpg)<br>所属作品：`hanamaru youchien`<br>日语：山本菜々子 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
