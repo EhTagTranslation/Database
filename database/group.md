@@ -13524,7 +13524,7 @@ example:
 | sora paprika | ソーラーぱぷりか |  |  |
 | tanioku no kaeru | 谷奥の蛙 |  |  |
 | seisui bar | 圣水BAR |  |  |
-| samurai banana | サムライバナナ |  |  |
+| samurai banana | サムライバナナ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=212807/) \| [DLsite](https://www.dlsite.com/maniax-touch/circle/profile/=/from/work.maker/maker_id/RG01007764.html) |
 | popotto denki ichigouten | ぽぽっと電機1号店 |  |  |
 | studio washitsu | Studio和室 |  |  |
 | butajiru | 豚汁 |  |  |
