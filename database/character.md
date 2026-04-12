@@ -9055,6 +9055,7 @@ example:
 | koyuki | 恋雪 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/5d/戀雪_漫畫出場圖.png/revision/latest?cb=20220315155102&path-prefix=zh-tw)<br>出自作品：`p:kimetsu no yaiba` | [Fandom](https://kimetsu-no-yaiba.fandom.com/zh/wiki/戀雪?variant=zh-cn) |
 | ciel zebul | 雪儿·泽布尔 | ![](https://static.wikia.nocookie.net/kizetsuyusha/images/8/87/Ciel.png)<br>所属作品：`kizetsu yuusha to ansatsu hime`<br>日语：シエル·ゼブル |  |
 | goa minagawa | 戈雅·皆川 | ![](https://static.wikia.nocookie.net/kizetsuyusha/images/9/96/Gore.png)<br>所属作品：`kizetsu yuusha to ansatsu hime`<br>日语：ゴア·ミナガワ |  |
+| anemone | 阿内莫涅 | ![](https://static.wikia.nocookie.net/kizetsuyusha/images/b/b1/Anemone.png)<br>所属作品：`kizetsu yuusha to ansatsu hime`<br>日语：アネモネ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
