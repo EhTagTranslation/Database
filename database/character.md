@@ -9058,6 +9058,7 @@ example:
 | anemone | 阿内莫涅 | ![](https://static.wikia.nocookie.net/kizetsuyusha/images/b/b1/Anemone.png)<br>所属作品：`kizetsu yuusha to ansatsu hime`<br>日语：アネモネ |  |
 | bertia ibil noches | 芭蒂雅·伊弗·诺切斯 | ![](https://static.wikia.nocookie.net/isekai/images/6/6f/Bertia_Ibil_Noches_-_Anime-Adult-CH.webp)<br>所属作品：`jishou akuyaku reijou na konyakusha no kansatsu kiroku.`<br>日语：バーティア・イビル・ノーチェス |  |
 | silica lunea | 西莉卡·路尼亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/dc/f8/202277_crt_0olfl.jpg)<br>所属作品：`jishou akuyaku reijou na konyakusha no kansatsu kiroku.`<br>日语：シーリカ・ルネア |  |
+| anne kogares | 安妮·可格雷斯 | ![](https://lain.bgm.tv/r/400/pic/crt/l/3b/8b/207116_crt_2Fc66.jpg)<br>所属作品：`jishou akuyaku reijou na konyakusha no kansatsu kiroku.`<br>日语：アンネ・コガーレス |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
