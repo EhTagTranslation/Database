@@ -9053,6 +9053,7 @@ example:
 | yuu ebina | 海老名悠 | ![](https://static.wikia.nocookie.net/hanebado/images/3/34/Yuu.png)<br>所属作品：`hanebado` |  |
 | nagisa aragaki | 荒垣渚 | ![](https://ehgt.org/w/01/763/04482-5d8xtzli.webp)<br>所属作品：`hanebado`<br>日语：荒垣なぎさ |  |
 | koyuki | 恋雪 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/5d/戀雪_漫畫出場圖.png/revision/latest?cb=20220315155102&path-prefix=zh-tw)<br>出自作品：`p:kimetsu no yaiba` | [Fandom](https://kimetsu-no-yaiba.fandom.com/zh/wiki/戀雪?variant=zh-cn) |
+| ciel zebul | 雪儿·泽布尔 | ![](https://static.wikia.nocookie.net/kizetsuyusha/images/8/87/Ciel.png)<br>所属作品：`kizetsu yuusha to ansatsu hime`<br>日语：シエル |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
