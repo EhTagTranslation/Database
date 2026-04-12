@@ -13862,6 +13862,7 @@ example:
 | otyamao | お茶魔男 |  |  |
 | mahomaho koubou | まほまほ工房 |  |  |
 | uraumiya | うらうみ屋 |  |  |
+| toukibi batake de tsukamaete | とうきび畑でつかまえて |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
