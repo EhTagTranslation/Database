@@ -13865,6 +13865,7 @@ example:
 | toukibi batake de tsukamaete | とうきび畑でつかまえて |  |  |
 | otoko no saimin fetiya-san | 男の催眠フェチ屋さん |  |  |
 | rurukoya | るる小屋 |  |  |
+| okushima izumo | 奥島いずも |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG71130.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201820/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
