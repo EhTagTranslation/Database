@@ -5881,7 +5881,7 @@ example:
 | taoqi | 桃祈 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/6/69/a2fx0h30xz5fvamydsjty0bojrt9c00.png/605px-Mc_wiki_role_taoqi_x1500.png)<br>所属作品：`wuthering waves`<br>天工边防事务的负责人，平时慵懒的她，却总能可靠地解决问题。 守护他人的点点愿望汇聚成坚固的屏障，屹立于今州城前。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/桃祈) |
 | miyo harada | 原田美世 | ![](https://patchwiki.biligame.com/images/imascg/thumb/6/67/6utlidm2py31uc4oarxomy62g4u4yp3.png/960px-CGSS-Miyo-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 | [萌娘百科](https://zh.moegirl.org.cn/原田美世) |
 | shouko nishimiya | 西宫硝子 | 西宫硝子是大今良时所创作的漫画《声之形》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/40/Nishimiya_Shouko_Side.png) | [萌娘百科](https://zh.moegirl.org.cn/西宫硝子) |
-| naoka ueno | 植野直花 | 植野直花是由大今良时所创作的漫画《声之形》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/6/6f/Ueno-img.png/320px-Ueno-img.png) | [萌娘百科](https://zh.moegirl.org.cn/植野直花) |
+| naoka ueno | 植野直花 | ![](https://static.wikia.nocookie.net/koenokatachi/images/b/b5/UenoTemplate.png)<br>所属作品：`koe no katachi` | [萌娘百科](https://zh.moegirl.org.cn/植野直花) |
 | shouya ishida | 石田将也 | 石田将也（日语：石田 将也）是由大今良时所创作的漫画《声之形》及其衍生作品的登场角色。<br><br>![](https://img.moegirl.org.cn/common/8/82/Shoya-img.png) | [萌娘百科](https://zh.moegirl.org.cn/石田将也) |
 | yuzuru nishimiya | 西宫结弦 | 西宫结弦是由大今良时所创作的漫画《声之形》及其衍生作品的登场角色。<br><br>![](https://pbs.twimg.com/media/EtcKehbXcAEwKvt?format=jpg&name=900x900) | [萌娘百科](https://zh.moegirl.org.cn/西宫结弦) |
 | sayo minakami | 水神小夜 | 水神小夜（日语：水神（みなかみ） 小夜（さよ））是小野中彰大所创作的漫画《憧憬成为魔法少女》及其衍生作品的登场角色。<br>![](https://i.pixiv.cat/img-master/img/2024/11/01/23/23/57/116177494_p0_master1200.jpg) | [萌娘百科](https://zh.moegirl.org.cn/水神小夜) |
