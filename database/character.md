@@ -9122,6 +9122,7 @@ example:
 | sui kamishiro | 神城翠 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/0/0d/Kamishiro_Sui.png)<br>所属作品：`tokyo 7th sisters`<br>日语：神城スイ |  |
 | rena araki | 荒木礼奈 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/8/8b/Araki_rena.png)<br>所属作品：`tokyo 7th sisters`<br>日语：荒木レナ |  |
 | ferb seto | 濑户费尔布 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/3/3f/Seto_Ferb.png)<br>所属作品：`tokyo 7th sisters`<br>日语：瀬戸ファーブ |  |
+| murasaki echizen | 越前紫 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/9/9b/Echizen_Murasaki.png)<br>所属作品：`tokyo 7th sisters`<br>日语：越前ムラサキ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
