@@ -9119,6 +9119,7 @@ example:
 | sawara harumi | 晴海纱良 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/5/5f/Harumi_Sawara.png)<br>所属作品：`tokyo 7th sisters`<br>日语：晴海サワラ |  |
 | futaba karakuri | 空栗双叶 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/4/42/Karakuri_Hitoha_Futaba.png)<br>所属作品：`tokyo 7th sisters`<br>日语：空栗フタバ |  |
 | hitoha karakuri | 空栗一叶 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/4/42/Karakuri_Hitoha_Futaba.png)<br>所属作品：`tokyo 7th sisters`<br>日语：空栗ヒトハ |  |
+| sui kamishiro | 神城翠 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/0/0d/Kamishiro_Sui.png)<br>所属作品：`tokyo 7th sisters`<br>日语：神城スイ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
