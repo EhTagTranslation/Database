@@ -9111,6 +9111,7 @@ example:
 | youko saionji | 西园寺踊子 | ![](https://static.wikia.nocookie.net/school-days/images/b/bd/Youko_Saionji_Clothing.jpg)<br>所属作品：`school days`<br>日语：西園寺踊子 |  |
 | hasaha | 哈萨赫 | ![](https://static.wikia.nocookie.net/summonnight/images/2/24/SN2-Hasaha1.jpg)<br>所属作品：`summon night` |  |
 | subaru takamiya | 鹰宫昴 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/0/0b/Subaru_Takamiya_full_cha.png)<br>所属作品：`beat blades haruka`<br>日语：鷹宮スバル |  |
+| miki kawai | 川井美树 | ![](https://static.wikia.nocookie.net/koenokatachi/images/0/0c/KawaiTemplate.png)<br>所属作品：`koe no katachi`<br>日语：川井 みき |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
