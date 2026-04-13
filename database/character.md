@@ -9096,6 +9096,7 @@ example:
 | polka takahashi | 高桥波尔卡 | ![](https://static.wikia.nocookie.net/love-live/images/f/ff/Takahashi_Polka.png)<br>所属作品：`love live bluebird`<br>日语：高橋ポルカ |  |
 | mai azabu | 麻布麻衣 | ![](https://static.wikia.nocookie.net/love-live/images/e/e5/Azabu_Mai.png)<br>所属作品：`love live bluebird`<br>日语：麻布麻衣 |  |
 | akira goto | 五桐玲 | ![](https://static.wikia.nocookie.net/love-live/images/c/ca/Gotou_Akira.png)<br>所属作品：`love live bluebird`<br>日语：五桐玲 |  |
+| miracle kanazawa | 金泽奇迹 | ![](https://static.wikia.nocookie.net/love-live/images/1/1d/Kanazawa_Miracle.png)<br>所属作品：`love live bluebird`<br>日语：金澤奇跡 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
