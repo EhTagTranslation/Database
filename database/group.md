@@ -5314,7 +5314,7 @@ example:
 | hai-tai | 胚胎 |  |  |
 | haiana gumentai | 肺穴愚麺隊 |  |  |
 | haiboku kamen | 敗北仮面 |  |  |
-| haidara | haidara |  |  |
+| haidara | haidara |  | [pixiv](https://www.pixiv.net/users/15426672) |
 | haigoku ryodan | 廃獄旅団 |  |  |
 | haiiro jikuu | 灰色時空 |  |  |
 | haiiro koubou betsumune | 灰色工房別棟 |  |  |
