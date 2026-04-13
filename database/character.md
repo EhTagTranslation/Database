@@ -9094,6 +9094,7 @@ example:
 | yomogi momokusa | 桃草蓬 | ![](https://static.wikia.nocookie.net/tougen_anki/images/3/32/Yomogi_Momokusa_anime_design.png)<br>所属作品：`tougen anki` |  |
 | kuina sazanami | 涟水鸡 | ![](https://static.wikia.nocookie.net/tougen_anki/images/c/ce/Kuina_Sazanami_anime_design.png)<br>所属作品：`tougen anki`<br>日语：漣水鶏 |  |
 | polka takahashi | 高桥波尔卡 | ![](https://static.wikia.nocookie.net/love-live/images/f/ff/Takahashi_Polka.png)<br>所属作品：`love live bluebird`<br>日语：高橋ポルカ |  |
+| mai azabu | 麻布麻衣 | ![](https://static.wikia.nocookie.net/love-live/images/e/e5/Azabu_Mai.png)<br>所属作品：`love live bluebird`<br>日语：麻布麻衣 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
