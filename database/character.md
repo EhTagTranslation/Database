@@ -9121,6 +9121,7 @@ example:
 | hitoha karakuri | 空栗一叶 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/4/42/Karakuri_Hitoha_Futaba.png)<br>所属作品：`tokyo 7th sisters`<br>日语：空栗ヒトハ |  |
 | sui kamishiro | 神城翠 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/0/0d/Kamishiro_Sui.png)<br>所属作品：`tokyo 7th sisters`<br>日语：神城スイ |  |
 | rena araki | 荒木礼奈 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/8/8b/Araki_rena.png)<br>所属作品：`tokyo 7th sisters`<br>日语：荒木レナ |  |
+| ferb seto | 濑户费尔布 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/3/3f/Seto_Ferb.png)<br>所属作品：`tokyo 7th sisters`<br>日语：瀬戸ファーブ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
