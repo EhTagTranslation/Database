@@ -9106,6 +9106,7 @@ example:
 | cassie drake | 凯西·德雷克 | ![](https://static.wikia.nocookie.net/uncharted/images/a/af/Cassie.png)<br>所属作品：`uncharted` |  |
 | chloe frazer | 克罗伊·弗雷瑟 | ![](https://static.wikia.nocookie.net/uncharted/images/2/28/Chloe_Frazer_from_The_Lost_Legacy.png)<br>所属作品：`uncharted` |  |
 | elena fisher | 伊莲娜·费雪 | ![](https://static.wikia.nocookie.net/uncharted/images/7/79/Elena_Fisher_from_A_Thief%27s_End.png)<br>所属作品：`uncharted` |  |
+| nihilux | 虚照 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/NPC_Nihilux.png)<br>所属作品：`honkai star rail` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
