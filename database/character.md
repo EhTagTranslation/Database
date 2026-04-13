@@ -2735,7 +2735,7 @@ example:
 | mare bello fiore | 马雷·贝罗·菲欧雷 |  |  |
 | shalltear bloodfallen | 夏提雅·布拉德弗伦 | 夏提雅·布拉德弗伦（シャルティア・ブラッドフォールン），又译夏尔提亚，性别为女，是日本轻小说家丸山くがね著作的轻小说《Overlord》及其衍生作品中的角色。动漫由上坂堇、费丽茜娅·安吉尔配音。<br>夏提雅·布拉德弗伦，140厘米，是佩罗罗奇诺所创建的NPC，职务为纳萨力克地下大坟墓地下第一至三层的守护者。<br>![](https://img.moegirl.org.cn/common/thumb/8/81/Shalltear_Bloodfallen.png/420px-Shalltear_Bloodfallen.png) | [[萌娘百科](https://zh.moegirl.org.cn/夏提雅·布拉德弗伦#.E6.A6.82.E5.86.B5)] |
 | ai | 爱 |  |  |
-| ai kagano | 加贺野爱 |  |  |
+| ai kagano | 加贺野爱 | ![](https://ehgt.org/w/01/807/67411-fyz8a7pp.webp)<br>所属作品：`mahou shoujo ai` |  |
 | mayu | 美格 |  |  |
 | rin | 凛 | ①<br>![](https://imgsa.baidu.com/forum/w%3D580/sign=9cff6a908913632715edc23ba18ea056/bc1799315c6034a8d3ff4ecdc81349540923760b.jpg)<br>所属作品：`senran kagura`<br>————————<br>②游戏王系列的第5部作品《游戏王ARC-V》的女主角。 |  |
 | farrah | 法拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/1/16/Zoom_3030103000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/7/70/Zoom_3030248000_01.png)<br>所属作品：`granblue fantasy` |  |
