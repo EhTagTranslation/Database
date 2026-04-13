@@ -9103,6 +9103,7 @@ example:
 | nana shimura | 志村菜奈 | ![](https://static.wikia.nocookie.net/bokunoheroacademia/images/5/51/Nana_Shimura_%28Anime%29.png)<br>所属作品：`my hero academia` |  |
 | suma | 须磨 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/e1/Suma_design.png)<br>所属作品：`kimetsu no yaiba`<br>日语：須磨 |  |
 | hinatsuru | 雏鹤 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/f/f0/Courtesan_Hinatsuru_design.png)<br>所属作品：`kimetsu no yaiba`<br>日语：雛鶴 |  |
+| cassie drake | 凯西·德雷克 | ![](https://static.wikia.nocookie.net/uncharted/images/a/af/Cassie.png)<br>所属作品：`uncharted` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
