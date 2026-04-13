@@ -163,7 +163,7 @@ example:
 | komone ushio | 相音うしお |  |  |
 | yuriko | 白河子 |  |  |
 | nanno koto | 南野琴 |  |  |
-| minazuki mikka | 水无月三日 |  |  |
+| minazuki mikka | 水无月三日 | 水無月三日 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG35958.html) \| [DLsite](https://ci-en.dlsite.com/creator/4866) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74019/) \| [pixiv](https://www.pixiv.net/users/2191089) |
 | minazuki juuzou | 水无月十三 | 水無月十三。漫画家。老师画的`ahegao`真的超色<br><br>![PixivIcon](# "https://i.pixiv.cat/user-profile/img/2015/01/04/15/04/56/8802247_d50c3e540cb030dd969c3d01814b855d_170.jpg") | [X](https://x.com/k8FW3om1NMPUbZk) [pixiv](https://www.pixiv.net/users/13246744) |
 | minazuki tooru | 水无月彻 |  |  |
 | minazuki no-mu | 水无月のーむ |  |  |
