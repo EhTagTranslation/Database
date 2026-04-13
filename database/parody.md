@@ -2793,6 +2793,7 @@ example:
 | jidou hanbaiki ni umarekawatta ore wa meikyuu wo samayou | 转生成自动贩卖机的我今天也在迷宫徘徊 | ![](https://upload.wikimedia.org/wikipedia/en/f/ff/Reborn_as_a_Vending_Machine%2C_I_Now_Wander_the_Dungeon.png)<br>昼熊创作的轻小说作品，并有改编动画。 |  |
 | bunny suit planning | BUNNY SUIT PLANNING | 日本插画师‌高峰ナダレ‌（Takamine Nadare）创作的原创角色系列。 |  |
 | hanamaru youchien | 花丸幼稚园 | ![](https://upload.wikimedia.org/wikipedia/en/e/e8/Hanamaru_Kindergarten_vol01_Cover.jpg)<br>日本漫画家勇人创作的轻喜剧漫画 |  |
+| tougen anki | 桃源暗鬼 | ![](https://static.wikia.nocookie.net/tougen_anki/images/c/cb/Main.png)<br>日本漫画家漆原侑来创作的漫画 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
