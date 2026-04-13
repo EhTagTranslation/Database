@@ -9127,6 +9127,7 @@ example:
 | musubi tendouji | 天堂寺结 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/6/6a/Tendouji_Musubi.png)<br>所属作品：`tokyo 7th sisters`<br>日语：天堂寺ムスビ |  |
 | shizuka kuonji | 久远寺静香 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/0/01/Kuonji_Shizuka.png)<br>所属作品：`tokyo 7th sisters`<br>日语：久遠寺シズカ |  |
 | ume kujyo | 九条梅 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/d/de/Kujyo_Ume.png)<br>所属作品：`tokyo 7th sisters`<br>日语：九条ウメ |  |
+| miu aihara | 逢原美羽 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/2/26/Aihara_Miu.png)<br>所属作品：`tokyo 7th sisters`<br>日语：逢原ミウ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
