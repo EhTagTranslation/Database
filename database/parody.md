@@ -2796,6 +2796,7 @@ example:
 | tougen anki | 桃源暗鬼 | ![](https://static.wikia.nocookie.net/tougen_anki/images/c/cb/Main.png)<br>日本漫画家漆原侑来创作的漫画 |  |
 | uncharted | 神秘海域系列 | 顽皮狗工作室开发的动作冒险游戏系列。 |  |
 | the last blade | 月华剑士 |  |  |
+| temple | 庙不可言 | ![](https://upload.wikimedia.org/wikipedia/en/b/b1/TenPuru_vol_1.png)<br>吉冈公威连载的漫画作品，并有改编动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
