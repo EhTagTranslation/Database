@@ -15089,7 +15089,7 @@ example:
 | yukiya ruru | 雪谷るる |  | [X](https://x.com/yukiya__ruru) |
 | matsuda oruta | 松田おるた |  | [X](https://x.com/matudayazo) |
 | shybox | Shybox |  | [X](https://x.com/ShyboxNTR) \| [Patreon](https://www.patreon.com/Shybox) \| [shyboxgame](https://shyboxgame.itch.io/ntrphone) |
-| jiuxueran | 旧雪染 |  |  |
+| jiuxueran | 旧雪染 | 大号为`moxueyin` |  |
 | moxueyin | 墨雪吟 |  |  |
 
 <!--TEMPLATE:
