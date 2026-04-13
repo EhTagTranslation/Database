@@ -9092,6 +9092,7 @@ example:
 | nanako yamamoto | 山本菜菜子 | ![](https://static.wikia.nocookie.net/hanamaru-kindergarten/images/a/a8/8a5adc6fbe.jpg)<br>所属作品：`hanamaru youchien`<br>日语：山本菜々子 |  |
 | mary aki | 玛丽亚纪 | ![](https://static.wikia.nocookie.net/tougen_anki/images/f/fe/Mary_Aki_%28Anime%29.png)<br>所属作品：`tougen anki`<br>日语：メアリー亜紀 |  |
 | yomogi momokusa | 桃草蓬 | ![](https://static.wikia.nocookie.net/tougen_anki/images/3/32/Yomogi_Momokusa_anime_design.png)<br>所属作品：`tougen anki` |  |
+| kuina sazanami | 涟水鸡 | ![](https://static.wikia.nocookie.net/tougen_anki/images/c/ce/Kuina_Sazanami_anime_design.png)<br>所属作品：`tougen anki`<br>日语：漣水鶏 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
