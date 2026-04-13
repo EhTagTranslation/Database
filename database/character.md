@@ -9112,6 +9112,7 @@ example:
 | hasaha | 哈萨赫 | ![](https://static.wikia.nocookie.net/summonnight/images/2/24/SN2-Hasaha1.jpg)<br>所属作品：`summon night` |  |
 | subaru takamiya | 鹰宫昴 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/0/0b/Subaru_Takamiya_full_cha.png)<br>所属作品：`beat blades haruka`<br>日语：鷹宮スバル |  |
 | miki kawai | 川井美树 | ![](https://static.wikia.nocookie.net/koenokatachi/images/0/0c/KawaiTemplate.png)<br>所属作品：`koe no katachi`<br>日语：川井 みき |  |
+| kyouko u. uesugi | 上杉·威帕斯·京子 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/3/30/Uesugi_Kyouko.png)<br>所属作品：`tokyo 7th sisters`<br>日语：上杉・ウエバス・キョーコ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
