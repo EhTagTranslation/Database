@@ -2794,6 +2794,7 @@ example:
 | bunny suit planning | BUNNY SUIT PLANNING | 日本插画师‌高峰ナダレ‌（Takamine Nadare）创作的原创角色系列。 |  |
 | hanamaru youchien | 花丸幼稚园 | ![](https://upload.wikimedia.org/wikipedia/en/e/e8/Hanamaru_Kindergarten_vol01_Cover.jpg)<br>日本漫画家勇人创作的轻喜剧漫画 |  |
 | tougen anki | 桃源暗鬼 | ![](https://static.wikia.nocookie.net/tougen_anki/images/c/cb/Main.png)<br>日本漫画家漆原侑来创作的漫画 |  |
+| uncharted | 神秘海域系列 | 顽皮狗工作室开发的动作冒险游戏系列。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
