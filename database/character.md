@@ -9098,6 +9098,7 @@ example:
 | akira goto | 五桐玲 | ![](https://static.wikia.nocookie.net/love-live/images/c/ca/Gotou_Akira.png)<br>所属作品：`love live bluebird`<br>日语：五桐玲 |  |
 | miracle kanazawa | 金泽奇迹 | ![](https://static.wikia.nocookie.net/love-live/images/1/1d/Kanazawa_Miracle.png)<br>所属作品：`love live bluebird`<br>日语：金澤奇跡 |  |
 | yukuri harumiya | 春宫悠可里 | ![](https://static.wikia.nocookie.net/love-live/images/1/15/Harumiya_Yukuri.png)<br>所属作品：`love live bluebird`<br>日语：春宮ゆくり |  |
+| shion sasaki | 佐佐木翔音 | ![](https://static.wikia.nocookie.net/love-live/images/c/c1/Sasaki_Shion.png)<br>所属作品：`love live bluebird`<br>日语：佐々木翔音 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
