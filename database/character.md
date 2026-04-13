@@ -9107,7 +9107,7 @@ example:
 | chloe frazer | 克罗伊·弗雷瑟 | ![](https://static.wikia.nocookie.net/uncharted/images/2/28/Chloe_Frazer_from_The_Lost_Legacy.png)<br>所属作品：`uncharted` |  |
 | elena fisher | 伊莲娜·费雪 | ![](https://static.wikia.nocookie.net/uncharted/images/7/79/Elena_Fisher_from_A_Thief%27s_End.png)<br>所属作品：`uncharted` |  |
 | nihilux | 虚照 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/5/58/NPC_Nihilux.png)<br>所属作品：`honkai star rail` |  |
-| manami katsura | 桂真奈美 | 所属作品：`school days` |  |
+| manami katsura | 桂真奈美 | ![](https://static.wikia.nocookie.net/school-days/images/f/fa/C707176chara19_9994.jpg)<br>所属作品：`school days` |  |
 | youko saionji | 西园寺阳 | ![](https://static.wikia.nocookie.net/school-days/images/b/bd/Youko_Saionji_Clothing.jpg)<br>所属作品：`school days`<br>日语：西園寺踊子 |  |
 
 <!--TEMPLATE: 
