@@ -9101,6 +9101,7 @@ example:
 | shion sasaki | 佐佐木翔音 | ![](https://static.wikia.nocookie.net/love-live/images/c/c1/Sasaki_Shion.png)<br>所属作品：`love live bluebird`<br>日语：佐々木翔音 |  |
 | cocoro yazawa | 矢泽心 | ![](https://static.wikia.nocookie.net/love-live/images/d/d8/Cocoro_Infobox_ID.png)<br>所属作品：`love live`<br>日语：矢澤 こころ |  |
 | nana shimura | 志村菜奈 | ![](https://static.wikia.nocookie.net/bokunoheroacademia/images/5/51/Nana_Shimura_%28Anime%29.png)<br>所属作品：`my hero academia` |  |
+| suma | 须磨 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/e1/Suma_design.png)<br>所属作品：`kimetsu no yaiba`<br>日语：須磨 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
