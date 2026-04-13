@@ -9130,6 +9130,7 @@ example:
 | miu aihara | 逢原美羽 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/2/26/Aihara_Miu.png)<br>所属作品：`tokyo 7th sisters`<br>日语：逢原ミウ |  |
 | tasha romanovsky | 塔莎·罗曼诺夫斯基 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/1/1e/Tasha_Romanovsky.png)<br>所属作品：`tokyo 7th sisters`<br>日语：ターシャ・ロマノフスキー |  |
 | tsukuyo aoba | 苍叶月夜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/2f/c2/124073_crt_aGCKt.jpg)<br>所属作品：`temple`<br>日语：蒼葉月夜 |  |
+| yuzuki aoba | 苍叶结月 | ![](https://lain.bgm.tv/r/400/pic/crt/l/c0/24/124072_crt_24HeE.jpg)<br>所属作品：`temple`<br>日语：蒼葉結月 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
