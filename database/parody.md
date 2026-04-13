@@ -902,7 +902,7 @@ example:
 | amanchu | 蓝海少女！ |  |  |
 | mangaka-san to assistant-san to | 漫画家与助手 |  |  |
 | sisters natsu no saigo no hi | SISTERS～夏最后之日～ |  |  |
-| tokyo 7th sisters | 东京 7th Sisters |  |  |
+| tokyo 7th sisters | 东京七姐妹 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/f/fc/Top01_pc.png)<br>由Donuts Co. Ltd.开发的偶像养成与音乐节奏类手机游戏 |  |
 | 7th dragon | 第七龙神 |  |  |
 | project blue earth sos | 蓝色计划-地球SOS |  |  |
 | sakura hime | 樱姬华传 |  |  |
