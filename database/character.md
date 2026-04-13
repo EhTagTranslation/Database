@@ -9124,6 +9124,7 @@ example:
 | ferb seto | 濑户费尔布 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/3/3f/Seto_Ferb.png)<br>所属作品：`tokyo 7th sisters`<br>日语：瀬戸ファーブ |  |
 | murasaki echizen | 越前紫 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/9/9b/Echizen_Murasaki.png)<br>所属作品：`tokyo 7th sisters`<br>日语：越前ムラサキ |  |
 | honoka nishizono | 西园穗乃香 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/0/05/Nishizono_Honoka.png)<br>所属作品：`tokyo 7th sisters`<br>日语：西園ホノカ |  |
+| musubi tendouji | 天堂寺结 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/6/6a/Tendouji_Musubi.png)<br>所属作品：`tokyo 7th sisters`<br>日语：天堂寺ムスビ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
