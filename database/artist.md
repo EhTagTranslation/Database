@@ -15091,6 +15091,7 @@ example:
 | shybox | Shybox |  | [X](https://x.com/ShyboxNTR) \| [Patreon](https://www.patreon.com/Shybox) \| [shyboxgame](https://shyboxgame.itch.io/ntrphone) |
 | jiuxueran | 旧雪染 | 大号为`moxueyin` |  |
 | moxueyin | 墨雪吟 | 小号为`jiuxueran` |  |
+| hino himoto | 日野ひもと |  | [X](https://x.com/Hinohimoto2) [pixiv](https://www.pixiv.net/users/46163074) |
 
 <!--TEMPLATE:
 |  |  |  |  |
