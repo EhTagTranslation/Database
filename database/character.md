@@ -9114,6 +9114,7 @@ example:
 | miki kawai | 川井美树 | ![](https://static.wikia.nocookie.net/koenokatachi/images/0/0c/KawaiTemplate.png)<br>所属作品：`koe no katachi`<br>日语：川井 みき |  |
 | kyouko u. uesugi | 上杉·威帕斯·京子 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/3/30/Uesugi_Kyouko.png)<br>所属作品：`tokyo 7th sisters`<br>日语：上杉・ウエバス・キョーコ |  |
 | alessandra susu | 亚历山大·苏斯 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/8/8a/Alessandra_Susu.png)<br>所属作品：`tokyo 7th sisters` |  |
+| rona tsunomori | 角森萝娜 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/3/34/Tsunomori_Rona.png)<br>所属作品：`tokyo 7th sisters` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
