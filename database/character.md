@@ -4795,7 +4795,7 @@ example:
 | ornn | 奥恩（山隐之焰） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/b/b7/myc0kwpryz1b7s5gs5yayrrp35uwuy8.jpg) | [百度百科](https://baike.baidu.com/item/山隐之焰/22069139?fr=ge_ala) |
 | chong yue | 重岳 | ![](https://patchwiki.biligame.com/images/arknights/8/8d/g5s6n4scct8j1keesbikx1g692dixk9.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:重岳) |
 | ethan | 伊桑 | ![](https://patchwiki.biligame.com/images/arknights/4/46/oyj0a79vjbzo8ennh4uzgfkpo8zoijk.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:伊桑) |
-| ren yamashiro | 山城恋 | ![](https://i.pixiv.cat/img-original/img/2025/04/04/11/19/36/128937174_p2.jpg)<br>所属作品：`mato seihei no slave` | [萌娘百科](https://zh.moegirl.org.cn/山城恋) |
+| ren yamashiro | 山城恋 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/9/9b/Ren_Yamashiro_S2.webp)<br>所属作品：`mato seihei no slave` | [萌娘百科](https://zh.moegirl.org.cn/山城恋) |
 | sena himuro | 冰室濑名 | ![](https://patchwiki.biligame.com/images/ba/2/20/qhdlcq4fwlpftxzxn3y8j3p9gibe3v9.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Sena)<br>[萌娘百科](https://zh.moegirl.org.cn/冰室濑奈) |
 | amane tanikaze | 谷风天音 | 所属作品: `p:tenshi souzou re-boot`<br><br>主人公的妹妹。和主人公一样，前世是异世界的魔族。<br><br>![](https://t.vndb.org/ch/30/142730.jpg) | [萌娘百科](https://zh.moegirl.org.cn/谷风天音) |
 | sairi mikuni | 三国彩里 | 所属作品: `p:tenshi souzou re-boot` |  |
