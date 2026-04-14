@@ -9138,6 +9138,7 @@ example:
 | gel | 葛儿 | ![](https://static.wikia.nocookie.net/hunterxhunter/images/e/e6/HxH2011_EP137_-_Gel_Portrait.png)<br>所属作品：`hunter x hunter`<br>日语：ゲル |  |
 | taisai seikun | 太岁星君 | ![](https://static.wikia.nocookie.net/dark-gathering/images/a/a5/Taisui_Manga.png)<br>所属作品：`dark gathering` |  |
 | melissa kinrenka | 梅丽莎·金莲花 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/da/Melissa_Kinrenka_Portrait.png)<br>所属社团：`nijisanji`<br>日语：メリッサ・キンレンカ |  |
+| lihaku | 李白（药屋少女） | ![](https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/3/30/Lihaku_Anime_Design_Season_2.png)<br>所属作品：`kusuriya no hitorigoto` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
