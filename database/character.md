@@ -9141,6 +9141,7 @@ example:
 | lihaku | 李白（药屋少女） | ![](https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/3/30/Lihaku_Anime_Design_Season_2.png)<br>所属作品：`kusuriya no hitorigoto` |  |
 | tao tao the chanter | 阴阳师道道 | ![](https://static.wikia.nocookie.net/yugioh/images/4/4b/TaoTaotheChanter-DOOD-EN-C-1E.png)<br>所属作品：`yu-gi-oh` |  |
 | kokurano | 狐蔵乃 | ![](https://static.wikia.nocookie.net/yugioh/images/8/8d/Kokurano-fsa.png)<br>所属作品：`yu-gi-oh` |  |
+| illyana rasputina | 伊莉亚娜·拉斯普京（秘客） | ![](https://static.wikia.nocookie.net/marvel-rivals/images/8/8d/Magik_Hero_Portrait.png)<br>所属作品：`x-men` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
