@@ -2797,6 +2797,7 @@ example:
 | uncharted | 神秘海域系列 | 顽皮狗工作室开发的动作冒险游戏系列。 |  |
 | the last blade | 月华剑士 |  |  |
 | temple | 庙不可言 | ![](https://upload.wikimedia.org/wikipedia/en/b/b1/TenPuru_vol_1.png)<br>吉冈公威连载的漫画作品，并有改编动画。 |  |
+| kingdom | 王者天下 | ![](https://static.wikia.nocookie.net/kingdom-anime/images/9/96/Volume_1_Updated_cover.jpg)<br>日本漫画家原泰久创作的历史题材漫画 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
