@@ -6593,7 +6593,7 @@ example:
 | rurudo lion | Rurudo Lion | 女性画师rurudo的虚拟形象 |  |
 | tan otori | 尾鸟绽 | 尾鸟绽（日语：尾鳥（おとり） 綻（たん））是由无知麻吕创作的漫画《脑洞学生会》的登场角色。<br>尾鳥綻<br>![](https://img.moegirl.org.cn/common/5/53/Otori_Tan.jpg) | [萌娘百科](https://zh.moegirl.org.cn/尾鸟绽) |
 | houjou | 北条 | 北条（Houjou）是《擅长捉弄的高木同学》中的女性配角。她目前是土庄町立土庄中学校二年级的学生，与西片和高木等角色同班。同学们称她为“学校里最漂亮的女孩”，这使她性格更加成熟。她也因喜欢成熟的男生而闻名，但尽管如此，滨口仍然是她的主要恋爱对象。 | [Fandom](https://karakai-jouzu-no-takagi-san.fandom.com/wiki/Houjou) |
-| nefelpitou | 尼菲比特 |  |  |
+| nefelpitou | 尼飞比特 | ![](https://static.wikia.nocookie.net/hunterxhunter/images/1/19/Neferpitou_2011_Design.png)<br>所属作品：`hunter x hunter` |  |
 | goreinu | 果列奴 |  |  |
 | ororon | 欧洛伦 | 欧洛伦是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![欧洛伦](https://img.moegirl.org.cn/common/thumb/e/e0/原神_欧洛伦.png/420px-原神_欧洛伦.png) | [萌娘百科](https://zh.moegirl.org.cn/欧洛伦) |
 | mikari tachibana | 橘美花莉 | ![](https://img.moegirl.org.cn/common/e/ec/动画人设图_橘美花莉.webp)<br>![](https://img.moegirl.org.cn/common/thumb/8/8f/动画人设图_橘美花莉_cos.webp/1024px-动画人设图_橘美花莉_cos.webp.png)<br>所属作品：`2.5-jigen no yuuwaku` | [萌娘百科](https://zh.moegirl.org.cn/2.5次元的诱惑) |
