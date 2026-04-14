@@ -9143,6 +9143,7 @@ example:
 | kokurano | 狐蔵乃 | ![](https://static.wikia.nocookie.net/yugioh/images/8/8d/Kokurano-fsa.png)<br>所属作品：`yu-gi-oh` |  |
 | illyana rasputina | 伊莉亚娜·拉斯普京（秘客） | ![](https://static.wikia.nocookie.net/marvel-rivals/images/8/8d/Magik_Hero_Portrait.png)<br>所属作品：`x-men` |  |
 | kai kyou | 羌瘣 | ![](https://static.wikia.nocookie.net/kingdom-anime/images/2/29/Kyou_Kai_Anime_Season_4.png)<br>所属作品：`kingdom` |  |
+| mizora | 米佐拉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
