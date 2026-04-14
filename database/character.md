@@ -9146,6 +9146,7 @@ example:
 | mizora | 米佐拉 |  |  |
 | orin | 奥林 | 游戏《博德之门3》的主要反派之一，巴尔神选 |  |
 | minthara baenre | 明萨拉 | 游戏《博德之门3》中可招募的同伴 |  |
+| gyutaro | 妓夫太郎 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/f/f4/Gyutaro_Anime.png)<br>所属作品：`kimetsu no yaiba` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
