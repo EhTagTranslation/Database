@@ -8598,7 +8598,7 @@ example:
 | konoka | 木乃香 | ![](https://static.wikia.nocookie.net/blue-archive/images/9/9e/Konoka_Portrait.png)<br>出自作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/木乃香) |
 | alto saotome | 早乙女阿尔特 | ![](https://ehgt.org/w/00/290/74552-6xrpo7of.webp)<br>出自作品：`p:macross frontier`<br><br>早乙女阿尔特（日语：早乙女アルト / さおとめアルト）是动画《超时空要塞Frontier》及其衍生作品的登场角色。<br>出身于歌舞伎世家，因为长发与美貌常被误认为美女，15岁时出演的歌舞《樱姬公主》深受好评，其扮演樱姬公主的形象一直至今尚有忠实粉丝存在，因此在校园以及工作场所常被戏称为“公主”。<br>![](https://ehgt.org/w/00/595/84524-kfsek1rp.webp) | [萌娘百科](https://zh.moegirl.org.cn/早乙女阿尔特) |
 | ranka lee | 兰花·李 | ![](https://ehgt.org/w/01/901/82428-nel5utyv.webp)<br>出自作品：`p:macross frontier`<br><br>兰花·李是动画《超时空要塞Frontier》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/兰花·李) |
-| umbrosa | 影 |  | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:影) |
+| umbrosa | 影 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/b/b3/Umbrosa-circle-big.png)<br>所属作品：`honor of kings` | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:影) |
 | komaru naegi | 苗木困 | ![](https://p.sda1.dev/30/31bc1144f1b2f371d14e5ac1a58c5ce0/苗木困.webp)<br>苗木困（日语：苗木こまる，民间又译“苗木小丸”）是Spike Chunsoft制作的ADV游戏《弹丸论破系列》及其衍生作品的登场角色。在《绝对绝望少女~弹丸论破外传~》中担任主角。 | [萌娘百科](https://zh.moegirl.org.cn/苗木困) |
 | yuugure | 黄昏 | ![](https://static.wikia.nocookie.net/towa-no-yugure/images/d/d6/Yūgure.png)<br>所属作品：`towa no yugure` | [Fandom](https://towa-no-yugure.fandom.com/wiki/Yūgure) |
 | orpheus | 奥尔菲斯 | ![](https://patchwiki.biligame.com/images/dwrg/2/2a/egg9hox5nipdhks2u7vsjiwyxdu69km.png)<br>出自作品：`p:identity v`<br>大名鼎鼎的小说家“奥尔菲斯”，没有人知道他的过去，甚至，可能包括他自己。 | [BILIGAME WIKI](https://wiki.biligame.com/dwrg/“奥尔菲斯”) \| [萌娘百科](https://zh.moegirl.org.cn/小说家%28第五人格%29#) |
