@@ -13002,7 +13002,7 @@ example:
 | takurowo-dou | タクロヲ堂 |  |  |
 | osoracu | おそら区 |  |  |
 | maikage | 舞影 |  |  |
-| banana style | ばななすたいる |  |  |
+| banana style | ばななすたいる |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG60805.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203397/) \| [FANBOX](https://wwcx4872.fanbox.cc/) \| [X](https://x.com/BANANASUTAIRU) \| [pixiv](https://www.pixiv.net/users/48084405) |
 | sugarmilk | SugarMilk |  |  |
 | alma | ALMA=リンゴ | 作品你和我与伊甸园的苹果<br>母公司为Orbit |  |
 | orbit | Orbit | 代表作桃华月惮<br>旗下公司ALMA作品你和我与伊甸园的苹果 |  |
