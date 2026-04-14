@@ -9135,6 +9135,7 @@ example:
 | denia | 达妮娅 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/b/b8/Denia_Full_Sprite.png)<br>所属作品：`wuthering waves` |  |
 | leorio paladiknight | 雷欧力·帕拉帝奈特 | ![](https://static.wikia.nocookie.net/hunterxhunter/images/2/23/Leorio_2011_Design.png)<br>所属作品：`hunter x hunter` |  |
 | meruem | 梅路艾姆 | ![](https://static.wikia.nocookie.net/hunterxhunter/images/5/57/Meruem_2011_Design.png)<br>所属作品：`hunter x hunter` |  |
+| gel | 葛儿 | ![](https://static.wikia.nocookie.net/hunterxhunter/images/e/e6/HxH2011_EP137_-_Gel_Portrait.png)<br>所属作品：`hunter x hunter`<br>日语：ゲル |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
