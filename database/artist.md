@@ -15096,6 +15096,7 @@ example:
 | ilill | 入る |  | [X](https://x.com/ilillilillilill) |
 | punpunn | Punpunn |  | [FANBOX](https://punpunn.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/9609287) \| [X](https://x.com/PunpunnXD) \| [Patreon](https://www.patreon.com/Punpunn) |
 | niello kyo | にえろKYO |  |  |
+| seiran aichi | SeiranAichi | 原账号：umikaze | [pixiv](https://www.pixiv.net/users/92918484) \| [X](https://x.com/SeiranAichi_mk3) \| [bsky](https://bsky.app/profile/seiran097.bsky.social) \| [Skeb](https://skeb.jp/@SeiranAichi) |
 
 <!--TEMPLATE:
 |  |  |  |  |
