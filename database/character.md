@@ -9134,6 +9134,7 @@ example:
 | masayoshi komi | 古见将贺 | ![](https://static.wikia.nocookie.net/komisan-wa-komyushou-desu/images/c/c7/Masayoshi_Anime.png)<br>所属作品：`komi-san wa komyushou desu.`<br>日语：古見将賀 |  |
 | denia | 达妮娅 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/b/b8/Denia_Full_Sprite.png)<br>所属作品：`wuthering waves` |  |
 | leorio paladiknight | 雷欧力·帕拉帝奈特 | ![](https://static.wikia.nocookie.net/hunterxhunter/images/2/23/Leorio_2011_Design.png)<br>所属作品：`hunter x hunter` |  |
+| meruem | 梅路艾姆 | ![](https://static.wikia.nocookie.net/hunterxhunter/images/5/57/Meruem_2011_Design.png)<br>所属作品：`hunter x hunter` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
