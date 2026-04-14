@@ -8140,7 +8140,7 @@ example:
 | wei yenwu | 魏彦吾 | ![](https://storage.moegirl.org.cn/moegirl/commons/8/8a/Ak_char_2005_weiyw_1.png)<br>所属游戏:`arknights` | [萌娘百科](https://zh.moegirl.org.cn/魏彦吾) |
 | davi artman | 妲维·阿特曼 |  | [Fandom](https://virtualyoutuber.fandom.com/wiki/Davi_Artman) |
 | tamayo | 珠世 | ![](https://ehgt.org/w/02/196/32009-domsb8ks.webp)<br>所属作品：`kimetsu no yaiba` | [百度百科](https://baike.baidu.com/item/珠世/22390348) |
-| himari azuma | 东日万凛 | 东日万凛是由タカヒロ原作、竹村洋平作画的漫画《魔都精兵的奴隶》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/东日万凛) |
+| himari azuma | 东日万凛 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/d/d3/Himari_Azuma_S2.webp)<br>所属作品：`mato seihei no slave` | [萌娘百科](https://zh.moegirl.org.cn/东日万凛) |
 | yachiho azuma | 东八千穗 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/6/67/Yachiho_Azuma_anime_design.png)<br>所属作品：`mato seihei no slave` | [Fandom](https://mato-seihei-no-slave.fandom.com/wiki/Yachiho_Azuma) [萌娘百科](https://zh.moegirl.org.cn/东八千穗) |
 | sherry tachibana | 橘雪莉 | ![](https://storage.moegirl.org.cn/moegirl/commons/b/ba/雪莉正常立绘.png)<br><br>日文：橘シェリー (タチバナ シェリー)<br>所属游戏:`mahou shoujo no majo saiban`<br>![](https://ehgt.org/w/02/073/78790-5oowltuq.webp)<br>左手力气大，右手大力气<br>雪莉酱卡哇伊daisuki~ | [萌娘百科](https://zh.moegirl.org.cn/橘雪莉) |
 | hanna toono | 远野汉娜 | ![](https://storage.moegirl.org.cn/moegirl/commons/d/d6/汉娜正常立绘.png)<br>日文：遠野ハンナ (トオノ ハンナ)<br>所属游戏:`mahou shoujo no majo saiban`<br><br>指定背锅王<br>往那一飞让人唠一辈子 | [萌娘百科](https://zh.moegirl.org.cn/远野汉娜) |
