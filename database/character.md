@@ -9140,6 +9140,7 @@ example:
 | melissa kinrenka | 梅丽莎·金莲花 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/da/Melissa_Kinrenka_Portrait.png)<br>所属社团：`nijisanji`<br>日语：メリッサ・キンレンカ |  |
 | lihaku | 李白（药屋少女） | ![](https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/3/30/Lihaku_Anime_Design_Season_2.png)<br>所属作品：`kusuriya no hitorigoto` |  |
 | tao tao the chanter | 阴阳师道道 | ![](https://static.wikia.nocookie.net/yugioh/images/4/4b/TaoTaotheChanter-DOOD-EN-C-1E.png)<br>所属作品：`yu-gi-oh` |  |
+| kokurano | 狐蔵乃 | ![](https://static.wikia.nocookie.net/yugioh/images/8/8d/Kokurano-fsa.png)<br>所属作品：`yu-gi-oh` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
