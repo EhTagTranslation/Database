@@ -13324,7 +13324,7 @@ example:
 | kurozume fuuta | 黒爪フータ |  |  |
 | atsuatsu mikan | 热热蜜柑 |  |  |
 | jason shiina | Jason椎名 |  |  |
-| cappuccino | 卡布奇诺 |  |  |
+| cappuccino | 卡布奇诺 | 日：カプチーノ | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG51417.html) |
 | saneyarou | さね野郎 |  |  |
 | itsumo nemui | いつもねむい |  |  |
 | urushibara koubou | 漆原工房 |  |  |
