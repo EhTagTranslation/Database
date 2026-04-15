@@ -10010,7 +10010,7 @@ example:
 | samurai shipmaru | さむらいシップ丸 |  |  |
 | sunora | さんおれ |  |  |
 | sana house | Sana House |  |  |
-| sanazura doujinshi hakkoujo | さなづら同人誌発行所 |  |  |
+| sanazura doujinshi hakkoujo | さなづら同人誌発行所 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77407/) |
 | sanb. | さんびー。 |  |  |
 | sanbai kaiouken | 3倍界王軒 |  |  |
 | sanban yashiki | 三番屋敷 |  |  |
