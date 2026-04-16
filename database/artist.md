@@ -15100,6 +15100,7 @@ example:
 | muta | むた |  |  |
 | jndfh | jndfh |  | [FANBOX](https://jndfh.fanbox.cc/) \| [哔哩哔哩](https://space.bilibili.com/18178438/dynamic) \| [pixiv](https://www.pixiv.net/users/9981353) \| [Pawoo](https://pawoo.net/@jndfh) \| [X](https://x.com/jndfh1) |
 | murasan | ムラさん |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ016005/ana_flg/all) |
+| kitano onsen | きたのをんせん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
