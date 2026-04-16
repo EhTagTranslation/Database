@@ -13868,6 +13868,7 @@ example:
 | okushima izumo | 奥島いずも |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG71130.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201820/) |
 | niero kouzan | ニエロ鉱山 |  |  |
 | kuroneko | くろねこ（NTR専門） |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=225345/) |
+| uma goya sankaku | uma五夜参画 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
