@@ -11752,7 +11752,7 @@ example:
 | yositama | ヨシタマ |  |  |
 | yosomono | よそ者 |  |  |
 | yosuke | ヨースケ |  |  |
-| yosyo- | ヨショー |  |  |
+| yosyo- | いきなりもじお | ※自2021年6月19日起，名称已从「ヨショー」变更为「いきなりもじお」 | [X](https://x.com/iknrmjo) \| [pixiv](https://www.pixiv.net/users/8850034) |
 | yotaka | yotaka |  |  |
 | yotarou | 夜太弄 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22夜太弄%22/ana_flg/all) |
 | yotsuba yuiko | 四葉ゆいこ |  |  |
