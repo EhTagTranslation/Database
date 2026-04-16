@@ -12725,7 +12725,7 @@ example:
 | kakure area | 影おじ | ![](https://pbs.twimg.com/profile_images/1440361839640989701/BcT06xRc_400x400.jpg)<br>作者推特头像 | [pixiv](https://www.pixiv.net/users/6570768) [X](https://x.com/kakushi_eria_b) |
 | muromaki | ムロマキ |  | [X](https://x.com/mrmk_z/) |
 | yapo | yapo | ![](https://pbs.twimg.com/profile_images/1509566784961413120/XD6K3zW__400x400.jpg)<br>老师推特头像 | [pixiv](https://www.pixiv.net/users/14089) [X](https://x.com/yaponishi) |
-| kogyoku | 红玉 |  |  |
+| kogyoku | 红玉 | 紅玉 | [FANBOX](https://www.fanbox.cc/@kogyoku69) \| [X](https://x.com/kogyoku69) \| [pixiv](https://www.pixiv.net/users/3337516) \| [引力圈](https://app.unifans.io/login?redirect=/c/kogyoku) \| [linktr.ee](https://linktr.ee/kogyoku) |
 | fake enn | Fake Enn |  | [pixiv](https://www.pixiv.net/users/33045612) |
 | actuale | ActualE |  | [pixiv](https://www.pixiv.net/users/17345102) [Patreon](https://www.patreon.com/EkusuAkshuru) |
 | throtem | トロテム |  | [FANBOX](https://throtem.fanbox.cc/) [pixiv](https://www.pixiv.net/users/4984458) [X](https://x.com/Throtem_) |
