@@ -14269,7 +14269,7 @@ example:
 | jayep | Jayep |  | [pixiv](https://www.pixiv.net/users/83410821) |
 | doremi | DoReMi | 画师，蔚蓝档案总设计师Chief of Design |  |
 | inumori shirou | 戌森四朗 |  |  |
-| kouguti | こうぐち |  |  |
+| kouguti | こうぐち |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53644.html) |
 | kouan | コーアン |  |  |
 | kasama shirou | 笠間しろう |  |  |
 | katsuyoshi | かつよし |  |  |
