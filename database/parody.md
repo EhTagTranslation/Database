@@ -2799,6 +2799,7 @@ example:
 | temple | 庙不可言 | ![](https://upload.wikimedia.org/wikipedia/en/b/b1/TenPuru_vol_1.png)<br>吉冈公威连载的漫画作品，并有改编动画。 |  |
 | kingdom | 王者天下 | ![](https://static.wikia.nocookie.net/kingdom-anime/images/9/96/Volume_1_Updated_cover.jpg)<br>日本漫画家原泰久创作的历史题材漫画 |  |
 | fate prototype | 命运-原型 | 奈须蘑菇创作的轻小说作品。在学生时期所写的未完长篇小说，是几乎所有Fate系列的始祖和原型。 |  |
+| jiisan baasan wakagaeru | 老夫老妻重返青春 | 《老夫老妻重返青春》（日语：じいさんばあさん若返る）是新挑限的日本漫画。 | [维基百科](https://zh.wikipedia.org/wiki/老夫老妻重返青春) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
