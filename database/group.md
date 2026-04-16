@@ -3343,7 +3343,7 @@ example:
 | bloody hawk | ブラッディーホーク |  |  |
 | bloom factory | BLOOM FACTORY |  |  |
 | blossom eight | ブロッサムエイト |  |  |
-| blossom sphere | Blossom Sphere |  |  |
+| blossom sphere | Blossom Sphere |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74099/) |
 | blow | BLOW |  |  |
 | blue banana | Blue Banana |  |  |
 | blue blood | ブルーブラッド |  |  |
