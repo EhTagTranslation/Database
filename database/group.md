@@ -11735,7 +11735,7 @@ example:
 | unitonasubi | うにとなすび |  |  |
 | uniuni | uniuni |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72601/) |
 | uniya | 雲丹屋 |  |  |
-| uniyaa | うに屋あ |  |  |
+| uniyaa | うに屋あ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79244/) |
 | unizo | うに蔵 |  |  |
 | unknown | アンノウン |  |  |
 | unlucky strike | アンラッキーストライク |  |  |
