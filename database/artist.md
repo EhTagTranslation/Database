@@ -15105,6 +15105,7 @@ example:
 | renbocloud | Renbocloud |  | [pixiv](https://www.pixiv.net/users/115263964) \| [X](https://x.com/Renboerocat) \| [引力圈](https://app.unifans.io/login?redirect=/c/renboero) \| [Patreon](https://www.patreon.com/Renboero609) |
 | kaze no koe | 風の声 |  |  |
 | wada-chin | 和田ちん |  |  |
+| utena emu | 蒂絵夢 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
