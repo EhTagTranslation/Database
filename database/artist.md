@@ -9448,7 +9448,7 @@ example:
 | ri. | ri. |  |  |
 | tajima ria | 立嶋りあ |  |  |
 | rian | りあん |  |  |
-| riboshika | リボシカ |  |  |
+| riboshika | リボシカ |  | [FANBOX](https://riboshika.fanbox.cc/) \| [X](https://x.com/Riboshika) \| [pixiv](https://www.pixiv.net/users/43833338) \| [Fantia](https://fantia.jp/fanclubs/24162) |
 | ricca | りっか |  |  |
 | ricchy | ricchy |  |  |
 | rice oomori | ライスおおもり |  |  |
