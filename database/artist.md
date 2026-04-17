@@ -15104,6 +15104,7 @@ example:
 | youkai kubinashi | 妖怪クビナシ | 专门画scat系作品的画师 | [pixiv](https://www.pixiv.net/users/2335781)<br>[X](https://x.com/youkaiKubinashi) |
 | renbocloud | Renbocloud |  | [pixiv](https://www.pixiv.net/users/115263964) \| [X](https://x.com/Renboerocat) \| [引力圈](https://app.unifans.io/login?redirect=/c/renboero) \| [Patreon](https://www.patreon.com/Renboero609) |
 | kaze no koe | 風の声 |  |  |
+| wada-chin | 和田ちん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
