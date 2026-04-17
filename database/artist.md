@@ -15106,6 +15106,7 @@ example:
 | kaze no koe | 風の声 |  |  |
 | wada-chin | 和田ちん |  |  |
 | utena emu | 蒂絵夢 |  |  |
+| oniru | おにる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
