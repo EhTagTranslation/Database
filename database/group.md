@@ -13872,6 +13872,7 @@ example:
 | bitchmotors | ビッチモーターズ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56018.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201931/) |
 | mamiana hanten | 狸穴飯店 | `youkai kubinashi`使用的同人社团名称 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47608.html)<br>[FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202672/) |
 | kaori no chikara | 香りの力 |  |  |
+| monaka doumei | もなか同盟 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01018881.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
