@@ -15107,6 +15107,7 @@ example:
 | wada-chin | 和田ちん |  |  |
 | utena emu | 蒂絵夢 |  |  |
 | oniru | おにる |  |  |
+| snow | スノウ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
