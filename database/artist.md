@@ -15108,6 +15108,7 @@ example:
 | utena emu | 蒂絵夢 |  |  |
 | oniru | おにる |  |  |
 | snow | スノウ |  |  |
+| yasumi | 泰三 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
