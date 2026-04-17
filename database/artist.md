@@ -10287,7 +10287,7 @@ example:
 | sonokawa sono | 園河ソノ |  |  |
 | sonote | ソノテ |  |  |
 | sora | ソラ |  | [X](https://x.com/soraoraora) [pixiv](https://www.pixiv.net/users/95070682) [FANBOX](https://soraoraora.fanbox.cc/) |
-| sora mame | そら豆 |  |  |
+| sora mame | そら豆 |  | [Fantia](https://fantia.jp/fanclubs/514043) \| [pixiv](https://www.pixiv.net/users/20510724) |
 | zegga | 絶牙 | ソラノ紫雲 |  |
 | sora tokumo | 空十雲 |  |  |
 | soraga- | そらがー |  |  |
