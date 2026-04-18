@@ -9149,6 +9149,7 @@ example:
 | gyutaro | 妓夫太郎 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/f/f4/Gyutaro_Anime.png)<br>所属作品：`kimetsu no yaiba` |  |
 | makio | 槙於 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/44/Makio_anime_design.png)<br>所属作品：`kimetsu no yaiba`<br>日语：まきを |  |
 | yui yumekawa | 梦川唯 | 《美妙天堂》及其衍生作品的登场角色。 |  |
+| hisato azuma | 东阳里 | ![](https://ehgt.org/w/02/084/60958-41eapxz7.webp)<br>所属作品：`himawari wa yoru ni saku` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
