@@ -2800,7 +2800,7 @@ example:
 | kingdom | 王者天下 | ![](https://static.wikia.nocookie.net/kingdom-anime/images/9/96/Volume_1_Updated_cover.jpg)<br>日本漫画家原泰久创作的历史题材漫画 |  |
 | fate prototype | 命运-原型 | 奈须蘑菇创作的轻小说作品。在学生时期所写的未完长篇小说，是几乎所有Fate系列的始祖和原型。 |  |
 | jiisan baasan wakagaeru | 老夫老妻重返青春 | 《老夫老妻重返青春》（日语：じいさんばあさん若返る）是新挑限的日本漫画。 | [维基百科](https://zh.wikipedia.org/wiki/老夫老妻重返青春) |
-| himawari wa yoru ni saku | 向日葵在夜晚绽放 | 武田弘光创作的色情漫画《向日葵ハ夜ニ咲ク》 | [EH漫画链接](https://e-hentai.org/g/1399927/b2154953ff/) |
+| himawari wa yoru ni saku | 向日葵在夜晚绽放 | 武田弘光创作的色情漫画《向日葵ハ夜ニ咲ク》 | [EH漫画链接](https://e-hentai.org/g/3717341/af6f80a2c1/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
