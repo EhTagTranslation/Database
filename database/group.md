@@ -79,7 +79,7 @@ example:
 | rosebleu | Rosebleu |  |  |
 | clochette | Clochette | Clochette（日语：クロシェット）社位于东京都台东区浅草，为日本公司ブランエール（BLANC AILE）旗下的成人游戏品牌。自2007年开始活跃，开发浪漫喜剧性质的校园风格的游戏。 | [维基百科](https://zh.wikipedia.org/wiki/Clochette) [官方网站](http://www.clochette-soft.jp/) (\*) |
 | honey soft | HONEY SOFT |  |  |
-| appetite | アパタイト |  |  |
+| appetite | アパタイト |  | [DLsite](https://www.dlsite.com/pro/circle/profile/=/maker_id/VG01801.html) |
 | pakopako soft | ぱこぱこそふと |  |  |
 | neko neko soft | 猫猫社 | 猫猫社（日语：ねこねこソフト；英语：NekoNeko Soft）是日本Soldier Blue有限公司旗下的一家制作Galgame的游戏公司。母体是同人软件社团Stage-nana。主要作品有《120日元系列》、《水色》 | [萌娘百科](https://zh.moegirl.org.cn/NekoNeko_Soft) |
 | abhar | ABHAR |  |  |
