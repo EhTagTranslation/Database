@@ -15109,6 +15109,7 @@ example:
 | oniru | おにる |  |  |
 | snow | スノウ |  |  |
 | yasumi | 泰三 |  |  |
+| kouyama atsuki | こーやまあつき |  | [DLsite](https://ci-en.dlsite.com/creator/3346) \| [DLsite](https://ci-en.dlsite.com/creator/3346) \| [X](https://x.com/suteruku25) \| [pixiv](https://www.pixiv.net/users/19441026) |
 
 <!--TEMPLATE:
 |  |  |  |  |
