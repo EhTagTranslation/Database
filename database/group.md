@@ -4915,7 +4915,7 @@ example:
 | g-rough | g-rough |  |  |
 | g-scan corp. | G-SCAN CORP. |  |  |
 | g-spot | じぃすぽっと |  |  |
-| g.b.f | G.B.F |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG37303.html) \| [DLsite](https://ci-en.dlsite.com/creator/8495) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74912/) |
+| g.b.f | G.B.F |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG37303.html) \| [DLsite](https://ci-en.dlsite.com/creator/8495) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74912/) \| [FANBOX](https://vinvin.fanbox.cc/) |
 | g.entertainment | G.Entertainment |  |  |
 | g.g.blue | G.G.BLUE |  |  |
 | g.g.g. | G.G.G. |  |  |
