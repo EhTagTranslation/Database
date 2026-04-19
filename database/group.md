@@ -13328,7 +13328,7 @@ example:
 | saneyarou | さね野郎 |  |  |
 | itsumo nemui | いつもねむい |  |  |
 | urushibara koubou | 漆原工房 |  |  |
-| onizukachris | 鬼塚クリス |  |  |
+| onizukachris | 鬼塚クリス |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201077/) |
 | uchi no yoko | ウチの横 |  |  |
 | lemon drop | れもんどろっぷ |  |  |
 | shishimusha | 猪武者 |  |  |
