@@ -10040,7 +10040,7 @@ example:
 | sansuisha | 散水社 |  |  |
 | santa fe radio | Santa Fe Radio |  |  |
 | santarose | サンタローズ |  |  |
-| santonana | サントナナ |  |  |
+| santonana | サントナナ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77378/) |
 | sanukiya | 讃岐屋 |  |  |
 | sanyongo | 三四五 |  |  |
 | sanzoku no uta | 山賊の唄 |  |  |
