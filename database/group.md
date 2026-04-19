@@ -10092,7 +10092,7 @@ example:
 | sayonara hornet | サヨナラホーネット |  |  |
 | sayupot | さゆぽっと |  |  |
 | sayuu-hanten | サユウハンテン |  |  |
-| sazameki dori | さざめき通り |  |  |
+| sazameki dori | さざめき通り |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77040/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG35914.html) |
 | sazanka no yado | 山茶花の宿 |  |  |
 | sazareito | さざれいと |  |  |
 | sbd | SBD |  |  |
