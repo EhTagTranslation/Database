@@ -13875,6 +13875,7 @@ example:
 | monaka doumei | もなか同盟 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01018881.html) |
 | asuha | アスハー |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200744/) |
 | pink journey | ピンクジャーニー |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG40770.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78249/) |
+| v.u.g | V.U.G |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=46501) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
