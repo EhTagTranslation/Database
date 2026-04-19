@@ -8405,7 +8405,7 @@ example:
 | negi to takenoko | ねぎとたけのこ |  |  |
 | negoro teppou tai | 根来鉄砲隊 |  |  |
 | negoto | negoto |  |  |
-| negoya | 寝語屋 |  |  |
+| negoya | 寝語屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG36839.html) \| [DLsite](https://ci-en.dlsite.com/creator/5197) |
 | neguradou | 塒堂 |  |  |
 | negurie | ねぐりえ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=24435/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG05920.html) |
 | neji hina no sekai | ネジヒナの世界 |  |  |
