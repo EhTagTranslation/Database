@@ -13878,6 +13878,7 @@ example:
 | v.u.g | V.U.G |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=46501) |
 | plustic heart | +チックハート |  |  |
 | yomogipaha | よもぎぱは |  |  |
+| plankton cessna | プランクトンセスナ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
