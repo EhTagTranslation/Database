@@ -9152,6 +9152,7 @@ example:
 | hisato azuma | 东阳里 | ![](https://ehgt.org/w/02/084/60958-41eapxz7.webp)<br>所属作品：`himawari wa yoru ni saku` |  |
 | farah | 法菈 | ![](https://static.wikia.nocookie.net/mushoku-eiyu/images/0/00/Farah.png)<br>所属作品：无职英雄:技能什么的毫无用处<br>日语：ファラー<br>亚雷尔的母亲。 |  |
 | akami karubi | 赤见卡露比 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/0/0e/Karubi-akami-portrait-66.jpg)<br>所属社团：Crazy Raccoon<br>日语：赤見かるび | [Fandom](https://virtualyoutuber.fandom.com/wiki/Akami_Karubi) |
+| kuon | 久苑 | 游戏影之诗角色 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
