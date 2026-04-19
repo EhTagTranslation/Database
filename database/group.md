@@ -13879,6 +13879,7 @@ example:
 | plustic heart | +チックハート |  |  |
 | yomogipaha | よもぎぱは |  |  |
 | plankton cessna | プランクトンセスナ |  |  |
+| icepick | アイスピック |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73002/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
