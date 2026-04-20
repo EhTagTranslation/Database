@@ -6550,7 +6550,7 @@ example:
 | kemotsubo | ケモつぼ |  |  |
 | kemoyuru | けもゆる |  |  |
 | kemuriya | 煙屋 |  |  |
-| kemusi no bansan kai | けむしの晩餐会 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72689/) |
+| kemusi no bansan kai | けむしの晩餐会 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72689/) \| [pixiv](https://www.pixiv.net/users/17266113) \| [Fantia](https://fantia.jp/fanclubs/549192) \| [DLsite](https://ci-en.dlsite.com/creator/6393) \| [X](https://x.com/mdRzvO4rLnT5Eub) |
 | ken-chan no tokoro | ケンちゃんのところ |  |  |
 | kengai san | 圏外さん |  |  |
 | kenix | KENIX |  |  |
