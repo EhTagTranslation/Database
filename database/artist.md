@@ -15116,6 +15116,7 @@ example:
 | dog food | どっぐふーど |  | [pixiv](https://www.pixiv.net/users/72383573) |
 | kanchi | かんち |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ021519/ana_flg/all) |
 | kagto | Kagto |  | [Fantia](https://fantia.jp/fanclubs/61871) \| [FANBOX](https://kagto.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/34025740) \| [X](https://x.com/kagto99) |
+| ankoku emu shougun | 暗黑えむ将军 |  | [X](https://x.com/ankokuemushogun) [pixiv](https://www.pixiv.net/users/3039766) |
 
 <!--TEMPLATE:
 |  |  |  |  |
