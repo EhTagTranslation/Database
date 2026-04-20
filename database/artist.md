@@ -15114,6 +15114,7 @@ example:
 | saitou dareka | 斉藤ダレカ |  | [pixiv](https://www.pixiv.net/users/3117536) |
 | himawari taro | 向日葵たろう |  |  |
 | dog food | どっぐふーど |  | [pixiv](https://www.pixiv.net/users/72383573) |
+| kanchi | かんち |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ021519/ana_flg/all) |
 
 <!--TEMPLATE:
 |  |  |  |  |
