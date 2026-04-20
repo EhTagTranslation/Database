@@ -12783,7 +12783,7 @@ example:
 | ueda metawo | 上田メタヲ | ![X](https://pbs.twimg.com/profile_images/1017787284999979008/HMvulebx_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/metawo_ueda) |
 | ematsuko | エマツコ |  |  |
 | kimineko | 君ねこ |  |  |
-| toono esuke | 远野えすけ | ![X](https://pbs.twimg.com/profile_images/1755603556097560576/uk4FxYHg_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/aihasinda2) |
+| toono esuke | 遠野えすけ | ![X](https://pbs.twimg.com/profile_images/1755603556097560576/uk4FxYHg_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/aihasinda2) |
 | ozu satoru | を图さとる | ![X](https://pbs.twimg.com/profile_images/1725376830193201152/Ot31RIzQ_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/ozsatoru) [pixiv](https://www.pixiv.net/users/98073184) |
 | ainame | あいなめ |  |  |
 | fuyutsumi chiaki | ふゆつみ千明 |  |  |
