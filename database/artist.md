@@ -7337,7 +7337,7 @@ example:
 | kuroya kenji | 黒谷賢志 |  |  |
 | kuroyume naoto | 黒夢奈音 |  |  |
 | kurozako | くろざこ |  |  |
-| kurukuru | クルクル |  |  |
+| kurukuru | くるくる | クルクル | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=205094/) |
 | kuruma | くるま |  |  |
 | kurumai | くるまい |  |  |
 | kurumi moka | 胡桃もか |  |  |
