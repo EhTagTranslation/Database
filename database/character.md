@@ -9155,6 +9155,7 @@ example:
 | kuon | 久苑 | 游戏影之诗角色 |  |
 | draco malfoy | 德拉科·马尔福 | 小说《哈利·波特》系列中的角色 |  |
 | selena corey | 赛琳娜·科里 | 所属作品：`resident evil` 安魂曲 |  |
+| haruka hasebe | 长谷部波瑠加 | ![](https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/e/e6/Haruka_Hasebe_LN_2nd_Year_Arc_visual.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
