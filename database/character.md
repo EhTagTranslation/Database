@@ -9154,6 +9154,7 @@ example:
 | akami karubi | 赤见卡露比 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/0/0e/Karubi-akami-portrait-66.jpg)<br>所属社团：Crazy Raccoon<br>日语：赤見かるび | [Fandom](https://virtualyoutuber.fandom.com/wiki/Akami_Karubi) |
 | kuon | 久苑 | 游戏影之诗角色 |  |
 | draco malfoy | 德拉科·马尔福 | 小说《哈利·波特》系列中的角色 |  |
+| selena corey | 赛琳娜·科里 | 所属作品：`resident evil` 安魂曲 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
