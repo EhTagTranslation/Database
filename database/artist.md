@@ -15120,6 +15120,7 @@ example:
 | ryokurin | りょくりん |  | [FANZA](https://book.dmm.co.jp/list/?author=313984) |
 | mutsuki shougatsu | 睦月正月 |  | [pixiv](https://www.pixiv.net/users/1339325) \| [X](https://x.com/r4sUOjCTZF75101) |
 | kok | KoK |  | [FANBOX](https://kok.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/7444220) |
+| yatsuka | やつか |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
