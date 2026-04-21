@@ -2802,6 +2802,7 @@ example:
 | jiisan baasan wakagaeru | 老夫老妻重返青春 | 《老夫老妻重返青春》（日语：じいさんばあさん若返る）是新挑限的日本漫画。 | [维基百科](https://zh.wikipedia.org/wiki/老夫老妻重返青春) |
 | himawari wa yoru ni saku | 向日葵在夜晚绽放 | 武田弘光创作的色情漫画《向日葵ハ夜ニ咲ク》 | [EH漫画链接](https://e-hentai.org/g/3717341/af6f80a2c1/) |
 | joshikousei no mudazukai | 女高中生的虚度日常 |  |  |
+| mad father | 狂父 | 《狂父》是由日本むぎせん玩家制作的恐怖解密类单机游戏。 | [Steam](https://store.steampowered.com/app/483980/Mad_Father/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
