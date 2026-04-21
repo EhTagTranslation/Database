@@ -3344,7 +3344,7 @@ example:
 | noel seeker | 诺艾尔·希卡 |  |  |
 | rixia mao | 莉夏·毛 |  |  |
 | tio plato | 缇欧·普拉托 |  |  |
-| vita clotilde | 薇塔·克洛提德 |  |  |
+| vita clotilde | 薇塔·克洛提德 | ![](https://static.wikia.nocookie.net/kiseki/images/0/0c/Vita_Clotilde_%28Sen_II%29.png)<br>所属作品：`the legend of heroes` |  |
 | duvalie | 杜巴莉 | 所属作品：`the legend of heroes`<br>![](https://ehgt.org/w/01/825/14181-ixueqc7n.webp) |  |
 | elise schwarzer | 爱丽榭·舒华泽 |  |  |
 | juna crawford | 悠娜·克劳弗德 |  |  |
