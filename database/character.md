@@ -4234,7 +4234,7 @@ example:
 | rikka morizono | 森园立夏 | ![](https://circus-co.jp/product/dc3/img/character/img_chr01_illust_l.png)<br>所属作品：`da capo iii` | [萌娘百科](https://zh.moegirl.org.cn/森园立夏) |
 | aponia | 阿波尼亚 | 阿波尼亚是米哈游旗下的游戏《崩坏3》及其衍生作品的登场角色<br>![](https://img.moegirl.org.cn/common/4/4c/阿波尼亚.png) | [萌娘百科](https://zh.moegirl.org.cn/_?curid=508425) |
 | carole pepper | 卡萝尔·佩珀 |  | [萌娘百科](https://zh.moegirl.org.cn/_?curid=375474) |
-| rean schwarzer | 黎恩·舒华泽 |  |  |
+| rean schwarzer | 黎恩·舒华泽 | ![](https://static.wikia.nocookie.net/kiseki/images/a/a3/Rean_Schwarzer_%28Sen_III%29.png)<br>所属作品：`the legend of heroes` |  |
 | millium orion | 米莉亚姆·奥莱恩 | ![](https://static.wikia.nocookie.net/kiseki/images/c/cf/Millium_Orion_%28Sen_III%29.png)<br>所属作品：`the legend of heroes` |  |
 | candace | 坎蒂丝 | ![](https://patchwiki.biligame.com/images/ys/c/c8/0fu5a3u62o2fglmop7cxv3x2yn9tx37.gif)<br>所属作品`p:genshin impact`<br>有着琥珀色左眼的赤王后裔，阿如村的守护者。 | [萌娘百科](https://zh.moegirl.org.cn/坎蒂丝) |
 | mei raiden | 雷电芽衣 | ![](https://uploadstatic.mihoyo.com/bh3-wiki/2021/09/24/75216984/de2da4f4f278d0dbcb9479cbcc0ca434_8606203061707384326.png)<br>![](https://uploadstatic.mihoyo.com/bh3-wiki/2021/09/03/75216984/47b86c6d43fc2d803949e7f7164ed4b1_103170303049711154.gif)<br>所属作品：`honkai gakuen` |  |
