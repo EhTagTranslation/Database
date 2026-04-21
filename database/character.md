@@ -4235,7 +4235,7 @@ example:
 | aponia | 阿波尼亚 | 阿波尼亚是米哈游旗下的游戏《崩坏3》及其衍生作品的登场角色<br>![](https://img.moegirl.org.cn/common/4/4c/阿波尼亚.png) | [萌娘百科](https://zh.moegirl.org.cn/_?curid=508425) |
 | carole pepper | 卡萝尔·佩珀 |  | [萌娘百科](https://zh.moegirl.org.cn/_?curid=375474) |
 | rean schwarzer | 黎恩·舒华泽 |  |  |
-| millium orion | 米莉亚姆·奥莱恩 |  |  |
+| millium orion | 米莉亚姆·奥莱恩 | ![](https://static.wikia.nocookie.net/kiseki/images/c/cf/Millium_Orion_%28Sen_III%29.png)<br>所属作品：`the legend of heroes` |  |
 | candace | 坎蒂丝 | ![](https://patchwiki.biligame.com/images/ys/c/c8/0fu5a3u62o2fglmop7cxv3x2yn9tx37.gif)<br>所属作品`p:genshin impact`<br>有着琥珀色左眼的赤王后裔，阿如村的守护者。 | [萌娘百科](https://zh.moegirl.org.cn/坎蒂丝) |
 | mei raiden | 雷电芽衣 | ![](https://uploadstatic.mihoyo.com/bh3-wiki/2021/09/24/75216984/de2da4f4f278d0dbcb9479cbcc0ca434_8606203061707384326.png)<br>![](https://uploadstatic.mihoyo.com/bh3-wiki/2021/09/03/75216984/47b86c6d43fc2d803949e7f7164ed4b1_103170303049711154.gif)<br>所属作品：`honkai gakuen` |  |
 | durandal | 幽兰黛尔 \| 多旺达 | ①幽兰黛尔<br>![](https://uploadstatic.mihoyo.com/bh3-wiki/2021/09/24/75216984/5d1d1326213ab3130285b5ba3f711cc7_3873776467105333400.png)<br>![](https://uploadstatic.mihoyo.com/bh3-wiki/2021/09/04/75216984/3ea03dd83e89d497c7a4a4f2bb442fdb_3474340096288498830.gif)<br>所属作品：`honkai gakuen`<br><br>②多旺达<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/d/d4/57zr32soyf06ol56u9fg6qh66bxe30v.png/600px-Jsf_112101.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/多旺达) |
