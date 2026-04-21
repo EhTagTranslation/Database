@@ -678,7 +678,7 @@ example:
 | archaic sealed heat | 远古封印之炎 |  |  |
 | fruits basket | 水果篮子 |  |  |
 | tari tari | TARI TARI |  |  |
-| the legend of heroes | 英雄传说 |  |  |
+| the legend of heroes | 英雄传说系列 | 日本Falcom公司开发制作并发行的游戏系列。 |  |
 | the legend of the legendary heroes | 传说中勇者的传说 |  |  |
 | the last of us | 最后生还者 |  |  |
 | wall-e | 机器人总动员 |  |  |
