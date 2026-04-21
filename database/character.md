@@ -3337,7 +3337,7 @@ example:
 | momoko togame | 十咎桃子 |  | [萌娘百科](https://zh.moegirl.org.cn/十咎桃子) |
 | aurelia le guin | 奥蕾莉亚·勒瑰恩 |  |  |
 | celine millstein | 瑟蕾奴·米尔斯汀 |  |  |
-| elie macdowell | 艾莉·麦克道尔 |  |  |
+| elie macdowell | 艾莉·麦克道尔 | ![](https://static.wikia.nocookie.net/kiseki/images/c/c8/Elie_MacDowell_%28Sen_IV%29.png)<br>所属作品：`the legend of heroes` |  |
 | kea bannings | 琪雅·班宁斯 |  |  |
 | lapis rosenberg | 拉碧丝·罗赞贝尔克 |  |  |
 | nadia rayne | 娜狄雅·莱恩 |  |  |
