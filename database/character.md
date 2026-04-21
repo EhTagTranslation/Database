@@ -3335,7 +3335,7 @@ example:
 | misato aikawa | 爱川美里 | ![](https://static.wikia.nocookie.net/princess-connect/images/c/c6/Misato_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/爱川美里) |
 | mitama yakumo | 八云御魂 |  | [萌娘百科](https://zh.moegirl.org.cn/八云御魂) |
 | momoko togame | 十咎桃子 |  | [萌娘百科](https://zh.moegirl.org.cn/十咎桃子) |
-| aurelia le guin | 奥蕾莉亚·勒瑰恩 |  |  |
+| aurelia le guin | 奥蕾莉亚·勒瑰恩 | ![](https://static.wikia.nocookie.net/kiseki/images/9/9d/Aurelia_Le_Guin_%28Sen_III%29.png)<br>所属作品：`the legend of heroes` |  |
 | celine millstein | 瑟蕾奴·米尔斯汀 |  |  |
 | elie macdowell | 艾莉·麦克道尔 | ![](https://static.wikia.nocookie.net/kiseki/images/c/c8/Elie_MacDowell_%28Sen_IV%29.png)<br>所属作品：`the legend of heroes` |  |
 | kea bannings | 琪雅·班宁斯 |  |  |
