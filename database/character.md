@@ -4256,7 +4256,7 @@ example:
 | yun jin | 云堇 | ![](https://patchwiki.biligame.com/images/ys/f/fa/q4zvja6aszqvedgai23bhe29pyhruw8.gif)<br>所属作品:`p:genshin impact`<br>集剧作与演唱能力于一身的璃月戏曲名角。风格自成一派，雅致柔美，恰如其人。 | [萌娘百科](https://zh.moegirl.org.cn/云堇) |
 | kloe rinz | 科洛丝·琳希 | ![](https://static.wikia.nocookie.net/kiseki/images/a/a7/Klaudia_von_Auslese_%28Sen_IV%29.png)<br>所属作品：`the legend of heroes`<br>真名为科洛蒂娅·冯·奥赛雷丝。 |  |
 | anelace elfead | 亚妮拉丝·艾尔菲德 |  |  |
-| scherazard harvey | 雪拉扎德·哈维 |  |  |
+| scherazard harvey | 雪拉扎德·哈维 | ![](https://static.wikia.nocookie.net/kiseki/images/3/33/Scherazard_Harvey_%28Sora_the_1st%29.webp)<br>所属作品：`the legend of heroes` |  |
 | shizuna rem misurugi | 静名·雷姆·御折木 | ![](https://ehgt.org/w/02/024/83753-v2ks39f8.webp)<br><br>出自作品：`p:the legend of heroes`<br><br>静名·雷姆·御折木（日语：シズナ・レム・ミスルギ；英语：Shizuna Rem Misurugi）是Falcom旗下游戏《英雄传说 轨迹系列》及其衍生作品的登场角色，在《英雄传说 创之轨迹》的后日谈CG中首次出现，在《英雄传说 黎之轨迹》中正式登场。 | [萌娘百科](https://zh.moegirl.org.cn/静名·雷姆·御折木) |
 | ragna the bloodedge | 拉格纳·布莱德艾奇 | ![](https://thumbsnap.com/i/CSgwipUZ.jpg)<br>出自作品：`p:blazblue`<br><br>拉格纳·布莱德艾奇是ARC SYSTEM WORKS旗下的游戏《苍翼默示录》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/拉格纳·布莱德艾奇) |
 | noel vermillion | 诺爱儿·梵蜜莉欧 | ![](https://ehgt.org/w/02/049/62441-u6fy4xlu.webp)<br>出自作品：`p:blazblue`<br><br>诺爱儿·梵蜜莉欧是ARC SYSTEM WORKS开发制作的2DFTG游戏《苍翼默示录》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/诺爱儿·梵蜜莉欧) |
