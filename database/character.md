@@ -9162,6 +9162,7 @@ example:
 | norma beatty | 诺玛·毕亚提 | ![](https://static.wikia.nocookie.net/aselia/images/1/18/Norma_Skit_%28ToL%29.png)<br>所属作品：`the legend of heroes` |  |
 | van arkride | 范恩·亚克莱德‌ | ![](https://static.wikia.nocookie.net/kiseki/images/5/58/Van_Arkride_%28Kuro%29.png)<br>所属作品：`the legend of heroes` |  |
 | anna highland | 安娜·海蘭德 | ![](# "https://static.wikia.nocookie.net/vsbattles/images/a/a9/Anna_Highland.webp/revision/latest?cb=20230310054613")<br>出自作品：`p:shinja zero no megami-sama to hajimeru isekai kouryaku`<br><br>安娜·海蘭德（Anna Highland）是輕小說《信奉無神女神的異世界攻略》（Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku）及其改編漫畫中的核心角色之一。 | [Fandom](https://vsbattles.fandom.com/wiki/Anna_Highland) |
+| miyuki nanase | 七濑美雪 | ![](# "https://static.wikia.nocookie.net/kindaichi/images/6/64/七瀨美雪%28長篇漫畫版%29.png/revision/latest?cb=20131130124315&path-prefix=zh")<br>出自作品：`p:kindaichi shounen no jikenbo`<br><br>七濑美雪是金成阳三郎、天树征丸先后所创作，由佐藤文也所绘制的漫画《金田一少年事件簿》及其衍生作品的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/七濑美雪) \| [Fandom](https://kindaichi.fandom.com/zh/wiki/金田一美雪_%28漫畫系列%29?variant=zh) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
