@@ -3340,7 +3340,7 @@ example:
 | elie macdowell | 艾莉·麦克道尔 | ![](https://static.wikia.nocookie.net/kiseki/images/c/c8/Elie_MacDowell_%28Sen_IV%29.png)<br>所属作品：`the legend of heroes` |  |
 | kea bannings | 琪雅·班宁斯 |  |  |
 | lapis rosenberg | 拉碧丝·罗赞贝尔克 | ![](https://static.wikia.nocookie.net/kiseki/images/c/c3/Lapis_Rosenberg_%28Kai%29.png)<br>所属作品：`the legend of heroes` |  |
-| nadia rayne | 娜狄雅·莱恩 |  |  |
+| nadia rayne | 娜狄雅·莱恩 | ![](https://static.wikia.nocookie.net/kiseki/images/a/a1/Nadia_Rayne_%28Kuro_II%29.webp)<br>所属作品：`the legend of heroes` |  |
 | noel seeker | 诺艾尔·希卡 |  |  |
 | rixia mao | 莉夏·毛 | ![](https://static.wikia.nocookie.net/kiseki/images/9/9b/Rixia_Mao_%28Hajimari%29.png)<br>所属作品：`the legend of heroes` |  |
 | tio plato | 缇欧·普拉托 | ![](https://static.wikia.nocookie.net/kiseki/images/9/99/Tio_Plato_%28Hajimari%29.png)<br>所属作品：`the legend of heroes` |  |
