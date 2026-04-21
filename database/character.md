@@ -9158,6 +9158,7 @@ example:
 | haruka hasebe | 长谷部波瑠加 | ![](https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/e/e6/Haruka_Hasebe_LN_2nd_Year_Arc_visual.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e` |  |
 | aya | 阿雅 | 日语：アヤ |  |
 | dylan brock | 迪兰·布洛克 | ![](https://static.wikia.nocookie.net/marveldatabase/images/c/ca/Dylan_Brock_%28Earth-616%29_from_All-New_Venom_Vol_1_2_002.jpg)<br>所属作品：`spider-man`<br>漫威漫画旗下超级英雄。 |  |
+| chloe valens | 克洛艾·瓦伦斯 | ![](https://static.wikia.nocookie.net/aselia/images/9/9e/Chloe_Valens_%28ToLink%29.png)<br>所属作品：`the legend of heroes` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
