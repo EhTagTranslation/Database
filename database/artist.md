@@ -5847,7 +5847,7 @@ example:
 | hitori jozu | 日盗りジョーズ |  |  |
 | hitotose rin | 春夏秋冬鈴 |  |  |
 | hits | ひっつ |  |  |
-| hitsuji | HITSUJI |  |  |
+| hitsuji | ひつじ |  |  |
 | hitsuji hako | 日辻ハコ |  |  |
 | hitsujibane shinobu | 羊羽 忍 |  |  |
 | hitsujiko | 羊子 |  |  |
