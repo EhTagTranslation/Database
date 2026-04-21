@@ -3356,7 +3356,7 @@ example:
 | towa herschel | 托娃·赫歇尔 |  | [萌娘百科](https://zh.moegirl.org.cn/托娃·赫歇尔) |
 | claire rieveldt | 克蕾雅·利维特 |  |  |
 | sara valestein | 莎拉·巴雷斯坦 |  |  |
-| estelle bright | 艾丝蒂尔·布莱特 |  |  |
+| estelle bright | 艾丝蒂尔·布莱特 | ![](https://static.wikia.nocookie.net/kiseki/images/d/d6/Estelle_Bright_%28Sen_IV%29.png)<br>所属作品：`the legend of heroes` |  |
 | klose rinz | 科洛丝·琳希 |  | [萌娘百科](https://zh.moegirl.org.cn/科洛蒂娅·冯·奥赛雷丝) |
 | chika misumi | 三角千歌 | ![](https://static.wikia.nocookie.net/princess-connect/images/9/97/Chika_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/三角千歌) |
 | tsumugi mayumiya | 茧宫纺希 | ![](https://static.wikia.nocookie.net/princess-connect/images/b/ba/Tsumugi_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/茧宫纺希) |
