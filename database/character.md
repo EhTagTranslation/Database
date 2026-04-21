@@ -3342,7 +3342,7 @@ example:
 | lapis rosenberg | 拉碧丝·罗赞贝尔克 |  |  |
 | nadia rayne | 娜狄雅·莱恩 |  |  |
 | noel seeker | 诺艾尔·希卡 |  |  |
-| rixia mao | 莉夏·毛 |  |  |
+| rixia mao | 莉夏·毛 | ![](https://static.wikia.nocookie.net/kiseki/images/9/9b/Rixia_Mao_%28Hajimari%29.png)<br>所属作品：`the legend of heroes` |  |
 | tio plato | 缇欧·普拉托 |  |  |
 | vita clotilde | 薇塔·克洛提德 | ![](https://static.wikia.nocookie.net/kiseki/images/0/0c/Vita_Clotilde_%28Sen_II%29.png)<br>所属作品：`the legend of heroes` |  |
 | duvalie | 杜巴莉 | 所属作品：`the legend of heroes`<br>![](https://ehgt.org/w/01/825/14181-ixueqc7n.webp) |  |
