@@ -3349,7 +3349,7 @@ example:
 | elise schwarzer | 爱丽榭·舒华泽 |  |  |
 | juna crawford | 悠娜·克劳弗德 |  |  |
 | renne bright | 玲·布莱特 | ![](https://static.wikia.nocookie.net/kiseki/images/6/6b/Renne_Bright_%28Kuro_II%29.webp)<br>所属作品：`the legend of heroes`<br>日语：レン | [萌娘百科](https://zh.moegirl.org.cn/蕾恩·布莱特) |
-| emma millstein | 艾玛·米尔斯汀 |  |  |
+| emma millstein | 艾玛·米尔斯汀 | ![](https://static.wikia.nocookie.net/kiseki/images/8/83/Emma_Millstein_%28Sen_IV%29.png)<br>所属作品：`the legend of heroes` |  |
 | laura s. arseid | 劳拉·S·亚尔赛德 |  |  |
 | shirley orlando | 谢莉·奥兰多 |  | [萌娘百科](https://zh.moegirl.org.cn/谢莉·奥兰多) |
 | tita russel | 提妲·拉赛尔 |  | [萌娘百科](https://zh.moegirl.org.cn/提妲·拉赛尔) |
