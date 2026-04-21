@@ -4254,7 +4254,7 @@ example:
 | gorou | 五郎 | 五郎（英语：gorou）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/7f/Genshin_Gorou_intro.webp) | [萌娘百科](https://zh.moegirl.org.cn/五郎%28原神%29#) |
 | kallen kaslana | 卡莲·卡斯兰娜 |  |  |
 | yun jin | 云堇 | ![](https://patchwiki.biligame.com/images/ys/f/fa/q4zvja6aszqvedgai23bhe29pyhruw8.gif)<br>所属作品:`p:genshin impact`<br>集剧作与演唱能力于一身的璃月戏曲名角。风格自成一派，雅致柔美，恰如其人。 | [萌娘百科](https://zh.moegirl.org.cn/云堇) |
-| kloe rinz | 科洛丝·琳希 |  |  |
+| kloe rinz | 科洛丝·琳希 | ![](https://static.wikia.nocookie.net/kiseki/images/a/a7/Klaudia_von_Auslese_%28Sen_IV%29.png)<br>所属作品：`the legend of heroes`<br>真名为科洛蒂娅·冯·奥赛雷丝。 |  |
 | anelace elfead | 亚妮拉丝·艾尔菲德 |  |  |
 | scherazard harvey | 雪拉扎德·哈维 |  |  |
 | shizuna rem misurugi | 静名·雷姆·御折木 | ![](https://ehgt.org/w/02/024/83753-v2ks39f8.webp)<br><br>出自作品：`p:the legend of heroes`<br><br>静名·雷姆·御折木（日语：シズナ・レム・ミスルギ；英语：Shizuna Rem Misurugi）是Falcom旗下游戏《英雄传说 轨迹系列》及其衍生作品的登场角色，在《英雄传说 创之轨迹》的后日谈CG中首次出现，在《英雄传说 黎之轨迹》中正式登场。 | [萌娘百科](https://zh.moegirl.org.cn/静名·雷姆·御折木) |
