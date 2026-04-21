@@ -6503,7 +6503,7 @@ example:
 | mirabel aalton | 米拉贝尔·亚尔顿 |  | [https://trails-game.com/character/mirabel-aalton/](https://trails-game.com/character/mirabel-aalton/) |
 | justine | 芮丝汀娜 | ![](https://storage.moegirl.org.cn/moegirl/commons/8/8d/贾斯汀娜.png)<br>所属作品:`persona 5`<br><br>如何区分这对双胞胎:<br>芮丝汀娜的帽子上印有"O-Y-O-O"字母 | [萌娘百科](https://zh.moegirl.org.cn/芮丝汀娜) |
 | roselia millstein | 罗赛莉亚·米尔斯汀 |  | [萌娘百科](https://zh.moegirl.org.cn/罗赛莉亚·米尔斯汀) |
-| elaine auclair | 艾蕾因·奥克雷尔 |  | [萌娘百科](https://zh.moegirl.org.cn/艾蕾因·奥克雷尔) |
+| elaine auclair | 艾蕾因·奥克雷尔 | ![](https://static.wikia.nocookie.net/kiseki/images/e/e8/Elaine_Auclair_%28Kuro_II%29.webp)<br>所属作品：`the legend of heroes` | [萌娘百科](https://zh.moegirl.org.cn/艾蕾因·奥克雷尔) |
 | banri tada | 多田万里 | 所属作品: `p:golden time` | [Fandom](https://goldentime.fandom.com/wiki/Banri_Tada) [萌娘百科](https://zh.moegirl.org.cn/多田万里) |
 | inojin yamanaka | 山中井阵 | 日本漫画《火影忍者》系列及其衍生作品中的男性角色，在漫画700回中首次出场。井阵出身木叶隐村的山中一族，是佐井与山中井野的儿子。 |  |
 | kendall perkins | 肯黛尔·柏金 | 奇克的同班同学，跟“大魔王”罗纳多交往（后来喜欢奇克）。 |  |
