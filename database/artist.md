@@ -15118,7 +15118,7 @@ example:
 | kagto | Kagto |  | [Fantia](https://fantia.jp/fanclubs/61871) \| [FANBOX](https://kagto.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/34025740) \| [X](https://x.com/kagto99) |
 | ankoku emu shougun | 暗黑えむ将军 |  | [X](https://x.com/ankokuemushogun) [pixiv](https://www.pixiv.net/users/3039766) |
 | ryokurin | りょくりん |  | [FANZA](https://book.dmm.co.jp/list/?author=313984) |
-| mutsuki shougatsu | 睦月正月 |  | [pixiv](https://www.pixiv.net/users/1339325) |
+| mutsuki shougatsu | 睦月正月 |  | [pixiv](https://www.pixiv.net/users/1339325) \| [X](https://x.com/r4sUOjCTZF75101) |
 
 <!--TEMPLATE:
 |  |  |  |  |
