@@ -9161,6 +9161,7 @@ example:
 | chloe valens | 克洛艾·瓦伦斯 | ![](https://static.wikia.nocookie.net/aselia/images/9/9e/Chloe_Valens_%28ToLink%29.png)<br>所属作品：`the legend of heroes` |  |
 | norma beatty | 诺玛·毕亚提 | ![](https://static.wikia.nocookie.net/aselia/images/1/18/Norma_Skit_%28ToL%29.png)<br>所属作品：`the legend of heroes` |  |
 | van arkride | 范恩·亚克莱德‌ | ![](https://static.wikia.nocookie.net/kiseki/images/5/58/Van_Arkride_%28Kuro%29.png)<br>所属作品：`the legend of heroes` |  |
+| anna highland | 安娜·海蘭德 | ![](# "https://static.wikia.nocookie.net/vsbattles/images/a/a9/Anna_Highland.webp/revision/latest?cb=20230310054613")<br>出自作品：`p:shinja zero no megami-sama to hajimeru isekai kouryaku`<br><br>安娜·海蘭德（Anna Highland）是輕小說《信奉無神女神的異世界攻略》（Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku）及其改編漫畫中的核心角色之一。 | [Fandom](https://vsbattles.fandom.com/wiki/Anna_Highland) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
