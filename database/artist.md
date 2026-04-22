@@ -15122,6 +15122,7 @@ example:
 | kok | KoK |  | [FANBOX](https://kok.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/7444220) |
 | yatsuka | やつか |  |  |
 | naseba | なせば |  |  |
+| itouya | 伊藤屋 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
