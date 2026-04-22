@@ -1246,7 +1246,7 @@ example:
 | tomonaga kenji | 友永ケンジ |  |  |
 | fukuyama naoto | 复八磨直兔 | 復八磨直兎 | [X](https://x.com/akaiusagi3) [pixiv](https://www.pixiv.net/users/1526412) |
 | kurokawa otogi | 黑川おとぎ |  |  |
-| satou takumi | 佐藤匠 |  | [pixiv](https://www.pixiv.net/users/13286336) |
+| satou takumi | 佐藤匠 |  | [pixiv](https://www.pixiv.net/users/13286336) [X](https://x.com/s_doubt90) |
 | shino | シノ |  |  |
 | shousan bouzu | しょうさん坊主 |  |  |
 | yamabuki zarame | 山吹ざらめ |  |  |
