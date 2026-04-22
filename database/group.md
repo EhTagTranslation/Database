@@ -13477,7 +13477,7 @@ example:
 | tsuchinoko shigure | つちのこしぐれ |  |  |
 | inugoya | 狗戌犬 |  |  |
 | fujinoe honpo | フジノエ本舗 |  |  |
-| danpacino | ダンパチーノ |  |  |
+| danpacino | ダンパチーノ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG46534.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78297/) |
 | komaneko jinja | 狛猫神社 |  |  |
 | mikakunin seimeitai | 未確認性命体 |  |  |
 | tsuyu no torikago | 梅雨の鳥籠 |  |  |
