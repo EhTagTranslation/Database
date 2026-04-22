@@ -9166,6 +9166,7 @@ example:
 | hajime kindaichi | 金田一一 | ![](https://static.wikia.nocookie.net/kindaichi/images/9/93/金田一一%28長篇漫畫版%29.png/revision/latest?cb=20140216200331&path-prefix=zh)<br>出自作品：`p:kindaichi shounen no jikenbo`<br><br>金田一一 是《金田一少年之事件簿》漫畫系列和小說系列的角色，由天樹征丸和金成陽三郎創作，並由佐藤文也繪畫。 | [Fandom](https://kindaichi.fandom.com/zh/wiki/金田一一_%28漫畫系列%29－原作漫畫?variant=zh) |
 | reika hayami | 速水玲香 | ![](https://static.wikia.nocookie.net/kindaichi/images/0/09/速水玲香%28動畫版%29.png/revision/latest?cb=20140506050105&path-prefix=zh)<br>出自作品：`p:kindaichi shounen no jikenbo`<br><br>速水玲香 是《金田一少年之事件簿》電視動畫系列的角色，由天樹征丸和金成陽三郎創作，並由飯塚雅弓聲演。 | [Fandom](https://kindaichi.fandom.com/zh/wiki/速水玲香_%28動畫系列%29) |
 | cissia | 希希芙 | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/8/83/Agent_Cissia_Portrait.png)<br>所属作品：`zenless zone zero`<br>S级电属性强攻角色。 |  |
+| patausche kivia | 芭特谢·基维亚 | ![](https://static.wikia.nocookie.net/sentenced-to-be-a-hero/images/e/e6/Patausche_Kivia_Full_Body_%28Anime%29.png)<br>所属作品：`yuusha-kei ni shosu`<br>日语：パトーシェ・キヴィア |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
