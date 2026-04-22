@@ -12538,7 +12538,7 @@ example:
 | mosoya | 毛想屋 |  |  |
 | mikamishi juukou | 三神氏重工 |  |  |
 | kudamonoichizu | 果物一途 |  |  |
-| mimitako seijin | 耳タコ星人 |  |  |
+| mimitako seijin | 耳タコ星人 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200945/) |
 | nukunuku jima | ぬくぬく島 |  |  |
 | amagami honpo | 甘啮本铺 | 画师`manno`所属社团 | [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206684/) |
 | jyuu sensya usagitai | 重战车兔队 | 画师`takano tomohiro`所属同人社团 |  |
