@@ -2803,6 +2803,7 @@ example:
 | himawari wa yoru ni saku | 向日葵在夜晚绽放 | 武田弘光创作的色情漫画《向日葵ハ夜ニ咲ク》 | [EH漫画链接](https://e-hentai.org/g/3717341/af6f80a2c1/) |
 | joshikousei no mudazukai | 女高中生的虚度日常 |  |  |
 | mad father | 狂父 | 《狂父》是由日本むぎせん玩家制作的恐怖解密类单机游戏。 | [Steam](https://store.steampowered.com/app/483980/Mad_Father/) |
+| yuusha-kei ni shosu | 判处勇者刑 | ![](https://static.wikia.nocookie.net/dengeki/images/e/e0/SentencedTBAHAnime1.jpg)<br>全名：判处勇者刑͏ 惩罚勇者9004队刑务记录<br>火箭商会创作的网络小说，并有改编动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
