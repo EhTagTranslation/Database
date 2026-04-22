@@ -15123,6 +15123,7 @@ example:
 | yatsuka | やつか |  |  |
 | naseba | なせば |  |  |
 | itouya | 伊藤屋 |  |  |
+| rorimo | ヌカきゅーり（ロリモ） |  | [X](https://x.com/rorimo_4218)<br>R18账号 [X](https://x.com/rorimo18) |
 
 <!--TEMPLATE:
 |  |  |  |  |
