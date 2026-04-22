@@ -9168,6 +9168,7 @@ example:
 | cissia | 希希芙 | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/8/83/Agent_Cissia_Portrait.png)<br>所属作品：`zenless zone zero`<br>S级电属性强攻角色。 |  |
 | patausche kivia | 芭特谢·基维亚 | ![](https://static.wikia.nocookie.net/sentenced-to-be-a-hero/images/e/e6/Patausche_Kivia_Full_Body_%28Anime%29.png)<br>所属作品：`yuusha-kei ni shosu`<br>日语：パトーシェ・キヴィア |  |
 | teoritta | 缇欧丽塔 | ![](https://static.wikia.nocookie.net/sentenced-to-be-a-hero/images/f/fe/Teoritta_Full_Body_%28Anime%29.png)<br>所属作品：`yuusha-kei ni shosu`<br>日语：テオリッタ |  |
+| frenci mastibolt | 芙雷希·玛斯提波鲁特 | ![](https://static.wikia.nocookie.net/sentenced-to-be-a-hero/images/e/e3/Frenci_Mastibolt_Full_Body_%28Anime%29.png)<br>所属作品：`yuusha-kei ni shosu`<br>日语：フレンシィ・マスティボルト |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
