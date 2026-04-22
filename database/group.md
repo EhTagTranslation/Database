@@ -11761,7 +11761,7 @@ example:
 | uradoori no nukemichi | 裏通りの抜け道 |  |  |
 | uradora mangan | 裏ドラ満貫 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27407/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG16674.html) \| [DLsite](https://ci-en.dlsite.com/creator/4615) |
 | uragiri no doukutsu | うらぎりのどうくつ |  |  |
-| urahushigi | 裏不思議 |  |  |
+| urahushigi | 裏不思議 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30081.html) |
 | urainutei | 裏イヌ亭 |  |  |
 | urakaryuu | 裏火竜 |  |  |
 | uraken | うらけん |  |  |
