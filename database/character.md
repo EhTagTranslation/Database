@@ -9079,7 +9079,7 @@ example:
 | andrew kreiss | 安德鲁·克雷斯（守墓人） | ![](https://patchwiki.biligame.com/images/dwrg/6/68/ta4sx6146hiumyu4cqepvzuvd4qenoo.png)<br>所属作品：`identity v` |  |
 | patricia dorval | 帕缇夏·多里瓦尔（咒术师） | ![](https://patchwiki.biligame.com/images/dwrg/0/0f/mlvcugalnvqg8560st3jr7u6ekfh0c3.png)<br>所属作品：`identity v` |  |
 | lammis | 拉蜜丝 | ![](https://lain.bgm.tv/r/400/pic/crt/l/69/f0/126409_crt_Jw222.jpg?r=1686634941)<br>所属作品：`jidou hanbaiki ni umarekawatta ore wa meikyuu wo samayou`<br>日语：ラッミス |  |
-| zhuang fangyi | 庄方宜 | 所属作品：`arknights endfield` |  |
+| zhuang fangyi | 庄方宜 | ![](https://endfield.wiki.gg/images/thumb/Zhuang_Fangyi_Splash_Art.png/1280px-Zhuang_Fangyi_Splash_Art.png)<br>所属作品：`arknights endfield` |  |
 | nemumu | 涅姆姆 | ![](https://static.wikia.nocookie.net/my-gift-lvl-9999-unlimited-gacha/images/6/6a/MugenGacha_Anime_Character_Nemumu.png)<br>所属作品：`mugen gacha de level 9999`<br>日语：ネムム |  |
 | mera | 美拉 | ![](https://static.wikia.nocookie.net/my-gift-lvl-9999-unlimited-gacha/images/6/6e/MugenGacha_Anime_Character_Mera.png)<br>所属作品：`mugen gacha de level 9999`<br>日语：メラ |  |
 | nazuna | 纳芝娜 | ![](https://static.wikia.nocookie.net/my-gift-lvl-9999-unlimited-gacha/images/4/40/MugenGacha_Anime_Character_Nazuna.png)<br>所属作品：`mugen gacha de level 9999`<br>日语：ナズナ |  |
