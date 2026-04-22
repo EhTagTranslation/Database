@@ -15124,6 +15124,7 @@ example:
 | naseba | なせば |  |  |
 | itouya | 伊藤屋 |  |  |
 | rorimo | ヌカきゅーり（ロリモ） |  | [X](https://x.com/rorimo_4218)<br>R18账号 [X](https://x.com/rorimo18) |
+| dobu | どぶ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=fb20b789-64d3-11f0-ba33-0242ac160002/section=mens/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
