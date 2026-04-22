@@ -1066,7 +1066,7 @@ example:
 | nasipasuta | なしぱすた |  |  |
 | poccora | ぽっこら |  |  |
 | puyocha | ぷよちゃ |  |  |
-| rakujin | らくじん |  |  |
+| rakujin | 沢尻メロウ（らくじん） |  |  |
 | syuuen | 终焉 |  |  |
 | harazaki takuma | はらざきたくま |  |  |
 | hashimura aoki | 桥村青树 |  |  |
