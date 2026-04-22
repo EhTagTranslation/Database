@@ -15121,6 +15121,7 @@ example:
 | mutsuki shougatsu | 睦月正月 |  | [pixiv](https://www.pixiv.net/users/1339325) \| [X](https://x.com/r4sUOjCTZF75101) |
 | kok | KoK |  | [FANBOX](https://kok.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/7444220) |
 | yatsuka | やつか |  |  |
+| naseba | なせば |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
