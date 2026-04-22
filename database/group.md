@@ -496,7 +496,7 @@ example:
 | wireframe | WIREFRAME |  |  |
 | maho-shinsengumi | 魔法新撰组 |  |  |
 | caramel crunch | CARAMEL CRUNCH! |  |  |
-| ncp | NCP |  |  |
+| ncp | NCP |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG31795.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72242/) |
 | choujikuu yousai kachuusha | 超時空要塞カチューシャ |  |  |
 | nanmin festival | 難民ふぇすてぃばる |  |  |
 | ririo gatto | りーりおがーと |  |  |
