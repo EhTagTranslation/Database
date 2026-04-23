@@ -13871,7 +13871,7 @@ example:
 | uma goya sankaku | uma五夜参画 |  |  |
 | bitchmotors | ビッチモーターズ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56018.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201931/) |
 | mamiana hanten | 狸穴飯店 | `youkai kubinashi`使用的同人社团名称 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47608.html)<br>[FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202672/) |
-| kaori no chikara | 香りの力 |  |  |
+| kaori no chikara | 香りの力 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG58679.html) \| [DLsite](https://ci-en.dlsite.com/creator/10748) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202985/) |
 | monaka doumei | もなか同盟 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01018881.html) |
 | asuha | アスハー |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200744/) |
 | pink journey | ピンクジャーニー |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG40770.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78249/) |
