@@ -15127,6 +15127,7 @@ example:
 | dobu | どぶ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=fb20b789-64d3-11f0-ba33-0242ac160002/section=mens/) |
 | splash thomson | Splash Thomson |  | [Patreon](https://www.patreon.com/cw/SplashThomson) |
 | hisai hikou | 久井避航 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01005967.html) \| [DLsite](https://ci-en.dlsite.com/creator/27388) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=208963/) \| [X](https://x.com/hisaihikoh8) |
+| asani nemuru | 朝仁ねむる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
