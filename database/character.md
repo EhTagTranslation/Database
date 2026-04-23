@@ -9170,6 +9170,7 @@ example:
 | teoritta | 缇欧丽塔 | ![](https://static.wikia.nocookie.net/sentenced-to-be-a-hero/images/f/fe/Teoritta_Full_Body_%28Anime%29.png)<br>所属作品：`yuusha-kei ni shosu`<br>日语：テオリッタ |  |
 | frenci mastibolt | 芙雷希·玛斯提波鲁特 | ![](https://static.wikia.nocookie.net/sentenced-to-be-a-hero/images/e/e3/Frenci_Mastibolt_Full_Body_%28Anime%29.png)<br>所属作品：`yuusha-kei ni shosu`<br>日语：フレンシィ・マスティボルト |  |
 | akaba | 阿卡巴 | 所属作品：`unmei no makimodoshi`<br>日语：アカバ |  |
+| ramiel | 拉米尔 | ![](https://ehgt.org/w/02/360/75686-emh05i7s.webp)<br>所属作品：`zenless zone zero` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
