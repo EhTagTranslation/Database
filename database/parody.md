@@ -2806,6 +2806,7 @@ example:
 | yuusha-kei ni shosu | 判处勇者刑 | ![](https://static.wikia.nocookie.net/dengeki/images/e/e0/SentencedTBAHAnime1.jpg)<br>全名：判处勇者刑͏ 惩罚勇者9004队刑务记录<br>火箭商会创作的网络小说，并有改编动画。 |  |
 | hades | 哈迪斯 |  |  |
 | unmei no makimodoshi | 命运回溯士 |  |  |
+| pragmata | 识质存在 | ![](https://static.wikia.nocookie.net/pragmata/images/f/f1/Keyart_2025.png/revision/latest?cb=20250721121456)<br>《识质存在》（日语：プラグマタ；英语：Pragmata；又译：虚实万像）是由日本游戏开发商卡普空开发并发行的动作冒险游戏。游戏背景设定在月球研究基地，讲述太空人休·威廉姆斯和机器人戴安娜携手对抗控制该研究站的敌对人工智能，并返回地球的故事。 | [维基百科](https://zh.wikipedia.org/wiki/人機迷網) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
