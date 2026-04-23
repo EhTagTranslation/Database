@@ -15103,7 +15103,7 @@ example:
 | kitano onsen | きたのをんせん |  |  |
 | youkai kubinashi | 妖怪クビナシ | 专门画scat系作品的画师 | [pixiv](https://www.pixiv.net/users/2335781)<br>[X](https://x.com/youkaiKubinashi) |
 | renbocloud | Renbocloud |  | [pixiv](https://www.pixiv.net/users/115263964) \| [X](https://x.com/Renboerocat) \| [引力圈](https://app.unifans.io/login?redirect=/c/renboero) \| [Patreon](https://www.patreon.com/Renboero609) |
-| kaze no koe | 風の声 |  |  |
+| kaze no koe | 風の声 |  | [pixiv](https://www.pixiv.net/users/72293319) \| [X](https://x.com/deodorantsword) |
 | wada-chin | 和田ちん |  |  |
 | utena emu | 蒂絵夢 |  |  |
 | oniru | おにる |  |  |
