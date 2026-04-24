@@ -9179,6 +9179,7 @@ example:
 | arin ju | 朱雅琳 | ![](https://static.wikia.nocookie.net/reality-quest/images/8/83/Arin_Ju_Infobox.png)<br>所属作品：`reality quest` |  |
 | siyeon | 诗研 | ![](https://static.wikia.nocookie.net/reality-quest/images/2/27/Siyeon_Infobox.png)<br>所属作品：`reality quest` |  |
 | jinseo hyun | 玄真书 | ![](https://static.wikia.nocookie.net/reality-quest/images/c/c2/Jinseo_Hyeon_Infobox.png)<br>所属作品：`reality quest` |  |
+| misao makimachi | 卷町操 | ![](https://static.wikia.nocookie.net/kenshin/images/2/26/Rsz_misaoova.jpg)<br>所属作品：`rurouni kenshin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
