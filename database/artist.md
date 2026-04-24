@@ -5598,7 +5598,7 @@ example:
 | haruruyuco | はるるゆこ |  |  |
 | harusame | 春雨 |  |  |
 | harusame kiruke | 榛雨きるけ |  |  |
-| harusawa | ハルサワ |  |  |
+| harusawa | ハルサワ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ハルサワ%22/ana_flg/all) |
 | harusuke | 春助 |  |  |
 | haruyoshi | はるよし |  |  |
 | haruyuki | はるゆき |  |  |
