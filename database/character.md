@@ -5468,7 +5468,7 @@ example:
 | hiro shinosawa | 筱泽广 | ![](https://static.wikia.nocookie.net/idolmaster-gakuen/images/7/73/Hiro_Shinosawa.png)<br>所属作品：`the idolmaster`<br>日语：篠澤広 | [萌娘百科](https://zh.moegirl.org.cn/篠泽广) |
 | yan qing | 燕青 |  |  |
 | kaede akamatsu | 赤松枫 | 赤松 楓<br>《弹丸论破V3》女主角，超高校级的钢琴演奏家 |  |
-| chiaki nanami | 七海千秋 | 《超级弹丸论破2：再會了絕望學園》的女角色 |  |
+| chiaki nanami | 七海千秋 | ![](https://ehgt.org/w/01/991/79706-fze9a3w7.webp)<br>出自作品：`p:danganronpa`<br><br>七海千秋是Spike旗下游戏《超级弹丸论破2:再见绝望学园》及其衍生作品的登场角色。在动画《弹丸论破3:The End of 希望之峰学园》的绝望篇和希望篇中登场。在绝望篇中为主角。 | [萌娘百科](https://mobile.moegirl.org.cn/七海千秋) |
 | briar | 贝蕾亚 \| 白蕾雅 | 贝蕾亚是网络游戏《英雄联盟》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/d/d9/狂厄蔷薇_贝蕾亚.jpg/1920px-狂厄蔷薇_贝蕾亚.jpg)<br><br>白蕾雅（日文︰ブライア，英文︰Briar）是《朱／紫》中的登场角色。<br>![](https://s1.52poke.com/wiki/thumb/1/1e/白蕾雅_SV.png/100px-白蕾雅_SV.png) | [萌娘百科](https://zh.moegirl.org.cn/贝蕾亚)<br>[神奇宝贝百科](https://wiki.52poke.com/zh-hans/白蕾雅) |
 | soda | 索达 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/ff/Soda_FB.png)<br>所属作品：`goddess of victory nikke` | [百度百科](https://baike.baidu.com/item/索达/62624723) [Gamekee](https://www.gamekee.com/nikke/583173.html) [DotGG](https://dotgg.gg/nikke/characters/soda) |
 | zhu yuan | 朱鸢 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/07/29/76099754/9945563f20fca22f8397bb21931ec5c4_542475313663532302.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/朱鸢) |
