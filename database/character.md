@@ -9180,6 +9180,7 @@ example:
 | siyeon | 诗研 | ![](https://static.wikia.nocookie.net/reality-quest/images/2/27/Siyeon_Infobox.png)<br>所属作品：`reality quest` |  |
 | jinseo hyun | 玄真书 | ![](https://static.wikia.nocookie.net/reality-quest/images/c/c2/Jinseo_Hyeon_Infobox.png)<br>所属作品：`reality quest` |  |
 | misao makimachi | 卷町操 | ![](https://static.wikia.nocookie.net/kenshin/images/2/26/Rsz_misaoova.jpg)<br>所属作品：`rurouni kenshin` |  |
+| yayoi houzuki | 宝月夜宵 | ![](https://static.wikia.nocookie.net/dark-gathering/images/9/9b/Yayoi_Hozuki_anime_design.png)<br>所属作品：`dark gathering` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
