@@ -6219,7 +6219,7 @@ example:
 | jujuppe | ヂュヂュッペ |  |  |
 | jukai shoko | 樹海書庫 |  |  |
 | jukujuku juvenile | 熟々ジュブナイル |  |  |
-| jukuseiya koubou | 熟成屋工房 |  |  |
+| jukuseiya koubou | 熟成屋工房 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG28887.html) \| [DLsite](https://ci-en.dlsite.com/creator/33179) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71197/) |
 | julia | JULIA |  |  |
 | jumbomax | JUMBOMAX |  |  |
 | jumelles | ジュメルズ |  |  |
