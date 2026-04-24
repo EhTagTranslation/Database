@@ -9173,6 +9173,7 @@ example:
 | ramiel | 拉米尔 | ![](https://ehgt.org/w/02/360/75686-emh05i7s.webp)<br>所属作品：`zenless zone zero` |  |
 | willow schnee | 威洛·施尼 | ![](https://static.wikia.nocookie.net/rwby/images/d/da/WillowSchnee-V7C8.png)<br>所属作品：`rwby` |  |
 | whitley schnee | 惠特利·施尼 | ![](https://static.wikia.nocookie.net/rwby/images/a/ab/WhitleySchnee-V4C7.png)<br>所属作品：`rwby` |  |
+| rinka shidou | 紫藤凛花 | ![](https://static.wikia.nocookie.net/taimanin/images/8/88/Shido_Rinka_2.png)<br>所属作品：`taimanin rpg` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
