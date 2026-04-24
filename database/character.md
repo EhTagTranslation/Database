@@ -9184,6 +9184,7 @@ example:
 | sucy manbavaran | 苏西·曼芭芭拉 | ![](https://static.wikia.nocookie.net/littlewitch/images/1/1e/Sucy_Design.png)<br>所属作品：`little witch academia` |  |
 | lotte yanson | 洛蒂·杨森 | ![](https://static.wikia.nocookie.net/littlewitch/images/0/09/Lotte_Design.png)<br>所属作品：`little witch academia` |  |
 | sapphire rhodonite | 莎菲雅·罗德奈特 | ![](https://static.wikia.nocookie.net/nippon-ichi-universe/images/9/9d/Sapphire_Rhodonite.png/revision/latest?cb=20230409140139)<br>出自作品：`p:disgaea`<br><br>莎菲雅·罗德奈特（Sapphire Rhodonite，サファイア・ロードナイト）是日本战略 RPG 游戏《魔界战记3》及其衍生作品中的核心角色。 | [Fandom](https://nippon-ichi-universe.fandom.com/wiki/Sapphire_Rhodonite) |
+| ryoka narusawa | 成泽棱歌 | ![](https://static.wikia.nocookie.net/occulticnine/images/b/ba/Ryoka_Narusawa_Anime_Tab.jpg/revision/latest?cb=20240826214601)<br>所属作品:`occultic nine` | [Fandom](https://occultic-nine.fandom.com/wiki/Ryoka_Narusawa)<br>[萌娘百科](https://zh.moegirl.org.cn/成泽棱歌) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
