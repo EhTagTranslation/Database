@@ -770,7 +770,7 @@ example:
 | amahara | 天原 |  |  |
 | arino hiroshi | ありのひろし |  |  |
 | cheewts | ちいうつ |  |  |
-| katsura airi | 桂あいり |  |  |
+| katsura airi | 桂あいり |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/detail/=/cid=d_746537/) |
 | koori | 粉织 |  |  |
 | red-rum | RED-RUM |  |  |
 | ryoh-zoh | 椋蔵 |  |  |
