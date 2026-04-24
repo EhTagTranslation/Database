@@ -9182,6 +9182,7 @@ example:
 | misao makimachi | 卷町操 | ![](https://static.wikia.nocookie.net/kenshin/images/2/26/Rsz_misaoova.jpg)<br>所属作品：`rurouni kenshin` |  |
 | yayoi houzuki | 宝月夜宵 | ![](https://static.wikia.nocookie.net/dark-gathering/images/9/9b/Yayoi_Hozuki_anime_design.png)<br>所属作品：`dark gathering` |  |
 | sucy manbavaran | 苏西·曼芭芭拉 | ![](https://static.wikia.nocookie.net/littlewitch/images/1/1e/Sucy_Design.png)<br>所属作品：`little witch academia` |  |
+| lotte yanson | 洛蒂·杨森 | ![](https://static.wikia.nocookie.net/littlewitch/images/0/09/Lotte_Design.png)<br>所属作品：`little witch academia` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
