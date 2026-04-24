@@ -9178,6 +9178,7 @@ example:
 | angela anaconda | 安吉拉·阿纳康达 |  |  |
 | arin ju | 朱雅琳 | ![](https://static.wikia.nocookie.net/reality-quest/images/8/83/Arin_Ju_Infobox.png)<br>所属作品：`reality quest` |  |
 | siyeon | 诗研 | ![](https://static.wikia.nocookie.net/reality-quest/images/2/27/Siyeon_Infobox.png)<br>所属作品：`reality quest` |  |
+| jinseo hyun | 玄真书 | ![](https://static.wikia.nocookie.net/reality-quest/images/c/c2/Jinseo_Hyeon_Infobox.png)<br>所属作品：`reality quest` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
