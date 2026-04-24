@@ -5510,7 +5510,7 @@ example:
 | hamihe | はみへ |  |  |
 | hamiltan | ハミルタン |  |  |
 | hamuhamu | ハムハム |  |  |
-| hamunohito | ハムの人 |  |  |
+| hamunohito | ハムの人 |  | [pixiv](https://www.pixiv.net/users/85547) \| [Fantia](https://fantia.jp/fanclubs/543735) \| [misskey](https://misskey.io/@_hamunohito) \| [Skeb](https://skeb.jp/@_hamunohito_) |
 | hamuta | 公タ |  |  |
 | han | HAN |  |  |
 | hana | 花 |  |  |
