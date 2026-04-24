@@ -15129,6 +15129,7 @@ example:
 | hisai hikou | 久井避航 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01005967.html) \| [DLsite](https://ci-en.dlsite.com/creator/27388) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=208963/) \| [X](https://x.com/hisaihikoh8) |
 | asani nemuru | 朝仁ねむる |  |  |
 | uta kaiko | うたかいこ |  |  |
+| suiseimushi | すいせいむし |  | [Fantia](https://fantia.jp/fanclubs/16871) \| [FANBOX](https://suiseimc.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/40356071) \| [X](https://x.com/suiseimc) \| [Skeb](https://skeb.jp/@suiseimc) |
 
 <!--TEMPLATE:
 |  |  |  |  |
