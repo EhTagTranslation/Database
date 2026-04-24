@@ -9183,6 +9183,7 @@ example:
 | yayoi houzuki | 宝月夜宵 | ![](https://static.wikia.nocookie.net/dark-gathering/images/9/9b/Yayoi_Hozuki_anime_design.png)<br>所属作品：`dark gathering` |  |
 | sucy manbavaran | 苏西·曼芭芭拉 | ![](https://static.wikia.nocookie.net/littlewitch/images/1/1e/Sucy_Design.png)<br>所属作品：`little witch academia` |  |
 | lotte yanson | 洛蒂·杨森 | ![](https://static.wikia.nocookie.net/littlewitch/images/0/09/Lotte_Design.png)<br>所属作品：`little witch academia` |  |
+| sapphire rhodonite | 莎菲雅·罗德奈特 | ![](https://static.wikia.nocookie.net/nippon-ichi-universe/images/9/9d/Sapphire_Rhodonite.png/revision/latest?cb=20230409140139)<br>出自作品：`p:disgaea`<br><br>莎菲雅·罗德奈特（Sapphire Rhodonite，サファイア・ロードナイト）是日本战略 RPG 游戏《魔界战记3》及其衍生作品中的核心角色。 | [Fandom](https://nippon-ichi-universe.fandom.com/wiki/Sapphire_Rhodonite) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
