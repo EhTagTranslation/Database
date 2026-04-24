@@ -8339,7 +8339,7 @@ example:
 | nankotsu age rice | なんこつ揚げライス |  |  |
 | nankyoku | なんきょく |  |  |
 | nano royal | Nano Royal |  |  |
-| nanokah | なのかH |  |  |
+| nanokah | なのかえいち | なのかH | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201137/) |
 | nansyu-koubow | 南洲好房 |  |  |
 | nantan e | 南端へ |  |  |
 | nantoka narunaru. | なんとかなるなる。 |  |  |
