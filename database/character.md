@@ -9176,6 +9176,7 @@ example:
 | rinka shidou | 紫藤凛花 | ![](https://static.wikia.nocookie.net/taimanin/images/8/88/Shido_Rinka_2.png)<br>所属作品：`taimanin rpg` |  |
 | ayuko hayami | 速水鲇子 | ![](https://static.wikia.nocookie.net/goldenboy/images/b/bf/Ayuko_Hayami_3.jpg)<br>所属作品：`golden boy`<br>日语：速水鮎子 |  |
 | angela anaconda | 安吉拉·阿纳康达 |  |  |
+| arin ju | 朱雅琳 | ![](https://static.wikia.nocookie.net/reality-quest/images/8/83/Arin_Ju_Infobox.png)<br>所属作品：`reality quest` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
