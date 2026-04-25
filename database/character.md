@@ -2219,7 +2219,7 @@ example:
 | lotte | 萝特 |  |  |
 |  | ▼ 物语系列 |  |  |
 | koyomi araragi | 阿良良木历 |  |  |
-| karen araragi | 阿良良木火怜 |  |  |
+| karen araragi | 阿良良木火怜 | ![](https://ehgt.org/w/01/855/64616-dqf3m2dt.webp)<br>出自作品：`p:bakemonogatari`<br><br>阿良良木火憐（阿良々木 火憐，Araragi Karen）是西尾維新輕小說《物語》系列中的重要角色。 | [萌娘百科](https://zh.moegirl.org.cn/阿良良木火怜) |
 | tsukihi araragi | 阿良良木月火 |  |  |
 | kiss-shot acerola-orion heart-under-blade | 姬丝秀忒·雅赛劳拉莉昂·刃下心 |  |  |
 | shinobu oshino | 忍野忍 | ![](https://www.monogatari-series.com/nisemonogatari/chara/img/chara09.gif) |  |
