@@ -14528,7 +14528,7 @@ example:
 | tenpenchii chiwawa | 天変地異ちわわ | [X](https://x.com/mecchainukaitai) |  |
 | kibayashi hiyo | 木林日ヨ |  |  |
 | shimogamo | 下鴨 |  |  |
-| uramitsu | うらみつ |  |  |
+| uramitsu | うらみつ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=205778/) |
 | muchiou | むちおう |  |  |
 | nabatani kinoko | 茸谷きの子 |  |  |
 | suzuran mashiro | 鈴蘭ましろ |  |  |
