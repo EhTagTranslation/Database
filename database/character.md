@@ -9189,6 +9189,7 @@ example:
 | mikagami hana | 水镜华 | ![](https://pbs.twimg.com/media/HGA-ISYbsAAtqEe.jpg)<br>日语：水鏡華 | [YouTube](https://www.youtube.com/@mikagamihana) |
 | sakiri | 早雾 | ![](https://static.wikia.nocookie.net/neverness-to-everness/images/8/86/Sakiri_in_game_Model.png)<br>所属作品：`neverness to everness` |  |
 | devilun | 德比伦 | 来自作品《でびるコネクショん》(目前中文社区译名为恶魔连结，一切设定以官方设定为准） | [Fandom](https://makemon.fandom.com/wiki/Devilun) |
+| scavenger | 清道夫 | 所属作品：《明日方舟》 | [萌娘百科](https://zh.moegirl.org.cn/清道夫) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
