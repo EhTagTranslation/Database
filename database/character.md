@@ -3169,7 +3169,7 @@ example:
 | motoyasu kitamura | 北村元康（枪之勇者） |  |  |
 | hana uzaki | 宇崎花 | 所属作品：`uzaki-chan wa asobitai`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/01/07/30/02/135739572_p0_master1200.jpg) |  |
 | tsuki uzaki | 宇崎月 | 所属作品：`uzaki-chan wa asobitai`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/01/15/12/56/135747848_p0_master1200.jpg) |  |
-| shinichi sakurai | 樱井真一 |  |  |
+| shinichi sakurai | 樱井真一 | ![](https://static.wikia.nocookie.net/uzaki-chan/images/3/3a/Shinichi_Sakurai.png/revision/latest/scale-to-width-down/268?cb=20200711082636)<br>出自作品：`p:uzaki-chan wa asobitai`<br><br>樱井真一，是丈所创作的漫画《宇崎学妹想要玩！》及其衍生作品的男主角。 | [百度百科](https://baike.baidu.com/item/樱井真一/24311117) \| [Fandom](https://uzaki-chan.fandom.com/wiki/Shinichi_Sakurai) |
 | ryoko yoshida | 吉田良子 |  |  |
 | sieg | 齐格 |  |  |
 | hajime nagumo | 南云始 | ![](https://img.moegirl.org.cn/common/7/7c/Hajime_Nagumo.png)<br>所属作品：`arifureta shokugyou de sekai saikyou`<br><br>某一天和全班同学突然被转移到异世界后，因其天职为炼成师，无魔法适应性，而被同学称为无能且遭到歧视。后来经过许多试炼终于成为了世界最强。 | [萌娘百科](https://zh.moegirl.org.cn/南云始) |
