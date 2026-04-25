@@ -1948,7 +1948,7 @@ example:
 | w no honnou | Wの本能 |  |  |
 | tokyo prominence tomato | 东京プロミネンストマト | 画师`ogadenmon`所属社团 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG37188.html) |
 | gainax | GAINAX |  |  |
-| sister mytory | Sister Mytory |  |  |
+| sister mytory | Sister Mytory |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG46681.html) |
 | yubisaki studio | ユビサキスタジオ |  |  |
 | wata punch | WATA★PUNCH |  |  |
 | poyopoyosky | ぽよぽよスカイ |  |  |
