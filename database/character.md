@@ -9187,6 +9187,7 @@ example:
 | ryoka narusawa | 成泽棱歌 | ![](https://static.wikia.nocookie.net/occulticnine/images/b/ba/Ryoka_Narusawa_Anime_Tab.jpg/revision/latest?cb=20240826214601)<br>所属作品:`occultic nine` | [Fandom](https://occultic-nine.fandom.com/wiki/Ryoka_Narusawa)<br>[萌娘百科](https://zh.moegirl.org.cn/成泽棱歌) |
 | tabane shinonono | 篠之之束 | ![](https://i.pixiv.cat/img-original/img/2011/03/13/13/01/23/17320941_p0.jpg)<br>所属作品:`infinite stratos` | [萌娘百科](https://zh.moegirl.org.cn/篠之之束)<br>[Fandom](https://infinite-stratos.fandom.com/wiki/Tabane_Shinonono) |
 | mikagami hana | 水镜华 | ![](https://pbs.twimg.com/media/HGA-ISYbsAAtqEe.jpg)<br>日语：水鏡華 | [YouTube](https://www.youtube.com/@mikagamihana) |
+| sakiri | 早雾 | ![](https://static.wikia.nocookie.net/neverness-to-everness/images/8/86/Sakiri_in_game_Model.png)<br>所属作品：`neverness to everness` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
