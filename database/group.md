@@ -1163,7 +1163,7 @@ example:
 | saiga dou | SAIGA堂 |  |  |
 | k-drive | K-Drive |  |  |
 | larchange | L'ARCHANGE |  |  |
-| nyuu koubou | にゅう工房 |  |  |
+| nyuu koubou | にゅう工房 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG22701.html) \| [DLsite](https://ci-en.dlsite.com/creator/1284) |
 | freehand tamashii | フリーハンド魂 |  |  |
 | tabuchi-san chi | たぶちさんち |  |  |
 | 2d creative | 2Dクリエイティブ |  |  |
