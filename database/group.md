@@ -13892,6 +13892,7 @@ example:
 | teromeronuru | てろめろぬる |  |  |
 | nunpokojin | ヌンポコジン |  |  |
 | aizuan | あいづ庵 |  |  |
+| neko happyaku | ねこはっぴゃく |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
