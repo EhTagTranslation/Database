@@ -13023,7 +13023,7 @@ example:
 | purupuru tamagodoufu | ぷるぷる卵豆腐 |  |  |
 | honnokimochiya | ホンノキモチヤ |  |  |
 | ebizoridan | えびぞり団 |  |  |
-| junsei chuurenpoutou | 纯正九莲宝灯 |  |  |
+| junsei chuurenpoutou | 纯正九莲宝灯 | 純正九蓮宝燈 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG63355.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203893/) |
 | nagosuzu infinity | ナゴスズ∞ |  |  |
 | toyasuaina | トヤスアイナ |  |  |
 | toukarachi | とうからち |  | [pixiv](https://www.pixiv.net/users/92716427) [X](https://x.com/toukarachi_10) |
