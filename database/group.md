@@ -1604,7 +1604,7 @@ example:
 | manaita | まないた |  | [pixiv](https://www.pixiv.net/users/13983329) |
 | mizore nabe | みぞれ鍋 |  |  |
 | onefes jikkou iinkai | オネフェス実行委員会 |  |  |
-| isuwie-ya | イスィ屋 |  |  |
+| isuwie-ya | イスィ屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41200.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76115/) |
 | yabitsutouge | 弥美津峠 |  |  |
 | chotto dake aruyo. | チョットだけアルヨ。 |  |  |
 | shiro no ehonya-san | しろの絵本屋さん |  |  |
