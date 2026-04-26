@@ -14072,7 +14072,7 @@ example:
 | momono eri | 桃野衿 |  |  |
 | uyuu | 烏有 |  |  |
 | doraias kazuyo | ドライアス一世 |  | [FANBOX](https://www.fanbox.cc/@doraias) \| [Skeb](https://skeb.jp/@doraiaskazuyo) \| [X](https://x.com/doraiaskazuyo1) \| [pixiv](https://www.pixiv.net/users/47837935) |
-| kokemomo | こけもも |  |  |
+| kokemomo | こけもも |  | [FANBOX](https://lingonberry67.fanbox.cc/) \| [X](https://x.com/lingonberry67) \| [pixiv](https://www.pixiv.net/users/1472682) \| [Fantia](https://fantia.jp/fanclubs/235356) \| [Skeb](https://skeb.jp/@lingonberry67) |
 | aa mou souiu koto ni naru | ああもうそういうことになる |  |  |
 | sawtatsu | そうたつ |  |  |
 | nannomaru | なんの丸 |  |  |
