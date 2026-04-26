@@ -9190,6 +9190,7 @@ example:
 | sakiri | 早雾 | ![](https://static.wikia.nocookie.net/neverness-to-everness/images/8/86/Sakiri_in_game_Model.png)<br>所属作品：`neverness to everness` |  |
 | devilun | 德比伦 | 来自作品《でびるコネクショん》(目前中文社区译名为恶魔连结，一切设定以官方设定为准） | [Fandom](https://makemon.fandom.com/wiki/Devilun) |
 | scavenger | 清道夫 | 所属作品：《明日方舟》 | [萌娘百科](https://zh.moegirl.org.cn/清道夫) |
+| katheryne | 凯瑟琳（原神） | 凯瑟琳是游戏《原神》及其衍生作品的登场角色。<br>![凯瑟琳](https://storage.moegirl.org.cn/moegirl/commons/2/23/Genshin_Katheryne_PV.jpg) | [萌娘百科](https://zh.moegirl.org.cn/凯瑟琳%28原神%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
