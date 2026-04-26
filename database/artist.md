@@ -2486,7 +2486,7 @@ example:
 | mizore | みぞれ |  | [X](https://x.com/mizore2111) [pixiv](https://www.pixiv.net/users/17904351) |
 | akure ekuto | 吾暮えくと |  |  |
 | chacharan | 茶々らん |  | [pixiv](https://www.pixiv.net/users/25930775) [X](https://x.com/chacharan33) |
-| isuwie | イスィ |  |  |
+| isuwie | イスィ |  | [Fantia](https://fantia.jp/fanclubs/6604) \| [FANBOX](https://isuwieya.fanbox.cc/) \| [DLsite](https://ci-en.dlsite.com/creator/1683) \| [X](https://x.com/isuwie) \| [lit.link](https://lit.link/en/isuwie) |
 | misaoka | みさおか |  | [pixiv](https://www.pixiv.net/users/290106) |
 | ootori mahiro | 凤まひろ |  |  |
 | yaya hinata | 稍日向 |  |  |
