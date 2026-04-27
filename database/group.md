@@ -13893,6 +13893,7 @@ example:
 | nunpokojin | ヌンポコジン |  |  |
 | aizuan | あいづ庵 |  |  |
 | neko happyaku | ねこはっぴゃく |  |  |
+| donguri kinoko | どんぐりきのこ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
