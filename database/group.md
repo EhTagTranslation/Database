@@ -6791,7 +6791,7 @@ example:
 | koniro drops | 绀色ドロップス |  |  |
 | koniro milkiro | 紺色ミルク色 |  |  |
 | konjiki no monde selection | 金色のモンドセレクション |  |  |
-| konjikineko | 金色猫 |  |  |
+| konjikineko | 金色猫 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG09030.html) \| [DLsite](https://ci-en.dlsite.com/creator/41) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=24755/) \| [X](https://x.com/konjikineko_1) \| [pixiv](https://www.pixiv.net/users/780091) |
 | konna tokoro no kinniku made kitaeru nante... | こんなところのきんにくまできたえるなんて... |  |  |
 | konno seisakubou | 紺野制作坊 |  |  |
 | konnyaku | こんにゃく |  |  |
