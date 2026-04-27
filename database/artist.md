@@ -15140,6 +15140,7 @@ example:
 | akire | アキレ |  |  |
 | kasa | かさ |  |  |
 | hanana | はなな |  |  |
+| hiji chaba | ひじ茶葉 |  | [X](https://x.com/hiji_chaba/media) [pixiv](https://www.pixiv.net/users/86862564) |
 
 <!--TEMPLATE:
 |  |  |  |  |
