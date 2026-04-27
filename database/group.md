@@ -1825,7 +1825,7 @@ example:
 | akari blast | Akari blast! |  |  |
 | rokata aruki | 縁側珈琲 |  |  |
 | idonchi | いどんち |  |  |
-| sanbaizu | 三杯酢 |  |  |
+| sanbaizu | 三杯酢 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG12594.html) \| [X](https://x.com/sanbaizu1105) |
 | j.d.world | J.D.World |  |  |
 | 0000 | 0000 |  |  |
 | lovelyplace | LOVELYPLACE |  |  |
