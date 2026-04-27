@@ -88,7 +88,7 @@ example:
 | nutaku | Nutaku |  |  |
 | etude | etude |  |  |
 | eufonie | eufonie | etude 的姐妹品牌 |  |
-| eushully | Eushully |  |  |
+| eushully | Eushully | 日语：エウシュリー<br>日本专注于开发RPG、SLG类游戏的厂商 | [官网](https://www.eukleia.co.jp/eushully/) |
 | waffle | Waffle |  |  |
 | navel | Navel |  |  |
 | tryset | TRYSET |  |  |
