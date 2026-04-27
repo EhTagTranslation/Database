@@ -11842,7 +11842,7 @@ example:
 | v muscle | Vまっする |  |  |
 | v112cr | ぶい112CR |  |  |
 | vachicalist | Vachicalist |  |  |
-| vadass | Vadass |  |  |
+| vadass | Vadass |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72678/) |
 | vagina dentata | 有齿女阴 |  |  |
 | valiant | VALIAN党 |  |  |
 | valkyria | わるきゅ～れ |  |  |
