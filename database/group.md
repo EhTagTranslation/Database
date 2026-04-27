@@ -866,7 +866,7 @@ example:
 | studio aruta | スタジオあるた |  |  |
 | haruharudo | はるはる堂 |  |  |
 | tamanokoshi | たまのこし |  |  |
-| minamihamaya | 南浜屋 |  |  |
+| minamihamaya | 南浜屋 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74005/) |
 | lolipop complete | ロリポップ コンプリート |  |  |
 | studio wallaby | スタジオ・ワラビー |  |  |
 | castlism | Castlism |  |  |
