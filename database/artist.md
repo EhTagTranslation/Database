@@ -12993,7 +12993,7 @@ example:
 | ion | 伊翁 |  |  |
 | sanukiyan | さぬきやん |  |  |
 | tsukisiro | 月代 |  |  |
-| kunabishi | くなびし |  |  |
+| kunabishi | くなびし |  | [pixiv](https://www.pixiv.net/users/1419450) \| [FANBOX](https://kunabishi.fanbox.cc/) |
 | furau | ふらう |  | [pixiv](https://www.pixiv.net/users/18340266) \| [X](https://x.com/grandarbo) \| [FANBOX](https://grandarbo.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/2156) |
 | kurokawa ryoichi | 黒川リョーイチ |  |  |
 | chinton | チントン |  |  |
