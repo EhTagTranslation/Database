@@ -10699,7 +10699,7 @@ example:
 | stametch | STAMETCH! |  |  |
 | stand erection | スタンドエレクション |  |  |
 | stand play | STAND PLAY |  |  |
-| star berry | STAR BERRY |  |  |
+| star berry | STAR BERRY |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49917.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72509/) |
 | star fall | STAR FALL |  |  |
 | star parlor | STAR PARLOR |  |  |
 | stargazer | STARGAZER |  |  |
