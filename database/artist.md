@@ -15139,6 +15139,7 @@ example:
 | watashiki | わたしき |  |  |
 | akire | アキレ |  |  |
 | kasa | かさ |  |  |
+| hanana | はなな |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
