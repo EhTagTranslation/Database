@@ -1285,7 +1285,7 @@ example:
 | nagi yuki | 凪居ユキ |  |  |
 | kusui aruta | 久水あるた |  |  |
 | tamanosuke | たまのすけ |  |  |
-| minamihama yoriko | 南浜よりこ |  |  |
+| minamihama yoriko | 南浜よりこ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=ea3b054e-64d3-11f0-ba33-0242ac160002/section=mens/) |
 |  | Pd |  |  |
 | butcha-u | ブッチャーU |  |  |
 | nekomata naomi | ねこまたなおみ |  |  |
