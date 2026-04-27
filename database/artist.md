@@ -11551,7 +11551,7 @@ example:
 | yamamoto tomomitsu | 山本ともみつ |  |  |
 | yamamura natsuru | 山村なつる |  |  |
 | yamane masahiro | やまねまさひろ |  |  |
-| yamaneko suzume | 山猫スズメ |  |  |
+| yamaneko suzume | 山猫スズメ |  | [pixiv](https://www.pixiv.net/users/2057449) \| [FANBOX](https://s-y.fanbox.cc/) \| [BOOTH](https://starberry.booth.pm/) \| [X](https://x.com/suzumeyamaneko_) \| [Skeb](https://skeb.jp/@suzumeyamaneko) \| [misskey](https://misskey.io/@suzumeyamaneko) |
 | yamano | やまの |  |  |
 | yamano konzaburo | 山野紺三郎 |  |  |
 | yamaori | yamaori |  |  |
