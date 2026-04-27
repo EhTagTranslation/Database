@@ -15138,6 +15138,7 @@ example:
 | marsa | marsa |  | [pixiv](https://www.pixiv.net/users/375450) \| [livedoor](https://marsax.livedoor.blog/) \| [Pawoo](https://pawoo.net/@marsax) \| [FANBOX](https://www.fanbox.cc/@marsa) |
 | watashiki | わたしき |  |  |
 | akire | アキレ |  |  |
+| kasa | かさ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
