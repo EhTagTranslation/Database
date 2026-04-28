@@ -8626,7 +8626,7 @@ example:
 | neko manma | 猫御飯 |  |  |
 | neko maru rentarou | 猫丸恋太郎 |  |  |
 | neko na yasai | 猫な野菜 |  |  |
-| neko samurai | 猫サム雷 |  |  |
+| neko samurai | 猫サム雷 |  | [FANBOX](https://nekonekodondon.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/11914404) \| [X](https://x.com/sisimahama11795) |
 | neko sensei | 猫センセイ |  |  |
 | nekobuton | 猫布団 |  |  |
 | nekodel | ねこでる |  |  |
