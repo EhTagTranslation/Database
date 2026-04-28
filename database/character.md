@@ -9194,6 +9194,7 @@ example:
 | winry rockbell | 温莉·洛克贝尔 | ![](https://static.wikia.nocookie.net/bishojodate/images/6/62/12086.jpg/revision/latest?cb=20190602033637&path-prefix=zh)<br>出自作品：`p:fullmetal alchemist`<br><br>溫莉·洛克貝爾（Winry Rockbell）是荒川弘漫畫《鋼之鍊金術師》及其改編動畫中的主要女性角色。 | [Fandom](https://bishojodata.fandom.com/zh/wiki/溫莉·洛克貝爾) \| [百度百科](https://baike.baidu.com/item/温莉·洛克贝尔/3554637) |
 | subaru kakehashi | 梯 昴 |  |  |
 | nicole reeyn | 尼可·莱恩 |  |  |
+| ichika amasawa | 天泽一夏 | ![](https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/a/a6/Tomoseshunsaku_-_Ichika_Amasawa_Swimsuit_%28No_Background%29.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
