@@ -9193,6 +9193,7 @@ example:
 | katheryne | 凯瑟琳（原神） | 凯瑟琳是游戏《原神》及其衍生作品的登场角色。<br>![凯瑟琳](https://storage.moegirl.org.cn/moegirl/commons/2/23/Genshin_Katheryne_PV.jpg) | [萌娘百科](https://zh.moegirl.org.cn/凯瑟琳%28原神%29) |
 | winry rockbell | 温莉·洛克贝尔 | ![](https://static.wikia.nocookie.net/bishojodate/images/6/62/12086.jpg/revision/latest?cb=20190602033637&path-prefix=zh)<br>出自作品：`p:fullmetal alchemist`<br><br>溫莉·洛克貝爾（Winry Rockbell）是荒川弘漫畫《鋼之鍊金術師》及其改編動畫中的主要女性角色。 | [Fandom](https://bishojodata.fandom.com/zh/wiki/溫莉·洛克貝爾) \| [百度百科](https://baike.baidu.com/item/温莉·洛克贝尔/3554637) |
 | subaru kakehashi | 梯 昴 |  |  |
+| nicole reeyn | 尼可·莱恩 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
