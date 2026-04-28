@@ -2433,7 +2433,7 @@ example:
 | madara uchiha | 宇智波斑 |  |  |
 | itachi uchiha | 宇智波鼬 |  |  |
 | boruto uzumaki | 漩涡博人 | ![](https://ehgt.org/w/02/083/64630-4s63z15c.webp)<br>出自作品：`p:boruto` |  |
-| himawari uzumaki | 漩涡向日葵 |  |  |
+| himawari uzumaki | 漩涡向日葵 | ![](https://static.wikia.nocookie.net/naruto/images/f/f7/Himawari_Part_I.png/revision/latest/scale-to-width-down/300?cb=20231018143215)<br>出自作品：`p:boruto`<br><br>漩涡向日葵是漫画《BORUTO》及其衍生作品的登场角色。初登场于前作《火影忍者》漫画最终话。 | [萌娘百科](https://mobile.moegirl.org.cn/漩涡向日葵) \| [百度百科](https://baike.baidu.com/item/漩涡向日葵/16019403) |
 |  | ▼ dog days |  |  |
 | cinque izumi | 真红·和泉 |  |  |
 | millhiore firianno biscotti | 米希奥蕾·菲利安诺·比斯科迪 |  |  |
