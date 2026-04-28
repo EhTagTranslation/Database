@@ -7045,7 +7045,7 @@ example:
 | kokuu rikishi | 虚空力士 |  |  |
 | kolgha | コルガー |  |  |
 | kom | Kom |  |  |
-| koma | KOMA |  |  |
+| koma | koma |  | [DLsite](https://ci-en.dlsite.com/creator/5358) \| [pixiv](https://www.pixiv.net/users/14218288) \| [X](https://x.com/milk_girl_pro) |
 | komac | 鼓膜 |  |  |
 | komagata | 狛形 |  |  |
 | komaki ren | 小巻恋 |  |  |
