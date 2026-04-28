@@ -12493,7 +12493,7 @@ example:
 | kinomiki no mama | 木の幹のまま |  |  |
 | raise wa futanari bishoujo | 来世是扶她美少女 |  |  |
 | kakuzatou | 角砂糖 |  |  |
-| gyuunyuu shoujo seisakusho | 牛乳少女制作所 |  |  |
+| gyuunyuu shoujo seisakusho | 牛乳少女制作所 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG36010.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76173/) |
 | abukumadou | 阿武隈堂 |  |  |
 | hakutamayu | 白玉汤 | エロ漫画描いてます！ 『俺の上京性生活』などなど！ | [pixiv](https://www.pixiv.net/users/10454319)<br>[X](https://x.com/WAMH5248) |
 | nodomaru biyori | のどまる日和 |  |  |
