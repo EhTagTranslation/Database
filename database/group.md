@@ -8445,7 +8445,7 @@ example:
 | nekodaisuki | 猫大好き |  |  |
 | nekodotto | ネコドット |  |  |
 | nekogoro | ねこごろ |  |  |
-| nekohachi eigyoubu | 猫八営業部 |  |  |
+| nekohachi eigyoubu | 猫八営業部 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77541/) |
 | nekohige radio | 猫ひげラジオ |  |  |
 | nekohigetei | ねこひげ亭 |  |  |
 | nekoiro | ネコイロ |  |  |
