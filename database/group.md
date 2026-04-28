@@ -13894,6 +13894,7 @@ example:
 | aizuan | あいづ庵 |  |  |
 | neko happyaku | ねこはっぴゃく |  |  |
 | donguri kinoko | どんぐりきのこ |  |  |
+| momo-chan attack | ももちゃんあたっく |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79335/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
