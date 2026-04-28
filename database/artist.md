@@ -10182,7 +10182,7 @@ example:
 | shivharu | シブハル |  |  |
 | shiwo. | しを。 |  |  |
 | shizaki masayuki | 士崎雅雪 |  |  |
-| shizuki shinra | 獅月しんら |  |  |
+| shizuki shinra | 獅月しんら |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30296.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70954/) |
 | shizuku | しずく |  |  |
 | shizuna miyuri | しずなみゆり |  |  |
 | shizuru | シズル |  |  |
