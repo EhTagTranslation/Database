@@ -5323,7 +5323,7 @@ example:
 | gimako | ぎまこ |  |  |
 | gin | ぎん |  |  |
 | gin jyuji | 銀十字 |  |  |
-| gincha | 銀茶 |  |  |
+| gincha | 銀茶 |  | [FANZA](https://book.dmm.co.jp/list/?author=340675) |
 | ginga azuma | 銀河アズマ |  |  |
 | gingitsune | 宇宙戦艦ヤマト |  |  |
 | ginichi | 銀一 |  |  |
