@@ -5964,7 +5964,7 @@ example:
 | masazumi honda | 本多·正纯 |  |  |
 | shizuku lulu | 雫Lulu | 雫るる |  |
 | rumia tingel | 露米娅·汀洁尔 | ![](https://ehgt.org/w/01/803/72579-37xpolj3.webp)<br>所属作品: `p:rokudenashi majutsu koushi to akashic records`<br>日语：ルミア＝ティンジェル | [萌娘百科](https://zh.moegirl.org.cn/露米娅·汀洁尔) |
-| sistine fibel | 希丝缇娜·菲伊贝鲁 | 所属作品: `p:rokudenashi majutsu koushi to akashic records`<br><br>フィジテ地区大地主菲伊贝鲁家的千金，下任当家。和鲁米亚同为阿尔扎诺帝国魔术学院二年二班的魔术学士。一板一眼的优秀学生。银发美少女。鲁米娅他们平时用西丝蒂作为爱称，而格伦则是用白猫的昵称。 | [萌娘百科](https://zh.moegirl.org.cn/希丝缇娜·菲伊贝鲁) |
+| sistine fibel | 希丝缇娜·菲伊贝鲁 | ![](https://static.wikia.nocookie.net/rokuaka/images/e/ef/Character_Anime-Sistine.png)<br>所属作品: `p:rokudenashi majutsu koushi to akashic records`<br>日语：システィーナ＝フィーベル | [萌娘百科](https://zh.moegirl.org.cn/希丝缇娜·菲伊贝鲁) |
 | akame | 赤瞳 | ![](https://static.wikia.nocookie.net/akamegakill/images/d/df/Akame_main.png)<br>所属作品：`akame ga kill` |  |
 | erza scarlet | 艾露莎·舒卡勒托 | ![](https://static.wikia.nocookie.net/fairytail/images/9/9c/Erza_2018.png)<br>所属作品：`fairy tail`<br>日文：(エルザ・スカーレット |  |
 | kari kamiya | 八神光 | 也译作八神嘉儿，《数码宝贝大冒险》中主角八神太一的妹妹，第八位被选召的孩子。 | [萌娘百科](https://zh.moegirl.org.cn/八神光%28数码宝贝%29) |
