@@ -1761,7 +1761,7 @@ example:
 | tione hiryute | 蒂奥涅·席吕特 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/f/fa/Tione_Orario_Rhapsodia_Caracter_Art_2.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
 | aiz wallenstein | 艾丝·华伦斯坦 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/9/98/Aiz_Wallenstein.png)<br>出自作品：`p:dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：アイズ·ヴァレンシュタイン | [萌娘百科](https://zh.moegirl.org.cn/艾丝·华伦斯坦) |
 | eina tulle | 埃伊娜·祖尔 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/7/72/Eina_Tulle.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：エイナ・チュール |  |
-| freya | 芙蕾雅 | ![](https://ehgt.org/w/02/161/01385-b6e3t3q8.webp)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
+| freya | 芙蕾雅 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/7/7d/Freya_Intrigued_Goddess.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
 | hephaistos | 赫菲斯托丝 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/d/dd/Hephaistos_The_One-Eyed.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
 | liliruca arde | 莉莉露卡·厄德 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/7/70/Liliruca_Arde_Movie_Character_Art.png)<br>出自作品：`p:dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：リリルカ・アーデ | [萌娘百科](https://zh.moegirl.org.cn/莉莉露卡·厄德) |
 | ryuu lion | 琉·璃昂 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/5/5a/Ryu_character_sheet_seasonV.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
