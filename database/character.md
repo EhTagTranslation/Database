@@ -7710,7 +7710,7 @@ example:
 | eishia stilza | 艾希娅·斯蒂尔扎 | ![](https://static.wikia.nocookie.net/gachiakuta/images/b/b6/Eishia_Stilza_%28Anime%29.png)<br>所属作品：`gachiakuta`<br>日语名：エイシア・スティルザ |  |
 | yoru | 夜（战争恶魔） | ![](https://storage.moegirl.org.cn/moegirl/commons/9/90/Volume_12_%28Textless%29.png)<br>所属作品：`chainsaw man`<br>在三鹰朝被嫉妒自己的班长杀害后出现并复活、附身她。自称为“夜”。 |  |
 | anosillus the 2nd | 阿诺西拉斯2代 | ![](https://ehgt.org/w/02/135/94782-3qj1m9ml.webp)<br>所属作品：`ssss.dynazenon` |  |
-| naaza erisuis | 纳扎·埃里斯 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/e/e3/Naaza_Erisuis_Season_2.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语名：ナァーザ・エリスイス |  |
+| naaza erisuis | 纳扎·埃里斯 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/3/3d/Naaza_Cyan.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语名：ナァーザ・エリスイス |  |
 | kiyoko shimizu | 清水洁子 | ![](https://ehgt.org/w/01/965/72196-94zd84mm.webp)<br>所属作品：`haikyuu`<br>日语名：しみず きよこ |  |
 | amelia rosequartz | 艾蜜莉亚·罗丝寇兹 | ![](https://ehgt.org/w/02/120/17629-6b5ujlhd.webp)<br>所属作品：`ansatsusha de aru ore no status ga yuusha yori mo akiraka ni tsuyoi no da ga` |  |
 | psylocke | 灵蝶 | ![](https://ehgt.org/w/01/943/51736-h4z7ktv0.webp)<br>所属作品：`x-men` |  |
