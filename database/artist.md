@@ -5989,7 +5989,7 @@ example:
 | ibn | Ibn |  |  |
 | ibonnu | イボンヌ |  |  |
 | ibu hidekichi | 伊武秀吉 |  |  |
-| ibuki pon | 息吹ポン |  |  |
+| ibuki pon | 息吹ポン |  | [DLsite](https://ci-en.dlsite.com/creator/24423) \| [pixiv](https://www.pixiv.net/users/105825) \| [X](https://x.com/ELHEARTS) \| [Fantia](https://fantia.jp/fanclubs/18886) |
 | ibukichi | いぶきち |  |  |
 | iburo. | いぶろー。 |  |  |
 | ica | ica |  |  |
@@ -15148,6 +15148,7 @@ example:
 | nepinepi | ネピネピ |  |  |
 | okato kotako | 岡都コタ子 |  |  |
 | berial | ベリアル |  |  |
+| fumino yuki | 文乃ゆき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
