@@ -2812,6 +2812,7 @@ example:
 | baywatch | 海滩救护队 |  |  |
 | shinobi no ittoki | 忍之一时 |  |  |
 | jitsu wa ore saikyou deshita | 其实我是最强的？ | ![](https://static.wikia.nocookie.net/isekai/images/1/1c/Jitsu_wa_Ore%2C_Saikyou_deshita%3F_LN_1.jpg) |  |
+| killing bites | 牙斗兽娘 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
