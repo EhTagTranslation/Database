@@ -13896,6 +13896,7 @@ example:
 | donguri kinoko | どんぐりきのこ |  |  |
 | momo-chan attack | ももちゃんあたっく |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79335/) |
 | silkyhurst | シルキーハースト |  |  |
+| kurokami gratin | くろかみグラタン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
