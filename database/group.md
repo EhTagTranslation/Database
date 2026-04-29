@@ -5953,7 +5953,7 @@ example:
 | iiwake-gaisya | いいわけ会社 |  |  |
 | iji | IJI |  |  |
 | ijigen kichi | 異次元基地 |  |  |
-| ijiise | イジイセ |  |  |
+| ijiise | イジイセ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75475/) |
 | ik.projectear | IK.projectear |  |  |
 | ika client | いか・クライアント |  |  |
 | ikaruganomiya | 斑鳩宮 |  |  |
