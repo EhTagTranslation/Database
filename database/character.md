@@ -4434,7 +4434,7 @@ example:
 | sara valestin | 莎拉·巴雷斯坦 |  |  |
 | cure cosmo | 尤妮（宇宙天使） | ![](https://static.wikia.nocookie.net/prettycure/images/8/86/Yuni_Cure_Cosmo_Profile.png/revision/latest?cb=20200105154305)<br>所属作品:`star twinkle precure`<br>日语：ユニ | [萌娘百科](https://moegirl.uk/尤妮)<br>[Fandom](https://prettycure.fandom.com/wiki/Yuni) |
 | cure selene | 香久矢圆香（月神天使） | ![](https://static.wikia.nocookie.net/prettycure/images/d/db/Kaguya_Madoka_Selene_profile.png)<br>所属作品：`star twinkle precure`<br>日语：香久矢まどか | [Fandom](https://prettycure.fandom.com/wiki/Kaguya_Madoka) |
-| demeter | 狄蜜特 |  |  |
+| demeter | 狄蜜特 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/6/63/Demeter_Colonel.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：デメテル |  |
 | haruka yuzuhara | 柚原春夏 | 所属作品: `p:toheart2` | [萌娘百科](https://zh.moegirl.org.cn/柚原春夏) |
 | matsuri kazamaki | 风卷祭里 | 漫画《`ayakashi triangle`》的主人公。男转女。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=437762) |
 | suzu kanade | 花奏铃 | 《`ayakashi triangle`》的登场角色，女主角。 |  |
