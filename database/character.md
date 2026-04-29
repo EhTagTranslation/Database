@@ -9195,6 +9195,7 @@ example:
 | subaru kakehashi | 梯 昴 |  |  |
 | nicole reeyn | 尼可·莱恩 | ![](https://static.wikia.nocookie.net/gensin-impact/images/1/11/Nicole_Card.png)<br>所属作品：`genshin impact` |  |
 | ichika amasawa | 天泽一夏 | ![](https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/a/a6/Tomoseshunsaku_-_Ichika_Amasawa_Swimsuit_%28No_Background%29.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e` |  |
+| sousuke sagara | 相良宗介 | ![](https://static.wikia.nocookie.net/fullmetalpanic/images/2/23/Fantasia_Re-Build_Sagara_Sousuke_1.png)<br>所属作品：`full metal panic` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
