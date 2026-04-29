@@ -13898,6 +13898,7 @@ example:
 | silkyhurst | シルキーハースト |  |  |
 | kurokami gratin | くろかみグラタン |  |  |
 | ferret | ふぇれっと |  |  |
+| kisene frega | キセネフレガ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
