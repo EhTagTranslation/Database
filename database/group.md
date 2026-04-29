@@ -13901,6 +13901,7 @@ example:
 | kisene frega | キセネフレガ |  |  |
 | ourakuza | 凹楽座 |  |  |
 | morning star | モニスタラッシュ |  |  |
+| nekomata sanshokukan | ねこマタ三色館 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
