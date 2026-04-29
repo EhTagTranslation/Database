@@ -12992,7 +12992,7 @@ example:
 | kumo no furusu | 雲の古巣 |  |  |
 | tsukimi yagura | 月见橹 |  |  |
 | tetsubou shounen | 铁棒少年 |  |  |
-| toshiue onee-san tengoku | 年上おねーさん天国 |  |  |
+| toshiue onee-san tengoku | 年上おねーさん天国 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54900.html) |
 | josou bouzu danshi kenkyuujo | 女装坊主男子研究所 |  |  |
 | constructor | こんすとらくた |  |  |
 | strawberryplut | ストロベリープルト |  |  |
