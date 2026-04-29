@@ -13899,6 +13899,7 @@ example:
 | kurokami gratin | くろかみグラタン |  |  |
 | ferret | ふぇれっと |  |  |
 | kisene frega | キセネフレガ |  |  |
+| ourakuza | 凹楽座 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
