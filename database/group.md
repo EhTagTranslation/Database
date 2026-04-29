@@ -13902,6 +13902,7 @@ example:
 | ourakuza | 凹楽座 |  |  |
 | morning star | モニスタラッシュ |  |  |
 | nekomata sanshokukan | ねこマタ三色館 |  |  |
+| chikuchiku chiichiku | ちくちくちーちく |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
