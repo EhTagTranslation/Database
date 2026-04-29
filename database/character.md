@@ -1759,7 +1759,7 @@ example:
 | bell cranel | 贝尔·克朗尼 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/8/8a/Bell_design_season4.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
 | tiona hiryute | 蒂奥娜·席吕特 |  |  |
 | tione hiryute | 蒂奥涅·席吕特 | ![](https://ehgt.org/w/02/170/58275-6p9czwo4.webp)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
-| aiz wallenstein | 艾丝·华伦斯坦 | ![](https://ehgt.org/w/02/192/24333-rr1r9dxt.webp)<br>出自作品：`p:dungeon ni deai o motomeru no wa machigatteiru darou ka`<br><br>艾丝·华伦斯坦（日语：アイズ·ヴァレンシュタイン；英语：Aiz Wallenstein）是大森藤野所创作的轻小说《在地下城寻求邂逅是否搞错了什么》及其外传小说《剑姬神圣谭》等衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/艾丝·华伦斯坦) |
+| aiz wallenstein | 艾丝·华伦斯坦 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/9/98/Aiz_Wallenstein.png)<br>出自作品：`p:dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：アイズ·ヴァレンシュタイン | [萌娘百科](https://zh.moegirl.org.cn/艾丝·华伦斯坦) |
 | eina tulle | 埃伊娜·祖尔 |  |  |
 | freya | 芙蕾雅 | ![](https://ehgt.org/w/02/161/01385-b6e3t3q8.webp)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
 | hephaistos | 赫菲斯托丝 |  |  |
