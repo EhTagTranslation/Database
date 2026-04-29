@@ -15149,6 +15149,7 @@ example:
 | okato kotako | 岡都コタ子 |  |  |
 | berial | ベリアル |  |  |
 | fumino yuki | 文乃ゆき |  |  |
+| atatamemerou | あたためめ郎 |  | [X](https://x.com/ABB_RmS) |
 
 <!--TEMPLATE:
 |  |  |  |  |
