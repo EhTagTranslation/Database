@@ -9200,6 +9200,7 @@ example:
 | wiene | 薇妮 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/b/bb/Wiene_Character_Art.jpg)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：ウィーネ |  |
 | heith velvet | 海慈·贝鲁佩特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/21/60/165280_crt_zOVKy.jpg)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：ヘイズ・ヴェルヴェット |  |
 | aisha belka | 阿伊莎·贝尔卡 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/5/52/Aisha_Rejuvenated_Antianeira.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：アイシャ・ベルカ |  |
+| airmid teasanare | 阿蜜德·特亚萨纳雷 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/b/b6/Amid_Sunset_Saint.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：アミッド・テアサナーレ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
