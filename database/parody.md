@@ -2811,6 +2811,7 @@ example:
 | neverness to everness | ![](https://patchwiki.biligame.com/images/wiki/thumb/c/c5/d4drxp1gf2inr8gitpnsub7pnnx1pjp.png/150px-Yh_icon.png.jpeg) 异环 | ![](https://upload.wikimedia.org/wikipedia/en/9/9c/Neverness_to_Everness_logo.png)<br>Hotta Studio自主研发的超自然都市开放世界RPG。 | [官网](https://nte.perfectworld.com/cn/) |
 | baywatch | 海滩救护队 |  |  |
 | shinobi no ittoki | 忍之一时 |  |  |
+| jitsu wa ore saikyou deshita | 其实我是最强的？ | ![](https://static.wikia.nocookie.net/isekai/images/1/1c/Jitsu_wa_Ore%2C_Saikyou_deshita%3F_LN_1.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
