@@ -15150,6 +15150,7 @@ example:
 | berial | ベリアル |  |  |
 | fumino yuki | 文乃ゆき |  |  |
 | atatamemerou | あたためめ郎 |  | [X](https://x.com/ABB_RmS) |
+| sanchiku | さんちく |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
