@@ -2810,6 +2810,7 @@ example:
 | poppin-play kitchen | 波比的玩乐厨房 | ![](https://static.wikia.nocookie.net/poppinplay-kitchen/images/2/24/Pilotthumb.png) |  |
 | neverness to everness | ![](https://patchwiki.biligame.com/images/wiki/thumb/c/c5/d4drxp1gf2inr8gitpnsub7pnnx1pjp.png/150px-Yh_icon.png.jpeg) 异环 | ![](https://upload.wikimedia.org/wikipedia/en/9/9c/Neverness_to_Everness_logo.png)<br>Hotta Studio自主研发的超自然都市开放世界RPG。 | [官网](https://nte.perfectworld.com/cn/) |
 | baywatch | 海滩救护队 |  |  |
+| shinobi no ittoki | 忍之一时 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
