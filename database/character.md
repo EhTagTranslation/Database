@@ -5781,7 +5781,7 @@ example:
 | obito uchiha | 宇智波带土 |  |  |
 | karin uzumaki | 漩涡香燐 |  |  |
 | suigetsu hozuki | 鬼灯水月 |  |  |
-| kaguya ootsutsuki | 大筒木辉夜 |  |  |
+| kaguya ootsutsuki | 大筒木辉夜 | ![](https://static.wikia.nocookie.net/naruto/images/6/6c/Kaguya_Ōtsutsuki.png/revision/latest?cb=20180824113908)<br>出自作品：`p:naruto`<br><br>大筒木辉夜（おおつつき かぐや），日本漫画《火影忍者》及其衍生作品中的女性角色。 | [百度百科](https://baike.baidu.com/item/大筒木辉夜/10269443) \| [Fandom](https://naruto.fandom.com/wiki/Kaguya_Ōtsutsuki) |
 | konohamaru sarutobi | 猿飞木叶丸 | ![](https://thumbsnap.com/i/Rj2BLfUJ.jpg)<br>出自作品：`p:naruto`<br><br>猿飞木叶丸是岸本齐史所创作的漫画《火影忍者》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/猿飞木叶丸) |
 | sumire kakei | 笕堇 | ![](https://ehgt.org/w/02/066/12944-82jn0xys.webp)<br>出自作品：`p:boruto`<br><br>笕堇（日语：かけい スミレ）是漫画《BORUTO》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/笕堇) |
 | iruka umino | 海野伊鲁卡 |  |  |
