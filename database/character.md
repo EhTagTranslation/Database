@@ -9208,6 +9208,7 @@ example:
 | asfi al andromeda | 亚丝菲·阿尔·安朵美达 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/c/c9/Asfi_Lawful_Judge.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：アスフィ・アル・アンドロメダ |  |
 | chloe rollo | 可萝伊·洛洛 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/8/8f/Chloe_Rollo_Orario_Rhapsodia_Character_Art.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：クロエ・ロロ |  |
 | charlotte zenfis | 夏洛特·泽菲斯 | ![](https://static.wikia.nocookie.net/jitsu-wa-ore-saikyou-deshita/images/b/bd/Anime_Charlotte.png)<br>所属作品：`jitsu wa ore saikyou deshita`<br>日语：シャルロッテ・ゼンフィス |  |
+| hitachi chigusa | 常陆·千草 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/5/5f/Hitachi_Chigusa_Orario_Rhapsodia_Character_Art.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：ヒタチ・千草 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
