@@ -9199,6 +9199,7 @@ example:
 | teletha tessa testarossa | 泰蕾莎·泰丝塔罗莎 | ![](https://static.wikia.nocookie.net/fullmetalpanic/images/2/2d/Fantasia_Re-Build_Teletha_Testarossa_1.png)<br>所属作品：`full metal panic`<br>日语：テレサ・テスタロッサ |  |
 | wiene | 薇妮 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/b/bb/Wiene_Character_Art.jpg)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：ウィーネ |  |
 | heith velvet | 海慈·贝鲁佩特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/21/60/165280_crt_zOVKy.jpg)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：ヘイズ・ヴェルヴェット |  |
+| aisha belka | 阿伊莎·贝尔卡 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/5/52/Aisha_Rejuvenated_Antianeira.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：アイシャ・ベルカ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
