@@ -1756,7 +1756,7 @@ example:
 | daisuke aoki | 青木大介 |  |  |
 |  | ▼ 在地下城寻求邂逅是否搞错了什么 |  |  |
 | hestia | 赫斯缇雅 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/8/8c/Hestia_full_body.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` | [Fandom](https://danmachi.fandom.com/zh/wiki/赫斯缇雅) \| [萌娘百科](https://zh.moegirl.org.cn/赫斯缇雅) |
-| bell cranel | 贝尔·克朗尼 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/8/8a/Bell_design_season4.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
+| bell cranel | 贝尔·克朗尼 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/8/89/Bell_TagaTame_x_DanMachi_III_Collab.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
 | tiona hiryute | 蒂奥娜·席吕特 |  |  |
 | tione hiryute | 蒂奥涅·席吕特 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/c/cd/Tione_Hiryute_Character_Art.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
 | aiz wallenstein | 艾丝·华伦斯坦 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/9/98/Aiz_Wallenstein.png)<br>出自作品：`p:dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：アイズ·ヴァレンシュタイン | [萌娘百科](https://zh.moegirl.org.cn/艾丝·华伦斯坦) |
