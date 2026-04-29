@@ -1766,7 +1766,7 @@ example:
 | liliruca arde | 莉莉露卡·厄德 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/7/70/Liliruca_Arde_Movie_Character_Art.png)<br>出自作品：`p:dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：リリルカ・アーデ | [萌娘百科](https://zh.moegirl.org.cn/莉莉露卡·厄德) |
 | ryuu lion | 琉·璃昂 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/5/5e/Ryuu_Roaring_Gale_DanMemo.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
 | loki | 洛基 | ![](https://static.wikia.nocookie.net/marvel-rivals/images/6/68/Loki_Hero_Portrait.png)<br>所属作品：`the mighty thor` |  |
-| syr flova | 希儿·福罗瓦 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/a/a2/Syr_Flova.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
+| syr flova | 希儿·福罗瓦 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/b/b2/Syr_Devoted_Hand_DanMemo.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
 |  | ▼ 魔法少女小圆 |  |  |
 | homura akemi | 晓美焰 | ![](https://ehgt.org/w/00/859/71611-1qtv03v7.webp)<br>出自作品：`p:puella magi madoka magica`<br><br>晓美焰（日语：暁美（あけみ） ほむら）是动画《魔法少女小圆》系列及其衍生作品的登场角色，主角之一。TV版及旧剧场版第二女主角，新篇剧场版《叛逆的物语》第一女主角。 | [萌娘百科](https://zh.moegirl.org.cn/晓美焰) |
 | madoka kaname | 鹿目圆 |  |  |
