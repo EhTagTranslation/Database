@@ -7314,7 +7314,7 @@ example:
 | monet | 莫奈 | ![](https://ehgt.org/w/01/914/78729-rx90n50r.webp)<br>所属作品：`one piece`<br>唐吉诃德·多弗朗明哥的手下，对多弗朗明哥忠心耿耿。 |  |
 | reiko hinomoto | 日之本零子 | 所属作品：`rumble roses` |  |
 | u-1196 | 白细胞1196 | ![](https://ehgt.org/w/01/914/82398-ewtyhmkr.webp)<br>所属作品：`hataraku saibou` |  |
-| yamato mikoto | 大和命 | ![](https://ehgt.org/w/02/080/13286-r2jqbbjb.webp)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
+| yamato mikoto | 大和命 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/6/65/Mikoto_Violet_Stream_DanMemo.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：ヤマト・命 |  |
 | mei aihara | 蓝原芽衣 |  |  |
 | yuzu aihara | 蓝原柚子 |  |  |
 | kana higa | 比嘉夏菜 | ![](https://static.wikia.nocookie.net/okitsura/images/9/97/Kana_Higa.png)<br>所属作品：`okinawa de suki ni natta ko ga hougen sugite tsura sugiru` |  |
