@@ -9197,7 +9197,7 @@ example:
 | ichika amasawa | 天泽一夏 | ![](https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/a/a6/Tomoseshunsaku_-_Ichika_Amasawa_Swimsuit_%28No_Background%29.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e` |  |
 | sousuke sagara | 相良宗介 | ![](https://static.wikia.nocookie.net/fullmetalpanic/images/2/23/Fantasia_Re-Build_Sagara_Sousuke_1.png)<br>所属作品：`full metal panic` |  |
 | teletha tessa testarossa | 泰蕾莎·泰丝塔罗莎 | ![](https://static.wikia.nocookie.net/fullmetalpanic/images/2/2d/Fantasia_Re-Build_Teletha_Testarossa_1.png)<br>所属作品：`full metal panic`<br>日语：テレサ・テスタロッサ |  |
-| wiene | 薇妮 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/b/bb/Wiene_Character_Art.jpg)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：ウィーネ |  |
+| wiene | 薇妮 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/7/74/Wiene_Together_with_Comrades_DanMemo.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：ウィーネ |  |
 | heith velvet | 海慈·贝鲁佩特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/21/60/165280_crt_zOVKy.jpg)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：ヘイズ・ヴェルヴェット |  |
 | aisha belka | 阿伊莎·贝尔卡 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/5/52/Aisha_Rejuvenated_Antianeira.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：アイシャ・ベルカ |  |
 | airmid teasanare | 阿蜜德·特亚萨纳雷 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/b/b6/Amid_Sunset_Saint.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：アミッド・テアサナーレ |  |
