@@ -1763,7 +1763,7 @@ example:
 | eina tulle | 埃伊娜·祖尔 |  |  |
 | freya | 芙蕾雅 | ![](https://ehgt.org/w/02/161/01385-b6e3t3q8.webp)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
 | hephaistos | 赫菲斯托丝 |  |  |
-| liliruca arde | 莉莉露卡·厄德 | ![](https://ehgt.org/w/00/420/34163-9pg9lpvi.webp)<br>出自作品：`p:dungeon ni deai o motomeru no wa machigatteiru darou ka`<br><br>莉莉露卡·厄德（日语：リリルカ・アーデ；英语：Lilliluka Erde）是大森藤野所创作的轻小说《在地下城寻求邂逅是否搞错了什么》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/莉莉露卡·厄德) |
+| liliruca arde | 莉莉露卡·厄德 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/7/70/Liliruca_Arde_Movie_Character_Art.png)<br>出自作品：`p:dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：リリルカ・アーデ | [萌娘百科](https://zh.moegirl.org.cn/莉莉露卡·厄德) |
 | ryuu lion | 琉·璃昂 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/5/5a/Ryu_character_sheet_seasonV.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
 | loki | 洛基 | ![](https://static.wikia.nocookie.net/marvel-rivals/images/6/68/Loki_Hero_Portrait.png)<br>所属作品：`the mighty thor` |  |
 | syr flova | 希儿·福罗瓦 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/a/a2/Syr_Flova.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
