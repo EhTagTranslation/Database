@@ -9206,6 +9206,7 @@ example:
 | welf crozzo | 韦尔夫·克洛 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/0/0b/Welf_Artisan_of_Swords_DanMemo.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：ヴェルフ・クロッゾ |  |
 | cassandra ilion | 卡珊德拉·伊利翁 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/a/a0/Cassandra_First_Dream.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：カサンドラ・イリオン |  |
 | asfi al andromeda | 亚丝菲·阿尔·安朵美达 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/c/c9/Asfi_Lawful_Judge.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：アスフィ・アル・アンドロメダ |  |
+| chloe rollo | 可萝伊·洛洛 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/8/8f/Chloe_Rollo_Orario_Rhapsodia_Character_Art.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：クロエ・ロロ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
