@@ -9202,6 +9202,7 @@ example:
 | aisha belka | 阿伊莎·贝尔卡 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/5/52/Aisha_Rejuvenated_Antianeira.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：アイシャ・ベルカ |  |
 | airmid teasanare | 阿蜜德·特亚萨纳雷 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/b/b6/Amid_Sunset_Saint.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：アミッド・テアサナーレ |  |
 | riveria ljos alf | 里维莉亚·利欧斯·阿尔弗 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/0/03/Riveria_Nine_Magic_Absolute_War_DanMemo.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：リヴェリア・リヨス・アールヴ |  |
+| alfia | 阿尔霏亚 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/4/45/Alfia_Danmemo_2.webp)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：アルフィア |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
