@@ -2814,6 +2814,7 @@ example:
 | jitsu wa ore saikyou deshita | 其实我是最强的？ | ![](https://static.wikia.nocookie.net/isekai/images/1/1c/Jitsu_wa_Ore%2C_Saikyou_deshita%3F_LN_1.jpg) |  |
 | killing bites | 牙斗兽娘 |  |  |
 | devil connection | 恶魔连结 | ![](https://static.wikia.nocookie.net/makemon/images/3/31/Capsule_616x353.jpg) | [Steam](https://store.steampowered.com/app/3054820/DevilConnection/) |
+| the son of bigfoot | 我的爸爸是森林之王 | ![](https://upload.wikimedia.org/wikipedia/en/c/c1/The_Son_of_Bigfoot_Poster.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
