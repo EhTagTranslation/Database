@@ -3168,7 +3168,7 @@ example:
 | malty melromarc | 麦蒂·S·梅洛玛格 | ![](https://ehgt.org/w/01/970/19532-eifo0g9q.webp)<br>所属作品：`tate no yuusha no nariagari` |  |
 | motoyasu kitamura | 北村元康（枪之勇者） |  |  |
 | hana uzaki | 宇崎花 | ![](https://static.wikia.nocookie.net/uzaki-chan/images/5/50/Uzaki.png)<br>所属作品：`uzaki-chan wa asobitai` |  |
-| tsuki uzaki | 宇崎月 | 所属作品：`uzaki-chan wa asobitai`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/01/15/12/56/135747848_p0_master1200.jpg) |  |
+| tsuki uzaki | 宇崎月 | ![](https://ehgt.org/w/02/196/12898-7s88s3zr.webp)<br>所属作品：`uzaki-chan wa asobitai` |  |
 | shinichi sakurai | 樱井真一 | ![](https://static.wikia.nocookie.net/uzaki-chan/images/3/3a/Shinichi_Sakurai.png/revision/latest/scale-to-width-down/268?cb=20200711082636)<br>出自作品：`p:uzaki-chan wa asobitai`<br><br>樱井真一，是丈所创作的漫画《宇崎学妹想要玩！》及其衍生作品的男主角。 | [百度百科](https://baike.baidu.com/item/樱井真一/24311117) \| [Fandom](https://uzaki-chan.fandom.com/wiki/Shinichi_Sakurai) |
 | ryoko yoshida | 吉田良子 |  |  |
 | sieg | 齐格 |  |  |
