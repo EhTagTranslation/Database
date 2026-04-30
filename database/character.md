@@ -4565,7 +4565,7 @@ example:
 | asahi azumane | 东峰旭 |  |  |
 | zoe | 佐伊（暮光星灵） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/4/45/01v4awh7fps2uerm4sd5x3bpyte06wu.jpg) |  |
 | annie | 安妮 |  |  |
-| yanagi uzaki | 宇崎柳 |  |  |
+| yanagi uzaki | 宇崎柳 | ![](https://ehgt.org/w/01/861/13848-5jqerop5.webp)<br>所属作品：`uzaki-chan wa asobitai` |  |
 | baiken | 梅喧 |  |  |
 | asuka kazama | 风间飞鸟 | ![](https://p325k7wa.twic.pics/high/tekken/tekken-8/02-characters/new-gallery/Wide/Asuka_new.png)<br>所属作品：`tekken` |  |
 | lili rochefort | 莉莉·罗舍福尔 | ![](https://ehgt.org/w/02/054/89014-cytgt91m.webp)<br>所属作品：`tekken` |  |
