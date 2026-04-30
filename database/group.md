@@ -13903,6 +13903,7 @@ example:
 | morning star | モニスタラッシュ |  |  |
 | nekomata sanshokukan | ねこマタ三色館 |  |  |
 | chikuchiku chiichiku | ちくちくちーちく |  |  |
+| hakudaku nyannyan | 白濁娘々 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
