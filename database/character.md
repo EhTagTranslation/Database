@@ -9212,6 +9212,7 @@ example:
 | alise lovell | 亚莉榭·罗斐尔 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/2/20/Alise_Red_Lotus_Flashing_Sword_DanMemo.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：アリーゼ・ローヴェル |  |
 | faye valentine | 菲·瓦伦丁 | ![](https://static.wikia.nocookie.net/cowboybebop/images/2/24/Faye_valentine.jpg/revision/latest?cb=20140708193253)<br>出自作品：`p:cowboy bebop`<br><br>菲·瓦伦丁（日语：フェイ・ヴァレンタイン）是由日昇所创作的动画《星际牛仔》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/菲·瓦伦丁) \| [Fandom](https://cowboybebop.fandom.com/wiki/Faye_Valentine) |
 | green arrow | 绿箭侠 |  |  |
+| corticarte apa lagranges | 珂緹卡兒蒂·阿帕·拉格朗潔絲 | ![](https://t.vndb.org/ch/01/52901.jpg)<br>出自作品：`p:shinkyoku soukai polyphonica`<br><br>珂緹卡兒蒂·阿帕·拉格朗潔絲（Corticarte Apa Lagranges / コーティカルテ・アパ・ラグランジェス）是輕小說及動畫作品《神曲奏界》（Shinkyoku Sōkai Polyphonica）系列中的女主角。 | [vndb](https://vndb.org/c39745) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
