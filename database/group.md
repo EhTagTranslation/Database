@@ -6684,7 +6684,7 @@ example:
 | kitsunenomori | 狐の杜 |  |  |
 | kitsunenotera | きつねのてら |  |  |
 | kitsuneya | きつね屋 |  |  |
-| kitsuneyane | きつね屋根 |  |  |
+| kitsuneyane | きつね屋根 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG17794.html) |
 | kitsunezuka | 狐塚 |  |  |
 | kittydrop | KittyDrop |  |  |
 | kiyosumi hurricane | 清炭ハリケーン |  |  |
