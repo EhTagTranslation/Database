@@ -9211,6 +9211,7 @@ example:
 | hitachi chigusa | 常陆·千草 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/5/5f/Hitachi_Chigusa_Orario_Rhapsodia_Character_Art.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：ヒタチ・千草 |  |
 | alise lovell | 亚莉榭·罗斐尔 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/2/20/Alise_Red_Lotus_Flashing_Sword_DanMemo.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：アリーゼ・ローヴェル |  |
 | faye valentine | 菲·瓦伦丁 | ![](https://static.wikia.nocookie.net/cowboybebop/images/2/24/Faye_valentine.jpg/revision/latest?cb=20140708193253)<br>出自作品：`p:cowboy bebop`<br><br>菲·瓦伦丁（日语：フェイ・ヴァレンタイン）是由日昇所创作的动画《星际牛仔》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/菲·瓦伦丁) \| [Fandom](https://cowboybebop.fandom.com/wiki/Faye_Valentine) |
+| green arrow | 绿箭侠 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
