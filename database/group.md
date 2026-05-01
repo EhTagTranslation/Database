@@ -13905,6 +13905,7 @@ example:
 | chikuchiku chiichiku | ちくちくちーちく |  |  |
 | hakudaku nyannyan | 白濁娘々 |  |  |
 | ahemaru | アヘ丸 |  |  |
+| guramumo-bu | ぐらむも部 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
