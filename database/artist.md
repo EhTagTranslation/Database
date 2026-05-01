@@ -5920,7 +5920,7 @@ example:
 | hosaka yuuichi | ほさかゆーいち |  |  |
 | hoshi nohara | ほしのはら |  |  |
 | hoshiduki akira | 星月晃 |  |  |
-| hoshiduki melon | 星月めろん |  |  |
+| hoshiduki melon | 星月めろん |  | [FANBOX](https://melonstars.fanbox.cc/) \| [lit.link](https://lit.link/en/melonstars) \| [X](https://x.com/melonstars) \| [DLsite](https://ci-en.dlsite.com/creator/13047) \| [pixiv](https://www.pixiv.net/users/3088582) |
 | hoshieda | ほしえだ |  |  |
 | hoshifuri | ホシフリ |  |  |
 | hoshikawa atsuki | 星河あつき |  |  |
