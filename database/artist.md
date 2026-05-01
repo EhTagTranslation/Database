@@ -2384,7 +2384,7 @@ example:
 | abe manabu | 安部マナブ |  |  |
 | matsunami rumi | 松波留美 |  |  |
 | narita kyousha | 成田香車 |  |  |
-| arakure | あらくれ |  |  |
+| arakure | あらくれ |  | [Fantia](https://fantia.jp/fanclubs/2047) \| [X](https://x.com/arakurepoppo) \| [pixiv](https://www.pixiv.net/users/104645) \| [Skeb](https://skeb.jp/@arakurepoppo) \| [Pawoo](https://pawoo.net/@arakure) |
 | seto yuuki | 世徒ゆうき |  |  |
 | yami kota | やみこた |  |  |
 | kakumayu | カクマユ |  | [pixiv](https://www.pixiv.net/users/1049727) |
