@@ -3915,7 +3915,7 @@ example:
 | akarin | あかりん |  |  |
 | akasaka kazuhiro | 赤坂かずひろ |  |  |
 | akasode | 赤袖 |  |  |
-| akasya botan | 朱赦ぼたん |  |  |
+| akasya botan | 朱赦ぼたん | あかしゃぼたん | [DLsite](https://ci-en.dlsite.com/creator/6580) \| [pixiv](https://www.pixiv.net/users/3370270) \| [X](https://x.com/akasyabotan) \| [Skeb](https://skeb.jp/@akasyabotan) |
 | akatsuki | あかつき |  |  |
 | akatsuki akane | あかつき茜 |  |  |
 | akatsuki johnny reitou | 紅月ジョニー冷凍 | ジョニ氷 |  |
