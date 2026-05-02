@@ -13909,6 +13909,7 @@ example:
 | takenoko gohan vf | 筍御飯VF |  |  |
 | majihama. | マジハマ。 |  |  |
 | suita kobara ni choudo ii | すいた小腹にちょうどいい |  |  |
+| sokkou karaage | 速攻からあげ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52944.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202798/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
