@@ -15155,6 +15155,7 @@ example:
 | sodom shimin | ソドム市民 |  | [pixiv](https://www.pixiv.net/users/10842121) \| [X](https://x.com/sodom_shimin) |
 | shia | しあ |  |  |
 | shiro marimo | しろまりも |  |  |
+| mebata shun | めばた瞬 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
