@@ -9215,6 +9215,7 @@ example:
 | corticarte apa lagranges | 珂緹卡兒蒂·阿帕·拉格朗潔絲 | ![](https://t.vndb.org/ch/01/52901.jpg)<br>出自作品：`p:shinkyoku soukai polyphonica`<br><br>珂緹卡兒蒂·阿帕·拉格朗潔絲（Corticarte Apa Lagranges / コーティカルテ・アパ・ラグランジェス）是輕小說及動畫作品《神曲奏界》（Shinkyoku Sōkai Polyphonica）系列中的女主角。 | [vndb](https://vndb.org/c39745) |
 | yuuko ichihara | 壹原侑子 |  |  |
 | tonbokiri | 蜻蛉切 |  |  |
+| riku | 里克 \| 利库 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
