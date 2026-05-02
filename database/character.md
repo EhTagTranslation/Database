@@ -9216,6 +9216,7 @@ example:
 | yuuko ichihara | 壹原侑子 |  |  |
 | tonbokiri | 蜻蛉切 |  |  |
 | riku | 里克 \| 利库 |  |  |
+| sasha blouse | 萨莎·布劳斯 | ![](https://i.pixiv.cat/img-original/img/2017/10/29/00/10/06/65636506_p0.jpg)<br>所属作品:`shingeki no kyojin` | [萌娘百科](https://zh.moegirl.org.cn/萨莎·布劳斯)<br>[百度百科](https://baike.baidu.com/item/萨莎·布劳斯/4376661) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
