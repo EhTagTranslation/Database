@@ -2817,6 +2817,7 @@ example:
 | the son of bigfoot | 我的爸爸是森林之王 | ![](https://upload.wikimedia.org/wikipedia/en/c/c1/The_Son_of_Bigfoot_Poster.jpg) |  |
 | dune | 沙丘 | ![](https://upload.wikimedia.org/wikipedia/en/8/8e/Dune_%282021_film%29.jpg) |  |
 | hocus pocus | 女巫也疯狂 | ![](https://upload.wikimedia.org/wikipedia/en/c/c9/Hocuspocusposter.jpg) |  |
+| jinrou judgement | 人狼ジャッジメント |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
