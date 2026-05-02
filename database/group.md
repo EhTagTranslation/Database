@@ -13128,7 +13128,7 @@ example:
 | futo fukutsu | フトーフクツ |  |  |
 | mugimeshiya | むぎめしや |  |  |
 | melt syndrome | メルトシンドローム |  |  |
-| fkrfactory | FKRfactory |  |  |
+| fkrfactory | FKRfactory |  | [X](https://x.com/FKR763) [pixiv](https://www.pixiv.net/users/18072703) |
 | kurosumi yakousho | イタリ屋×黒墨夜行書 |  |  |
 | nedia region | えぬりーじょん |  |  |
 | hayaku jk ni naritai | はやくJKになりたい |  |  |
