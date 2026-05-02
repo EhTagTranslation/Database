@@ -5994,7 +5994,7 @@ example:
 | iburo. | いぶろー。 |  |  |
 | ica | ica |  |  |
 | icelee | IceLee |  |  |
-| ichi | ichi |  |  |
+| ichi | イチ |  |  |
 | ichi ume | いちうめ |  |  |
 | ichi-san | いち |  |  |
 | ichiboshi | イチボシ |  |  |
