@@ -13907,6 +13907,7 @@ example:
 | ahemaru | アヘ丸 |  |  |
 | guramumo-bu | ぐらむも部 |  |  |
 | takenoko gohan vf | 筍御飯VF |  |  |
+| majihama. | マジハマ。 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
