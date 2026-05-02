@@ -13908,6 +13908,7 @@ example:
 | guramumo-bu | ぐらむも部 |  |  |
 | takenoko gohan vf | 筍御飯VF |  |  |
 | majihama. | マジハマ。 |  |  |
+| suita kobara ni choudo ii | すいた小腹にちょうどいい |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
