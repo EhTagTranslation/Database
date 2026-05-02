@@ -13713,7 +13713,7 @@ example:
 | repamido | れぱみど |  |  |
 | domon | ドモン |  |  |
 | tomura suisen | 戸村水仙 |  |  |
-| fukura hagi | 吹浦ハギ |  |  |
+| fukura hagi | 吹浦ハギ \| FKR |  |  |
 | aihara you | 和原ヨウ |  |  |
 | amaguri | 甘guri |  |  |
 | aronyan | あろにゃん |  |  |
