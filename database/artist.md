@@ -15156,6 +15156,7 @@ example:
 | shia | しあ |  |  |
 | shiro marimo | しろまりも |  |  |
 | mebata shun | めばた瞬 |  |  |
+| kumiyabe | くみやべ |  | [FANBOX](https://kumiyabe810.fanbox.cc/) \| [X](https://x.com/MtYhwz7/) \| [pixiv](https://www.pixiv.net/users/75126873) |
 
 <!--TEMPLATE:
 |  |  |  |  |
