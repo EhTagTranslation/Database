@@ -1905,7 +1905,7 @@ example:
 | popopo | ぽぽぽ |  |  |
 | toushitu catapult | 糖质过多ぱると |  |  |
 | ojopie sentimental | おじょぱいセンチメンタル |  |  |
-| dokutoku no m | 独特のM |  |  |
+| dokutoku no m | 独特のM |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45521.html) |
 | watari laboratory | 渡里laboratory |  |  |
 | wappururun | わっぷるるん |  |  |
 | anzen chitai | 安全地带 |  |  |
