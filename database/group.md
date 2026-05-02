@@ -13906,6 +13906,7 @@ example:
 | hakudaku nyannyan | 白濁娘々 |  |  |
 | ahemaru | アヘ丸 |  |  |
 | guramumo-bu | ぐらむも部 |  |  |
+| takenoko gohan vf | 筍御飯VF |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
