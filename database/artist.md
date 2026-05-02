@@ -15158,6 +15158,7 @@ example:
 | mebata shun | めばた瞬 |  |  |
 | kumiyabe | くみやべ |  | [FANBOX](https://kumiyabe810.fanbox.cc/) \| [X](https://x.com/MtYhwz7/) \| [pixiv](https://www.pixiv.net/users/75126873) |
 | karari agari | からりあがり |  | [DLsite](https://ci-en.dlsite.com/creator/10130) \| [BOOTH](https://karariagari.booth.pm/) \| [FANBOX](https://karari.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/58658672) |
+| hirono akitomi | ひろのあきとみ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
