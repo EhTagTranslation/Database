@@ -15160,6 +15160,7 @@ example:
 | karari agari | からりあがり |  | [DLsite](https://ci-en.dlsite.com/creator/10130) \| [BOOTH](https://karariagari.booth.pm/) \| [FANBOX](https://karari.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/58658672) |
 | hirono akitomi | ひろのあきとみ |  |  |
 | api | あぴ |  |  |
+| yabai yuu | 夜灰ゆう |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
