@@ -26,7 +26,7 @@ example:
 | 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---- | ---- | -------- |
 | otohara an | 乙原あん |  |  |
-| rioko | rioko凉凉子 | 来自中国湖北武汉的coser | [X](https://x.com/rioko041120)<br>[微博](https://weibo.com/u/7305759370)<br>[微博](https://weibo.com/u/7512001417) |
+| rioko | rioko凉凉子 | 来自中国湖北武汉的coser | [X](https://x.com/rioko041120)<br>[微博1](https://weibo.com/u/7305759370)<br>[微博2](https://weibo.com/u/7512001417)<br>[微店](https://weidian.com/?userid=1386040555) |
 | atsuki | あつき |  |  |
 | hane ame | 雨波 |  |  |
 | chunmomo | 蠢沫沫 |  |  |
