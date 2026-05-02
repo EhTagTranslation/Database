@@ -2394,7 +2394,7 @@ example:
 | amasaka takashi | 天坂隆志 |  |  |
 | kazuma | 和真 |  |  |
 | uni8 | うにあはと |  | [pixiv](https://www.pixiv.net/users/128127) |
-| denchi | 电池 |  |  |
+| denchi | 电池 | 電池 | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22電池%22/ana_flg/all) |
 | ono no imoko | 小野妹子 | Alicesoft原画师魚介，又名小野妹子 | [pixiv](https://www.pixiv.net/member_illust.php?id=165192) [X](https://x.com/_himehajime) [个人博客](http://himehajime69.blog112.fc2.com/) |
 | nishieda | 西E田 | 著名插画、原画师，画风色气 | [pixiv](https://www.pixiv.net/users/4015) [X](https://x.com/nisiedas) [个人博客](http://www.nisieda.com/wp/) |
 | gomennasai | 御免なさい | 成人漫画家，插画师。作品以`lolicon`系为主。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1344554808825397248/NpOzEj6g_400x400.jpg)<br>**作者推特头像**<br>代表作品：《おませで御免》<br>![图](# "https://ehgt.org/84/dd/84dd53c0778ba768648f6396eb378dd19a6ea662-1563649-1114-1600-png_l.jpg") | [X](https://x.com/0721gomen1919) [pixiv](https://www.pixiv.net/users/444675) |
