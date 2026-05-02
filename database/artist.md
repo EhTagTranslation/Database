@@ -2350,7 +2350,7 @@ example:
 | herio | ヘリを |  |  |
 | aikawa arisa | 相川亚利砂 |  |  |
 | yamaishi juhachi | 山石18 |  | [X](https://x.com/yamaishi18) [pixiv](https://www.pixiv.net/users/1184398) |
-| rokkaku yasosuke | 六角八十助 |  |  |
+| rokkaku yasosuke | 六角八十助 \| 伍堂なめ |  |  |
 | tomono hiro | 友野ヒロ |  |  |
 | yonekura kengo | 米倉けんご |  |  |
 | yosuteinu | 世棄犬 |  |  |
