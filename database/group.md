@@ -13366,7 +13366,7 @@ example:
 | asu no hanasaku | アスノ華咲ク | `a:asuka rayaru`使用的同人社团名称 | [https://www.melonbooks.co.jp/circle/index.php?circle\_id=110717](https://www.melonbooks.co.jp/circle/index.php?circle_id=110717) |
 | touhou bakufu | 東方幕府 |  |  |
 | the waidan | THE猥談 |  |  |
-| kitsunekopandanuki | キツネコパンダヌキ |  |  |
+| kitsunekopandanuki | キツネコパンダヌキ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG25421.html) \| [DLsite](https://ci-en.dlsite.com/creator/14363) |
 | inazuma soft | いなずまそふと |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48610.html)<br>[DLsite](https://ci-en.dlsite.com/creator/2713)<br>[X](https://x.com/inazumasoft)<br>[BOOTH](https://inazumasoft.booth.pm/items) |
 | senmura | SENMURA | 画师 `a:senmura`使用的同人社团名 | [https://www.melonbooks.co.jp/circle/index.php?circle\_id=103311](https://www.melonbooks.co.jp/circle/index.php?circle_id=103311) |
 | yamakawaya | 山河屋 |  |  |
