@@ -2818,6 +2818,7 @@ example:
 | dune | 沙丘 | ![](https://upload.wikimedia.org/wikipedia/en/8/8e/Dune_%282021_film%29.jpg) |  |
 | hocus pocus | 女巫也疯狂 | ![](https://upload.wikimedia.org/wikipedia/en/c/c9/Hocuspocusposter.jpg) |  |
 | jinrou judgement | 人狼ジャッジメント |  | [官网](https://www.sorairo.jp/jrvs.html) [公式X](https://x.com/sorairo_jrj) |
+| oneshot | 一次机会 | ![](https://static.wikia.nocookie.net/oneshot/images/d/da/OneShot_remake_title_card.png/revision/latest?cb=20170404075741)<br>《OneShot（一次机会）》是Future Cat LLC于2014年开发的一款Meta像素解密游戏。 | [萌娘百科](https://zh.moegirl.org.cn/OneShot)<br>[Fandom](https://oneshot.fandom.com/wiki/OneShot) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
