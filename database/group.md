@@ -5672,7 +5672,7 @@ example:
 | hinatabokko | ひなたぼっこ |  |  |
 | hinatabokko club | ひなたぼっこ倶楽部 |  |  |
 | hinauta | ひなうた |  |  |
-| hinjyaku | HINJYAKU |  |  |
+| hinjyaku | HINJYAKU |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG05120.html) \| [DLsite](https://ci-en.dlsite.com/creator/22) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=22562/) |
 | hinoenma haken jimukyoku | ヒノエンマ派遣事務局 |  |  |
 | hinoiti | ヒノイティ |  |  |
 | hinokiburo | 檜風呂 |  |  |
