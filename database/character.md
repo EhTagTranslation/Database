@@ -9220,6 +9220,7 @@ example:
 | kurumi takakura | 高仓胡桃 | ![](https://storage.moegirl.org.cn/moegirl/commons/c/ce/BA_Kurumi.png)<br>所属作品: `blue archive` | [萌娘百科 - 蔚蓝档案](https://zh.moegirl.org.cn/高仓胡桃) |
 | niko yoshino | 吉野妮可 | ![](https://static.wikia.nocookie.net/blue-archive/images/5/5a/Niko_Portrait.png/revision/latest?cb=20230204192435)<br>所属作品:`blue archive` | [萌娘百科](https://zh.moegirl.org.cn/吉野妮可)<br>[Fandom](https://bluearchive.fandom.com/wiki/Yoshino_Niko) |
 | francine smith | 弗朗辛·史密斯 |  |  |
+| hayley smith | 海莉·史密斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
