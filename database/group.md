@@ -1635,7 +1635,7 @@ example:
 | 70 nenshiki yuukyuu kikan | 70年式悠久机关 |  |  |
 | amazake hatosyo-ten | 甘酒鳩商店 |  |  |
 | batten kariba | X仮歯 |  |  |
-| mosquitone. | もすきーと音。 |  |  |
+| mosquitone. | もすきーと音。 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75456/) |
 | hachibusaki | 八分咲 |  |  |
 | kouen tanpaku q | 交援蛋白Q |  |  |
 | egao de bouryoku | 笑顔で暴力 |  |  |
