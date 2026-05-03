@@ -13660,7 +13660,7 @@ example:
 | noushuku kangen teikoku | 濃縮還元帝国 |  |  |
 | nanohana jam | なのはなジャム |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200340/) |
 | treedrop | TreeDrop |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG62634.html) |
-| fuwatoro opanchu cake | ふわとろおぱんちゅケーキ |  | [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202962/) |
+| fuwatoro opanchu cake | ふわとろおぱんちゅケーキ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202962/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG58991.html) \| [DLsite](https://ci-en.dlsite.com/creator/36421) \| [Lit.Link](https://lit.link/en/FOC) |
 | ekaran ringo | えからん林檎 |  |  |
 | short kami | short\_kami |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG46982.html) |
 | shichikusa-gayu | シチ草粥 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01038210.html) |
