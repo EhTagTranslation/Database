@@ -15161,6 +15161,7 @@ example:
 | hirono akitomi | ひろのあきとみ |  |  |
 | api | あぴ |  |  |
 | yabai yuu | 夜灰ゆう |  |  |
+| raikageart | RaikageArt |  | [Patreon](https://www.patreon.com/RaikageArt) \| [pixiv](https://www.pixiv.net/users/11406494) \| [X](https://x.com/Raikage_Art) \| [Pawoo](https://pawoo.net/@RaikageArt) |
 
 <!--TEMPLATE:
 |  |  |  |  |
