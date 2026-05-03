@@ -15162,6 +15162,7 @@ example:
 | api | あぴ |  |  |
 | yabai yuu | 夜灰ゆう |  |  |
 | raikageart | RaikageArt |  | [Patreon](https://www.patreon.com/RaikageArt) \| [pixiv](https://www.pixiv.net/users/11406494) \| [X](https://x.com/Raikage_Art) \| [Pawoo](https://pawoo.net/@RaikageArt) |
+| hisany | ひさにぃ |  | [FANBOX](https://www.fanbox.cc/@hisany) \| [pixiv](https://www.pixiv.net/users/6961237) \| [X](https://x.com/spacecrayon01) \| [Skeb](https://skeb.jp/@spacecrayon01) |
 
 <!--TEMPLATE:
 |  |  |  |  |
