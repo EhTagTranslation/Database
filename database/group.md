@@ -13911,6 +13911,7 @@ example:
 | suita kobara ni choudo ii | すいた小腹にちょうどいい |  |  |
 | sokkou karaage | 速攻からあげ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52944.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202798/) |
 | otosan no kurorekishi | お父さんの黒歴史 |  |  |
+| kokonoe kurokazura | ココノエクロカズラ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49357.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
