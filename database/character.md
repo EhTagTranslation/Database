@@ -4394,7 +4394,7 @@ example:
 | jenny wakeman | XJ9 | 所属作品: `my life as a teenage robot`<br>![](https://static.wikia.nocookie.net/teenagerobot/images/b/b0/Jenny_wiki_icon.png) | [百度百科](https://baike.baidu.com/item/xj9/7397513) [Fandom](https://teenagerobot.fandom.com/wiki/Jenny_Wakeman_%28XJ-9%29) |
 | aria holmes kanzaki | 神崎·H·亚里亚 | ![](https://static.wikia.nocookie.net/hidannoaria/images/f/fc/AriaSS01_BD_01_Clean.jpg)<br>所属作品：`hidan no aria` | [萌娘百科](https://zh.moegirl.org.cn/神崎·H·亚里亚) |
 | akari mamiya | 间宫明里 | 间宫明里是赤松中学创作的轻小说《绯弹的亚里亚》以及橘书画子所创作的漫画《绯弹的亚里亚AA》及其衍生作品的登场角色，女主角。初登场于《绯弹的亚里亚AA》第一话，因十分仰慕神崎·H·亚里亚而加入强袭科。间宫家大小姐，掌握着间宫家的祖传秘术。两年前，居住的村子被夹竹桃烧毁而来到东京。希望成为神崎·H·亚里亚的战姐妹。 | [萌娘百科](https://zh.moegirl.org.cn/间宫明里) |
-| kaname tohyama | 远山金女 | 所属作品: `p:hidan no aria` | [萌娘百科](https://zh.moegirl.org.cn/远山金女) |
+| kaname tohyama | 远山金女 | ![](https://lain.bgm.tv/r/400/pic/crt/l/fd/20/34685_crt_Yfqay.jpg)<br>所属作品: `p:hidan no aria`<br>日语：遠山かなめ | [萌娘百科](https://zh.moegirl.org.cn/远山金女) |
 | kinji tohyama | 远山金次 |  | [萌娘百科](https://zh.moegirl.org.cn/远山金次) |
 | riko mine | 峰理子 | ![](https://img.moegirl.org.cn/common/1/18/34091024.jpg)<br>所属作品：`hidan no aria` | [萌娘百科](https://zh.moegirl.org.cn/峰理子) |
 | shirayuki hotogi | 星伽白雪 | ![](https://img.moegirl.org.cn/common/5/5d/Xingjiabaixue_01.png)<br>所属作品：`hidan no aria`<br>金次的青梅竹马，东京武侦高中2年B班，成绩优秀，身兼学生会长、园艺社社长、手工艺社社长和女子排球社社长的优等生。G17级超侦。专门科目是超能力搜查研究科（SSR）。 | [萌娘百科](https://zh.moegirl.org.cn/星伽白雪) |
