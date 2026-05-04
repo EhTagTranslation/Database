@@ -9224,6 +9224,7 @@ example:
 | karin natsuki | 夏色花梨 |  |  |
 | bix caleen | 比克丝·卡利恩 |  |  |
 | nemo rinkarun | 尼莫·林卡尔 | ![](https://lain.bgm.tv/r/400/pic/crt/l/37/1e/89350_crt_QovHi.jpg)<br>所属作品：`hidan no aria`<br>日语：ネモ・リンカルン |  |
+| reki | 雷姬 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d0/fb/12569_crt_Uk3ZN.jpg)<br>所属作品：`hidan no aria`<br>日语：レキ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
