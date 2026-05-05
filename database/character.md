@@ -9228,6 +9228,7 @@ example:
 | luciferia moriarty iv | 露西菲莉亚·莫里亚蒂四世 | ![](https://static.wikia.nocookie.net/hidannoaria/images/8/8a/Aria35_01.jpg)<br>所属作品：`hidan no aria` | [Fandom](https://hidannoaria.fandom.com/wiki/Luciferia_Moriarty) |
 | kurage mizuo | 水尾海月 | ![](https://static.wikia.nocookie.net/someone-hertz/images/c/c5/Kurage_Mizuo_Manga.png)<br>所属作品：`someone hertz` | [Fandom](https://someone-hertz.fandom.com/wiki/Kurage_Mizuo) |
 | emalia steinbart | 艾玛莉亚·施泰因巴特 | ![](https://static.wikia.nocookie.net/the-strongest-job-is-apparently-an-appraiser/images/c/ca/Emalia.png)<br>日语：エマリア・ステインバルト<br>所属作品：`saikyou no shokugyou wa yuusha demo kenja demo naku kanteishi rashii desu yo` |  |
+| shioriha ruri | 栞叶瑠璃 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/a/a6/Shioriha_Ruri_-_Headshot_Crop.png)<br>日语：栞葉るり | [YouTube](https://www.youtube.com/@ShiorihaRuri) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
