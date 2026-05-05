@@ -9234,6 +9234,7 @@ example:
 | ayano koura | 皇浦绫乃 | ![](https://static.wikia.nocookie.net/recreators/images/c/c9/Character_c11_img_01.png)<br>所属作品：`re creators`<br>日语：皇浦綾乃 |  |
 | koganei niko | 虎金妃笑虎 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/6/60/Koganei_Niko_Full_Body.png)<br>所属社团`hololive` |  |
 | bouquet | 布凯‧拉 | ![](https://static.wikia.nocookie.net/bluedragon/images/9/9e/Blue-dragon-53ef20f10affd.png)<br>日语：ブーケ<br>所属作品：`blue dragon` |  |
+| zola | 左拉 | ![](https://static.wikia.nocookie.net/bluedragon/images/3/3f/Blue-Dragon_Zolaboxart_160w-1-.jpg)<br>日语：ゾラ<br>所属作品：`blue dragon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
