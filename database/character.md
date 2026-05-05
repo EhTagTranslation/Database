@@ -6447,7 +6447,7 @@ example:
 | adelheid kanzaki | 神崎阿迪尔海德 | ![](https://storage.moegirl.org.cn/moegirl/commons/b/bb/Kanzaki_Adelheid.png)<br>所属作品：`heaven burns red`<br>来自德国，爱出风头所以绝不隐身的忍者。 |  |
 | capella emerada lugunica | 卡佩菈·爱梅拉妲·露格尼卡 | ![](https://static.wikia.nocookie.net/rezero/images/4/43/Capella_Emerada_Lugunica_LN_character_design.png)<br>所属作品：`re zero kara hajimeru isekai seikatsu` |  |
 | jin-ah sung | 程肖雅丨水筱葵 | 所属作品：`solo leveling`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/02/23/12/56/04/127541876_p6_master1200.jpg) |  |
-| samui | 萨姆伊 |  |  |
+| samui | 萨姆伊 | ![](https://ehgt.org/w/02/272/50347-gl2io9so.webp)<br>日语：サムイ<br>所属作品：`naruto` |  |
 | heles | 赫尔艾斯 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/33/Zoom_3040060000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/b/b1/Zoom_3040208000_01.png)<br>所属作品：`granblue fantasy` |  |
 | theresia van astrea | 特蕾西亚·范·阿斯特雷亚 | 所属作品: `p:re zero kara hajimeru isekai seikatsu` | [萌娘百科](https://zh.moegirl.org.cn/特蕾西亚·范·阿斯特雷亚) [Fandom](https://rezero.fandom.com/wiki/Theresia_van_Astrea) |
 | mayuki hiiragi | 柊真雪 | 所属作品: `p:hinako note` | [萌娘百科](https://zh.moegirl.org.cn/柊真雪) |
