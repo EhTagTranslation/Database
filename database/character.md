@@ -3760,7 +3760,7 @@ example:
 | una otomachi | 音街鳗 |  |  |
 | kokona aoba | 青羽心夏 | 漫画`yama no susume`中的角色 | [萌娘百科](https://zh.moegirl.org.cn/青羽心夏) |
 | sayu | 早柚 | ![](https://patchwiki.biligame.com/images/ys/e/ec/luqwjls3olmp3gyvv1uom22o50vtsgt.gif)<br>所属作品:`p:genshin impact`<br>属于「终末番」的忍者。身形小巧，总像没睡饱一样。 | [萌娘百科](https://zh.moegirl.org.cn/早柚) |
-| takanashi kiara | 小鸟游琪亚拉 | 小鳥遊 キアラ<br>隶属于`hololive` HoloEn 的`vtuber` | [维基百科](https://ja.wikipedia.org/wiki/小鳥遊キアラ) (\*) |
+| takanashi kiara | 小鸟游琪亚拉 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/a/ac/Takanashi_Kiara_Drawn_to_Dawn_3D_Costume.png)<br>日语：小鳥遊 キアラ<br>隶属于`hololive` HoloEn 的`vtuber` | [维基百科](https://ja.wikipedia.org/wiki/小鳥遊キアラ) (\*) |
 | yumeko jabami | 蛇喰梦子 | ![](https://ehgt.org/w/01/969/73141-kzf7520h.webp)<br>出自作品：`p:kakegurui`<br><br>蛇喰梦子（Jabami Yumeko）是河本焰、尚村透创作的漫画《狂赌之渊》及其衍生作品中的登场角色，女主角。 | [萌娘百科](https://zh.moegirl.org.cn/蛇喰梦子) |
 | reed | 苇草 | ![](https://patchwiki.biligame.com/images/arknights/4/48/t5glijeeu6ci57rvvmee2na1zdpwlvl.png)<br>所属作品`p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/苇草) |
 | ui kozeki | 古关忧 | ![](https://patchwiki.biligame.com/images/ba/3/34/jb9xcem9udkouifyodzrgd9y8glb4t3.png)<br>所属作品：`p:blue archive` | [碧蓝档案wiki\_bilibili](https://wiki.biligame.com/bluearchive/ウイ)<br>[萌娘百科](https://zh.moegirl.org.cn/古关忧) |
