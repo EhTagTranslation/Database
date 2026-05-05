@@ -2554,7 +2554,7 @@ example:
 |  |  | 3期 |  |
 | usada pekora | 兔田佩克拉 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/0/06/Usada_Pekora_3D_Model_4.png)<br>日语：兎田ぺこら<br>所属社团`hololive` | [萌娘百科](https://zh.moegirl.org.cn/兔田佩克拉) |
 | uruha rushia | 润羽露西娅 | 润羽露西娅 （ 潤羽るしあ / Uruha Rushia）是一名从2019年7月18日在YouTube开始活动的`vtuber`，所属业界团体hololive的成员。<br>![](https://img.moegirl.org.cn/common/2/23/Uruharushia_idol.jpg) | [萌娘百科](https://zh.moegirl.org.cn/润羽露西娅) |
-| shiranui flare | 不知火芙蕾雅 | ![](https://ehgt.org/w/02/082/43320-6zm762u2.webp)<br>出自作品：`p:hololive`<br><br>不知火芙蕾雅（日语：不知火 フレア／しらぬい ふれあ / Shiranui Flare）是一名从2019年8月7日在YouTube开始活动的VTuber，业界团体hololive的成员。 | [萌娘百科](https://zh.moegirl.org.cn/不知火芙蕾雅) |
+| shiranui flare | 不知火芙蕾雅 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/e/e5/Shiranui_Flare_December_2021_Full_Body.png)<br>日语：不知火 フレア／しらぬい ふれあ<br>所属社团：`p:hololive` | [萌娘百科](https://zh.moegirl.org.cn/不知火芙蕾雅) |
 | shirogane noel | 白银诺艾尔 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/d3/Shirogane_Noel_3D_Model_3.png)<br>所属社团：`p:hololive` | [萌娘百科](https://zh.moegirl.org.cn/白银诺艾尔) |
 | houshou marine | 宝钟玛琳 | ![](https://ehgt.org/w/02/130/82353-cywwx7ra.webp)<br>所属社团：Hololive |  |
 |  |  | 4期 |  |
