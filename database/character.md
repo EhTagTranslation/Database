@@ -2550,7 +2550,7 @@ example:
 |  |  | GAMERS |  |
 | ookami mio | 大神澪 | 大神澪（大神 ミオ／Ōkami Mio）是从2018年12月7日在YouTube开始活动的`vtuber`，作为gamers组所属业界团体hololive。<br>![老干部](https://img.moegirl.org.cn/common/thumb/5/5c/OOkamimio_idol.jpg/800px-OOkamimio_idol.jpg) | [萌娘百科](https://zh.moegirl.org.cn/大神澪) |
 | inugami korone | 戌神沁音 | 戌神沁音（戌神ころね／Inugami Korone）是从2019年4月13日在YouTube开始活动的`vtuber`，作为Gamers组所属业界团体hololive。<br>![](https://img.moegirl.org.cn/common/e/e3/InugamiKorone_idol.jpg) | [萌娘百科](https://zh.moegirl.org.cn/戌神沁音) |
-| nekomata okayu | 猫又小粥 | 猫又小粥（猫又 おかゆ／Nekomata Okayu）是从2019年4月6日在YouTube开始活动的`vtuber`，作为Gamers组所属业界团体hololive。<br>![](https://img.moegirl.org.cn/common/5/50/NekomataOkayu_idol.jpg) | [萌娘百科](https://zh.moegirl.org.cn/猫又小粥) (\*\*) |
+| nekomata okayu | 猫又小粥 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/1/19/Nekomata_Okayu_3D_model_pic_2.png)<br>日语：猫又おかゆ<br>所属社团`hololive` | [萌娘百科](https://zh.moegirl.org.cn/猫又小粥) (\*\*) |
 |  |  | 3期 |  |
 | usada pekora | 兔田佩克拉 | 兔田佩克拉 （ 兎田ぺこら / Usada Pekora）是一名从2019年7月17日在YouTube开始活动的`vtuber`，所属业界团体hololive的成员。<br>![食材](https://img.moegirl.org.cn/common/a/ad/Usadapekora_idol.jpg) | [萌娘百科](https://zh.moegirl.org.cn/兔田佩克拉) |
 | uruha rushia | 润羽露西娅 | 润羽露西娅 （ 潤羽るしあ / Uruha Rushia）是一名从2019年7月18日在YouTube开始活动的`vtuber`，所属业界团体hololive的成员。<br>![](https://img.moegirl.org.cn/common/2/23/Uruharushia_idol.jpg) | [萌娘百科](https://zh.moegirl.org.cn/润羽露西娅) |
