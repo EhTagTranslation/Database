@@ -5601,7 +5601,7 @@ example:
 | aug para | AUG SMG | `p:girls frontline`<br>![](https://iopwiki.com/images/e/e3/AUG_Para.png) | [少前百科GFwiki](https://gfwiki.org/w/AUG_SMG)<br>[IOP Wiki](https://iopwiki.com/wiki/AUG_Para) |
 | raora panthera | 拉欧拉·潘特拉 | 拉欧拉·潘特拉（英语：Raora Panthera，日语：ラオーラ・パンテーラ）是一名于2024年6月19日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -正义-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/拉欧拉·潘特拉) |
 | niyah | 尼娅 | 异度之刃2角色<br>[萌娘百科](https://zh.moegirl.org.cn/尼娅%28异度神剑%29) |  |
-| ichijou ririka | 一条莉莉华 | ![](https://ehgt.org/w/01/876/35805-l00yzjvo.webp)<br>所属社团：hololive |  |
+| ichijou ririka | 一条莉莉华 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/8/87/Ichijou_Ririka_Portrait.png)<br>所属社团：hololive |  |
 | crow | 克拉乌 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/87/Crow_FB.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/tj/156441.html) |
 | rapi | 拉毗 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/72/Rapi.gif)<br>所属作品：`goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Rapi) |
 | anis | 阿妮斯 | ![阿妮斯立绘](https://static.dotgg.gg/nikke/characters/c012_00.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/152348.html) [DotGG](https://dotgg.gg/nikke/characters/anis) |
