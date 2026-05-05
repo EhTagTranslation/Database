@@ -15165,6 +15165,7 @@ example:
 | hisany | ひさにぃ |  | [FANBOX](https://www.fanbox.cc/@hisany) \| [pixiv](https://www.pixiv.net/users/6961237) \| [X](https://x.com/spacecrayon01) \| [Skeb](https://skeb.jp/@spacecrayon01) |
 | akutamaru | 芥丸 | 日：あくたまる | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01041868.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=222681/) |
 | wawax | wawax |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01045668.html) \| [DLsite](https://ci-en.dlsite.com/creator/30744) \| [Lit.Link](https://lit.link/en/wawax) \| [pixiv](https://www.pixiv.net/users/87631598) \| [X](https://x.com/wawax_tk) |
+| yu chien | 御芊 YUDog | 台湾人です、御千(YUChien)と申します。<br>オリジナル イラスト放置コーナー<br>🔸中文 / 簡単な日本語 / Simple English OK🔸 | [pixiv](https://www.pixiv.net/users/6300406) |
 
 <!--TEMPLATE:
 |  |  |  |  |
