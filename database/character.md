@@ -9230,6 +9230,7 @@ example:
 | emalia steinbart | 艾玛莉亚·施泰因巴特 | ![](https://static.wikia.nocookie.net/the-strongest-job-is-apparently-an-appraiser/images/c/ca/Emalia.png)<br>日语：エマリア・ステインバルト<br>所属作品：`saikyou no shokugyou wa yuusha demo kenja demo naku kanteishi rashii desu yo` |  |
 | shioriha ruri | 栞叶瑠璃 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/a/a6/Shioriha_Ruri_-_Headshot_Crop.png)<br>日语：栞葉るり | [YouTube](https://www.youtube.com/@ShiorihaRuri) |
 | jill warrick | 吉尔·沃里克 | ![](https://static.wikia.nocookie.net/finalfantasy/images/8/84/FFXVI_Jill_Warrick.png)<br>所属作品：`final fantasy xvi` |  |
+| ramona flowers | 蕾蒙娜·花 | ![](https://static.wikia.nocookie.net/scottpilgrim/images/1/1f/Ramona_ScottPilgrimEX_Idle.gif)<br>所属作品：`scott pilgrim` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
