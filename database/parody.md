@@ -2822,6 +2822,7 @@ example:
 | someone hertz | 深夜心频率 | ![](https://static.wikia.nocookie.net/someone-hertz/images/8/87/Chapter_1_JP.png)<br>山野英创作的日本漫画作品。 |  |
 | saikyou no shokugyou wa yuusha demo kenja demo naku kanteishi rashii desu yo | 最强的职业不是勇者也不是贤者好像是鉴定士(伪)的样子？ | ![](https://static.wikia.nocookie.net/isekai/images/d/d9/Saikyou_no_Shokugyou_wa_Yuusha_demo_Kenja_demo_Naku_Kanteishi-Kari-Rashii_desu_yo.jpg)<br>日语：最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？ |  |
 | scott pilgrim | 歪小子斯科特对抗全世界 | ![](https://static.wikia.nocookie.net/scottpilgrim/images/b/bd/Scottfistpumped.png) |  |
+| anastasia | 安娜斯塔西娅 | ![](https://upload.wikimedia.org/wikipedia/en/3/36/Anastasia-don-bluth.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
