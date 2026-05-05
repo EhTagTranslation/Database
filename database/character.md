@@ -2552,7 +2552,7 @@ example:
 | inugami korone | 戌神沁音 | 戌神沁音（戌神ころね／Inugami Korone）是从2019年4月13日在YouTube开始活动的`vtuber`，作为Gamers组所属业界团体hololive。<br>![](https://img.moegirl.org.cn/common/e/e3/InugamiKorone_idol.jpg) | [萌娘百科](https://zh.moegirl.org.cn/戌神沁音) |
 | nekomata okayu | 猫又小粥 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/1/19/Nekomata_Okayu_3D_model_pic_2.png)<br>日语：猫又おかゆ<br>所属社团`hololive` | [萌娘百科](https://zh.moegirl.org.cn/猫又小粥) (\*\*) |
 |  |  | 3期 |  |
-| usada pekora | 兔田佩克拉 | 兔田佩克拉 （ 兎田ぺこら / Usada Pekora）是一名从2019年7月17日在YouTube开始活动的`vtuber`，所属业界团体hololive的成员。<br>![食材](https://img.moegirl.org.cn/common/a/ad/Usadapekora_idol.jpg) | [萌娘百科](https://zh.moegirl.org.cn/兔田佩克拉) |
+| usada pekora | 兔田佩克拉 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/0/06/Usada_Pekora_3D_Model_4.png)<br>日语：兎田ぺこら<br>所属社团`hololive` | [萌娘百科](https://zh.moegirl.org.cn/兔田佩克拉) |
 | uruha rushia | 润羽露西娅 | 润羽露西娅 （ 潤羽るしあ / Uruha Rushia）是一名从2019年7月18日在YouTube开始活动的`vtuber`，所属业界团体hololive的成员。<br>![](https://img.moegirl.org.cn/common/2/23/Uruharushia_idol.jpg) | [萌娘百科](https://zh.moegirl.org.cn/润羽露西娅) |
 | shiranui flare | 不知火芙蕾雅 | ![](https://ehgt.org/w/02/082/43320-6zm762u2.webp)<br>出自作品：`p:hololive`<br><br>不知火芙蕾雅（日语：不知火 フレア／しらぬい ふれあ / Shiranui Flare）是一名从2019年8月7日在YouTube开始活动的VTuber，业界团体hololive的成员。 | [萌娘百科](https://zh.moegirl.org.cn/不知火芙蕾雅) |
 | shirogane noel | 白银诺艾尔 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/d3/Shirogane_Noel_3D_Model_3.png)<br>所属社团：`p:hololive` | [萌娘百科](https://zh.moegirl.org.cn/白银诺艾尔) |
