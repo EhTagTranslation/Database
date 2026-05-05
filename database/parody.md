@@ -2820,6 +2820,7 @@ example:
 | jinrou judgement | 人狼ジャッジメント |  | [官网](https://www.sorairo.jp/jrvs.html) [公式X](https://x.com/sorairo_jrj) |
 | oneshot | 一次机会 | ![](https://static.wikia.nocookie.net/oneshot/images/d/da/OneShot_remake_title_card.png/revision/latest?cb=20170404075741)<br>《OneShot（一次机会）》是Future Cat LLC于2014年开发的一款Meta像素解密游戏。 | [萌娘百科](https://zh.moegirl.org.cn/OneShot)<br>[Fandom](https://oneshot.fandom.com/wiki/OneShot) |
 | someone hertz | 深夜心频率 | ![](https://static.wikia.nocookie.net/someone-hertz/images/8/87/Chapter_1_JP.png)<br>山野英创作的日本漫画作品。 |  |
+| saikyou no shokugyou wa yuusha demo kenja demo naku kanteishi rashii desu yo | 最强的职业不是勇者也不是贤者好像是鉴定士(伪)的样子？ | ![](https://static.wikia.nocookie.net/isekai/images/d/d9/Saikyou_no_Shokugyou_wa_Yuusha_demo_Kenja_demo_Naku_Kanteishi-Kari-Rashii_desu_yo.jpg)<br>日语：最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
