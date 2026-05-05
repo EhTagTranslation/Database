@@ -9232,6 +9232,7 @@ example:
 | jill warrick | 吉尔·沃里克 | ![](https://static.wikia.nocookie.net/finalfantasy/images/8/84/FFXVI_Jill_Warrick.png)<br>所属作品：`final fantasy xvi` |  |
 | ramona flowers | 蕾蒙娜·花 | ![](https://static.wikia.nocookie.net/scottpilgrim/images/1/1f/Ramona_ScottPilgrimEX_Idle.gif)<br>所属作品：`scott pilgrim` |  |
 | ayano koura | 皇浦绫乃 | ![](https://static.wikia.nocookie.net/recreators/images/c/c9/Character_c11_img_01.png)<br>所属作品：`re creators`<br>日语：皇浦綾乃 |  |
+| koganei niko | 虎金妃笑虎 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/6/60/Koganei_Niko_Full_Body.png)<br>所属社团`hololive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
