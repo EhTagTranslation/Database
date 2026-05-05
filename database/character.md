@@ -2534,7 +2534,7 @@ example:
 | tokino sora | 时乃空 | ![空妈](https://img.moegirl.org.cn/common/5/50/TokinoSora.png)<br>日语：ときのそら<br>所属社团`hololive` | [萌娘百科](https://zh.moegirl.org.cn/时乃空) |
 | roboco | 萝卜子 | 萝卜子（ロボ子さん／Roboko-san）是从2018年3月4日在Youtube开始活动的`vtuber`，所属业界团体hololive的成员。<br>![高性能机器人](https://img.moegirl.org.cn/common/8/83/Roboko-san2.png) | [萌娘百科](https://zh.moegirl.org.cn/萝卜子) |
 | sakura miko | 樱巫女 | 樱巫女（さくらみこ／Sakura Miko）是从2018年8月1日在YouTube开始活动的`vtuber`，所属业界团体hololive的成员。<br>![](https://img.moegirl.org.cn/common/1/10/SakuraMiko.png) | [萌娘百科](https://zh.moegirl.org.cn/樱巫女) |
-| hoshimachi suisei | 星街彗星 | 星街彗星 （星街すいせい／Hoshimati Suisei）是一名2018年3月22日在Youtube作为个人势开始活动的`vtuber`，后在2019年5月19日宣布加入成为业界团体hololive所属，先于音乐特化型品牌「INNK Music」所属，后转籍至「hololive」直接所属。<br><br>![](https://img.moegirl.org.cn/common/c/c8/HoshimatiSuisei.png) | [萌娘百科](https://zh.moegirl.org.cn/星街彗星) (\*\*) |
+| hoshimachi suisei | 星街彗星 | ![](https://img.moegirl.org.cn/common/c/c8/HoshimatiSuisei.png)<br>日语：星街すいせい<br>所属社团`hololive` | [萌娘百科](https://zh.moegirl.org.cn/星街彗星) |
 |  |  | 1期 |  |
 | yozora mel | 夜空梅露 | 夜空梅露（夜空 メル／Yozora Mel）是从2018年5月13日在YouTube开始活动的`vtuber`（YouTube频道设立于2018年4月24日），所属业界团体hololive的一期生。<br>![](https://img.moegirl.org.cn/common/b/b6/YozoraMel.png) | [萌娘百科](https://zh.moegirl.org.cn/夜空梅露) |
 | aki rosenthal | 亚绮·罗森塔尔 | 亚绮·罗森塔尔（アキ・ローゼンタール／Aki Rosenthal）是从2018年6月8日在YouTube开始活动的`vtuber`，所属业界团体hololive的一期生。<br>![](https://img.moegirl.org.cn/common/4/44/Aki_Rosenthal.png) | [萌娘百科](https://zh.moegirl.org.cn/亚绮·罗森塔尔) |
