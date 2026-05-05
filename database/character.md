@@ -2562,7 +2562,7 @@ example:
 | kiryu coco | 桐生可可 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/0/09/Kiryu_Coco_-_Portrait.png) |  |
 | tsunomaki watame | 角卷绵芽 | ![](https://static.miraheze.org/hololivewiki/0/05/Tsunomaki_Watame_-_Portrait_01.png) | [Fandom](https://virtualyoutuber.fandom.com/wiki/Tsunomaki_Watame) [hololive wiki](https://hololive.wiki/wiki/Tsunomaki_Watame) [萌娘百科](https://zh.moegirl.org.cn/角卷绵芽) |
 | tokoyami towa | 常暗永远 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/1/16/Tokoyami_Towa_3D_Model_2.png)<br>所属社团：`hololive` | [维基百科](https://ja.wikipedia.org/wiki/常闇トワ)<br>[Towa Ch. 常闇トワ - youtube](https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw) |
-| himemori luna | 姬森璐娜 | 姬森璐娜 （ 姫森ルーナ / Himemori Luna ）是一名从2020年1月4日在YouTube开始活动的`vtuber`，所属业界团体hololive的成员。<br>![](https://img.moegirl.org.cn/common/b/bb/HimemoriLuna_01_Full.jpg) | [萌娘百科](https://zh.moegirl.org.cn/姬森璐娜) |
+| himemori luna | 姬森璐娜 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/7/7d/Himemori_Luna_3D_Model_1.png)<br>日语：姫森ルーナ<br>所属社团`hololive` | [萌娘百科](https://zh.moegirl.org.cn/姬森璐娜) |
 |  | ▼ 未分类 |  |  |
 | mumei | 无名 | ![](https://ehgt.org/w/01/585/08169-rwk2tafr.webp)<br>所属作品：`koutetsujou no kabaneri` |  |
 | ayane | 绫音 | ![](https://static.wikia.nocookie.net/deadoralive/images/4/49/Img-ayane.png)<br>所属作品：`dead or alive` |  |
