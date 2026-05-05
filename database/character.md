@@ -5057,7 +5057,7 @@ example:
 | mayling shen | 沈美玲 | `p:girls frontline`<br>少女前线2:追放<br>人类<br>![](https://iopwiki.com/images/8/8d/GFL2_Mayling_character_sheet.jpg) | [萌娘百科](https://zh.moegirl.org.cn/沈美玲) |
 | akari wanibuchi | 鳄渊亚伽里 | ![](https://static.wikia.nocookie.net/blue-archive/images/2/21/Akari_Gym_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/鳄渊亚伽里) |
 | kikyou kiryuu | 桐生桔梗 | ![](https://static.wikia.nocookie.net/blue-archive/images/8/84/Kikyou_Portrait.png)<br>所属作品: `p:blue archive` |  |
-| fuwawa abyssgard | 软软·阿比斯加德 | 软软·阿比斯加德（英语：Fuwawa Abyssgard）和`mococo abyssgard`（英语：Mococo Abyssgard）是于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/FUWAMOCO) |
+| fuwawa abyssgard | 软软·阿比斯加德 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/3/3e/Fuwawa_Abyssgard_3D_Model.png)<br>日语：フワワ・アビスガード<br>所属社团`hololive` | [萌娘百科](https://zh.moegirl.org.cn/FUWAMOCO) |
 | mococo abyssgard | 茸茸·阿比斯加德 | `fuwawa abyssgard`（英语：Fuwawa Abyssgard）和茸茸·阿比斯加德（英语：Mococo Abyssgard）是于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/FUWAMOCO) |
 | hijiri mochizuki | 望月圣 | ![](https://patchwiki.biligame.com/images/imascg/thumb/2/2f/d4klrezki36otqa5yq1rvkjdbbetbk5.png/960px-CGSS-Hijiri-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | eila ilmatar juutilainen | 艾拉·伊尔玛塔尔·尤蒂莱南 | （日语：エイラ・イルマタル・ユーティライネン；英语：Eila Ilmatar Juutilainen）是《强袭魔女》系列作品中出现的角色之一。原型为芬兰王牌飞行员依诺·尤蒂莱南。 | [萌娘百科](https://zh.moegirl.org.cn/艾拉·伊尔玛塔尔·尤蒂莱南) |
