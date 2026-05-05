@@ -1312,7 +1312,7 @@ example:
 | ryuuji takasu | 高须龙儿 |  |  |
 | taiga aisaka | 逢坂大河 | ![](https://www.tv-tokyo.co.jp/contents/toradora/images/chara/taiga.gif) |  |
 | minori kushieda | 栉枝实乃梨 |  |  |
-| ami kawashima | 川岛亚美 |  |  |
+| ami kawashima | 川岛亚美 | ![](https://ehgt.org/w/02/377/87752-o59f66nt.webp)<br>所属作品：`toradora` |  |
 | yasuko takasu | 高须泰子 |  |  |
 | maya kihara | 木原麻耶 |  |  |
 | nanako kashii | 香椎奈奈子 |  |  |
