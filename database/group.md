@@ -6977,7 +6977,7 @@ example:
 | kuroneko waltz | 黒ネコワルツ |  |  |
 | kuronekodou | 黒猫堂 |  |  |
 | kuronekokan-monpetit | 黒猫館モンプチ |  |  |
-| kuronekotei | 黑猫亭 |  |  |
+| kuronekotei | 黑猫亭 | 黒猫亭 |  |
 | kurono taitsu | 黒野タイツ |  |  |
 | kuropoplar | くろぽぷら |  |  |
 | kurosawa pict | 黒澤pict |  |  |
