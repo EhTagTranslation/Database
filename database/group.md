@@ -1857,7 +1857,7 @@ example:
 | trip spider | TRIP SPIDER |  |  |
 | smile studio | すまいるすたじお |  |  |
 | nimunoya | にむの屋 |  |  |
-| studio big-x | スタジオBIG-X |  |  |
+| studio big-x | スタジオBIG-X |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73244/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG09540.html) |
 | uzumaki hiyoko | うずまき☆ひよこ |  |  |
 | shinshi kouryuuku | 紳士交流区 |  |  |
 | yugen no suda | 有限の須田 |  |  |
