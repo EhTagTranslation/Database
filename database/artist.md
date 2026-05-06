@@ -768,7 +768,7 @@ example:
 | shomu | しょむ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22しょむ%22/ana_flg/all) |
 | sunagawa tara | 砂川多良 |  |  |
 | amahara | 天原 |  |  |
-| arino hiroshi | ありのひろし |  |  |
+| arino hiroshi | ありのひろし |  | [FANBOX](https://arinohiroshi.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/25612) \| [Pawoo](https://pawoo.net/@arinohiroshi) \| [X](https://x.com/arinohiroshi) |
 | cheewts | ちいうつ |  |  |
 | katsura airi | 桂あいり |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/detail/=/cid=d_746537/) |
 | koori | 粉织 |  |  |
