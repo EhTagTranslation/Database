@@ -9239,6 +9239,7 @@ example:
 | yuriko okada | 冈田百合子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/cb/8d/178962_crt_k80fH.jpg?r=1773923307)<br>日语：岡田ユリコ<br>所属作品：`tojima tanzaburo wa kamen rider ni naritai` |  |
 | hiyuki | 绯雪 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/7/72/Hiyuki_Full_Sprite.png)<br>所属作品：`wuthering waves` |  |
 | xaihi | 赛希 | ![](https://endfield.wiki.gg/images/thumb/Xaihi_Splash_Art.png/1024px-Xaihi_Splash_Art.png?390452)<br>所属作品：`arknights endfield` |  |
+| asami sato | 佐藤麻尾 | ![](https://static.wikia.nocookie.net/nickelodeon/images/f/f7/Asami.png)<br>别译：佐藤麻美/佐藤亚莎美<br>所属作品：`the legend of korra` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
