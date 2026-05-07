@@ -9240,6 +9240,7 @@ example:
 | hiyuki | 绯雪 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/7/72/Hiyuki_Full_Sprite.png)<br>所属作品：`wuthering waves` |  |
 | xaihi | 赛希 | ![](https://endfield.wiki.gg/images/thumb/Xaihi_Splash_Art.png/1024px-Xaihi_Splash_Art.png?390452)<br>所属作品：`arknights endfield` |  |
 | asami sato | 佐藤麻尾 | ![](https://static.wikia.nocookie.net/nickelodeon/images/f/f7/Asami.png)<br>别译：佐藤麻美/佐藤亚莎美<br>所属作品：`the legend of korra` |  |
+| aile | 艾儿 | ![](https://static.wikia.nocookie.net/ainamk/images/9/99/Aile.png/revision/latest?cb=20241026154746)<br>出自作品：`p:megaman`<br><br>艾儿（エール/Aile）是洛克人ZX的两名主角之一（另一名是梵），生命金属型式X的适合者。 | [Fandom](https://ainamk.fandom.com/wiki/エール) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
