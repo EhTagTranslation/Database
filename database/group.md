@@ -13914,6 +13914,7 @@ example:
 | kokonoe kurokazura | ココノエクロカズラ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49357.html) |
 | tanaka-ke no kamo | 田中家の鴨 |  |  |
 | itsume | 五梅 \| 五梅えるこ |  |  |
+| ryuzenkoh | 龍涎香 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
