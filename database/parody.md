@@ -2825,6 +2825,7 @@ example:
 | anastasia | 安娜斯塔西娅 | ![](https://upload.wikimedia.org/wikipedia/en/3/36/Anastasia-don-bluth.jpg) |  |
 | girls bravo | 女孩万岁 | ![](https://static.wikia.nocookie.net/parody/images/6/6c/1428371.jpg/revision/latest?cb=20171120165804)<br>《女孩万岁》（日语：GIRLSブラボー）是玛俐欧金田创作的日本漫画作品。 | [维基百科](https://zh.wikipedia.org/wiki/女孩萬歲) \| [Fandom](https://parody.fandom.com/wiki/Girls_Bravo) |
 | hanayamata | 花舞少女 | 《花舞少女》（日语：ハナヤマタ）是由滨弓场双创作的一部漫画，并有动画、游戏等衍生作品。![](https://img.comic-fuz.com/g/1xh4aY/iM.webp?h=3sHUApAgG_CNGQWOM-dP6w&e=5000000000) | [萌娘百科](https://zh.moegirl.org.cn/花舞少女) |
+| disventure camp | 低危营地生存秀 | ![](https://static.wikia.nocookie.net/disventure-camp/images/9/94/Disventure_Camp_1_-_Cast.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
