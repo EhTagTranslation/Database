@@ -320,7 +320,7 @@ example:
 | ryo | RYO | RYO \| RYÖ \| りょう \| ryo | [pixiv](https://www.pixiv.net/users/4012904) [X](https://x.com/Ryo_w)<br>[pixiv](https://www.pixiv.net/users/73432) [X](https://x.com/sora0ryu) |
 | minori kenshirou | 实验四郎 |  |  |
 | umemura | 梅村 |  |  |
-| peter mitsuru | ペーター・ミツル |  |  |
+| peter mitsuru | ペーター・ミツル |  | [FANZA](https://book.dmm.co.jp/list/?author=284064) |
 | tennouji kitsune | 天王寺狐 | 天王寺狐（天王寺 きつね/天王寺 キツネ）（1965年－）是日本男性漫画家，大阪府出身，曾用笔名“天王寺动物园”、“天王寺水族馆”。自《枪械少女！！》起，笔名改为“天王寺キツネ”。 | [维基百科](https://zh.wikipedia.org/wiki/天王寺狐) [个人主页](http://www.lifox.co.jp/) (\*) |
 | shikishima tenki | 敷岛天气 |  |  |
 | shikishima shoutarou | 敷岛昭太郎 |  |  |
