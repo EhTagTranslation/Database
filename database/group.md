@@ -1976,7 +1976,7 @@ example:
 | iaidou | 居合堂 |  |  |
 | waterwheel | waterwheel |  |  |
 | kitaguni moyashi seizousho | 北国もやし製造所 |  |  |
-| god ryokutya | GOD緑茶 |  |  |
+| god ryokutya | GOD緑茶 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29863/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG25284.html) |
 | t.4.p | T.4.P |  |  |
 | jagabata | じゃがバター |  |  |
 | ryuuseidou honpo | 龍正堂本舗 |  |  |
