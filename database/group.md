@@ -13913,6 +13913,7 @@ example:
 | otosan no kurorekishi | お父さんの黒歴史 |  |  |
 | kokonoe kurokazura | ココノエクロカズラ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49357.html) |
 | tanaka-ke no kamo | 田中家の鴨 |  |  |
+| itsume | 五梅 \| 五梅えるこ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
