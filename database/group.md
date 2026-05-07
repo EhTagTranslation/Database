@@ -9720,7 +9720,7 @@ example:
 | rhein no mamori shoukai | ラインの守り商会 |  |  |
 | ribbon super kikaku | リボンスーパー企画 |  |  |
 | ribons nights | リボーンズナイツ |  |  |
-| riboshika unit | Riboshika Unit |  |  |
+| riboshika unit | Riboshika Unit |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78625/) \| [DLsite](https://ci-en.dlsite.com/creator/3928) |
 | rice | Rice |  |  |
 | rice ball | らいすぼ～る |  |  |
 | ricecandy | RiceCandy |  |  |
