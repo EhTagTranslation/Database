@@ -434,7 +434,7 @@ example:
 | imizu | 威未図 |  |  |
 | shindou hajime | 新道一 |  |  |
 | type.90 | TYPE.90 |  |  |
-| bu-chan | ぶーちゃん |  |  |
+| bu-chan | ぶーちゃん |  | [pixiv](https://www.pixiv.net/users/266243) \| [FANBOX](https://godryokutya555.fanbox.cc/) \| [X](https://x.com/GOD78139524) |
 | sasahiro | 笹弘 |  |  |
 | haikawa hemlen | 灰川ヘムレン |  |  |
 | harasho | はらしょ |  |  |
