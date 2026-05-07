@@ -15168,6 +15168,7 @@ example:
 | yu chien | 御芊YUChien | 台湾人です、御千(YUChien)と申します。<br>オリジナル イラスト放置コーナー<br>🔸中文 / 簡単な日本語 / Simple English OK🔸 | [pixiv](https://www.pixiv.net/users/6300406) |
 | tanaka ahiru | たなかあひる |  | [X](https://x.com/ahiru353) |
 | sakotoru | 佐古透 |  |  |
+| nyagi | ニャギ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
