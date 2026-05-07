@@ -15169,6 +15169,7 @@ example:
 | tanaka ahiru | たなかあひる |  | [X](https://x.com/ahiru353) |
 | sakotoru | 佐古透 |  |  |
 | nyagi | ニャギ |  |  |
+| neko plus | NNEKO | 旧名：Neko Plus | [X](https://x.com/nekoppi25) \| [FANBOX](https://nneko07.fanbox.cc/) \| [YouTube](https://www.youtube.com/channel/UCQMBJFpZ991pkE7SaFdnPWg) |
 
 <!--TEMPLATE:
 |  |  |  |  |
