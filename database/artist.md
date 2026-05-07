@@ -1440,7 +1440,7 @@ example:
 | kaiduka | かいづか |  |  |
 | moketa | もけ太 |  |  |
 | nodame | nod饴 |  |  |
-| sage joh | sage・ジョー |  |  |
+| sage joh | sage・ジョー |  | [FANBOX](https://sagejoh.fanbox.cc/) \| [X](https://x.com/sagejoh) \| [pixiv](https://www.pixiv.net/users/415521) |
 | utsutsu minoru | うつつ＊みのる |  |  |
 | isou doubaku | 位相同爆 |  |  |
 | kenshou izanamu | 剣匠イザナム |  |  |
