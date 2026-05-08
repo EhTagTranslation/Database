@@ -2404,7 +2404,7 @@ example:
 | reiko arisugawa | 有栖川丽子 |  |  |
 |  | ▼ 线上游戏的老婆不可能是女生？ |  |  |
 | akane segawa | 濑川茜 |  |  |
-| ako tamaki | 玉置亚子 |  |  |
+| ako tamaki | 玉置亚子 | ![](https://static.wikia.nocookie.net/netoge/images/a/a6/Ako_Game_Avatar.png)<br>所属作品：`netoge no yome wa onnanoko ja nai to omotta` |  |
 | hideki nishimura | 西村英骑 |  |  |
 | nanako akiyama | 秋山奈奈子 |  |  |
 | yui saitou | 齐藤结衣 |  |  |
