@@ -9246,6 +9246,7 @@ example:
 | ost hourai | 奥丝特·蓬莱 | ![](https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/9/97/Ost_Anime.png)<br>日语：オスト＝ホウライ<br>所属作品：`tate no yuusha no nariagari` |  |
 | glass | 葛拉丝 | ![](https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/c/cc/Glass_Anime.png)<br>日语：グラス<br>所属作品：`tate no yuusha no nariagari` |  |
 | tsukumo sana | 九十九佐命 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/4/44/Tsukumo_Sana_full_body.png)<br>所属社团：`hololive`<br>已毕业。 | [YouTube](https://www.youtube.com/channel/UCsUj0dszADCGbF3gNrQEuSQ) |
+| mei kinosaki | 城崎芽 | ![](https://static.wikia.nocookie.net/marriagetoxin/images/8/8c/Mei_Kinosaki_-_anime_design_2.png)<br>日语：城崎メイ<br>所属作品：`marriagetoxin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
