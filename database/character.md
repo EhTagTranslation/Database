@@ -9244,6 +9244,7 @@ example:
 | kizuna kazayama | 风山绊 | ![](https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/f/fb/Kizuna_Light_Novel.png)<br>日语：風山絆<br>所属作品：`tate no yuusha no nariagari` |  |
 | eclair seaetto | 艾克莱尔·赛亚特 | ![](https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/3/33/Eclair_Light_Novel.png)<br>日语：エクレール＝セーアエット<br>所属作品：`tate no yuusha no nariagari` | [Bangumi](https://bgm.tv/character/127748) |
 | ost hourai | 奥丝特·蓬莱 | ![](https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/9/97/Ost_Anime.png)<br>日语：オスト＝ホウライ<br>所属作品：`tate no yuusha no nariagari` |  |
+| glass | 葛拉丝 | ![](https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/c/cc/Glass_Anime.png)<br>日语：グラス<br>所属作品：`tate no yuusha no nariagari` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
