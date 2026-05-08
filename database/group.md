@@ -13917,6 +13917,7 @@ example:
 | ryuzenkoh | 龍涎香 |  |  |
 | aoi hoshi ni umareta dark angel | 青い星に生まれたダークエンジェル |  |  |
 | ishikarian | 円山晃 |  |  |
+| osakana cookie | おさかなくっきー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
