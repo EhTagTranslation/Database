@@ -11777,7 +11777,7 @@ example:
 | yu | YU | ![X](https://pbs.twimg.com/profile_images/1605115957554184192/FoUmoyOA_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/yu0x00) [pixiv](https://www.pixiv.net/users/2339) |
 | yu-ri | YU-RI |  |  |
 | yu-ya | 熊耶 |  |  |
-| yua | 夕海 |  |  |
+| yua | 夕海 |  | [FANBOX](https://cmyua.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/117065) \| [X](https://x.com/cmyua) \| [Lit.Link](https://lit.link/en/cmyua) |
 | yuam | ゆあま |  |  |
 | yucchris | ゆっ栗栖 |  |  |
 | yuchi | ゆち |  |  |
