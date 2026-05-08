@@ -5797,7 +5797,7 @@ example:
 | zabuza momochi | 桃地再不斩 |  |  |
 | veldora tempest | 维鲁德拉·特恩佩斯特 | 维鲁德拉·特恩佩斯特是伏濑所创作的小说《关于我转生变成史莱姆这档事》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/d/d4/Veldora_Tempest_human.jpg/1024px-Veldora_Tempest_human.jpg) | [萌娘百科](https://zh.moegirl.org.cn/维鲁德拉·特恩佩斯特) |
 | mavuika | 玛薇卡 | ![](https://patchwiki.biligame.com/images/ys/f/fc/ctji4djj1htgl64b0lxvq0tcosk74fz.gif)<br><br>所属作品：`genshin impact`<br>纳塔的领袖，继承「基扬戈兹」之古名，誓以圣火为战争国度照亮未来。 | [萌娘百科](https://zh.moegirl.org.cn/玛薇卡)<br>[BILIGAME WIKI](https://wiki.biligame.com/ys/玛薇卡) |
-| misuzu hataya | 秦谷美铃 | ![](https://static.wikia.nocookie.net/idolmaster/images/8/8f/Misuzu_Hataya.png)<br>所属作品：`the idolmaster` | [IMAS WIKI](https://project-imas.wiki/Misuzu_Hataya) |
+| misuzu hataya | 秦谷美铃 | ![](https://static.wikia.nocookie.net/idolmaster/images/8/8f/Misuzu_Hataya.png)<br>所属作品：学园偶像大师 | [IMAS WIKI](https://project-imas.wiki/Misuzu_Hataya) |
 | euphemia li britannia | 尤菲米娅·li·布里塔尼亚 | ![](https://ehgt.org/w/02/053/33914-10kzbvca.webp)<br>所属作品：`code geass`<br>尤菲米婭·li·布里塔尼亞（ユーフェミア・リ・ブリタニア）<br>第二公主柯內莉亚·li·布里塔尼亚的亲妹妹。与鲁路修·vi·布里塔尼亚为异母兄妹，并互为初恋。 | [萌娘百科](https://zh.moegirl.org.cn/尤菲米婭·li·布里塔尼亞) |
 | minawa andou | 安藤美奈和 |  |  |
 | sayoko shinozaki | 筱崎咲世子 |  |  |
