@@ -9250,6 +9250,7 @@ example:
 | tsukushi aria | 月紫亚里亚 | 月紫アリア，女性vtuber |  |
 | machika | 玛奇卡 | ![](https://static.wikia.nocookie.net/megaman/images/d/d0/Dragon_Poker_Machika_%28Serenade_Ver%29.png)<br>日语：マチカ<br>所属作品：`dragon poker` |  |
 | velina airgid | 维琳娜·艾嘉德 | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/c/cf/Agent_Velina_Airgid_Portrait.png)<br>所属作品：`zenless zone zero` |  |
+| norma hollowell | 诺姆·霍洛维尔 | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/1/10/Agent_Norma_Hollowell_Portrait.png)<br>所属作品：`zenless zone zero` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
