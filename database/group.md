@@ -5565,7 +5565,7 @@ example:
 | hentai emblem | へんたいゑむぶれむ |  |  |
 | hentai maker tomo no kai | Hentai Maker 友の会 |  |  |
 | hentai musume | へんたい娘 |  |  |
-| hentai ojisan | ヘンタイオジサン |  |  |
+| hentai ojisan | ヘンタイオジサン |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30970.html) \| [pixiv](https://www.pixiv.net/users/15214729) \| [DLsite](https://ci-en.dlsite.com/creator/1166) \| [Pawoo](https://pawoo.net/@CircleHO) \| [X](https://x.com/OjisanHentai) |
 | hentai to hentai no hentai | HENTAI to HENTAI no HENTAI |  |  |
 | hentaiworks | hentaiworks |  |  |
 | henyottobird | へにょっとばーど |  |  |
