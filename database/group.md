@@ -12456,7 +12456,7 @@ example:
 | ijou higan sensen | 异常彼岸战线 |  |  |
 | shinkaihuyu | 深海浮遊 |  |  |
 | dull zodesadehai | ダル・ゾデサデハーイ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG65963.html) |
-| fetishism pocket | フェチズムポケット |  |  |
+| fetishism pocket | フェチズムポケット |  | [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=55667) \|  [X](https://x.com/fetishismpocket) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG64422.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204570/) |
 | kantou dougakai | 关东动画会 |  |  |
 | fusuma cafe | ふすま喫茶 | 水中花火的东方同人社团名称 | [官网](http://fsm-cafe.jugem.jp) |
 | platinum kinoko | プラチナきのこ |  |  |
