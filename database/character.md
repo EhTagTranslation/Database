@@ -5473,7 +5473,7 @@ example:
 | soda | 索达 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/ff/Soda_FB.png)<br>所属作品：`goddess of victory nikke` | [百度百科](https://baike.baidu.com/item/索达/62624723) [Gamekee](https://www.gamekee.com/nikke/583173.html) [DotGG](https://dotgg.gg/nikke/characters/soda) |
 | zhu yuan | 朱鸢 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/07/29/76099754/9945563f20fca22f8397bb21931ec5c4_542475313663532302.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/朱鸢) |
 | inori yuzuriha | 楪祈 | ![](https://ehgt.org/w/02/104/93711-7t3u6t69.webp)<br>所属作品：`guilty crown` | [萌娘百科](https://zh.moegirl.org.cn/楪祈) |
-| kotone fujita | 藤田言音 | 藤田言音是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。<br>![](https://storage.moegirl.org.cn/moegirl/commons/f/f5/Imas_gakuen_cidol-fktn-1-000_0-landscape.png) | [萌娘百科](https://zh.moegirl.org.cn/藤田言音) |
+| kotone fujita | 藤田言音 | ![](https://static.wikia.nocookie.net/idolmaster-gakuen/images/1/11/Kotone_Fujita.png)<br>日语：藤田ことね<br>所属作品：学园偶像大师 | [萌娘百科](https://zh.moegirl.org.cn/藤田言音) |
 | acheron | 黄泉 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/Character_Acheron_Splash_Art.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/黄泉%28星穹铁道%29#) |
 | asanagi | 朝凪(桎) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/562be2b5664fe3096ca50367ec141900262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/朝凪) |
 | toji fushiguro | 伏黑甚尔 | 伏黑甚尔（日语：伏黒（ふしぐろ） 甚爾（とうじ））是由芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/10/Fushiguro_Toji_Anime.png) | [萌娘百科](https://zh.moegirl.org.cn/伏黑甚尔) |
