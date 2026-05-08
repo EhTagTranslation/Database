@@ -9242,6 +9242,7 @@ example:
 | asami sato | 佐藤麻尾 | ![](https://static.wikia.nocookie.net/nickelodeon/images/f/f7/Asami.png)<br>别译：佐藤麻美/佐藤亚莎美<br>所属作品：`the legend of korra` |  |
 | aile | 艾儿 | ![](https://static.wikia.nocookie.net/ainamk/images/9/99/Aile.png/revision/latest?cb=20241026154746)<br>出自作品：`p:megaman`<br><br>艾儿（エール/Aile）是洛克人ZX的两名主角之一（另一名是梵），生命金属型式X的适合者。 | [Fandom](https://ainamk.fandom.com/wiki/エール) |
 | kizuna kazayama | 风山绊 | ![](https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/f/fb/Kizuna_Light_Novel.png)<br>日语：風山絆<br>所属作品：`tate no yuusha no nariagari` |  |
+| eclair seaetto | 艾克莱尔·赛亚特 | ![](https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/3/33/Eclair_Light_Novel.png)<br>日语：エクレール＝セーアエット<br>所属作品：`tate no yuusha no nariagari` | [Bangumi](https://bgm.tv/character/127748) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
