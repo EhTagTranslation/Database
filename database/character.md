@@ -9235,7 +9235,7 @@ example:
 | koganei niko | 虎金妃笑虎 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/6/60/Koganei_Niko_Full_Body.png)<br>所属社团`hololive` |  |
 | bouquet | 布凯‧拉 | ![](https://static.wikia.nocookie.net/bluedragon/images/9/9e/Blue-dragon-53ef20f10affd.png)<br>日语：ブーケ<br>所属作品：`blue dragon` |  |
 | zola | 左拉 | ![](https://static.wikia.nocookie.net/bluedragon/images/3/3f/Blue-Dragon_Zolaboxart_160w-1-.jpg)<br>日语：ゾラ<br>所属作品：`blue dragon` |  |
-| promeia | 普罗米娅 | 普罗米娅是隶属坎卜斯（Krampus）监督服务组织的代理人，内部代号“黑桠法官”。她的装束以暗色与冰蓝点缀为主，战斗时会脱去斗篷，露出极具视觉冲击力的背部镂空服装，整体设计兼具肃穆与张扬，在许多地区引发了关于角色着装尺度的讨论。<br><br>性格上，普罗米娅呈现出冷酷与威严的特质，行事风格带有明显的审判色彩，擅于在秩序与混沌的边界执行任务。作为S级冰属性代理人，她的阵地身份更偏向于站场输出型核心，在2.8版本剧情中承担了重要戏份。<br>![](https://fastcdn.hoyoverse.com/content-v2/nap/163316/ae8fea3490c208e1ec5472225d95f9bc_8958211200051508612.png) |  |
+| promeia | 普罗米娅 | ![](https://fastcdn.hoyoverse.com/content-v2/nap/163316/ae8fea3490c208e1ec5472225d95f9bc_8958211200051508612.png)<br>所属作品：`zenless zone zero` |  |
 | yuriko okada | 冈田百合子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/cb/8d/178962_crt_k80fH.jpg?r=1773923307)<br>日语：岡田ユリコ<br>所属作品：`tojima tanzaburo wa kamen rider ni naritai` |  |
 | hiyuki | 绯雪 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/7/72/Hiyuki_Full_Sprite.png)<br>所属作品：`wuthering waves` |  |
 | xaihi | 赛希 | ![](https://endfield.wiki.gg/images/thumb/Xaihi_Splash_Art.png/1024px-Xaihi_Splash_Art.png?390452)<br>所属作品：`arknights endfield` |  |
