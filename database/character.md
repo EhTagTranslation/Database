@@ -3162,7 +3162,7 @@ example:
 | keine kanzaki | 神崎桂音 | ![](https://static.wikia.nocookie.net/highschoolprodigies/images/4/43/237354.jpg)<br>所属作品：`choujin koukousei-tachi wa isekai demo yoyuu de ikinuku you desu` |  |
 | aoi ichijou | 一条葵 | ![](https://static.wikia.nocookie.net/highschoolprodigies/images/3/39/237355.jpg)<br>所属作品：`choujin koukousei-tachi wa isekai demo yoyuu de ikinuku you desu` |  |
 | lyrule | 莉露露 | ![](https://ehgt.org/w/01/971/99202-9aitvcsf.webp)<br>所属作品：`choujin koukousei-tachi wa isekai demo yoyuu de ikinuku you desu` |  |
-| naofumi iwatani | 岩谷尚文（盾之勇者） |  |  |
+| naofumi iwatani | 岩谷尚文 | ![](https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/7/7c/Naofumi_Anime_New.png)<br>所属作品：`tate no yuusha no nariagari` |  |
 | melty q melromarc | 梅蒂·Q·梅洛马格 | ![](https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/b/ba/Melty_Anime.png)<br>所属作品：`tate no yuusha no nariagari` |  |
 | mirellia q melromarc | 米蕾莉亚·Q·梅洛马格 | ![](https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/4/4f/Mirellia_Light_Novel.png)<br>所属作品：`tate no yuusha no nariagari` |  |
 | malty melromarc | 麦蒂·S·梅洛玛格 | ![](https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/c/c2/Malty_Anime.png)<br>所属作品：`tate no yuusha no nariagari` |  |
