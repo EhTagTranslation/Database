@@ -2827,6 +2827,7 @@ example:
 | hanayamata | 花舞少女 | 《花舞少女》（日语：ハナヤマタ）是由滨弓场双创作的一部漫画，并有动画、游戏等衍生作品。![](https://img.comic-fuz.com/g/1xh4aY/iM.webp?h=3sHUApAgG_CNGQWOM-dP6w&e=5000000000) | [萌娘百科](https://zh.moegirl.org.cn/花舞少女) |
 | disventure camp | 低危营地生存秀 | ![](https://static.wikia.nocookie.net/disventure-camp/images/9/94/Disventure_Camp_1_-_Cast.png) |  |
 | sleeping beauty | 睡美人 |  |  |
+| marriagetoxin | 婚姻剧毒 | ![](https://static.wikia.nocookie.net/marriagetoxin/images/d/d5/Marriagetoxin_Header.png)<br>静脉负责故事创作、依田瑞稀负责作画的漫画，并有改编动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
