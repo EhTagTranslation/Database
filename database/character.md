@@ -3165,7 +3165,7 @@ example:
 | naofumi iwatani | 岩谷尚文（盾之勇者） |  |  |
 | melty q melromarc | 梅蒂·Q·梅洛马格 | ![](https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/b/ba/Melty_Anime.png)<br>所属作品：`tate no yuusha no nariagari` |  |
 | mirellia q melromarc | 米蕾莉亚·Q·梅洛马格 | ![](https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/4/4f/Mirellia_Light_Novel.png)<br>所属作品：`tate no yuusha no nariagari` |  |
-| malty melromarc | 麦蒂·S·梅洛玛格 | ![](https://ehgt.org/w/01/970/19532-eifo0g9q.webp)<br>所属作品：`tate no yuusha no nariagari` |  |
+| malty melromarc | 麦蒂·S·梅洛玛格 | ![](https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/c/c2/Malty_Anime.png)<br>所属作品：`tate no yuusha no nariagari` |  |
 | motoyasu kitamura | 北村元康（枪之勇者） |  |  |
 | hana uzaki | 宇崎花 | ![](https://static.wikia.nocookie.net/uzaki-chan/images/5/50/Uzaki.png)<br>所属作品：`uzaki-chan wa asobitai` |  |
 | tsuki uzaki | 宇崎月 | ![](https://ehgt.org/w/02/196/12898-7s88s3zr.webp)<br>所属作品：`uzaki-chan wa asobitai` |  |
