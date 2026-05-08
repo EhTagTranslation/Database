@@ -15170,6 +15170,7 @@ example:
 | sakotoru | 佐古透 |  |  |
 | nyagi | ニャギ |  |  |
 | neko plus | NNEKO | 旧名：Neko Plus | [X](https://x.com/nekoppi25) \| [FANBOX](https://nneko07.fanbox.cc/) \| [YouTube](https://www.youtube.com/channel/UCQMBJFpZ991pkE7SaFdnPWg) |
+| 3000 krw | かけだし3$ |  | [FANBOX](https://kakedashi3000.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/46600646) \| [BOOTH](https://kakedashi3000.booth.pm/) \| [Patreon](https://www.patreon.com/3000KRW) |
 
 <!--TEMPLATE:
 |  |  |  |  |
