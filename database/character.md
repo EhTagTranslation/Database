@@ -9279,6 +9279,7 @@ example:
 | kisa sohma | 草摩杞纱 | ![](https://static.wikia.nocookie.net/fruitsbasket/images/a/ab/Kisa_Sohma_Edition.png/revision/latest?cb=20170819232108)<br>所属作品:`fruits basket` | [Fandom](https://fruitsbasket.fandom.com/wiki/Kisa_Sohma) |
 | aiko senoo | 妹尾爱子 | ![](https://static.wikia.nocookie.net/ojamajowitchling/images/0/04/Aikorender.PNG/revision/latest?cb=20260310121653)<br>所属作品:`ojamajo doremi` | [萌娘百科](https://zh.moegirl.org.cn/妹尾爱子)<br>[Fandom](https://majopedia.fandom.com/wiki/Aiko_Senoo) |
 | mimi tachikawa | 太刀川美美 | ![](https://static.wikia.nocookie.net/digimonadventure6597/images/c/c1/Mimi04.png/revision/latest?cb=20221219114220)<br>所属作品:`digimon adventure` | [萌娘百科](https://zh.moegirl.org.cn/太刀川美美) |
+| hana makihatayama | 卷机山花 | ![](https://static.wikia.nocookie.net/ojamajowitchling/images/7/7a/HanaRender.png/revision/latest?cb=20260315111303)<br>所属作品:`ojamajo doremi` | [Fandom](https://majopedia.fandom.com/wiki/Hana) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
