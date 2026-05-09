@@ -1067,7 +1067,7 @@ example:
 | aria | 亚璃亚 \| 艾丽娅 | ①亚璃亚<br>![](https://img.moegirl.org.cn/common/thumb/d/d7/闪乱神乐-亚璃亚.jpg/420px-闪乱神乐-亚璃亚.jpg)<br>所属作品：`senran kagura`<br><br>②艾丽娅<br>![](https://img.moegirl.org.cn/common/thumb/6/61/精灵艾丽娅.png/270px-精灵艾丽娅.png)<br>《S级怪兽〈贝希摩斯〉被误认成小猫，成为精灵女孩的骑士（宠物）一起生活》中的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士（宠物）一起生活) |
 | ashiya | 芦屋 | ![](https://static.wikia.nocookie.net/kagura/images/8/8f/Golden_Goddess_Ashiya_Fullbody_2.jpg)<br>所属作品：`senran kagura` |  |
 | asuka | 飞鸟 | ![](https://i0.hdslb.com/bfs/article/b8cd6f73b8de253cc09fa29aebbc73a3298252208.png)<br>所属作品：`senran kagura` |  |
-| ayame | 菖蒲 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=ab12d6ffb1b7d0a27bc90495fbee760d/2c168e18972bd40733dc69b078899e510fb30911.jpg)<br>所属作品：`senran kagura` |  |
+| ayame | 菖蒲 | ![](https://static.wikia.nocookie.net/kagura/images/3/32/Ayame_PBS.png)<br>所属作品：`senran kagura` |  |
 | bashou | 芭蕉 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=0800245aa818972ba33a00c2d6cc7b9d/fccbf22a6059252d0c3c054a379b033b5bb5b903.jpg)<br>所属作品：`senran kagura` |  |
 | chihaya | 千早 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=2ad6c350ae6eddc426e7b4f309dab6a2/9b3b4e63f6246b6028115fc1e8f81a4c510fa21e.jpg)<br>所属作品：`senran kagura` |  |
 |  | 千岁 | 重复项 |  |
