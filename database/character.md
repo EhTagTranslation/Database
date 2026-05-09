@@ -9257,6 +9257,7 @@ example:
 | chigusa sakai | 坂井千草 | ![](https://storage.moegirl.tw/moegirl/commons/e/e4/Sakai_Chigusa.jpg)<br>所属作品:`shakugan no shana` | [萌娘百科](https://zh.moegirl.org.cn/坂井千草) |
 | hecate | 黑卡蒂 | ![](https://static.wikia.nocookie.net/shakugan/images/e/ec/Hecate_LN.png/revision/latest?cb=20121220214953)<br>所属作品:`shakugan no shana` | [萌娘百科](https://zh.moegirl.org.cn/黑卡蒂)<br>[Fandom](https://shakugan.fandom.com/wiki/Hecate) |
 | kazumi yoshida | 吉田一美 | ![](https://static.wikia.nocookie.net/shakugan/images/3/36/Drama_Disk_Design_Kazumi.png/revision/latest?cb=20160108135758)<br>所属作品:`shakugan no shana` | [萌娘百科](https://zh.moegirl.org.cn/吉田一美)<br>[Fandom](https://shakugan.fandom.com/wiki/Kazumi_Yoshida) |
+| margery daw | 玛琼琳·朵 | ![](https://static.wikia.nocookie.net/shakugan/images/9/9c/Margey_Daw.png/revision/latest?cb=20120711012531)<br>所属作品:`shakugan no shana` | [萌娘百科](https://zh.moegirl.org.cn/玛琼琳·朵)<br>[Fandom](https://shakugan.fandom.com/wiki/Margery_Daw) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
