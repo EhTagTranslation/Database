@@ -9273,7 +9273,7 @@ example:
 | tohru honda | 本田透 | ![](https://static.wikia.nocookie.net/fruitsbasket/images/e/e5/Tohru_Honda_Edition.png/revision/latest?cb=20190301223004)<br>所属作品:`fruits basket` | [百度百科](https://baike.baidu.com/item/本田透/1238923)<br>[Fandom](https://fruitsbasket.fandom.com/wiki/Tohru_Honda) |
 | lettuce midorikawa | 碧川莴苣 | ![](https://static.wikia.nocookie.net/tokyomewmewpower/images/4/40/Retasu2022.png/revision/latest?cb=20220129040238)<br>所属作品:`tokyo mew mew` | [萌娘百科](https://zh.moegirl.org.cn/碧川莴苣) |
 | mint aizawa | 蓝泽薄荷 | ![](https://static.wikia.nocookie.net/tokyomewmewpower/images/8/87/Mint2022.png/revision/latest?cb=20220129040121)<br>所属作品:`tokyo mew mew` | [Fandom](https://tokyomewmewpower.fandom.com/wiki/Minto_Aizawa) |
-| pudding fong | 黄步铃 | ![](https://static.wikia.nocookie.net/tokyomewmewpower/images/c/c5/Pudding2022.png/revision/latest?cb=20220129040336) | [Fandom](https://tokyomewmewpower.fandom.com/wiki/Bu-Ling_Huang) |
+| pudding fong | 黄步铃 | ![](https://static.wikia.nocookie.net/tokyomewmewpower/images/c/c5/Pudding2022.png/revision/latest?cb=20220129040336)<br>所属作品:`tokyo mew mew` | [Fandom](https://tokyomewmewpower.fandom.com/wiki/Bu-Ling_Huang) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
