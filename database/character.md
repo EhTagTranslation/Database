@@ -9260,6 +9260,7 @@ example:
 | margery daw | 玛琼琳·朵 | ![](https://static.wikia.nocookie.net/shakugan/images/9/9c/Margey_Daw.png/revision/latest?cb=20120711012531)<br>所属作品:`shakugan no shana` | [萌娘百科](https://zh.moegirl.org.cn/玛琼琳·朵)<br>[Fandom](https://shakugan.fandom.com/wiki/Margery_Daw) |
 | wilhelmina carmel | 威尔艾米娜·卡梅尔 | ![](https://static.wikia.nocookie.net/shakugan/images/0/00/Drama_Disk_Design_Wilhelmina.png/revision/latest?cb=20160116145230)<br>所属作品:`shakugan no shana` | [Fandom](https://shakugan.fandom.com/wiki/Wilhelmina_Carmel)<br>[萌娘百科](https://zh.moegirl.org.cn/威尔艾米娜·卡梅尔) |
 | yukari hirai | 平井缘 | ![](https://static.wikia.nocookie.net/shakugan/images/3/31/Hiraiyukari_profile.jpg/revision/latest?cb=20100719020716)<br>所属作品:`shakugan no shana` | [萌娘百科](https://zh.moegirl.org.cn/平井缘)<br>[Fandom](https://shakugan.fandom.com/wiki/Yukari_Hirai) |
+| yuuji sakai | 坂井悠二 | ![](https://static.wikia.nocookie.net/shakugan/images/5/52/Sakai_Yuji.jpg/revision/latest?cb=20100223062542)<br>所属作品:`shakugan no shana` | [萌娘百科](https://zh.moegirl.org.cn/坂井悠二) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
