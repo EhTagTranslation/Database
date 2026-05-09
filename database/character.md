@@ -1106,7 +1106,7 @@ example:
 | ryouna | 两奈 | ![](https://img.moegirl.org.cn/common/3/30/闪乱神乐-両奈.jpg)<br>所属作品：`senran kagura` |  |
 | sakyou | 左京 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=3154faabd70735fa91f04eb1ae500f9f/456b002dd42a2834aed76ebb58b5c9ea15cebf3b.jpg)<br>所属作品：`senran kagura` |  |
 | seimei | 清明 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=2d9fb4029d2f07085f052a08d925b865/f050a035e5dde7113aa6e5bba4efce1b9d16613d.jpg)<br>所属作品：`senran kagura` |  |
-| siki | 四季 | ![](https://img.moegirl.org.cn/common/6/66/闪乱神乐-四季.jpg)<br>所属作品：`senran kagura` |  |
+| siki | 四季 | ![](https://static.wikia.nocookie.net/kagura/images/1/12/Shiki_EV.png)<br>所属作品：`senran kagura` |  |
 | shiki | 四季 | ![](https://ehgt.org/w/02/086/82476-fmaq0hxq.webp)<br>所属作品：`samurai spirits` |  |
 | souji | 总司 | ![](https://ehgt.org/f4/03/f40375690734bc892d85170d921da33b7eb33cf7-60656-384-480-jpg_l.jpg) |  |
 | suzune | 铃音（凛） | ![](https://ehgt.org/12/29/1229cc85ea601e0d136d0be4843948aead40e1d4-71118-384-480-jpg_l.jpg) |  |
