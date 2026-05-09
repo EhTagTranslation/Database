@@ -7716,7 +7716,7 @@ example:
 | psylocke | 灵蝶 | ![](https://ehgt.org/w/01/943/51736-h4z7ktv0.webp)<br>所属作品：`x-men` |  |
 | jean grey | 琴格雷 | ![](https://ehgt.org/w/02/094/07355-cqttjs9j.webp)<br>所属作品：`x-men` |  |
 | todoroki hajime | 轰一 | ![](https://lain.bgm.tv/r/400/pic/crt/l/1a/3d/144489_crt_wJy85.jpg)<br>所属社团：Hololive<br>日文名：とどろき はじめ / 轟はじめ |  |
-| toki | 鸨 | ![](https://i2.hdslb.com/bfs/new_dyn/11e19de2467d6977b90bc6a57ef15ea725843048.jpg)<br>所属作品：`senran kagura` |  |
+| toki | 鸨 | ![](https://static.wikia.nocookie.net/kagura/images/e/e4/Toki.png)<br>所属作品：`senran kagura` |  |
 | natsumi obata | 小幡夏美 | ![](https://ehgt.org/w/02/056/48260-4h91leck.webp)<br>所属作品：`saimin seishidou`<br>小幡优衣的母亲。 |  |
 | yui obata | 小幡优衣 | 所属作品：`saimin seishidou` |  |
 | reika kurashiki | 仓敷丽华 | ![](https://ehgt.org/w/01/906/57371-e6cohlbl.webp)<br>所属作品：`saimin seishidou`<br>仓敷玲奈的母亲。 |  |
