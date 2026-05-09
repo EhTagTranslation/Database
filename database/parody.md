@@ -2040,7 +2040,7 @@ example:
 | subarashiki hibi | 美好的每一天～不连续的存在～ | 美好的每一天～不连续的存在～（日文：素晴らしき日々～不連続存在～）是由枕社的姐妹游戏公司ケロQ推出的一款电波、狂气类游戏，于2010年3月26日发售。 | [https://www.keroq.co.jp/suba\_10th/](https://www.keroq.co.jp/suba_10th/)<br>[https://www.keroq.co.jp/suba\_fhd/](https://www.keroq.co.jp/suba_fhd/)<br>[https://www.keroq.co.jp/suba/index0.htm](https://www.keroq.co.jp/suba/index0.htm)<br>[萌娘百科](https://zh.moegirl.org.cn/美好的每一天～不连续的存在～) |
 | tron | 创：战纪 |  | [维基百科](https://zh.wikipedia.org/wiki/創：光速戰記) |
 | tokyo revengers | 东京复仇者 |  | [维基百科](https://zh.wikipedia.org/wiki/東京卍復仇者) |
-| mobile suit gundam the witch from mercury | 机动战士高达 水星的魔女 |  | [维基百科](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_水星的魔女) |
+| mobile suit gundam the witch from mercury | 机动战士高达 水星的魔女 | ![](https://upload.wikimedia.org/wikipedia/en/2/2a/MobileSuitGundamTheWitchFromMercuryVisual.jpg) | [维基百科](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_水星的魔女) |
 | shijou saikyou no daimaou murabito a ni tensei suru | 史上最强大魔王转生为村民A |  | [维基百科](https://zh.wikipedia.org/wiki/史上最強大魔王轉生為村民A) |
 | genjitsu shugi yuusha no oukoku saikenki | 现实主义勇者的王国重建记 |  | [维基百科](https://zh.wikipedia.org/wiki/現實主義勇者的王國重建記) |
 | zenless zone zero | ![](https://zenless.hoyoverse.com/favicon.ico)绝区零 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/01/30/73751405/33a8f482aa29229c685fa95f3b8852e2_5153736133290339563.png?x-oss-process=image/format,webp)<br>《绝区零》（英语：Zenless Zone Zero，日语：ゼンレスゾンゼロ，韩语：젠레스 존 제로）是米哈游开发的一款3D角色扮演类动作游戏。<br>简称 ZZZ。<br>在游戏的故事设定中，现代文明已被一种名为「空洞」的超自然灾害所摧毁。玩家将会扮演「绳匠」—— 一种引导人们探索空洞的特殊职业者。 | [萌娘百科](https://zh.moegirl.org.cn/绝区零) [国际服官网](https://zenless.hoyoverse.com) |
