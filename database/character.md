@@ -1068,7 +1068,7 @@ example:
 | ashiya | 芦屋 | ![](https://static.wikia.nocookie.net/kagura/images/8/8f/Golden_Goddess_Ashiya_Fullbody_2.jpg)<br>所属作品：`senran kagura` |  |
 | asuka | 飞鸟 | ![](https://i0.hdslb.com/bfs/article/b8cd6f73b8de253cc09fa29aebbc73a3298252208.png)<br>所属作品：`senran kagura` |  |
 | ayame | 菖蒲 | ![](https://static.wikia.nocookie.net/kagura/images/3/32/Ayame_PBS.png)<br>所属作品：`senran kagura` |  |
-| bashou | 芭蕉 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=0800245aa818972ba33a00c2d6cc7b9d/fccbf22a6059252d0c3c054a379b033b5bb5b903.jpg)<br>所属作品：`senran kagura` |  |
+| bashou | 芭蕉 | ![](https://static.wikia.nocookie.net/kagura/images/a/ae/Bashou_PBS.png)<br>所属作品：`senran kagura` |  |
 | chihaya | 千早 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=2ad6c350ae6eddc426e7b4f309dab6a2/9b3b4e63f6246b6028115fc1e8f81a4c510fa21e.jpg)<br>所属作品：`senran kagura` |  |
 |  | 千岁 | 重复项 |  |
 | chiyo | 千代 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=066a297518d5ad6eaaf964e2b1ca39a3/d72d9b096b63f624bf112bb28444ebf81b4ca3e1.jpg)<br>所属作品：`senran kagura` |  |
