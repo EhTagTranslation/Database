@@ -1076,7 +1076,7 @@ example:
 | fuga | 风雅 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=b60606afba389b5038ffe05ab534e5f1/6ec9deedab64034ff827deb7acc379310b551d4e.jpg)<br>所属作品：`senran kagura` |  |
 | fuma | 风魔 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=5ed14a87e5cd7b89e96c3a8b3f254291/f1180d34349b033bd163b69716ce36d3d439bd42.jpg)<br>所属作品：`senran kagura` |  |
 | ginrei | 银岭 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=e7a09fd6c8ef76093c0b99971edca301/10c8c3cd7b899e51e4e7a15f41a7d933c9950dc6.jpg)<br>所属作品：`senran kagura` |  |
-| haruka | 春花 | ![](https://img.moegirl.org.cn/common/7/7d/闪乱神乐-春花.jpg)<br>所属作品：`senran kagura` |  |
+| haruka | 春花 | ![](https://static.wikia.nocookie.net/kagura/images/5/59/Haruka_SKB.png)<br>所属作品：`senran kagura` |  |
 | hibari | 云雀 | ![](https://static.wikia.nocookie.net/kagura/images/3/33/Hibari_PBS.png)<br>所属作品：`senran kagura` |  |
 | hijikata | 土方 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=d0561b56d70735fa91f04eb1ae500f9f/456b002dd42a28344fd58f4658b5c9ea15cebf3a.jpg)<br>所属作品：`senran kagura` |  |
 | hikage | 日影 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_670/h_1820/50118/157597/2025/0/21/421278.webp)<br>所属作品：`senran kagura` |  |
