@@ -740,7 +740,7 @@ example:
 | hacka doll | 骇客娃娃 |  | [萌娘百科](https://zh.moegirl.org.cn/骇客娃娃) [维基百科](https://zh.wikipedia.org/wiki/黑客人偶) |
 | kaiju girls | 怪兽娘 |  |  |
 | shinrabansho | 神罗万象 |  |  |
-| azumanga daioh | 阿滋漫画大王 |  |  |
+| azumanga daioh | 阿滋漫画大王 | ![](https://storage.moegirl.org.cn/moegirl/commons/7/74/Azumanga_Daioh_Vol1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/阿滋漫画大王) |
 | galaxy fight | 银河快打 |  |  |
 | youkai hyakkitan | 妖怪百姬谭 |  |  |
 | papa no iu koto wo kikinasai | 要听爸爸的话！ |  |  |
