@@ -9253,6 +9253,7 @@ example:
 | norma hollowell | 诺姆·霍洛维尔 | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/1/10/Agent_Norma_Hollowell_Portrait.png)<br>所属作品：`zenless zone zero` |  |
 | catcher | 阿列什 | ![](https://patchwiki.biligame.com/images/zmd/6/6a/ghpzulbxkn3ti4w1ohmqnb5yaszgqk7.png)<br>所属作品：`arknights endfield` | [BILIGAME WIKI](https://wiki.biligame.com/zmd/?curid=323) |
 | elan ceres | 伊兰·凯莱斯 | 高达水星的魔女角色 |  |
+| ayano kannagi | 神凪绫乃 | ![](https://static.wikia.nocookie.net/stigma/images/b/b7/55c7445f7c.gif)<br>日语：神凪綾乃<br>所属作品：`kaze no stigma` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
