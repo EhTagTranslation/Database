@@ -9252,6 +9252,7 @@ example:
 | velina airgid | 维琳娜·艾嘉德 | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/c/cf/Agent_Velina_Airgid_Portrait.png)<br>所属作品：`zenless zone zero` |  |
 | norma hollowell | 诺姆·霍洛维尔 | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/1/10/Agent_Norma_Hollowell_Portrait.png)<br>所属作品：`zenless zone zero` |  |
 | catcher | 阿列什 | ![](https://patchwiki.biligame.com/images/zmd/6/6a/ghpzulbxkn3ti4w1ohmqnb5yaszgqk7.png)<br>所属作品：`arknights endfield` | [BILIGAME WIKI](https://wiki.biligame.com/zmd/?curid=323) |
+| elan ceres | 伊兰·凯莱斯 | 高达水星的魔女角色 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
