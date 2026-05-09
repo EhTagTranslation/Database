@@ -9269,6 +9269,7 @@ example:
 | hibiki amawa | 天和响 | 所属作品:`i my me strawberry eggs` | [Fandom](https://imymestrawberryeggs.fandom.com/wiki/Hibiki_Amawa) |
 | komugi nakahara | 中原小麦 | 所属作品:`nurse witch komugi` |  |
 | miyu kozuki | 光月未梦 | ![](https://static.wikia.nocookie.net/ufobaby/images/0/0e/Miyu.jpg/revision/latest?cb=20100903140149)<br>所属作品:`daa daa daa` | [Fandom](https://ufobaby.fandom.com/wiki/Miyu_Kozuki) |
+| ranpha franboise | 兰花·法兰波瓦兹 | ![](https://static.wikia.nocookie.net/galaxyangel/images/e/e5/Gjf003_01_01.t32.png/revision/latest?cb=20150810074903)<br>所属作品:`galaxy angel` | [萌娘百科](https://zh.moegirl.org.cn/兰花·法兰波瓦兹) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
