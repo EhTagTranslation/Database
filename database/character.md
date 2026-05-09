@@ -9276,6 +9276,7 @@ example:
 | pudding fong | 黄步铃 | ![](https://static.wikia.nocookie.net/tokyomewmewpower/images/c/c5/Pudding2022.png/revision/latest?cb=20220129040336)<br>所属作品:`tokyo mew mew` | [Fandom](https://tokyomewmewpower.fandom.com/wiki/Bu-Ling_Huang) |
 | zakuro fujiwara | 藤原石榴 | ![](https://static.wikia.nocookie.net/tokyomewmewpower/images/4/47/Zakuro2022.png/revision/latest?cb=20220129040425)<br>所属作品:`tokyo mew mew` | [Fandom](https://tokyomewmewpower.fandom.com/wiki/Zakuro_Fujiwara) |
 | mitsuki koyama | 神山满月 | ![](https://static.wikia.nocookie.net/fullmoon/images/9/9b/Mitsuki_Koyama.jpg/revision/latest?cb=20141026022223)<br>所属作品:`full moon o sagashite` | [百度百科](https://baike.baidu.com/item/神山满月/9016364) |
+| kisa sohma | 草摩杞纱 | ![](https://static.wikia.nocookie.net/fruitsbasket/images/a/ab/Kisa_Sohma_Edition.png/revision/latest?cb=20170819232108)<br>所属作品:`fruits basket` | [Fandom](https://fruitsbasket.fandom.com/wiki/Kisa_Sohma) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
