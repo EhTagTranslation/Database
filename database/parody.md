@@ -2829,6 +2829,7 @@ example:
 | sleeping beauty | 睡美人 |  |  |
 | marriagetoxin | 婚姻剧毒 | ![](https://static.wikia.nocookie.net/marriagetoxin/images/d/d5/Marriagetoxin_Header.png)<br>静脉负责故事创作、依田瑞稀负责作画的漫画，并有改编动画。 |  |
 | soultaker | 魂狩 | 《魂狩》是由日本龙之子工作室制作、新房昭之执导的电视动画，2001年4月至7月在WOWOW电视台首播。 |  |
+| dokyuu hentai hxeros | 弩级战队HXEROS | ![](https://static.wikia.nocookie.net/hxeros/images/0/0e/Poster_Anime.png)<br>日语：ド級編隊エグゼロス<br>北田龙马创作的漫画作品，并有改编动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
