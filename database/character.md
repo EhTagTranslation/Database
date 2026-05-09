@@ -9282,6 +9282,7 @@ example:
 | hana makihatayama | 卷机山花 | ![](https://static.wikia.nocookie.net/ojamajowitchling/images/7/7a/HanaRender.png/revision/latest?cb=20260315111303)<br>所属作品:`ojamajo doremi` | [Fandom](https://majopedia.fandom.com/wiki/Hana) |
 | hazuki fujiwara | 藤原羽月 | ![](https://static.wikia.nocookie.net/ojamajowitchling/images/0/02/Hazukirender.PNG/revision/latest?cb=20260310121457)<br>所属作品:`ojamajo doremi` | [萌娘百科](https://zh.moegirl.org.cn/藤原羽月) |
 | momoko asuka | 飞鸟桃子 | ![](https://static.wikia.nocookie.net/ojamajowitchling/images/0/04/Momomo.png/revision/latest?cb=20190421173909)<br>所属作品:`ojamajo doremi` | [萌娘百科](https://zh.moegirl.org.cn/飞鸟桃子) |
+| poppu harukaze | 春风泡泡 | ![](https://static.wikia.nocookie.net/ojamajowitchling/images/d/d2/Popmag.png/revision/latest?cb=20260310122012)<br>所属作品:`ojamajo doremi` | [Fandom](https://majopedia.fandom.com/wiki/Pop_Harukaze) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
