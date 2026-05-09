@@ -5265,7 +5265,7 @@ example:
 | levi ackerman | 利威尔·阿克曼 | 日本漫画《进击的巨人》及其衍生作品中的角色。 |  |
 | belldandy | 贝露丹蒂 | 日本漫画《我的女神》及其衍生作品中的女主角。 |  |
 | karamatsu matsuno | 松野空松 |  |  |
-| onpu segawa | 濑川音符 | 日本动画《小魔女DoReMi》中的角色 |  |
+| onpu segawa | 濑川音符 | ![](https://static.wikia.nocookie.net/ojamajowitchling/images/6/6c/Onpurender.PNG/revision/latest?cb=20260310121905)<br>所属作品:`ojamajo doremi` | [萌娘百科](https://zh.moegirl.org.cn/濑川音符) |
 | doremi harukaze | 春风DoReMi | ![](https://static.wikia.nocookie.net/ojamajowitchling/images/d/d2/Doremi_S1_Ojamajo_Outfit.png/revision/latest?cb=20260310121216)<br>所属作品:`ojamajo doremi` | [萌娘百科](https://zh.moegirl.org.cn/春风DoReMi)<br>[Fandom](https://majopedia.fandom.com/wiki/Doremi_Harukaze) |
 | ichimatsu matsuno | 松野一松 |  |  |
 | ubel | 尤贝尔 | 尤贝尔是由山田钟人原作、アベツカサ作画的漫画`p:sousou no frieren`及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/5/55/Frieren_anime_尤贝尔.png) | [萌娘百科](https://zh.moegirl.org.cn/尤贝尔%28葬送的芙莉莲%29) |
