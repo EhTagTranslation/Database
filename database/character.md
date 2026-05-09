@@ -9254,6 +9254,7 @@ example:
 | catcher | 阿列什 | ![](https://patchwiki.biligame.com/images/zmd/6/6a/ghpzulbxkn3ti4w1ohmqnb5yaszgqk7.png)<br>所属作品：`arknights endfield` | [BILIGAME WIKI](https://wiki.biligame.com/zmd/?curid=323) |
 | elan ceres | 伊兰·凯莱斯 | 高达水星的魔女角色 |  |
 | ayano kannagi | 神凪绫乃 | ![](https://static.wikia.nocookie.net/stigma/images/b/b7/55c7445f7c.gif)<br>日语：神凪綾乃<br>所属作品：`kaze no stigma` |  |
+| chigusa sakai | 坂井千草 | ![](https://storage.moegirl.tw/moegirl/commons/e/e4/Sakai_Chigusa.jpg)<br>所属作品:`shakugan no shana` | [萌娘百科](https://zh.moegirl.org.cn/坂井千草) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
