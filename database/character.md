@@ -9271,6 +9271,7 @@ example:
 | miyu kozuki | 光月未梦 | ![](https://static.wikia.nocookie.net/ufobaby/images/0/0e/Miyu.jpg/revision/latest?cb=20100903140149)<br>所属作品:`daa daa daa` | [Fandom](https://ufobaby.fandom.com/wiki/Miyu_Kozuki) |
 | ranpha franboise | 兰花·法兰波瓦兹 | ![](https://static.wikia.nocookie.net/galaxyangel/images/e/e5/Gjf003_01_01.t32.png/revision/latest?cb=20150810074903)<br>所属作品:`galaxy angel` | [萌娘百科](https://zh.moegirl.org.cn/兰花·法兰波瓦兹) |
 | tohru honda | 本田透 | ![](https://static.wikia.nocookie.net/fruitsbasket/images/e/e5/Tohru_Honda_Edition.png/revision/latest?cb=20190301223004)<br>所属作品:`fruits basket` | [百度百科](https://baike.baidu.com/item/本田透/1238923)<br>[Fandom](https://fruitsbasket.fandom.com/wiki/Tohru_Honda) |
+| lettuce midorikawa | 碧川莴苣 | ![](https://static.wikia.nocookie.net/tokyomewmewpower/images/4/40/Retasu2022.png/revision/latest?cb=20220129040238)<br>所属作品:`tokyo mew mew` | [萌娘百科](https://zh.moegirl.org.cn/碧川莴苣) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
