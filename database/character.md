@@ -9247,7 +9247,7 @@ example:
 | glass | 葛拉丝 | ![](https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/c/cc/Glass_Anime.png)<br>日语：グラス<br>所属作品：`tate no yuusha no nariagari` |  |
 | tsukumo sana | 九十九佐命 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/4/44/Tsukumo_Sana_full_body.png)<br>所属社团：`hololive`<br>已毕业。 | [YouTube](https://www.youtube.com/channel/UCsUj0dszADCGbF3gNrQEuSQ) |
 | mei kinosaki | 城崎芽 | ![](https://static.wikia.nocookie.net/marriagetoxin/images/8/8c/Mei_Kinosaki_-_anime_design_2.png)<br>日语：城崎メイ<br>所属作品：`marriagetoxin` |  |
-| tsukushi aria | 月紫亚里亚 | 月紫アリア，女性vtuber |  |
+| tsukushi aria | 月紫亚里亚 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/f/fa/Aria_full_body.png)<br>日语：月紫アリア<br>所属团体：Re:AcT |  |
 | machika | 玛奇卡 | ![](https://static.wikia.nocookie.net/megaman/images/d/d0/Dragon_Poker_Machika_%28Serenade_Ver%29.png)<br>日语：マチカ<br>所属作品：`dragon poker` |  |
 | velina airgid | 维琳娜·艾嘉德 | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/c/cf/Agent_Velina_Airgid_Portrait.png)<br>所属作品：`zenless zone zero` |  |
 | norma hollowell | 诺姆·霍洛维尔 | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/1/10/Agent_Norma_Hollowell_Portrait.png)<br>所属作品：`zenless zone zero` |  |
