@@ -9264,6 +9264,7 @@ example:
 | ichigo momomiya | 桃宫莓 | ![](https://static.wikia.nocookie.net/tokyomewmewpower/images/b/b1/Ichigo2022.png/revision/latest?cb=20220129035940)<br>所属作品:`tokyo mew mew` | [萌娘百科](https://zh.moegirl.org.cn/桃宫莓) |
 | kirara hoshino | 星乃云母 | ![](https://static.wikia.nocookie.net/hxeros/images/a/ac/Hoshino.Kirara.%28Dokyuu.Hentai.HxEros%29.full.2927585.png)<br>所属作品：`dokyuu hentai hxeros` |  |
 | retto enjo | 炎城烈人 | ![](https://static.wikia.nocookie.net/hxeros/images/2/21/Enjou.Retto.full.2927584.png)<br>所属作品：`dokyuu hentai hxeros` |  |
+| oryou | 阿龙小姐 | ![](https://static.wikia.nocookie.net/typemoon/images/8/8c/Oryuu.png)<br>日语：お竜さん<br>所属作品：`fate grand order` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
