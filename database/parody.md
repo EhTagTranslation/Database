@@ -2828,6 +2828,7 @@ example:
 | disventure camp | 低危营地生存秀 | ![](https://static.wikia.nocookie.net/disventure-camp/images/9/94/Disventure_Camp_1_-_Cast.png) |  |
 | sleeping beauty | 睡美人 |  |  |
 | marriagetoxin | 婚姻剧毒 | ![](https://static.wikia.nocookie.net/marriagetoxin/images/d/d5/Marriagetoxin_Header.png)<br>静脉负责故事创作、依田瑞稀负责作画的漫画，并有改编动画。 |  |
+| soultaker | 魂狩 | 《魂狩》是由日本龙之子工作室制作、新房昭之执导的电视动画，2001年4月至7月在WOWOW电视台首播。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
