@@ -5838,7 +5838,7 @@ example:
 | sakiko togawa | 丰川祥子 | ![](https://patchwiki.biligame.com/images/arknights/6/63/dndg0061x4ywpxxz73evj71lfqeh7st.png)<br>所属作品：《‌`bang dream` Ave Mujica》，《`bang dream` It's MyGO!!》<br>丰川祥子（日语：豊川祥子（とがわ さきこ）） | [萌娘百科](https://zh.moegirl.org.cn/丰川祥子) |
 | falin thorden | 法琳 | 法琳·图丁（日语：ファリン・トーデン）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/法琳) |
 | priscilla | 普莉希拉 | ![](https://static.wikia.nocookie.net/fireemblem/images/b/b6/Priscilla.png/revision/latest?cb=20170316141421)<br>日文：プリシラ<br>所属作品：`fire emblem the blazing blade` | [Fandom](https://fireemblem.fandom.com/wiki/Priscilla) |
-| saeko busujima | 毒岛冴子 | ![](https://ehgt.org/w/01/914/81777-3vjr3o8r.webp)<br>所属作品：`highschool of the dead` |  |
+| saeko busujima | 毒岛冴子 | ![](https://static.wikia.nocookie.net/fiction-wrestling-multiverse/images/3/3b/Saeko_Busujima.png)<br>所属作品：`highschool of the dead` |  |
 | quelaag | 克拉格 |  |  |
 | steven universe | 史蒂文宇宙 |  |  |
 | spinel | 尖晶石 |  |  |
