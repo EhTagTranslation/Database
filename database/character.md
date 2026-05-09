@@ -4593,7 +4593,7 @@ example:
 | shiho nagaoka | 长冈志保 |  |  |
 | hiroyuki fujita | 藤田浩之 |  |  |
 | aoi matsubara | 松原葵 |  |  |
-| koyomi mizuhara | 水原历 |  |  |
+| koyomi mizuhara | 水原历 | ![](https://static.wikia.nocookie.net/azumanga/images/6/68/Koyomi_Mizuhara_full_body.jpg/revision/latest?cb=20140107012050)<br>所属作品:`azumanga daioh` | [Fandom](https://azumanga.fandom.com/wiki/Koyomi_Mizuhara) |
 | osaka | 大阪 | 春日步 |  |
 | sakaki | 榊 |  |  |
 | tomo takino | 泷野智 |  |  |
