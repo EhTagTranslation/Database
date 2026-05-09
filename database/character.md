@@ -1118,7 +1118,7 @@ example:
 | yoshimitsu | 吉光 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=2343f96bcd1b9d168ac79a69c3dfb4eb/cef6924543a982269a7940938982b9014b90ebf8.jpg)<br>所属作品：`senran kagura` |  |
 | yozakura | 夜樱 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1458/h_1532/50118/157597/2025/0/21/630864.webp)<br>所属作品：`senran kagura` |  |
 | yugiri | 夕雾 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=d68370f5a51ea8d38a22740ca70b30cf/38a72f7b02087bf4efa890a7f1d3572c10dfcfef.jpg)<br>所属作品：`senran kagura` |  |
-| yumi | 雪泉 | ![](https://i0.hdslb.com/bfs/article/c8a750f7089fa87801458ff7dbeb8b57298252208.png)<br>所属作品：`senran kagura` |  |
+| yumi | 雪泉 | ![](https://static.wikia.nocookie.net/kagura/images/9/99/Yumi_BrownDust2.png)<br>所属作品：`senran kagura` |  |
 | yuyaki | 夕烧 | ![](https://i0.hdslb.com/bfs/article/89744e7153bd920687d7d2eed79306f8298252208.png)<br>所属作品：`senran kagura` |  |
 |  | ▼ 小林家的龙女仆 角色 |  |  |
 | tohru | 托尔 | ![托尔](https://ehgt.org/99/f2/99f2dd26b7dcb9077a8a0d6d76c4d5d23823c0a7-1655459-3214-4084-jpg_l.jpg) |  |
