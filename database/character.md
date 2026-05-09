@@ -9277,6 +9277,7 @@ example:
 | zakuro fujiwara | 藤原石榴 | ![](https://static.wikia.nocookie.net/tokyomewmewpower/images/4/47/Zakuro2022.png/revision/latest?cb=20220129040425)<br>所属作品:`tokyo mew mew` | [Fandom](https://tokyomewmewpower.fandom.com/wiki/Zakuro_Fujiwara) |
 | mitsuki koyama | 神山满月 | ![](https://static.wikia.nocookie.net/fullmoon/images/9/9b/Mitsuki_Koyama.jpg/revision/latest?cb=20141026022223)<br>所属作品:`full moon o sagashite` | [百度百科](https://baike.baidu.com/item/神山满月/9016364) |
 | kisa sohma | 草摩杞纱 | ![](https://static.wikia.nocookie.net/fruitsbasket/images/a/ab/Kisa_Sohma_Edition.png/revision/latest?cb=20170819232108)<br>所属作品:`fruits basket` | [Fandom](https://fruitsbasket.fandom.com/wiki/Kisa_Sohma) |
+| aiko senoo | 妹尾爱子 | ![](https://static.wikia.nocookie.net/ojamajowitchling/images/0/04/Aikorender.PNG/revision/latest?cb=20260310121653)<br>所属作品:`ojamajo doremi` | [萌娘百科](https://zh.moegirl.org.cn/妹尾爱子)<br>[Fandom](https://majopedia.fandom.com/wiki/Aiko_Senoo) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
