@@ -1095,7 +1095,7 @@ example:
 | mai | 舞 | ①所属作品：`senran kagura`<br>![](https://imgsa.baidu.com/forum/w%3D580/sign=5844d09935d12f2ece05ae687fc3d5ff/7f9d810f4bfbfbed88cc87317bf0f736aec31f9c.jpg)<br>②<br>出自TH05-东方怪绮谈<br>![图](https://ehgt.org/f7/b9/f7b99413defcbd21f6e590f37cd97d0b438bde0b-675208-1024-768-png_l.jpg) |  |
 | meimei | 美莓 \| 梅梅 | ①美莓<br>![](https://imgsa.baidu.com/forum/w%3D580/sign=672c68b78444ebf86d716437e9f8d736/f4fa8286c9177f3e6b45adb973cf3bc79e3d56c6.jpg)<br>所属作品：`senran kagura`<br><br>②梅梅<br>![](https://ehgt.org/w/02/172/27870-e6m8z4wu.webp)<br>所属作品：`kusuriya no hitorigoto` |  |
 | minori | 美野里 | ![](https://static.wikia.nocookie.net/kagura/images/5/5e/Minori_SV.png)<br>所属作品：`senran kagura` |  |
-| mirai | 未来 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=e7970b9616ce36d3a20483380af23a24/62229c12c8fcc3ce7fdf3e7f9145d688d43f2015.jpg)<br>所属作品：`senran kagura` |  |
+| mirai | 未来 | ![](https://static.wikia.nocookie.net/kagura/images/9/96/SKB_Mirai.png)<br>![](https://static.wikia.nocookie.net/kagura/images/2/27/Mirai_PBS.png)<br>所属作品：`senran kagura` |  |
 | misato | 深里 | ![](https://imgsa.baidu.com/forum/pic/item/82ddeb1b9d16fdfaa8adcfa5b78f8c5495ee7b6d.jpg)<br>所属作品：`senran kagura` |  |
 | miyabi | 雅绯 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=98a5337c223fb80e0cd161df06d02ffb/8879f41373f08202c3e3ae7248fbfbedab641b3f.jpg)<br>所属作品：`senran kagura` |  |
 | motochika | 元亲 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=468ea7d7554e9258a63486e6ac83d1d1/962ea201a18b87d668d2e4ac040828381e30fda7.jpg)<br>所属作品：`senran kagura` |  |
