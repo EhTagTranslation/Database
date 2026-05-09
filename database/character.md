@@ -1063,7 +1063,7 @@ example:
 | maria takayama | 高山玛利亚 | ![高山玛利亚](https://ehgt.org/f4/ac/f4acaeaebe7436b9574ebffb0f4ddecc74678c40-57300-401-640-jpg_l.jpg) |  |
 |  | ▼ 闪乱神乐 角色 |  |  |
 | ageha | 扬羽 | ![](https://static.wikia.nocookie.net/kagura/images/f/fd/KakaoTalk_20210407_222454782.jpg)<br>所属作品：`senran kagura` |  |
-| aimu | 蓝梦 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=de59742afb1986184147ef8c7aec2e69/a82224e93901213fd54cbf9757e736d12f2e9534.jpg)<br>所属作品：`senran kagura` |  |
+| aimu | 蓝梦 | ![](https://static.wikia.nocookie.net/kagura/images/4/45/Aimu_the_Sagittarius.jpg)<br>所属作品：`senran kagura` |  |
 | aria | 亚璃亚 \| 艾丽娅 | ①亚璃亚<br>![](https://img.moegirl.org.cn/common/thumb/d/d7/闪乱神乐-亚璃亚.jpg/420px-闪乱神乐-亚璃亚.jpg)<br>所属作品：`senran kagura`<br><br>②艾丽娅<br>![](https://img.moegirl.org.cn/common/thumb/6/61/精灵艾丽娅.png/270px-精灵艾丽娅.png)<br>《S级怪兽〈贝希摩斯〉被误认成小猫，成为精灵女孩的骑士（宠物）一起生活》中的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士（宠物）一起生活) |
 | ashiya | 芦屋 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=7c1c18d3c8ef76093c0b99971edca301/10c8c3cd7b899e517f5b265a41a7d933c9950d5c.jpg)<br>所属作品：`senran kagura` |  |
 | asuka | 飞鸟 | ![](https://i0.hdslb.com/bfs/article/b8cd6f73b8de253cc09fa29aebbc73a3298252208.png)<br>所属作品：`senran kagura` |  |
