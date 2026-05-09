@@ -15174,6 +15174,7 @@ example:
 | sabaziba gonpachiro | 鯖磁場権八朗 |  |  |
 | uota coi | うおた こい |  |  |
 | muteppo | むてっぽ |  |  |
+| hagiwara onsen | 萩原音泉 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
