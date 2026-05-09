@@ -9266,6 +9266,7 @@ example:
 | retto enjo | 炎城烈人 | ![](https://static.wikia.nocookie.net/hxeros/images/2/21/Enjou.Retto.full.2927584.png)<br>所属作品：`dokyuu hentai hxeros` |  |
 | oryou | 阿龙小姐 | ![](https://static.wikia.nocookie.net/typemoon/images/8/8c/Oryuu.png)<br>日语：お竜さん<br>所属作品：`fate grand order` |  |
 | arumi asahina | 朝比奈由美 | ![](https://ehgt.org/w/00/058/34744-cr5no6wp.webp)<br>所属作品:`abenobashi mahou shoutengai` | [Fandom](https://akahoriverse.fandom.com/wiki/Arumi_Asahina) |
+| hibiki amawa | 天和响 | 所属作品:`i my me strawberry eggs` | [Fandom](https://imymestrawberryeggs.fandom.com/wiki/Hibiki_Amawa) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
