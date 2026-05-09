@@ -1113,7 +1113,7 @@ example:
 | syuri | 朱璃 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=19c8696d0a24ab18e016e13f05fbe69a/743dfcf9d72a60596e836d512b34349b023bba98.jpg)<br>所属作品：`senran kagura` |  |
 | ukyou | 右京 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=a24c6e75334e251fe2f7e4f09787c9c2/47ebd7d3572c11df4a94736c602762d0f603c2ef.jpg)<br>所属作品：`senran kagura` |  |
 | ushimaru | 牛丸 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=99062d18f5246b607b0eb27cdbf91a35/157c001f95cad1c880898f6c7c3e6709c93d5178.jpg)<br>所属作品：`senran kagura` |  |
-| yagyuu | 柳生 | ![](https://img.moegirl.org.cn/common/3/3c/闪乱神乐-柳生.jpg)<br>所属作品：`senran kagura` |  |
+| yagyuu | 柳生 | ![](https://static.wikia.nocookie.net/kagura/images/a/ae/Hanzo-Yagyu_Burst_Render.png)<br>所属作品：`senran kagura` |  |
 | yomi | 咏 | ![](https://static.wikia.nocookie.net/kagura/images/8/8b/Yomi_BrownDust2.png)<br>所属作品：`senran kagura` |  |
 | yoshimitsu | 吉光 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=2343f96bcd1b9d168ac79a69c3dfb4eb/cef6924543a982269a7940938982b9014b90ebf8.jpg)<br>所属作品：`senran kagura` |  |
 | yozakura | 夜樱 | ![](https://static.wikia.nocookie.net/kagura/images/9/9a/Yozakura_BrownDust2.png)<br>所属作品：`senran kagura` |  |
