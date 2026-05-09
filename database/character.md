@@ -1080,7 +1080,7 @@ example:
 | hibari | 云雀 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=3879a4bb9c3df8dca63d8f99fd1072bf/2dc8743d269759ee75dbca87b1fb43166c22dfa1.jpg)<br>所属作品：`senran kagura` |  |
 | hijikata | 土方 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=d0561b56d70735fa91f04eb1ae500f9f/456b002dd42a28344fd58f4658b5c9ea15cebf3a.jpg)<br>所属作品：`senran kagura` |  |
 | hikage | 日影 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_670/h_1820/50118/157597/2025/0/21/421278.webp)<br>所属作品：`senran kagura` |  |
-| homura | 焰 | ![](https://static.wikia.nocookie.net/kagura/images/e/e2/Homura_Shower-dbfwzvc.png)<br>所属作品：`senran kagura` |  |
+| homura | 焰 | ![](https://static.wikia.nocookie.net/kagura/images/6/63/Homura_PBS.png)<br>![](https://static.wikia.nocookie.net/kagura/images/e/e2/Homura_Shower-dbfwzvc.png)<br>所属作品：`senran kagura` |  |
 | ikaruga | 斑鸠 | ![](https://i0.hdslb.com/bfs/article/e8e1370eba33ebedf0a927021351e8d5298252208.png)<br>所属作品：`senran kagura` |  |
 | imu | 忌梦 | ![](https://static.wikia.nocookie.net/kagura/images/2/2e/Imu_EV.png)<br>所属作品：`senran kagura` |  |
 | josui | 如水 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=2143ad4a379b033b2c88fcd225cf3620/f4329fa1cd11728bb2793c6ccbfcc3cec2fd2cde.jpg)<br>所属作品：`senran kagura` |  |
