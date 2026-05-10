@@ -9291,6 +9291,7 @@ example:
 | jack-o valentine | 杰克-O'瓦伦丁 | ![](https://static.wikia.nocookie.net/guilty-gear/images/b/bf/Jack-O_Guilty_Gear_Strive.png)<br>日语：ジャック・オー=ヴァレンタイン<br>所属作品：`guilty gear` |  |
 | a.b.a | A.B.A | ![](https://static.wikia.nocookie.net/guilty-gear/images/3/31/ABA_Guilty_Gear_Strive.png)<br>日语：アバ<br>所属作品：`guilty gear` |  |
 | sol badguy | 索尔·巴得凯 | ![](https://static.wikia.nocookie.net/guilty-gear/images/6/66/Sol_Guilty_Gear_Strive.png)<br>日语：ソル＝バッドガイ<br>所属作品：`guilty gear` |  |
+| giovanna | 乔凡娜 | ![](https://static.wikia.nocookie.net/guilty-gear/images/c/c7/Giovanna_Guilty_Gear_Strive.png)<br>日语：ジオヴァーナ<br>所属作品：`guilty gear` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
