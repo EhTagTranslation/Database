@@ -9292,6 +9292,7 @@ example:
 | a.b.a | A.B.A | ![](https://static.wikia.nocookie.net/guilty-gear/images/3/31/ABA_Guilty_Gear_Strive.png)<br>日语：アバ<br>所属作品：`guilty gear` |  |
 | sol badguy | 索尔·巴得凯 | ![](https://static.wikia.nocookie.net/guilty-gear/images/6/66/Sol_Guilty_Gear_Strive.png)<br>日语：ソル＝バッドガイ<br>所属作品：`guilty gear` |  |
 | giovanna | 乔凡娜 | ![](https://static.wikia.nocookie.net/guilty-gear/images/c/c7/Giovanna_Guilty_Gear_Strive.png)<br>日语：ジオヴァーナ<br>所属作品：`guilty gear` |  |
+| tsurugi kenzaki | 剑先鹤城 | ![](https://patchwiki.biligame.com/images/ba/6/66/pkdfqj467ei44b1z9ndjkluz2pkfqq6.png)<br>所属作品:`blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Tsurugi)<br>[萌娘百科](https://zh.moegirl.org.cn/剑先弦生) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
