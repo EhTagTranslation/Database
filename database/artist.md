@@ -5672,7 +5672,7 @@ example:
 | hazio | ハジオ |  |  |
 | hazuki | はづき |  |  |
 | hazuki kyou | 葉月梗 |  |  |
-| hazuki shishimaru | 葉月獅子丸 |  |  |
+| hazuki shishimaru | 叶月狮子丸 |  |  |
 | hazuki yuu | 葉月祐 |  |  |
 | hazumi yae | 羽純やえ |  |  |
 | hcwr | HCWR |  |  |
