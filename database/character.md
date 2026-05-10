@@ -4566,7 +4566,7 @@ example:
 | zoe | 佐伊（暮光星灵） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/4/45/01v4awh7fps2uerm4sd5x3bpyte06wu.jpg) |  |
 | annie | 安妮 |  |  |
 | yanagi uzaki | 宇崎柳 | ![](https://ehgt.org/w/01/861/13848-5jqerop5.webp)<br>所属作品：`uzaki-chan wa asobitai` |  |
-| baiken | 梅喧 |  |  |
+| baiken | 梅喧 | ![](https://static.wikia.nocookie.net/guilty-gear/images/d/da/Baiken_Guilty_Gear_Strive.png)<br>日语：梅喧<br>所属作品：`guilty gear` |  |
 | asuka kazama | 风间飞鸟 | ![](https://p325k7wa.twic.pics/high/tekken/tekken-8/02-characters/new-gallery/Wide/Asuka_new.png)<br>所属作品：`tekken` |  |
 | lili rochefort | 莉莉·罗舍福尔 | ![](https://ehgt.org/w/02/054/89014-cytgt91m.webp)<br>所属作品：`tekken` |  |
 | shizuko kawawa | 河和静子 | ![](https://patchwiki.biligame.com/images/ba/5/5b/hsh03j5zm3k57epuxt8udzpsr0xf797.png)<br>![](https://patchwiki.biligame.com/images/ba/4/40/l4y240rfbcer6tbr8l1xxlsfxlfpx9n.png)<br>所属作品：`p:blue archive` | [Fandom](https://bluearchive.fandom.com/wiki/Kawawa_Shizuko)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Shizuko) |
