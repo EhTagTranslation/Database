@@ -2624,7 +2624,7 @@ example:
 | fumie hashimoto | 桥本文惠 |  |  |
 | yuuko amasawa | 天泽勇子 |  |  |
 | yuuko okonogi | 小此木京子 |  |  |
-| elphelt valentine | 艾露菲鲁特·华伦泰 |  |  |
+| elphelt valentine | 艾露菲鲁特·华伦泰 | ![](https://static.wikia.nocookie.net/guilty-gear/images/4/44/Elphelt_Guilty_Gear_Strive.png)<br>日语：エルフェルト=ヴァレンタイン<br>所属作品：`guilty gear` |  |
 | jam kuradoberi | 藏土缘纱梦 | ![](https://static.wikia.nocookie.net/guilty-gear/images/e/e3/Jam_-Strive-.png)<br>日语：蔵土縁紗夢<br>所属作品：`guilty gear` |  |
 | ramlethal valentine | 拉姆蕾萨尔·华伦泰 |  |  |
 | alisa ilinichina amiella | 亚莉莎·伊莉妮提娜·阿米耶拉 | ![](https://ehgt.org/w/01/875/32829-ggj3f42h.webp)<br>所属作品：`god eater` |  |
