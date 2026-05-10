@@ -1930,7 +1930,7 @@ example:
 | stikyfinkaz | StikyfinkaZ |  |  |
 | shirasagi rokuwa | 白鹭六羽 |  |  |
 | armadillo daiji | 大慈 |  | [pixiv](https://www.pixiv.net/users/3646291) |
-| akeno minato | 绯野湊 |  |  |
+| hino minato | 绯野湊 |  |  |
 | hanabana tsubomi | 華々つぼみ |  |  |
 | soyosoyo | SOYOSOYO |  |  |
 | sasorigatame | さそりがため | 男性原画师, 曾为`g:marmalade`工作<br>![朝霞 汐](https://t.vndb.org/ch/35/68735.jpg)<br>有同人社团`g:dragon kitchen`. | [VNDB](https://vndb.org/s2277) [HP](https://web.archive.org/web/20111225193728/http://www.geocities.jp:80/hou_para/) [Xitter](https://x.com/sasorigatame) [AniDB](https://anidb.net/cr28619) [P站](https://www.pixiv.net/member.php?id=3810781) |
@@ -6471,7 +6471,7 @@ example:
 | kakugari ani | カクガリ兄 |  |  |
 | kakuka | かくか |  |  |
 | kakutou oukoku | 格闘王国 |  |  |
-| kakuzato yun | 角砂糖ゆん \| すがる春 |  |  |
+| sugaru shun | すがる春 | 角砂糖ゆん |  |
 | kakyouin chiroru | 華京院ちろる |  |  |
 | kamado | かまど |  |  |
 | kamata | かまた |  |  |
@@ -10627,7 +10627,6 @@ example:
 | taketora suzume | 竹虎スズメ |  |  |
 | takeu | たけう |  |  |
 | takeuchi reona | 竹内玲于奈 |  |  |
-| takeuma | たけうま |  |  |
 | takewakamaru | 武若丸 |  |  |
 | takewan | たけわん |  |  |
 | takeyama kaki | たけやまかき |  |  |
@@ -15089,8 +15088,7 @@ example:
 | yukiya ruru | 雪谷るる |  | [X](https://x.com/yukiya__ruru) |
 | matsuda oruta | 松田おるた |  | [X](https://x.com/matudayazo) |
 | shybox | Shybox |  | [X](https://x.com/ShyboxNTR) \| [Patreon](https://www.patreon.com/Shybox) \| [shyboxgame](https://shyboxgame.itch.io/ntrphone) |
-| jiuxueran | 旧雪染 | 大号为`moxueyin` |  |
-| moxueyin | 墨雪吟 | 小号为`jiuxueran` |  |
+| moxueyin | 墨雪吟 | 旧雪染 |  |
 | hino himoto | 日野ひもと |  | [X](https://x.com/Hinohimoto2) [pixiv](https://www.pixiv.net/users/46163074) |
 | syundei | 春泥 |  |  |
 | ilill | 入る |  | [X](https://x.com/ilillilillilill) |
