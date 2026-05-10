@@ -10166,7 +10166,7 @@ example:
 | shishido kurou | 宍戸くろう |  |  |
 | shishigai | シシガイ |  |  |
 | shishiji | ししじ |  |  |
-| shishimaru | 獅子丸 |  |  |
+| shishimaru | 狮子丸 |  |  |
 | shishimaru kenya | ししまるけんや |  |  |
 | shishiotome | ししおとめ |  |  |
 | shiso | SHISO |  |  |
