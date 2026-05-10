@@ -9286,6 +9286,7 @@ example:
 | fami harukaze | 法米 | ![](https://static.wikia.nocookie.net/ojamajowitchling/images/3/3f/Famivector.png/revision/latest?cb=20220128204258)<br>所属作品:`ojamajo doremi` | [Fandom](https://majopedia.fandom.com/wiki/Fami) |
 | francois prelati | 弗朗索瓦·普雷拉蒂 | ![](https://static.wikia.nocookie.net/typemoon/images/8/8e/CasterFrancoisStage1.png)<br>日语：弗朗ソワ・プレラティ<br>所属作品：`fate grand order` |  |
 | varka | 法尔伽 | ![](https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Character_Varka_Full_Wish.png)<br>所属作品：`genshin impact` |  |
+| durin | 杜林 | ![](https://static.wikia.nocookie.net/gensin-impact/images/2/23/Character_Durin_Full_Wish.png)<br>所属作品：`genshin impact` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
