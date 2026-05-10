@@ -13919,6 +13919,7 @@ example:
 | ishikarian | 円山晃 |  |  |
 | osakana cookie | おさかなくっきー |  |  |
 | chinpura | チンプラ |  |  |
+| cure maimai | キュアマイマイ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204598/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
