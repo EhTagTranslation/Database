@@ -10379,7 +10379,7 @@ example:
 | shishamo teikoku | ししゃも帝国 |  |  |
 | shishamotei | ししゃも亭 |  |  |
 | shishigami | ししがみ |  |  |
-| shishimaruya | 獅子丸屋 |  |  |
+| shishimaruya | 狮子丸屋 |  |  |
 | shishunki | 思春棄 |  |  |
 | shishunki paradigm | 思春期パラダイム |  |  |
 | shisshin chuudoku | 失神中毒 |  |  |
