@@ -362,7 +362,7 @@ example:
 | noir | 黑街二人组 |  |  |
 | guilty crown | 罪恶王冠 | 《罪恶王冠》（日语：ギルティクラウン）是2011年10月放送的一部以“超能力。少女。乱斗。”为题材的原创动画。<br>![](https://img.moegirl.org.cn/common/9/97/GC_meizhongjian.jpg) | [萌娘百科](https://zh.moegirl.org.cn/罪恶王冠) |
 | nana | 娜娜 |  |  |
-| nier | 尼尔 |  |  |
+| nier | 尼尔:人工生命 | ![](https://static.wikia.nocookie.net/nier/images/4/4d/NieR_Replicant_Box_Art.png)<br>也译作《尼尔：伪装者》，是由Cavia开发的角色扮演类游戏。 |  |
 | nier automata | 尼尔：机械纪元 |  |  |
 | psycho-pass | 心理测量者 |  |  |
 | ben 10 | Ben 10 | 《Ben 10》为美国时代华纳公司旗下卡通频道工作室（英语：Cartoon Network Studios）的电视动画，于2005年推出，是Ben 10系列主剧情的第一套系列作，原译《少年骇客》。 | [维基百科](https://zh.wikipedia.org/wiki/少年駭客) |
