@@ -15180,6 +15180,7 @@ example:
 | nezumi | 鼠のぼ |  |  |
 | nekotamas | ねこたます |  |  |
 | mitsujirou | 蜜次郎 |  |  |
+| akiduki ria | 秋月リア |  | 【FANBOX】[FANBOX](https://akiria.fanbox.cc)<br>【PIXIVリクエスト】[pixiv](https://www.pixiv.net/users/12081/request)<br>【skeb】[Skeb](https://skeb.jp/@akiria)<br>【X】[X](https://x.com/akiria999) |
 
 <!--TEMPLATE:
 |  |  |  |  |
