@@ -7013,7 +7013,7 @@ example:
 | maki harukawa | 春川魔姬 | ![](https://ehgt.org/w/00/884/57865-5gmn1z92.webp)<br>春川魔姬是游戏《新弹丸论破V3 大家的相互厮杀新学期》中的虚拟角色。 |  |
 | pepper | 佩珀 | ![](https://pic.cangku.moe/images/2025/11/13/1uwak.png)<br>所属作品：`goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Pepper) |
 | duchess | 女爵（法环） | 所属作品：`elden ring nightreign` |  |
-| dizzy | 蒂姬 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ea/89/22116_crt_bNBZR.jpg)<br>所属作品：罪恶装备 |  |
+| dizzy | 蒂姬 | ![](https://static.wikia.nocookie.net/guilty-gear/images/d/d0/Dizzy_Guilty_Gear_Strive.png)<br>日语：ディズィー<br>所属作品：`guilty gear` |  |
 | shantae | 桑塔 | ![](https://tx-free-imgs.acfun.cn/o_1e9nviph71bno1dc6c6i1e164bs0.jpeg?imageslim)<br>所属作品：`shantae` |  |
 | vestia zeta | 维斯提亚·泽塔 | ![](https://img.moegirl.org.cn/common/1/11/VestiaZetaOriginal.png)<br>![](https://img.moegirl.org.cn/common/6/68/VestiaZetaKimono23.jpg)<br>![](https://img.moegirl.org.cn/common/0/0f/ZetaTraditionalCostume.png)<br>维斯提亚·泽塔（英语：Vestia Zeta；日语：ベスティア・ゼータ），是`p:hololive`印度尼西亚（hololive ID）三期生虚拟UP主中的一员，于2022年3月24日开始活动。 | [Fandom](https://virtualyoutuber.fandom.com/wiki/Vestia_Zeta)<br>[萌娘百科](https://zh.moegirl.org.cn/维斯提亚·泽塔) |
 | yurishia farandole | 优莉西亚·法兰德尔 | ![](https://ehgt.org/w/02/031/57956-6fmc9n8b.webp)<br>所属作品：`masou gakuen hxh` |  |
