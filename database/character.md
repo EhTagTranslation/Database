@@ -9289,6 +9289,7 @@ example:
 | durin | 杜林 | ![](https://static.wikia.nocookie.net/gensin-impact/images/2/23/Character_Durin_Full_Wish.png)<br>所属作品：`genshin impact` |  |
 | kaine | 凯妮 | ![](https://static.wikia.nocookie.net/nier/images/4/4b/NR2020_Kaine.png)<br>日语：カイネ<br>所属作品：`p:nier` |  |
 | jack-o valentine | 杰克-O'瓦伦丁 | ![](https://static.wikia.nocookie.net/guilty-gear/images/b/bf/Jack-O_Guilty_Gear_Strive.png)<br>日语：ジャック・オー=ヴァレンタイン<br>所属作品：`guilty gear` |  |
+| a.b.a | A.B.A | ![](https://static.wikia.nocookie.net/guilty-gear/images/3/31/ABA_Guilty_Gear_Strive.png)<br>日语：アバ<br>所属作品：`guilty gear` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
