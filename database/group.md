@@ -6604,7 +6604,7 @@ example:
 | kikonet | きこねっと |  |  |
 | kikuya | 姫玖屋 |  |  |
 | kikyou no hana no saku tokoro | 桔梗の花の咲くところ |  |  |
-| kill the king | きるきん |  |  |
+| kill the king | きるきん |  | [pixiv](https://www.pixiv.net/users/167786) \| [FANBOX](https://kirukin-cg.fanbox.cc/) \| [X](https://x.com/Kirukin_CG) |
 | killer bambi | KILLER BAMBI |  |  |
 | killkill michill | Killkill Michill |  |  |
 | kilometer | きろめーとる |  |  |
