@@ -4533,7 +4533,7 @@ example:
 | mio naruse | 成濑澪 | ![](https://i.pixiv.cat/img-master/img/2025/08/03/21/38/39/133454226_p0_master1200.jpg)<br>所属作品：`shinmai maou no testament`。<br>和名义上的妹妹成濑万理亚一起，企图欺骗东城迅，却遇到了勇者一族东城刃更，还因为缔结主仆契约意外成为了刃更的奴隶，从此受尽哥哥蹂躏调教。![] | [萌娘百科](https://zh.moegirl.org.cn/成濑澪) |
 | maria naruse | 成濑万理亚 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/05/02/06/29/03/129931758_p1_master1200.jpg)<br>所属作品：`shinmai maou no testament`。 | [萌娘百科](https://zh.moegirl.org.cn/成濑万理亚) [Fandom](https://shinmaimaou.fandom.com/wiki/Maria_Naruse) |
 | frederica baumann | 法兰黛莉卡·鲍曼 | ![](https://ehgt.org/w/02/280/76503-oqmk48u6.webp)<br>所属作品：`re zero kara hajimeru isekai seikatsu` | [萌娘百科](https://zh.moegirl.org.cn/法兰黛莉卡·鲍曼) |
-| ai hoshino | 星野爱 | 所属作品: `p:oshi no ko`<br><br>超越时代的偶像。偶像团体“B小町”的头牌，故事伊始时16岁，究极美少女，雷打不动的c位，演唱技巧和跳舞水平一般，演技亦平平，却拥有着难以言喻的吸引力。 | [萌娘百科](https://zh.moegirl.org.cn/星野爱) |
+| ai hoshino | 星野爱 | ![](https://static.wikia.nocookie.net/oshi_no_ko/images/f/fb/Ai_Hoshino_Anime_3.png)<br>所属作品: `p:oshi no ko` | [萌娘百科](https://zh.moegirl.org.cn/星野爱) |
 | toki asuma | 飞鸟马时 | ![](https://static.wikia.nocookie.net/blue-archive/images/b/b6/Toki_Schoolgirl_Portrait.png)<br>所属作品: `p:blue archive` | [Fandom](https://bluearchive.fandom.com/wiki/Asuma_Toki) \| [Gamekee](https://www.gamekee.com/ba/tj/584417.html) |
 | carol olston | 卡洛儿·奥尔斯顿 | ![](https://ehgt.org/w/02/124/36461-kii6igku.webp)<br>出自作品：`p:tomo-chan wa onnanoko`<br><br>漫画《智酱是女生！》的登场角色。 |  |
 | shiroko terror | 白子\*恐怖 | ![](https://static.wikia.nocookie.net/blue-archive/images/a/a1/Shiroko_Terror_Portrait.png)<br>所属作品: `p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/砂狼白子)<br>[基沃托斯古书馆](https://kivo.wiki/data/character/135) |
