@@ -4606,7 +4606,7 @@ example:
 | taeko minazuki | 水无月妙子 | 所属作品: `p:ai yori aoshi`<br><br>薰在大学里的学妹，摄影部成员，巨乳眼镜冒失娘。 | [Bangumi](https://bgm.tv/character/4586) |
 | amemiya nazuna | 飴宮なずな |  | [Fandom](https://virtualyoutuber.fandom.com/wiki/Amemiya_Nazuna) |
 | winter schnee | 温特·雪倪 | ![](https://static.wikia.nocookie.net/rwby/images/b/b4/WinterSchnee-V7C4.png)<br>所属作品：`rwby` | [萌娘百科](https://zh.moegirl.org.cn/Winter_Schnee) [Fandom](https://rwby.fandom.com/wiki/Winter_Schnee) |
-| ruby hoshino | 露比（星野瑠美衣） | ![](https://i.pixiv.cat/img-master/img/2025/08/05/19/07/47/133522342_p0_master1200.jpg)<br>所属作品：`oshi no ko` | [萌娘百科](https://zh.moegirl.org.cn/星野瑠美衣) [Fandom](https://oshinoko.fandom.com/wiki/Ruby_Hoshino) |
+| ruby hoshino | 露比（星野瑠美衣） | ![](https://static.wikia.nocookie.net/oshi_no_ko/images/e/e1/Ruby_Hoshino_Anime.png)<br>所属作品：`oshi no ko` | [萌娘百科](https://zh.moegirl.org.cn/星野瑠美衣) [Fandom](https://oshinoko.fandom.com/wiki/Ruby_Hoshino) |
 | roka maniwa | 马庭芦花 | 所属作品: `p:senren banka` | [萌娘百科](https://zh.moegirl.org.cn/马庭芦花) |
 | lysithea von cordelia | 莉丝缇亚·冯·科迪利亚 | 所属作品: `p:fire emblem three houses`<br><br>同盟科迪利亚伯爵家的嫡女。在本届入学学生中年龄最小，只有15岁。擅长魔法，是早熟的天才魔法少女，并且毫不骄傲，而是更加努力。她很讨厌被别人当作小孩子看待，不过经常透露出孩子气的一面。<br><br>![](https://static.wikia.nocookie.net/fireemblem/images/d/d5/Lysithea_Heroes.png) | [Fandom](https://fireemblem.fandom.com/wiki/Lysithea) |
 | tamako kitashirakawa | 北白川玉子 | 所属作品: `p:tamako market` | [萌娘百科](https://zh.moegirl.org.cn/北白川玉子) |
