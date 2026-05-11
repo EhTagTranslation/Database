@@ -9306,6 +9306,7 @@ example:
 | michiru yamada | 山田满 | ![](https://t.vndb.org/ch/49/19249.jpg)<br>日语：山田ミチル<br>出自作品：`p:toheart2` |  |
 | yuma tonami | 十波由真 | ![](https://t.vndb.org/ch/44/19144.jpg)<br>出自作品：`p:toheart2` |  |
 | karin sasamori | 笹森花梨 | ![](https://t.vndb.org/ch/42/19142.jpg)<br>日语：笹森花梨<br>出自作品：`p:toheart2` |  |
+| honami fujieda | 藤枝保奈美 | ![](https://t.vndb.org/ch/75/129775.jpg)<br>所属作品：`tsuki wa higashi ni hi wa nishi ni` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
