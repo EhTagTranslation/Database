@@ -15183,6 +15183,7 @@ example:
 | akiduki ria | 秋月リア |  | 【FANBOX】[FANBOX](https://akiria.fanbox.cc)<br>【PIXIVリクエスト】[pixiv](https://www.pixiv.net/users/12081/request)<br>【skeb】[Skeb](https://skeb.jp/@akiria)<br>【X】[X](https://x.com/akiria999) |
 | balut | ばろっと | イラストレーターです🎨\| kawaiiと金髪とツインテール大好き | [pixiv](https://www.pixiv.net/users/4161446) \| [FANBOX](http://t6j5jlk7.fanbox.cc) |
 | nukotto | ぬこっと |  | [X](https://x.com/nukotto5)<br>[pixiv](https://www.pixiv.net/users/111234447) |
+| kazehana yurari | 風花ゆらり |  | [X](https://x.com/KazahanaYurari) |
 
 <!--TEMPLATE:
 |  |  |  |  |
