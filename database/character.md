@@ -4060,7 +4060,7 @@ example:
 | taki | 多喜 | ![](https://static.wikia.nocookie.net/soulcalibur/images/1/16/Taki-soulcalibur6-artwork-by-takuji-kawano.jpg)<br>所属作品：`soulcalibur` |  |
 | yuzu hanaoka | 花冈柚子 | 千年科学学校所属，游戏开发部的部长。<br>![](https://patchwiki.biligame.com/images/ba/6/6c/3mbqaum18gcpwhh29gf84yialfawmgf.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Yuzu) |
 | iroha natsume | 枣伊吕波 | 格黑娜学园所属，「万魔殿」的议员之一。![](https://patchwiki.biligame.com/images/ba/9/98/e9y91bx4q1smkuuv3nwlmjnlxc2bip9.png) | [萌娘百科](https://zh.moegirl.org.cn/枣伊吕波)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Iroha) |
-| sasara kusugawa | 久寿川莎莎菈 |  |  |
+| sasara kusugawa | 久寿川莎莎菈 | ![](https://t.vndb.org/ch/64/19164.jpg)<br>日语：久寿川ささら<br>出自作品：`p:toheart2` |  |
 | maako asagiri | 朝雾麻亚子 |  |  |
 | amane | 亚麻音 |  |  |
 | setsu | 雪 |  |  |
