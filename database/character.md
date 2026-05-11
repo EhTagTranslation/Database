@@ -9294,6 +9294,7 @@ example:
 | giovanna | 乔凡娜 | ![](https://static.wikia.nocookie.net/guilty-gear/images/c/c7/Giovanna_Guilty_Gear_Strive.png)<br>日语：ジオヴァーナ<br>所属作品：`guilty gear` |  |
 | tsurugi kenzaki | 剑先鹤城 | ![](https://patchwiki.biligame.com/images/ba/6/66/pkdfqj467ei44b1z9ndjkluz2pkfqq6.png)<br>所属作品:`blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Tsurugi)<br>[萌娘百科](https://zh.moegirl.org.cn/剑先弦生) |
 | kanan takakiyo | 高洁迦楠 | ![](https://static.wikia.nocookie.net/kanansama-is-easy-as-hell/images/8/83/Kanan_anime_fullbody.png)<br>日语：高潔カナン<br>所属作品：`kanan-sama wa akumade choroi` |  |
+| miyu kato | 美优·卡托乌 | ![](https://static.wikia.nocookie.net/bravesaga7855/images/6/60/BBBB-Miyu.png)<br>日语：ミユ・カトウ<br>所属作品：`yuuki bakuhatsu bang bravern` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
