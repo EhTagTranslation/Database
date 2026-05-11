@@ -2742,7 +2742,7 @@ example:
 | zooey | 佐伊 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/c1/Zoom_3040564000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/c/cf/Zoom_3030233000_01.png)<br>所属作品：`granblue fantasy` |  |
 | natsu dragneel | 纳兹·多拉格尼尔 | ![](https://static.wikia.nocookie.net/fairytail/images/6/66/Natsu_2018.png)<br>所属作品：`fairy tail`<br>日文：エーテリアス・ナツ・ドラグニル |  |
 | kirara | 绮良良 | ![](https://patchwiki.biligame.com/images/ys/4/43/034jk985b8blbsnke010ptg690qbi8b.gif)<br>所属作品:`p:genshin impact`<br>稻妻快递公司「狛荷屋」的送货员，一只热爱自己工作、向往人类社会的「猫又」。 | 1.[萌娘百科](https://zh.moegirl.org.cn/绮良良) |
-| tamaki kousaka | 向坂环 | ![](https://ehgt.org/w/02/025/84286-9hu3z5qi.webp)<br>出自作品：`p:toheart2`<br><br>向坂环是日本美少女游戏《To Heart2》及其衍生作品中的主要角色，由声优伊藤静配音。 | [百度百科](https://baike.baidu.com/item/向坂环/2421375) |
+| tamaki kousaka | 向坂环 | ![](https://t.vndb.org/ch/37/19137.jpg)<br>出自作品：`p:toheart2` | [百度百科](https://baike.baidu.com/item/向坂环/2421375) |
 | sellma | 罗克珊努 |  |  |
 | ruida | 莉卡 |  |  |
 | mar | 梅亚 |  |  |
