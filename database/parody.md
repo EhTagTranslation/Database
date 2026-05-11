@@ -2832,7 +2832,7 @@ example:
 | dokyuu hentai hxeros | 弩级战队HXEROS | ![](https://static.wikia.nocookie.net/hxeros/images/0/0e/Poster_Anime.png)<br>日语：ド級編隊エグゼロス<br>北田龙马创作的漫画作品，并有改编动画。 |  |
 | i my me strawberry eggs | 青春草莓蛋 | 《青春草莓蛋》（别名：I My Me草莓蛋）是由山口佑司执导、TNK制作的日本校园题材电视动画，于2001年7月至9月播出，全13集。 | [百度百科](https://baike.baidu.com/item/青春草莓蛋/6081399) |
 | amairo islenauts | 天色幻想岛 | 柚子社游戏 |  |
-| kanan-sama wa akumade choroi | 迦楠大人的白给是恶魔级 | ![](https://upload.wikimedia.org/wikipedia/en/9/9e/Kanan-sama_wa_Akumade_Choroi_volume_1_cover.jpg)<br>nonco创作的漫画作品，并有改编动画。 |  |
+| kanan-sama wa akumade choroi | 迦楠大人的白给是恶魔级 | ![](https://static.wikia.nocookie.net/dubbing9585/images/d/da/Mistress_Kanan_is_Devilishly_Easy.jpg)<br>Nonco创作的漫画作品，并有改编动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
