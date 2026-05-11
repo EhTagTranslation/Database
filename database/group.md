@@ -4505,7 +4505,7 @@ example:
 | electrical | エレクトリカル |  |  |
 | electricsheep | ElectricSheep |  |  |
 | elephant.giraffe | ELEPHANT.GIRAFFE |  |  |
-| elf | エルフ |  |  |
+| elf | エルフ |  | [Getchu.com](https://www.getchu.com/php/search.phtml?search_brand_id=103905) |
 | elfin facies | Elfin Facies |  |  |
 | elflite | elflite |  |  |
 | elhearts | ELHEART'S |  |  |
