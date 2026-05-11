@@ -9300,6 +9300,7 @@ example:
 | manaka komaki | 小牧爱佳 | ![](https://t.vndb.org/ch/47/19147.jpg)<br>日语：小牧愛佳<br>出自作品：`p:toheart2` |  |
 | chie yoshioka | 吉冈千惠 | ![](https://t.vndb.org/ch/48/19248.jpg)<br>日语：吉岡チエ<br>出自作品：`p:toheart2` |  |
 | konomi yuzuhara | 柚原木实 | ![](https://t.vndb.org/ch/39/19139.jpg)<br>日语：柚原このみ<br>出自作品：`p:toheart2` |  |
+| ikuno komaki | 小牧郁乃 | ![](https://t.vndb.org/ch/66/19166.jpg)<br>出自作品：`p:toheart2` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
