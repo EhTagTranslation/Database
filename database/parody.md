@@ -2834,6 +2834,7 @@ example:
 | amairo islenauts | 天色幻想岛 | 柚子社游戏 |  |
 | kanan-sama wa akumade choroi | 迦楠大人的白给是恶魔级 | ![](https://static.wikia.nocookie.net/dubbing9585/images/d/da/Mistress_Kanan_is_Devilishly_Easy.jpg)<br>Nonco创作的漫画作品，并有改编动画。 |  |
 | kamichu | 神是中学生 | ![](https://upload.wikimedia.org/wikipedia/en/9/9b/Kamichu_DVD1.jpg) |  |
+| kaleido star | 百变之星 | ![](https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A1805-2599960741.1431282739.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
