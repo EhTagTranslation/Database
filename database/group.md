@@ -13922,6 +13922,7 @@ example:
 | cure maimai | キュアマイマイ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204598/) |
 | itomitsudou | 糸蜜堂 |  |  |
 | shikotissue penguin | シコティッシュペンギン |  |  |
+| nuko no sato | ぬこのさと | `a:nukotto`使用的同人社团名 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
