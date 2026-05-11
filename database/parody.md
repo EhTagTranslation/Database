@@ -2835,6 +2835,7 @@ example:
 | kanan-sama wa akumade choroi | 迦楠大人的白给是恶魔级 | ![](https://static.wikia.nocookie.net/dubbing9585/images/d/da/Mistress_Kanan_is_Devilishly_Easy.jpg)<br>Nonco创作的漫画作品，并有改编动画。 |  |
 | kamichu | 神是中学生 | ![](https://upload.wikimedia.org/wikipedia/en/9/9b/Kamichu_DVD1.jpg) |  |
 | kaleido star | 百变之星 | ![](https://cdn.animenewsnetwork.com/thumbnails/max500x600/encyc/A1805-2599960741.1431282739.jpg) |  |
+| 9-nine- | 9-nine | ![](https://9-nine-project.com/wp/wp-content/themes/nine-project/assets/images/sp/character/img_chara_all.png)<br>《9-nine-》是日本PALETTE（调色板）社自2017年起推出的文字冒险游戏系列，采用分割商法发售了多部作品。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
