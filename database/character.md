@@ -9297,6 +9297,7 @@ example:
 | miyu kato | 美优·卡托乌 | ![](https://static.wikia.nocookie.net/bravesaga7855/images/6/60/BBBB-Miyu.png)<br>日语：ミユ・カトウ<br>所属作品：`yuuki bakuhatsu bang bravern` |  |
 | nagisa kashiwagi | 柏木渚 | ![](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/4/43/KashiwagiAnime.png)<br>所属作品：`kaguya-sama wa kokurasetai` |  |
 | takaaki kouno | 河野贵明 | ![](https://t.vndb.org/ch/45/19145.jpg)<br>所属作品：`toheart2` |  |
+| manaka komaki | 小牧爱佳 | ![](https://t.vndb.org/ch/47/19147.jpg)<br>日语：小牧愛佳<br>出自作品：`p:toheart2` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
