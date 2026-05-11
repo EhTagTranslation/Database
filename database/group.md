@@ -10030,7 +10030,7 @@ example:
 | sankaku doumei | さんかく同盟 |  |  |
 | sanketsushuu | 酸欠集 |  |  |
 | sankyaku rasen | 三脚ラセン |  |  |
-| sannyuutei | 三乳亭 |  |  |
+| sannyuutei | 三乳亭 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG21213.html) |
 | sanolemoon | Sanolemoon |  |  |
 | sanryuu club | 三流倶楽部 |  |  |
 | sanryuu kaigishitsu | 三流会議室 |  |  |
