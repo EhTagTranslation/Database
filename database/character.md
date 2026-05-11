@@ -9295,6 +9295,7 @@ example:
 | tsurugi kenzaki | 剑先鹤城 | ![](https://patchwiki.biligame.com/images/ba/6/66/pkdfqj467ei44b1z9ndjkluz2pkfqq6.png)<br>所属作品:`blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Tsurugi)<br>[萌娘百科](https://zh.moegirl.org.cn/剑先弦生) |
 | kanan takakiyo | 高洁迦楠 | ![](https://static.wikia.nocookie.net/kanansama-is-easy-as-hell/images/8/83/Kanan_anime_fullbody.png)<br>日语：高潔カナン<br>所属作品：`kanan-sama wa akumade choroi` |  |
 | miyu kato | 美优·卡托乌 | ![](https://static.wikia.nocookie.net/bravesaga7855/images/6/60/BBBB-Miyu.png)<br>日语：ミユ・カトウ<br>所属作品：`yuuki bakuhatsu bang bravern` |  |
+| nagisa kashiwagi | 柏木渚 | ![](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/4/43/KashiwagiAnime.png)<br>所属作品：`kaguya-sama wa kokurasetai` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
