@@ -6255,7 +6255,7 @@ example:
 | k plus w | K+W |  |  |
 | k plus y equals k | K+Y=K |  |  |
 | k-1 | K-1 |  |  |
-| k-ten | K-てん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG14667.html) |
+| k-ten | K-てん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG14667.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26447/) |
 | k.a.d | K.A.D |  |  |
 | k.f.d. | K.F.D. |  |  |
 | k.h.r | K.H.R |  |  |
