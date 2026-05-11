@@ -14425,7 +14425,7 @@ example:
 | mayutsuba mono | 眉唾モノ |  |  |
 | yug | YUG |  |  |
 | pokeeti | PokeEti |  |  |
-| panda shizuku | パンダシズク |  |  |
+| panda shizuku | パンダシズク |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=208661/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01004555.html) \| [FANBOX](https://panda-shizuku.fanbox.cc/) \| [X](https://x.com/panda_shizuku3) \| [pixiv](https://www.pixiv.net/users/95254749) \| [Lit.Link](https://lit.link/en/pantsushizuku) |
 | chiyori | ちより |  |  |
 | hattori psycho | 這禽サイコ |  |  |
 | koyado keroyon | 鈷矢毒けろよん |  |  |
