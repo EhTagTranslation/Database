@@ -5863,7 +5863,7 @@ example:
 | huri-neko | ふりかえればねこがいる |  |  |
 | hutoshi nyuugyou | ふとし乳業 |  |  |
 | huzinami koubou | 藤波工房 |  |  |
-| hy-dou | 灰同 |  |  |
+| hy-dou | 灰同 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=22910/) |
 | hyakkarou no tanuki | 百華楼の狸 |  |  |
 | hyakuen nikuniku | 百元肉々 |  |  |
 | hyakuitishiki | 百壱式 |  |  |
