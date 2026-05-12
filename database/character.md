@@ -9309,6 +9309,7 @@ example:
 | honami fujieda | 藤枝保奈美 | ![](https://t.vndb.org/ch/75/129775.jpg)<br>所属作品：`tsuki wa higashi ni hi wa nishi ni` |  |
 | nanako | 菜菜子 \| 奈奈子 | 泛用译名，无特指。 |  |
 | junpei iori | 伊织顺平 | ![](https://static.wikia.nocookie.net/megamitensei/images/e/e5/Junpei_Iori.png/revision/latest?cb=20230205052918)<br>出自作品：`p:persona 3`<br><br>伊织顺平（日语：伊織順平 / いおりじゅんぺい）是由Atlus旗下的游戏《女神异闻录》系列的正传作品《女神异闻录3》及其衍生作品的主要角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊织顺平) \| [Fandom](https://megamitensei.fandom.com/wiki/Junpei_Iori) |
+| avywenna | 艾维文娜 | ![](https://endfield.wiki.gg/images/thumb/Avywenna_Splash_Art.png/1280px-Avywenna_Splash_Art.png?48e0ca)<br>所属作品：`arknights endfield` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
