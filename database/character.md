@@ -9311,6 +9311,7 @@ example:
 | junpei iori | 伊织顺平 | ![](https://static.wikia.nocookie.net/megamitensei/images/e/e5/Junpei_Iori.png/revision/latest?cb=20230205052918)<br>出自作品：`p:persona 3`<br><br>伊织顺平（日语：伊織順平 / いおりじゅんぺい）是由Atlus旗下的游戏《女神异闻录》系列的正传作品《女神异闻录3》及其衍生作品的主要角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊织顺平) \| [Fandom](https://megamitensei.fandom.com/wiki/Junpei_Iori) |
 | avywenna | 艾维文娜 | ![](https://endfield.wiki.gg/images/thumb/Avywenna_Splash_Art.png/1280px-Avywenna_Splash_Art.png?48e0ca)<br>所属作品：`arknights endfield` |  |
 | maysia kwo | 梅西亚·库奥 | ![](https://static.wikia.nocookie.net/typemoon/images/2/26/Quartet_Fate_strange_Fake_character_sheet_1.png)<br>日语：メイシア・クオ<br>所属作品：`fate strange fake` |  |
+| suki | 苏琪 | ![](https://m.media-amazon.com/images/I/81dw7v2dGpL._AC_UF1000,1000_QL80_.jpg)<br>所属作品：`avatar the last airbender` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
