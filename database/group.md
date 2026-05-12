@@ -13924,6 +13924,7 @@ example:
 | shikotissue penguin | シコティッシュペンギン |  |  |
 | nuko no sato | ぬこのさと | `a:nukotto`使用的同人社团名 |  |
 | hokkyoku ichigou | 北极一号 |  |  |
+| harigon | ハリゴン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
