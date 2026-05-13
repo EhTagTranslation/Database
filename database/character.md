@@ -7563,7 +7563,7 @@ example:
 | naomi inoue | 井上直美 | ![](https://patchwiki.biligame.com/images/loststories/2/27/pxszjj3vte1u6c8aubk6fyrz356ldt6.png)<br>所属作品：`code geass` |  |
 | est | 爱丝特 | ①![](https://static.wikia.nocookie.net/seirei-tsukai-no-blade-dance/images/e/e1/Terminus_Est_%28Anime%29.png)<br>所属作品：`bladedance of elementalers`<br><br>②![](https://static.wikia.nocookie.net/fireemblem/images/8/80/Est_Echoes.png/revision/latest?cb=20170405133354)<br>日文：エスト<br>所属作品：`fire emblem mystery of the emblem` | [Fandom](https://fireemblem.fandom.com/wiki/Est) |
 | palla | 帕奥拉 | ![](https://static.wikia.nocookie.net/fireemblem/images/b/b2/Palla_Echoes.png/revision/latest?cb=20170413051128)<br>日文：パオラ<br>登场于：`fire emblem mystery of the emblem` 和 `fire emblem gaiden` | [Fandom](https://fireemblem.fandom.com/wiki/Palla) |
-| marianne vi britannia | 玛莉安娜·V·布里塔尼亚 | ![](https://img.moegirl.org.cn/common/1/15/Malianna_01.PNG)<br>所属作品：`code geass`<br>布里塔尼亚帝国第98代皇帝查理·Zi·布里塔尼亚之妃，骑士候。同时以智慧和军功备受瞩目。鲁路修和娜娜莉的母亲。 |  |
+| marianne vi britannia | 玛莉安娜·V·布里塔尼亚 | ![](https://static.wikitide.net/geasswiki/8/8e/Marianne_vi_britannia_orange_dress_front_color_settei.png)<br>所属作品：`code geass` |  |
 | tianzi | 天子（蒋丽华） | ![](https://img.moegirl.org.cn/common/e/e8/Tian_Zi.jpg)<br>所属作品：`code geass`<br>蒋丽华是中华联邦第89代天子，位居中华联邦最高领袖，但国家的大权事实上掌握在大宦官们手中。 |  |
 | odysseus eu britannia | 奥德修斯·eu·布里塔尼亚 | ![](https://patchwiki.biligame.com/images/loststories/9/9b/c6tk6m7sj0ti46it3904m2cncx11m8o.png)<br>所属作品：`code geass`<br>神圣布里塔尼亚帝国普通的第一皇子，普通的皇储。 |  |
 | gino weinberg | 吉诺·温伯格 | ![](https://patchwiki.biligame.com/images/loststories/e/e4/326bunfbcx4jztwy0f719m5qpmicmsg.png)<br>所属作品：`code geass`<br>神圣不列颠帝国名门瓦茵拜鲁古家族第四子，圆桌骑士团第三骑士。 |  |
