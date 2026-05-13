@@ -9313,6 +9313,7 @@ example:
 | maysia kwo | 梅西亚·库奥 | ![](https://static.wikia.nocookie.net/typemoon/images/2/26/Quartet_Fate_strange_Fake_character_sheet_1.png)<br>日语：メイシア・クオ<br>所属作品：`fate strange fake` |  |
 | suki | 苏琪 | ![](https://m.media-amazon.com/images/I/81dw7v2dGpL._AC_UF1000,1000_QL80_.jpg)<br>所属作品：`avatar the last airbender` |  |
 | mjurran | 缪兰·法鲁梅纳斯 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/5/5d/Myulan_Anime.png)<br>日语：ミュウ・ファルメナス<br>所属作品：`tensei shitara slime datta ken` |  |
+| carrera | 卡蕾拉 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/9/95/Carrera_LN.png)<br>日语：カレラ<br>所属作品：`tensei shitara slime datta ken` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
