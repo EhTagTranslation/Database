@@ -9318,6 +9318,7 @@ example:
 | kisa tachibana | 立花希佐 |  |  |
 | soshiro yonaga | 世长创司郎 | 世長 創司郎 |  |
 | oldrin zevon | 奥尔德琳·泽冯 | ![](https://patchwiki.biligame.com/images/loststories/thumb/9/93/rp5bqutu28v3d3juxmsjqw77eb9627c.png/1575px-奥尔德琳·泽冯-翩然降临的真红骑士卡面2.png)<br>日语：オルドリン・ジヴォン<br>所属作品：`code geass` |  |
+| hiroshi agasa | 阿笠博士 | ![](https://static.wikia.nocookie.net/caseclosed/images/0/07/Hiroshi_Agasa_Detective_Conan.webp)<br>所属作品：`detective conan` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
