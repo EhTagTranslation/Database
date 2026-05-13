@@ -13928,6 +13928,7 @@ example:
 | ichiji ga banji | 一事即万事 | 一事が万事 |  |
 | mijiishi | みじいし |  |  |
 | zpoliceillustration | zpoliceillustration |  |  |
+| omukaiza | おむかい座 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47840.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
