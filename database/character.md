@@ -9315,6 +9315,7 @@ example:
 | mjurran | 缪兰·法鲁梅纳斯 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/5/5d/Myulan_Anime.png)<br>日语：ミュウ・ファルメナス<br>所属作品：`tensei shitara slime datta ken` |  |
 | carrera | 卡蕾拉 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/9/95/Carrera_LN.png)<br>日语：カレラ<br>所属作品：`tensei shitara slime datta ken` |  |
 | misery | 米萨莉 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/3/34/Misery_Anime.png)<br>日语：ミザリー<br>所属作品：`tensei shitara slime datta ken` |  |
+| kisa tachibana | 立花希佐 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
