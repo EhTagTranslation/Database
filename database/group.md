@@ -13926,6 +13926,7 @@ example:
 | hokkyoku ichigou | 北极一号 |  |  |
 | harigon | ハリゴン |  |  |
 | ichiji ga banji | 一事即万事 | 一事が万事 |  |
+| mijiishi | みじいし |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
