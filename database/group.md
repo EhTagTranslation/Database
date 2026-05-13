@@ -13927,6 +13927,7 @@ example:
 | harigon | ハリゴン |  |  |
 | ichiji ga banji | 一事即万事 | 一事が万事 |  |
 | mijiishi | みじいし |  |  |
+| zpoliceillustration | zpoliceillustration |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
