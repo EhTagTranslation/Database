@@ -13932,6 +13932,7 @@ example:
 | morning tea. | 午前の紅茶。 | 海老原べにこ之前使用的社团名称，现在是べにまる水産，但是booth网址中依然为morning tea。 |  |
 | koubai nadeshiko | 红梅抚子 |  |  |
 | kohinata salon | こひなたサロン |  |  |
+| patsu patsu studio | ぱつぱつスタジオ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=221308/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
