@@ -15189,6 +15189,7 @@ example:
 | shirai | 白ゐ |  |  |
 | zpolice | zpolice |  |  |
 | kamimura sumiko | 上村纯子 |  |  |
+| kuuneru kokoro | くぅねる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
