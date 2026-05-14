@@ -13931,6 +13931,7 @@ example:
 | omukaiza | おむかい座 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47840.html) |
 | morning tea. | 午前の紅茶。 | 海老原べにこ之前使用的社团名称，现在是べにまる水産，但是booth网址中依然为morning tea。 |  |
 | koubai nadeshiko | 红梅抚子 |  |  |
+| kohinata salon | こひなたサロン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
