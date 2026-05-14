@@ -13928,7 +13928,7 @@ example:
 | ichiji ga banji | 一事即万事 | 一事が万事 |  |
 | mijiishi | みじいし |  |  |
 | zpoliceillustration | zpoliceillustration |  |  |
-| omukaiza | おむかい座 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47840.html) |
+| omukaiza | おむかい座 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47840.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78805/) |
 | morning tea. | 午前の紅茶。 | 海老原べにこ之前使用的社团名称，现在是べにまる水産，但是booth网址中依然为morning tea。 |  |
 | koubai nadeshiko | 红梅抚子 |  |  |
 | kohinata salon | こひなたサロン |  |  |
