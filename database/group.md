@@ -13933,6 +13933,7 @@ example:
 | koubai nadeshiko | 红梅抚子 |  |  |
 | kohinata salon | こひなたサロン |  |  |
 | patsu patsu studio | ぱつぱつスタジオ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=221308/) |
+| smells like | すめるすらいく |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201842/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
