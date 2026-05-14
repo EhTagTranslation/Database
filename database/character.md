@@ -9322,6 +9322,7 @@ example:
 | liltotto lamperd | 莉托托·兰帕朵 | ![](https://static.wikia.nocookie.net/bleach/images/b/b3/Ep387LiltottoProfileB.png/revision/latest?cb=20230924011604&path-prefix=en)<br>出自作品：`p:bleach`<br><br>莉托托·兰帕朵（英文：Liltotto Lamperd）是久保带人所著漫画《BLEACH》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/莉托托·兰帕朵) \| [Fandom](https://bleach.fandom.com/wiki/Liltotto_Lamperd) |
 | meninas mcallon | 米妮娜·麦卡龙 | ![](https://static.wikia.nocookie.net/bleach/images/a/a0/Ep389MeninasProfileB.png/revision/latest?cb=20230916190830&path-prefix=en)<br>出自作品：`p:bleach`<br><br>米妮娜·麦卡龙（Meninas McAllon）是日本漫画《BLEACH》（死神）及其衍生作品《千年血战篇》中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/米妮娜·麦卡龙) \| [Fandom](https://bleach.fandom.com/wiki/Meninas_McAllon) |
 | asako kusakabe | 日下部麻子 | ![](https://static.wikia.nocookie.net/grisaia/images/f/fb/Asako_Kusakabe.png)<br>所属作品：`grisaia no kajitsu` |  |
+| yuria harudera | 春寺由梨亚 | ![](https://static.wikia.nocookie.net/grisaia/images/5/50/Yuria_Harudera.jpg)<br>日语：春寺由梨亜<br>所属作品：`grisaia no kajitsu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
