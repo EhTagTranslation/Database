@@ -6535,7 +6535,7 @@ example:
 | san jacinto | 圣哈辛托 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/article/5369b5ee8e9888733da549dfe7ae9a3d298252208.png) | [维基百科](https://zh.wikipedia.org/wiki/聖哈辛托號航空母艦)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/圣哈辛托)<br>[https://www.zjsnrwiki.com/wiki/圣哈辛托](https://www.zjsnrwiki.com/wiki/圣哈辛托) |
 | michiru matsushima | 松岛满 | frontwing灰色系列作品女主之一 |  |
 | kazuki kazami | 风见一姬 | 風見一姫，萝莉姐姐，冷淡，白发紫瞳，味甘，不可食用是frontwing公司灰色系列作品女主角之一，男主风见雄二的姐姐。我好喜欢她啊！！！ |  |
-| yuuji kazami | 风见雄二 | frontwing灰色系列作品男主角（，推土机）。 |  |
+| yuuji kazami | 风见雄二 | ![](https://static.wikia.nocookie.net/grisaia/images/1/12/Yuujipic.png)<br>日语：風見雄二<br>所属作品：`grisaia no kajitsu` |  |
 | shimanto | 四万十 (虒) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/45d2217485c85e32335a21e9cf824fbb262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/四万十)<br>[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:四万十) |
 | agnes | 阿妮埃斯 |  |  |
 | hanako-san | 花子小姐 |  |  |
