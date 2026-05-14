@@ -15190,6 +15190,7 @@ example:
 | zpolice | zpolice |  |  |
 | kamimura sumiko | 上村纯子 |  |  |
 | kuuneru kokoro | くぅねる |  |  |
+| patsu patsu | ぱつぱつ |  | [X](https://x.com/patsu787) |
 
 <!--TEMPLATE:
 |  |  |  |  |
