@@ -9320,6 +9320,7 @@ example:
 | oldrin zevon | 奥尔德琳·泽冯 | ![](https://patchwiki.biligame.com/images/loststories/thumb/9/93/rp5bqutu28v3d3juxmsjqw77eb9627c.png/1575px-奥尔德琳·泽冯-翩然降临的真红骑士卡面2.png)<br>日语：オルドリン・ジヴォン<br>所属作品：`code geass` |  |
 | hiroshi agasa | 阿笠博士 | ![](https://static.wikia.nocookie.net/caseclosed/images/0/07/Hiroshi_Agasa_Detective_Conan.webp)<br>所属作品：`detective conan` |  |
 | liltotto lamperd | 莉托托·兰帕朵 | ![](https://static.wikia.nocookie.net/bleach/images/b/b3/Ep387LiltottoProfileB.png/revision/latest?cb=20230924011604&path-prefix=en)<br>出自作品：`p:bleach`<br><br>莉托托·兰帕朵（英文：Liltotto Lamperd）是久保带人所著漫画《BLEACH》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/莉托托·兰帕朵) \| [Fandom](https://bleach.fandom.com/wiki/Liltotto_Lamperd) |
+| meninas mcallon | 米妮娜·麦卡龙 | ![](https://static.wikia.nocookie.net/bleach/images/a/a0/Ep389MeninasProfileB.png/revision/latest?cb=20230916190830&path-prefix=en)<br>出自作品：`p:bleach`<br><br>米妮娜·麦卡龙（Meninas McAllon）是日本漫画《BLEACH》（死神）及其衍生作品《千年血战篇》中的登场角色。 | [Fandom](https://bleach.fandom.com/wiki/Meninas_McAllon) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
