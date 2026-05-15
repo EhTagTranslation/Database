@@ -2838,6 +2838,7 @@ example:
 | 9-nine- | 9-nine | ![](https://9-nine-project.com/wp/wp-content/themes/nine-project/assets/images/sp/character/img_chara_all.png)<br>《9-nine-》是日本PALETTE（调色板）社自2017年起推出的文字冒险游戏系列，采用分割商法发售了多部作品。 |  |
 | jack jeanne | 杰克 • 珍妮 | 一款乙女恋爱游戏 |  |
 | ruri dragon | 琉璃龙龙 | 《琉璃龙龙》（日语：ルリドラゴン）是由日本漫画家真藤雅兴所创作的奇幻漫画作品，2022年6月13日起在集英社的《周刊少年Jump》2022年28号上连载，因作者身体健康缘故一度长期休载，于2024年14号恢复连载。剧情讲述平凡的高中生青木琉璃某日头顶突然长出一对角，甚至能口吐火焰，此时母亲才告知她原来是人和龙的孩子，此后导致琉璃的生活发生了天翻地覆的变化。 |  |
+| resort boin | 度假村Boin | ![](https://upload.wikimedia.org/wikipedia/zh/8/88/Resort_Boin_game_cover.jpg)<br>日语：リゾートBOIN |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
