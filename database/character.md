@@ -9331,6 +9331,7 @@ example:
 | seijuurou akashi | 赤司征十郎 | ![](https://lain.bgm.tv/r/400/pic/crt/l/57/5f/15801_crt_bvlXY.jpg)<br>日语：あかし せいじゅうろう<br>所属作品：`kuroko no basuke` |  |
 | chihiro mayuzumi | 黛千寻 | ![](https://lain.bgm.tv/r/400/pic/crt/l/5d/94/39334_crt_1E2DW.jpg?r=1457434413)<br>日语：まゆずみ ちひろ<br>所属作品：`kuroko no basuke` |  |
 | kazunari takao | 高尾和成 | ![](https://lain.bgm.tv/r/400/pic/crt/l/c9/04/15800_crt_DOHp1.jpg)<br>日语：たかお かずなり<br>所属作品：`kuroko no basuke` |  |
+| shintarou midorima | 绿间真太郎 | ![](https://static.wikia.nocookie.net/kurokonobasuke/images/7/77/Shintaro_Midorima_anime.png)<br>日语：みどりま しんたろう<br>所属作品：`kuroko no basuke` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
