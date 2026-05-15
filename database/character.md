@@ -9329,6 +9329,7 @@ example:
 | ryouta kise | 黄濑凉太 | ![](https://lain.bgm.tv/r/400/pic/crt/l/22/32/15196_crt_ib9fN.jpg)<br>日语：きせりょうた<br>所属作品：`kuroko no basuke` |  |
 | kouki furihata | 降旗光树 | ![](https://lain.bgm.tv/r/400/pic/crt/l/9a/14/65898_crt_vp1A3.jpg?r=1536023761)<br>日语：降旗 光樹<br>所属作品：`kuroko no basuke` |  |
 | seijuurou akashi | 赤司征十郎 | ![](https://lain.bgm.tv/r/400/pic/crt/l/57/5f/15801_crt_bvlXY.jpg)<br>日语：あかし せいじゅうろう<br>所属作品：`kuroko no basuke` |  |
+| chihiro mayuzumi | 黛千寻 | ![](https://lain.bgm.tv/r/400/pic/crt/l/5d/94/39334_crt_1E2DW.jpg?r=1457434413)<br>日语：まゆずみ ちひろ<br>所属作品：`kuroko no basuke` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
