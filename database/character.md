@@ -9328,6 +9328,7 @@ example:
 | riko aida | 相田丽子 | ![](https://ehgt.org/w/02/383/70123-rzyoout8.webp)<br>日语：相田 リコ<br>所属作品：`kuroko no basuke` |  |
 | ryouta kise | 黄濑凉太 | ![](https://lain.bgm.tv/r/400/pic/crt/l/22/32/15196_crt_ib9fN.jpg)<br>日语：きせりょうた<br>所属作品：`kuroko no basuke` |  |
 | kouki furihata | 降旗光树 | ![](https://lain.bgm.tv/r/400/pic/crt/l/9a/14/65898_crt_vp1A3.jpg?r=1536023761)<br>日语：降旗 光樹<br>所属作品：`kuroko no basuke` |  |
+| seijuurou akashi | 赤司征十郎 | ![](https://lain.bgm.tv/r/400/pic/crt/l/57/5f/15801_crt_bvlXY.jpg)<br>日语：あかし せいじゅうろう<br>所属作品：`kuroko no basuke` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
