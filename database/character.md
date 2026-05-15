@@ -4332,7 +4332,7 @@ example:
 | miya chinen | 知念实也 |  |  |
 | koushi sugawara | 菅原孝支 |  | [Fandom Wiki](https://haikyuu.fandom.com/wiki/Kōshi_Sugawara) |
 | shoyo hinata | 日向翔阳 |  | [Fandom Wiki](https://haikyuu.fandom.com/wiki/Shōyō_Hinata) |
-| taiga kagami | 火神大我 |  |  |
+| taiga kagami | 火神大我 | ![](https://lain.bgm.tv/r/400/pic/crt/l/f4/14/15186_crt_IgUQF.jpg)<br>日语：かがみ たいが<br>所属作品：`kuroko no basuke` |  |
 | tetsuya kuroko | 黑子哲也 | ![](https://static.wikia.nocookie.net/kurokonobasuke/images/a/ac/Kuroko_during_WC.png)<br>日语：黒子テツヤ<br>所属作品：`kuroko no basuke` |  |
 | daiki aomine | 青峰大辉 | ![](https://lain.bgm.tv/r/400/pic/crt/l/3d/72/15804_crt_wLPCJ.jpg)<br>日语：あおみね だいき<br>所属作品：`kuroko no basuke` |  |
 | haruka nanase | 七濑遥 |  |  |
