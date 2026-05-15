@@ -15192,6 +15192,7 @@ example:
 | kuuneru kokoro | くぅねる |  |  |
 | patsu patsu | ぱつぱつ |  | [X](https://x.com/patsu787) |
 | hoshikawa lange | 星川ランガ |  |  |
+| shikeida | しけいだ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
