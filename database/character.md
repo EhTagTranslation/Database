@@ -9324,6 +9324,7 @@ example:
 | asako kusakabe | 日下部麻子 | ![](https://static.wikia.nocookie.net/grisaia/images/f/fb/Asako_Kusakabe.png)<br>所属作品：`grisaia no kajitsu` |  |
 | yuria harudera | 春寺由梨亚 | ![](https://static.wikia.nocookie.net/grisaia/images/5/50/Yuria_Harudera.jpg)<br>日语：春寺由梨亜<br>所属作品：`grisaia no kajitsu` |  |
 | ruri aoki | 青木琉璃 | 本作主角，人类与龙的混血女高中生 |  |
+| eureka | 艾蕾卡 | ![](https://static.wikia.nocookie.net/eurekaseven/images/a/ac/Normal_eureka.jpg)<br>日语：エウレカ<br>所属作品：`eureka 7` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
