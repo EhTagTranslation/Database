@@ -13936,6 +13936,7 @@ example:
 | smells like | すめるすらいく |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201842/) |
 | niche no sacchi | ニッチの察知 |  |  |
 | diamond magnum | ダイヤモンドマグナム |  |  |
+| torobakoya | とろ箱屋 |  | [FANBOX](https://www.fanbox.cc/@torobakoya) \| [pixiv](https://www.pixiv.net/users/618515) \| [Fantia](https://fantia.jp/fanclubs/489011) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49531.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
