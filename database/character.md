@@ -7737,7 +7737,7 @@ example:
 | akemi miyano | 宫野明美 | ![](https://www.detectiveconanworld.com/wiki/images/a/af/Akemi_Miyano_Profile.jpg)<br>宫野明美是漫画《`detective conan`》及其衍生作品的登场角色。`c:ai haibara`的姐姐。 | [萌娘百科](https://zh.moegirl.org.cn/宫野明美)<br>[Fandom](https://detectiveconan.fandom.com/zh/wiki/宫野明美) |
 | aoko nakamori | 中森青子 | ![](https://www.detectiveconanworld.com/wiki/images/1/19/Aoko_personality.PNG)<br>所属作品：`p:magic kaito`，在`p:detective conan`也有出场 | [萌娘百科](https://zh.moegirl.org.cn/中森青子)<br>[Fandom](https://detectiveconan.fandom.com/wiki/Aoko_Nakamori) |
 | azusa enomoto | 榎本梓 | ![](https://static.wikia.nocookie.net/bishojodate/images/6/62/15387.png/revision/latest?cb=20140712142738&path-prefix=zh)<br>所属作品：`detective conan` | [萌娘百科](https://zh.moegirl.org.cn/榎本梓) |
-| naeko miike | 三池苗子 | ![](https://static.wikia.nocookie.net/caseclosed/images/9/95/Naeko_Miike.jpg/revision/latest?cb=20240818035625)<br>所属作品：`detective conan` | [萌娘百科](https://zh.moegirl.org.cn/三池苗子) |
+| naeko miike | 三池苗子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d1/46/17783_crt_WWPzL.jpg?r=1741600107)<br>日语：みいけ なえこ<br>所属作品：`detective conan` | [萌娘百科](https://zh.moegirl.org.cn/三池苗子) |
 | yumi miyamoto | 宫本由美 | ![](https://bkimg.cdn.bcebos.com/pic/7aec54e736d12f2eb93823f0fe9ac2628535e5ddc250?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20)<br>所属作品：`detective conan` | [萌娘百科](https://zh.moegirl.org.cn/宫本由美) |
 | wraith | 恶灵 | ![](https://ehgt.org/w/02/035/29615-f8s4a5yn.webp)<br>所属作品：`apex legends`<br>全名是芮妮‧霍普‧布莱希。 |  |
 | wattson | 沃特森 | 所属作品：`apex legends`<br>全名娜塔莉·沃特森·帕奎特 |  |
