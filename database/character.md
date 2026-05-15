@@ -1723,7 +1723,7 @@ example:
 | sonoko suzuki | 铃木园子 | ![](https://storage.moegirl.org.cn/moegirl/commons/d/d8/Sonoko.jpg)<br>所属作品：`detective conan`<br>铃木财团的次女。作为毛利兰的同学及好友初登场，并在作品早期基本以毛利兰的陪同者出现。 | [萌娘百科](https://zh.moegirl.org.cn/铃木园子) |
 | eri kisaki | 妃英理 | 所属作品：`detective conan`<br>![](https://ehgt.org/w/01/879/59745-fd3hj3db.webp)<br>毛利小五郎的前妻，毛利兰的母亲。 |  |
 | jodie starling | 茱蒂·斯泰琳 | ![](https://lain.bgm.tv/r/400/pic/crt/l/07/88/7072_crt_d6LiV.jpg?r=1741601691)<br>日语：ジョディ・スターリング<br>所属作品：`detective conan` |  |
-| miwako sato | 佐藤美和子 |  |  |
+| miwako sato | 佐藤美和子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/85/e8/7063_crt_mYyaM.jpg?r=1741599415)<br>所属作品：`detective conan` |  |
 | masumi sera | 世良真纯 | ![](https://lain.bgm.tv/r/400/pic/crt/l/6c/62/27133_crt_Z99Nz.jpg?r=1741598844)<br>日语：世良真純<br>所属作品：`detective conan` | [萌娘百科](https://zh.moegirl.org.cn/世良真纯) |
 |  | ▼ 龙珠系列 |  |  |
 | yamcha | 雅木茶 | ![](https://static.wikia.nocookie.net/dragonball/images/f/f3/Yamcha_manga.PNG)<br>雅木茶是由鸟山明所创作的漫画《龙珠》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/雅木茶) |
