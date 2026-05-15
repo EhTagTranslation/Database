@@ -375,7 +375,7 @@ example:
 | denpa onna to seishun otoko | 电波女与青春男 |  |  |
 | mirai nikki | 未来日记 |  |  |
 | oshiete galko-chan | 告诉我！辣妹子酱 |  |  |
-| eureka 7 | 交响诗篇 |  |  |
+| eureka 7 | 交响诗篇 艾蕾卡7 | ![](https://upload.wikimedia.org/wikipedia/zh/1/13/Eureka7bluray1.jpg)<br>日语：交響詩篇エウレカセブン |  |
 | darkstalkers | 恶魔战士 |  |  |
 | x-men | X战警 |  |  |
 | x-men evolution | X战警：进化 |  |  |
