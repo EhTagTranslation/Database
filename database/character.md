@@ -1710,7 +1710,7 @@ example:
 | juliet starling | 朱丽叶·斯塔林 |  |  |
 |  | ▼ 名侦探柯南 |  |  |
 | shinichi kudo | 工藤新一 | ![](https://static.wikia.nocookie.net/caseclosed/images/d/d2/Shinichi_Kudo_Detective.png)<br>日语：くどうしんいち<br>所属作品：`detective conan` | [萌娘百科](https://zh.moegirl.org.cn/工藤新一) |
-| ran mouri | 毛利兰 | ![](https://ehgt.org/w/01/923/61767-csfqj15f.webp)<br>所属作品：`detective conan` |  |
+| ran mouri | 毛利兰 | ![](https://static.wikia.nocookie.net/caseclosed/images/b/b6/Ran_Mouri_%28Transparent%29.png)<br>日语：もうりらん<br>所属作品：`detective conan` |  |
 | conan edogawa | 江户川柯南 | ![](https://static.wikia.nocookie.net/caseclosed/images/4/43/Edogawa_Conan_image.webp)<br>日语：江戸川コナン<br>所属作品：`detective conan` | [萌娘百科](https://zh.moegirl.org.cn/江户川柯南) |
 | ai haibara | 灰原哀 | ![](https://static.wikia.nocookie.net/caseclosed/images/2/22/Haibara_Ai.webp/revision/latest?cb=20220920055237)<br>所属作品：`detective conan` | [萌娘百科](https://zh.moegirl.org.cn/灰原哀)<br>[Fandom](https://detectiveconan.fandom.com/zh/wiki/灰原哀) |
 | ayumi yoshida | 吉田步美 | ![](https://static.wikia.nocookie.net/caseclosed/images/7/71/Ayumi_Yoshida_Detective_Conan.webp)<br>所属作品：`detective conan` |  |
