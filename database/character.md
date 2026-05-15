@@ -4333,7 +4333,7 @@ example:
 | koushi sugawara | 菅原孝支 |  | [Fandom Wiki](https://haikyuu.fandom.com/wiki/Kōshi_Sugawara) |
 | shoyo hinata | 日向翔阳 |  | [Fandom Wiki](https://haikyuu.fandom.com/wiki/Shōyō_Hinata) |
 | taiga kagami | 火神大我 |  |  |
-| tetsuya kuroko | 黑子哲也 |  |  |
+| tetsuya kuroko | 黑子哲也 | ![](https://static.wikia.nocookie.net/kurokonobasuke/images/a/ac/Kuroko_during_WC.png)<br>日语：黒子テツヤ<br>所属作品：`kuroko no basuke` |  |
 | daiki aomine | 青峰大辉 |  |  |
 | haruka nanase | 七濑遥 |  |  |
 | rin matsuoka | 松冈凛 |  |  |
