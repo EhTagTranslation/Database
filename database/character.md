@@ -1717,7 +1717,7 @@ example:
 | kazuha toyama | 远山和叶 | ![](https://ehgt.org/w/01/538/50910-qol7h7eu.webp)<br>所属作品：`detective conan` |  |
 | heiji hattori | 服部平次 |  |  |
 | kaito kuroba | 黑羽快斗 | ![](https://upload.wikimedia.org/wikipedia/zh/d/d5/Kaito_Kuroba%26Kaito_Kid.jpg)<br>黑羽快斗（日语：くろば かいと）是漫画《`magic kaito`》及其衍生作品的主人公。也在《`detective conan`》中登场过。 | [萌娘百科](https://zh.moegirl.org.cn/黑羽快斗)<br>[维基百科](https://zh.wikipedia.org/wiki/黑羽快斗) |
-| kogoro mouri | 毛利小五郎 |  |  |
+| kogoro mouri | 毛利小五郎 | ![](https://static.wikia.nocookie.net/caseclosed/images/0/0f/Kogoro_Mouri_%28Transparent%29.png)<br>所属作品：`detective conan` |  |
 | rei furuya | 降谷零 |  |  |
 | shuuichi akai | 赤井秀一 |  |  |
 | sonoko suzuki | 铃木园子 | ![](https://storage.moegirl.org.cn/moegirl/commons/d/d8/Sonoko.jpg)<br>所属作品：`detective conan`<br>铃木财团的次女。作为毛利兰的同学及好友初登场，并在作品早期基本以毛利兰的陪同者出现。 | [萌娘百科](https://zh.moegirl.org.cn/铃木园子) |
