@@ -4334,7 +4334,7 @@ example:
 | shoyo hinata | 日向翔阳 |  | [Fandom Wiki](https://haikyuu.fandom.com/wiki/Shōyō_Hinata) |
 | taiga kagami | 火神大我 |  |  |
 | tetsuya kuroko | 黑子哲也 | ![](https://static.wikia.nocookie.net/kurokonobasuke/images/a/ac/Kuroko_during_WC.png)<br>日语：黒子テツヤ<br>所属作品：`kuroko no basuke` |  |
-| daiki aomine | 青峰大辉 |  |  |
+| daiki aomine | 青峰大辉 | ![](https://lain.bgm.tv/r/400/pic/crt/l/3d/72/15804_crt_wLPCJ.jpg)<br>日语：あおみね だいき<br>所属作品：`kuroko no basuke` |  |
 | haruka nanase | 七濑遥 |  |  |
 | rin matsuoka | 松冈凛 |  |  |
 | yuki | 雪 | 出自TH05-东方怪绮谈<br>![图](https://ehgt.org/71/fa/71fa719abf09ef1dc9ca110433739877dc686034-366328-1024-768-png_l.jpg)<br>![图](# "https://ehgt.org/31/8d/318d25f2aa15492eab4374dd0efc1885ccfd4b44-1050990-896-1262-png_l.jpg") |  |
