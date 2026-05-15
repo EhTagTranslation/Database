@@ -9326,6 +9326,7 @@ example:
 | ruri aoki | 青木琉璃 | 本作主角，人类与龙的混血女高中生 |  |
 | eureka | 艾蕾卡 | ![](https://static.wikia.nocookie.net/eurekaseven/images/a/ac/Normal_eureka.jpg)<br>日语：エウレカ<br>所属作品：`eureka 7` |  |
 | riko aida | 相田丽子 | ![](https://ehgt.org/w/02/383/70123-rzyoout8.webp)<br>日语：相田リコ<br>所属作品：`kuroko no basuke` |  |
+| ryouta kise | 黄濑凉太 | ![](https://static.wikia.nocookie.net/kurokonobasuke/images/2/2b/Kise_in_color.png)<br>日语：きせりょうた<br>所属作品：`kuroko no basuke` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
