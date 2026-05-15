@@ -5198,7 +5198,7 @@ example:
 | sonic the hedgehog | 刺猬索尼克 |  |  |
 | megumi fujishima | 藤岛慈 | 藤岛慈（日语：藤島 慈，罗马字：Fujishima Megumi）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。<br>![藤岛慈](https://img.moegirl.org.cn/common/thumb/2/25/Megumi_img1.png/280px-Megumi_img1.png) | [萌娘百科](https://zh.moegirl.org.cn/藤岛慈) [Fandom](https://love-live.fandom.com/wiki/Megumi_Fujishima) |
 | rurino osawa | 大泽瑠璃乃 | 大泽瑠璃乃（日语：大沢 瑠璃乃，罗马字：Osawa Rurino）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。<br>![大泽瑠璃乃](https://img.moegirl.org.cn/common/thumb/2/28/Rurino_img1.png/280px-Rurino_img1.png) | [萌娘百科](https://zh.moegirl.org.cn/大泽瑠璃乃) [Fandom](https://love-live.fandom.com/wiki/Rurino_Osawa) |
-| giselle gewelle | 吉赛尔·茱艾尔 | ![](https://static.wikia.nocookie.net/bleach/images/c/cf/Ep387GiselleProfile.png/revision/latest?cb=20230904070014&path-prefix=en)<br>出自作品：`p:bleach`<br><br>吉赛尔·茱艾尔（英文：Giselle Gewelle）是久保带人所著漫画《BLEACH》及其衍生作品中的登场角色（下文以“吉吉”简称）。 | [萌娘百科](https://zh.moegirl.org.cn/吉赛尔·茱艾尔) \| [Fandom](https://bleach.fandom.com/wiki/Giselle_Gewelle) |
+| giselle gewelle | 吉赛尔·茱艾尔 | ![](https://lain.bgm.tv/r/400/pic/crt/l/54/7b/119775_crt_J5sr0.jpg?r=1695494858)<br>日语：ジゼル・ジュエル<br>出自作品：`p:bleach` | [萌娘百科](https://zh.moegirl.org.cn/吉赛尔·茱艾尔) \| [Fandom](https://bleach.fandom.com/wiki/Giselle_Gewelle) |
 | jun sazanami | 涟纯 |  | [萌娘百科](https://zh.moegirl.org.cn/涟纯) |
 | ben tennyson | 田小班 | 田小班（Benjamin Kirby "Ben" Tennyson/本杰明·柯比·“本”·田尼森）是Cartoon Network Studios旗下作品《`p:ben 10`》里的角色。 | [萌娘百科](https://zh.moegirl.org.cn/田小班) |
 | gwen tennyson | 田小玟 | ![](https://ehgt.org/w/00/791/68901-ej0tx2wj.webp)<br>出自作品：`p:ben 10`<br><br>田小玟（Gwendolyn "Gwen" Tennyson/格玟多琳·“格玟”·田纳森 ）是Cartoon Network Studios旗下作品《Ben 10》里的角色。 | [萌娘百科](https://zh.moegirl.org.cn/田小玟) |
