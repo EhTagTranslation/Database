@@ -1720,7 +1720,7 @@ example:
 | kogoro mouri | 毛利小五郎 | ![](https://static.wikia.nocookie.net/caseclosed/images/0/0f/Kogoro_Mouri_%28Transparent%29.png)<br>所属作品：`detective conan` |  |
 | rei furuya | 降谷零 |  |  |
 | shuuichi akai | 赤井秀一 |  |  |
-| sonoko suzuki | 铃木园子 | ![](https://storage.moegirl.org.cn/moegirl/commons/d/d8/Sonoko.jpg)<br>所属作品：`detective conan`<br>铃木财团的次女。作为毛利兰的同学及好友初登场，并在作品早期基本以毛利兰的陪同者出现。 | [萌娘百科](https://zh.moegirl.org.cn/铃木园子) |
+| sonoko suzuki | 铃木园子 | ![](https://static.wikia.nocookie.net/caseclosed/images/f/fc/Sonoko_Suzuki_Detective_Conan.webp)<br>日语：鈴木園子<br>所属作品：`detective conan` | [萌娘百科](https://zh.moegirl.org.cn/铃木园子) |
 | eri kisaki | 妃英理 | ![](https://lain.bgm.tv/r/400/pic/crt/l/22/06/7050_crt_wVw9M.jpg?r=1741598506)<br>日语：きさきえり<br>所属作品：`detective conan` |  |
 | jodie starling | 茱蒂·斯泰琳 | ![](https://lain.bgm.tv/r/400/pic/crt/l/07/88/7072_crt_d6LiV.jpg?r=1741601691)<br>日语：ジョディ・スターリング<br>所属作品：`detective conan` |  |
 | miwako sato | 佐藤美和子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/85/e8/7063_crt_mYyaM.jpg?r=1741599415)<br>所属作品：`detective conan` |  |
