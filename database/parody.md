@@ -2839,6 +2839,7 @@ example:
 | jack jeanne | 杰克 • 珍妮 | 一款乙女恋爱游戏 |  |
 | ruri dragon | 琉璃龙龙 | ![](https://lain.bgm.tv/r/400/pic/cover/l/17/48/384745_lItt3.jpg)<br>《琉璃龙龙》（日语：ルリドラゴン）是由日本漫画家真藤雅兴所创作的奇幻漫画作品。 |  |
 | resort boin | 度假村Boin | ![](https://upload.wikimedia.org/wikipedia/zh/8/88/Resort_Boin_game_cover.jpg)<br>日语：リゾートBOIN |  |
+| houshin engi | 封神演义 | 藤崎龙的日本漫画，根据安能务翻译的“讲谈社文库版”《封神演义》改编而成。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
