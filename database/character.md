@@ -9334,6 +9334,7 @@ example:
 | shintarou midorima | 绿间真太郎 | ![](https://static.wikia.nocookie.net/kurokonobasuke/images/7/77/Shintaro_Midorima_anime.png)<br>日语：みどりま しんたろう<br>所属作品：`kuroko no basuke` |  |
 | so dakki | 苏妲己 | ![](https://static.wikia.nocookie.net/villains/images/4/40/So_Dakki_2018_anime.jpg)<br>日语：蘇妲己<br>所属作品：`houshin engi` |  |
 | ryuukitsu koushu | 龙吉公主 | 所属作品：`houshin engi` |  |
+| jellal fernandes | 杰拉尔·费尔南迪斯 | ![](https://static.wikia.nocookie.net/fairytail/images/c/ce/Jellal_RPG2020.png)<br>日语：ジェラール・フェルナンデス<br>所属作品：`fairy tail` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
