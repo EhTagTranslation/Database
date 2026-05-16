@@ -4269,7 +4269,7 @@ example:
 | digital tambourine | でじたるたんばりん |  |  |
 | digix | digiX |  |  |
 | dildo rotor | ディルドローター |  |  |
-| diletta | diletta |  |  |
+| diletta | diletta |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76046/) \| [FANBOX](https://diletta.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/31033868) \| [X](https://x.com/diletta_works) \| [Fantia](https://fantia.jp/fanclubs/528521) |
 | dilettante | ディレッタント |  |  |
 | dimension empire | dimension empire |  |  |
 | dimension25 | 2.5次元 |  |  |
