@@ -14238,7 +14238,7 @@ example:
 | eda | 江田 |  |  |
 | freedom nakai | フリーダム中井 |  |  |
 | fuji okayu | ふじおかゆ |  |  |
-| fujisaki chiro | 藤崎チロ |  |  |
+| fujisaki chiro | 藤崎チロ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203409/) |
 | hakidame | はきだめ |  |  |
 | hachimaru | ハチマル |  |  |
 | gomio | ゴミ男 |  |  |
