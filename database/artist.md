@@ -7219,7 +7219,7 @@ example:
 | kumoi takashi | 菅野タカシ | くもいたかし |  |
 | kunaboto | クナボト |  | [pixiv](https://www.pixiv.net/users/19953236) |
 | kuni | クニ |  |  |
-| kunifuto | くにふと |  |  |
+| kunifuto | くにふと |  | [DLsite](https://ci-en.dlsite.com/creator/1021) \| [X](https://x.com/kunihuto) \| [pixiv](https://www.pixiv.net/users/3322590) \| [FANBOX](https://kunihuto.fanbox.cc/) |
 | kunoichi | くノ壱 |  |  |
 | kawahara reki | 川原砾 |  | [维基百科](https://zh.wikipedia.org/wiki/川原礫) |
 | kuonji hodaka | 久遠路火鷹 |  |  |
