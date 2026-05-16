@@ -15193,6 +15193,7 @@ example:
 | patsu patsu | ぱつぱつ |  | [X](https://x.com/patsu787) |
 | hoshikawa lange | 星川ランガ |  |  |
 | shikeida | しけいだ |  |  |
+| armjaw | アアムジョー |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
