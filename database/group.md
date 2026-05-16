@@ -13160,7 +13160,7 @@ example:
 | fisticuffsclub | FC倶楽部 |  | [pixiv](https://www.pixiv.net/users/26325262)  [FANBOX](https://fisticuffsclub.fanbox.cc/) |
 | hentaikey | HentaiKey |  |  |
 | yawaraka seinikuten | 滑らか精肉店 | `a:kamasu` |  |
-| shiawase hitotsubu | しあわせ一粒 |  |  |
+| shiawase hitotsubu | しあわせ一粒 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG64205.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=212852/) |
 | toei animation | 东映动画 | 东映动画是日本历史上规模最大、历史最悠久的动画制作公司，前身为政冈宪三与山本善次郎于1948年成立的日本动画有限公司，1952年改名为日动映画有限公司，于1956年被东映株式会社收购后重组为东映动画。很多著名的动画师，例如宫崎骏、高畑勋、芝山努、大冢康生等人都曾在此就职。 | [维基百科](https://zh.wikipedia.org/wiki/东映动画) [萌娘百科](https://zh.moegirl.org.cn/东映动画) |
 | torihamu holic | とりはむほりっく |  |  |
 | gakugakuya-san | がくがく屋さん |  |  |
