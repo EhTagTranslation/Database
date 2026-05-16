@@ -625,7 +625,7 @@ example:
 | hime-chans ribbon | 缎带魔法少女 | 百变小姬子 |  |
 |  | ▼ 对魔忍 系列 |  |  |
 | taimanin asagi | 对魔忍阿莎姬 |  |  |
-| makai kishi ingrid | 魔界骑士英格丽德 |  |  |
+| makai kishi ingrid | 魔界骑士英格丽德 | ![](https://static.wikia.nocookie.net/taimanin/images/a/a7/Hell_Knight_Ingrid_OVA_episode_3.jpg) |  |
 | taimanin yukikaze | 对魔忍雪风 |  |  |
 |  | ▲ 对魔忍 系列 |  |  |
 | kick-ass | 海扁王 |  |  |
