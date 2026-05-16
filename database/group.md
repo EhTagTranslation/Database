@@ -2247,7 +2247,7 @@ example:
 | nekonecotton | ねこねこっとん |  |  |
 | punipuni no hoppe | ぷにぷにのほっぺ |  |  |
 | houkago inokorigumi | 放課後居残り組 |  |  |
-| hokkyoku hotaru | 北極ホタル |  |  |
+| hokkyoku hotaru | 北極ホタル |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52515.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200639/) |
 | kikyakudou | 鬼脚堂 |  |  |
 | ikameshi shokudou | 乌贼饭食堂 |  |  |
 | tairikukan dandoudan dan | 大陆间弹道弹团 |  |  |
