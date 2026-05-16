@@ -1845,7 +1845,7 @@ example:
 |  | TYPE-MOON > Fate > Zero（第四次圣杯战争） |  |  |
 |  | TYPE-MOON > Fate > Zero（第四次圣杯战争）> 英灵 |  |  |
 |  | Saber | 同第五次圣杯战争-Saber |  |
-| gilgamesh | 吉尔伽美什 | 第四次圣杯战争的 Archer，金闪闪<br>![图](https://ehgt.org/d9/01/d90146ab410dd8a73fb201eb9bcd97a85632e080-2183077-1024-1448-png_l.jpg)![图](https://ehgt.org/78/90/78909292a9d28f822bb308e6cecec6c13be20762-2149273-1024-1448-png_l.jpg)![图](https://ehgt.org/12/2e/122e5a76e65eba51346024649f9e9c626456b1ff-1476400-2130-3029-jpg_l.jpg) |  |
+| gilgamesh | 吉尔伽美什 | ![](https://static.wikia.nocookie.net/typemoon/images/e/e2/ArcherGilGOStage2.png)<br>外号“金闪闪”<br>日语：ギルガメッシュ<br>所属作品：`fate grand order`及其他型月作品。 |  |
 | diarmuid ua duibhne | 迪尔姆德·奥迪那 | 第四次圣杯战争的 Lancer<br>![图](https://ehgt.org/e9/ce/e9ce6d7c2f1bd6db41f6e890f84f4b07b00ff9e1-2085624-1024-1448-png_l.jpg)![图](https://ehgt.org/a3/a1/a3a1eef763c62529c001a07af6ec21f246d6c8a0-2138649-1024-1448-png_l.jpg) |  |
 | iskandar | 伊斯坎达尔 | 第四次圣杯战争的 Rider<br>![图](https://ehgt.org/0e/c0/0ec01372c26d693422848c966f8d7139c5b6ca1a-2033296-1024-1448-png_l.jpg)![图](https://ehgt.org/7a/af/7aaf2a88719b8be10eeb0cbf2dee005455971da2-2374323-1024-1448-png_l.jpg) |  |
 | gilles de rais | 吉尔·德·莱斯 | 第四次圣杯战争的 Caster<br>![图](https://ehgt.org/d2/6b/d26bfb0c0f2b52777cabbd1da855a490c3b89778-1819767-1024-1448-png_l.jpg)![图](https://ehgt.org/69/01/690115e53162a746c142d88f919f64601b8b2cce-2326214-1024-1448-png_l.jpg) |  |
