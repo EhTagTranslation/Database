@@ -3211,7 +3211,7 @@ example:
 | shinku nikaidou | 二阶堂真红 |  | [萌娘百科](https://zh.moegirl.org.cn/二阶堂真红) |
 | shiori kashiwazaki | 柏崎栞 | ![](https://static.wikia.nocookie.net/princess-connect/images/7/7c/Shiori_%28game%29.png)<br>![](https://static.wikia.nocookie.net/princess-connect/images/b/b9/Shiori-magicalgirl-sprite-normal.png)<br>所属作品：`princess connect`<br>本属于自卫团，跟铃一样也是被派往伊丽莎白牧场驻守的成员。 | [萌娘百科](https://zh.moegirl.org.cn/柏崎栞) |
 | link | 林克 | ![](https://thumbsnap.com/i/DoWT8jvR.jpg)<br>林克是任天堂旗下作品《塞尔达传说》系列的主要角色，在任天堂旗下的其他系列如《马力欧卡丁车系列》《任天堂明星大乱斗》等亦有出场。 | [萌娘百科](https://zh.moegirl.org.cn/林克) |
-| wonder woman | 神奇女侠 |  |  |
+| wonder woman | 神奇女侠 | 神奇女侠（英语：Wonder Woman，也译作神奇女超人）是一名由DC漫画创造的虚构超级英雄角色[1]。由美国心理学家兼作家威廉·莫尔顿·马斯顿所创作[1]，神奇女侠首次登场于《群星漫画》#8（1941年12月）与《迷情漫画》#1（1942年1月），《神奇女侠》漫画在多年来已经由DC漫画不间断地发行，除了1986年短暂的沉寂[2]。神奇女侠被描绘成一位为正义、爱情、和平而战的超级英雄，使她成为女性主义的象征[3][4][5]。 | [维基百科](https://zh.wikipedia.org/wiki/神奇女俠) |
 | she-ra | 希瑞 |  | [萌娘百科](https://zh.moegirl.org.cn/希瑞) |
 | rapunzel | 长发公主 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/bc/Rapunzel_FB.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/170850.html) [DotGG](https://dotgg.gg/nikke/characters/rapunzel) |
 | hulk | 浩克 |  |  |
