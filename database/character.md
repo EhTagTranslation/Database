@@ -5327,7 +5327,7 @@ example:
 | nagayoshi mori | 森长可 |  |  |
 | locusta | 洛库斯塔 |  |  |
 | wandjina | 旺吉娜 |  |  |
-| tlaloc | 特拉洛克 | ![](https://static.wikia.nocookie.net/typemoon/images/2/2d/PretenderTlalocStage1.png)<br>![](https://static.wikia.nocookie.net/typemoon/images/1/1f/PretenderTlalocStage2.png)<br>日语：テノチティトラン<br>所属作品：`fate grand order` |  |
+| tlaloc | 特拉洛克 | ![](https://static.wikia.nocookie.net/typemoon/images/2/2d/PretenderTlalocStage1.png)<br>日语：テノチティトラン<br>所属作品：`fate grand order` |  |
 | black cat | 费莉西亚‧哈代（黑猫） | ![](https://static.wikia.nocookie.net/marveldatabase/images/0/04/Black_Cat_Vol_1_3_Bring_on_the_Bad_Guys_Unknown_Comic_Books_Exclusive_Virgin_Variant.jpg/revision/latest?cb=20190808090414)<br><br>黑猫／费莉西亚‧哈代（Black Cat／Felicia Hardy）是美国漫威漫画系列的登场角色，由Marv Wolfman和Keith Pollard创造。 | [萌娘百科](https://zh.moegirl.org.cn/黑猫%28漫威%29#) \| [Fandom](https://marvel.fandom.com/wiki/Felicia_Hardy_%28Earth-616%29) |
 | spider-man | 蜘蛛侠 |  | [萌娘百科](https://zh.moegirl.org.cn/蜘蛛侠) |
 | mary jane watson | 玛丽•简•沃森 |  | [维基百科](https://zh.wikipedia.org/wiki/瑪莉·珍·華生) |
