@@ -13983,7 +13983,7 @@ example:
 | honobo yukotogaketo | ほのぼ悠琴がけと |  |  |
 | ooide-kun | オーイデくん |  |  |
 | vel | Vel |  |  |
-| eco heeky | えこひいき |  |  |
+| eco heeky | えこひいき |  | [FANZA](https://book.dmm.co.jp/list/?author=385495) |
 | tonomiya | 殿宮 |  |  |
 | ecoruby | 絵子るび |  |  |
 | shinozaki kyoko | 篠崎キョーコ |  |  |
