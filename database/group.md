@@ -8937,7 +8937,7 @@ example:
 | oogane farm | 大金ファーム |  |  |
 | ooitei | 大井亭 |  |  |
 | oojinushi | おおじ主 |  |  |
-| ookami shoujo yuugi dan | 狼少女遊戯団 |  |  |
+| ookami shoujo yuugi dan | 狼少女游戏团 |  |  |
 | ookina kodomo no omocha bako | 大きな子供のおもちゃ箱 |  |  |
 | oomorian | 大森庵 |  |  |
 | ootsuku shouji | 大津久商事(有) |  |  |
