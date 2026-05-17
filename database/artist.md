@@ -15198,6 +15198,7 @@ example:
 | akachian | あかちあん |  |  |
 | minamoto kyunta | 源キュン太 |  |  |
 | yoshida mint | よしだみんと |  |  |
+| itao itsuko | いたおいつこ |  | [FANBOX](https://ok180r.fanbox.cc/) \| [X](https://x.com/180r_ituko) \| [pixiv](https://www.pixiv.net/users/10258021) |
 
 <!--TEMPLATE:
 |  |  |  |  |
