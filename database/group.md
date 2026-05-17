@@ -2353,7 +2353,7 @@ example:
 | 1756 studio | 1756スタジオ |  |  |
 | 17in | 17in |  |  |
 | 17w | 17W |  |  |
-| 180r | 180R |  |  |
+| 180r | 180R |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29918/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG25528.html) \| [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=51080) |
 | 185 souko | 185倉庫 |  |  |
 | 1bit | 1bit |  |  |
 | 1gaya | 1gaya |  |  |
