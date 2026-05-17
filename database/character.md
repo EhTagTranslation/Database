@@ -9337,6 +9337,7 @@ example:
 | jellal fernandes | 杰拉尔·费尔南迪斯 | ![](https://static.wikia.nocookie.net/fairytail/images/c/ce/Jellal_RPG2020.png)<br>日语：ジェラール・フェルナンデス<br>所属作品：`fairy tail` |  |
 | iron maiden jeanne | 梅登·贞德 | ![](https://s1.zerochan.net/Iron.Maiden.Jeanne.600.3388433.jpg)<br>日语：アイアンメイデン・ジャンヌ<br>所属作品：`shaman king` |  |
 | yumiko sakaki | 榊由美子 | ![](https://static.wikia.nocookie.net/grisaia/images/3/33/Yumiko_Sakaki.jpg)<br>所属作品：`grisaia no kajitsu` |  |
+| tsubasa nanase | 七濑翼 | ![](https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/9/9d/Tsubasa_Nanase_LN_visual.png)<br>日语：七瀬 翼<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
