@@ -15194,6 +15194,7 @@ example:
 | hoshikawa lange | 星川ランガ |  |  |
 | shikeida | しけいだ |  |  |
 | armjaw | アアムジョー |  |  |
+| ozaki nira | 尾崎ニラ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
