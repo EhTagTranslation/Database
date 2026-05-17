@@ -15196,6 +15196,7 @@ example:
 | armjaw | アアムジョー |  |  |
 | ozaki nira | 尾崎ニラ |  |  |
 | akachian | あかちあん |  |  |
+| minamoto kyunta | 源キュン太 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
