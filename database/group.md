@@ -6356,7 +6356,7 @@ example:
 | kamabokodokoro | かまぼこ処 |  |  |
 | kamadeva | Kamadeva |  |  |
 | kamagabuchi | かまがぶち |  |  |
-| kamakiri farm | カマキリファーム |  |  |
+| kamakiri farm | カマキリファーム |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70358/) |
 | kamameshiya | かまめし屋 |  |  |
 | kamaros | カマロス |  |  |
 | kamarujirushi | かまる印 |  |  |
