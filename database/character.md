@@ -9338,6 +9338,7 @@ example:
 | iron maiden jeanne | 梅登·贞德 | ![](https://s1.zerochan.net/Iron.Maiden.Jeanne.600.3388433.jpg)<br>日语：アイアンメイデン・ジャンヌ<br>所属作品：`shaman king` |  |
 | yumiko sakaki | 榊由美子 | ![](https://static.wikia.nocookie.net/grisaia/images/3/33/Yumiko_Sakaki.jpg)<br>所属作品：`grisaia no kajitsu` |  |
 | tsubasa nanase | 七濑翼 | ![](https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/9/9d/Tsubasa_Nanase_LN_visual.png)<br>日语：七瀬 翼<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e` |  |
+| julius reinberg | 尤里乌斯·连恩伯格 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/e/e4/Julius_Rainburg_Anime_Character_Render.png)<br>日语：ユリウス・レインバーグ<br>所属作品：`tsue to tsurugi no wistoria` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
