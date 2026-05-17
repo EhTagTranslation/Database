@@ -15197,6 +15197,7 @@ example:
 | ozaki nira | 尾崎ニラ |  |  |
 | akachian | あかちあん |  |  |
 | minamoto kyunta | 源キュン太 |  |  |
+| yoshida mint | よしだみんと |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
