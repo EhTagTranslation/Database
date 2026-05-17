@@ -15199,6 +15199,7 @@ example:
 | minamoto kyunta | 源キュン太 |  |  |
 | yoshida mint | よしだみんと |  |  |
 | itao itsuko | いたおいつこ |  | [FANBOX](https://ok180r.fanbox.cc/) \| [X](https://x.com/180r_ituko) \| [pixiv](https://www.pixiv.net/users/10258021) |
+| tsubaki aruo | つばきあるお |  | [FANBOX](https://tsubakiaruo.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/109615935) \| [X](https://x.com/tsubakiaruo) |
 
 <!--TEMPLATE:
 |  |  |  |  |
