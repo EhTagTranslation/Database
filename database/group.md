@@ -2902,7 +2902,7 @@ example:
 | apple water | Apple Water |  |  |
 | applecat | あっぷるきゃっと |  |  |
 | applesoft | アップルソフト |  |  |
-| applique | あっぷりけ |  |  |
+| applique | あっぷりけ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=224994/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01050433.html) |
 | apricot | apricot |  |  |
 | apricot cherry | Apricot Cherry |  |  |
 | apricot sirup | あんずシロップ |  |  |
