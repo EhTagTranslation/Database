@@ -15195,6 +15195,7 @@ example:
 | shikeida | しけいだ |  |  |
 | armjaw | アアムジョー |  |  |
 | ozaki nira | 尾崎ニラ |  |  |
+| akachian | あかちあん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
