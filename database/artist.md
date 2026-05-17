@@ -12088,7 +12088,7 @@ example:
 | fallen-leaves | Fallen落叶 |  | [pixiv](https://www.pixiv.net/users/16433298) [哔哩哔哩](https://space.bilibili.com/24754827) |
 | hanayama | はなやま |  |  |
 | kusoniku yokichi | 糞肉与吉 |  |  |
-| hatoba akane | 波止場茜 |  |  |
+| hatoba akane | 波止場茜 |  | [pixiv](https://www.pixiv.net/users/44674969) \| [FANBOX](https://sunset-port.fanbox.cc/) \| [X](https://x.com/sunset_port) \| [Fantia](https://fantia.jp/fanclubs/495577) |
 | hachi no hachihachi | はちの八八 |  |  |
 | rhasta | 牛乳重工 | 作者常换名换号，Rhasta，牛乳重工 | [pixiv](https://www.pixiv.net/users/9746051)  -> [pixiv](https://www.pixiv.net/users/76979962)<br>[X](https://x.com/RSTRST7755) |
 | melailai | 么赖赖 | ![头像](https://i.pixiv.cat/user-profile/img/2021/12/28/16/45/32/21954150_8e710cb625f3a7bf1e7b6401020de89c_170.jpg) | [pixiv](https://www.pixiv.net/users/22333059)<br>[X](https://x.com/memela75722734)<br>[Bilibili](https://space.bilibili.com/14746289/) |
