@@ -13939,6 +13939,7 @@ example:
 | torobakoya | とろ箱屋 |  | [FANBOX](https://www.fanbox.cc/@torobakoya) \| [pixiv](https://www.pixiv.net/users/618515) \| [Fantia](https://fantia.jp/fanclubs/489011) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49531.html) |
 | hansubeya | 藩滑屋 |  |  |
 | tartarosauce of the hell | 地獄のタルタロソース |  |  |
+| kokushoku suisei teikoku | 黒色彗星帝国 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG19318.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
