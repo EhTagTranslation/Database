@@ -11326,7 +11326,7 @@ example:
 | tiny potato | Tiny potato |  |  |
 | tinyking | TinyKing |  |  |
 | tipoplaza | ティポプラーザ |  |  |
-| tiramisu | Tiramisu |  |  |
+| tiramisu | Tiramisu |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG13676.html) |
 | tiramisu tart | てぃらみすたると |  |  |
 | tirolcat | TirolCat |  |  |
 | tistrya | ティシュトリ屋 |  |  |
