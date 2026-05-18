@@ -9349,6 +9349,7 @@ example:
 | shiver | Shiver | ![](https://static.wikia.nocookie.net/splatoon/images/2/27/S3_Shiver_Render.png)<br>所属作品：`splatoon` |  |
 | hyuuga masamune | 日向正宗 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/1/1b/Hyuuga-1.png)<br>日语：ひゅうがまさむね<br>所属作品：`touken ranbu` |  |
 | kyougoku masamune | 京极正宗 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/e/ed/Kyougoku-1.png)<br>日语：きょうごくまさむね<br>所属作品：`touken ranbu` |  |
+| tsurumaru kuninaga | 鹤丸国永 | ![](https://static.wikia.nocookie.net/tkrbwarriors/images/9/94/TR_Warriors_Tsurumaru_Kuninaga.png)<br>所属作品：`touken ranbu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
