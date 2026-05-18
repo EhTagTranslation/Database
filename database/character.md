@@ -9350,6 +9350,7 @@ example:
 | hyuuga masamune | 日向正宗 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/1/1b/Hyuuga-1.png)<br>日语：ひゅうがまさむね<br>所属作品：`touken ranbu` |  |
 | kyougoku masamune | 京极正宗 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/e/ed/Kyougoku-1.png)<br>日语：きょうごくまさむね<br>所属作品：`touken ranbu` |  |
 | tsurumaru kuninaga | 鹤丸国永 | ![](https://static.wikia.nocookie.net/tkrbwarriors/images/9/94/TR_Warriors_Tsurumaru_Kuninaga.png)<br>所属作品：`touken ranbu` |  |
+| heshikiri hasebe | 压切长谷部 | ![](https://static.wikia.nocookie.net/tkrbwarriors/images/a/a2/TR_Warriors_Heshikiri_Hasebe.png)<br>所属作品：`touken ranbu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
