@@ -9342,6 +9342,7 @@ example:
 | kingston | 金斯顿 | ![](https://static.wikia.nocookie.net/fortnite/images/8/8e/Kingston_%28Featured%29_-_Outfit_-_Fortnite.png)<br>所属作品：`fortnite` |  |
 | iruru yorozu | 万容 | ![](https://static.wikia.nocookie.net/world-dai-star/images/d/dc/Iruru_game_casual.png)<br>日语：萬容<br>所属作品：`world dai star` |  |
 | laevatain | 莱万汀 | ![](https://patchwiki.biligame.com/images/zmd/c/c8/1h12ht6qwxevwplur66rdpi74pnexms.png)<br>所属作品 `p:arknights endfield` | [萌娘百科](https://zh.moegirl.org.cn/莱万汀) |
+| traptrix cularia | 兔藻之虫惑魔 | ![](https://static.wikia.nocookie.net/yugioh/images/d/df/TraptrixCularia-SDBT-EN-C-1E.png)<br>所属作品：`yu-gi-oh` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
