@@ -4208,7 +4208,7 @@ example:
 | shinano toushirou | 信浓藤四郎 |  |  |
 | gotou toushirou | 后藤藤四郎 |  |  |
 | atsushi toushirou | 厚藤四郎 |  |  |
-| saniwa | 审神者 |  |  |
+| saniwa | 审神者 | ![](https://lain.bgm.tv/r/400/pic/crt/l/af/97/54366_crt_O8553.jpg?r=1497189753)<br>所属作品：`touken ranbu` |  |
 | houchou toushirou | 包丁藤四郎 |  |  |
 | shokudaikiri mitsutada | 烛台切光忠 |  |  |
 | horikawa kunihiro | 堀川国广 |  |  |
