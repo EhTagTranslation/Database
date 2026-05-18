@@ -9348,6 +9348,7 @@ example:
 | octoling | 章灵 | ![](https://static.wikia.nocookie.net/splatoon/images/2/2c/Octolings.png)<br>所属作品：`splatoon` |  |
 | shiver | Shiver | ![](https://static.wikia.nocookie.net/splatoon/images/2/27/S3_Shiver_Render.png)<br>所属作品：`splatoon` |  |
 | hyuuga masamune | 日向正宗 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/1/1b/Hyuuga-1.png)<br>日语：ひゅうがまさむね<br>所属作品：`touken ranbu` |  |
+| kyougoku masamune | 京极正宗 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/e/ed/Kyougoku-1.png)<br>日语：きょうごくまさむね<br>所属作品：`touken ranbu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
