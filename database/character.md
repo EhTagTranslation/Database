@@ -9345,6 +9345,7 @@ example:
 | traptrix cularia | 兔藻之虫惑魔 | ![](https://static.wikia.nocookie.net/yugioh/images/d/df/TraptrixCularia-SDBT-EN-C-1E.png)<br>所属作品：`yu-gi-oh` |  |
 | frye onaga | 乌茨霍 | ![](https://static.wikia.nocookie.net/splatoon/images/0/06/Frye_Render.png)<br>所属作品：`splatoon` |  |
 | inkling | 墨灵 | ![](https://static.wikia.nocookie.net/splatoon/images/9/97/S3_Inkling_Girl.png)<br>所属作品：`splatoon` |  |
+| octoling | 章灵 | ![](https://static.wikia.nocookie.net/splatoon/images/2/2c/Octolings.png)<br>所属作品：`splatoon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
