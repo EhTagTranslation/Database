@@ -5922,7 +5922,7 @@ example:
 | ceres fauna | 塞莱希·法娜 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/f/f1/Ceres_Fauna_3D_Model.png)<br>日语：セレス・ファウナ<br>所属社团：`hololive`<br>已毕业。 | [萌娘百科](https://zh.moegirl.org.cn/塞莱希·法娜) |
 | cz75 | CZ75 \| 绯 | `p:girls frontline`<br>少女前线2：追放<br>同角色`c:faye`<br>猫咪：小救星 | [少前2Wiki](https://gf2.mcc.wiki/doll/FayeSSR)<br>[少前百科GFwiki](https://www.gfwiki.org/w/CZ75) |
 | yuuko kanoe | 庚夕子 |  |  |
-| hana suzuki | 铃木羽那 | ![](https://project-imas.wiki/images/7/7e/SCHana.png?20240301030427)<br>日语：鈴木羽那（すずき はな）<br>所属作品：`the idolmaster`闪耀色彩 | [萌娘百科](https://zh.moegirl.org.cn/铃木羽那) |
+| hana suzuki | 铃木羽那 | ![](https://image.shinycolors.wiki/thumb/b/ba/HanaProfile.png/300px-HanaProfile.png)<br>日语：鈴木羽那（すずき はな）<br>所属作品：`the idolmaster`闪耀色彩 | [萌娘百科](https://zh.moegirl.org.cn/铃木羽那) |
 | ajani goldmane | 金鬃阿耶尼 |  |  |
 | ink-eyes | 墨目 | 万智牌角色 |  |
 | liliana vess | 莉莲娜维斯 |  |  |
