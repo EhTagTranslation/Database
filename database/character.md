@@ -1745,7 +1745,7 @@ example:
 | erasa | 伊蕾莎 |  |  |
 | majin buu | 魔人布欧 |  |  |
 | master roshi | 龟仙人 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/58/DBFZ_Master_Roshi_Portrait.png)<br><br>龟仙人(武天老师)是由鸟山明所创作的漫画《龙珠》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/龟仙人) |
-| oolong | 乌龙 |  |  |
+| oolong | 乌龙 | ![](https://static.wikia.nocookie.net/dragonball/images/7/79/OolongWMATEp17.png/revision/latest?cb=20241219021741) | [Fandom](https://dragonball.fandom.com/zh/wiki/烏龍?variant=zh-hk) |
 | ranfan | 兰芳 |  |  |
 | lunch | 兰琪 |  |  |
 | panchy brief | 布里夫太太 | 布里夫太太，本名碧姬妮（游戏《龙珠Z：卡卡罗特》提及），是日本动漫《龙珠》系列中的女性角色之一，布里夫博士妻子，塔伊丝、布尔玛姐妹的母亲。 |  |
