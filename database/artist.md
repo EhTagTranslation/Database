@@ -15203,6 +15203,7 @@ example:
 | tomatosp | TOMATOSP |  | [FANBOX](https://www.fanbox.cc/@chionl) \| [X](https://x.com/Uiutomato) \| [pixiv](https://www.pixiv.net/users/52108658) |
 | jeanne dack | じゃんぬだっく |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ001565/ana_flg/all) |
 | kakyuu bushi | 下级武士 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=210418/) \| [FANBOX](https://kakyubushi.fanbox.cc/) \| [X](https://x.com/kakyubushi18) \| [pixiv](https://www.pixiv.net/users/98214710) \| [Fantia](https://fantia.jp/fanclubs/514447) |
+| sunohara kafuka | 春原香深 |  | [X](https://x.com/kanikani_thanks) |
 
 <!--TEMPLATE:
 |  |  |  |  |
