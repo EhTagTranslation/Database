@@ -9346,6 +9346,7 @@ example:
 | frye onaga | 乌茨霍 | ![](https://static.wikia.nocookie.net/splatoon/images/0/06/Frye_Render.png)<br>所属作品：`splatoon` |  |
 | inkling | 墨灵 | ![](https://static.wikia.nocookie.net/splatoon/images/9/97/S3_Inkling_Girl.png)<br>所属作品：`splatoon` |  |
 | octoling | 章灵 | ![](https://static.wikia.nocookie.net/splatoon/images/2/2c/Octolings.png)<br>所属作品：`splatoon` |  |
+| shiver | Shiver | ![](https://static.wikia.nocookie.net/splatoon/images/2/27/S3_Shiver_Render.png)<br>所属作品：`splatoon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
