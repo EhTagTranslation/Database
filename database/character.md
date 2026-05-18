@@ -4920,7 +4920,7 @@ example:
 | ichika takatsuki | 贵月一花 | ![](https://static.wikia.nocookie.net/pleaseteacher/images/1/12/Ichika_Takatsuki.png)<br>所属作品：`ano natsu de matteru`<br>高中三年级转学生，拥有一头亮眼的红长发。从外星球来到地球，身边还带着谜之科技行李包。 |  |
 | magdeburg | 马格德堡 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/63642d4497fbb691b52d722098cb4b9a262400697.png)<br>M级轻巡洋舰马格德堡（马格达莱娜）KMS Magdeburg マクデブルク。 |  |
 | kaveh | 卡维 | 卡维是米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/卡维%28原神%29#) |
-| tea gardner | 真崎杏子 | ![](https://static.wikia.nocookie.net/yugioh/images/0/08/Téa_Gardner.png)<br>所属作品：`yu-gi-oh`<br>动画《游戏王 决斗者王国》及其衍生作品中的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/真崎杏子) |
+| tea gardner | 真崎杏子 | ![](https://static.wikia.nocookie.net/yugioh/images/d/d2/TéaGardnerDSOD-DULI.png)<br>所属作品：`yu-gi-oh` | [萌娘百科](https://zh.moegirl.org.cn/真崎杏子) |
 | laphicet | 莱菲瑟特 |  |  |
 | eleanor hume | 艾蕾诺亚·修姆 |  |  |
 | magillanica lou mayvin | 玛琪露 |  |  |
