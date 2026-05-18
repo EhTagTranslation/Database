@@ -90,7 +90,7 @@ example:
 | barakamon | 元气囝仔 | 漫画<br>![图](# "https://ehgt.org/91/01/9101a896c63cf4ed7aec31807d55362ec1cbd79a-3065190-2463-3500-jpg_l.jpg") |  |
 | divine gate | 神圣之门 | 游戏<br>![图](# "https://ehgt.org/56/7d/567da8c0ee0c17ca1dabbab905cafb44120748d6-851499-1433-2023-jpg_l.jpg") |  |
 | sayonara zetsubou sensei | 再见！绝望先生 | 漫画<br>![图](https://ehgt.org/81/40/814081ac108eac6524b2431c7f7e2cf9eedc15d7-2120348-2845-4019-jpg_l.jpg) |  |
-| highschool of the dead | 学园默示录 | 肉感打僵尸<br>![图](# "https://ehgt.org/f7/97/f7977f970020e06c854ee8b1e61f7631e0eab27d-1841395-1404-2000-jpg_250.jpg")![图](https://ehgt.org/25/d0/25d0252af47dbf969afd9e84293f16d3b0763952-6834534-7180-10139-jpg_l.jpg) |  |
+| highschool of the dead | 学园默示录 | ![](https://upload.wikimedia.org/wikipedia/en/5/54/Highschool_of_the_Dead_volume_1.png)<br>日语：学園黙示録<br>佐藤大辅担任原作、佐藤庄司作画的日本漫画作品，并有改编动画。 |  |
 | gakkou gurashi | 学园孤岛 | ![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gakkō_Gurashi!_logo.png/220px-Gakkō_Gurashi!_logo.png)<br>萝莉打僵尸<br>![图](# "https://ehgt.org/22/54/2254927f2dc9109156292dd400cdda9892dcbd40-1606151-1512-2103-png_l.jpg") |  |
 | a channel | A频道 | 漫画<br>![图](# "https://ehgt.org/70/af/70afc872d80ae56818347695712c84370978b85f-219447-600-600-jpg_l.jpg") |  |
 | granblue fantasy | ![](https://media.9game.cn/gamebase/ieu-eagle-docking-service/images/20220726/13/29/df5999e63d6a13b0fe2bfc5595c3c846.png?x-oss-process=image/resize,w_120,m_lfit) 碧蓝幻想 | ![](https://gbf.wiki/images/f/fb/News_collaboration_202511_1.png)<br>碧蓝幻想（日文：グランブルーファンタジー）是由`g:cygames`发行开发，由Mobage、DMM、GREE共同运营的网页游戏。有改编动画和漫画作品。<br>简称 GBF |  |
