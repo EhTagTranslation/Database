@@ -2840,6 +2840,7 @@ example:
 | ruri dragon | 琉璃龙龙 | ![](https://lain.bgm.tv/r/400/pic/cover/l/17/48/384745_lItt3.jpg)<br>《琉璃龙龙》（日语：ルリドラゴン）是由日本漫画家真藤雅兴所创作的奇幻漫画作品。 |  |
 | resort boin | 度假村Boin | ![](https://upload.wikimedia.org/wikipedia/zh/8/88/Resort_Boin_game_cover.jpg)<br>日语：リゾートBOIN |  |
 | houshin engi | 封神演义 | 藤崎龙的日本漫画，根据安能务翻译的“讲谈社文库版”《封神演义》改编而成。 |  |
+| kyuukyoku shinka shita full dive rpg ga genjitsu yori mo kusogee dattara | 如果究极进化的完全沉浸RPG比现实更可恶的话 | ![](https://upload.wikimedia.org/wikipedia/en/d/d8/Kyūkyoku_Shinka_shita_Full_Dive_RPG_ga_Genjitsu_yori_mo_Kusoge_Dattara_light_novel_volume_1.jpg)<br>日语：究極進化したフルダイブRPGが現実よりもクソゲーだったら<br>土日月创作的日本轻小说作品，并有改编动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
