@@ -9391,6 +9391,7 @@ example:
 | kashuu kiyomitsu | 加州清光 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/8/8c/Kashuu-1.png)<br>所属作品：`touken ranbu` |  |
 | nansen ichimonji | 南泉一文字 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/4/41/Nansen-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 | fudou yukimitsu | 不动行光 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/0/06/Fudou-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
+| ichigo hitofuri | 一期一振 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/2/28/Ichigo-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
