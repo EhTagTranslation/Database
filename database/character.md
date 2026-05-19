@@ -9402,6 +9402,7 @@ example:
 | mitsuki hokuto | 北都・美月 | ![](https://static.wikia.nocookie.net/tokyo-xanadu/images/1/10/Mitsuki_Hokuto_School_Uniform.jpg)<br>日语：ホクト・ミツキ<br>所属作品：`tokyo xanadu` |  |
 | miho azuki | 亚豆美保 | ![](https://ehgt.org/w/02/383/46946-ly5pd9ck.webp)<br>日语：亜豆 美保<br>所属作品：`bakuman` |  |
 | reona kisaragi | 如月玲於奈 | ![](https://static.wikia.nocookie.net/kyuukyoku-shinka-shita-full-dive-rpg/images/1/13/Reina%28anime%29.png)<br>日语：如月玲於奈<br>所属作品：`kyuukyoku shinka shita full dive rpg ga genjitsu yori mo kusogee dattara` |  |
+| irumyuui | 伊尔缪伊 | ![](https://static.wikia.nocookie.net/madeinabyss/images/8/84/Irumyuui_Human_Anime.png)<br>日语：イルミューイ<br>所属作品：`made in abyss` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
