@@ -9407,6 +9407,7 @@ example:
 | sherumi | 谢鲁米 | 日语：シェルミ<br>所属作品：`made in abyss` |  |
 | shinon ogawa | 小川诗音 | ![](https://static.wikia.nocookie.net/food-for-the-soul/images/8/85/Shinon_Ogawa_Anime.png)<br>日语：小川 しのん<br>所属作品：`hibi wa sugiredo meshi umashi` |  |
 | tsutsuji higa | ‌比嘉踯躅 | ![](https://static.wikia.nocookie.net/food-for-the-soul/images/c/c1/Tsutsuji_Higa_Anime.png)<br>日语：比嘉 つつじ<br>所属作品：`hibi wa sugiredo meshi umashi` |  |
+| aida surugan | 艾达·休冈 | ![](https://static.wikia.nocookie.net/gundam/images/b/b3/Aida_Surugan.png)<br>日语：アイーダ・スルガン<br>原名艾达·雷哈顿。<br>所属作品：`gundam g no reconguista` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
