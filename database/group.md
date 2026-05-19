@@ -13941,6 +13941,7 @@ example:
 | tartarosauce of the hell | 地獄のタルタロソース |  |  |
 | kokushoku suisei teikoku | 黒色彗星帝国 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG19318.html) |
 | sapuri | さぷり | Sapuri |  |
+| tamanohousa | たまのほうさ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79655/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
