@@ -9404,6 +9404,7 @@ example:
 | reona kisaragi | 如月玲於奈 | ![](https://static.wikia.nocookie.net/kyuukyoku-shinka-shita-full-dive-rpg/images/1/13/Reina%28anime%29.png)<br>日语：如月玲於奈<br>所属作品：`kyuukyoku shinka shita full dive rpg ga genjitsu yori mo kusogee dattara` |  |
 | irumyuui | 伊尔缪伊 | ![](https://static.wikia.nocookie.net/madeinabyss/images/8/84/Irumyuui_Human_Anime.png)<br>日语：イルミューイ<br>所属作品：`made in abyss` |  |
 | menae | 梅纳艾 | 日语：メナエ<br>所属作品：`made in abyss` |  |
+| sherumi | 谢鲁米 | 日语：シェルミ<br>所属作品：`made in abyss` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
