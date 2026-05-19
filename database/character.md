@@ -9406,6 +9406,7 @@ example:
 | menae | 梅纳艾 | 日语：メナエ<br>所属作品：`made in abyss` |  |
 | sherumi | 谢鲁米 | 日语：シェルミ<br>所属作品：`made in abyss` |  |
 | shinon ogawa | 小川诗音 | ![](https://static.wikia.nocookie.net/food-for-the-soul/images/8/85/Shinon_Ogawa_Anime.png)<br>日语：小川 しのん<br>所属作品：`hibi wa sugiredo meshi umashi` |  |
+| tsutsuji higa | ‌比嘉踯躅 | ![](https://static.wikia.nocookie.net/food-for-the-soul/images/c/c1/Tsutsuji_Higa_Anime.png)<br>日语：比嘉 つつじ<br>所属作品：`hibi wa sugiredo meshi umashi` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
