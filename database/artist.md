@@ -15208,6 +15208,7 @@ example:
 | jtveemo | ビモ |  | [pixiv](https://www.pixiv.net/users/38437236) |
 | ikusa ryuji | いくさりゅうじ |  |  |
 | yuzunoki ichika | 柚木イチカ |  |  |
+| yumeiro gurasan | 梦色ぐらさん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
