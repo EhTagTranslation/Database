@@ -3752,7 +3752,7 @@ example:
 | yotsuba koiwai | 小岩井四叶 |  |  |
 | torako | 虎子 |  |  |
 | naruko yokoshima | 横岛鸣子 |  |  |
-| aoi hinami | 日南葵 | ![](https://p.sda1.dev/5/e2c3ea537baae8be52f1b3f3abfd12a0/chara2_img.png) |  |
+| aoi hinami | 日南葵 | ![](https://static.wikia.nocookie.net/yowa-chara-tomozaki-kun/images/f/f3/Aoi-02_Anime.png)<br>所属作品：`jaku-chara tomozaki-kun` |  |
 | feena fam earthlight | 菲娜·法姆·阿修莱特 | 菲娜·法姆·阿修莱特（Feena fam Earthlight）是August旗下游戏《更胜黎明前的琉璃色》及其衍生作品的登场角色。<br>![](https://p.sda1.dev/5/e19463143122e42df3a6db71acc0b24f/300px-Feena_Fam_Earthlight.jpg) | [萌娘百科](https://zh.moegirl.org.cn/菲娜·法姆·阿修莱特) |
 | akiko minase | 水濑秋子 | 动画、游戏《Kanon》中的人物。相泽祐一的阿姨，水濑名雪的母亲。 | [百度百科](https://baike.baidu.com/item/水濑秋子/10785282?fr=aladdin) |
 | yuuichi aizawa | 相泽祐一 | 相泽祐一是Key出品的Galgame《Kanon》的登场人物，为作品的男主角。 | [萌娘百科](https://zh.moegirl.org.cn/相泽祐一) |
