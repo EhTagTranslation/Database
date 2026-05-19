@@ -9381,6 +9381,7 @@ example:
 | kousetsu samonji | 江雪左文字 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/a/a1/Kousetsu-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 | souza samonji | 宗三左文字 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/9/96/Souza-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 | azuki nagamitsu | 小豆长光 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/5/5d/Azuki-1.png)<br>所属作品：`touken ranbu` |  |
+| kogarasumaru | 小乌丸 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/b/bf/Kogarasumaru-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
