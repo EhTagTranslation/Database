@@ -2077,7 +2077,7 @@ example:
 |  | ▼ 爱相随 |  |  |
 | akira yukino | 雪乃玲 |  | [百度百科](https://baike.baidu.com/item/雪乃玲) |
 | manaka takane | 高岭爱花 | ![](https://static.wikia.nocookie.net/love-plus/images/5/58/Manaka_takane.jpg/revision/latest?cb=20100909163045)<br>出自作品：`p:love plus`<br><br>高岭爱花（高嶺愛花 ，たかねまなか）是Konami旗下游戏《Love Plus》《New Love Plus》《New Love Plus Plus》《Love Plus Every》系列中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/高岭爱花) \| [Fandom](https://love-plus.fandom.com/wiki/Manaka_Takane) |
-| nene anegasaki | 姐崎宁宁 |  | [萌娘百科](https://zh.moegirl.org.cn/姐崎宁宁) |
+| nene anegasaki | 姐崎宁宁 | ![](https://ehgt.org/w/02/137/99439-v0wwv2g0.webp)<br>所属作品：`love plus` | [萌娘百科](https://zh.moegirl.org.cn/姐崎宁宁) |
 | rinko kobayakawa | 小早川凛子 |  | [萌娘百科](https://zh.moegirl.org.cn/小早川凛子) |
 |  | ▼ 真爱记录 |  |  |
 | mariana prinsilla | 玛莉安娜·普林希拉 |  |  |
