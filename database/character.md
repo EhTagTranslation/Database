@@ -9214,7 +9214,7 @@ example:
 | green arrow | 绿箭侠 |  |  |
 | corticarte apa lagranges | 珂緹卡兒蒂·阿帕·拉格朗潔絲 | ![](https://t.vndb.org/ch/01/52901.jpg)<br>出自作品：`p:shinkyoku soukai polyphonica`<br><br>珂緹卡兒蒂·阿帕·拉格朗潔絲（Corticarte Apa Lagranges / コーティカルテ・アパ・ラグランジェス）是輕小說及動畫作品《神曲奏界》（Shinkyoku Sōkai Polyphonica）系列中的女主角。 | [vndb](https://vndb.org/c39745) |
 | yuuko ichihara | 壹原侑子 |  |  |
-| tonbokiri | 蜻蛉切 |  |  |
+| tonbokiri | 蜻蛉切 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/2/24/Tonbokiri-1.png)<br>所属作品：`touken ranbu` |  |
 | riku | 里克 \| 利库 |  |  |
 | sasha blouse | 萨莎·布劳斯 | ![](https://static.wikia.nocookie.net/shingekinokyojin/images/6/61/Sasha_Render_%28AOT_Game%29.png)<br>所属作品:`shingeki no kyojin` | [萌娘百科](https://zh.moegirl.org.cn/萨莎·布劳斯)<br>[百度百科](https://baike.baidu.com/item/萨莎·布劳斯/4376661) |
 | kurumi takakura | 高仓胡桃 | ![](https://storage.moegirl.org.cn/moegirl/commons/c/ce/BA_Kurumi.png)<br>所属作品: `blue archive` | [萌娘百科 - 蔚蓝档案](https://zh.moegirl.org.cn/高仓胡桃) |
