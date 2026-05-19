@@ -9352,6 +9352,7 @@ example:
 | tsurumaru kuninaga | 鹤丸国永 | ![](https://static.wikia.nocookie.net/tkrbwarriors/images/9/94/TR_Warriors_Tsurumaru_Kuninaga.png)<br>所属作品：`touken ranbu` |  |
 | heshikiri hasebe | 压切长谷部 | ![](https://static.wikia.nocookie.net/tkrbwarriors/images/a/a2/TR_Warriors_Heshikiri_Hasebe.png)<br>所属作品：`touken ranbu` |  |
 | kasen kanesada | 歌仙兼定 | ![](https://static.wikia.nocookie.net/tkrbwarriors/images/b/bc/TR_Warriors_Kasen_Kanesada.png)<br>所属作品：`touken ranbu` |  |
+| sayo samonji | 小夜左文字 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/2/2d/Sayo-1.png)<br>所属作品：`touken ranbu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
