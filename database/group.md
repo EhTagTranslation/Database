@@ -2827,7 +2827,7 @@ example:
 | ankanke | 安閑家 |  |  |
 | ankimo factory | あんきも工房 |  |  |
 | anko koubou | あんこ工房 |  |  |
-| ankoku azumaya | 暗黒あずまや |  |  |
+| ankoku azumaya | 暗黒あずまや |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44864.html) |
 | ankoku marimokan | アンコクマリモカン |  |  |
 | ankoku-bousougumi | 暗黒暴走組 |  |  |
 | ankoya | アンコ屋 |  |  |
