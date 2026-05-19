@@ -292,7 +292,7 @@ example:
 | ka-class | 潜艇KA级 |  |  |
 | so-class | 潜艇SO级 |  |  |
 | ri-class | 重巡RI级 |  |  |
-| re-class | 战舰RE级 |  |  |
+| re-class | 战舰RE级 | ![](https://static.wikia.nocookie.net/kancolle/images/e/e9/Battleship_Re-Class_Elite_Full.png)<br>所属作品：`kantai collection` |  |
 | ta-class | 战舰TA级 |  |  |
 | wo-class | 空母WO级 | wo酱![空母ヲ级](# "https://ehgt.org/c2/ff/c2fff508b2664099300961bb06ea3180c7a8442d-1119222-1411-2000-jpg_250.jpg") |  |
 | teitoku | 提督 |  | [战舰少女:提督](https://zh.moegirl.org.cn/战舰少女:提督) |
