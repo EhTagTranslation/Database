@@ -9383,6 +9383,7 @@ example:
 | azuki nagamitsu | 小豆长光 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/5/5d/Azuki-1.png)<br>所属作品：`touken ranbu` |  |
 | kogarasumaru | 小乌丸 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/b/bf/Kogarasumaru-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 | oodenta mitsuyo | 大典太光世 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/3/34/Oodenta-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
+| juzumaru tsunetsugu | 数珠丸恒次 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/8/8e/Juzumaru-1.png)<br>所属作品：`touken ranbu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
