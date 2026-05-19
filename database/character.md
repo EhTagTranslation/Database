@@ -294,7 +294,7 @@ example:
 | ri-class | 重巡RI级 |  |  |
 | re-class | 战舰RE级 | ![](https://static.wikia.nocookie.net/kancolle/images/e/e9/Battleship_Re-Class_Elite_Full.png)<br>所属作品：`kantai collection` |  |
 | ta-class | 战舰TA级 | ![](https://static.wikia.nocookie.net/kancolle/images/1/14/Battleship_Ta-Class_Full.png)<br>所属作品：`kantai collection` |  |
-| wo-class | 空母WO级 | wo酱![空母ヲ级](# "https://ehgt.org/c2/ff/c2fff508b2664099300961bb06ea3180c7a8442d-1119222-1411-2000-jpg_250.jpg") |  |
+| wo-class | 空母WO级 | ![](https://static.wikia.nocookie.net/kancolle-viet/images/a/a4/Wo_n.png)<br>所属作品：`kantai collection` |  |
 | teitoku | 提督 |  | [战舰少女:提督](https://zh.moegirl.org.cn/战舰少女:提督) |
 | nagato | 长门(鲨) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/1185f831404df8a477039efb2f48829b262400697.png)<br>原型为旧日本帝国海军的长门级战列舰1号舰“长门”（長門(戦艦)） | [碧蓝航线:长门](https://zh.moegirl.org.cn/碧蓝航线:长门) [战舰少女:长门](https://zh.moegirl.org.cn/战舰少女:长门) [舰队Collection:长门](https://zh.moegirl.org.cn/舰队Collection:长门) |
 | mutsu | 陆奥(鲛) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/da15a4f2870e19c308ba0c2857748d5f262400697.png)<br>旧日本帝国海军的陆奥号战列舰（ 陆奥(战舰)） | [碧蓝航线:陆奥](https://zh.moegirl.org.cn/碧蓝航线:陆奥) [战舰少女:陆奥](https://zh.moegirl.org.cn/战舰少女:陆奥) [舰队Collection:陆奥](https://zh.moegirl.org.cn/舰队Collection:陆奥) |
