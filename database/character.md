@@ -9377,6 +9377,7 @@ example:
 | hizamaru | 膝丸 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/9/9c/Hizamaru-1.png)<br>所属作品：`touken ranbu` |  |
 | higekiri | 髭切 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/6/6f/Higekiri-1.png)<br>所属作品：`touken ranbu` |  |
 | doudanuki masakuni | 同田贯正国 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/2/22/Doudanuki-1.png)<br>所属作品：`touken ranbu` |  |
+| otegine | 御手杵 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/1/10/Otegine-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
