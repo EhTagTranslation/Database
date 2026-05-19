@@ -9393,6 +9393,7 @@ example:
 | fudou yukimitsu | 不动行光 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/0/06/Fudou-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 | ichigo hitofuri | 一期一振 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/2/28/Ichigo-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 | jiroutachi | 次郎太刀 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/f/fe/Jiroutachi-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
+| sengo muramasa | 千子村正 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/6/61/Sengo-1.png)<br>所属作品：`touken ranbu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
