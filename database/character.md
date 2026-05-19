@@ -9371,6 +9371,7 @@ example:
 | kogitsunemaru | 小狐丸 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/6/61/Kogitsunemaru-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 | nakigitsune | 鸣狐 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/a/a9/Nakigitsune-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 | taroutachi | 太郎太刀 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/d/df/Taroutachi-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
+| kotegiri gou | 篭手切江 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/6/68/Kotegiri-Kiwame4.png)<br>所属作品：`touken ranbu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
