@@ -9358,6 +9358,7 @@ example:
 | izuminokami kanesada | 和泉守兼定 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/f/fc/Izuminokami-1.png)<br>所属作品：`touken ranbu` |  |
 | kikkou sadamune | 龟甲贞宗 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/3/3b/Kikkou-1.png)<br>所属作品：`touken ranbu` |  |
 | hakata toushirou | 博多藤四郎 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/1/1d/Hakata-1.png)<br>所属作品：`touken ranbu` |  |
+| hirano toushirou | ‌平野藤四郎 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/2/29/Hirano-1.png)<br>所属作品：`touken ranbu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
