@@ -6994,7 +6994,7 @@ example:
 | kurumian | くるみ庵 |  |  |
 | kurusugawa pikumintei | 来栖川ピクミン亭 |  |  |
 | kusanagi-blade | KUSANAGI-BLADE |  |  |
-| kusari | KUSARI |  |  |
+| kusari | KUSARI |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG17447.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72307/) |
 | kusari caterpillar | 锁キャタピラ |  |  |
 | kusari no youjo | 鎖の幼女 |  |  |
 | kusariku | 草陸 |  |  |
