@@ -9399,6 +9399,7 @@ example:
 | gokotai | 五虎退 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/2/27/Gokotai-Kiwame2.png)<br>所属作品：`touken ranbu` |  |
 | sode no shirayuki | 袖白雪 | ![](https://lain.bgm.tv/r/400/pic/crt/l/1e/9c/8754_crt_3n391.jpg?r=1666101203)<br>所属作品：`bleach` |  |
 | tsukuyo | 月咏 | ![](https://ehgt.org/w/01/987/71043-6lqai3m7.webp)<br>日语：月詠<br>所属作品：`gintama` |  |
+| mitsuki hokuto | 北都・美月 | ![](https://static.wikia.nocookie.net/tokyo-xanadu/images/1/10/Mitsuki_Hokuto_School_Uniform.jpg)<br>日语：ホクト・ミツキ<br>所属作品：`tokyo xanadu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
