@@ -9385,6 +9385,7 @@ example:
 | oodenta mitsuyo | 大典太光世 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/3/34/Oodenta-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 | juzumaru tsunetsugu | 数珠丸恒次 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/8/8e/Juzumaru-1.png)<br>所属作品：`touken ranbu` |  |
 | ishikirimaru | 石切丸 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/7/77/Ishikirimaru-1.png)<br>所属作品：`touken ranbu` |  |
+| nikkari aoe | 派别青江 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/e/e7/Nikkari-1.png)<br>所属作品：`touken ranbu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
