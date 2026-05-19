@@ -9369,6 +9369,7 @@ example:
 | iwatooshi | 岩融 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/5/56/Iwatooshi-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 | tomoegata naginata | 巴形薙刀 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/1/1e/Tomoegata-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 | kogitsunemaru | 小狐丸 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/6/61/Kogitsunemaru-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
+| nakigitsune | 鸣狐 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/a/a9/Nakigitsune-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
