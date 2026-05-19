@@ -9352,7 +9352,7 @@ example:
 | tsurumaru kuninaga | 鹤丸国永 | ![](https://static.wikia.nocookie.net/tkrbwarriors/images/9/94/TR_Warriors_Tsurumaru_Kuninaga.png)<br>所属作品：`touken ranbu` |  |
 | heshikiri hasebe | 压切长谷部 | ![](https://static.wikia.nocookie.net/tkrbwarriors/images/a/a2/TR_Warriors_Heshikiri_Hasebe.png)<br>所属作品：`touken ranbu` |  |
 | kasen kanesada | 歌仙兼定 | ![](https://static.wikia.nocookie.net/tkrbwarriors/images/b/bc/TR_Warriors_Kasen_Kanesada.png)<br>所属作品：`touken ranbu` |  |
-| sayo samonji | 小夜左文字 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/2/2d/Sayo-1.png)<br>所属作品：`touken ranbu` |  |
+| sayo samonji | 小夜左文字 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/9/91/Sayo-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 | yamanbagiri chougi | 山姥切长义 | ![](https://static.wikia.nocookie.net/tkrbwarriors/images/4/47/TR_Warriors_Yamanbagiri_Chougi.png)<br>所属作品：`touken ranbu` |  |
 | yamanbagiri kunihiro | 山姥切国广 | ![](https://static.wikia.nocookie.net/tkrbwarriors/images/3/33/TR_Warriors_Yamanbagiri_Kunihiro.png)<br>所属作品：`touken ranbu` |  |
 | izuminokami kanesada | 和泉守兼定 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/f/fc/Izuminokami-1.png)<br>所属作品：`touken ranbu` |  |
