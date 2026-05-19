@@ -9355,6 +9355,7 @@ example:
 | sayo samonji | 小夜左文字 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/2/2d/Sayo-1.png)<br>所属作品：`touken ranbu` |  |
 | yamanbagiri chougi | 山姥切长义 | ![](https://static.wikia.nocookie.net/tkrbwarriors/images/4/47/TR_Warriors_Yamanbagiri_Chougi.png)<br>所属作品：`touken ranbu` |  |
 | yamanbagiri kunihiro | 山姥切国广 | ![](https://static.wikia.nocookie.net/tkrbwarriors/images/3/33/TR_Warriors_Yamanbagiri_Kunihiro.png)<br>所属作品：`touken ranbu` |  |
+| izuminokami kanesada | 和泉守兼定 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/f/fc/Izuminokami-1.png)<br>所属作品：`touken ranbu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
