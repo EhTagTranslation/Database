@@ -9621,7 +9621,7 @@ example:
 | ranmado | 乱馬堂 |  |  |
 | ranranpop | らんらんぽっぷ |  |  |
 | ranshi to kimi to. | 乱視と君と。 |  |  |
-| rapurando | らぷらんど |  |  |
+| rapurando | らぷらんど |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG13149.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=25901/) \| [pixiv](https://www.pixiv.net/users/5334592) \| [FANBOX](https://rapurando.fanbox.cc/) \| [X](https://x.com/rapu_ran_do) |
 | rare okowa | レアおこわ |  |  |
 | rasa house | らさはうす |  |  |
 | rascou | らすこう |  |  |
