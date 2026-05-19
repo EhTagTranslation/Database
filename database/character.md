@@ -4210,7 +4210,7 @@ example:
 | atsushi toushirou | 厚藤四郎 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/f/f7/Atsushi-1.png)<br>所属作品：`touken ranbu` |  |
 | saniwa | 审神者 | ![](https://lain.bgm.tv/r/400/pic/crt/l/af/97/54366_crt_O8553.jpg?r=1497189753)<br>所属作品：`touken ranbu` |  |
 | houchou toushirou | 包丁藤四郎 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/8/86/Houchou-1.png)<br>所属作品：`touken ranbu` |  |
-| shokudaikiri mitsutada | 烛台切光忠 |  |  |
+| shokudaikiri mitsutada | 烛台切光忠 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/4/4b/Shokudaikiri-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 | horikawa kunihiro | 堀川国广 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/1/13/Horikawa-1.png)<br>所属作品：`touken ranbu` |  |
 | vajra | 瓦姬拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/a/a2/Zoom_3040147000_01.png)<br>所属作品：`granblue fantasy` |  |
 | tighnari | 提纳里 | ![](https://patchwiki.biligame.com/images/ys/d/dd/chspigejtx2316cncu3lzyyz02vg8tc.gif)<br>所属作品:`p:genshin impact`<br><br>精通植物学的少年学者，现于道成林任巡林官一职。直率热忱，擅长教导脑瓜糊涂的人。 | [萌娘百科](https://zh.moegirl.org.cn/提纳里) [Fandom](https://genshin-impact.fandom.com/ja/wiki/ティナリ) |
