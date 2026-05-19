@@ -4204,7 +4204,7 @@ example:
 | lena liechtenauer | 蕾娜·列支敦瑙尔 | 蕾娜·列支敦瑙尔（日语：レナ・リヒテナウアー；英语/德语：Lena Liechtenauer）是柚子社所创作的美少女游戏《`senren banka`》的登场角色，女主角之一。<br>![](https://p.sda1.dev/7/f03379a0680f2a3272d0e4a45f2d86b3/蕾娜·莉希特娜瓦_1_.JPG) | [萌娘百科](https://zh.moegirl.org.cn/蕾娜·列支敦瑙尔) |
 | tamaki tamada | 玉田环 |  |  |
 | shizuko hosomi | 细见静子 |  |  |
-| yagen toushirou | 药研藤四郎 |  |  |
+| yagen toushirou | 药研藤四郎 | ![](https://static.wikia.nocookie.net/tkrbwarriors/images/d/dd/TR_Warriors_Yagen_Toushirou.png)<br>所属作品：`touken ranbu` |  |
 | shinano toushirou | 信浓藤四郎 |  |  |
 | gotou toushirou | 后藤藤四郎 |  |  |
 | atsushi toushirou | 厚藤四郎 |  |  |
