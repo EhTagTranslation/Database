@@ -9408,6 +9408,7 @@ example:
 | shinon ogawa | 小川诗音 | ![](https://static.wikia.nocookie.net/food-for-the-soul/images/8/85/Shinon_Ogawa_Anime.png)<br>日语：小川 しのん<br>所属作品：`hibi wa sugiredo meshi umashi` |  |
 | tsutsuji higa | ‌比嘉踯躅 | ![](https://static.wikia.nocookie.net/food-for-the-soul/images/c/c1/Tsutsuji_Higa_Anime.png)<br>日语：比嘉 つつじ<br>所属作品：`hibi wa sugiredo meshi umashi` |  |
 | aida surugan | 艾达·休冈 | ![](https://static.wikia.nocookie.net/gundam/images/b/b3/Aida_Surugan.png)<br>日语：アイーダ・スルガン<br>原名艾达·雷哈顿。<br>所属作品：`gundam g no reconguista` |  |
+| rion otonashi | 音无莉音 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ef/01/126248_crt_iriVX.jpg)<br>所属作品：`kyokou suiri` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
