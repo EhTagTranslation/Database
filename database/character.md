@@ -9378,6 +9378,7 @@ example:
 | higekiri | 髭切 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/6/6f/Higekiri-1.png)<br>所属作品：`touken ranbu` |  |
 | doudanuki masakuni | 同田贯正国 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/2/22/Doudanuki-1.png)<br>所属作品：`touken ranbu` |  |
 | otegine | 御手杵 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/1/10/Otegine-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
+| kousetsu samonji | 江雪左文字 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/a/a1/Kousetsu-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
