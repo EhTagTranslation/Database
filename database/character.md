@@ -538,7 +538,7 @@ example:
 | kuubo seiki | 空母栖姬 |  | [舰队Collection:空母栖姬](https://zh.moegirl.org.cn/舰队Collection:空母栖姬) |
 | kuubo suiki | 空母水鬼 |  | [舰队Collection:空母水鬼](https://zh.moegirl.org.cn/舰队Collection:空母水鬼) |
 | soukou kuuboki | 装甲空母姬 |  | [舰队Collection:装甲空母姬](https://zh.moegirl.org.cn/舰队Collection:装甲空母姬) |
-| senkan seiki | 战舰栖姬 |  | [舰队Collection:战舰栖姬](https://zh.moegirl.org.cn/舰队Collection:战舰栖姬) |
+| senkan seiki | 战舰栖姬 | ![](https://static.wikia.nocookie.net/villains/images/9/94/Bb_hime.png)<br>所属作品：`kantai collection` | [舰队Collection:战舰栖姬](https://zh.moegirl.org.cn/舰队Collection:战舰栖姬) |
 | hoppou seiki | 北方栖姬 |  | [舰队Collection:北方栖姬](https://zh.moegirl.org.cn/舰队Collection:北方栖姬) |
 | nanpou seiki | 南方栖鬼 |  | [舰队Collection:南方栖鬼](https://zh.moegirl.org.cn/舰队Collection:南方栖鬼) |
 | shuusekichi seiki | 集积地栖姬 |  | [舰队Collection:集积地栖姬](https://zh.moegirl.org.cn/舰队Collection:集积地栖姬) |
