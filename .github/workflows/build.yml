@@ -14,7 +14,7 @@ jobs:
   build:
     permissions:
       contents: write
-    runs-on: ubuntu-slim
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v6
@@ -79,7 +79,7 @@ jobs:
   mirror:
     permissions:
       contents: read
-    runs-on: ubuntu-slim
+    runs-on: ubuntu-latest
     if: ${{ github.repository == 'EhTagTranslation/Database' }}
     needs: build
 
