@@ -545,7 +545,7 @@ example:
 | ritou seiki | 离岛栖姬 |  | [舰队Collection:离岛栖姬](https://zh.moegirl.org.cn/舰队Collection:离岛栖姬) |
 | kouwan seiki | 港湾栖姬 | ![](https://static.wikia.nocookie.net/kancolle/images/2/22/Harbour_Princess_II_Full.png)<br>所属作品：`kantai collection` | [舰队Collection:港湾栖姬](https://zh.moegirl.org.cn/舰队Collection:港湾栖姬) |
 | chuukan seiki | 中间栖姬 |  | [舰队Collection:中间栖姬](https://zh.moegirl.org.cn/舰队Collection:中间栖姬) |
-| hikoujouki | 飞行场姬 |  | [舰队Collection:飞行场姬](https://zh.moegirl.org.cn/舰队Collection:飞行场姬) |
+| hikoujouki | 飞行场姬 | ![](https://static.wikia.nocookie.net/kancolle/images/c/cb/Port_hime.png)<br>所属作品：`kantai collection` | [舰队Collection:飞行场姬](https://zh.moegirl.org.cn/舰队Collection:飞行场姬) |
 | lion | 狮 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/a/a0/oia6ei9zb2i8rb28wg1v94vafclo51z.jpg/525px-狮立绘.jpg) | [战舰少女:狮](https://zh.moegirl.org.cn/战舰少女:狮) [战舰少女:狮(战列巡洋舰)](https://zh.moegirl.org.cn/战舰少女:狮%28战列巡洋舰%29) |
 | kagero | 阳炎 | 旧日本帝国海军的阳炎号驱逐舰（陽炎(陽炎型駆逐艦)） | [碧蓝航线:阳炎](https://zh.moegirl.org.cn/碧蓝航线:阳炎) [战舰少女:阳炎](https://zh.moegirl.org.cn/战舰少女:阳炎) [舰队Collection:阳炎](https://zh.moegirl.org.cn/舰队Collection:阳炎) |
 | el condor pasa | 神鹰 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/6/60/kxzbqnpl4iwoektx10ydtv3t9ig2qff.png/600px-Jsf_101401.png)<br>所属作品：`uma musume pretty derby` | [赛马娘:神鹰](https://zh.moegirl.org.cn/神鹰) [战舰少女:神鹰](https://zh.moegirl.org.cn/战舰少女:神鹰) [舰队Collection:神鹰](https://zh.moegirl.org.cn/舰队Collection:神鹰) |
