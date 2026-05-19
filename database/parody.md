@@ -120,7 +120,7 @@ example:
 | turn a gundam | ∀高达 |  |  |
 |  | ▲高达 系列 |  |  |
 | kiniro mosaic | 黄金拼图 | Happy Day!<br>黄图×点兔，两大萝莉控天堂<br>![图](https://ehgt.org/5a/8f/5a8f63996f610842bb0aacf6fbb85fdd562af8e1-2129828-2680-3800-jpg_l.jpg)![图](https://ehgt.org/6c/f3/6cf307633a93741aae2b49d277d0246a6c443fbf-2197700-2461-3500-jpg_l.jpg) |  |
-| gochuumon wa usagi desu ka | 请问您今天要来点兔子吗？ | 黄图×点兔，两大萝莉控天堂<br>![点兔](https://ehgt.org/b3/1e/b31eda4c064a25c49e2df84acce9b7999d3f318d-2304567-2477-3500-jpg_l.jpg)![图](# "https://ehgt.org/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg") |  |
+| gochuumon wa usagi desu ka | 请问您今天要来点兔子吗？ | ![](https://upload.wikimedia.org/wikipedia/zh/5/54/Rabbit_comic.jpg)<br>日本漫画家Koi原作的同名四格漫画，并有改编动画。 |  |
 | non non biyori | 悠哉日常大王 | ![图](https://ehgt.org/59/0c/590c82282e840fcf1916ca9751ea6c6fab6fc918-2831485-1420-2015-jpg_l.jpg)![图](https://ehgt.org/a2/ab/a2ab7d0ee1a3b5904fd7aaddfc21196bde19ebd3-743337-2114-2995-jpg_l.jpg) |  |
 | oda nobuna no yabou | 织田信奈的野望 | ![](https://static.wikia.nocookie.net/odanobunanoyabou/images/c/c1/Oda.jpg)<br>《织田信奈的野望》改编自春日御影著作、美山零负责插画的同名轻小说的历史穿越题材作品。 |  |
 | tamako market | 玉子市场 | ![图](https://ehgt.org/3f/f2/3ff239e2101a3517f6fe95c8c471214c82953376-160698-645-1000-jpg_l.jpg) |  |
