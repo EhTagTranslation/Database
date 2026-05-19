@@ -9360,6 +9360,7 @@ example:
 | hakata toushirou | 博多藤四郎 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/1/1d/Hakata-1.png)<br>所属作品：`touken ranbu` |  |
 | hirano toushirou | ‌平野藤四郎 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/2/29/Hirano-1.png)<br>所属作品：`touken ranbu` |  |
 | akita toushirou | 秋田藤四郎 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/7/72/Akita-1.png)<br>所属作品：`touken ranbu` |  |
+| midare toushirou | 乱藤四郎 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/c/ca/Midare-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
