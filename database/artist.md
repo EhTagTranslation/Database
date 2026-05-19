@@ -1280,7 +1280,7 @@ example:
 | fatke | FatKE |  |  |
 | satsuki neko | 五月猫 |  |  |
 | akinashi yuu | 春夏冬ゆう |  | [pixiv](https://www.pixiv.net/users/10769105) |
-| jakou nezumi | じゃこうねずみ |  |  |
+| jakou nezumi | 麝香鼠 |  |  |
 |  | HAMD |  |  |
 | nagi yuki | 凪居ユキ |  |  |
 | kusui aruta | 久水あるた |  |  |
