@@ -9395,6 +9395,7 @@ example:
 | jiroutachi | 次郎太刀 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/f/fe/Jiroutachi-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 | sengo muramasa | 千子村正 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/6/61/Sengo-1.png)<br>所属作品：`touken ranbu` |  |
 | hotarumaru | 萤丸 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/1/1a/Hotarumaru-1.png)<br>所属作品：`touken ranbu` |  |
+| maeda toushirou | 前田藤四郎 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/b/bf/Maeda-2.png)<br>所属作品：`touken ranbu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
