@@ -9364,6 +9364,7 @@ example:
 | masahide suishinshi | ‌水心子正秀 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/a/af/Suishinshi-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 | minamoto kiyomaro | 源清磨 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/3/3e/Minamoto-1.png)<br>所属作品：`touken ranbu` |  |
 | ookurikara | 大俱利伽罗 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/c/ca/Ookurikara-1.png)<br>所属作品：`touken ranbu` |  |
+| daihannya nagamitsu | 大般若长光 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/0/0e/Daihannya-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
