@@ -5512,7 +5512,7 @@ example:
 | chika komari | 小鞠知花 | 石蕗高中一年级生，温水的同级同学，文艺部部员，性格有点自卑，但长相端正，且身形娇小的腐女 |  |
 | kazuhiko nukumizu | 温水和彦 | 所属作品：`make heroine ga oosugiru`<br>![](https://img.moegirl.org.cn/common/6/6d/Nukumizu_Kazuhiko.jpg) | [萌娘百科](https://zh.moegirl.org.cn/温水和彦) |
 | fumiya tomozaki | 友崎文也 | 就读关友高中二年级，另一个身份是线上连机对战游戏《AttaFami》全日本第一的玩家“nanashi”。 |  |
-| minami nanami | 七海深奈实 | 关友高中二年级，友崎的同班同学，留着马尾的美少女，班上的现充之一。身高162cm。 |  |
+| minami nanami | 七海深奈实 | ![](https://static.wikia.nocookie.net/yowa-chara-tomozaki-kun/images/f/f8/Mimimi-01_MGSO.png)<br>所属作品：`jaku-chara tomozaki-kun` |  |
 | anna yanami | 八奈见杏菜 | 所属作品：`make heroine ga oosugiru`<br>![](https://i.pixiv.cat/img-master/img/2025/01/07/10/30/01/125986402_p0_master1200.jpg) | [萌娘百科](https://zh.moegirl.org.cn/八奈见杏菜) |
 | lemon yakishio | 烧盐柠檬 | ![](https://ehgt.org/w/01/988/22513-lz2sub0u.webp)<br>出自作品：`p:make heroine ga oosugiru`<br>日语：焼塩檸檬 / やきしおれもん | [萌娘百科](https://zh.moegirl.org.cn/烧盐柠檬) |
 | kayo hinazuki | 雏月加代 |  |  |
