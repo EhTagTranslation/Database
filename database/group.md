@@ -12487,7 +12487,7 @@ example:
 | yukinko okeya | 雪ん娘おけ屋 |  |  |
 | momonomi plus | もものみプラス |  |  |
 | metsuki warui kyoudan | 目つき悪い教団 |  |  |
-| chinpan-bu | チンパン部 |  |  |
+| chinpan-bu | チンパン部 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200423/) |
 | mondomura tomo no kai | 蒙德村友会 |  |  |
 | pirori kingdom | PiRORI KINGDOM |  |  |
 | kinomiki no mama | 木の幹のまま |  |  |
