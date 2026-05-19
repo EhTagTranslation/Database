@@ -3196,7 +3196,7 @@ example:
 | saizu nitou gunsou | 才津二等軍曹 | ![twitter头像](https://pbs.twimg.com/profile_images/1380524702754426884/NRVM7YEV_400x400.jpg)<br>**作者twitter头像** | [X](https://x.com/sgtsize) [pixiv](https://www.pixiv.net/users/14954015) |
 | nakamura rohane | 中村六翅 |  | [pixiv](https://www.pixiv.net/users/5110556)<br>[X](https://x.com/NakamuraRohane) |
 | nohito | nohito | ![twitter头像](https://pbs.twimg.com/profile_images/1204440904028868615/nfQdl3Xa_400x400.png)<br>**作者推特头像** | [X](https://x.com/nohito_nohito) [pixiv](https://www.pixiv.net/users/27078) |
-| turiganesou | 釣鐘草 | ![X](https://pbs.twimg.com/profile_images/1054587302951870464/ptcsnCaI_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/turiganesou800) [pixiv](https://www.pixiv.net/users/10488370) |
+| turiganesou | 钓钟草 | ![X](https://pbs.twimg.com/profile_images/1054587302951870464/ptcsnCaI_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/turiganesou800) [pixiv](https://www.pixiv.net/users/10488370) |
 | kyo1 | 響樹はじめ | ![X](https://pbs.twimg.com/profile_images/864148970678788097/3jdWG4lG_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/kyo1_) [pixiv](https://www.pixiv.net/users/3289) |
 | shimimaru | 纸鱼丸 | ![X](https://pbs.twimg.com/profile_images/633962792341499904/tHmXqnvI_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/shlml) [pixiv](https://www.pixiv.net/users/33611) |
 | arai kei | 荒井启 | ![X](https://pbs.twimg.com/profile_images/503747246806949889/0DOOHDu__400x400.jpeg)<br><br>**作者推特头像**<br>同人サークル関西オレンジの中の人です。同人誌やコアマガジンでの掲載作品などの情報が中心です。エッチな絵もあるので一応18禁です。<br><br>同人社团 `kansai orange` 画师<br><br>![works](# "https://pbs.twimg.com/media/E-6LJn1VQAcgRIX?format=jpg&name=4096x4096") | [X](https://x.com/araik40) [pixiv](https://www.pixiv.net/users/20927374) |
