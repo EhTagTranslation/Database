@@ -4146,7 +4146,7 @@ example:
 | aoi itigo | 葵イチゴ |  |  |
 | aoi levin | あおいれびん |  |  |
 | aoi mikan | 葵蜜柑 |  |  |
-| aoi mikku | アオイみっく |  |  |
+| aoi mikku | アオイみっく |  | [pixiv](https://www.pixiv.net/users/13365303) |
 | aoi mizuki | 蒼居観月 |  |  |
 | aoi muramasa | 蒼井村正 |  |  |
 | aoi remi | 青井レミ |  |  |
