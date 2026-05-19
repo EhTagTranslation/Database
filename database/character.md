@@ -9372,7 +9372,7 @@ example:
 | nakigitsune | 鸣狐 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/a/a9/Nakigitsune-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 | taroutachi | 太郎太刀 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/d/df/Taroutachi-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 | kotegiri gou | 篭手切江 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/6/68/Kotegiri-Kiwame4.png)<br>所属作品：`touken ranbu` |  |
-| battleship water demon | 战舰栖鬼 | ![](https://static.wikia.nocookie.net/villains/images/4/46/Battleship_Water_Demon_Full.png)<br>所属作品：`kantai collection` |  |
+| battleship water demon | 战舰水鬼 | ![](https://static.wikia.nocookie.net/villains/images/4/46/Battleship_Water_Demon_Full.png)<br>所属作品：`kantai collection` |  |
 | mutsunokami yoshiyuki | 陆奥守吉行 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/c/c7/Mutsunokami-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
 | hizamaru | 膝丸 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/9/9c/Hizamaru-1.png)<br>所属作品：`touken ranbu` |  |
 | higekiri | 髭切 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/6/6f/Higekiri-1.png)<br>所属作品：`touken ranbu` |  |
