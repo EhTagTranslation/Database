@@ -543,7 +543,7 @@ example:
 | nanpou seiki | 南方栖鬼 |  | [舰队Collection:南方栖鬼](https://zh.moegirl.org.cn/舰队Collection:南方栖鬼) |
 | shuusekichi seiki | 集积地栖姬 |  | [舰队Collection:集积地栖姬](https://zh.moegirl.org.cn/舰队Collection:集积地栖姬) |
 | ritou seiki | 离岛栖姬 |  | [舰队Collection:离岛栖姬](https://zh.moegirl.org.cn/舰队Collection:离岛栖姬) |
-| kouwan seiki | 港湾栖姬 |  | [舰队Collection:港湾栖姬](https://zh.moegirl.org.cn/舰队Collection:港湾栖姬) |
+| kouwan seiki | 港湾栖姬 | ![](https://static.wikia.nocookie.net/kancolle/images/2/22/Harbour_Princess_II_Full.png)<br>所属作品：`kantai collection` | [舰队Collection:港湾栖姬](https://zh.moegirl.org.cn/舰队Collection:港湾栖姬) |
 | chuukan seiki | 中间栖姬 |  | [舰队Collection:中间栖姬](https://zh.moegirl.org.cn/舰队Collection:中间栖姬) |
 | hikoujouki | 飞行场姬 |  | [舰队Collection:飞行场姬](https://zh.moegirl.org.cn/舰队Collection:飞行场姬) |
 | lion | 狮 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/a/a0/oia6ei9zb2i8rb28wg1v94vafclo51z.jpg/525px-狮立绘.jpg) | [战舰少女:狮](https://zh.moegirl.org.cn/战舰少女:狮) [战舰少女:狮(战列巡洋舰)](https://zh.moegirl.org.cn/战舰少女:狮%28战列巡洋舰%29) |
