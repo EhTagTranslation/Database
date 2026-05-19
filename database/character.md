@@ -541,7 +541,7 @@ example:
 | senkan seiki | 战舰栖姬 | ![](https://static.wikia.nocookie.net/villains/images/9/94/Bb_hime.png)<br>所属作品：`kantai collection` | [舰队Collection:战舰栖姬](https://zh.moegirl.org.cn/舰队Collection:战舰栖姬) |
 | hoppou seiki | 北方栖姬 |  | [舰队Collection:北方栖姬](https://zh.moegirl.org.cn/舰队Collection:北方栖姬) |
 | nanpou seiki | 南方栖鬼 |  | [舰队Collection:南方栖鬼](https://zh.moegirl.org.cn/舰队Collection:南方栖鬼) |
-| shuusekichi seiki | 集积地栖姬 |  | [舰队Collection:集积地栖姬](https://zh.moegirl.org.cn/舰队Collection:集积地栖姬) |
+| shuusekichi seiki | 集积地栖姬 | ![](https://static.wikia.nocookie.net/kancolle/images/b/b9/Supply_Depot_Princess_Full.png)<br>所属作品：`kantai collection` | [舰队Collection:集积地栖姬](https://zh.moegirl.org.cn/舰队Collection:集积地栖姬) |
 | ritou seiki | 离岛栖姬 |  | [舰队Collection:离岛栖姬](https://zh.moegirl.org.cn/舰队Collection:离岛栖姬) |
 | kouwan seiki | 港湾栖姬 | ![](https://static.wikia.nocookie.net/kancolle/images/2/22/Harbour_Princess_II_Full.png)<br>所属作品：`kantai collection` | [舰队Collection:港湾栖姬](https://zh.moegirl.org.cn/舰队Collection:港湾栖姬) |
 | chuukan seiki | 中间栖姬 |  | [舰队Collection:中间栖姬](https://zh.moegirl.org.cn/舰队Collection:中间栖姬) |
