@@ -4682,7 +4682,7 @@ example:
 | minori hanasato | 花里实乃理 | ![](https://storage.moegirl.org.cn/moegirl/commons/c/c3/Sekai_minori01.png)<br>所属作品：`project sekai`<br>宫益坂女子学园的一年级生，是MORE MORE JUMP!的一员。 |  |
 | nene kusanagi | 草薙宁宁 |  |  |
 | rui kamishiro | 神代类 |  |  |
-| saki tenma | 天马咲希 |  |  |
+| saki tenma | 天马咲希 | ![](https://ehgt.org/w/02/401/18683-4712qk9v.webp)<br>所属作品：`project sekai` |  |
 | shiho hinomori | 日野森志步 |  |  |
 | shizuku hinomori | 日野森雫 |  |  |
 | toya aoyagi | 青柳冬弥 |  |  |
