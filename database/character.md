@@ -9388,6 +9388,7 @@ example:
 | nikkari aoe | 派别青江 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/e/e7/Nikkari-1.png)<br>所属作品：`touken ranbu` |  |
 | imanotsurugi | 今剑 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/b/b5/Imanotsurugi-1.png)<br>所属作品：`touken ranbu` |  |
 | shishiou | 狮子王 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/f/f5/Shishiou-Kiwame1.png)<br>所属作品：`touken ranbu` |  |
+| kashuu kiyomitsu | 加州清光 | ![](https://static.wikia.nocookie.net/touken-ranbu/images/8/8c/Kashuu-1.png)<br>所属作品：`touken ranbu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
