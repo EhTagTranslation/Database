@@ -766,7 +766,7 @@ example:
 | guilty hearts | GUILTY HEARTS |  |  |
 | ortensia | おるてんしあ |  |  |
 | expot | EXPOT |  |  |
-| shouchuu mac | 烧酎MAC |  |  |
+| shouchuu mac | 烧酎MAC |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=25279/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG10458.html) |
 | golden zombie | 金珠狼 |  |  |
 | melty pot | Melty Pot |  |  |
 | airbox | AIR BOX |  |  |
