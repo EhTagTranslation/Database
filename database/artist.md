@@ -959,7 +959,7 @@ example:
 | naruko | 鸣湖（平间ひろかず） | ![X](https://pbs.twimg.com/profile_images/1570384028938940416/oYz6vpR9_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/haisui) [pixiv](https://www.pixiv.net/users/5090) |
 | hishigata tomaru | ひし形とまる |  |  |
 | mokufu | もくふう |  |  |
-| okumoto yuuta | オクモト悠太 |  |  |
+| okumoto yuuta | 澳本悠太 |  |  |
 | regdic | れぐでく |  | [X](https://x.com/mm_reg) [pixiv](https://www.pixiv.net/users/431106) |
 | shiba nanasei | 柴七世 |  |  |
 | shimetta seiya | 湿った星夜 |  |  |
