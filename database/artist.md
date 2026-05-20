@@ -15225,6 +15225,7 @@ example:
 | ug | UG |  |  |
 | chipokan | ちぽかん |  |  |
 | ramen-chan | ramen-chan |  | [discord](https://discord.com/invite/U6p7279xG9) \| [引力圈](https://app.unifans.io/c/ramen_chan) \| [pictSpace](https://pictspace.net/ramenchan) \| [ramen-chan](https://archive.ramen-chan.com/) |
+| noe noeru | 乃絵のえる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
