@@ -15221,6 +15221,7 @@ example:
 | rokuya maou | 六谷魔王 |  |  |
 | simaura | 缟浦 |  |  |
 | furu | 古 |  |  |
+| g-10 | G10 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
