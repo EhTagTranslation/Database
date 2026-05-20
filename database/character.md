@@ -7816,7 +7816,7 @@ example:
 | hyouka fuwa | 不破冰菓 | ![](https://static.wikia.nocookie.net/shimoneta-to-lu/images/c/c6/A92e0b131a7ea5918aed03a614ec702b.jpg/revision/latest?cb=20231209220134)<br>所属作品:`shimoneta to iu gainen ga sonzai shinai taikutsu na sekai` | [百度百科](https://baike.baidu.com/item/不破冰菓/17872341)<br>[Fandom](https://shimoneta.fandom.com/wiki/Hyouka_Fuwa) |
 | radford | 拉德福特 | 碧蓝航线 女角色 |  |
 | yunohana bloom | 汤花盛开 | ![](https://i2.hdslb.com/bfs/new_dyn/debf1291a10bc710db0a15600ea06146510585998.png)<br>所属作品：`uma musume pretty derby`<br>原创赛马娘。 |  |
-| tyrant | 魔王 | ![](https://i2.hdslb.com/bfs/new_dyn/e390bc3a1c9952e086ddb91c9b9780856089321.jpg)<br>所属作品：`stella sora`<br>玩家扮演的主人公。 |  |
+| tyrant | 魔王 | ![](https://static.wikitide.net/stellasorawiki/thumb/a/a3/Tyrant-female3.png/93px-Tyrant-female3.png)<br>![](https://static.wikitide.net/stellasorawiki/thumb/1/1c/Male_tyrant_a_02.png/49px-Male_tyrant_a_02.png)<br>所属作品：`stella sora`<br>玩家扮演的主人公。 |  |
 | shizuka nanahoshi | 七星静香 | ![](https://static.wikia.nocookie.net/mushokutensei/images/7/7d/Nanahoshi-Unmasked-Anime-FullBody.png)<br>所属作品：`mushoku tensei` |  |
 | mornye | 莫宁 | ![](https://prod-alicdn-community.kurobbs.com/forum/610ec03f0f754ca3b15dfdc98a80bd3220251202.png?x-oss-process=image/format,webp)<br>所属作品：`wuthering waves`<br>深空联合研究院学者、星炬学院教授莫宁，思维敏捷却不善言辞。 |  |
 | the dahlia | 「大丽花」康士坦丝 | ![](https://storage.moegirl.org.cn/moegirl/commons/2/25/崩坏星穹铁道_大丽花立绘.png)<br><br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/康士坦丝) |
