@@ -15222,6 +15222,7 @@ example:
 | simaura | 缟浦 |  |  |
 | furu | 古 |  |  |
 | g-10 | G10 |  |  |
+| ug | UG |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
