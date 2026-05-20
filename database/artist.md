@@ -15218,6 +15218,7 @@ example:
 | ekogi | エコギ |  |  |
 | misanga | みさんが |  |  |
 | tago bow | たご坊 |  |  |
+| rokuya maou | 六谷魔王 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
