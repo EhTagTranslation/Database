@@ -9410,6 +9410,7 @@ example:
 | aida surugan | 艾达·休冈 | ![](https://static.wikia.nocookie.net/gundam/images/b/b3/Aida_Surugan.png)<br>日语：アイーダ・スルガン<br>原名艾达·雷哈顿。<br>所属作品：`gundam g no reconguista` |  |
 | rion otonashi | 音无莉音 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ef/01/126248_crt_iriVX.jpg)<br>所属作品：`kyokou suiri` |  |
 | muichiro tokito | 时透无一郎 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/4c/Muichiro_Tokito_Full_Body_%28Anime%29.png/revision/latest?cb=20241010231022)<br>所属作品:`kimetsu no yaiba` | [萌娘百科](https://zh.moegirl.org.cn/时透无一郎) |
+| yuichiro tokito | 时透有一郎 | 所属作品:`kimetsu no yaiba`<br>`muichiro tokito`的双胞胎哥哥 | [萌娘百科](https://zh.moegirl.org.cn/时透有一郎) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
