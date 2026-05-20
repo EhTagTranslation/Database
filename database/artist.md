@@ -15217,6 +15217,7 @@ example:
 | fuwafuwa drill | ふわふわドリル |  |  |
 | ekogi | エコギ |  |  |
 | misanga | みさんが |  |  |
+| tago bow | たご坊 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
