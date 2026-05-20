@@ -5935,7 +5935,7 @@ example:
 | nanako shichigusa | 七千草菜菜子 | 《菜菜子解体诊书》的女主角，16岁女仆兼实习护士。 |  |
 | carmine | 丹瑜 | ![](https://img.moegirl.org.cn/common/f/fd/Carmine_SV.png)<br>所属作品：`pokemon`<br>日语名：ゼイユ<br>英语名：Carmine | [萌娘百科](https://zh.moegirl.org.cn/丹瑜) |
 | dendra | 凰檗 | 所属作品：`pokemon`<br>![](https://archives.bulbagarden.net/media/upload/thumb/5/52/Dendra_HZ.png/270px-Dendra_HZ.png)<br>日语名：キハダ<br>英语名：Dendra<br>《宝可梦 朱／紫》中初次登场，橘子学院／葡萄学院的对战学老师。 | [萌娘百科](https://zh.moegirl.org.cn/凰檗) |
-| delia ketchum | 花子 | ![](https://ehgt.org/w/01/980/46223-qufcdmpr.webp)<br>所属作品：`pokemon`<br>日语名：ハナコ<br>小智的妈妈。 | [https://bulbapedia.bulbagarden.net/wiki/Delia\_Ketchum](https://bulbapedia.bulbagarden.net/wiki/Delia_Ketchum) |
+| delia ketchum | 花子 | ![](https://ehgt.org/w/01/980/46223-qufcdmpr.webp)<br>所属作品：`pokemon`<br><br>日语名：ハナコ<br>小智的妈妈。 | [BULBAGARDEN](https://bulbapedia.bulbagarden.net/wiki/Delia_Ketchum) \| [Fandom](https://pokemon.fandom.com/wiki/Delia_Ketchum) |
 | satsuki kyougoku | 京极皋月 | ![](https://static.wikia.nocookie.net/blue-archive/images/a/a5/Satsuki_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/京极皋月%28https://www.gamekee.com/ba/tj/71740.html%29) \| [Gamekee](https://www.gamekee.com/ba/tj/71740.html) |
 | lisia | 琉琪亚 | ![](https://img.moegirl.org.cn/common/thumb/6/6a/琉琪亞_ORAS.png/280px-琉琪亞_ORAS.png)<br>所属作品：`pokemon`<br>日语：ルチア | [萌娘百科](https://zh.moegirl.org.cn/琉琪亚) |
 | coral | 珊瑚 | ![](https://archives.bulbagarden.net/media/upload/2/2e/Coral_anime_2.png)<br>所属作品：`pokemon`<br>日语：サンゴ | [https://bulbapedia.bulbagarden.net/wiki/Coral](https://bulbapedia.bulbagarden.net/wiki/Coral) |
