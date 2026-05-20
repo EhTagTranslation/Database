@@ -15223,6 +15223,7 @@ example:
 | furu | 古 |  |  |
 | g-10 | G10 |  |  |
 | ug | UG |  |  |
+| chipokan | ちぽかん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
