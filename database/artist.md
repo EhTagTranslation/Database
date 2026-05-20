@@ -13876,7 +13876,7 @@ example:
 | yoneyama mai | 米山舞 |  |  |
 | shiben | 史本 |  |  |
 | ctrlz77 | ctrlz77 |  | [pixiv](https://www.pixiv.net/users/6134554)<br>[FANBOX](https://how.fanbox.cc/) |
-| mochida koyubi | 餅田こゆび |  | [X](https://x.com/mochikoyu) [pixiv](https://www.pixiv.net/users/2228369) |
+| mochida koyubi | 饼田小指 |  | [X](https://x.com/mochikoyu) [pixiv](https://www.pixiv.net/users/2228369) |
 | yuimisu | ゆいみす |  |  |
 | yagihitsuji | 山羊羊 |  |  |
 | okkuu tarou | 億劫太郎 |  |  |
