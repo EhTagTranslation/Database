@@ -15219,6 +15219,7 @@ example:
 | misanga | みさんが |  |  |
 | tago bow | たご坊 |  |  |
 | rokuya maou | 六谷魔王 |  |  |
+| simaura | 缟浦 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
