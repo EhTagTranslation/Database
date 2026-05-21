@@ -2842,6 +2842,7 @@ example:
 | houshin engi | 封神演义 | 藤崎龙的日本漫画，根据安能务翻译的“讲谈社文库版”《封神演义》改编而成。 |  |
 | kyuukyoku shinka shita full dive rpg ga genjitsu yori mo kusogee dattara | 如果究极进化的完全沉浸RPG比现实更可恶的话 | ![](https://upload.wikimedia.org/wikipedia/en/d/d8/Kyūkyoku_Shinka_shita_Full_Dive_RPG_ga_Genjitsu_yori_mo_Kusoge_Dattara_light_novel_volume_1.jpg)<br>日语：究極進化したフルダイブRPGが現実よりもクソゲーだったら<br>土日月创作的日本轻小说作品，并有改编动画。 |  |
 | hibi wa sugiredo meshi umashi | 岁月流逝饭菜依旧美味 | ![](https://external-preview.redd.it/hibi-wa-yogiredo-meshi-umashi-food-for-the-soul-original-v0-WNlKTLdXwTpd7Z-Uz0-7hjF6Gh-xO8UAZ1JlhVPAPyg.jpg?auto=webp&s=23c8da868f82cba40de052c7a407d083dcfcd645)<br>由川面真也、春水融执导，比企能博担任总编剧，满田一负责角色设计，P.A.WORKS制作的原创动画 |  |
+| kekkon yubiwa monogatari | 婚戒物语 | ![](https://upload.wikimedia.org/wikipedia/en/a/a8/Tales_of_Wedding_Rings_volume_1_cover.jpg)<br>めいびい创作的日本漫画，并有改编动画。<br>日语：けっこんゆびわものがたり。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
