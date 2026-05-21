@@ -9414,6 +9414,7 @@ example:
 | donna | 多娜 | ![](https://static.wikitide.net/stellasorawiki/thumb/5/5b/Donna_b_02.png/600px-Donna_b_02.png)<br>所属作品：`stella sora` |  |
 | haruka minazuki | 水无月遥 | ![](https://static.wikia.nocookie.net/charactah-account/images/f/fd/Haruka_Minazuki_Render_01.png)<br>所属作品：`kaitou tenshi twin angel` |  |
 | yoo sangah | 刘尚雅 | ![](https://lain.bgm.tv/pic/crt/l/1b/60/111616_crt_z9plV.jpg?r=1654629424)<br>所属作品：`omniscient readers viewpoint` |  |
+| uriel | 乌列尔 | ![](https://static.wikia.nocookie.net/omniscient-readers-viewpoint/images/e/e0/Uriel_311_face.jpg)<br>汉语：우리엘<br>所属作品：`omniscient readers viewpoint` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
