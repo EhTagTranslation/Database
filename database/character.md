@@ -9418,7 +9418,7 @@ example:
 | krystal novaty nokanatika | 野中姬乃 | ![](https://static.wikia.nocookie.net/tales-of-wedding-rings/images/2/25/Krystal_anime_design.png)<br>所属作品：`kekkon yubiwa monogatari` |  |
 | shizuku kusano | 草野雫 | ![](https://lain.bgm.tv/r/400/pic/crt/l/bf/c1/169236_crt_pRPlL.jpg?r=1751269337)<br>所属作品：`futari solo camp` |  |
 | alba | 阿鲁巴 | ![](https://static.wikia.nocookie.net/senyu/images/6/6d/Alba.jpg)<br>日语：アルバ<br>所属作品：`senyuu.` |  |
-| ross | 罗斯 |  |  |
+| ross | 罗斯 | ![](https://static.wikia.nocookie.net/senyu/images/b/b6/Ros.jpg)<br>日语：ロス<br>所属作品：`senyuu.` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
