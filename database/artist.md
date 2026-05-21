@@ -2862,7 +2862,7 @@ example:
 | eizan | 影斩 |  | [pixiv](https://www.pixiv.net/users/1830438) |
 | akino kabocha | 秋野かぼちゃ |  |  |
 | kiyu fuyuki | 季結ふゆき |  | [X](https://x.com/bukky_kancolle) [pixiv](https://www.pixiv.net/users/22970036) |
-| ankoman | あんこまん | 一个画很多ntr、rbq的画师，短篇很多，作品中女性迅速母猪化 | [pixiv](https://www.pixiv.net/users/2004088) |
+| ankoman | あんこまん | 一个画很多ntr、rbq的画师，短篇很多，作品中女性迅速母猪化 | [pixiv](https://www.pixiv.net/users/2004088) \| [Fantia](https://fantia.jp/fanclubs/7895) \| [FANBOX](https://sukebe0ankoman.fanbox.cc/) \| [X](https://x.com/anco0man) |
 | highlow | 废狼 |  |  |
 | hanao. | 熊尾もふもふ |  |  |
 | otokura ringo | 乙倉りんご |  |  |
