@@ -2844,6 +2844,7 @@ example:
 | hibi wa sugiredo meshi umashi | 岁月流逝饭菜依旧美味 | ![](https://external-preview.redd.it/hibi-wa-yogiredo-meshi-umashi-food-for-the-soul-original-v0-WNlKTLdXwTpd7Z-Uz0-7hjF6Gh-xO8UAZ1JlhVPAPyg.jpg?auto=webp&s=23c8da868f82cba40de052c7a407d083dcfcd645)<br>由川面真也、春水融执导，比企能博担任总编剧，满田一负责角色设计，P.A.WORKS制作的原创动画 |  |
 | kekkon yubiwa monogatari | 婚戒物语 | ![](https://upload.wikimedia.org/wikipedia/en/a/a8/Tales_of_Wedding_Rings_volume_1_cover.jpg)<br>めいびい创作的日本漫画，并有改编动画。<br>日语：けっこんゆびわものがたり。 |  |
 | futari solo camp | 双人单身露营 | ![](https://upload.wikimedia.org/wikipedia/en/c/c7/Futari_Solo_Camp_manga_vol._1.png)<br>出端祐大创作的漫画作品，并有改编动画。 |  |
+| senyuu. | 战勇。 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
