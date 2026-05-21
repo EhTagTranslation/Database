@@ -9412,6 +9412,7 @@ example:
 | muichiro tokito | 时透无一郎 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/4c/Muichiro_Tokito_Full_Body_%28Anime%29.png/revision/latest?cb=20241010231022)<br>所属作品:`kimetsu no yaiba` | [萌娘百科](https://zh.moegirl.org.cn/时透无一郎) |
 | yuichiro tokito | 时透有一郎 | 所属作品:`kimetsu no yaiba`<br>`muichiro tokito`的双胞胎哥哥 | [萌娘百科](https://zh.moegirl.org.cn/时透有一郎) |
 | donna | 多娜 | ![](https://static.wikitide.net/stellasorawiki/thumb/5/5b/Donna_b_02.png/600px-Donna_b_02.png)<br>所属作品：`stella sora` |  |
+| haruka minazuki | 水无月遥 | ![](https://static.wikia.nocookie.net/charactah-account/images/f/fd/Haruka_Minazuki_Render_01.png)<br>所属作品：`kaitou tenshi twin angel` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
