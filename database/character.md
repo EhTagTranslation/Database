@@ -9419,6 +9419,7 @@ example:
 | shizuku kusano | 草野雫 | ![](https://lain.bgm.tv/r/400/pic/crt/l/bf/c1/169236_crt_pRPlL.jpg?r=1751269337)<br>所属作品：`futari solo camp` |  |
 | alba | 阿鲁巴 | ![](https://static.wikia.nocookie.net/senyu/images/6/6d/Alba.jpg)<br>日语：アルバ<br>所属作品：`senyuu.` |  |
 | ross | 罗斯 | ![](https://static.wikia.nocookie.net/senyu/images/b/b6/Ros.jpg)<br>日语：ロス<br>所属作品：`senyuu.` |  |
+| yuuya tenjou | 天上优夜 | ![](https://static.wikia.nocookie.net/cheatmusou/images/7/7d/Yuuya_-_Light_Novel_%28Official%29.webp)<br>日语：天上 優夜<br>所属作品：`isekai de cheat nouryoku wo te ni shita ore wa genjitsu sekai wo mo musou suru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
