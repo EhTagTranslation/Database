@@ -11426,7 +11426,7 @@ example:
 | toragoyashiki | 虎小屋敷 |  |  |
 | toraisix | とらいしっくす |  |  |
 | torajima-shi kouhouka | 寅島市広報課 |  |  |
-| torano ori | 寅乃檻 |  |  |
+| torano ori | 寅乃檻 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52001.html) \| [Ci-en](https://ci-en.dlsite.com/creator/9114) |
 | toranoe no makimono | とらのえのまきもの |  |  |
 | torara studio | トララスタジオ |  |  |
 | toratanuza | とらたぬ座 |  |  |
