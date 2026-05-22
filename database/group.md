@@ -4548,7 +4548,7 @@ example:
 | entro beast | エントロビースト |  |  |
 | enueeru | えぬえ～る |  |  |
 | enuemu | enuemu |  |  |
-| enuma elish | enuma elish |  |  |
+| enuma elish | enuma elish |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73577/) |
 | enyakora hoisassa | えんやこら☆ほいさっさ |  |  |
 | equivalence | equivalence |  |  |
 | era feel | era feel |  |  |
