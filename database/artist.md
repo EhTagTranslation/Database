@@ -15229,6 +15229,7 @@ example:
 | shibuya susano | 渋谷すさの |  |  |
 | mineta kojirou | 峰田虎次郎 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01017867.html) |
 | kamoyoshi | 鴨吉 |  |  |
+| kudo eru | 工藤える |  | [pixiv](https://www.pixiv.net/users/54891433) [X](https://x.com/kudo_eru) |
 
 <!--TEMPLATE:
 |  |  |  |  |
