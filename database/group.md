@@ -13946,6 +13946,7 @@ example:
 | susanottensu | すさのってんす |  |  |
 | iikamo | いいカモ! |  |  |
 | naruo | ナルオ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=207090/) |
+| suji kaminari | スジカミナリ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=231651/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
