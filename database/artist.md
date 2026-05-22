@@ -10999,7 +10999,7 @@ example:
 | torisan | 鳥三 |  |  |
 | torisana | トリサナ |  |  |
 | torishimo | とりしも |  |  |
-| toritora | 酉寅 |  |  |
+| toritora | 酉寅 |  | [Fantia](https://fantia.jp/fanclubs/22792) \| [X](https://x.com/_tritra) \| [pixiv](https://www.pixiv.net/member.php?id=321498) |
 | toriumi kapiko | 鳥海かぴこ |  |  |
 | toroi | toroi |  |  |
 | tororo | とろろ |  |  |
