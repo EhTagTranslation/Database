@@ -5132,7 +5132,7 @@ example:
 | gokufero | 極フェロ |  |  |
 | gokuraku-chou yon-choume | 獄楽町四丁目 |  |  |
 | gokutsubushi | 穀潰し |  |  |
-| gold dust | GOLD DUST |  |  |
+| gold dust | GOLD DUST |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG16909.html) |
 | gold koman sex | GOLD KOMAN SEX |  |  |
 | gold leaf | GOLD LEAF |  |  |
 | gold lip | ゴールドリップ |  |  |
