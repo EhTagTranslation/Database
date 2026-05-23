@@ -15235,6 +15235,7 @@ example:
 | oresam | oresam |  | [pixiv](https://www.pixiv.net/users/3261943) \| [FANBOX](https://oresam.fanbox.cc/) \| [X](https://x.com/oresam32) \| [Skeb](https://skeb.jp/@oresam32) |
 | deyui | Deyui \| デユイ | 他很喜欢用赛璐珞风格来作画 |  |
 | kousetsu | 红雪 |  | [X](https://x.com/kousetsu_neni) |
+| akimura haru | あきむらはる |  | [X](https://x.com/harururu425)<br>[pixiv](https://www.pixiv.net/users/161158/artworks) |
 
 <!--TEMPLATE:
 |  |  |  |  |
