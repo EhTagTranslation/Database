@@ -2223,7 +2223,7 @@ example:
 | tsukihi araragi | 阿良良木月火 | ![](https://static.wikia.nocookie.net/bakemonogatari1645/images/b/ba/19.png/revision/latest?cb=20170509163404)<br>所属作品:`bakemonogatari` | [萌娘百科](https://zh.moegirl.org.cn/阿良良木月火) |
 | kiss-shot acerola-orion heart-under-blade | 姬丝秀忒·雅赛劳拉莉昂·刃下心 |  |  |
 | shinobu oshino | 忍野忍 | ![](https://www.monogatari-series.com/nisemonogatari/chara/img/chara09.gif) |  |
-| ougi oshino | 忍野扇 |  |  |
+| ougi oshino | 忍野扇 | ![](https://static.wikia.nocookie.net/bakemonogatari1645/images/e/e5/639684-copy.jpg/revision/latest?cb=20150916015408)<br>所属作品:`bakemonogatari` | [萌娘百科](https://zh.moegirl.org.cn/忍野扇) |
 | meme oshino | 忍野咩咩 |  |  |
 | nadeko sengoku | 千石抚子 | ![](https://static.wikia.nocookie.net/bakemonogatari1645/images/1/13/05.jpg/revision/latest?cb=20170122095106)<br>所属作品:`bakemonogatari` | [萌娘百科](https://zh.moegirl.org.cn/千石抚子) |
 | hitagi senjougahara | 战场原黑仪 | ![](https://ehgt.org/w/01/876/37544-kwsyznib.webp)<br>所属作品：`bakemonogatari` | [萌娘百科](https://zh.moegirl.org.cn/战场原黑仪) |
