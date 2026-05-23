@@ -3600,7 +3600,7 @@ example:
 | saint louis | 路易九世 | 原型是法国海军的C5方案舰：路易九世 | [碧蓝航线:路易九世](https://zh.moegirl.org.cn/碧蓝航线:路易九世) |
 | yume nijino | 虹野梦 | ![](https://static.wikia.nocookie.net/aikatsustars6864/images/5/5f/Chara_yume_S2.png/revision/latest?cb=20170401161135)<br>所属作品:`aikatsu` stars | [萌娘百科](https://zh.moegirl.org.cn/虹野梦) |
 | laura sakuraba | 樱庭劳拉 |  |  |
-| mahiru kasumi | 香澄真昼 |  |  |
+| mahiru kasumi | 香澄真昼 | ![](https://static.wikia.nocookie.net/aikatsustars6864/images/c/c9/Chara_mahiru_s2.png/revision/latest?cb=20170425143817)<br>所属作品:`aikatsu` stars | [萌娘百科](https://zh.moegirl.org.cn/香澄真昼) |
 | koharu nanakura | 七仓小春 |  |  |
 | ako saotome | 早乙女亚子 |  |  |
 | misogi hodaka | 穗高未奏希 | ![](https://static.wikia.nocookie.net/princess-connect/images/4/4a/Misogi_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/穗高未奏希) |
