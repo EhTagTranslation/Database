@@ -9421,6 +9421,7 @@ example:
 | ross | 罗斯 | ![](https://static.wikia.nocookie.net/senyu/images/b/b6/Ros.jpg)<br>日语：ロス<br>所属作品：`senyuu.` |  |
 | yuuya tenjou | 天上优夜 | ![](https://static.wikia.nocookie.net/cheatmusou/images/7/7d/Yuuya_-_Light_Novel_%28Official%29.webp)<br>日语：天上 優夜<br>所属作品：`isekai de cheat nouryoku wo te ni shita ore wa genjitsu sekai wo mo musou suru` |  |
 | hagumi kitazawa | 北泽育美 | 北泽育美是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色，Hello, Happy World!的贝斯手。 | [萌娘百科](https://zh.moegirl.org.cn/北泽育美) |
+| ying swei | 应瑞 | ![](https://patchwiki.biligame.com/images/blhx/thumb/2/26/7lslkwcavujcrap87dqgedbovwrg7zx.jpg/525px-应瑞立绘.jpg)<br>所属作品:`azur lane` | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:应瑞) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
