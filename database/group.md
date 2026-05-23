@@ -13950,6 +13950,7 @@ example:
 | oresam | oresam |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG23791.html) \| [Ci-en](https://ci-en.dlsite.com/creator/4177) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76026/) |
 | panda monaka | panda\*monaka |  |  |
 | gusucapiyopiyo | グースカピヨピヨ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68227.html) |
+| okaya | 岡屋 | `a:okaya`使用的同人社团名称 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
