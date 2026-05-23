@@ -13948,6 +13948,7 @@ example:
 | naruo | ナルオ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=207090/) |
 | suji kaminari | スジカミナリ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=231651/) |
 | oresam | oresam |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG23791.html) \| [Ci-en](https://ci-en.dlsite.com/creator/4177) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76026/) |
+| panda monaka | panda\*monaka |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
