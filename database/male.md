@@ -49,8 +49,8 @@ example:
 | infantilism | 幼稚型 | 将成年人当作小孩对待。 |  |
 | kodomo doushi | 两小无猜 | 儿童间的性行为，所有参与者都为儿童。需要`shotacon`标签。 |  |
 | old man | 老人 | 看起来在50岁以上的男性，不得与`dilf`混淆。 |  |
-| shotacon | 正太 | 小男孩。<br>![举例](# "https://ehgt.org/8d/e4/8de4084018d6fd26f7fb8843dfdba5949835ac02-219707-1128-1600-jpg_l.jpg")![图](# "https://ehgt.org/b4/f2/b4f27457519a0eb55cbc231c34152084d8351cd3-543154-1000-1458-jpg_l.jpg")![图](# "https://ehgt.org/3a/46/3a466e7dc00e27d80e8d6be4674b08c6b8efb25f-304032-1067-1514-jpg_l.jpg") |  |
-| toddlercon | 幼儿 | 学步的儿童。 |  |
+| shotacon | 正太 | 小男孩。将发送图库到思念峡湾。<br>![举例](# "https://ehgt.org/8d/e4/8de4084018d6fd26f7fb8843dfdba5949835ac02-219707-1128-1600-jpg_l.jpg")![图](# "https://ehgt.org/b4/f2/b4f27457519a0eb55cbc231c34152084d8351cd3-543154-1000-1458-jpg_l.jpg")![图](# "https://ehgt.org/3a/46/3a466e7dc00e27d80e8d6be4674b08c6b8efb25f-304032-1067-1514-jpg_l.jpg") |  |
+| toddlercon | 幼儿 | 学步的儿童。将发送图库到思念峡湾。 |  |
 |  | == 身体 == |  |  |
 | amputee | 截肢 | 缺少一个或多个肢体的人。可援引`guro`标签。<br>![恶](## "https://ehgt.org/d6/3e/d63e318249970d2a1c07548fa4f8cec0315dcd20-8825286-2511-3544-png_l.jpg") |  |
 | big muscles | 大肌肉 | 明显的大肌肉。臂宽必须与头部相等，或者大腿的宽度必须与头部成1.5倍。需要`muscle`标签。 |  |
@@ -570,7 +570,7 @@ example:
 | blackmail | 要挟 | 通过威胁或披露信息迫使他人提供性爱的行为。 |  |
 | chikan | 痴汉 | 以性方式抚摸别人的行为。经常在火车或公共汽车上发生。 |  |
 | confinement | 监禁 | 一个人被强行关押在室内环境中，并被强行用于各种性目的。此场景必须由至少一名俘虏故意创造，并且必须持续至少两个晚上。不用于自愿被监禁的情况。被监禁者必须在某个时候意识到这种情况。如果上下文提示没有明确表明囚禁时间，则不应使用标签。 |  |
-| rape | 强奸 | 强迫或非自愿性行为。 |  |
+| rape | 强奸 | 强迫或非自愿性行为。将发送图库到思念峡湾。 |  |
 |  | === Force  > Sadomasochism === | === 强迫 > 虐待 === |  |
 | bdsm | 调教 | 一种至少有一个人占主导地位的生活方式，至少有一个人是顺从的。 不需要`bondage`或`torture`标签，但可能是其原因。 |  |
 | domination loss | 统治丢失 | 有明确的性主导关系，之后主导关系发生明显反转的情况。 |  |
@@ -593,12 +593,12 @@ example:
 | stuck in wall | 卡在墙上 | 有人卡在墙上，无法动弹，生殖器与乳房常常暴露在外。需要`bondage`标签。不应与`glory hole`或`wormhole`混淆。 |  |
 | suspended | 悬空 | 通过上方的连接物被吊起悬空，不触地而且不直接靠墙。需要`bondage`标签。不要与`hanging`、`fanny packing`或`stuck in wall`混淆。当个体悬挂于垂直结构物（如墙、柱等竖直物体）上，或仅由除触手外的有生命实体悬吊时，不得使用本标签。 |  |
 |  | === 强迫 > 暴力 === |  |  |
-| abortion | 堕胎 | 任何杀害未出生的孩子的视觉描述或暗示。包括未遂行为，但不包括对孩子没有明显伤害的失败尝试。 |  |
+| abortion | 堕胎 | 任何杀害未出生的孩子的视觉描述或暗示。包括未遂行为，但不包括对孩子没有明显伤害的失败尝试。将发送图库到思念峡湾。 |  |
 | cannibalism | 食人 | 人型生物烹饪或食用其他人形生物。不应与`vore`混淆。 |  |
 | cbt | 虐屌 | CBT, Cock and Ball Torture. 以任何方式折磨阴茎区域。不需要`torture`标签 |  |
 |  | cuntbusting阴道破坏 | 物理攻击阴道的行为。 |  |
 | dismantling | 拆解 | 拆除部件，损毁或破坏机械生物。需要`robot`标签。 |  |
-| guro | 猎奇 | 英语グロテスク（Grotesque）的日式缩写グロ（guro）。原指恶心怪异，奇怪，不自然的猎奇事物。现常用于色情领域，全称エログロ（eroguro），常表现为血腥暴力，残害，肉体切割，扭曲变态，有点恶心又怪异的异常性行为或色情事物，常与`amputee`、`ryona`、`blood`、`snuff`、`rape`等标签并用，不用于温和的`blood`或`ryona`。不应与`snuff`混淆。对于大多数涉及`robot`的情况，请改用`dismantling`。<br>图库只需要包含一张这种性质的图片即可获得此标签。<br><br>![恶](## "https://ehgt.org/a1/03/a1037f38d3841d9126257c95cf7ebf44645d6e1f-815087-1634-1743-jpg_250.jpg")![恶](## "https://ehgt.org/9c/30/9c30becd74eebfc9cc621cda75f096166e930b44-78256-733-500-jpg_250.jpg")![恶](## "https://ehgt.org/e9/53/e953213efaea1fc681824b601317c0a45872a309-124477-640-853-jpg_l.jpg") |  |
+| guro | 猎奇 | 英语グロテスク（Grotesque）的日式缩写グロ（guro）。原指恶心怪异，奇怪，不自然的猎奇事物。现常用于色情领域，全称エログロ（eroguro），常表现为血腥暴力，残害，肉体切割，扭曲变态，有点恶心又怪异的异常性行为或色情事物，常与`amputee`、`ryona`、`blood`、`snuff`、`rape`等标签并用，不用于温和的`blood`或`ryona`。不应与`snuff`混淆。对于大多数涉及`robot`的情况，请改用`dismantling`。<br>图库只需要包含一张这种性质的图片即可获得此标签。将发送图库到思念峡湾。<br><br>![恶](## "https://ehgt.org/a1/03/a1037f38d3841d9126257c95cf7ebf44645d6e1f-815087-1634-1743-jpg_250.jpg")![恶](## "https://ehgt.org/9c/30/9c30becd74eebfc9cc621cda75f096166e930b44-78256-733-500-jpg_250.jpg")![恶](## "https://ehgt.org/e9/53/e953213efaea1fc681824b601317c0a45872a309-124477-640-853-jpg_l.jpg") |  |
 | electric shocks | 电击 | 用电力引起疼痛或快感。 |  |
 | ryona | 凌虐 | 对角色实施痛击、电击、束缚。通常低于`torture`的程度。不应与`wrestling`混淆。 |  |
 | snuff | 杀害 | 杀害人类或`furry`。不应与`guro`混淆。<br>![恶](## "https://ehgt.org/d5/1b/d51b8f11d4892a73660d8e9b3c2727fabc701e29-707033-806-631-png_250.jpg")![恶](## "https://ehgt.org/70/01/7001de6f5c26f60c51d64583f503e8c49d5dca7c-137717-460-620-jpg_250.jpg")![恶](## "https://ehgt.org/9d/48/9d48f33ccfeecebfaaa0712f536dcead0b208910-342661-1215-1721-jpg_l.jpg") |  |
@@ -659,7 +659,7 @@ example:
 | cousin | 表兄弟 | 表兄弟间的性行为。需要`incest`和`yaoi`标签。 |  |
 | father | 父亲 | 父亲与儿子间的性行为。需要`incest`和`yaoi`标签。 |  |
 | grandfather | 祖父 | 祖父与孙子间的性行为。需要`incest`和`yaoi`标签。 |  |
-| incest | 乱伦 | 亲属之间的性行为，包括无血缘关系的人。 |  |
+| incest | 乱伦 | 亲属之间的性行为，包括无血缘关系的人。将发送图库到思念峡湾。 |  |
 | inseki | 姻亲 | 无血缘关系的亲属之间的性行为。需要`incest`标签。 |  |
 | uncle | 叔叔 | 叔叔与侄子间的性行为。需要`incest`和`yaoi`标签。 |  |
 |  | == 隐私 == |  |  |
