@@ -2228,7 +2228,7 @@ example:
 | nadeko sengoku | 千石抚子 | ![](https://static.wikia.nocookie.net/bakemonogatari1645/images/1/13/05.jpg/revision/latest?cb=20170122095106)<br>所属作品:`bakemonogatari` | [萌娘百科](https://zh.moegirl.org.cn/千石抚子) |
 | hitagi senjougahara | 战场原黑仪 | ![](https://ehgt.org/w/01/876/37544-kwsyznib.webp)<br>所属作品：`bakemonogatari` | [萌娘百科](https://zh.moegirl.org.cn/战场原黑仪) |
 | tsubasa hanekawa | 羽川翼 | ![](https://ehgt.org/w/02/044/25275-2b2fac1h.webp)<br>出自作品：`p:bakemonogatari`<br><br>羽川翼（日语：羽川 翼 / はねかわ つばさ）是西尾维新创作的轻小说《物语系列》的主要角色之一。 | [萌娘百科](https://zh.moegirl.org.cn/羽川翼) |
-| suruga kanbaru | 神原骏河 |  |  |
+| suruga kanbaru | 神原骏河 | ![](https://static.wikia.nocookie.net/bakemonogatari1645/images/5/5c/Kanbaru_hana_designs_.jpg/revision/latest?cb=20180305053014)<br>所属作品:`bakemonogatari` | [萌娘百科](https://zh.moegirl.org.cn/神原骏河) |
 | mayoi hachikuji | 八九寺真宵 | ![](https://static.wikia.nocookie.net/bakemonogatari1645/images/8/81/Mayoi_Owari3.jpg/revision/latest?cb=20180103101821)<br>所属作品:`bakemonogatari` | [萌娘百科](https://zh.moegirl.org.cn/八九寺真宵) |
 | deishuu kaiki | 贝木泥舟 |  |  |
 | yotsugi ononoki | 斧乃木余接 | ![](https://static.wikia.nocookie.net/bakemonogatari1645/images/2/28/Zoku_Owarimonogatari_Concept_Art_-_Yotsugi_Ononoki.jpg/revision/latest?cb=20190410100747)<br>所属作品:`bakemonogatari`<br>“耶~” | [萌娘百科](https://zh.moegirl.org.cn/斧乃木余接) |
