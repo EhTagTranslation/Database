@@ -449,7 +449,7 @@ example:
 | jieitai | JIEITAI |  |  |
 | honey qp | Honey QP |  |  |
 | ayuest | AYUEST |  |  |
-| inbou no teikoku | 阴谋的帝国 |  |  |
+| inbou no teikoku | 阴谋的帝国 | 日语：陰謀の帝国 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79083/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01012034.html) \| [Ci-en](https://ci-en.dlsite.com/creator/15777) |
 | gate of xiii | Gate of XIII |  |  |
 | neko masshigura | ねこまっしぐら |  |  |
 | rorie-do | ろり絵堂 |  |  |
