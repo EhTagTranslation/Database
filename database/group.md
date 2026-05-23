@@ -1332,7 +1332,7 @@ example:
 | hekichaen | 碧茶园 |  |  |
 | amatoro bow | 甘とろ棒 |  |  |
 | ruciedo | るしえ堂 |  |  |
-| jingai makyou | ジンガイマキョウ |  |  |
+| jingai makyou | ジンガイマキョウ |  | [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=12585) |
 | steam d | すち～む・D |  |  |
 | 65535th avenue | 65535あべぬー。 |  |  |
 | makuu gundan | 魔空军团 |  |  |
