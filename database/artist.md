@@ -15237,6 +15237,7 @@ example:
 | kousetsu | 红雪 |  | [X](https://x.com/kousetsu_neni) |
 | akimura haru | あきむらはる |  | [X](https://x.com/harururu425)<br>[pixiv](https://www.pixiv.net/users/161158/artworks) |
 | okaya | おかや |  | [pixiv](https://www.pixiv.net/users/3606680) |
+| e.u.o | E.u.O |  | [pixiv](https://www.pixiv.net/users/18798082) |
 
 <!--TEMPLATE:
 |  |  |  |  |
