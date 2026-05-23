@@ -2218,7 +2218,7 @@ example:
 | bianca | 比安卡 | ![](https://patchwiki.biligame.com/images/zspms/thumb/8/80/fmwpdrm8befyipoqcb785blewzdcbq8.png/375px-角色_比安卡_晖暮_立绘.png)<br>所属游戏：`punishing gray raven` |  |
 | lotte | 萝特 |  |  |
 |  | ▼ 物语系列 |  |  |
-| koyomi araragi | 阿良良木历 |  |  |
+| koyomi araragi | 阿良良木历 | ![](https://static.wikia.nocookie.net/bakemonogatari1645/images/5/56/Araragi.Koyomi.full.911970.jpg/revision/latest?cb=20150916003338)<br>所属作品:`bakemonogatari` | [萌娘百科](https://zh.moegirl.org.cn/阿良良木历) |
 | karen araragi | 阿良良木火怜 | ![](https://ehgt.org/w/01/855/64616-dqf3m2dt.webp)<br>出自作品：`p:bakemonogatari`<br><br>阿良良木火憐（阿良々木 火憐，Araragi Karen）是西尾維新輕小說《物語》系列中的重要角色。 | [萌娘百科](https://zh.moegirl.org.cn/阿良良木火怜) |
 | tsukihi araragi | 阿良良木月火 | ![](https://static.wikia.nocookie.net/bakemonogatari1645/images/b/ba/19.png/revision/latest?cb=20170509163404)<br>所属作品:`bakemonogatari` | [萌娘百科](https://zh.moegirl.org.cn/阿良良木月火) |
 | kiss-shot acerola-orion heart-under-blade | 姬丝秀忒·雅赛劳拉莉昂·刃下心 |  |  |
