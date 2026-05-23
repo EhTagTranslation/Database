@@ -51,7 +51,7 @@ example:
 | lolicon | 萝莉 | 有性的情景或裸体的未成年少女。不与一般年轻女孩混淆；应该拥有未充分发育的的身体。标记时，只考虑外观。是`oppai loli`、`low lolicon`的前置标签。<br>图库只需要包含一张这种性质的图片就需要打上此标签。将发送图库到思念峡湾。<br>![图](# "https://ehgt.org/9f/22/9f225fabfed15fb25857b023f6a3ab785d94a4d7-320921-1024-768-jpg_l.jpg")![图](# "https://ehgt.org/0d/77/0d770340cd3647cd9a23337820d57dfb012bd949-636217-956-1270-jpg_l.jpg") |  |
 | milf | 熟女 | 看上去像30-50岁的女性，不一定是`mother`。不得与`old lady`混淆。 |  |
 | old lady | 老女人 | 看起来在50岁以上的女性。不得与`milf`混淆。 |  |
-| toddlercon | 幼女 | 学步的儿童。 |  |
+| toddlercon | 幼女 | 学步的儿童。将发送图库到思念峡湾。 |  |
 |  | == 身体 == |  |  |
 | amputee | 截肢 | 缺少一个或多个肢体的人。可援引`guro`标签。<br>![恶](## "https://ehgt.org/23/1c/231ce6e2209af9bdc6bcac5bdaa15905ad0182fd-252975-750-1200-jpg_l.jpg")![恶](## "https://ehgt.org/bf/26/bf2666ad5ceb8b1c701d70f56940efdc34ada0a0-48894-640-440-jpg_l.jpg")![恶](## "https://ehgt.org/6e/80/6e802de199979dd501a9c603fdb1ce59a5f865c9-43205-480-506-jpg_250.jpg") |  |
 | big muscles | 大肌肉 | 明显的大肌肉。臂宽必须与头部相等，或者大腿的宽度必须与头部成1.5倍。需要`muscle`标签。 |  |
@@ -597,7 +597,7 @@ example:
 | blackmail | 要挟 | 通过威胁或披露信息迫使他人提供性爱的行为。 |  |
 | chikan | 痴汉 | 以性方式抚摸别人的行为。经常在火车或公共汽车上发生。 |  |
 | confinement | 监禁 | 一个人被强行关押在室内环境中，并被强行用于各种性目的。此场景必须由至少一名俘虏故意创造，并且必须持续至少两个晚上。不用于自愿被监禁的情况。被监禁者必须在某个时候意识到这种情况。如果上下文提示没有明确表明囚禁时间，则不应使用标签。 |  |
-| rape | 强奸 | 强迫或非自愿性行为。 |  |
+| rape | 强奸 | 强迫或非自愿性行为。将发送图库到思念峡湾。 |  |
 |  | === Force  > Sadomasochism === | === 强迫 > 虐待 === |  |
 | bdsm | 调教 | 一种至少有一个人占主导地位的生活方式，至少有一个人是顺从的。 不需要`bondage`或`torture`标签，但可能是其原因。 |  |
 | femdom | 女性主导 | 女性性统治。通常目标是一个男性，但也可以是另一个女性。<br>![图](# "https://ehgt.org/fe/10/fe106d3ed844baa0fa9c3c27e6f6f76c3f574283-7200923-4131-6083-jpg_l.jpg")![图](# "https://ehgt.org/13/ee/13ee13abfce6bdd005b3d75722968de2b5b9451b-677128-1024-768-png_l.jpg") |  |
@@ -620,13 +620,13 @@ example:
 | stuck in wall | 卡在墙上 | 有人卡在墙上，无法动弹，生殖器与乳房常常暴露在外。需要`bondage`标签。不应与寻欢`glory hole`或`wormhole`混淆。 |  |
 | suspended | 悬空 | 通过上方的连接物被吊起悬空，不触地而且不直接靠墙。需要`bondage`标签。不要与`hanging`、`fanny packing`或`stuck in wall`混淆。当个体悬挂于垂直结构物（如墙、柱等竖直物体）上，或仅由除触手外的有生命实体悬吊时，不得使用本标签。<br>![](# "https://ehgt.org/w/01/814/68085-v61x101m.webp") ![](# "https://ehgt.org/w/02/207/54452-ce6cij7k.webp") |  |
 |  | === 强迫 > 暴力 === |  |  |
-| abortion | 堕胎 | 任何杀害未出生的孩子的视觉描述或暗示。包括未遂行为，但不包括对孩子没有明显伤害的失败尝试。 |  |
+| abortion | 堕胎 | 任何杀害未出生的孩子的视觉描述或暗示。包括未遂行为，但不包括对孩子没有明显伤害的失败尝试。将发送图库到思念峡湾。 |  |
 | cannibalism | 食人 | 人型生物烹饪或食用其他人形生物。不应与`vore`混淆。 |  |
 | catfight | 猫斗 | 两名女性之间不协调的战斗。不应与`wrestling`混淆。 |  |
 | cbt | 虐屌 | CBT, Cock and Ball Torture. 以任何方式折磨阴茎区域。不需要`torture`标签 |  |
 | cuntbusting | 阴道破坏 | 物理攻击阴道的行为。 |  |
 | dismantling | 拆解 | 拆除部件，损毁或破坏机械生物。需要`robot`标签。 |  |
-| guro | 猎奇 | 英语グロテスク（Grotesque）的日式缩写グロ（guro）。原指恶心怪异，奇怪，不自然的猎奇事物。现常用于色情领域，全称エログロ（eroguro），常表现为血腥暴力，残害，肉体切割，扭曲变态，有点恶心又怪异的异常性行为或色情事物，常与`amputee`、`ryona`、`blood`、`snuff`、`rape`等标签并用，不用于温和的`blood`或`ryona`。不应与`snuff`混淆。对于大多数涉及`robot`的情况，请改用`dismantling`。<br>图库只需要包含一张这种性质的图片即可获得此标签。<br><br>![恶](## "https://ehgt.org/a1/03/a1037f38d3841d9126257c95cf7ebf44645d6e1f-815087-1634-1743-jpg_250.jpg")![恶](## "https://ehgt.org/9c/30/9c30becd74eebfc9cc621cda75f096166e930b44-78256-733-500-jpg_250.jpg")![恶](## "https://ehgt.org/e9/53/e953213efaea1fc681824b601317c0a45872a309-124477-640-853-jpg_l.jpg") |  |
+| guro | 猎奇 | 英语グロテスク（Grotesque）的日式缩写グロ（guro）。原指恶心怪异，奇怪，不自然的猎奇事物。现常用于色情领域，全称エログロ（eroguro），常表现为血腥暴力，残害，肉体切割，扭曲变态，有点恶心又怪异的异常性行为或色情事物，常与`amputee`、`ryona`、`blood`、`snuff`、`rape`等标签并用，不用于温和的`blood`或`ryona`。不应与`snuff`混淆。对于大多数涉及`robot`的情况，请改用`dismantling`。<br>图库只需要包含一张这种性质的图片即可获得此标签。将发送图库到思念峡湾。<br><br>![恶](## "https://ehgt.org/a1/03/a1037f38d3841d9126257c95cf7ebf44645d6e1f-815087-1634-1743-jpg_250.jpg")![恶](## "https://ehgt.org/9c/30/9c30becd74eebfc9cc621cda75f096166e930b44-78256-733-500-jpg_250.jpg")![恶](## "https://ehgt.org/e9/53/e953213efaea1fc681824b601317c0a45872a309-124477-640-853-jpg_l.jpg") |  |
 | electric shocks | 电击 | 用电力引起疼痛或快感。 |  |
 | ryona | 凌虐 | 对角色实施痛击、电击、束缚。通常低于`torture`的程度。不应与`wrestling`混淆。 |  |
 | snuff | 杀害 | 杀害人类或`furry`。不应与`guro`混淆。<br>![恶](## "https://ehgt.org/d5/1b/d51b8f11d4892a73660d8e9b3c2727fabc701e29-707033-806-631-png_250.jpg")![恶](## "https://ehgt.org/70/01/7001de6f5c26f60c51d64583f503e8c49d5dca7c-137717-460-620-jpg_250.jpg")![恶](## "https://ehgt.org/9d/48/9d48f33ccfeecebfaaa0712f536dcead0b208910-342661-1215-1721-jpg_l.jpg") |  |
@@ -689,7 +689,7 @@ example:
 | daughter | 女儿 | 父母与女儿间的性行为。需要`incest`标签。 |  |
 | granddaughter | 孙女 | 祖父母与孙女间的性行为。需要`incest`标签。 |  |
 | grandmother | 祖母 | 祖母与孙子/孙女间的性行为。需要`incest`标签。 |  |
-| incest | 乱伦 | 亲属之间的性行为，包括无血缘关系的人。 |  |
+| incest | 乱伦 | 亲属之间的性行为，包括无血缘关系的人。将发送图库到思念峡湾。 |  |
 | inseki | 姻亲 | 无血缘关系的亲属之间的性行为。需要`incest`标签。 |  |
 | mother | 母亲 | 母亲与子女间的性行为。需要`incest`标签。 |  |
 | niece | 侄女 | 侄女与叔叔/阿姨间的性行为。需要`incest`标签。 |  |
