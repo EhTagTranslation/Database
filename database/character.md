@@ -2231,7 +2231,7 @@ example:
 | suruga kanbaru | 神原骏河 |  |  |
 | mayoi hachikuji | 八九寺真宵 | ![](https://static.wikia.nocookie.net/bakemonogatari1645/images/8/81/Mayoi_Owari3.jpg/revision/latest?cb=20180103101821)<br>所属作品:`bakemonogatari` | [萌娘百科](https://zh.moegirl.org.cn/八九寺真宵) |
 | deishuu kaiki | 贝木泥舟 |  |  |
-| yotsugi ononoki | 斧乃木余接 |  |  |
+| yotsugi ononoki | 斧乃木余接 | ![](https://static.wikia.nocookie.net/bakemonogatari1645/images/2/28/Zoku_Owarimonogatari_Concept_Art_-_Yotsugi_Ononoki.jpg/revision/latest?cb=20190410100747)<br>所属作品:`bakemonogatari`<br>“耶~” | [萌娘百科](https://zh.moegirl.org.cn/斧乃木余接) |
 |  | ▼ 甘城光辉游乐园 |  |  |
 | seiya kanie | 可儿江西也 |  |  |
 | isuzu sento | 千斗五十铃 | ![](https://img.moegirl.org.cn/common/6/69/Sento_Isuzu.png)<br>所属作品: `p:amagi brilliant park`<br>美少女转学生、理论上的三无本体为粉红色二头身河童。有两个明显的呆毛。<br>其正体是“甘辉”引以为豪的近卫队军士，原代理经理，本名伊丝兹露哈·森托西雅。在可儿江西也担任代理经理后，成为他的首席秘书。 | [萌娘百科](https://zh.moegirl.org.cn/千斗五十铃) |
