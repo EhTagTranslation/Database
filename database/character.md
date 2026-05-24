@@ -9426,6 +9426,7 @@ example:
 | sion kamiya | 神谷紫苑 | ![](https://static.wikia.nocookie.net/aikatsu/images/2/24/10310107_701079793283538_3492493849904596664_n.jpg/revision/latest?cb=20140522120811)<br>所属作品:`aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/神谷紫苑) |
 | yayoi bernard lutwidge | 弥生・伯纳德・路特维奇 | 弥生・B（バーナード）・ルートウィッジ，紫社游戏幸福噩梦登场角色 |  |
 | yuzu nikaidou | 二阶堂柚子 | ![](https://static.wikia.nocookie.net/aikatsustars6864/images/e/ee/Chara_yuzu.png/revision/latest?cb=20160331175157)<br>所属作品:`aikatsu` stars | [萌娘百科](https://zh.moegirl.org.cn/二阶堂柚子) |
+| lily shirogane | 白银莉莉 | ![](https://static.wikia.nocookie.net/aikatsustars6864/images/f/fc/Lilie-Rouen_Marching_Coord.png/revision/latest?cb=20170531150349)<br>所属作品:`aikatsu` stars | [萌娘百科](https://zh.moegirl.org.cn/白银莉莉%28偶活学园Stars!%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
