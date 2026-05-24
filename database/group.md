@@ -12204,7 +12204,7 @@ example:
 | yotayota honpo | よたよた本舗 |  |  |
 | yotogizousi | 夜伽草紙 |  |  |
 | yotsumi works | よつみわーくす |  |  |
-| yottanchi | よったんち |  |  |
+| yottanchi | よったんち |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73675/) |
 | you you tsuushin | 遊遊通信 |  |  |
 | you2hp | YOU2HP |  |  |
 | youchien | 妖痴艶 |  |  |
