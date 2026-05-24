@@ -9424,6 +9424,7 @@ example:
 | ying swei | 应瑞 | ![](https://patchwiki.biligame.com/images/blhx/thumb/2/26/7lslkwcavujcrap87dqgedbovwrg7zx.jpg/525px-应瑞立绘.jpg)<br>所属作品:`azur lane` | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:应瑞) |
 | tsubasa sena | 濑名翼 | ![](https://static.wikia.nocookie.net/aikatsu/images/6/6d/螢幕快照_2016-01-14_下午09.32.31.png/revision/latest?cb=20160114133248)<br>所属作品:`aikatsu` | [百度百科](https://baike.baidu.com/item/濑名翼/18601307) |
 | sion kamiya | 神谷紫苑 | ![](https://static.wikia.nocookie.net/aikatsu/images/2/24/10310107_701079793283538_3492493849904596664_n.jpg/revision/latest?cb=20140522120811)<br>所属作品:`aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/神谷紫苑) |
+| yayoi bernard lutwidge | 弥生・伯纳德・路特维奇 | 弥生・B（バーナード）・ルートウィッジ，紫社游戏幸福噩梦登场角色 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
