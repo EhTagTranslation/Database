@@ -12683,7 +12683,7 @@ example:
 | fuugetsu makoto | 楓月誠 |  | [X](https://x.com/whogets) [pixiv](https://www.pixiv.net/users/32669) |
 | rebutsu | りぶつ |  | [X](https://x.com/re_Butsu) [pixiv](https://www.pixiv.net/users/25821965) |
 | miyazaki usagi | みやざきうさぎ |  |  |
-| touchuu kasou | 冬虫夏草 |  |  |
+| touchuu kasou | 冬虫夏草 | 日语：冬蟲夏草 | [FANBOX](https://www.fanbox.cc/@monuke0988) \| [pixiv](https://www.pixiv.net/users/1599160) \| [X](https://x.com/huyumushi09) |
 | cbmus | Cbmus |  | [X](https://x.com/hhkd65044493) [pixiv](https://www.pixiv.net/users/9942406) |
 | torii yoshitsuna | 鸟居义纲 | 鳥居ヨシツナ（山吉田之助） | [X](https://x.com/Yoshitsuna_T) [pixiv](https://www.pixiv.net/users/7309260) |
 | mannack | まんなく |  | [pixiv](https://www.pixiv.net/users/29759565) |
