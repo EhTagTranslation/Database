@@ -6905,7 +6905,7 @@ example:
 | hiyori kozuki | 光月日和 | ![](https://ehgt.org/w/02/067/88920-2r15kky0.webp)<br>所属作品：`one piece`<br>和之国公主/原花之都第一花魁 |  |
 | turenne | 人狼女王 | 所属作品：`kyoukai senjou no horizon`<br>![](https://lain.bgm.tv/r/400/pic/cover/l/84/46/18032_oSn9S.jpg) |  |
 | seol hee | 冰月花雪 | 所属作品：`agents of atlas`<br>![](https://ehgt.org/w/01/997/93869-9keezetj.webp)<br>冰月花雪（Luna Snow），是美国漫威漫画旗下超级英雄，首次登场于游戏《漫威：未来之战》 |  |
-| raynare | 天野夕麻 | 所属作品：`highschool dxd`<br>![](https://ehgt.org/w/01/900/91458-4mm2m04e.webp)<br>女性堕天使，外表看似清纯可爱又身材性感的巨乳女高中生，实际上非常卑劣。 |  |
+| raynare | 天野夕麻 | ![](https://ehgt.org/w/01/900/91458-4mm2m04e.webp)<br>日语：レイナーレ/あまのゆうま<br>所属作品：`highschool dxd` |  |
 | riruka dokugamine | 毒峰莉露卡 | ![](https://ehgt.org/w/02/088/57406-5zxp7n2m.webp)<br>所属作品：`bleach`<br>日语:毒ヶ峰リルカ |  |
 | sitri | sitri |  |  |
 | queen sonia | 索尼娅女王 | 所属作品：`the legend of zelda`<br>![](https://ehgt.org/w/01/990/92741-d4dbq8n9.webp) |  |
