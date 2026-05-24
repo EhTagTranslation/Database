@@ -13954,6 +13954,7 @@ example:
 | mucus | Mucus | ミューカス |  |
 | zanzo apartment | 残像アパート |  |  |
 | arancio tela | ARANCIO TELA | `mitsuki meia`使用的同人社团名称 |  |
+| gake no ue no aho | ガケノウエノアホ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
