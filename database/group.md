@@ -13953,6 +13953,7 @@ example:
 | okaya | 岡屋 | `a:okaya`使用的同人社团名称 |  |
 | mucus | Mucus | ミューカス |  |
 | zanzo apartment | 残像アパート |  |  |
+| arancio tela | ARANCIO TELA | `mitsuki meia`使用的同人社团名称 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
