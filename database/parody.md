@@ -2848,6 +2848,7 @@ example:
 | hatsuyuki sakura | 初雪樱 | saga planets游戏 |  |
 | sharin no kuni himawari no shoujo | 车轮之国，向日葵的少女 | 車輪の国、向日葵の少女，akabei soft2游戏 |  |
 | mahou senshi symphonic knights | 魔法战士交响骑士~继承女神的少女们~ | ![](https://t.vndb.org/cv.t/90/120190.jpg)<br>日语：魔法戦士シンフォニックナイツ～女神を継ぐ乙女たち～ |  |
+| moonlight lady | 无颜之月 | ![](https://t.vndb.org/cv.t/22/94722.jpg)<br>日语：顔のない月 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
