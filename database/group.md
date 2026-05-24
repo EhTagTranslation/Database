@@ -13951,6 +13951,7 @@ example:
 | panda monaka | panda\*monaka |  |  |
 | gusucapiyopiyo | グースカピヨピヨ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68227.html) |
 | okaya | 岡屋 | `a:okaya`使用的同人社团名称 |  |
+| mucus | Mucus | ミューカス |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
