@@ -15241,6 +15241,7 @@ example:
 | siki | siki | siki是一名日本插画家 | [https://vndb.org/s9373](https://vndb.org/s9373) |
 | katoh akatsuki | 加藤アカツキ |  |  |
 | mitsuki meia | 美月めいあ |  | [pixiv](https://www.pixiv.net/users/383657) |
+| hitoto | Hitoto\* |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
