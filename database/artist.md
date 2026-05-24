@@ -15238,6 +15238,7 @@ example:
 | akimura haru | あきむらはる |  | [X](https://x.com/harururu425)<br>[pixiv](https://www.pixiv.net/users/161158/artworks) |
 | okaya | おかや |  | [pixiv](https://www.pixiv.net/users/3606680) |
 | e.u.o | E.u.O |  | [pixiv](https://www.pixiv.net/users/18798082) |
+| siki | siki | siki是一名日本插画家 | [https://vndb.org/s9373](https://vndb.org/s9373) |
 
 <!--TEMPLATE:
 |  |  |  |  |
