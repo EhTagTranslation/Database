@@ -3695,7 +3695,7 @@ example:
 | wakana gojou | 五条新菜 |  | [萌娘百科](https://zh.moegirl.org.cn/五条新菜) |
 | marin kitagawa | 喜多川海梦 | ![图](https://p.sda1.dev/5/90b6665d7a131deb663ecb63cfa825d9/Kitagawa_Marin_1.png)<br><br>所属作品：`sono bisque doll wa koi o suru`<br>开朗的美少女，没有害怕的东西。<br>金发黑棕色瞳，平时会戴桃红色美瞳。<br>与新菜同为1年5班。对于自己喜欢的东西不会掩饰。 | [萌娘百科](https://zh.moegirl.org.cn/喜多川海梦) |
 | akeno himejima | 姬岛朱乃 | ![](https://haremking.tv/character/images/4s.png)<br>所属作品：`highschool dxd` | [萌娘百科](https://zh.moegirl.org.cn/姬岛朱乃) |
-| asia argento | 爱莎·阿尔杰特 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/05/05/12/33/33/130057854_p2_master1200.jpg) | [萌娘百科](https://zh.moegirl.org.cn/爱莎·阿尔杰特) |
+| asia argento | 爱莎·阿尔杰特 | ![](https://static.wikia.nocookie.net/highschooldxd/images/7/72/Asia_Argento_by_Skodwarde.png)<br>日语：アーシア・アルジェント<br>所属作品：`highschool dxd` | [萌娘百科](https://zh.moegirl.org.cn/爱莎·阿尔杰特) |
 | koneko toujou | 塔城小猫 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/img-master/img/2025/10/04/22/05/00/135876460_p0_master1200.jpg) | [萌娘百科](https://zh.moegirl.org.cn/塔城小猫) |
 | rias gremory | 莉雅丝·吉蒙里 | ![](https://static.wikia.nocookie.net/highschooldxd/images/6/6c/Riasg.jpg)<br>日语：リアス・グレモリー<br>所属作品：`highschool dxd` | [萌娘百科](https://zh.moegirl.org.cn/莉雅丝·吉蒙里) |
 | amamiya kokoro | 天宫心 | ![](https://static.wikia.nocookie.net/youtube/images/2/21/Amamiyakokoro3.webp/revision/latest?cb=20210617160458)<br>所属社团：`p:nijisanji`<br><br>天宫心 （日语：天宮こころ \| あまみや こころ \| Amamiya Kokoro ）是一名从2019年8月13日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [天宫心 - 萌娘百科](https://zh.moegirl.org.cn/天宫心) |
