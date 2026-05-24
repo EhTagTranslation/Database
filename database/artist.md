@@ -4975,7 +4975,7 @@ example:
 | ed | ED |  |  |
 | edih | Edih |  |  |
 | edo | い～どぅ～ |  |  |
-| edo shigezu | 江戸しげズ |  |  |
+| edo shigezu | 江戸しげズ |  | [FANZA](https://book.dmm.co.jp/list/?author=244217) \| [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ003820/ana_flg/all) |
 | edoya pochi | 江戸屋ぽち |  |  |
 | efink | EFINK |  |  |
 | egami | えがみ | 現在リクエスト停止中です。<br>成人向けの絵も描きます。よろしくお願いします。<br><br>I'm drawing R-18 pictures of animation and game characters.<br>I'm not accepting commissions for illustrations.<br><br>お仕事のご依頼は現在募集しておりません。 | [pixiv](https://www.pixiv.net/users/64390150)<br>[FANBOX](https://egami.fanbox.cc/)<br>[Fantia](https://fantia.jp/fanclubs/478546)<br>[Twitter](https://x.com/Egami_Mal)<br>[Mastodon](https://baraag.net/@egami_mal)<br>[nijie(ニジエ)](https://nijie.info/members.php?id=1808906) |
