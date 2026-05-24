@@ -2847,6 +2847,7 @@ example:
 | senyuu. | 战勇 | ![](https://upload.wikimedia.org/wikipedia/en/d/d6/Senyu_vol_1.png)<br>日本漫画家春原罗宾逊所作的搞笑奇幻漫画作品。 |  |
 | hatsuyuki sakura | 初雪樱 | saga planets游戏 |  |
 | sharin no kuni himawari no shoujo | 车轮之国，向日葵的少女 | 車輪の国、向日葵の少女，akabei soft2游戏 |  |
+| mahou senshi symphonic knights | 魔法战士交响骑士~继承女神的少女们~ | ![](https://t.vndb.org/cv.t/90/120190.jpg)<br>日语：魔法戦士シンフォニックナイツ～女神を継ぐ乙女たち～ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
