@@ -3599,7 +3599,7 @@ example:
 | chapayev | 恰巴耶夫 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/87a16fd63c4cfd0cf8402877b316499c262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/dc4caba0b9926e75775b48e54f228f17262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/bbb9215e4b3ec550dbb59a134ad04509262400697.png)<br>恰巴耶夫号轻巡洋舰是苏联海军在二战期间至二战后建造的恰巴耶夫级轻巡洋舰的首舰。 | [碧蓝航线:恰巴耶夫](https://zh.moegirl.org.cn/碧蓝航线:恰巴耶夫) |
 | saint louis | 路易九世 | 原型是法国海军的C5方案舰：路易九世 | [碧蓝航线:路易九世](https://zh.moegirl.org.cn/碧蓝航线:路易九世) |
 | yume nijino | 虹野梦 | ![](https://static.wikia.nocookie.net/aikatsustars6864/images/5/5f/Chara_yume_S2.png/revision/latest?cb=20170401161135)<br>所属作品:`aikatsu` stars | [萌娘百科](https://zh.moegirl.org.cn/虹野梦) |
-| laura sakuraba | 樱庭劳拉 |  |  |
+| laura sakuraba | 樱庭劳拉 | ![](https://static.wikia.nocookie.net/aikatsustars6864/images/0/03/Chara_rola_s2.png/revision/latest?cb=20170418160254)<br>所属作品:`aikatsu` stars | [萌娘百科](https://zh.moegirl.org.cn/樱庭劳拉) |
 | mahiru kasumi | 香澄真昼 | ![](https://static.wikia.nocookie.net/aikatsustars6864/images/c/c9/Chara_mahiru_s2.png/revision/latest?cb=20170425143817)<br>所属作品:`aikatsu` stars | [萌娘百科](https://zh.moegirl.org.cn/香澄真昼) |
 | koharu nanakura | 七仓小春 |  |  |
 | ako saotome | 早乙女亚子 |  |  |
