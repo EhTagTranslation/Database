@@ -4000,7 +4000,7 @@ example:
 | aku | あく |  |  |
 | akuma | あくま |  |  |
 | akuno toujou | 悪の東丈 |  |  |
-| akushizu | あくしず |  |  |
+| akushizu | あくしず |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27477/) |
 | akuta | アクタ |  |  |
 | akuta noe | 阿久多のえ |  |  |
 | akutabin | アクタビン |  |  |
