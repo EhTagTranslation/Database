@@ -13404,7 +13404,7 @@ example:
 | yutamaro | ゆたまろ |  |  |
 | hyper grown tea | ハイパーグロウンティー |  |  |
 | nemuchiyo | ねむちよ |  |  |
-| ebi no implant | えびのインプラント |  |  |
+| ebi no implant | えびのインプラント |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202642/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG58010.html) |
 | shitatattel | シタタッテル |  |  |
 | manmaya | まんま屋 |  |  |
 | rojiura 6-3 | ロジウラ6-3 |  |  |
