@@ -864,7 +864,7 @@ example:
 | doronko yuuyake | どろんこ夕焼 |  |  |
 | panic room | パニックルーム! |  |  |
 | studio aruta | スタジオあるた |  |  |
-| haruharudo | はるはる堂 |  |  |
+| haruharudo | はるはる堂 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26856/) |
 | tamanokoshi | たまのこし |  |  |
 | minamihamaya | 南浜屋 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74005/) |
 | lolipop complete | ロリポップ コンプリート |  |  |
