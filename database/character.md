@@ -9430,6 +9430,7 @@ example:
 | aria futaba | 双叶亚里亚 | ![](https://static.wikia.nocookie.net/aikatsustars6864/images/5/5d/Aria_render.png/revision/latest?cb=20171009130828)<br>所属作品:`aikatsu` stars | [萌娘百科](https://zh.moegirl.org.cn/双叶亚里亚) |
 | sei soramiya | 空宫征 | ![](https://static.wikia.nocookie.net/inazuma-eleven/images/1/1b/Soramiya_Sei.png)<br>所属作品：`inazuma eleven` |  |
 | unmei sasanami | 笹波云明 | ![](https://static.wikia.nocookie.net/inazuma-eleven/images/1/1d/Sasanami_Unmei.png)<br>日语：笹波 雲明<br>所属作品：`inazuma eleven` |  |
+| erika sendo | 千堂瑛里华 | ![](https://t.vndb.org/ch/86/12886.jpg)<br>日语：千堂 瑛里華<br>所属作品：`fortune arterial` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
