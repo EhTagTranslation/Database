@@ -9434,6 +9434,7 @@ example:
 | shiro tougi | 东仪白 | ![](https://t.vndb.org/ch/83/12883.jpg)<br>日语：東儀 白<br>所属作品：`fortune arterial` |  |
 | haruna yuuki | 悠木阳菜 | ![](https://t.vndb.org/ch/84/12884.jpg)<br>日语：悠木 陽菜<br>所属作品：`fortune arterial` |  |
 | kanade yuuki | 悠木奏 | ![](https://t.vndb.org/ch/85/12885.jpg)<br>日语：悠木 かなで<br>所属作品：`fortune arterial` |  |
+| kiriha kuze | 红瀬桐叶 | ![](https://t.vndb.org/ch/87/12887.jpg)<br>日语：紅瀬 桐葉<br>所属作品：`fortune arterial` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
