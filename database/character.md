@@ -9437,6 +9437,7 @@ example:
 | kiriha kuze | 红瀬桐叶 | ![](https://t.vndb.org/ch/87/12887.jpg)<br>日语：紅瀬 桐葉<br>所属作品：`fortune arterial` |  |
 | haruka saigusa | 三枝叶留佳 | ![](https://t.vndb.org/ch/51/37051.jpg)<br>日语：三枝 葉留佳<br>所属作品：`little busters` |  |
 | shiori yumeoji | 梦大路栞 | ![](https://static.wikia.nocookie.net/revuestarlight/images/0/08/Shiori_Yumeoji_Revue_Outfit.png)<br>日语：夢大路 栞<br>所属作品：`shoujo kageki revue starlight` |  |
+| siro | 电脑少女小白 | 电脑少女小白（Dennou Shojo Siro）是日本最早也是最具代表性的虚拟YouTuber（VTuber）之一。她也常被称为“小白”或代号“46”，在2019年播出的VTuber群像番剧《VIRTUALSAN - LOOKING》中担任主要角色。--来自谷歌AI预览 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
