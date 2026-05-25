@@ -3909,7 +3909,7 @@ example:
 | hiling | 希琳 | 伯斯王的第二任妻子，戴达的亲生母亲。<br>![图](https://ehgt.org/09/e7/09e7b2f5fdf53c8ae60be79a4e943874585e3dfe-369341-1000-1200-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/希琳) |
 | yoshino kousaka | 高坂佳乃 |  |  |
 | kuzuha togashi | 富㭴樟叶 | ![](https://img.moegirl.org.cn/common/7/73/Kuzuha.png) | [萌娘百科](https://zh.moegirl.org.cn/富㭴樟叶) |
-| ichigo hoshimiya | 星宫莓 | ![](https://img.moegirl.org.cn/common/d/d6/20171101134627_hatCi.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/星宫莓) |
+| ichigo hoshimiya | 星宫莓 | ![](https://img.moegirl.org.cn/common/d/d6/20171101134627_hatCi.jpeg)<br>所属作品:`aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/星宫莓) |
 | aoi kiriya | 雾矢葵 | ![](https://img.moegirl.org.cn/common/2/25/20180224124351_fhkvx.jpg)<br>所属作品:`aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/雾矢葵) |
 | yurika toudou | 藤堂百合香 | ![](https://img.moegirl.org.cn/common/thumb/7/78/20171224145848_mWBvi.jpeg/420px-20171224145848_mWBvi.jpeg)<br>所属作品:`aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/藤堂百合香) |
 | kirara hanazono | 花园绮罗 | ![](https://img.moegirl.org.cn/common/0/01/花园绮罗.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/花园绮罗) |
