@@ -5144,7 +5144,7 @@ example:
 | junna hoshimi | 星见纯那 | ![](https://static.wikia.nocookie.net/revuestarlight/images/9/91/Junna_Hoshimi_Revue_Outfit.png)<br>日语：星見 純那<br>所属作品: `p:shoujo kageki revue starlight` | [萌娘百科](https://zh.moegirl.org.cn/星见纯那) |
 | hikari kagura | 神乐光 | ![](https://static.wikia.nocookie.net/revuestarlight/images/4/41/Hikari_Kagura_Revue_Outfit.png)<br>日语：神楽 ひかり<br>所属作品: `p:shoujo kageki revue starlight` | [萌娘百科](https://zh.moegirl.org.cn/神乐光) |
 | futaba isurugi | 石动双叶 | 所属作品: `p:shoujo kageki revue starlight`<br><br>`c:kaoruko hanayagi`的青梅竹马，为了陪伴她而就读圣翔音乐学园，与众不同的舞台少女。虽然说话毒辣但其实很温柔，嘴上抱怨归抱怨，但凡事还是都以香子为优先。个子虽小，不过运动能力相当高，擅长实战学来的武打戏。 | [萌娘百科](https://zh.moegirl.org.cn/石动双叶) |
-| kaoruko hanayagi | 花柳香子 | 所属作品: `p:shoujo kageki revue starlight`<br><br>日本舞掌门人的孙女，歌谣与舞蹈才能卓越的和风舞台少女。是天生的大小姐，生活起居的大小事全都仰赖`c:futaba isurugi`帮忙处理。随时笑容满面，但机谋深算，私底下非常讲究得失。其华美的京都腔为她的一大特征。 | [萌娘百科](https://zh.moegirl.org.cn/花柳香子) |
+| kaoruko hanayagi | 花柳香子 | ![](https://static.wikia.nocookie.net/revuestarlight/images/b/b2/Kaoruko_Hanayagi_School_Uniform.png)<br>所属作品: `p:shoujo kageki revue starlight` | [萌娘百科](https://zh.moegirl.org.cn/花柳香子) |
 | mahiru tsuyuzaki | 露崎真昼 | ![](https://static.wikia.nocookie.net/revuestarlight/images/6/65/Mahiru_Tsuyuzaki_Revue_Outfit.png)<br>日语：露崎 まひる<br>所属作品: `p:shoujo kageki revue starlight` | [萌娘百科](https://zh.moegirl.org.cn/露崎真昼) |
 | shizuka yoshimoto | 好本静 | 《超超超超超喜欢你的100个女朋友》女主之一。 |  |
 | anastasia hoshin | 安娜塔西亚·合辛 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/10/17/29/43/134934465_p3_master1200.jpg)<br><br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>国王候补者之一。出身于卡拉拉基的最下层。现任合辛商会的会长。<br>具备卓越的商业才能，将卡拉拉基的留希卡商工会买下并改名。 | [萌娘百科](https://zh.moegirl.org.cn/安娜塔西亚·合辛) |
