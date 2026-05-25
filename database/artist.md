@@ -15245,6 +15245,7 @@ example:
 | coffee neko | 咖啡猫 | 珈琲猫 |  |
 | zhao | ZHAO |  | [Lit.Link](https://lit.link/zh-tw/Zhao190) \| [DLsite](https://ci-en.dlsite.com/creator/18864) \| [FANBOX](https://zhao190.fanbox.cc/) \| [gank](https://ganknow.com/zhao?tab=shop) \| [pixiv](https://www.pixiv.net/users/79238963) \| [X](https://x.com/zhao_190) |
 | salasa misa | 更紗三三 |  |  |
+| umino mokuzu | ウミノモクス |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
