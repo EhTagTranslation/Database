@@ -7125,7 +7125,7 @@ example:
 | lewd angels | Lewd Angels |  |  |
 | leymei | LEYMEI |  |  |
 | lhezi | LHEZI |  |  |
-| liar-soft | ライアーソフト |  |  |
+| liar-soft | Liar-soft | ライアーソフト |  |
 | libertaria | リバタリア |  |  |
 | libido | リビドー |  |  |
 | libido kaikan | リビドー会館 |  |  |
