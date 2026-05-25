@@ -2953,7 +2953,7 @@ example:
 | miyuki shirogane | 白银御行 | ![](https://img.moegirl.org.cn/common/6/6a/Shirogane_Miyuki_main.png)<br>所属作品：`kaguya-sama wa kokurasetai` | [萌娘百科](https://zh.moegirl.org.cn/白银御行) |
 | chika fujiwara | 藤原千花 | ![](https://img.moegirl.org.cn/common/a/a8/Fujiwara_Chika.png)<br>所属作品：`kaguya-sama wa kokurasetai`<br>出生于政治世家的千金，曾祖父是原总理大臣，叔父担任现任的省大臣，拥有相当优秀的血统。由于母亲是外交官，所以会5种语言。但是难以应付国语。三姐妹的次女。 | [萌娘百科](https://zh.moegirl.org.cn/藤原千花) |
 | soushi miketsukami | 御狐神双炽 |  |  |
-| maya tendo | 天堂真矢 | 圣翔音乐学园99期生，演员育成科，学号18号。知名舞台演员与当红歌星的女儿，演剧界的名门出身。拥有完美的身材与高昂的声音。虽然天赋异禀，却并不会不思进取，是个以更高的高度为目标而不断努力的孤高舞台少女。<br>![Maya Tendo profile](https://img.moegirl.org.cn/common/1/10/Maya_Tendo_profile.png) | [萌娘百科](https://zh.moegirl.org.cn/天堂真矢) |
+| maya tendo | 天堂真矢 | ![](https://static.wikia.nocookie.net/revuestarlight/images/5/52/Maya_Tendo_Revue_Outfit.png)<br>所属作品：`shoujo kageki revue starlight` | [萌娘百科](https://zh.moegirl.org.cn/天堂真矢) |
 | seto miyako | 濑户美夜子 |  |  |
 | pecorine | 佩可莉姆 | ![](https://static.wikia.nocookie.net/princess-connect/images/1/11/Pecorine_%28game%29.png)<br>所属作品：`princess connect`<br>外号吃货。 | [萌娘百科](https://zh.moegirl.org.cn/佩可莉姆) |
 | harumi fujiyoshi | 藤吉晴美 |  |  |
