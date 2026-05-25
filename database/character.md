@@ -9439,6 +9439,7 @@ example:
 | shiori yumeoji | 梦大路栞 | ![](https://static.wikia.nocookie.net/revuestarlight/images/0/08/Shiori_Yumeoji_Revue_Outfit.png)<br>日语：夢大路 栞<br>所属作品：`shoujo kageki revue starlight` |  |
 | siro | 电脑少女小白 | 电脑少女小白（Dennou Shojo Siro）是日本最早也是最具代表性的虚拟YouTuber（VTuber）之一。她也常被称为“小白”或代号“46”，在2019年播出的VTuber群像番剧《VIRTUALSAN - LOOKING》中担任主要角色。--来自谷歌AI预览 |  |
 | hikari minowa | 三轮光 | ![](https://static.wikia.nocookie.net/aikatsu/images/a/aa/螢幕快照_2014-07-12_下午04.30.48.png/revision/latest?cb=20180813150851)<br>所属作品：`aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/三轮光) |
+| shigure kosaka | 香坂时雨 | ![](https://static.wikia.nocookie.net/kenichi/images/e/e1/Shigure_01.jpg/revision/latest/scale-to-width-down/268?cb=20131204025616)<br>出自作品：`p:historys strongest disciple kenichi`<br><br>香坂时雨是由松江名俊创作的漫画《史上最强弟子兼一》及其衍生作品的登场角色。 | [Fandom](https://kenichi.fandom.com/wiki/Shigure_Kōsaka) \| [萌娘百科](https://zh.moegirl.org.cn/香坂时雨) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
