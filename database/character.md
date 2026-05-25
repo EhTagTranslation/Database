@@ -9433,6 +9433,7 @@ example:
 | erika sendo | 千堂瑛里华 | ![](https://t.vndb.org/ch/86/12886.jpg)<br>日语：千堂 瑛里華<br>所属作品：`fortune arterial` |  |
 | shiro tougi | 东仪白 | ![](https://t.vndb.org/ch/83/12883.jpg)<br>日语：東儀 白<br>所属作品：`fortune arterial` |  |
 | haruna yuuki | 悠木阳菜 | ![](https://t.vndb.org/ch/84/12884.jpg)<br>日语：悠木 陽菜<br>所属作品：`fortune arterial` |  |
+| kanade yuuki | 悠木奏 | ![](https://t.vndb.org/ch/85/12885.jpg)<br>日语：悠木 かなで<br>所属作品：`fortune arterial` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
