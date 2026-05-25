@@ -9428,6 +9428,7 @@ example:
 | yuzu nikaidou | 二阶堂柚子 | ![](https://static.wikia.nocookie.net/aikatsustars6864/images/e/ee/Chara_yuzu.png/revision/latest?cb=20160331175157)<br>所属作品:`aikatsu` stars | [萌娘百科](https://zh.moegirl.org.cn/二阶堂柚子) |
 | lily shirogane | 白银莉莉 | ![](https://static.wikia.nocookie.net/aikatsustars6864/images/f/fc/Lilie-Rouen_Marching_Coord.png/revision/latest?cb=20170531150349)<br>所属作品:`aikatsu` stars | [萌娘百科](https://zh.moegirl.org.cn/白银莉莉%28偶活学园Stars!%29) |
 | aria futaba | 双叶亚里亚 | ![](https://static.wikia.nocookie.net/aikatsustars6864/images/5/5d/Aria_render.png/revision/latest?cb=20171009130828)<br>所属作品:`aikatsu` stars | [萌娘百科](https://zh.moegirl.org.cn/双叶亚里亚) |
+| sei soramiya | 空宫征 | 所属作品：`inazuma eleven` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
