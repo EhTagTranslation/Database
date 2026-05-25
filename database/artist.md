@@ -15242,6 +15242,7 @@ example:
 | katoh akatsuki | 加藤アカツキ |  |  |
 | mitsuki meia | 美月めいあ |  | [pixiv](https://www.pixiv.net/users/383657) |
 | hitoto | Hitoto\* |  |  |
+| coffee neko | 咖啡猫 | 珈琲猫 |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
