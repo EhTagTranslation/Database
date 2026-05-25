@@ -799,7 +799,7 @@ example:
 | kochou no yume | 胡蝶夢 |  |  |
 | hanekura ginma | 羽倉ぎんま |  |  |
 | suzunone strike | スズノネストライク |  |  |
-| bloody okojo | Bloody Okojo |  |  |
+| bloody okojo | Bloody Okojo |  | [Fantia](https://fantia.jp/fanclubs/6188) \| [pixiv](https://www.pixiv.net/users/90288) \| [X](https://x.com/bloody_okojo) \| [BOOTH](https://bloodyokojo.booth.pm/) |
 | sunset beach | サンセットビーチ |  |  |
 | alicecreation | AliceCreation |  |  |
 | shirokurousa | しろくろうさ |  |  |
