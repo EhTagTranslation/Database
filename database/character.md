@@ -9431,6 +9431,7 @@ example:
 | sei soramiya | 空宫征 | ![](https://static.wikia.nocookie.net/inazuma-eleven/images/1/1b/Soramiya_Sei.png)<br>所属作品：`inazuma eleven` |  |
 | unmei sasanami | 笹波云明 | ![](https://static.wikia.nocookie.net/inazuma-eleven/images/1/1d/Sasanami_Unmei.png)<br>日语：笹波 雲明<br>所属作品：`inazuma eleven` |  |
 | erika sendo | 千堂瑛里华 | ![](https://t.vndb.org/ch/86/12886.jpg)<br>日语：千堂 瑛里華<br>所属作品：`fortune arterial` |  |
+| shiro tougi | 东仪白 | ![](https://t.vndb.org/ch/83/12883.jpg)<br>日语：東儀 白<br>所属作品：`fortune arterial` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
