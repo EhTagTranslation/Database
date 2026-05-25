@@ -9429,6 +9429,7 @@ example:
 | lily shirogane | 白银莉莉 | ![](https://static.wikia.nocookie.net/aikatsustars6864/images/f/fc/Lilie-Rouen_Marching_Coord.png/revision/latest?cb=20170531150349)<br>所属作品:`aikatsu` stars | [萌娘百科](https://zh.moegirl.org.cn/白银莉莉%28偶活学园Stars!%29) |
 | aria futaba | 双叶亚里亚 | ![](https://static.wikia.nocookie.net/aikatsustars6864/images/5/5d/Aria_render.png/revision/latest?cb=20171009130828)<br>所属作品:`aikatsu` stars | [萌娘百科](https://zh.moegirl.org.cn/双叶亚里亚) |
 | sei soramiya | 空宫征 | ![](https://static.wikia.nocookie.net/inazuma-eleven/images/1/1b/Soramiya_Sei.png)<br>所属作品：`inazuma eleven` |  |
+| unmei sasanami | 笹波云明 | ![](https://static.wikia.nocookie.net/inazuma-eleven/images/1/1d/Sasanami_Unmei.png)<br>日语：笹波 雲明<br>所属作品：`inazuma eleven` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
