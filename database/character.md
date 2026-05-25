@@ -9436,6 +9436,7 @@ example:
 | kanade yuuki | 悠木奏 | ![](https://t.vndb.org/ch/85/12885.jpg)<br>日语：悠木 かなで<br>所属作品：`fortune arterial` |  |
 | kiriha kuze | 红瀬桐叶 | ![](https://t.vndb.org/ch/87/12887.jpg)<br>日语：紅瀬 桐葉<br>所属作品：`fortune arterial` |  |
 | haruka saigusa | 三枝叶留佳 | ![](https://t.vndb.org/ch/51/37051.jpg)<br>日语：三枝 葉留佳<br>所属作品：`little busters` |  |
+| shiori yumeoji | 梦大路栞 | ![](https://static.wikia.nocookie.net/revuestarlight/images/0/08/Shiori_Yumeoji_Revue_Outfit.png)<br>日语：夢大路 栞<br>所属作品：`shoujo kageki revue starlight` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
