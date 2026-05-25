@@ -5143,7 +5143,7 @@ example:
 | atsushi murasakibara | 紫原敦 | 所属作品: `p:kuroko no basuke`<br><br>阳泉高校的中锋，曾是奇迹的世代的中锋。除了紫色及肩长发外，他最醒目的特征是超过两米的身高，自小因身材高大而理所当然地打起篮球，虽然没有干劲也不喜欢篮球，但有很高的才能。他特别擅长防守，不过如果他没有干劲、便不会去阻挡对手进攻。他也讨厌那些热爱打篮球的人，也经常会表示自己「很无聊」，因此在中学时、他与黑子经常因为对篮球的观点不同而争论。 | [萌娘百科](https://zh.moegirl.org.cn/紫原敦) |
 | junna hoshimi | 星见纯那 | ![](https://static.wikia.nocookie.net/revuestarlight/images/9/91/Junna_Hoshimi_Revue_Outfit.png)<br>日语：星見 純那<br>所属作品: `p:shoujo kageki revue starlight` | [萌娘百科](https://zh.moegirl.org.cn/星见纯那) |
 | hikari kagura | 神乐光 | ![](https://static.wikia.nocookie.net/revuestarlight/images/4/41/Hikari_Kagura_Revue_Outfit.png)<br>日语：神楽 ひかり<br>所属作品: `p:shoujo kageki revue starlight` | [萌娘百科](https://zh.moegirl.org.cn/神乐光) |
-| futaba isurugi | 石动双叶 | 所属作品: `p:shoujo kageki revue starlight`<br><br>`c:kaoruko hanayagi`的青梅竹马，为了陪伴她而就读圣翔音乐学园，与众不同的舞台少女。虽然说话毒辣但其实很温柔，嘴上抱怨归抱怨，但凡事还是都以香子为优先。个子虽小，不过运动能力相当高，擅长实战学来的武打戏。 | [萌娘百科](https://zh.moegirl.org.cn/石动双叶) |
+| futaba isurugi | 石动双叶 | ![](https://static.wikia.nocookie.net/revuestarlight/images/a/ab/Futaba_Isurugi_Revue_Outfit.png)<br>日语：石動 双葉<br>所属作品: `p:shoujo kageki revue starlight` | [萌娘百科](https://zh.moegirl.org.cn/石动双叶) |
 | kaoruko hanayagi | 花柳香子 | ![](https://static.wikia.nocookie.net/revuestarlight/images/b/b2/Kaoruko_Hanayagi_School_Uniform.png)<br>所属作品: `p:shoujo kageki revue starlight` | [萌娘百科](https://zh.moegirl.org.cn/花柳香子) |
 | mahiru tsuyuzaki | 露崎真昼 | ![](https://static.wikia.nocookie.net/revuestarlight/images/6/65/Mahiru_Tsuyuzaki_Revue_Outfit.png)<br>日语：露崎 まひる<br>所属作品: `p:shoujo kageki revue starlight` | [萌娘百科](https://zh.moegirl.org.cn/露崎真昼) |
 | shizuka yoshimoto | 好本静 | 《超超超超超喜欢你的100个女朋友》女主之一。 |  |
