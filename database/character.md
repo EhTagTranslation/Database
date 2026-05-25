@@ -8746,7 +8746,7 @@ example:
 | rossi | 洛茜 | ![](https://patchwiki.biligame.com/images/zmd/thumb/a/a4/soxdmh332npy61g2418crvle5150dj8.png/1200px-洛茜立绘.png)<br>所属作品：`arknights endfield`<br>全名：洛茜娜·狼珀·卢皮诺 |  |
 | sparxie | 火花 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/Character_Sparxie_Splash_Art.png)<br>所属作品：`honkai star rail` |  |
 | felix schultz | 菲利克斯·舒尔茨 | ![](https://i0.hdslb.com/bfs/article/8ca4dd55abac15676a68e3e0c558a5395ebdd508.png)<br>所属作品：`azur lane`<br>历史原型为1938A型大型驱逐舰。 |  |
-| nangong yu | 南宫羽 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/51/南宫羽1.png)<br>所属作品：`zenless zone zero` |  |
+| nangong yu | 南宫羽 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/51/南宫羽1.png)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/南宫羽) \| [Fandom](https://zenless-zone-zero.fandom.com/wiki/Nangong_Yu) |
 | tine chelc | 蒂妮·切尔克 | ![](https://static.wikia.nocookie.net/typemoon/images/5/57/Tiné_Chelc_Fate_strange_Fake_character_sheet.png)<br>所属作品：`fate strange fake`<br>日语：ティーネ・チェルク |  |
 | yao guang | 爻光 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/Character_Yao_Guang_Splash_Art.png)<br>所属作品：`honkai star rail` |  |
 | moran | 莫兰 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/02/Moran_FB.png)<br>所属作品：`goddess of victory nikke` |  |
