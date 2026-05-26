@@ -15255,6 +15255,7 @@ example:
 | shimofuri | 霜降 |  |  |
 | kazunari | カズナリ |  |  |
 | shanai neet | 社内ニート |  | [FANBOX](https://x9nhse7d.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/49206462) \| [Pawoo](https://pawoo.net/@shanai_neet) \| [X](https://x.com/karakoronamu5) |
+| cityboy | cityboy |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
