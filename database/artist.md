@@ -15251,6 +15251,7 @@ example:
 | kurono mitsuki | 时之美月 | クロノ ミツキ |  |
 | naju soreiyu | 奈樹それいゆ |  |  |
 | codeyamada | やまだ(仮) |  | [pixiv](https://www.pixiv.net/users/3207099) |
+| you maru | 游丸 | 遊丸 |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
