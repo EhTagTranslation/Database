@@ -15248,6 +15248,7 @@ example:
 | umino mokuzu | ウミノモクズ |  |  |
 | yumetsuki tenon | ゆめつきてのん |  |  |
 | shizuku shoui | 雫将维 | 雫 将維 |  |
+| kurono mitsuki | 时之美月 | クロノ ミツキ |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
