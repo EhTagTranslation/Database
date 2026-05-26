@@ -13960,6 +13960,7 @@ example:
 | kemominnosuke | けもみん之助 |  |  |
 | tenollium gensou | テノリウム幻想 |  |  |
 | yamagirl | YAMAGIRL | `a:codeyamada`使用的同人社团名称 |  |
+| hoi hoi hoi | Hoi Hoi Hoi |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52071.html) \| [Ci-en](https://ci-en.dlsite.com/creator/21401) \| [X](https://x.com/hoi0609) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
