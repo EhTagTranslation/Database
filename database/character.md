@@ -9443,6 +9443,7 @@ example:
 | haru endou | 円堂春 | ![](https://static.wikia.nocookie.net/inazuma-eleven/images/7/7e/Endou_Haru.png)<br>日语：円堂 ハル<br>所属作品：`inazuma eleven` |  |
 | ema hinata | 日向绘麻 | ![](https://static.wikia.nocookie.net/aikatsu-friends/images/a/a3/Charaimg_ema.png/revision/latest?cb=20180329151555)<br>所属作品:`aikatsu friends` | [萌娘百科](https://zh.moegirl.org.cn/日向绘麻) |
 | maika chouno | 蝶乃舞花 | ![](https://static.wikia.nocookie.net/aikatsu-friends/images/6/6c/Charaimg_maika02.png/revision/latest?cb=20190408003239)<br>所属作品:`aikatsu friends` | [萌娘百科](https://zh.moegirl.org.cn/蝶乃舞花) |
+| aru | 存流 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
