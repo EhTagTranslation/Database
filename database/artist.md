@@ -15253,6 +15253,7 @@ example:
 | codeyamada | やまだ(仮) |  | [pixiv](https://www.pixiv.net/users/3207099) |
 | you maru | 游丸 | 遊丸 |  |
 | shimofuri | 霜降 |  |  |
+| kazunari | カズナリ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
