@@ -15249,6 +15249,7 @@ example:
 | yumetsuki tenon | ゆめつきてのん |  |  |
 | shizuku shoui | 雫将维 | 雫 将維 |  |
 | kurono mitsuki | 时之美月 | クロノ ミツキ |  |
+| naju soreiyu | 奈樹それいゆ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
