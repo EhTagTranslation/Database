@@ -3392,7 +3392,7 @@ example:
 | lio fotia | 里欧·弗提亚 | ![](https://ehgt.org/w/00/752/92884-2g408zph.webp)<br>出自作品：`p:promare`<br>性别：男<br><br>里欧·弗提亚（日语：リオ・フォーティア）是由今石洋之监督、TRIGGER制作的剧场版动画《普罗米亚》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/里欧·弗提亚) |
 | qiqi | 七七 | ![](https://patchwiki.biligame.com/images/ys/2/26/3n24q4mbu7nvndvayq2hd61btfadg0e.gif)<br>所属作品:`p:genshin impact`<br>药庐“不卜庐”的采药姑娘兼学徒，面色苍白如纸的不死之人。话很少，也没有什么表情。曾因“仙缘”而拥有了被凡间称作僵尸的不死之身，外表永远停留在了逝去那年，年龄不可考。 | [萌娘百科](https://zh.moegirl.org.cn/七七) |
 | mujina | 貉 | ![](https://static.wikia.nocookie.net/ultra/images/4/4c/DynazenonMujina.png)<br>日语：ムジナ<br>所属作品：`ssss.gridman` | [萌娘百科](https://zh.moegirl.org.cn/貉%28SSSS.DYNAZENON%29#) |
-| yume minami | 南梦芽 | ![](https://i0.hdslb.com/bfs/new_dyn/6e9f1971d29ad4fcef5ab0f17e90b779262400697.png)<br>南梦芽是由TRIGGER所制作的动画《SSSS.DYNAZENON》及其衍生作品的登场角色。<br>蓬的同班同学。棕发绿瞳的高中生。 | [萌娘百科](https://zh.moegirl.org.cn/南梦芽) |
+| yume minami | 南梦芽 | ![](https://i0.hdslb.com/bfs/new_dyn/6e9f1971d29ad4fcef5ab0f17e90b779262400697.png)<br>南梦芽是由TRIGGER所制作的动画《`ssss.dynazenon`》及其衍生作品的登场角色。<br>蓬的同班同学。棕发绿瞳的高中生。 | [萌娘百科](https://zh.moegirl.org.cn/南梦芽) |
 | yomogi asanaka | 麻中蓬 | ![麻中蓬](https://img.moegirl.org.cn/common/thumb/a/ac/Yomogi_visual.png/280px-Yomogi_visual.png)<br>麻中蓬是由TRIGGER所制作的动画《SSSS.DYNAZENON》及其衍生作品的登场角色。<br>东京都立不如归台高中的高中一年生。<br>意外帮助了差点饿死的失马，并被对方当成了恩人和朋友。<br>自身正在做便利店的兼职。 | [萌娘百科](https://zh.moegirl.org.cn/麻中蓬) |
 | anne takamaki | 高卷杏 | ![](https://static.wikia.nocookie.net/megamitensei/images/b/be/An_takamaki.png)<br>所属作品：`persona 5`<br>日语：高巻 杏（たかまき あん） | [萌娘百科](https://zh.moegirl.org.cn/高卷杏) |
 | hathaway noa | 哈撒韦·诺亚 | 哈萨维·诺亚（日语：ハサウェイ・ノア ）是由日升动画所制作的动画《机动战士Z高达》、剧场版动画《机动战士高达 闪光的哈萨维》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/哈萨维·诺亚) |
