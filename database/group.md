@@ -13959,6 +13959,7 @@ example:
 | shizumi-sou | しずみ荘 |  |  |
 | kemominnosuke | けもみん之助 |  |  |
 | tenollium gensou | テノリウム幻想 |  |  |
+| yamagirl | YAMAGIRL | `a:codeyamada`使用的同人社团名称 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
