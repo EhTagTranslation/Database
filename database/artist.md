@@ -15247,6 +15247,7 @@ example:
 | salasa misa | 更紗三三 |  |  |
 | umino mokuzu | ウミノモクズ |  |  |
 | yumetsuki tenon | ゆめつきてのん |  |  |
+| shizuku shoui | 时之美月 | クロノ ミツキ |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
