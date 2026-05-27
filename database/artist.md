@@ -15257,6 +15257,7 @@ example:
 | shanai neet | 社内ニート |  | [FANBOX](https://x9nhse7d.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/49206462) \| [Pawoo](https://pawoo.net/@shanai_neet) \| [X](https://x.com/karakoronamu5) |
 | cityboy | cityboy |  |  |
 | akabane aori | 赤羽あおり |  |  |
+| ruburu | るぶる |  | [pixiv](https://www.pixiv.net/users/2225395) \| [X](https://x.com/borururu_bb) |
 
 <!--TEMPLATE:
 |  |  |  |  |
