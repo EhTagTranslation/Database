@@ -9444,7 +9444,7 @@ example:
 | ema hinata | 日向绘麻 | ![](https://static.wikia.nocookie.net/aikatsu-friends/images/a/a3/Charaimg_ema.png/revision/latest?cb=20180329151555)<br>所属作品:`aikatsu friends` | [萌娘百科](https://zh.moegirl.org.cn/日向绘麻) |
 | maika chouno | 蝶乃舞花 | ![](https://static.wikia.nocookie.net/aikatsu-friends/images/6/6c/Charaimg_maika02.png/revision/latest?cb=20190408003239)<br>所属作品:`aikatsu friends` | [萌娘百科](https://zh.moegirl.org.cn/蝶乃舞花) |
 | aru | 存流 |  |  |
-| exosister irene | 救祓少女·埃莉斯 | 来自游戏王 |  |
+| exosister irene | 救祓少女·伊雷娜 | 来自游戏王 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
