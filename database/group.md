@@ -11268,7 +11268,7 @@ example:
 | teruterubocchi | てるてるぼっち |  |  |
 | tesla pod | てすらpod |  |  |
 | tesuri no post | 手すりのポスト |  |  |
-| tetchan hato | てっちゃんハト |  |  |
+| tetchan hato | てっちゃんハト |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206782/) |
 | tete a tete fragile | tete a tete fragile |  |  |
 | tete-a-tete | tete-a-tete |  |  |
 | tetrapod | Tetrapod |  |  |
