@@ -11888,7 +11888,7 @@ example:
 | vivid flag | Vivid Flag |  |  |
 | vivido | ヴィヴィ堂 |  |  |
 | vm500 | VM500 |  |  |
-| vogelschwein | フォーゲルシュヴァイン |  |  |
+| vogelschwein | フォーゲルシュヴァイン |  | [Fantia](https://fantia.jp/fanclubs/36776) \| [X](https://x.com/vogel_schwein) \| [X](https://x.com/vogelschwein02) \| [Patreon](https://www.patreon.com/u45087027) \| [Bluesky](https://bsky.app/profile/vogelschwein.bsky.social) \| [pixiv](https://www.pixiv.net/users/5533887) |
 | vogue | VOGUE |  |  |
 | voice of flower | Voice of flower |  |  |
 | voisin | VOISIN |  |  |
