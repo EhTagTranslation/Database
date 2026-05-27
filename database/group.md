@@ -13274,7 +13274,7 @@ example:
 | maid-tou | めいど党 |  |  |
 | haitoku no mori | はいとくのもり |  |  |
 | shibaiinu nisei | シバイーヌ二世 |  |  |
-| mirinkou | ミリンコウ |  |  |
+| mirinkou | ミリンコウ |  | [mirinkou](https://mirinkou.com/) \| [Fantia](https://fantia.jp/fanclubs/11474) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79165/) \| [pixiv](https://www.pixiv.net/member.php?id=37503247) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48811.html) \| [BOOTH](https://mirinkou.booth.pm/) |
 | yachou | 野鳥 |  |  |
 | oshaburi tengoku | おしゃぶり天国 |  |  |
 | tana kara marriage | 棚からマリアージュ |  |  |
