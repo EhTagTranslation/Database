@@ -13963,6 +13963,7 @@ example:
 | hoi hoi hoi | Hoi Hoi Hoi |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52071.html) \| [Ci-en](https://ci-en.dlsite.com/creator/21401) \| [X](https://x.com/hoi0609) |
 | kirikizu koh | 切傷甲 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75711/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47902.html) \| [Ci-en](https://ci-en.dlsite.com/creator/4699) \| [X](https://x.com/kirikizu1) \| [Skeb](https://skeb.jp/@kirikizu1) |
 | ruburu bon | るぶる梵 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG71765.html) |
+| calcite | Calcite | 作品大量使用AI生成的游戏社团 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
