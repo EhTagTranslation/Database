@@ -15259,6 +15259,7 @@ example:
 | akabane aori | 赤羽あおり |  |  |
 | ruburu | るぶる |  | [pixiv](https://www.pixiv.net/users/2225395) \| [X](https://x.com/borururu_bb) |
 | shona mitsuishi | 庄名泉石 |  |  |
+| juuhachikin | じゅーはちきん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
