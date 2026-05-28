@@ -4870,7 +4870,7 @@ example:
 | denkousekka gou | 電光石火轟 |  |  |
 | denpanic | デンぱにっく |  |  |
 | densetsu no shimi | 伝説のシミ |  |  |
-| densuke | 電SUKE |  |  |
+| densuke | 田助 |  |  |
 | deo | deo |  |  |
 | deshima shin | 出縞臣 |  |  |
 | detritus | デトリタス掘込 |  |  |
