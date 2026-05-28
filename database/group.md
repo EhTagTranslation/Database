@@ -1085,7 +1085,7 @@ example:
 | caustica | コースティカ |  |  |
 | denen shoujo | 田园少女 |  |  |
 | dressing plus party | Dressing+Party |  |  |
-| butakoma 300g | ぶたコマ300g |  |  |
+| butakoma 300g | ぶたコマ300g |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG05370.html) |
 | white lily | White Lily |  |  |
 | oeuvre bijutsukan | ウーブル美術館 |  |  |
 | kyoumen aquarium | 鏡面アクアリウム |  |  |
