@@ -13538,7 +13538,7 @@ example:
 | bluevery | ブルベリ |  |  |
 | watsondou | わとそん堂 |  |  |
 | tamabian | 多摩尾庵 |  |  |
-| morita shiki | 森田式 |  |  |
+| morita shiki | 森田式 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206375/) |
 | eight pm | エイトピーエム |  |  |
 | yamashima echichi | やましまえちち |  |  |
 | omusubi koubou | おむすび工房 |  |  |
