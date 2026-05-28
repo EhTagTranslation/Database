@@ -9156,7 +9156,7 @@ example:
 | ouka sushi | 桜花すし |  |  |
 | oukawa shiya | 桜川シヤ |  |  |
 | ouma bunshichirou | 逢摩文七郎 |  |  |
-| oshiume nyora | 押梅にょら |  |  |
+| oshiume nyora | 押梅にょら |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ014240/ana_flg/all) |
 | oumi noe | 近江のえ |  |  |
 | ouno | 奥之 |  |  |
 | ounwm | ounwm |  |  |
