@@ -2817,7 +2817,7 @@ example:
 | rinko iori | 伊织凛子 | ![](https://ehgt.org/w/02/131/05399-h68pude2.webp)<br>所属作品：`gundam build fighters`<br>イオリ・リン子 |  |
 | sei iori | 伊织诚 |  |  |
 | bea | 彩豆 | ![](https://s1.52poke.com/wiki/thumb/8/8d/彩豆_SWSH.png/140px-彩豆_SWSH.png)<br>所属作品：`pokemon`<br>日文名：サイトウ |  |
-| kudryavka noumi | 能美·库特莉亚芙卡 | ![](https://p.sda1.dev/5/faba7b5140c150f9540c80cb1c0eb9c8/character8_main_img.png) | [萌娘百科](https://zh.moegirl.org.cn/能美库特莉亚芙卡) |
+| kudryavka noumi | 能美·库特莉亚芙卡 | ![](https://p.sda1.dev/5/faba7b5140c150f9540c80cb1c0eb9c8/character8_main_img.png)<br>所属作品:`little busters` | [萌娘百科](https://zh.moegirl.org.cn/能美库特莉亚芙卡) |
 | yuuko shionji | 紫苑寺有子 |  | [萌娘百科](https://zh.moegirl.org.cn/紫苑寺有子) |
 | narumi fujishima | 藤岛鸣海 |  |  |
 | sister claire | 修女克蕾雅 | 修女·克蕾雅（日语：シスター・クレア / Sister Cleaire）是一名从2018年6月5日在YouTube开始活动的VTuber，业界团体彩虹社的成员。原SEEDs一期出身。<br>![](https://img.moegirl.org.cn/common/e/e0/SisterCleaire_Full.jpg) | [萌娘百科](https://zh.moegirl.org.cn/修女·克蕾雅) |
