@@ -9450,6 +9450,7 @@ example:
 | airi amano | 天野愛莉 | ![](https://static.wikia.nocookie.net/d4dj/images/a/a3/Amano_Airi_Img.png)<br>日语：天野愛莉<br>所属作品：`dig delight direct drive dj` |  |
 | nolan grayson | 诺兰·格雷森（全能侠） | ![](https://static.wikia.nocookie.net/amazon-invincible/images/8/89/Omni-Man_S2.png)<br>所属作品：`invincible` |  |
 | zoe thompson | 佐伊·汤普森（科技夹克） | ![](https://static.wikia.nocookie.net/amazon-invincible/images/9/99/Zoe_Thompson.jpeg)<br>本名扎克·汤普森（Zack Thompson）<br>所属作品：`invincible` |  |
+| gsc president | 联邦学生会长 | ![](https://static.wikia.nocookie.net/blue-archive/images/c/ce/GSC_President_Portrait.png)<br>日语：連邦生徒会長<br>所属作品：`blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
