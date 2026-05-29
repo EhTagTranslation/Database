@@ -9448,6 +9448,7 @@ example:
 | mana kase | 嘉濑茉奈 | ![](https://static.wikia.nocookie.net/d4dj/images/6/6d/Kase_Mana.png)<br>日语：嘉瀬茉奈<br>所属作品：`dig delight direct drive dj` |  |
 | shano himegami | ‌姬神纱乃 | ![](https://static.wikia.nocookie.net/d4dj/images/b/bf/Himegami_Shano_Img.png)<br>日语：姫神紗乃<br>所属作品：`dig delight direct drive dj` |  |
 | airi amano | 天野愛莉 | ![](https://static.wikia.nocookie.net/d4dj/images/a/a3/Amano_Airi_Img.png)<br>日语：天野愛莉<br>所属作品：`dig delight direct drive dj` |  |
+| nolan grayson | 诺兰·格雷森（全能侠） | ![](https://static.wikia.nocookie.net/amazon-invincible/images/8/89/Omni-Man_S2.png)<br>所属作品：`invincible` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
