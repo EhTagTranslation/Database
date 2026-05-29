@@ -1192,7 +1192,7 @@ example:
 | momoka sono | 苑生百花 | ![苑生百花](# "https://ehgt.org/b2/48/b248457cc38e6aceb56d4cc9b73946e6ef61ab3b-132981-1050-1547-jpg_l.jpg") |  |
 | yae kugayama | 久我山八重 | ![久我山八重](https://img.moegirl.org.cn/common/b/be/Charatati_02.png) |  |
 |  | ▼ 黄金拼图 角色 |  |  |
-| alice cartelet | 爱丽丝·卡塔雷特 |  |  |
+| alice cartelet | 爱丽丝·卡塔雷特 | ![](https://static.wikia.nocookie.net/kinmosa/images/d/de/24C0770A-FFE0-40E6-9C1D-F19D0A235C55.png/revision/latest?cb=20180811190333)<br>所属作品:`kiniro mosaic` | [萌娘百科](https://zh.moegirl.org.cn/爱丽丝·卡塔雷特) |
 | aya komichi | 小路绫 |  |  |
 | karen kujou | 九条可怜 |  |  |
 | shinobu omiya | 大宫忍 |  |  |
