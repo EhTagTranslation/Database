@@ -1411,7 +1411,7 @@ example:
 | gyuunyuu rinda | 牛乳リンダ |  |  |
 | usagi nagomu | うさぎなごむ |  |  |
 | oohira sunset | 太平さんせっと |  |  |
-| obui | おぶい |  |  |
+| obui | おぶい |  | [X](https://x.com/ovvv) \| [pixiv](https://www.pixiv.net/users/17606) \| [Fantia](https://fantia.jp/fanclubs/6268) |
 | amazeroth | Amazeroth |  |  |
 | batsu | ばつ |  |  |
 | campbell gichou | キャンベル議長 |  |  |
