@@ -63,7 +63,7 @@ example:
 | norn | Norn |  |  |
 | aries | Aries |  |  |
 | ensemble | Ensemble | ![](https://www.ensemble-game.com/images/navi/ensamble_on.png)<br>别称：音符社 | [官网](https://www.ensemble-game.com/top.html) |
-| ensemble sweet | ensemble SWEET |  |  |
+| ensemble sweet | Ensemble SWEET | 音符社分社 | [官网](https://www.ensemble-sweet.com/top.html) |
 | caramel box | CARAMEL-BOX |  | [官方网站](http://www.caramel-box.com/) |
 | rootnuko | √nuko |  |  |
 | c drive | C:drive. |  |  |
