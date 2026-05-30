@@ -3530,7 +3530,7 @@ example:
 | c9sou | c9sou |  |  |
 | ca.d.d | C：／／A.D.D／ |  |  |
 | cabbage box | キャベツBOX |  |  |
-| cabbage soft | きゃべつそふと |  |  |
+| cabbage soft | 卷心菜社 | ![](https://cabbage-soft.com/assets/images/topic_ccc.jpg)<br>きゃべつそふと | [官网](https://cabbage-soft.com/) |
 | cabbit | Cabbit |  |  |
 | caburibbon | caburibbon |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45733.html) |
 | cacao | カカオ |  |  |
