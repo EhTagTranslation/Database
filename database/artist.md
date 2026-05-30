@@ -12027,7 +12027,7 @@ example:
 | norainu | 野良犬 |  |  |
 | noysca | noysca |  |  |
 | styx | STYX |  |  |
-| takamiya hairi | たかみやはいり |  |  |
+| takamiya hairi | たかみやはいり |  | [FANZA](https://book.dmm.co.jp/list/?author=270503) |
 | tinmeshi | 珍飯 |  |  |
 | utatane | ウタタネ |  |  |
 | tomodachi | Tomodachi |  |  |
