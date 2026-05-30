@@ -13969,7 +13969,7 @@ example:
 | moria | もりあ |  |  |
 | sakatami | さかたみ |  |  |
 | kiyama haru | 紀山ハル |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201386/) |
-| jakky | ジャッキー |  |  |
+| jakky | ジャッキー |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54566.html) \| [Ci-en](https://ci-en.dlsite.com/creator/8438) \| [X](https://x.com/Jakky_Jakigann) \| [pixiv](https://www.pixiv.net/users/826428) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201410/) \| [Pawoo](https://pawoo.net/@dannto) |
 | doctor masube | ドクトルますべ |  |  |
 | choukutetsushitsugan | 超苦鉄質岩 |  |  |
 | bloiler yachou | ブロイラー野鳥 |  |  |
