@@ -3915,7 +3915,7 @@ example:
 | kirara hanazono | 花园绮罗 | ![](https://img.moegirl.org.cn/common/0/01/花园绮罗.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/花园绮罗) |
 | orihime mitsuishi | 光石织姬 | ![](https://img.moegirl.org.cn/common/6/6f/Masqhime.jpg) | [萌娘百科](https://zh.moegirl.org.cn/光石织姬) |
 | noeru otoshiro | 音城诺艾儿 | ![](https://img.moegirl.org.cn/common/b/bf/音城诺艾儿.jpg)<br>所属作品: `aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/音城诺艾儿) |
-| raki kiseki | 姬石来希 |  |  |
+| raki kiseki | 姬石来希 | ![](https://static.wikia.nocookie.net/all-aikatsu/images/9/97/Raki-left.png/revision/latest?cb=20190914091206)<br>所属作品:`aikatsu` on Parade | [百度百科](https://baike.baidu.com/item/姫石来希/23767466) |
 | ringo hoshimiya | 星宫苹果 |  |  |
 | tsubasa kisaragi | 如月翼 | ![](https://img.moegirl.org.cn/common/0/03/如月翼.jpeg)<br>所属作品: `aikatsu` stars | [萌娘百科](https://zh.moegirl.org.cn/如月翼) |
 | seira otoshiro | 音城塞拉 | ![](https://img.moegirl.org.cn/common/thumb/5/5c/Seira.jpg/420px-Seira.jpg)<br>所属作品:`aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/音城塞拉) |
