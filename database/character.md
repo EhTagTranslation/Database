@@ -579,7 +579,7 @@ example:
 | ai hidaka | 日高爱 |  |  |
 | mai hidaka | 日高舞 |  |  |
 | eri mizutani | 水谷绘理 |  |  |
-| ryo akizuki | 秋月凉 | ![](https://static.wikia.nocookie.net/imas-sidem/images/e/e3/Ryo_Akizuki_infobox.png/revision/latest?cb=20211116000908)<br>所属作品: `the idolmaster` sideM |  |
+| ryo akizuki | 秋月凉 | ![](https://static.wikia.nocookie.net/imas-sidem/images/e/e3/Ryo_Akizuki_infobox.png/revision/latest?cb=20211116000908)<br>所属作品: `the idolmaster` sideM | [萌娘百科](https://zh.moegirl.org.cn/秋月凉) |
 | uzuki shimamura | 岛村卯月 | ![](https://patchwiki.biligame.com/images/imascg/thumb/0/0c/c23uto1iow2wxrqcur6zwqebysekj0k.png/960px-CGSS-Uzuki-3D-7.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | yukari mizumoto | 水本紫 | ![](https://patchwiki.biligame.com/images/imascg/thumb/7/77/h1na2jqp63tzfl8ligajnahuv2fyfdu.png/960px-CGSS-Yukari-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | mai fukuyama | 福山舞 | ![](https://patchwiki.biligame.com/images/imascg/thumb/1/15/od7ukluj250yy7ujwlkwmj6l8wsh3qs.png/960px-CGSS-Mai-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
