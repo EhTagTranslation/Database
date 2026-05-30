@@ -13965,6 +13965,7 @@ example:
 | ruburu bon | るぶる梵 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG71765.html) |
 | calcite | Calcite | 作品大量使用AI生成的游戏社团 |  |
 | kurotanida | 黒谷田 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01052761.html) |
+| hiyoko nabe | ひよこ鍋 | `a:yogiri neo`使用的同人社团名称 | [https://www.melonbooks.co.jp/circle/index.p...circle\_id=14956](https://www.melonbooks.co.jp/circle/index.p...circle_id=14956) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
