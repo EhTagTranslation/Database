@@ -12834,7 +12834,7 @@ example:
 | ohanabatake | 御花畑 |  |  |
 | penguin senbanchi | ペンギン千番地 |  |  |
 | furashirushi | ふら印 |  |  |
-| ushikani gassen | 牛蟹合戦 |  |  |
+| ushikani gassen | 牛蟹合戦 |  | [X](https://x.com/cowcowCrab) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56992.html) \| [Ci-en](https://ci-en.dlsite.com/creator/18514) |
 | tsukuten | つくてん |  |  |
 | pomepome kokuuken | ポメポメコクウケン |  |  |
 | porcini | ぽるちーに |  |  |
