@@ -9459,6 +9459,7 @@ example:
 | yuu hattori | 服部优 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/48/20170704221320_htmJQ.jpeg)<br>所属作品: `aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/服部优)<br>[Fandom](https://aikatsu.fandom.com/wiki/Yū_Hattori) |
 | raichi hoshimiya | 星宫赖智 | ![](https://static.wikia.nocookie.net/aikatsu/images/5/57/1450843238142.jpg/revision/latest?cb=20151223040505)<br>所属作品:`aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/星宫赖智) |
 | kokone kurisu | 栗栖心音 | ![](https://static.wikia.nocookie.net/aikatsuanime/images/3/38/Kokone_full_.png/revision/latest?cb=20160109053349)<br>所属作品: `aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/栗栖心音) |
+| sakura kitaouji | 北大路樱 | ![](https://static.wikia.nocookie.net/aikatsuanime/images/d/d1/Photokatsu_0036.png/revision/latest?cb=20181120110713)<br>所属作品: `aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/北大路樱) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
