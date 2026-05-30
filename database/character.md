@@ -9453,6 +9453,7 @@ example:
 | gsc president | 联邦学生会长 | ![](https://static.wikia.nocookie.net/blue-archive/images/c/ce/GSC_President_Portrait.png)<br>日语：連邦生徒会長<br>所属作品：`blue archive` |  |
 | shushu tina | 舒舒蒂纳 | ![](https://pbs.twimg.com/profile_images/1819700195786936320/6SAhZe_D_400x400.jpg)<br>日语：しゅしゅ てぃな<br>个人势Vtuber。 | [YouTube](https://www.youtube.com/@ShushuTina) \| [X](https://x.com/shushu_tina) |
 | togame | 咎儿 | とがめ |  |
+| shichika yasuri | 鑢七花 | やすり しちか |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
