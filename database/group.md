@@ -132,7 +132,7 @@ example:
 | aniseed | AniSeed |  |  |
 | candysoft | Candy Soft |  |  |
 | ricotta | Ricotta | Ricotta（リコッタ）是QUALITY CONFIDENCE（クオリティコンフィデンス）公司旗下的成人游戏品牌。品牌名称Ricotta是一种意大利原产的奶制品。 | [维基百科](https://zh.wikipedia.org/wiki/Ricotta) [官方网站](http://www.ricotta-soft.jp/) (\*) |
-| whirlpool | Whirlpool | ![logo](https://whirlpool.co.jp/favicon.ico) | [官方网站](https://whirlpool.co.jp) |
+| whirlpool | 漩涡社 | ![](https://whirlpool.co.jp/20th/images/logo_20th.png) | [官方网站](https://whirlpool.co.jp) |
 | giga | 戏画 | ![logo](http://www.web-giga.com/top/favicon.ico)戏画（戯画）是位于日本大阪的游戏制造商TGL的18禁游戏品牌。关联公司有猫猫软体（ねこねこソフト）、AUGUST（オーガスト）、HOOKSOFT、牛奶软体（みるくそふと）等。<br>戏画及其子公司プレカノ于2022年11月22日宣布将于2023年3月31日起停止旗下作品的开发与发行。 | [官方网站](https://www.web-giga.com/) [维基百科](https://zh.wikipedia.org/wiki/戲畫_%28遊戲品牌%29) (\*) |
 | milksoft | 牛奶软件 |  |  |
 | cygames | Cygames | 株式会社Cygames（在台注册译为赛杰思）是日本的一间游戏开发公司，于2011年成立。以开发社交网络游戏和手机游戏为主。 | [官方网站](https://www.cygames.co.jp/) [维基百科](https://zh.wikipedia.org/wiki/Cygames) |
