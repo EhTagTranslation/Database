@@ -6734,7 +6734,7 @@ example:
 | kazuki hiyori | かずきひより |  |  |
 | kazuki kaho | 香月かほ |  |  |
 | kazuki yuu | 霞月由羽 |  |  |
-| kazum | kazum |  |  |
+| kazum | kazum |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73399/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG34614.html) |
 | kazurasui | かずらすい |  |  |
 | kazushi | 一志 |  |  |
 | kazushirononko | カズシロノンコ |  |  |
