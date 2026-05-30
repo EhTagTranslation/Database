@@ -1573,7 +1573,7 @@ example:
 | mappa namatta | マッパなまった |  |  |
 | yumeiro snowgazer | 夢色スノーゲイザー |  |  |
 | nijutteya | 弐十手屋 |  |  |
-| maguro coffee | まぐろ珈琲 |  |  |
+| maguro coffee | まぐろ珈琲 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG27867.html) \| [Ci-en](https://ci-en.dlsite.com/creator/34273) |
 |  | ▲ 同人社团 |  |  |
 |  | ▼ 未分类 |  |  |
 | shoujo gesshoku | 少女月蝕 |  |  |
