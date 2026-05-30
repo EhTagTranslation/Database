@@ -12593,7 +12593,7 @@ example:
 | irono | ゐろの |  | [X](https://x.com/irono_1910) [pixiv](https://www.pixiv.net/users/21474581) |
 | isshi pyuma | 一志ピューマ |  | [X](https://x.com/pyuma_isshi) [pixiv](https://www.pixiv.net/users/9614294) |
 | mamerakko | 豆ラッコニキ |  | [X](https://x.com/tanakataroukami) [pixiv](https://www.pixiv.net/users/44968193) |
-| amakusa tobari | 天草帳 |  |  |
+| amakusa tobari | 天草帐 | 天草帳 |  |
 | sasaki mutsumi | ささきむつみ |  | [X](https://x.com/sasaki_mutsumi) [pixiv](https://www.pixiv.net/users/4698180/artworks) |
 | murabito toufuten | 村人豆腐店 |  | [pixiv](https://www.pixiv.net/users/5496563) [X](https://x.com/murabitoufu) |
 | kuma ashi s | 熊足S |  |  |
