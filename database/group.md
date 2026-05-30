@@ -4028,7 +4028,7 @@ example:
 | crystal shoujo | クリスタル少女 |  |  |
 | crystal strawberry | 硝子の苺 |  |  |
 | crystal tower | クリスタルタワー |  |  |
-| crystalia | CRYSTALiA |  |  |
+| crystalia | 水晶社 |  | [官网](https://crystalia.amusecraft.com/) |
 | cshouse | しーずはうす |  |  |
 | ctn | クリスチーネ |  |  |
 | cube sugar | Cube Sugar |  |  |
