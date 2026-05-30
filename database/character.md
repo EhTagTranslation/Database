@@ -3601,7 +3601,7 @@ example:
 | yume nijino | 虹野梦 | ![](https://static.wikia.nocookie.net/aikatsustars6864/images/5/5f/Chara_yume_S2.png/revision/latest?cb=20170401161135)<br>所属作品:`aikatsu` stars | [萌娘百科](https://zh.moegirl.org.cn/虹野梦) |
 | laura sakuraba | 樱庭劳拉 | ![](https://static.wikia.nocookie.net/aikatsustars6864/images/0/03/Chara_rola_s2.png/revision/latest?cb=20170418160254)<br>所属作品:`aikatsu` stars | [萌娘百科](https://zh.moegirl.org.cn/樱庭劳拉) |
 | mahiru kasumi | 香澄真昼 | ![](https://static.wikia.nocookie.net/aikatsustars6864/images/c/c9/Chara_mahiru_s2.png/revision/latest?cb=20170425143817)<br>所属作品:`aikatsu` stars | [萌娘百科](https://zh.moegirl.org.cn/香澄真昼) |
-| koharu nanakura | 七仓小春 |  |  |
+| koharu nanakura | 七仓小春 | ![](https://static.wikia.nocookie.net/aikatsustars6864/images/d/d2/Koharu_s2.png/revision/latest?cb=20171009130625)<br>所属作品: `aikatsu` stars | [萌娘百科](https://zh.moegirl.org.cn/七仓小春) |
 | ako saotome | 早乙女亚子 |  |  |
 | misogi hodaka | 穗高未奏希 | ![](https://static.wikia.nocookie.net/princess-connect/images/4/4a/Misogi_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/穗高未奏希) |
 | yuni shingyouji | 优妮 | ![](https://static.wikia.nocookie.net/princess-connect/images/c/c4/Yuni-astrum-sprite-normal.png)<br>所属作品：`princess connect`<br>真名为真行寺由仁 | [萌娘百科](https://zh.moegirl.org.cn/真行寺由仁) |
