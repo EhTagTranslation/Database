@@ -13967,6 +13967,7 @@ example:
 | kurotanida | 黒谷田 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01052761.html) |
 | hiyoko nabe | ひよこ鍋 | `a:yogiri neo`使用的同人社团名称 | [https://www.melonbooks.co.jp/circle/index.p...circle\_id=14956](https://www.melonbooks.co.jp/circle/index.p...circle_id=14956) |
 | hirono-ke | ヒロノ家 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01015177.html) |
+| kuchita inugoya | 朽ちた犬小屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
