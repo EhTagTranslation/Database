@@ -11994,7 +11994,7 @@ example:
 | win win | win win |  |  |
 | wind mail | WIND MAIL |  |  |
 | windfall | WINDFALL |  |  |
-| windmill | ういんどみる |  |  |
+| windmill | 风车社 | ![](https://windmill.suki.jp/images/logo.png)<br>ういんどみる | [官网](https://windmill.suki.jp/main.html) |
 | windmill oasis | ういんどみるOasis |  |  |
 | windtone | うぃんどとーん |  |  |
 | windwave | WINDWAVE |  |  |
