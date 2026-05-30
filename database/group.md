@@ -7344,7 +7344,7 @@ example:
 | mada maniau kamo | まだ間に合うかも |  |  |
 | madam project | マダム・プロジェクト |  |  |
 | mado no kuchibue fuki | 窓の口笛吹き |  |  |
-| mado soft | Mado Soft | まどそふと |  |
+| mado soft | 窗子社 | ![](https://madosoft.net/wp/wp-content/themes/madosoft/img/common/header_logo.png)<br>まどそふと | [官网](https://madosoft.net/) |
 | madogiwa oukoku | 窓際王国 |  |  |
 | madogiwa works | Madogiwa Works |  |  |
 | madou shiryoushitsu | 魔導資料室 |  |  |
