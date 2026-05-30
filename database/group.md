@@ -62,7 +62,7 @@ example:
 | omega star | ωstar |  |  |
 | norn | Norn |  |  |
 | aries | Aries |  |  |
-| ensemble | ensemble | ensemble 是日本一家成人游戏制作公司，主要制作大小姐恋爱AVG游戏，姐妹品牌为 ensemble SWEET。 |  |
+| ensemble | Ensemble | ![](https://www.ensemble-game.com/images/navi/ensamble_on.png)<br>别称：音符社 | [官网](https://www.ensemble-game.com/top.html) |
 | ensemble sweet | ensemble SWEET |  |  |
 | caramel box | CARAMEL-BOX |  | [官方网站](http://www.caramel-box.com/) |
 | rootnuko | √nuko |  |  |
