@@ -3919,7 +3919,7 @@ example:
 | ringo hoshimiya | 星宫苹果 |  |  |
 | tsubasa kisaragi | 如月翼 | ![](https://img.moegirl.org.cn/common/0/03/如月翼.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/如月翼) |
 | seira otoshiro | 音城塞拉 | ![](https://img.moegirl.org.cn/common/thumb/5/5c/Seira.jpg/420px-Seira.jpg)<br>所属作品:`aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/音城塞拉) |
-| alicia charlotte | 艾丽西亚·夏洛特 |  |  |
+| alicia charlotte | 艾丽西亚·夏洛特 | ![](https://static.wikia.nocookie.net/aikatsu-friends/images/f/f4/Charaimg_alicia.png/revision/latest?cb=20190503171512)<br>所属作品:`aikatsu friends` | [Fandom](https://aikatsu-friends.fandom.com/wiki/Alicia_Charlotte) |
 | aine yuuki | 友希爱音 | ![](https://img.moegirl.org.cn/common/3/39/友希爱音.png)<br>所属作品:`aikatsu friends` | [萌娘百科](https://zh.moegirl.org.cn/友希爱音) |
 | asahi kasumi | 香澄朝阳 |  |  |
 | yozora kasumi | 香澄夜空 | ![](https://img.moegirl.org.cn/common/thumb/0/00/香澄夜空.jpeg/420px-香澄夜空.jpeg)<br>所属作品: `aikatsu` stars | [萌娘百科](https://zh.moegirl.org.cn/香澄夜空) |
