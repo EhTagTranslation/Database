@@ -9462,6 +9462,7 @@ example:
 | sakura kitaouji | 北大路樱 | ![](https://static.wikia.nocookie.net/aikatsuanime/images/d/d1/Photokatsu_0036.png/revision/latest?cb=20181120110713)<br>所属作品: `aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/北大路樱) |
 | sakuya shirayuri | 白百合咲夜 | ![](https://static.wikia.nocookie.net/aikatsu-friends/images/c/c2/Charaimg_sakuya02.png/revision/latest?cb=20190408003240)<br>所属作品: `aikatsu friends` | [萌娘百科](https://zh.moegirl.org.cn/白百合咲夜) |
 | kaguya shirayuri | 白百合辉夜 | ![](https://static.wikia.nocookie.net/aikatsu-friends/images/7/7b/Charaimg_kaguya02.png/revision/latest?cb=20190408003241)<br>所属作品: `aikatsu friends` | [萌娘百科](https://zh.moegirl.org.cn/白百合辉夜) |
+| mizuki kanzaki | 神崎美月 | ![](https://static.wikia.nocookie.net/aikatsu/images/e/e6/MizukiS2.png/revision/latest?cb=20141006010827)<br>所属作品: `aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/神崎美月) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
