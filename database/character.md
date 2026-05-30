@@ -9455,6 +9455,7 @@ example:
 | togame | 咎儿 | とがめ |  |
 | shichika yasuri | 鑢七花 | やすり しちか |  |
 | otogi tenjinyama | 天神山音葵 | ![](https://static.wikia.nocookie.net/blue-archive/images/e/e3/Otogi_Portrait.png/revision/latest?cb=20230126052605)<br>所属作品:`blue archive` | [萌娘百科](https://zh.moegirl.org.cn/天神山音葵) |
+| kaede ichinose | 一之濑枫 | ![](https://static.wikia.nocookie.net/aikatsu/images/7/7c/Chara08_sp.png/revision/latest?cb=20130614110122)<br>所属作品:`aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/一之濑枫) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
