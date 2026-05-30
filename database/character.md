@@ -9452,6 +9452,7 @@ example:
 | zoe thompson | 佐伊·汤普森（科技夹克） | ![](https://static.wikia.nocookie.net/amazon-invincible/images/9/99/Zoe_Thompson.jpeg)<br>本名扎克·汤普森（Zack Thompson）<br>所属作品：`invincible` |  |
 | gsc president | 联邦学生会长 | ![](https://static.wikia.nocookie.net/blue-archive/images/c/ce/GSC_President_Portrait.png)<br>日语：連邦生徒会長<br>所属作品：`blue archive` |  |
 | shushu tina | 舒舒蒂纳 | ![](https://pbs.twimg.com/profile_images/1819700195786936320/6SAhZe_D_400x400.jpg)<br>日语：しゅしゅ てぃな<br>个人势Vtuber。 | [YouTube](https://www.youtube.com/@ShushuTina) \| [X](https://x.com/shushu_tina) |
+| togame | 咎儿 | とがめ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
