@@ -9454,6 +9454,7 @@ example:
 | shushu tina | 舒舒蒂纳 | ![](https://pbs.twimg.com/profile_images/1819700195786936320/6SAhZe_D_400x400.jpg)<br>日语：しゅしゅ てぃな<br>个人势Vtuber。 | [YouTube](https://www.youtube.com/@ShushuTina) \| [X](https://x.com/shushu_tina) |
 | togame | 咎儿 | とがめ |  |
 | shichika yasuri | 鑢七花 | やすり しちか |  |
+| otogi tenjinyama | 天神山音葵 | ![](https://static.wikia.nocookie.net/blue-archive/images/e/e3/Otogi_Portrait.png/revision/latest?cb=20230126052605)<br>所属作品:`blue archive` | [萌娘百科](https://zh.moegirl.org.cn/天神山音葵) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
