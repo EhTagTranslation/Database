@@ -15261,6 +15261,7 @@ example:
 | shona mitsuishi | 庄名泉石 |  |  |
 | juuhachikin | じゅーはちきん |  |  |
 | gusuku | ぐすく |  | [pixiv](https://www.pixiv.net/users/14976182) |
+| shimotsuki momoco | 霜月桃子 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
