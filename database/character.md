@@ -3913,7 +3913,7 @@ example:
 | aoi kiriya | 雾矢葵 | ![](https://img.moegirl.org.cn/common/2/25/20180224124351_fhkvx.jpg)<br>所属作品:`aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/雾矢葵) |
 | yurika toudou | 藤堂百合香 | ![](https://img.moegirl.org.cn/common/thumb/7/78/20171224145848_mWBvi.jpeg/420px-20171224145848_mWBvi.jpeg)<br>所属作品:`aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/藤堂百合香) |
 | kirara hanazono | 花园绮罗 | ![](https://img.moegirl.org.cn/common/0/01/花园绮罗.jpeg)<br>所属作品:`aikatsu` stars | [萌娘百科](https://zh.moegirl.org.cn/花园绮罗) |
-| orihime mitsuishi | 光石织姬 | ![](https://img.moegirl.org.cn/common/6/6f/Masqhime.jpg) | [萌娘百科](https://zh.moegirl.org.cn/光石织姬) |
+| orihime mitsuishi | 光石织姬 | ![](https://img.moegirl.org.cn/common/6/6f/Masqhime.jpg)<br>所属作品: `aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/光石织姬) |
 | noeru otoshiro | 音城诺艾儿 | ![](https://img.moegirl.org.cn/common/b/bf/音城诺艾儿.jpg)<br>所属作品: `aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/音城诺艾儿) |
 | raki kiseki | 姬石来希 | ![](https://static.wikia.nocookie.net/all-aikatsu/images/9/97/Raki-left.png/revision/latest?cb=20190914091206)<br>所属作品:`aikatsu` on Parade | [百度百科](https://baike.baidu.com/item/姫石来希/23767466) |
 | ringo hoshimiya | 星宫苹果 | ![](https://static.wikia.nocookie.net/aikatsu/images/d/d9/Mom.png/revision/latest?cb=20121016232224)<br>所属作品:`aikatsu`<br>`ichigo hoshimiya`的母亲 | [Fandom](https://aikatsu.fandom.com/wiki/Ringo_Hoshimiya) |
