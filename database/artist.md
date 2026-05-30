@@ -15260,6 +15260,7 @@ example:
 | ruburu | るぶる |  | [pixiv](https://www.pixiv.net/users/2225395) \| [X](https://x.com/borururu_bb) |
 | shona mitsuishi | 庄名泉石 |  |  |
 | juuhachikin | じゅーはちきん |  |  |
+| gusuku | ぐすく |  | [pixiv](https://www.pixiv.net/users/14976182) |
 
 <!--TEMPLATE:
 |  |  |  |  |
