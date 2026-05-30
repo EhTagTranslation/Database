@@ -2275,7 +2275,7 @@ example:
 | momojiru teien | 桃汁庭园 | 画师`momokumo`所属社团 |  |
 | tamatamasanmyaku | たまたま山脈 |  |  |
 | harthnir | HarthNir | ハースニール<br>`misakura nankotsu` | [HP](http://www.harthnir.com/) |
-| yoru no hitsuji | 夜のひつじ | 夜羊社 |  |
+| yoru no hitsuji | 夜のひつじ | ![](https://yorunohitsuji.xii.jp/img/top_logo.gif)<br>别称：夜羊社 | [官网](https://yorunohitsuji.xii.jp/) |
 | nawairo sonata | 縄色ソナタ | `a:haneru`  `a:himitsu` (不确定是否准确，求考证) |  |
 | momokamasu | ももかます |  | [X](https://x.com/jwxvlhsnfpjonfh) [pixiv](https://www.pixiv.net/users/14943872) |
 | kumo no ito | 雲之糸 | クモノイト | [X](https://x.com/spider_lifeline) [DLsite](https://ci-en.dlsite.com/creator/9356) |
