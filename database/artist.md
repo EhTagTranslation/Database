@@ -14583,7 +14583,7 @@ example:
 | momo sumomo | ももすもも |  |  |
 | kakabien | かかびえん | 别名：こいずみけー | [pixiv](https://www.pixiv.net/users/27472745/)<br>[X](https://x.com/kakukukun)<br>[Skeb](https://skeb.jp/@kakukukun) |
 | hachineko | 蜂猫 |  | [pixiv](https://www.pixiv.net/users/54945068)<br>[FANBOX](https://www.fanbox.cc/@makaluvchu) |
-| nonogishi | ノノギシ |  |  |
+| nonogishi | ノノギシ |  | [X](https://x.com/nonogishi) \| [pixiv](https://www.pixiv.net/users/75644267) \| [Skeb](https://skeb.jp/@nonogi6) \| [Misskey.io](https://misskey.io/@nonogi6) |
 | ura-ra | うらーら |  | [X](https://x.com/ura_ra1800) |
 | diu | ぢう |  | [pixiv](https://www.pixiv.net/users/102967477) |
 | tsukuyomi | ツクヨミ |  | [FANBOX](https://tsukuyomi0114.fanbox.cc/) \| [X](https://x.com/tsukuyomi0114) |
