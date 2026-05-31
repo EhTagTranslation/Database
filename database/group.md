@@ -13968,6 +13968,7 @@ example:
 | hiyoko nabe | ひよこ鍋 | `a:yogiri neo`使用的同人社团名称 | [https://www.melonbooks.co.jp/circle/index.p...circle\_id=14956](https://www.melonbooks.co.jp/circle/index.p...circle_id=14956) |
 | hirono-ke | ヒロノ家 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01015177.html) |
 | kuchita inugoya | 朽ちた犬小屋 |  |  |
+| bukiya | 武器屋 |  | [FANBOX](https://weaponshop.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/17355587) \| [X](https://x.com/QVivV3x5ZVD6LYR) \| [Skeb](https://skeb.jp/@QVivV3x5ZVD6LYR) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
