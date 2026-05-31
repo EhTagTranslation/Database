@@ -388,7 +388,7 @@ example:
 | hikiwari nattou | ひきわり納豆 |  |  |
 | hirahira | ひらひら |  | [toranoana](https://ec.toranoana.jp/tora_r/ec/cot/circle/MUPA4D6P8476dD6Pd687/all/) \| [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=14972) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75561/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG39732/) |
 | yasakaninomagatama | 八坂琼曲玉 |  |  |
-| kansen shoujo | 甘泉少女 |  |  |
+| kansen shoujo | 甘泉少女 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG46121.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78163/) |
 | yuzuponz | ゆずぽん酢 |  |  |
 | hamurabi-dou | いちお屋 |  | [官方网站](http://hamurabi.ldblog.jp) |
 | wasabi | WASABI |  |  |
