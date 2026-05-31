@@ -15267,6 +15267,7 @@ example:
 | ichirou-kun | 一漏くん |  |  |
 | heco inu | 平股戌 | ヘコいぬ | [X](https://x.com/wanwan_hecoheco) [pixiv](https://www.pixiv.net/users/57060053) |
 | gomiri | ごみり |  | [X](https://x.com/4griq) [pixiv](https://t.co/GQFAc1mNLc) |
+| rion | りおん |  | [pixiv](https://www.pixiv.net/users/93909997) \| [FANBOX](https://rionsanuma.fanbox.cc/) \| [X](https://x.com/rionsanuma) \| [Skeb](https://skeb.jp/@rionsanuma) \| [Fantia](https://fantia.jp/fanclubs/517846) |
 
 <!--TEMPLATE:
 |  |  |  |  |
