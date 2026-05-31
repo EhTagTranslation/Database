@@ -15265,6 +15265,7 @@ example:
 | inu chikushou | 犬畜生 |  |  |
 | muniko | むにこ |  |  |
 | ichirou-kun | 一漏くん |  |  |
+| heco inu | 平股戌 | ヘコいぬ | [X](https://x.com/wanwan_hecoheco) [pixiv](https://www.pixiv.net/users/57060053) |
 
 <!--TEMPLATE:
 |  |  |  |  |
