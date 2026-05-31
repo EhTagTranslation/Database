@@ -13521,7 +13521,7 @@ example:
 | hachiya henshuubu | 蜂屋編集部 |  |  |
 | muchimuchioume | むちむちおうめ |  |  |
 | aimai no wakusei | 曖昧の惑星 |  |  |
-| sora paprika | ソーラーぱぷりか |  |  |
+| sora paprika | ソーラーぱぷりか |  | [IRODORI](https://irodoricomics.com/Sora-Paprika) |
 | tanioku no kaeru | 谷奥の蛙 |  |  |
 | seisui bar | 圣水BAR |  |  |
 | samurai banana | サムライバナナ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=212807/) \| [DLsite](https://www.dlsite.com/maniax-touch/circle/profile/=/from/work.maker/maker_id/RG01007764.html) |
