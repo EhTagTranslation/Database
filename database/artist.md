@@ -15268,6 +15268,7 @@ example:
 | heco inu | 平股戌 | ヘコいぬ | [X](https://x.com/wanwan_hecoheco) [pixiv](https://www.pixiv.net/users/57060053) |
 | gomiri | ごみり |  | [X](https://x.com/4griq) [pixiv](https://t.co/GQFAc1mNLc) |
 | rion | りおん |  | [pixiv](https://www.pixiv.net/users/93909997) \| [FANBOX](https://rionsanuma.fanbox.cc/) \| [X](https://x.com/rionsanuma) \| [Skeb](https://skeb.jp/@rionsanuma) \| [Fantia](https://fantia.jp/fanclubs/517846) |
+| sushi jiro | 寿司二郎 |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ048046/ana_flg/all) \| [FANZA](https://book.dmm.co.jp/list/?author=358920) |
 
 <!--TEMPLATE:
 |  |  |  |  |
