@@ -15264,6 +15264,7 @@ example:
 | shimotsuki momoco | 霜月桃子 |  |  |
 | inu chikushou | 犬畜生 |  |  |
 | muniko | むにこ |  |  |
+| ichirou-kun | 一漏くん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
