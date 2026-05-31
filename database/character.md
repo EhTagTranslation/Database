@@ -9465,6 +9465,7 @@ example:
 | mizuki kanzaki | 神崎美月 | ![](https://static.wikia.nocookie.net/aikatsu/images/e/e6/MizukiS2.png/revision/latest?cb=20141006010827)<br>所属作品: `aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/神崎美月) |
 | miyabi fujiwara | 藤原雅 | ![](https://static.wikia.nocookie.net/aikatsu/images/1/14/Miyabi_SS_profile.png/revision/latest?cb=20150602054321)<br>所属作品:`aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/藤原雅%28偶活学园!%29) |
 | nivora | 娜波摩 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/4/45/NPC_Nivora.png)<br>所属作品：`wuthering waves` |  |
+| kjera | 耶拉 | ![](https://patchwiki.biligame.com/images/arknights/1/12/k7mg8siasqjru61gzov40rsticys8k2.png)<br>所属游戏: `arknights`<br>耶拉冈德在上 | [萌娘百科](https://zh.moegirl.org.cn/耶拉)<br>[BILIGAME WIKI](https://wiki.biligame.com/arknights/耶拉) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
