@@ -12928,7 +12928,7 @@ example:
 | omuretsu server | オムレツサーバー |  |  |
 | kanons november | Kanon's November |  |  |
 | sanbalkin | サンバルキン |  |  |
-| muramura murason | むらむら村ソン |  |  |
+| muramura murason | むらむら村ソン |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79918/) |
 | doushoku | どうしょく | 童貞食堂 |  |
 | platinum cape | プラチナケイプ |  |  |
 | unadondon | うな井井 |  |  |
