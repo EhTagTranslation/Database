@@ -8859,7 +8859,7 @@ example:
 | npo | んぽ |  |  |
 | ns | NS |  |  |
 | nt robo | NTロボ |  | [FANBOX](https://nt-robo.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/25137918) \| [X](https://x.com/NT_ROBO) |
-| nt00 | NT00 |  |  |
+| nt00 | ![](https://i.pixiv.cat/user-profile/img/2025/08/30/10/03/05/27828881_5f14a30b183d26e5fc00e09a03b9605b_170.jpg)NT00 |  | [Patreon](https://www.patreon.com/c/nt00/home) \| [Fantia](https://fantia.jp/fanclubs/32167) \| [pixiv](https://www.pixiv.net/users/2344550) \| [X](https://x.com/NTNT_00) |
 | nu- | ぬー |  |  |
 | nucomas | ぬこマス |  |  |
 | nue | 鵺 |  |  |
