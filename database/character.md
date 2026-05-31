@@ -9466,6 +9466,7 @@ example:
 | miyabi fujiwara | 藤原雅 | ![](https://static.wikia.nocookie.net/aikatsu/images/1/14/Miyabi_SS_profile.png/revision/latest?cb=20150602054321)<br>所属作品:`aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/藤原雅%28偶活学园!%29) |
 | nivora | 娜波摩 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/4/45/NPC_Nivora.png)<br>所属作品：`wuthering waves` |  |
 | kjera | 耶拉 | ![](https://patchwiki.biligame.com/images/arknights/1/12/k7mg8siasqjru61gzov40rsticys8k2.png)<br>所属游戏: `arknights`<br>耶拉冈德在上 | [萌娘百科](https://zh.moegirl.org.cn/耶拉)<br>[BILIGAME WIKI](https://wiki.biligame.com/arknights/耶拉) |
+| kana ichikawa | 市川香菜 | ![](https://static.wikia.nocookie.net/bokuyaba/images/5/5d/Ichikawa_Kana_Anime.png/revision/latest?cb=20230410203618)<br>所属作品:`boku no kokoro no yabai yatsu` | [萌娘百科](https://zh.moegirl.org.cn/市川香菜)<br>[Fandom](https://bokuyaba.fandom.com/wiki/Ichikawa_Kana) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
