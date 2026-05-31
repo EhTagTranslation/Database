@@ -13970,6 +13970,7 @@ example:
 | kuchita inugoya | 朽ちた犬小屋 |  |  |
 | bukiya | 武器屋 |  | [FANBOX](https://weaponshop.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/17355587) \| [X](https://x.com/QVivV3x5ZVD6LYR) \| [Skeb](https://skeb.jp/@QVivV3x5ZVD6LYR) |
 | butter drip | ばたーどりっぷ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=231771/) |
+| kakefuji-ya | 賭富士屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG10846.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
