@@ -15266,6 +15266,7 @@ example:
 | muniko | むにこ |  |  |
 | ichirou-kun | 一漏くん |  |  |
 | heco inu | 平股戌 | ヘコいぬ | [X](https://x.com/wanwan_hecoheco) [pixiv](https://www.pixiv.net/users/57060053) |
+| gomiri | ごみり |  | [X](https://x.com/4griq) [pixiv](https://t.co/GQFAc1mNLc) |
 
 <!--TEMPLATE:
 |  |  |  |  |
