@@ -15263,6 +15263,7 @@ example:
 | gusuku | ぐすく |  | [pixiv](https://www.pixiv.net/users/14976182) |
 | shimotsuki momoco | 霜月桃子 |  |  |
 | inu chikushou | 犬畜生 |  |  |
+| muniko | むにこ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
