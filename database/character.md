@@ -9467,6 +9467,7 @@ example:
 | nivora | 娜波摩 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/4/45/NPC_Nivora.png)<br>所属作品：`wuthering waves` |  |
 | kjera | 耶拉 | ![](https://patchwiki.biligame.com/images/arknights/1/12/k7mg8siasqjru61gzov40rsticys8k2.png)<br>所属游戏: `arknights`<br>耶拉冈德在上 | [萌娘百科](https://zh.moegirl.org.cn/耶拉)<br>[BILIGAME WIKI](https://wiki.biligame.com/arknights/耶拉) |
 | kana ichikawa | 市川香菜 | ![](https://static.wikia.nocookie.net/bokuyaba/images/5/5d/Ichikawa_Kana_Anime.png/revision/latest?cb=20230410203618)<br>所属作品:`boku no kokoro no yabai yatsu` | [萌娘百科](https://zh.moegirl.org.cn/市川香菜)<br>[Fandom](https://bokuyaba.fandom.com/wiki/Ichikawa_Kana) |
+| michiru kagemori | 影森满 | ![](https://static.wikia.nocookie.net/brand-new-animal/images/1/1a/Michiru_Kagemori.png/revision/latest?cb=20200728034337)<br>![](https://static.wikia.nocookie.net/brand-new-animal/images/8/8c/Human_Michiru.png/revision/latest?cb=20200311025345)<br>日语：影森みちる（かげもり みちる）<br>所属作品:`bna brand new animal` | [萌娘百科](https://zh.moegirl.org.cn/影森满) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
