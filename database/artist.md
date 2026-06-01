@@ -15272,6 +15272,7 @@ example:
 | futsu iyu | フッィュー |  | [FANBOX](https://www.fanbox.cc/@comingbb) \| [X](https://x.com/comingbb) \| [pixiv](https://www.pixiv.net/users/9575367) \| [Skeb](https://skeb.jp/@Comingbb) \| [Fantia](https://fantia.jp/fanclubs/67012) |
 | sacraneco | 樱猫 | さくらねこ |  |
 | yoshikage | ヨシカゲ |  |  |
+| agekichi | 安芸绪 | あげきち，安芸緒 |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
