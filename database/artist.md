@@ -15271,6 +15271,7 @@ example:
 | sushi jiro | 寿司二郎 |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ048046/ana_flg/all) \| [FANZA](https://book.dmm.co.jp/list/?author=358920) |
 | futsu iyu | フッィュー |  | [FANBOX](https://www.fanbox.cc/@comingbb) \| [X](https://x.com/comingbb) \| [pixiv](https://www.pixiv.net/users/9575367) \| [Skeb](https://skeb.jp/@Comingbb) \| [Fantia](https://fantia.jp/fanclubs/67012) |
 | sacraneco | 樱猫 | さくらねこ |  |
+| yoshikage | ヨシカゲ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
