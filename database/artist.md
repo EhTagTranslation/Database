@@ -4600,7 +4600,7 @@ example:
 | chabashira tatsukichi | 茶柱立吉 |  |  |
 | chabin | 茶瓶 |  |  |
 | chabo | 茶鳥 |  |  |
-| chaccu | chaccu |  |  |
+| chaccu | chaccu |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ001205/ana_flg/all) |
 | chado | 茶户 |  |  |
 | chagata | ちゃがた |  |  |
 | chagu | ちゃぐ |  |  |
