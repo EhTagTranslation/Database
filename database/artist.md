@@ -1208,7 +1208,7 @@ example:
 | mameko | まめこ |  |  |
 | miyoshi | みよし |  |  |
 | neriume | ねりうめ | COMIC LO 杂志 漫画家<br>![](https://pbs.twimg.com/profile_images/1191324839170064384/mpuv0BiB_400x400.png)<br>**作者推特头像** | [X](https://x.com/potekinpapa) [pixiv](https://www.pixiv.net/users/19618633) |
-| odd | Odd |  |  |
+| odd | Odd | Odd(おっど) | [FANBOX](https://odd.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/159317) \| [X](https://x.com/Odd0283700) \| [Pawoo](https://pawoo.net/@odd) \| [Skeb](https://skeb.jp/@odd_eroaka) |
 | otone | 音音 |  |  |
 | sakujirou | 咲次朗 |  |  |
 | torimushi | 鸟莉蒸师 |  |  |
