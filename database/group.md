@@ -13974,6 +13974,7 @@ example:
 | baira way | ばいら・うぇい |  |  |
 | momoiro pocket | ももいろPocket |  |  |
 | kawauso soft | かわうそソフト | Kawauso Soft |  |
+| biscotti | Biscotti |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
