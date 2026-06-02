@@ -15274,6 +15274,7 @@ example:
 | yoshikage | ヨシカゲ |  |  |
 | agekichi | 安芸绪 | あげきち，安芸緒 |  |
 | onigiri musubi | 御握饭团 | 御握むすび |  |
+| minu | みぃぬ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
