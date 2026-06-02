@@ -15273,6 +15273,7 @@ example:
 | sacraneco | 樱猫 | さくらねこ |  |
 | yoshikage | ヨシカゲ |  |  |
 | agekichi | 安芸绪 | あげきち，安芸緒 |  |
+| onigiri musubi | 御握饭团 | 御握むすび |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
