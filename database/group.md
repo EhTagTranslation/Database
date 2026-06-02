@@ -13976,6 +13976,7 @@ example:
 | kawauso soft | かわうそソフト | Kawauso Soft |  |
 | biscotti | Biscotti |  |  |
 | minudorikan | みぬ鳥館 |  |  |
+| crystal mermaid | クリスタルマーメイド |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44756.html) \| [DLsite](https://ci-en.dlsite.com/creator/8462) \| [pixiv](https://www.pixiv.net/users/87038266) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77446/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
