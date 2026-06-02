@@ -14411,7 +14411,7 @@ example:
 | nakamo | 那鴨 |  | [pixiv](https://www.pixiv.net/users/63852455)<br>[BOOTH](https://nakamo.booth.pm/) |
 | tonkaraton | トンカラトン |  |  |
 | itachimaki | いたちまき |  |  |
-| mabo harusame | 麻婆はるさめ |  |  |
+| mabo harusame | 麻婆はるさめ |  | [X](https://x.com/xN8XRA2JAU12YCB) \| [Skeb](https://skeb.jp/@xN8XRA2JAU12YCB) \| [X](https://x.com/6c3OZnqhQlPlR8c) \| [FANBOX](https://maboharusame.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/27748222) |
 | ochi | おち |  | [pixiv](https://www.pixiv.net/users/99819818) [X](https://x.com/ochi_oeeeee) |
 | tenki nori | 天气海苔 | 天気海苔 | [pixiv](https://www.pixiv.net/users/59560975) [X](https://x.com/3tenki9) |
 | vanicooo | ばにこ一 |  | [pixiv](https://www.pixiv.net/users/7336390) |
