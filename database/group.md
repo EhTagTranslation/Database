@@ -13975,6 +13975,7 @@ example:
 | momoiro pocket | ももいろPocket |  |  |
 | kawauso soft | かわうそソフト | Kawauso Soft |  |
 | biscotti | Biscotti |  |  |
+| minudorikan | みぬ鳥館 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
