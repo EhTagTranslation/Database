@@ -9470,6 +9470,7 @@ example:
 | michiru kagemori | 影森满 | ![](https://static.wikia.nocookie.net/brand-new-animal/images/1/1a/Michiru_Kagemori.png/revision/latest?cb=20200728034337)<br>![](https://static.wikia.nocookie.net/brand-new-animal/images/8/8c/Human_Michiru.png/revision/latest?cb=20200311025345)<br>日语：影森みちる（かげもり みちる）<br>所属作品:`bna brand new animal` | [萌娘百科](https://zh.moegirl.org.cn/影森满) |
 | nazuna hiwatashi | 日渡荠 | ![](https://static.wikia.nocookie.net/brand-new-animal/images/c/cc/Nazuna_Hiwatashi.png/revision/latest?cb=20200311001752)<br>![](https://static.wikia.nocookie.net/brand-new-animal/images/d/dd/Fox_Nazuna_Render.png/revision/latest?cb=20200507033209)<br>![](https://static.wikia.nocookie.net/brand-new-animal/images/b/b4/Beast_Nazuna.png/revision/latest?cb=20200509005809)<br>日语：日渡なずな（ひわたし なずな）<br>所属作品:`bna brand new animal` | [萌娘百科](https://zh.moegirl.org.cn/日渡荠) |
 | carnelian | 卡涅利安 |  |  |
+| mai xiaowen | 麦晓雯（骇爪） | 所属作品：`delta force` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
