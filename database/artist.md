@@ -15276,6 +15276,7 @@ example:
 | onigiri musubi | 御握饭团 | 御握むすび |  |
 | minu | みぃぬ |  |  |
 | ramuda | らむだ |  | [FANBOX](https://fortis931.fanbox.cc/) \| [X](https://x.com/mngk_mzs) \| [pixiv](https://www.pixiv.net/users/3946726) \| [Fantia](https://fantia.jp/fanclubs/101032) |
+| whiteph | ウィリアムPI |  | [pixiv](https://www.pixiv.net/users/12973076) \| [FANBOX](https://williampi.fanbox.cc/) \| [unifans](https://app.unifans.io/c/william_pi) \| [fansky](https://www.fansky.co/WilliamPi) |
 
 <!--TEMPLATE:
 |  |  |  |  |
