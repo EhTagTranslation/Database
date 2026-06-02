@@ -13973,6 +13973,7 @@ example:
 | kakefuji-ya | 賭富士屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG10846.html) |
 | baira way | ばいら・うぇい |  |  |
 | momoiro pocket | ももいろPocket |  |  |
+| kawauso soft | かわうそソフト | Kawauso Soft |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
