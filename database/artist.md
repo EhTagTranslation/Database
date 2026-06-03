@@ -15281,6 +15281,7 @@ example:
 | jank peanuts | 垃圾花生 | じゃんくピーナッツ |  |
 | akino komugi | 秋野こむぎ |  |  |
 | nyakotarou | にゃこたろう |  | [FANZA](https://book.dmm.co.jp/list/?author=343760) |
+| kaze no tabibito | かぜの旅人 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
