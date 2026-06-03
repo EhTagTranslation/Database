@@ -15279,6 +15279,7 @@ example:
 | whiteph | ウィリアムPI |  | [pixiv](https://www.pixiv.net/users/12973076) \| [FANBOX](https://williampi.fanbox.cc/) \| [unifans](https://app.unifans.io/c/william_pi) \| [fansky](https://www.fansky.co/WilliamPi) |
 | ojisan 28-gou | おぢさん28号 |  | [pixiv](https://www.pixiv.net/users/116465962) \| [X](https://x.com/ozisann2889981) |
 | jank peanuts | 垃圾花生 | じゃんくピーナッツ |  |
+| akino komugi | 秋野こむぎ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
