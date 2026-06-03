@@ -15280,6 +15280,7 @@ example:
 | ojisan 28-gou | おぢさん28号 |  | [pixiv](https://www.pixiv.net/users/116465962) \| [X](https://x.com/ozisann2889981) |
 | jank peanuts | 垃圾花生 | じゃんくピーナッツ |  |
 | akino komugi | 秋野こむぎ |  |  |
+| nyakotarou | にゃこたろう |  | [FANZA](https://book.dmm.co.jp/list/?author=343760) |
 
 <!--TEMPLATE:
 |  |  |  |  |
