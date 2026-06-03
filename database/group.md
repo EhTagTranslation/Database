@@ -1506,7 +1506,7 @@ example:
 | kakukonoka | かくこのか |  |  |
 | arterial heart | ARTERIALHEART |  |  |
 | moriq | moriQ |  |  |
-| mofurentei | もふれん亭 |  |  |
+| mofurentei | もふれん亭 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204964/) |
 | sonna kanji de heiankyou | そんな感じで平安京 |  |  |
 | night springs | ナイトスプリングス |  |  |
 | aki to haru no yume | 秋と春の夢 |  |  |
