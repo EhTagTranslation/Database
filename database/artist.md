@@ -13450,7 +13450,7 @@ example:
 | toranosuke | 虎之助 | とらのすけ |  |
 | takashima | 田贷魔 |  |  |
 | croriin | Croriin |  |  |
-| sawatashi yun | さわたしゆん |  |  |
+| sawatashi yun | さわたしゆん |  | [FANZA](https://book.dmm.co.jp/list/?author=379393) |
 | yochi ryota | よちリョウタ |  |  |
 | niliu chahui | 逆流茶会 | 逆流茶会是由逆流茶会社团在国内发起的一项同人企划，以茶会的看板娘`c:asaba tokisaki`和`c:mio tokisaki`姐妹俩为主要角色，进行多领域多类型的作品创作的一项企划。目前已发布的作品有MMD舞蹈（见于B站）、以看板娘姐妹为原型设计的聊天AI（见于某企鹅聊天软件）、澪和浅羽的同人图（见于P站）、百合向同人本《百合花盛开的茶会》。 | [萌娘百科](https://zh.moegirl.org.cn/逆流茶会) |
 | yuunagi seshina | 夕凪セシナ |  |  |
