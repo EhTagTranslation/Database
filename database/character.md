@@ -9473,6 +9473,7 @@ example:
 | mai xiaowen | 麦晓雯（骇爪） | 所属作品：`delta force` |  |
 | claire ann byers | 莱尔·安·拜尔斯（暴风雨） | 简中文化圈外号“张姐”<br>所属作品：`delta force` |  |
 | flonne | 芙蓉（魔界战记） |  |  |
+| izumi curtis | 泉·卡迪斯 | ![](https://static.wikia.nocookie.net/fma/images/2/26/Avatar_harnet.png/revision/latest/scale-to-width-down/268?cb=20171031131954)<br>出自作品：`p:fullmetal alchemist`<br><br>泉·卡迪斯（Izumi Curtis，日文：イズミ・カーティス）是動漫作品《鋼之鍊金術師》中的重要配角，為主角愛德華·愛力克和阿爾馮斯·愛力克的鍊金術與格鬥術師父。 | [Fandom](https://fma.fandom.com/wiki/Izumi_Curtis) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
