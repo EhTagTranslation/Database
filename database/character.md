@@ -9472,6 +9472,7 @@ example:
 | carnelian | 卡涅利安 |  |  |
 | mai xiaowen | 麦晓雯（骇爪） | 所属作品：`delta force` |  |
 | claire ann byers | 莱尔·安·拜尔斯（暴风雨） | 简中文化圈外号“张姐”<br>所属作品：`delta force` |  |
+| flonne | 芙蓉（魔界战记） |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
