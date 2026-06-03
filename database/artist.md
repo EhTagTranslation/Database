@@ -15278,6 +15278,7 @@ example:
 | ramuda | らむだ |  | [FANBOX](https://fortis931.fanbox.cc/) \| [X](https://x.com/mngk_mzs) \| [pixiv](https://www.pixiv.net/users/3946726) \| [Fantia](https://fantia.jp/fanclubs/101032) |
 | whiteph | ウィリアムPI |  | [pixiv](https://www.pixiv.net/users/12973076) \| [FANBOX](https://williampi.fanbox.cc/) \| [unifans](https://app.unifans.io/c/william_pi) \| [fansky](https://www.fansky.co/WilliamPi) |
 | ojisan 28-gou | おぢさん28号 |  | [pixiv](https://www.pixiv.net/users/116465962) \| [X](https://x.com/ozisann2889981) |
+| jank peanuts | 垃圾花生 | じゃんくピーナッツ |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
