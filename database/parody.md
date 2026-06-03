@@ -2852,6 +2852,7 @@ example:
 | ash arms | 灰烬战线 | 成都万花镜出品的二次元游戏，以战车娘为卖点。 |  |
 | delta force | 三角洲行动 | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Delta_Force_Logo.svg/500px-Delta_Force_Logo.svg.png) |  |
 | majo to hyakkihei | 魔女与百骑兵 | 魔女と百騎兵 |  |
+| cool devices | Cool Devices | ![](https://upload.wikimedia.org/wikipedia/en/9/98/Cool_Devices_cover.jpg)<br>《Cool Devices》系列是TDK Core于1995年4月25日至1997年11月28日在VC磁带和LD光盘上发布的成人动漫系列，共11卷，每卷30分钟。后由LEED PUBLISHING制作DVD版发售。 | [萌娘百科](https://zh.moegirl.org.cn/Cool_Devices) \| [维基百科（英语）](https://en.wikipedia.org/wiki/Cool_Devices) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
