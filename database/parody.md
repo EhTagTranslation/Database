@@ -2851,6 +2851,7 @@ example:
 | moonlight lady | 无颜之月 | ![](https://t.vndb.org/cv.t/22/94722.jpg)<br>日语：顔のない月 |  |
 | ash arms | 灰烬战线 | 成都万花镜出品的二次元游戏，以战车娘为卖点。 |  |
 | delta force | 三角洲行动 | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Delta_Force_Logo.svg/500px-Delta_Force_Logo.svg.png) |  |
+| majo to hyakkihei | 魔女与百骑兵 | 魔女と百騎兵 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
