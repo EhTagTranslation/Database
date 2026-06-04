@@ -3076,7 +3076,7 @@ example:
 | atmosphere | アトモスフィア |  |  |
 | ato nana fun | あと7分 |  |  |
 | atolier tougenkyou | アトリエ桃源郷 |  |  |
-| atori akinao | あとり秋尚 |  |  |
+| atori akinao | あとり秋尚 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG21891.html) |
 | atorie rinbou | アトリエ リンボウ |  |  |
 | atrip | atrip |  |  |
 | ats | ATS |  |  |
