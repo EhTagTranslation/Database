@@ -13980,6 +13980,7 @@ example:
 | doku marimo | 毒マリモ |  |  |
 | kiniro shoujo | 金色少女 |  |  |
 | shiokazetei | シオカゼ亭 |  |  |
+| team baldrhead | Team Baldrhead | From VNDB: Baldrhead is an action eroge developing team from GIGA. Most of their games feature mecha in an action-oriented game engine.<br><br>Even though Team Baldrhead's games are officially known as the "Baldr Series", there is no relationship between the different titles.<br><br>秃头社（机翻名称）是一家源于戏画开发动作工口游戏的子公司，他们的大部分游戏将机甲融入动作导向（即时动作类）游戏引擎。<br><br>即使Team Baldrhead的游戏官方声明为“Baldr”系列，实际上分别的游戏名衔之间没有任何关联。<br><br>[From Wikipedia] |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
