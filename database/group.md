@@ -11909,7 +11909,7 @@ example:
 | wagashi-ya | わがし屋 |  |  |
 | wagaya no kurorekishi | 我が家の黒歴史 |  |  |
 | wainable | ワイナブル |  |  |
-| wakamaker | wakamaker |  |  |
+| wakamaker | wakamaker |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74874/) |
 | wakayotareso | わかよたれそ |  |  |
 | waki waki koubou | わきわき工房 |  |  |
 | wakusei nostalgia | 惑星ノスタルジー |  |  |
