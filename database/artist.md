@@ -15286,6 +15286,7 @@ example:
 | yawaraka black | やわらかブラック |  | [pixiv](https://www.pixiv.net/users/5322509) |
 | nameka | なめか |  | [FANBOX](https://nameka446.fanbox.cc/) \| [DLsite](https://ci-en.dlsite.com/creator/125) \| [Misskey.io](https://misskey.io/@nameka) \| [X](https://x.com/Shiso_no_ha) \| [pixiv](https://www.pixiv.net/users/4542700) |
 | doompypomp | DoompyPomp |  | [X](https://x.com/DoompyPomp) \| [subscribestar](https://subscribestar.adult/doompypomp) |
+| senjou maiko | 戦上まい子 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
