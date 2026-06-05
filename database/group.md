@@ -13514,7 +13514,7 @@ example:
 | sei no syokunin | せいの職人 |  |  |
 | komugibatake | こむぎばたけ |  |  |
 | feiren shenghuo | 廢人生活 |  |  |
-| sebire | せびれ |  |  |
+| sebire | せびれ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48384.html) \| [Ci-en](https://ci-en.dlsite.com/creator/4379) |
 | getsumatsu | 月末 |  |  |
 | dodameyasan | ドダメ屋さん |  |  |
 | nanasshii | ななっしー |  |  |
