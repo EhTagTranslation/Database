@@ -8420,7 +8420,7 @@ example:
 | nekojarashy | 猫じゃらし |  |  |
 | nekojarashi | 猫じゃらし |  |  |
 | neko kan | ねこ缶 |  |  |
-| neko kinryouku | 猫禁猟区 |  |  |
+| neko kinryouku | 猫禁猎区 | 猫禁猟区 |  |
 | neko melonya | 猫メロン屋 |  |  |
 | neko neko house | ねこねこハウス |  |  |
 | neko no onsen | 猫の温泉 |  |  |
