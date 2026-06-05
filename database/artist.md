@@ -11381,7 +11381,7 @@ example:
 | waka | わか |  |  |
 | wakachiko | わかちこ |  |  |
 | wakaki tamiki | 若木民喜 |  |  |
-| wakamesan | ワカメさん |  |  |
+| wakamesan | ワカメさん |  | [FANBOX](https://ys6hs8um.fanbox.cc/) |
 | wakamiya teresa | 我宮てれさ |  | [pixiv](https://www.pixiv.net/users/2842810) |
 | wakatsuki | 若月(若) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/c7d6a5c14c30e1c3f10184a600663753262400697.png) |  |
 | wako | わこ |  |  |
