@@ -8645,7 +8645,7 @@ example:
 | nekomimi kanon | 猫耳花音 |  |  |
 | nekomura | 猫村 |  |  |
 | nekomushi | ねこむし |  |  |
-| nekoneko | ねこねこ |  |  |
+| nekoneko | 猫猫 | ねこねこ |  |
 | nekoneko panchu | ねこねこぱんちゅっ |  |  |
 | nekonin | 猫忍 |  |  |
 | nekono lonmiy | 猫乃ろんみい |  |  |
