@@ -15283,6 +15283,7 @@ example:
 | nyakotarou | にゃこたろう |  | [FANZA](https://book.dmm.co.jp/list/?author=343760) |
 | kaze no tabibito | かぜの旅人 |  |  |
 | dew | でゅう |  | [pixiv](https://www.pixiv.net/users/4551123) |
+| yawaraka black | やわらかブラック |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
