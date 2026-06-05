@@ -15284,6 +15284,7 @@ example:
 | kaze no tabibito | かぜの旅人 |  |  |
 | dew | でゅう |  | [pixiv](https://www.pixiv.net/users/4551123) |
 | yawaraka black | やわらかブラック |  | [pixiv](https://www.pixiv.net/users/5322509) |
+| nameka | なめか |  | [FANBOX](https://nameka446.fanbox.cc/) \| [DLsite](https://ci-en.dlsite.com/creator/125) \| [Misskey.io](https://misskey.io/@nameka) \| [X](https://x.com/Shiso_no_ha) \| [pixiv](https://www.pixiv.net/users/4542700) |
 
 <!--TEMPLATE:
 |  |  |  |  |
