@@ -10171,7 +10171,7 @@ example:
 | selen | Selen |  |  |
 | selene | Selene |  |  |
 | sem colon | SEM;COLON |  |  |
-| semakute kurai | 狭くて暗い |  |  |
+| semakute kurai | 狭くて暗い |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG38125.html) |
 | semedain g | セメダインG |  |  |
 | semimogura | せみもぐら |  |  |
 | sen | 煎 |  |  |
