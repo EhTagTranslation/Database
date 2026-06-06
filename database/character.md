@@ -9481,6 +9481,7 @@ example:
 | sooyoung han | 韩秀英 | ![](https://static.wikia.nocookie.net/omniscient-readers-viewpoint/images/6/65/Hsy_174.png)<br>韩语：한수영<br>所属作品：`omniscient readers viewpoint` |  |
 | jihye lee | 李智慧 | ![](https://static.wikia.nocookie.net/omniscient-readers-viewpoint/images/f/f0/Lee_Jihye_1_crop.jpg)<br>韩语：이지혜<br>所属作品：`omniscient readers viewpoint` |  |
 | dokja kim | 金独子 | ![](https://static.wikia.nocookie.net/omniscient-readers-viewpoint/images/e/eb/Kdj_256_v2.jpg)<br>韩语：김독자<br>所属作品：`omniscient readers viewpoint` |  |
+| joonghyuk yoo | 刘众赫 | ![](https://static.wikia.nocookie.net/omniscient-readers-viewpoint/images/4/4b/Yjh_278_webtoon.jpg)<br>韩语：유중혁<br>所属作品：`omniscient readers viewpoint` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
