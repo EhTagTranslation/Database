@@ -9478,6 +9478,7 @@ example:
 | snowshine | 昼雪 | ![](https://patchwiki.biligame.com/images/zmd/8/89/bilf7bvb0hgcrb69pm71c4jg1mmw7u8.png)<br>所属作品：`arknights endfield` |  |
 | last rite | 别礼 | ![](https://patchwiki.biligame.com/images/zmd/8/89/pbn6j6vda7dxfsw24znbtquobklnhdr.png)<br>所属作品：`arknights endfield` |  |
 | mi fu | 弭弗 | ![](https://endfield.wiki.gg/images/thumb/Mi_Fu_Splash_Art.png/950px-Mi_Fu_Splash_Art.png?7df4d2)<br>所属作品：`arknights endfield` |  |
+| sooyoung han | 韩秀英 | ![](https://static.wikia.nocookie.net/omniscient-readers-viewpoint/images/6/65/Hsy_174.png)<br>韩语：한수영<br>所属作品：`omniscient readers viewpoint` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
