@@ -6190,7 +6190,7 @@ example:
 | jishou seijunha | 自称清純派 |  |  |
 | jisyakunyudo | じしゃく入道 |  |  |
 | jitaku ijouari | 自宅異常あり! |  |  |
-| jitaku studio | 自宅すたじお |  |  |
+| jitaku studio | ![](https://lain.bgm.tv/r/400/pic/crt/l/64/67/30240_prsn_jPJ13.jpg) 自宅すたじお | ![](https://lain.bgm.tv/r/400/pic/crt/l/64/67/30240_prsn_jPJ13.jpg)<br>别名“自宅社” | [官网](https://j-studio.net/) |
 | jitsuyou tosho fukyuukai r | 実用図書普及会 |  |  |
 | jiyuu inpon tou | 自由いんぽん党 |  |  |
 | jiyuubeya | 自由部屋 |  |  |
