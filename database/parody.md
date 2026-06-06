@@ -2853,7 +2853,7 @@ example:
 | delta force | 三角洲行动 | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Delta_Force_Logo.svg/500px-Delta_Force_Logo.svg.png) |  |
 | majo to hyakkihei | 魔女与百骑兵 | 魔女と百騎兵 |  |
 | cool devices | Cool Devices | ![](https://upload.wikimedia.org/wikipedia/en/9/98/Cool_Devices_cover.jpg)<br>《Cool Devices》系列是TDK Core于1995年4月25日至1997年11月28日在VC磁带和LD光盘上发布的成人动漫系列，共11卷，每卷30分钟。后由LEED PUBLISHING制作DVD版发售。 | [萌娘百科](https://zh.moegirl.org.cn/Cool_Devices) \| [维基百科（英语）](https://en.wikipedia.org/wiki/Cool_Devices) |
-| the extras academy survival guide | 配角在学院中生存 | ![](https://static.wikia.nocookie.net/academysurvival/images/5/55/ExtraAcademyKR2.jpg)<br>汉语：아카데미에서 살아남기, Lit. 엑스트라 학원 생존기<br>别译《配角生存法则》<br>韩国作者EOAMX创作的漫画作品。 |  |
+| the extras academy survival guide | 配角生存法则 | ![](https://static.wikia.nocookie.net/academysurvival/images/5/55/ExtraAcademyKR2.jpg)<br>汉语：아카데미에서 살아남기, Lit. 엑스트라 학원 생존기<br>别译《配角在学院中生存》<br>韩国作者EOAMX创作的漫画作品。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
