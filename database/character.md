@@ -5954,7 +5954,7 @@ example:
 | yoichi isagi | 洁世一 | ![](https://tv.bluelock-pr.com/tv2nd/wp-content/themes/bluelock-tv2nd-theme/_assets/images/char/detail/webp/isagi_.webp)<br>所属作品：`blue lock` | [萌娘百科](https://zh.moegirl.org.cn/洁世一) |
 | kurusu natsume | 来栖夏芽 | ![](https://ehgt.org/w/01/937/92080-2p2a64ed.webp)<br>所属社团：`p:nijisanji`<br><br>来栖夏芽 （ 日语：来栖夏芽 / くるすなつめ / Kurusu Natsume ）是一名从2019年12月29日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/来栖夏芽) |
 | misuzu kamio | 神尾观铃 | AIR女主角之一 (也就是封面上的黄色单马尾) |  |
-| g41 | G41 \| 芙铃 | ![然先生的G41本封面](https://files.yande.re/jpeg/f46f92cd0852e1c8ee31694911eade13/yande.re%20462957%20animal_ears%20armor%20ass%20bottomless%20g41_%28girls_frontline%29%20garter%20girls_frontline%20heterochromia%20ooyun.jpg)<br>`p:girls frontline`少女前线 Heckler & Koch 小狐狸<br>少女前线2：追放<br>芙铃<br>即将登场 |  |
+| g41 | G41 \| 芙铃 | G41<br>![](https://www.gfwiki.org/images/9/9b/Pic_G41_HD.png)<br>所属作品：`girls frontline`<br>芙铃<br>即将登场 | [GF WIKI](https://www.gfwiki.org/w/G41) |
 | rico | 黎各 | 女主角之一, 体弱多病 |  |
 | tachibana hinano | 橘雏乃 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/7/7c/Tachibana_Hinano_corporate_full_body.png)<br>日语：橘 ひなの | [萌娘百科](https://zh.moegirl.org.cn/橘雏乃) |
 | roronoa zoro | 罗罗诺亚·索隆 | ![](https://static.wikia.nocookie.net/onepiece/images/a/a6/Zoro%27s_Wanted_Poster.png)<br>所属作品：`one piece` | [萌娘百科](https://zh.moegirl.org.cn/罗罗诺亚·索隆) |
