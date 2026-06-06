@@ -9482,6 +9482,7 @@ example:
 | jihye lee | 李智慧 | ![](https://static.wikia.nocookie.net/omniscient-readers-viewpoint/images/f/f0/Lee_Jihye_1_crop.jpg)<br>韩语：이지혜<br>所属作品：`omniscient readers viewpoint` |  |
 | dokja kim | 金独子 | ![](https://static.wikia.nocookie.net/omniscient-readers-viewpoint/images/e/eb/Kdj_256_v2.jpg)<br>韩语：김독자<br>所属作品：`omniscient readers viewpoint` |  |
 | joonghyuk yoo | 刘众赫 | ![](https://static.wikia.nocookie.net/omniscient-readers-viewpoint/images/4/4b/Yjh_278_webtoon.jpg)<br>韩语：유중혁<br>所属作品：`omniscient readers viewpoint` |  |
+| maihime shirayuki | 白雪舞姬 | ![](https://static.wikia.nocookie.net/hxeros/images/2/2f/MaihimeShirayuki.png)<br>日语：白雪 舞姫<br>所属作品：`dokyuu hentai hxeros` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
