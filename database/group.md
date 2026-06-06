@@ -5857,7 +5857,7 @@ example:
 | hr-st | HR-ST |  |  |
 | http | http |  |  |
 | hukakuteiseigenri | 不確定性原理 |  |  |
-| hulotte | Hulotte |  |  |
+| hulotte | Hulotte | ![](https://lain.bgm.tv/r/400/pic/crt/l/8e/9e/18619_prsn_777av.jpg)<br>别名“时停社” | [官网](https://hulotte.jp/) |
 | human high-light film | ヒューマン・ハイライト・フィルム |  |  |
 | hummel | ヒュンメル |  |  |
 | huri-neko | ふりかえればねこがいる |  |  |
