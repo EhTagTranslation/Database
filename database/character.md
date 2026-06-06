@@ -9474,6 +9474,7 @@ example:
 | claire ann byers | 莱尔·安·拜尔斯（暴风雨） | 简中文化圈外号“张姐”<br>所属作品：`delta force` |  |
 | flonne | 芙蓉（魔界战记） |  |  |
 | izumi curtis | 泉·卡迪斯 | ![](https://static.wikia.nocookie.net/fma/images/a/a7/Izumi01.jpg)<br>出自作品：`p:fullmetal alchemist`<br><br>日语：イズミ・カーティス | [Fandom](https://fma.fandom.com/wiki/Izumi_Curtis) |
+| tangtang | 汤汤 | ![](https://patchwiki.biligame.com/images/zmd/thumb/b/bf/edk65gcbjqwwe1z6lnkbtexx9oao96x.png/1200px-汤汤立绘.png)<br>所属作品：`arknights endfield` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
