@@ -79,7 +79,7 @@ example:
 | soramoti | そらモチ |  | [X](https://x.com/soramoti00) [pixv](https://www.pixiv.net/users/82569) [个人网站](http://sorahina.web.fc2.com) |
 | blastbeat | BLASTBEAT |  | [X](https://x.com/blast_beat) [pixiv](https://www.pixiv.net/users/56021) |
 | takashina at masato | 高阶@圣人 |  | [X](https://x.com/47st_people) [pixiv](https://www.pixiv.net/users/6889) |
-| shibayuki | しばゆき |  | [X](https://x.com/famille201) [pixiv](https://www.pixiv.net/users/1531232) |
+| shibayuki | 芝雪 | しばゆき | [X](https://x.com/famille201) [pixiv](https://www.pixiv.net/users/1531232) |
 | newmen | NeWMeN |  |  |
 | miyasaka miyu | 宫坂みゆ | `miyasaka naco`的姐姐<br>最喜欢吃东西和玩游戏的姐姐<br>![个人资料](https://i.loli.net/2020/04/13/vUnLPWkyIDgoYud.jpg) | [X](https://x.com/miyu_miyasaka) [pixiv](https://www.pixiv.net/users/839617) |
 | miyasaka naco | 宫坂なこ | `miyasaka miyu`的妹妹<br>很少出门按自己的节奏生活的妹妹<br>![个人资料](https://i.loli.net/2020/04/13/vUnLPWkyIDgoYud.jpg) | [X](https://x.com/naco_miyasaka) [pixiv](https://www.pixiv.net/users/5168395) |
