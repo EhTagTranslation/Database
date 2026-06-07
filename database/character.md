@@ -6512,7 +6512,7 @@ example:
 | yukime | 雪女 | 雪女是日本轻小说《想要成为影之实力者！》及其衍生动画中登场的主要角色，作为妖狐族女性兽人展现九尾形态特征。她以"纯白之塔"统治者的身份执掌无法都市的欢乐街，性格随和但言语尖锐，具有超越常人的战斗天赋。该角色在动画第二季（2025年6月21日首播）中由日本知名声优伊藤静配音，与主角希德·卡盖诺率领的暗影庭园存在剧情关联。 |  |
 | haruhime sanjouno | 春姬 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/f/f9/Haruhime_Orario_Rhapsodia_Character_Art.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：サンジョウノ・春姫 |  |
 | sharon holygrail | 莎朗·霍莉格雷尔 | ![](https://ehgt.org/w/02/233/90147-c3c7lcpq.webp)<br>所属作品: `p:engage kiss`<br>莎朗·荷莉格蕾尔，女主角之一，表面上是支持博爱主义的“星天教会”的修女，实际上是世界最大的驱魔师集团的代理人。 | [百度百科](https://baike.baidu.com/item/莎朗·霍莉格雷尔/61901637) |
-| kisara | 木更 | 所属作品：`engage kiss`<br>![](https://ehgt.org/w/02/040/21701-8v3mtr9a.webp) |  |
+| kisara | 木更 | ![](https://static.wikia.nocookie.net/project-engage/images/2/24/Kisara_%28anime%29.png)<br>所属作品：`engage kiss` |  |
 | anira | 阿妮拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/b/bc/Zoom_3040479000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/7/71/Zoom_3040288000_01.png)<br>所属作品：`granblue fantasy` |  |
 | buena vista | 迷人景致 | ![](https://patchwiki.biligame.com/images/umamusume/d/da/9kjk8o73x8cmiyu9nl3d4vo6h5p9mpi.png)<br>出自作品：`p:uma musume pretty derby` | [komoejoy](https://uma.komoejoy.com/character/detail?id=buenavista) \| [维基百科](https://zh.wikipedia.org/wiki/迷人景致) \| [BILIGAME WIKI](https://wiki.biligame.com/umamusume/迷人景致) |
 | win variation | 凯旋芭蕾 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/4/4c/fjb7xy7krs86c7x8r71ro41k2vfawsm.png/600px-Jsf_111701.png)<br>所属作品：`uma musume pretty derby` |  |
