@@ -15291,6 +15291,7 @@ example:
 | hijiribashi ran | 聖橋蘭 |  |  |
 | rong | 論 |  | [X](https://x.com/x4824) |
 | akino subaru | 秋野昂 | 秋野すばる |  |
+| azuma ran | あずま蘭 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
