@@ -12528,7 +12528,7 @@ example:
 | yakiuni | 烧きうに |  |  |
 | inui ayu | 犬井あゆ |  |  |
 | osanai shiina | 小山内しいな |  |  |
-| umino ryo | 海野りょう |  |  |
+| umino ryo | 海野りょう |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=f15a11bf-64d3-11f0-ba33-0242ac160002/section=mens/) |
 | daruma jd | だるまJD |  |  |
 | gsus | GSUS | 台灣绘师<br>![](https://i.pixiv.cat/user-profile/img/2022/06/10/03/28/03/22854418_9298d6cb4f13db646f9defedc0fa3595_170.jpg) | [pixiv](https://www.pixiv.net/users/80553046) [FANBOX](https://www.fanbox.cc/@gsus) [Patreon](https://www.patreon.com/Gsusart2222) [X](https://x.com/Gsusart2222) |
 | gucchian | ぐっち庵 |  | [pixiv](https://www.pixiv.net/users/129543) \| [X](https://x.com/gucchiponponpon) \| [Pawoo](https://pawoo.net/@gucchiann) \| [Skeb](https://skeb.jp/@gucchiponponpon) |
