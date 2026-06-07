@@ -7720,7 +7720,7 @@ example:
 | mica | MICA |  |  |
 | michinakaba | 三血中吐 |  |  |
 | michinoku hitori tabi | みちのく一人旅 |  |  |
-| micro page | みくろぺえじ | 画师`kuromotokun`所属社团 |  |
+| micro page | みくろぺえじ | 画师`kuromotokun`所属社团 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG16033.html) \| [Ci-en](https://ci-en.dlsite.com/creator/12238) |
 | microbeurre | Microbeurre |  |  |
 | microbit | Microbit |  |  |
 | microdat | マイクロ脱兎 |  |  |
