@@ -13983,6 +13983,7 @@ example:
 | team baldrhead | Team Baldrhead | From VNDB: Baldrhead is an action eroge developing team from GIGA. Most of their games feature mecha in an action-oriented game engine.<br><br>Even though Team Baldrhead's games are officially known as the "Baldr Series", there is no relationship between the different titles.<br><br>秃头社（机翻名称）是一家源于戏画开发动作工口游戏的子公司，他们的大部分游戏将机甲融入动作导向（即时动作类）游戏引擎。<br><br>即使Team Baldrhead的游戏官方声明为“Baldr”系列，实际上分别的游戏名衔之间没有任何关联。<br><br>[From Wikipedia] |  |
 | mamedanukidou | 豆狸堂 | ![](https://media.ci-en.jp/public/icon/creator/00017884/e8464b8ffef86cd573fba7e9f9cccd1f0c11ab4a7c06b94916ec865148449d38/image-200-c.jpg) | [DLsite](https://ci-en.dlsite.com/creator/17884) |
 | kao.yellow studio | 颜色工作室KAO.YELLOW.Studio |  | [BOOTH](https://tianchuan.booth.pm/) \| [pixiv](https://www.pixiv.net/users/11562284) |
+| studio arika | stuDio arika |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=228903/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01055311.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
