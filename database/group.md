@@ -13172,7 +13172,7 @@ example:
 | otofu catastrophe | お豆腐カタストロフィ |  |  |
 | shingouya | 信号屋 |  |  |
 | ajiyama | アジ山 |  |  |
-| minamo zuki | 水面月 |  |  |
+| minamo zuki | 水面月 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206934/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG73875.html) |
 | tororodon | とろろどん |  |  |
 | dasshifunnyuu teishoku | 脱脂粉乳定食 |  |  |
 | ryoushi ookami | 量子オオカミ |  |  |
