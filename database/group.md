@@ -13984,6 +13984,7 @@ example:
 | mamedanukidou | 豆狸堂 | ![](https://media.ci-en.jp/public/icon/creator/00017884/e8464b8ffef86cd573fba7e9f9cccd1f0c11ab4a7c06b94916ec865148449d38/image-200-c.jpg) | [DLsite](https://ci-en.dlsite.com/creator/17884) |
 | kao.yellow studio | 颜色工作室KAO.YELLOW.Studio |  | [BOOTH](https://tianchuan.booth.pm/) \| [pixiv](https://www.pixiv.net/users/11562284) |
 | studio arika | stuDio arika |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=228903/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01055311.html) |
+| yurinyurin | ゆりんゆりん | Yurin Yurin |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
