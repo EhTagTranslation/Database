@@ -15289,6 +15289,7 @@ example:
 | senjou maiko | 戦上まい子 |  |  |
 | mogami koji | 最中工路 |  |  |
 | hijiribashi ran | 聖橋蘭 |  |  |
+| rong | 論 |  | [X](https://x.com/x4824) |
 
 <!--TEMPLATE:
 |  |  |  |  |
