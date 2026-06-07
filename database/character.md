@@ -9485,6 +9485,7 @@ example:
 | maihime shirayuki | 白雪舞姬 | ![](https://static.wikia.nocookie.net/hxeros/images/2/2f/MaihimeShirayuki.png)<br>日语：白雪 舞姫<br>所属作品：`dokyuu hentai hxeros` |  |
 | momoka momozono | 桃园桃花 | ![](https://static.wikia.nocookie.net/hxeros/images/a/a0/Momoka_Momozono.png)<br>日语：桃園 桃花<br>所属作品：`dokyuu hentai hxeros` |  |
 | murdoch swan | 默多克·斯旺 | ![](https://static.wikia.nocookie.net/spy-x-family9171/images/a/ab/Murdoch_Swan_Anime_Infobox.png)<br>所属作品：`spy x family` |  |
+| nagisa misawa | 三泽渚 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
