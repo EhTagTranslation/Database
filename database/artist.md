@@ -15290,6 +15290,7 @@ example:
 | mogami koji | 最中工路 |  |  |
 | hijiribashi ran | 聖橋蘭 |  |  |
 | rong | 論 |  | [X](https://x.com/x4824) |
+| akino subaru | 秋野昂 | 秋野すばる |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
