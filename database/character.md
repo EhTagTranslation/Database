@@ -5071,7 +5071,7 @@ example:
 | prometheus | 普罗米修斯 | 所属作品: `p:megido 72` | [Bangumi](https://bgm.tv/character/129499) |
 | lisesharte atismata | 莉姿夏尔蒂·亚提司玛特 | ![](https://saijaku.jp/img/character_image02.jpg)<br>所属作品: `p:saijaku muhai no bahamut`<br>リーズシャルテ·アティスマータ<br>亚提司玛特新王国的公主，爱称是莉夏。真红的神装机龙“迪亚玛特”的操纵者，在学园内以无败而自豪的屈指可数的装甲机龙使者。 |  |
 | dantoudai no aura | 阿乌拉 | ![](https://ehgt.org/w/02/185/83742-f05gs6h4.webp)<br>所属作品: `p:sousou no frieren`<br><br>魔王直接下属的“七崩贤”之一，绰号“断头台阿乌拉”的魔族。 | [萌娘百科](https://zh.moegirl.org.cn/阿乌拉) |
-| ayano yuugiri | 夕桐绫乃 | 所属作品: `p:engage kiss`<br><br>![图](https://ehgt.org/2c/f7/2cf725b1d6494c5e0d7f7f6546ac55d11bd761e0-319014-880-1300-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/夕桐绫乃) |
+| ayano yuugiri | 夕桐绫乃 | ![](https://static.wikia.nocookie.net/project-engage/images/9/94/Ayano_Yuugiri_%28original%29.png)<br>所属作品: `p:engage kiss` | [萌娘百科](https://zh.moegirl.org.cn/夕桐绫乃) |
 | rose oriana | 萝兹·奥利雅纳 | ![](https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/1/12/Rose-Anime.png)<br>所属作品: `p:kage no jitsuryokusha ni naritakute` |  |
 | vladilena milize | 芙拉蒂蕾娜·米利杰 | 所属作品: `p:86`<br><br>本名芙拉蒂蕾娜·米利杰。圣玛格诺利亚共和国军人，是一名十六岁便晋升少校的精英。出身白银种旧封建贵族的大小姐。和大多数麻木不仁的圣玛格诺利亚国民不同，拒绝将“八六”视为用过即弃的工具。 | [萌娘百科](https://zh.moegirl.org.cn/芙拉蒂蕾娜·米利杰) |
 | sharon | 莎郎 | 所属作品: `p:words worth`<br>莎郎，女主角，影之一族的最强女剑士，男主角的未婚妻和青梅竹马。喜欢最强的男性，险遭光之一族国王强奸玷污，后被男主角拯救，与之共赴爱河。 | [莎郎](https://bangumi.tv/character/23847) |
