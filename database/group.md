@@ -7646,7 +7646,7 @@ example:
 | mekongdelta | MEKONGDELTA |  |  |
 | mekujira | めくじら |  |  |
 | mekurume yuuen | 目眩悠遠 |  |  |
-| mellow | mellow |  |  |
+| mellow | MELLOW |  |  |
 | melody | Melody |  |  |
 | melomo | メロモ |  |  |
 | melon | Melon |  |  |
