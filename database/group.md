@@ -3410,7 +3410,7 @@ example:
 | bonnou honpo | 煩悩本舗 |  |  |
 | bonnou strategy | 煩悩ストラテジ |  |  |
 | bonnou stream | 煩悩ストリーム |  |  |
-| bonnoudou | 凡悩堂 |  |  |
+| bonnoudou | 凡悩堂 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG08774.html) |
 | bonsketch | Bonsketch |  |  |
 | boobookid | ブーブーキッド |  |  |
 | booch | ぶーち |  |  |
