@@ -291,7 +291,7 @@ example:
 | gallop dyna | ぎゃろっぷだいな |  |  |
 | trick and treat | TRICK&TREAT |  |  |
 | shirokumaya | しろくま屋 |  |  |
-| nanairo no neribukuro | 七色のねりぶくろ |  |  |
+| nanairo no neribukuro | 七色のねりぶくろ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204111/) |
 | ucyunekogundan | 宇宙猫军团 |  |  |
 | mokoke | もこ家 |  |  |
 | p-kan | p-馆 |  |  |
