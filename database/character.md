@@ -6260,7 +6260,7 @@ example:
 | shion sonozaki | 园崎诗音 | 所属作品: `p:higurashi no naku koro ni` | [萌娘百科](https://zh.moegirl.org.cn/园崎诗音) |
 | satoshi houjou | 北条悟史 | 所属作品: `p:higurashi no naku koro ni` | [萌娘百科](https://zh.moegirl.org.cn/北条悟史) |
 | keiichi maebara | 前原圭一 | 所属作品: `p:higurashi no naku koro ni` | [萌娘百科](https://zh.moegirl.org.cn/前原圭一) |
-| sasaki | 佐佐木 | 所属作品: `p:the melancholy of haruhi suzumiya`<br><br>在《凉宫春日的分裂》中正式登场，是阿虚国三时的挚友，被古泉认为是「十人看到有八个会迷上她的『有魅力的女性』」。 | [萌娘百科](https://zh.moegirl.org.cn/佐佐木%28凉宫春日系列%29) |
+| sasaki | 佐佐木 | 泛指名为“佐佐木”的角色 |  |
 | chiaki motomiya | 元宫千秋 | ![](https://static.wikia.nocookie.net/blue-archive/images/b/b6/Chiaki_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/元宫千秋) [Fandom](https://bluearchive.fandom.com/wiki/Motomiya_Chiaki) |
 | louisville | 路易斯维尔 | 所属作品: `p:azur lane`<br>![](https://i0.hdslb.com/bfs/article/d7b6413a4d034ec84625d5507e11e83a298252208.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/路易斯维尔)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/USS_Louisville_%28CA-28%29) |
 | prinz heinrich | 海恩里希亲王 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/4d7174863d7f1b9f862326f2e7a16bf6262400697.png)<br>原型为德意志帝国海军P级装甲舰海因里希亲王号 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/海因里希亲王)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/SMS_Prinz_Heinrich) |
