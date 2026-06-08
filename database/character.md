@@ -9487,6 +9487,7 @@ example:
 | murdoch swan | 默多克·斯旺 | ![](https://static.wikia.nocookie.net/spy-x-family9171/images/a/ab/Murdoch_Swan_Anime_Infobox.png)<br>所属作品：`spy x family` |  |
 | nagisa misawa | 三泽渚 |  |  |
 | rina takahata | 高畑里奈 |  |  |
+| sasami tsukuyomi | 月读锁锁美 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
