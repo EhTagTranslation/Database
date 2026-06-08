@@ -13485,7 +13485,7 @@ example:
 | fuzoku kugayama kindergarden | 附属久我山キンダーガーデン |  |  |
 | ichigo no katamari | 苺の塊 |  |  |
 | warasubodou | わらすぼ道 |  |  |
-| hito no kokoro | 人の心 |  |  |
+| hito no kokoro | 人の心 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01003420.html) |
 | uru uru ultimate | うるうるあるてぃめっと |  |  |
 | hagoromotei | はごろもてい |  |  |
 | amagyappa | あまぎゃっぱ |  |  |
