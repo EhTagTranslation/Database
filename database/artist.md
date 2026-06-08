@@ -3423,7 +3423,7 @@ example:
 | kaneko | 華猫 |  |  |
 | sekai saisoku no panda | 世界最速のパンダ |  |  |
 | ayame iro | 絢芽いろ |  |  |
-| kaiduka akuta | 貝塚芥 |  |  |
+| kaiduka akuta | 貝塚芥 |  | [Fantia](https://fantia.jp/fanclubs/4450) \| [pixiv](https://www.pixiv.net/users/20166334) \| [X](https://x.com/kaiduka_akuta) \| [Skeb](https://skeb.jp/@kaiduka_akuta) \| [Pawoo](https://pawoo.net/@akuta_kaiduka) |
 | katsuten | かつてん |  | [pixiv](https://www.pixiv.net/users/41154549) |
 | waterring | WaterRing | ![](https://i.pixiv.cat/user-profile/img/2022/12/09/23/34/16/23718892_1927bd8840ec1b9397bafab418d291fb_170.jpg) | [pixiv](https://www.pixiv.net/users/2174931) |
 | gwegwe | gweda | ![作者头像](https://iknow-pic.cdn.bcebos.com/b7003af33a87e9503c6085fd02385343fbf2b42f)<br>こんにちは。gwedaです。<br>主にアニメ,ゲーム,漫画など登場するキャラクターを描きます。 | [pixiv](https://www.pixiv.net/users/17282018) [X](https://x.com/gweda8593) [FANBOX](https://gweda.fanbox.cc/) [Patreon](https://www.patreon.com/gweda) [Gumroad](https://gumroad.com/gweda) |
