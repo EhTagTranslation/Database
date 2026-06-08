@@ -13749,7 +13749,7 @@ example:
 | nako sir | なこ汁 |  |  |
 | chero | ちぇろ |  |  |
 | rikoping2000 | りこぴん2000 |  |  |
-| sirotategosha | 白楯误射 | 白楯誤射 |  |
+| sirotategosha | 白楯误射 | 白楯誤射 | [FANBOX](https://www.fanbox.cc/@sirotategosha) \| [pixiv](https://www.pixiv.net/users/96409541) \| [X](https://x.com/sirotategosha) \| [Ci-en](https://ci-en.dlsite.com/creator/37514) \|  [Fantia](https://fantia.jp/fanclubs/505072) \| [Skeb](https://skeb.jp/@sirotategosha) |
 | gendai x | 哏呔X |  | [pixiv](https://www.pixiv.net/users/25141366) |
 | shinima | しにま |  | [pixiv](https://www.pixiv.net/users/32812997) [X](https://x.com/1x1_3818) |
 | fishinloli | フィッシンローリ |  | [X](https://x.com/fishinloli0820/) [FANBOX](https://www.fanbox.cc/@fishinloli) |
