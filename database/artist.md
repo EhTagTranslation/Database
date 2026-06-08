@@ -15293,6 +15293,7 @@ example:
 | akino subaru | 秋野昂 | 秋野すばる |  |
 | azuma ran | あずま蘭 |  |  |
 | haika | ハイカ |  |  |
+| echigooriman | えちごおりまん |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22えちごおりまん%22/ana_flg/all) |
 
 <!--TEMPLATE:
 |  |  |  |  |
