@@ -13986,6 +13986,7 @@ example:
 | studio arika | stuDio arika |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=228903/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01055311.html) |
 | yurinyurin | ゆりんゆりん | Yurin Yurin |  |
 | st. michael girls school | 圣迈克尔女子学院 | 聖ミカエル女子学園，St. Michael Girls' School |  |
+| 8 percent milk. | 8%milk. |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
