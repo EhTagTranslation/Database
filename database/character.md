@@ -9488,6 +9488,7 @@ example:
 | nagisa misawa | 三泽渚 |  |  |
 | rina takahata | 高畑里奈 |  |  |
 | sasami tsukuyomi | 月读锁锁美 |  |  |
+| tayama | 田山（山田） | ![](https://lain.bgm.tv/r/400/pic/crt/l/c4/31/151697_crt_38pbf.jpg)<br>所属作品：`super no ura de yani suu futari` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
