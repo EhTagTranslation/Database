@@ -9490,6 +9490,7 @@ example:
 | sasami tsukuyomi | 月读锁锁美 |  |  |
 | tayama | 田山（山田） | ![](https://lain.bgm.tv/r/400/pic/crt/l/c4/31/151697_crt_38pbf.jpg)<br>所属作品：`super no ura de yani suu futari` |  |
 | subaru konoe | 近卫昴 |  |  |
+| kinjirou sakamachi | 坂町近次郎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
