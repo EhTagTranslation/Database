@@ -406,7 +406,7 @@ example:
 | cannabis | カンナビス |  |  |
 | archives | アーカイブ |  |  |
 | notone | NOTONE |  |  |
-| small marron | Small Marron |  |  |
+| small marron | Small Marron |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG31055.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71933/) |
 | palepink | PalePink! |  |  |
 | kokatsubatake | こかつ畑 |  |  |
 | nise-jyuusyofutei | 伪住所不定 |  |  |
