@@ -9492,6 +9492,7 @@ example:
 | subaru konoe | 近卫昴 |  |  |
 | kinjirou sakamachi | 坂町近次郎 |  |  |
 | kureha sakamachi | 坂町红羽 |  |  |
+| aromalilith rosemary | 芳香魔女 迷迭香 | ![](https://static.wikia.nocookie.net/yugioh/images/b/b3/AromalilithRosemary-PHNI-EN-SR-1E.png)<br>日语：アロマリリス－ローズマリー<br>所属作品：`yu-gi-oh` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
