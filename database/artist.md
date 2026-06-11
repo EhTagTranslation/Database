@@ -956,7 +956,7 @@ example:
 | cuvie | Cuvie |  |  |
 | hazuki yuto | 羽月ユウト |  |  |
 | hinasaki yo | 雏咲叶 |  | [X](https://x.com/saicoro_chick) [pixiv](https://www.pixiv.net/users/71175) |
-| naruko | 鸣湖（平间ひろかず） | ![X](https://pbs.twimg.com/profile_images/1570384028938940416/oYz6vpR9_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/haisui) [pixiv](https://www.pixiv.net/users/5090) |
+| naruko | 平间宏和（鸣湖） | 平間ひろかず（鳴湖）<br><br>![X](https://pbs.twimg.com/profile_images/1570384028938940416/oYz6vpR9_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/haisui) [pixiv](https://www.pixiv.net/users/5090) |
 | hishigata tomaru | ひし形とまる |  |  |
 | mokufu | もくふう |  |  |
 | okumoto yuuta | 澳本悠太 |  |  |
@@ -6623,7 +6623,7 @@ example:
 | karura syou | 華瑠羅翔 |  |  |
 | karutamo | かるたも |  |  |
 | kasai ema | 葛西えま |  |  |
-| kasaiya | カサイ屋 |  |  |
+| kasaiya | カサイ屋 |  | [pixiv](https://www.pixiv.net/users/3637962) \| [Pawoo](https://pawoo.net/@kasaiya3) \| [X](https://x.com/ka_saiya) |
 | kasaran | kasaran |  |  |
 | kashi | 華師 |  |  |
 | kashiba toshizou | 樫葉歳三 |  |  |
