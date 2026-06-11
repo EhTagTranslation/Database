@@ -14945,7 +14945,7 @@ example:
 | myai | みゃい |  |  |
 | shirai soushichi | 白井惣七 |  |  |
 | protein b6 | ぷろていんB6 |  | [pixiv](https://www.pixiv.net/users/4970653) \| [DLsite](https://ci-en.dlsite.com/creator/5135) \| [BOOTH](https://paradigmconflict.booth.pm/) \| [vndb](https://vndb.org/s11405) |
-| k8on | k8on | Mh2en<br>nanhna | [pixiv](https://www.pixiv.net/users/16592479) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01019280.html) \| [DLsite](https://ci-en.dlsite.com/creator/29633) \| [X](https://x.com/_mh2en) |
+| k8on | k8on | Mh2en<br>nanhna | [pixiv](https://www.pixiv.net/users/16592479) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01019280.html) \| [Ci-en](https://ci-en.dlsite.com/creator/29633) \| [X](https://x.com/_mh2en) |
 | asuha | アスハー |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200744/) |
 | ukke | うっけ |  | [pixiv](https://www.pixiv.net/users/9045)<br>[X](https://x.com/ukke_tori) |
 | parasol hiroshi | パラソルひろし |  | [pixiv](https://www.pixiv.net/users/26788891) |
