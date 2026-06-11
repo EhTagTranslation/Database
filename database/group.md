@@ -4510,7 +4510,7 @@ example:
 | elflite | elflite |  |  |
 | elhearts | ELHEART'S |  |  |
 | elilys lab. | Elily's Lab. |  |  |
-| elithheart | エリスハート |  |  |
+| elithheart | エリスハート |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG32803.html) |
 | elle-murakami | elle-叢神 |  |  |
 | ellese no yakata | エリーゼの館 |  |  |
 | elza | ELZA |  |  |
