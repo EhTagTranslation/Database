@@ -6010,7 +6010,7 @@ example:
 | yuuri wakasa | 若狭悠里 | 学园孤岛女主人公之一 |  |
 | miki naoki | 直树美纪 | 学园孤岛女主人公之一 |  |
 | yuki takeya | 丈枪由纪 | 学园孤岛女主人公之一 |  |
-| erika hatami | 旗见绘里香 |  |  |
+| erika hatami | 旗见绘里香 | ![](https://static.wikia.nocookie.net/blue-archive/images/6/63/Erika_Portrait.png/revision/latest?cb=20221116150605)<br>所属游戏:`blue archive` | [萌娘百科](https://zh.moegirl.org.cn/旗见绘里香) |
 | kanae itou | 伊藤香苗 |  | [pixiv](https://dic.pixiv.net/a/伊藤香苗) |
 | juri ushimaki | 牛牧朱莉 | 所属作品: `p:blue archive`<br>![](https://static.wikia.nocookie.net/blue-archive/images/f/f8/Mashiro_Portrait.png)<br>![](https://patchwiki.biligame.com/images/ba/e/ea/bzr9fwrokm0rd7s6pwjm3xkvguezlys.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Juri) |
 | akiha shishidou | 狮子堂秋叶 | 所属作品: `p:sora wo kakeru shoujo` |  |
