@@ -15295,6 +15295,7 @@ example:
 | haika | ハイカ |  |  |
 | echigooriman | えちごおりまん |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22えちごおりまん%22/ana_flg/all) |
 | shinonome fuurin | 篠目迷（風凛） |  | [pixiv](https://www.pixiv.net/users/30111728) |
+| nanasi maru | na●si | nasi | [FANBOX](https://www.fanbox.cc/@nasi) \| [Fantia](https://fantia.jp/fanclubs/28463) \| [Misskey.io](https://misskey.io/@Na_si_M) \| [Bluesky](https://bsky.app/profile/na-si-m.bsky.social) \| [Ci-en](https://ci-en.dlsite.com/creator/35617) \| [X](https://x.com/Na_si_M2) |
 
 <!--TEMPLATE:
 |  |  |  |  |
