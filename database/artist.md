@@ -15294,6 +15294,7 @@ example:
 | azuma ran | あずま蘭 |  |  |
 | haika | ハイカ |  |  |
 | echigooriman | えちごおりまん |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22えちごおりまん%22/ana_flg/all) |
+| shinonome fuurin | 篠目迷（風凛） |  | [pixiv](https://www.pixiv.net/users/30111728) |
 
 <!--TEMPLATE:
 |  |  |  |  |
