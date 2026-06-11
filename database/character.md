@@ -9493,6 +9493,7 @@ example:
 | kinjirou sakamachi | 坂町近次郎 |  |  |
 | kureha sakamachi | 坂町红羽 |  |  |
 | aromalilith rosemary | 芳香魔女 迷迭香 | ![](https://static.wikia.nocookie.net/yugioh/images/b/b3/AromalilithRosemary-PHNI-EN-SR-1E.png)<br>日语：アロマリリス－ローズマリー<br>所属作品：`yu-gi-oh` |  |
+| nagi nanami | 七海凪 | ![](https://t.vndb.org/ch/10/192810.jpg)<br>所属作品：`relirium` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
