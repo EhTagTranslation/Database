@@ -5315,7 +5315,7 @@ example:
 | albert wesker | 阿尔伯特·威斯克 | ![](https://thumbsnap.com/i/u7Fh8bEY.jpg)<br>出自作品：`p:resident evil`<br><br>阿尔伯特·威斯克是生化危机系列中一位复杂而充满争议的反派角色。作为原保护伞公司的精英特工和生化武器首席研究员，这位被优生工程培育出的天才自幼接受极端理念灌输，兼具卓越的智力天赋与扭曲的进化论信仰。他始终游走于各方势力之间，从幕后操纵病毒泄露事件到建立跨国生化武器网络，逐步从企业棋子蜕变为追求物种筛选的极端主义者。冷酷无情的实用主义作风与对自身基因强化的偏执追求，使其成为串联多起全球性生化危机的关键推手。标志性的墨镜与黑色风衣之下，掩藏着试图通过病毒重塑人类文明的危险野心。 | [萌娘百科](https://zh.moegirl.org.cn/阿尔伯特·威斯克) |
 | kukulkan | 库库尔坎 |  |  |
 | iori miyamoto | 宫本伊织 |  |  |
-| kirara yozakura | 夜樱绮罗罗 | ![](https://static.kivo.wiki/images/students/夜樱%20绮良/sd_model.png) |  |
+| kirara yozakura | 夜樱绮罗罗 | ![](https://static.wikia.nocookie.net/blue-archive/images/3/3f/Kirara_Portrait.png/revision/latest?cb=20221116150608)<br>![](https://static.kivo.wiki/images/students/夜樱%20绮良/sd_model.png)<br>所属游戏:`blue archive` | [Fandom](https://bluearchive.fandom.com/wiki/Yozakura_Kirara) |
 | britomart | 布里托玛特 | ![](https://ehgt.org/w/02/085/49431-ich3ns9j.webp) |  |
 | rex | 莱克斯 | 莱克斯（日语：レックス）是游戏《异度神剑2》的登场角色，男主角。 | [萌娘百科](https://zh.moegirl.org.cn/莱克斯) |
 | shizuka mikazuki | 三日月闲 | ![](https://ehgt.org/w/02/301/28083-7djop9d6.webp)<br>所属作品：`zom 100 zombie ni naru made ni shitai 100 no koto`<br>日语：三日月閑 |  |
