@@ -542,7 +542,7 @@ example:
 | kemigawa mondo | 検見川もんど |  |  |
 | tadano akira | 只野あきら |  |  |
 | kaisen chuui | 开栓注意 |  | [pixiv](https://www.pixiv.net/users/172636) |
-| ozy | オジィ |  |  |
+| ozy | オジィ |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ008379/ana_flg/all) |
 | sakurai shizuku | 桜井雫 |  |  |
 | kokutou nikke | 黒糖ニッケ |  |  |
 | makuwauni | まくわうに |  |  |
