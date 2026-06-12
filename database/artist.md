@@ -12189,7 +12189,7 @@ example:
 | hyouta | 俵太 |  | [pixiv](https://www.pixiv.net/users/12378747) |
 | asaomi shimura | アサオミ志群 |  |  |
 | ooban yaki | 大伴ヤキ |  |  |
-| yoshida killy | 吉田Killy |  |  |
+| yoshida killy | 吉田Killy |  | [FANZA](https://book.dmm.co.jp/list/?author=360706) |
 | tou | トウ |  |  |
 | natsusaka | 夏坂 |  |  |
 | tempura dozaemon | 天妇罗土左卫门 | ![X](https://pbs.twimg.com/profile_images/1420009504435957761/RWdGy04F_400x400.jpg)<br><br>**作者推特头像** | [HP](https://lit.link/en/dozaemontempura) [pixiv](https://www.pixiv.net/users/15845510) |
