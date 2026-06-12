@@ -3808,7 +3808,7 @@ example:
 | ciel | Ciel |  |  |
 | cinderella complex | Cinderella Complex |  |  |
 | cinnamon cigar | Cinnamon Cigar |  |  |
-| cior | Cior |  |  |
+| cior | Cior |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76956/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG43405.html) \|  [FANBOX](https://cior.fanbox.cc/) \| [X](https://x.com/Cior2014) \| [potofu.me](https://potofu.me/cior) \| [Ci-en](https://ci-en.dlsite.com/creator/35582) \| [IRODORI](https://irodoricomics.com/Cior?ref=gigvnkom) |
 | cipher | 裁羽 |  |  |
 | circle 1 gou | サークル1号 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=25575/) |
 | circle a | Circle A |  |  |
