@@ -14444,7 +14444,7 @@ example:
 | sawarabi | 早蕨 |  |  |
 | sirokuro-dharma | 白黒だるま |  |  |
 | kazayuki kaya | 風雪花夜 |  |  |
-| komaneko | 狛猫 |  |  |
+| komaneko | 狛猫 |  | [pixiv](https://www.pixiv.net/users/171858) \| [FANBOX](https://komaneko.fanbox.cc/) |
 | shikoto tanetsuke | しこと種付け |  |  |
 | rolly bell | 露李鈴 |  |  |
 | a wu a | 阿五啊 |  |  |
