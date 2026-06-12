@@ -1153,7 +1153,7 @@ example:
 | sanae furukawa | 古河早苗 |  |  |
 |  | ▼ 未闻花名 角色 |  |  |
 | meiko honma | 本间芽衣子 |  |  |
-| naruko anjou | 安城鸣子 |  |  |
+| naruko anjou | 安城鸣子 | ![](https://static.wikia.nocookie.net/anohana/images/6/6f/455d4e32cac677f02c927c50572bff33.jpg/revision/latest?cb=20150912041617)<br>出自作品：`p:ano hi mita hana no namae wo bokutachi wa mada shiranai`<br><br>安城鸣子是A-1 Pictures制作的动画《我们仍未知道那天所看见的花的名字。》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/安城鸣子) \| [Fandom](https://anohana.fandom.com/zh/wiki/安城鸣子?variant=zh-hant) |
 | chiriko tsurumi | 鹤见知利子 |  |  |
 | jinta yadomi | 宿海仁太 |  |  |
 | atsumu matsuyuki | 松雪集 |  |  |
