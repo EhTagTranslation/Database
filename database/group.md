@@ -11282,7 +11282,7 @@ example:
 | tetsukazuno ao. | 手つかずの青。 |  |  |
 | tetsukuzuya | 鉄屑屋 |  |  |
 | tex-mex | TEX-MEX |  |  |
-| tga | TGA |  |  |
+| tga | TGA |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG42044.html) |
 | th4 | Throttle/4 |  |  |
 | the flyers | THE FLYERS |  |  |
 | the fuckin toyzaras | The Fuckin Toyzaras |  |  |
