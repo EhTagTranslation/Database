@@ -15297,6 +15297,7 @@ example:
 | shinonome fuurin | 篠目迷（風凛） |  | [pixiv](https://www.pixiv.net/users/30111728) |
 | nanasi maru | na●si | nasi | [FANBOX](https://www.fanbox.cc/@nasi) \| [Fantia](https://fantia.jp/fanclubs/28463) \| [Misskey.io](https://misskey.io/@Na_si_M) \| [Bluesky](https://bsky.app/profile/na-si-m.bsky.social) \| [Ci-en](https://ci-en.dlsite.com/creator/35617) \| [X](https://x.com/Na_si_M2) |
 | sanuki | さ抜き |  | [pixiv](https://www.pixiv.net/users/9888246) \| [Patreon](https://www.patreon.com/sanuki) \| [X](https://x.com/NukiSanuki) \| [Fantia](https://fantia.jp/fanclubs/6327) \| [FANBOX](https://sanuki.fanbox.cc/) \| [Skeb](https://skeb.jp/@NukiSanuki) |
+| nakaishow | 名飼証 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
