@@ -3892,7 +3892,7 @@ example:
 | nikaido | 二阶堂 |  |  |
 | reno | 里诺 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/504a1bd65673f2b3ef34fd97fa54af15262400697.png) |  |
 | aegir | 埃吉尔 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/article/ca6b38eaadcc36706c08f778b2ac37bcf7b1911d.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/bf791a8f472a1e50ac3bb9b7932e2fa5262400697.png) |  |
-| shinano | 信浓(鵗) | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/a7bd62853a5879c5fe787731980ae622262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/信浓) |
+| shinano | 信浓 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/a7bd62853a5879c5fe787731980ae622262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/信浓) |
 | foxhound | 狐提 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/5b5fe9946c3e0e31d45876563a6422c1262400697.png) |  |
 | pamiat merkuria | 水星纪念 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/564de2d073edea4e2757b15962268ba6262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/a90048c33b2a91cbfe867f458dcfe9d6262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/c6cb3aa6ed857f84b1d47b0d0412c4b5262400697.png) |  |
 | nurnberg | 纽伦堡 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/24eb808503ed1e70b9c7d82b201a50cf262400697.png) |  |
@@ -4474,7 +4474,7 @@ example:
 | kanae kochou | 胡蝶香奈惠 | 胡蝶忍的姐姐。同時也是栗花落香奈乎的義姐和恩人，与胡蝶忍從奴隶贩子手下救下了香奈乎。 | [萌娘百科](https://zh.moegirl.org.cn/胡蝶香奈惠) |
 | sanemi shinazugawa | 不死川实弥 |  | [萌娘百科](https://zh.moegirl.org.cn/不死川实弥) |
 | mashiro shizuyama | 静山真白 | ![](https://static.wikia.nocookie.net/blue-archive/images/f/f8/Mashiro_Portrait.png)<br>![](https://patchwiki.biligame.com/images/ba/e/ea/bzr9fwrokm0rd7s6pwjm3xkvguezlys.png)<br>所属作品: `p:blue archive` | [Fandom](https://bluearchive.fandom.com/wiki/Shizuyama_Mashiro) [介绍专栏](https://www.bilibili.com/read/cv10421669)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Mashiro) |
-| tsurugi kensaki | 剑先鹤城 | ![](https://patchwiki.biligame.com/images/ba/1/1a/j28dgt33s9zgk3zhd4qcnxuhy4bobks.png)<br>![](https://patchwiki.biligame.com/images/ba/6/66/pkdfqj467ei44b1z9ndjkluz2pkfqq6.png)<br><br>所属作品: `p:blue archive` | [Fandom](https://bluearchive.fandom.com/wiki/Kenzaki_Tsurugi) [碧蓝档案wiki](https://bluearchive.wiki/wiki/Tsurugi) [介绍专栏](https://www.bilibili.com/read/cv10003335)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Tsurugi) |
+| tsurugi kenzaki | 剑先鹤城 | ![](https://patchwiki.biligame.com/images/ba/1/1a/j28dgt33s9zgk3zhd4qcnxuhy4bobks.png)<br>![](https://patchwiki.biligame.com/images/ba/6/66/pkdfqj467ei44b1z9ndjkluz2pkfqq6.png)<br><br>所属作品: `p:blue archive` | [Fandom](https://bluearchive.fandom.com/wiki/Kenzaki_Tsurugi) [碧蓝档案wiki](https://bluearchive.wiki/wiki/Tsurugi) [介绍专栏](https://www.bilibili.com/read/cv10003335)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Tsurugi) |
 | acerola | 阿塞萝拉 | ![](https://static.wikia.nocookie.net/pokemon/images/1/1e/Sun_Moon_Acerola.png)<br>所属作品: `p:pokemon`<br>日文︰アセロラ | [萌娘百科](https://zh.moegirl.org.cn/阿塞萝拉) [神奇宝贝百科](https://wiki.52poke.com/zh/阿塞蘿拉) [Fandom](https://pokemon.fandom.com/wiki/Acerola) |
 | kou minamoto | 源光 | ![](https://static.wikia.nocookie.net/hanakokun/images/5/51/Kou%27s_anime_design.png) | [Fandom](https://hanako-kun.fandom.com/wiki/Minamoto_Kou) [萌娘百科](https://zh.moegirl.org.cn/源光) |
 | damian desmond | 达米安·德斯蒙 | ![](https://static.wikia.nocookie.net/spy-x-family9171/images/3/35/Damian_Desmond_Anime.png) | [萌娘百科](https://zh.moegirl.org.cn/达米安·德斯蒙) [Fandom](https://spy-x-family.fandom.com/wiki/Damian_Desmond) |
@@ -5607,7 +5607,7 @@ example:
 | anis | 阿妮斯 | ![阿妮斯立绘](https://static.dotgg.gg/nikke/characters/c012_00.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/152348.html) [DotGG](https://dotgg.gg/nikke/characters/anis) |
 | helm | 海伦 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/98/Helm_%28Post-Shower_Moment%29_FB.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/tj/156441.html) |
 | scarlet | 红莲 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/41/Scarlet_FB.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/tj/156441.html) |
-| crown | 皇冠（妮姬） | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/3e/Crown_%28Glorious_Flower%29_FB.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/621270.html) [DotGG](https://dotgg.gg/nikke/characters/crown) |
+| crown | 皇冠 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/3e/Crown_%28Glorious_Flower%29_FB.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/621270.html) [DotGG](https://dotgg.gg/nikke/characters/crown) |
 | red hood | 小红帽 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e9/Red_Hood_%28Nonsense_Red%29_FB.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/tj/156441.html) |
 | viper | 毒蛇 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/03/Viper_%28Shine_of_Love%29_FB.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/580714.html) [DotGG](https://dotgg.gg/nikke/characters/viper) |
 | neon | 尼恩 | ![尼恩立绘](https://static.dotgg.gg/nikke/characters/c011_00.png)<br>所属作品：`goddess of victory nikke`<br>隶属企业：极乐净土<br>为火力而生，为火力而死，这个时代真正的火力狂人。<br>隶属于反击部队，她是间谍这件事已经成了众所周知的秘密。 | [Gamekee](https://www.gamekee.com/nikke/92084.html) [DotGG](https://dotgg.gg/nikke/characters/neon) |
@@ -5638,7 +5638,7 @@ example:
 | diesel | 迪塞尔 | ![迪塞尔立绘](https://static.dotgg.gg/nikke/characters/c072_00.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/tj/156441.html) |
 | cocoa | 可可 | ![](https://static.dotgg.gg/nikke/characters/c311_00.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/tj/156441.html) |
 | volume | 沃纶姆 | ![沃纶姆立绘](https://static.dotgg.gg/nikke/characters/c431_00.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/163876.html) [DotGG](https://dotgg.gg/nikke/characters/volume) |
-| sin | 罪（妮姬） | ![森立绘](https://static.dotgg.gg/nikke/characters/c401_00.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/580947.html) [DotGG](https://dotgg.gg/nikke/characters/sin) |
+| sin | 罪 | ![森立绘](https://static.dotgg.gg/nikke/characters/c401_00.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/580947.html) [DotGG](https://dotgg.gg/nikke/characters/sin) |
 | yulha | 尤尔夏 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f6/Yulha_FB.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/170841.html) [DotGG](https://dotgg.gg/nikke/characters/yulha) |
 | jackal | 豺狼 | ![豺狼立绘](https://static.dotgg.gg/nikke/characters/c111_00.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/580711.html) [DotGG](https://dotgg.gg/nikke/characters/jackal) |
 | laplace | 拉普拉斯 | ![拉普拉斯立绘](https://static.dotgg.gg/nikke/characters/c100_00.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/576409.html) [DotGG](https://dotgg.gg/nikke/characters/laplace) |
@@ -6043,7 +6043,6 @@ example:
 | rachel alucard | 雷其儿·阿尔卡特 | 所属作品: `p:blazblue` | [萌娘百科](https://zh.moegirl.org.cn/雷其儿·阿尔卡特) |
 | sakura ritsuki | 樱凛月 | ![](https://thumbsnap.com/i/PvSgJXwc.jpg)<br>出自作品：`p:nijisanji`<br><br>樱凛月( 日语：桜凛月 / さくら りつきSakura Ritsuki )是一名从2018年8月31日在YouTube开始活动的VTuber，隶属于彩虹社的虚拟YouTuber。原SEEDs二期生。 | [萌娘百科](https://zh.moegirl.org.cn/樱凛月) |
 | natsumi kyouno | 镜野七罪 | ![](https://pic.cangku.moe/images/2025/09/04/1125K.webp)<br>![](https://pic.cangku.moe/images/2025/09/04/11PqT.webp)<br>所属作品：`date a live`<br>性格消极自卑，身材娇小，尤其对自己的外貌不自信，所以使用精灵的能力将自己变为大姐姐形态，御姐的外表下隐藏着萝莉形态。 | [萌娘百科](https://zh.moegirl.org.cn/镜野七罪) |
-| otogi | 音葵 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_805/h_1186/829/399789/2024/4/14/508341.png)SRT特殊学园FOX小队的狙击手，代号为FOX4。 | [Gamekee百科](https://www.gamekee.com/ba/591005.html) |
 | ein | 无 \| 爱因 | ①所属作品 `goddess of victory nikke`<br>![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/df/Ein_%28Handmade_Festa%29_FB.png)<br><br>————<br>②所属作品`p:blue archive`<br>![](https://static.wikia.nocookie.net/blue-archive/images/8/8c/Ein_Portrait.png) | [Gamekee百科 蔚蓝档案](https://www.gamekee.com/ba/607316.html)<br>[Gamekee百科 妮姬](https://www.gamekee.com/nikke/tj/590070.html) |
 | ohr | 光 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_489/h_908/829/191981/2024/6/2/711028.png)神明十文字三人组之一。 | [Gamekee百科](https://www.gamekee.com/ba/607318.html) |
 | sof | 限 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_381/h_893/829/191981/2024/6/2/334254.png)神明十文字三人组之一。 | [Gamekee百科](https://www.gamekee.com/ba/607320.html) |
@@ -6875,7 +6874,7 @@ example:
 | scarlet el vandimion | 斯嘉丽·艾尔·范迪米昂 | ![](https://img.moegirl.org.cn/common/f/f2/斯卡蕾特·艾尔·班迪米昂.png)<br>所属作品：`saigo ni hitotsu dake onegai shite mo yoroshii deshou ka`<br>作为范迪米昂公爵家的千金，她因冷艳的外貌获称'冰之蔷薇'。 | [萌娘百科](https://zh.moegirl.org.cn/斯卡蕾特·艾尔·班迪米昂) |
 | isabel | 伊莎贝尔 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/98/Isabel_%28Honeymoon_Party%29_FB.png)<br>所属作品：`goddess of victory nikke` | [https://www.gamekee.com/nikke/tj/170852.html](https://www.gamekee.com/nikke/tj/170852.html) |
 | nihilister | 尼希利斯塔 | ![](https://pic.cangku.moe/images/2025/11/13/1uzZo.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/tj/156441.html) |
-| mermaid | 小美人鱼（妮姬） | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/59/Little_Mermaid_FB.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/tj/156441.html) |
+| mermaid | 小美人鱼 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/59/Little_Mermaid_FB.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/tj/156441.html) |
 | teresse | 泰瑞丝 | 所属作品：`brave nine`<br>阿尔敏家族的爱女。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_932/h_1084/50118/43758/2025/0/22/106283.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_431/h_928/50118/43758/2025/0/22/364973.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1240/h_1240/50118/497891/2025/7/18/461657.png) | [https://www.gamekee.com/zsca2/tj/593606.html](https://www.gamekee.com/zsca2/tj/593606.html) |
 | nebris | 内布利斯 | 所属作品：`brave nine`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_698/h_1240/50118/236746/2025/0/22/44790.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_652/h_1386/50118/236746/2025/0/22/57067.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_500/h_1104/50118/236746/2025/0/22/908491.webp) | [https://www.gamekee.com/zsca2/tj/625800.html](https://www.gamekee.com/zsca2/tj/625800.html) |
 | zenith | 杰尼斯 | 所属作品：`brave nine`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_981/h_1313/50118/497891/2025/0/21/509096.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_537/h_1129/50118/497891/2025/6/2/505308.png) | [https://www.gamekee.com/zsca2/tj/603226.html](https://www.gamekee.com/zsca2/tj/603226.html) |
@@ -7021,7 +7020,7 @@ example:
 | quency | 坎西 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c4/Quency_FB.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/tj/580948.html) |
 | k | K | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2b/K_FB.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/tj/156441.html) |
 | ziz | 席兹 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8a/Ziz_FB.png)<br>所属作品：`goddess of victory nikke` |  |
-| leviathan | 利维坦（妮姬） | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4a/Leviathan_FB.png)<br>所属作品：`goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Leviathan) |
+| leviathan | 利维坦 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4a/Leviathan_FB.png)<br>所属作品：`goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Leviathan) |
 | behemoth | 贝希摩斯 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/29/Behemoth_FB.png)<br>所属作品：`goddess of victory nikke` |  |
 | kudelia aina bernstein | 古荻莉亚·蓝娜·伯恩斯坦 | 古荻莉亚·蓝娜·伯恩斯坦（クーーデリア・藍那・バーンスタイン）是日本动画《机动战士高达：铁血的奥尔芬斯》中的角色 |  |
 | mirai yashima | ‌米莱·八洲 | ‌米莱·八洲（Mirai Yashima）是《机动战士高达》系列中的重要角色，原名米莱·八洲，后改姓诺亚（Noa），是布莱特·诺亚的妻子，哈特哈韦·诺亚和切米姆·诺亚的母亲‌。 |  |
@@ -8367,7 +8366,7 @@ example:
 | noriko nijou | 二条乃梨子 | ![](https://static.wikia.nocookie.net/mariasama/images/2/26/48258.jpg)<br>所属作品：`maria-sama ga miteru` |  |
 | hayuru himekawa | 姬川映流 | ![](https://static.wikia.nocookie.net/masou-gakuen-hxh/images/4/4b/Himekawa_Hayuru_Anime.png)<br>所属作品：`masou gakuen hxh`<br>日文：ひめかわはゆる |  |
 | reiri hida | 飞弾怜悧 | ![](https://static.wikia.nocookie.net/masou-gakuen-hxh/images/9/9f/Hida_Reiri_Anime.png)<br>所属作品：`masou gakuen hxh` |  |
-| mori | 森（妮姬） | ![](https://static.dotgg.gg/nikke/characters/c590_00.webp)<br>所属作品：`goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Mori) |
+| mori | 森 | ![](https://static.dotgg.gg/nikke/characters/c590_00.webp)<br>所属作品：`goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Mori) |
 | satoko kusagakure | 草隐里子 | ![](https://static.wikia.nocookie.net/ninkoro/images/6/61/Satoko.png)<br>出自作品：`p:ninja to koroshiya no futarigurashi` | [萌娘百科](https://zh.moegirl.org.cn/忍者×杀手二人组的日常生活#登场人物) |
 | fiona gilman | 菲欧娜·吉尔曼 | ![](https://patchwiki.biligame.com/images/dwrg/d/d9/niyou5az6zmufydxatg6ohu8t5umlvk.png)<br>出自作品：`p:identity v`<br><br>菲欧娜·吉尔曼是一位神秘主义者，自称为犹格·索托斯信徒的她总是随身携带着一枚古怪的金属环。菲欧娜宣称是主引导自己来到这个庄园，但没人相信她的说辞。 | [BILIGAME WIKI](https://wiki.biligame.com/dwrg/祭司#【官网角色介绍】) |
 | atsumi munakata | 栋方爱海 | ![](https://patchwiki.biligame.com/images/imascg/7/79/fyiesi88r61ecu4bgtybti1ak6v4xko.png)<br>出自作品：`p:the idolmaster`<br><br>栋方爱海（日语：棟方むなかた 愛海あつみ）是BNEI与Cygames开发的手机社群游戏《偶像大师 灰姑娘女孩》系列中的登山家偶像。 | [BILIGAME WIKI](https://wiki.biligame.com/imascg/栋方爱海) |
@@ -8867,7 +8866,7 @@ example:
 | orisa | 奥丽莎 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/OW2-Orisa.png)<br>出自作品：`p:overwatch` |  |
 | reaper | 死神（守望先锋） | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8c/OW2_Reaper.png)<br>出自作品：`p:overwatch` |  |
 | hanzo | 岛田半藏 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/OW2_Hanzo.png)<br>出自作品：`p:overwatch` |  |
-| mccree | 麦克雷 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/OW2_Cassidy.png)<br>出自作品：`p:overwatch` |  |
+| cole cassidy | 科尔·卡西迪 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/OW2_Cassidy.png)<br>出自作品：`p:overwatch` |  |
 | huang yan | 黄嫣 | ![](https://ehgt.org/w/02/305/30466-8usrwxvc.webp)<br>所属作品：`wuchang fallen feathers` |  |
 | tatewaki kuno | 九能带刀 | ![](https://static.wikia.nocookie.net/ranma/images/4/43/Tatewaki_Kuno_%28Anime_2024%29.png)<br>所属作品：`ranma 12` |  |
 | rikka inohana | 井之华六花 | ![](https://static.wikia.nocookie.net/mayonaka-heart-tune/images/3/39/Rikka_Inohana_Anime.png)<br>所属作品：`mayonaka heart tune` |  |
@@ -9292,7 +9291,6 @@ example:
 | a.b.a | A.B.A | ![](https://static.wikia.nocookie.net/guilty-gear/images/3/31/ABA_Guilty_Gear_Strive.png)<br>日语：アバ<br>所属作品：`guilty gear` |  |
 | sol badguy | 索尔·巴得凯 | ![](https://static.wikia.nocookie.net/guilty-gear/images/6/66/Sol_Guilty_Gear_Strive.png)<br>日语：ソル＝バッドガイ<br>所属作品：`guilty gear` |  |
 | giovanna | 乔凡娜 | ![](https://static.wikia.nocookie.net/guilty-gear/images/c/c7/Giovanna_Guilty_Gear_Strive.png)<br>日语：ジオヴァーナ<br>所属作品：`guilty gear` |  |
-| tsurugi kenzaki | 剑先鹤城 | ![](https://patchwiki.biligame.com/images/ba/6/66/pkdfqj467ei44b1z9ndjkluz2pkfqq6.png)<br>所属作品:`blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Tsurugi)<br>[萌娘百科](https://zh.moegirl.org.cn/剑先弦生) |
 | kanan takakiyo | 高洁迦楠 | ![](https://static.wikia.nocookie.net/kanansama-is-easy-as-hell/images/8/83/Kanan_anime_fullbody.png)<br>日语：高潔カナン<br>所属作品：`kanan-sama wa akumade choroi` |  |
 | miyu kato | 美优·卡托乌 | ![](https://static.wikia.nocookie.net/bravesaga7855/images/6/60/BBBB-Miyu.png)<br>日语：ミユ・カトウ<br>所属作品：`yuuki bakuhatsu bang bravern` |  |
 | nagisa kashiwagi | 柏木渚 | ![](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/4/43/KashiwagiAnime.png)<br>所属作品：`kaguya-sama wa kokurasetai` |  |
@@ -9341,7 +9339,6 @@ example:
 | julius reinberg | 尤里乌斯·连恩伯格 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/e/e4/Julius_Rainburg_Anime_Character_Render.png)<br>日语：ユリウス・レインバーグ<br>所属作品：`tsue to tsurugi no wistoria` |  |
 | kingston | 金斯顿 | ![](https://static.wikia.nocookie.net/fortnite/images/8/8e/Kingston_%28Featured%29_-_Outfit_-_Fortnite.png)<br>所属作品：`fortnite` |  |
 | iruru yorozu | 万容 | ![](https://static.wikia.nocookie.net/world-dai-star/images/d/dc/Iruru_game_casual.png)<br>日语：萬容<br>所属作品：`world dai star` |  |
-| laevatain | 莱万汀 | ![](https://patchwiki.biligame.com/images/zmd/c/c8/1h12ht6qwxevwplur66rdpi74pnexms.png)<br>所属作品 `p:arknights endfield` | [萌娘百科](https://zh.moegirl.org.cn/莱万汀) |
 | traptrix cularia | 兔藻之虫惑魔 | ![](https://static.wikia.nocookie.net/yugioh/images/d/df/TraptrixCularia-SDBT-EN-C-1E.png)<br>所属作品：`yu-gi-oh` |  |
 | frye onaga | 乌茨霍 | ![](https://static.wikia.nocookie.net/splatoon/images/0/06/Frye_Render.png)<br>所属作品：`splatoon` |  |
 | inkling | 墨灵 | ![](https://static.wikia.nocookie.net/splatoon/images/9/97/S3_Inkling_Girl.png)<br>所属作品：`splatoon` |  |
@@ -9440,7 +9437,7 @@ example:
 | siro | 电脑少女小白 | 电脑少女小白（Dennou Shojo Siro）是日本最早也是最具代表性的虚拟YouTuber（VTuber）之一。她也常被称为“小白”或代号“46”，在2019年播出的VTuber群像番剧《VIRTUALSAN - LOOKING》中担任主要角色。--来自谷歌AI预览 |  |
 | hikari minowa | 三轮光 | ![](https://static.wikia.nocookie.net/aikatsu/images/a/aa/螢幕快照_2014-07-12_下午04.30.48.png/revision/latest?cb=20180813150851)<br>所属作品：`aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/三轮光) |
 | shigure kosaka | 香坂时雨 | ![](https://static.wikia.nocookie.net/kenichi/images/e/e1/Shigure_01.jpg/revision/latest/scale-to-width-down/268?cb=20131204025616)<br>出自作品：`p:historys strongest disciple kenichi`<br><br>香坂时雨是由松江名俊创作的漫画《史上最强弟子兼一》及其衍生作品的登场角色。 | [Fandom](https://kenichi.fandom.com/wiki/Shigure_Kōsaka) \| [萌娘百科](https://zh.moegirl.org.cn/香坂时雨) |
-| haru endou | 円堂春 | ![](https://static.wikia.nocookie.net/inazuma-eleven/images/7/7e/Endou_Haru.png)<br>日语：円堂 ハル<br>所属作品：`inazuma eleven` |  |
+| haru endou | 圆堂晴 | ![](https://static.wikia.nocookie.net/inazuma-eleven/images/7/7e/Endou_Haru.png)<br>日语：円堂 ハル<br>所属作品：`inazuma eleven` |  |
 | ema hinata | 日向绘麻 | ![](https://static.wikia.nocookie.net/aikatsu-friends/images/a/a3/Charaimg_ema.png/revision/latest?cb=20180329151555)<br>所属作品:`aikatsu friends` | [萌娘百科](https://zh.moegirl.org.cn/日向绘麻) |
 | maika chouno | 蝶乃舞花 | ![](https://static.wikia.nocookie.net/aikatsu-friends/images/6/6c/Charaimg_maika02.png/revision/latest?cb=20190408003239)<br>所属作品:`aikatsu friends` | [萌娘百科](https://zh.moegirl.org.cn/蝶乃舞花) |
 | aru | 存流 |  |  |
@@ -9448,8 +9445,8 @@ example:
 | mana kase | 嘉濑茉奈 | ![](https://static.wikia.nocookie.net/d4dj/images/6/6d/Kase_Mana.png)<br>日语：嘉瀬茉奈<br>所属作品：`dig delight direct drive dj` |  |
 | shano himegami | ‌姬神纱乃 | ![](https://static.wikia.nocookie.net/d4dj/images/b/bf/Himegami_Shano_Img.png)<br>日语：姫神紗乃<br>所属作品：`dig delight direct drive dj` |  |
 | airi amano | 天野愛莉 | ![](https://static.wikia.nocookie.net/d4dj/images/a/a3/Amano_Airi_Img.png)<br>日语：天野愛莉<br>所属作品：`dig delight direct drive dj` |  |
-| nolan grayson | 诺兰·格雷森（全能侠） | ![](https://static.wikia.nocookie.net/amazon-invincible/images/8/89/Omni-Man_S2.png)<br>所属作品：`invincible` |  |
-| zoe thompson | 佐伊·汤普森（科技夹克） | ![](https://static.wikia.nocookie.net/amazon-invincible/images/9/99/Zoe_Thompson.jpeg)<br>本名扎克·汤普森（Zack Thompson）<br>所属作品：`invincible` |  |
+| nolan grayson | 诺兰·格雷森 | ![](https://static.wikia.nocookie.net/amazon-invincible/images/8/89/Omni-Man_S2.png)<br>所属作品：`invincible` |  |
+| zoe thompson | 佐伊·汤普森 | ![](https://static.wikia.nocookie.net/amazon-invincible/images/9/99/Zoe_Thompson.jpeg)<br>本名扎克·汤普森（Zack Thompson）<br>所属作品：`invincible` |  |
 | gsc president | 联邦学生会长 | ![](https://static.wikia.nocookie.net/blue-archive/images/c/ce/GSC_President_Portrait.png)<br>日语：連邦生徒会長<br>所属作品：`blue archive` |  |
 | shushu tina | 舒舒蒂纳 | ![](https://pbs.twimg.com/profile_images/1819700195786936320/6SAhZe_D_400x400.jpg)<br>日语：しゅしゅ てぃな<br>个人势Vtuber。 | [YouTube](https://www.youtube.com/@ShushuTina) \| [X](https://x.com/shushu_tina) |
 | togame | 咎儿 | とがめ |  |
@@ -9470,9 +9467,9 @@ example:
 | michiru kagemori | 影森满 | ![](https://static.wikia.nocookie.net/brand-new-animal/images/1/1a/Michiru_Kagemori.png/revision/latest?cb=20200728034337)<br>![](https://static.wikia.nocookie.net/brand-new-animal/images/8/8c/Human_Michiru.png/revision/latest?cb=20200311025345)<br>日语：影森みちる（かげもり みちる）<br>所属作品:`bna brand new animal` | [萌娘百科](https://zh.moegirl.org.cn/影森满) |
 | nazuna hiwatashi | 日渡荠 | ![](https://static.wikia.nocookie.net/brand-new-animal/images/c/cc/Nazuna_Hiwatashi.png/revision/latest?cb=20200311001752)<br>![](https://static.wikia.nocookie.net/brand-new-animal/images/d/dd/Fox_Nazuna_Render.png/revision/latest?cb=20200507033209)<br>![](https://static.wikia.nocookie.net/brand-new-animal/images/b/b4/Beast_Nazuna.png/revision/latest?cb=20200509005809)<br>日语：日渡なずな（ひわたし なずな）<br>所属作品:`bna brand new animal` | [萌娘百科](https://zh.moegirl.org.cn/日渡荠) |
 | carnelian | 卡涅利安 | ![](https://patchwiki.biligame.com/images/arknights/1/1e/mncg23m6u5e57rqtl9abendcmcnka4t.png)<br>所属作品：`arknights` |  |
-| mai xiaowen | 麦晓雯（骇爪） | 所属作品：`delta force` |  |
-| claire ann byers | 莱尔·安·拜尔斯（暴风雨） | 简中文化圈外号“张姐”<br>所属作品：`delta force` |  |
-| flonne | 芙蓉（魔界战记） |  |  |
+| mai xiaowen | 麦晓雯 | 所属作品：`delta force` |  |
+| claire ann byers | 莱尔·安·拜尔斯 | 简中文化圈外号“张姐”<br>所属作品：`delta force` |  |
+| flonne | 芙蓉 |  |  |
 | izumi curtis | 泉·卡迪斯 | ![](https://static.wikia.nocookie.net/fma/images/a/a7/Izumi01.jpg)<br>出自作品：`p:fullmetal alchemist`<br><br>日语：イズミ・カーティス | [Fandom](https://fma.fandom.com/wiki/Izumi_Curtis) |
 | tangtang | 汤汤 | ![](https://patchwiki.biligame.com/images/zmd/thumb/b/bf/edk65gcbjqwwe1z6lnkbtexx9oao96x.png/1200px-汤汤立绘.png)<br>所属作品：`arknights endfield` |  |
 | snowshine | 昼雪 | ![](https://patchwiki.biligame.com/images/zmd/8/89/bilf7bvb0hgcrb69pm71c4jg1mmw7u8.png)<br>所属作品：`arknights endfield` |  |
