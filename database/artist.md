@@ -15299,6 +15299,7 @@ example:
 | sanuki | さ抜き |  | [pixiv](https://www.pixiv.net/users/9888246) \| [Patreon](https://www.patreon.com/sanuki) \| [X](https://x.com/NukiSanuki) \| [Fantia](https://fantia.jp/fanclubs/6327) \| [FANBOX](https://sanuki.fanbox.cc/) \| [Skeb](https://skeb.jp/@NukiSanuki) |
 | nakaishow | 名飼証 |  |  |
 | dusu | づす |  |  |
+| takahashi kouta | 高橋しじみ（高橋康太） | 高橋しじみ - 男性向<br>高橋 康太 - 女性向 | [X](https://x.com/komaturiomochi) [pixiv](https://www.pixiv.net/users/6709698) |
 
 <!--TEMPLATE:
 |  |  |  |  |
