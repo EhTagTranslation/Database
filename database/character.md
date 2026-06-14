@@ -9492,6 +9492,7 @@ example:
 | aromalilith rosemary | 芳香魔女 迷迭香 | ![](https://static.wikia.nocookie.net/yugioh/images/b/b3/AromalilithRosemary-PHNI-EN-SR-1E.png)<br>日语：アロマリリス－ローズマリー<br>所属作品：`yu-gi-oh` |  |
 | nagi nanami | 七海凪 | ![](https://t.vndb.org/ch/10/192810.jpg)<br>所属作品：`relirium` |  |
 | hai tien | 海天 | ![](https://patchwiki.biligame.com/images/blhx/thumb/3/30/hg13ddtmgoq9qosk1eby7u05cs03560.jpg/525px-海天立绘.jpg)<br>所属游戏: `azur lane` | [BILIGAME WIKI](https://wiki.biligame.com/blhx/海天) |
+| ao gennai | 源内 苍 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/4f/Charactor_ao.png)<br>由寿屋发售的机器人塑料模型“FRAME ARMS”系列的拟人化企划《FRAME ARMS GIRL》其衍生TV动画作品的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/源内苍) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
