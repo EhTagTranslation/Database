@@ -4094,7 +4094,7 @@ example:
 | daidenjin koubou | 大電人工房 |  |  |
 | daiginjou masshigura | 大吟醸まっしぐら |  |  |
 | daiichi denshi | 第一電子 |  |  |
-| daiichi yutakasou | 第壱ユタカ荘 |  |  |
+| daiichi yutakasou | 第壱ユタカ荘 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=208061/) |
 | daiji na koto wa nikai mo iwanai | 大事なことは二回も言わない |  |  |
 | daijobi kenkyuujo | ダイジョビ研究所 |  |  |
 | daikichi-ya | だいきち屋 |  |  |
