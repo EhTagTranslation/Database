@@ -9511,6 +9511,7 @@ example:
 | meika yorozuba | 万场盟华 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/4/4f/6c7lssebd51bdxfocu24jac2a224ad1.png) | [https://wikiwiki.jp/alicegear/萬場盟華](https://wikiwiki.jp/alicegear/萬場盟華)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/萬場_盟華) |
 | anna usamoto | 宇佐元杏奈 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)![](https://patchwiki.biligame.com/images/aga/6/69/74al7gzuxj2ssbo239dvcypsd0dwl7k.png) | [https://wikiwiki.jp/alicegear/宇佐元杏奈](https://wikiwiki.jp/alicegear/宇佐元杏奈)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/宇佐元_杏奈) |
 | koyui ohzeki | 大关小结 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/d/d0/bo2hx4ia84xrqg6zt2gem47nb6tje5j.png) | [https://wikiwiki.jp/alicegear/大関小結](https://wikiwiki.jp/alicegear/大関小結)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/大関_小結) |
+| bukiko kotobuki | 寿武希子 | 由寿屋发售的机器人塑料模型“FRAME ARMS”系列的拟人化企划《FRAME ARMS GIRL》其衍生TV动画作品的登场角色。<br>![](https://tv.fagirl.com/images/story/12/photo_009.png) | [百度百科](https://baike.baidu.com/item/寿武希子/20782955) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
