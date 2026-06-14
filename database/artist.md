@@ -13096,7 +13096,7 @@ example:
 | amaki | あまき |  | [pixiv](https://www.pixiv.net/users/14849343) [X](https://x.com/amaki_2083) |
 | puru | puru |  | [pixiv](https://www.pixiv.net/users/14038103) |
 | sheryama | シャーやま |  | [pixiv](https://www.pixiv.net/users/41843853) |
-| hoshara | ほしゃら |  |  |
+| hoshara | ほしゃら |  | [FANBOX](https://hoshara.fanbox.cc/) \| [X](https://x.com/Hoshara) \| [pixiv](https://www.pixiv.net/users/4170312) \| [Pawoo](https://pawoo.net/@hoshara) |
 | panna | ぱんな |  |  |
 | sabuustar | さぶ～☆ |  |  |
 | mokuyama hito | 木山ヒト |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22木山ヒト%22/ana_flg/all) |
