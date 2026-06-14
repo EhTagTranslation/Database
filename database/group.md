@@ -3678,7 +3678,7 @@ example:
 | cherry snow | ちぇり☆すの |  |  |
 | cherry soft | ちぇりーそふと |  |  |
 | chest box | ちぇすとぼっくす |  |  |
-| chested | chested |  |  |
+| chested | chested |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG36806.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74406/) |
 | chestnut tree | chestnut tree |  |  |
 | chibineco honpo | ちびねこ本舗 |  |  |
 | chicchi bokujou | チッチ牧場 |  |  |
