@@ -9509,6 +9509,7 @@ example:
 | akane kotomura | 琴村朱音 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/c/cf/3v4h9sx334p9cmv4qff998blvi68ahl.png) | [https://wikiwiki.jp/alicegear/琴村朱音](https://wikiwiki.jp/alicegear/琴村朱音)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/琴村_朱音) |
 | mia voisin | 米娅・V | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/a/a3/bbw7s5quponx3a4jmsmwl8pd4vkuqzd.png) | [https://wikiwiki.jp/alicegear/ミア・ヴォワザン](https://wikiwiki.jp/alicegear/ミア・ヴォワザン)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/ミア・V) |
 | meika yorozuba | 万场盟华 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/4/4f/6c7lssebd51bdxfocu24jac2a224ad1.png) | [https://wikiwiki.jp/alicegear/萬場盟華](https://wikiwiki.jp/alicegear/萬場盟華)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/萬場_盟華) |
+| anna usamoto | 宇佐元杏奈 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)![](https://patchwiki.biligame.com/images/aga/6/69/74al7gzuxj2ssbo239dvcypsd0dwl7k.png) | [https://wikiwiki.jp/alicegear/宇佐元杏奈](https://wikiwiki.jp/alicegear/宇佐元杏奈)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/宇佐元_杏奈) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
