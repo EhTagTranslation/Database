@@ -8463,7 +8463,7 @@ example:
 | nekonetoru | ネコネトル |  |  |
 | nekonin-so | 猫忍荘 |  |  |
 | nekono kaweruya | ネコノカヱルヤ |  |  |
-| nekonohoshi | ネコノホシ |  |  |
+| nekonohoshi | ネコノホシ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG40714.html) \| [Ci-en](https://ci-en.dlsite.com/creator/6155) \| [pixiv](https://www.pixiv.net/users/30597634) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75942/) |
 | nekonote shobou | ねこのてしょぼう |  |  |
 | nekopunch bashibashi | ねこぱんちバシバシ |  |  |
 | nekoranbu | 猫乱舞 |  |  |
