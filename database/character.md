@@ -2988,7 +2988,7 @@ example:
 | rita henschel | リタ・ヘンシェル | ![〇〇式戦闘服](https://cdn.wikiwiki.jp/to/w/alicegear/リタ・ヘンシェル/::attach/パイロットスーツ.jpg?rev=278290c9db52b4215742b21b58311ea9&t=20181115154357) | [アリス・ギア・アイギス 攻略 Wiki](https://wikiwiki.jp/alicegear/リタ・ヘンシェル) |
 | serina niiya | 新谷芹菜 | ![〇〇式戦闘服](https://cdn.wikiwiki.jp/to/w/alicegear/新谷芹菜/::attach/００式戦闘服.png?rev=1f02240d54a4f0b0a3a0dec3f4a9c32e&t=20180329215836) | [アリス・ギア・アイギス 攻略 Wiki](https://wikiwiki.jp/alicegear/新谷芹菜) |
 | shirley oakley | シャーリー・オークレイ | ![〇〇式戦闘服](https://cdn.wikiwiki.jp/to/w/alicegear/シャーリー・オークレイ/::attach/〇〇式戦闘服.png?rev=460015bec8b073696735c2ad04431944&t=20190323012358) | [アリス・ギア・アイギス 攻略 Wiki](https://wikiwiki.jp/alicegear/シャーリー・オークレイ) |
-| shitara kaneshiya | 兼志谷シタラ | ![八八式戦闘服](https://cdn.wikiwiki.jp/to/w/alicegear/兼志谷シタラ/::attach/八八式戦闘服.png?rev=65e320be1f32236a0b4324198479e3cb&t=20180131211309) | [アリス・ギア・アイギス 攻略 Wiki](https://wikiwiki.jp/alicegear/兼志谷シタラ) |
+| shitara kaneshiya | 兼志谷星 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/5/5d/e52ovesfh6llfq8jvixmb3a445plwwf.png) | [アリス・ギア・アイギス 攻略 Wiki](https://wikiwiki.jp/alicegear/兼志谷シタラ)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/兼志谷_星) |
 | rin himukai | 日向リン | ![DM00-M](https://cdn.wikiwiki.jp/to/w/alicegear/日向リン/::attach/DM00-M.png?rev=a230241b092d55a34841202ba674a4a5&t=20180131213513) | [アリス・ギア・アイギス 攻略 Wiki](https://wikiwiki.jp/alicegear/日向リン) |
 | giorno giovanna | 乔鲁诺·乔巴拿 | 漫画JOJO的奇妙冒险第五部黄金之风的主角。<br>第一部和第三部的反派BOSS迪奥·布兰度的儿子。 | [萌娘百科](https://zh.moegirl.org.cn/乔鲁诺·乔巴拿) |
 | belzerg stylish sword iris | 贝尔泽古·斯黛莉休·索德·爱丽丝 | ![](https://ehgt.org/w/01/989/03951-co88u0m3.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o` |  |
