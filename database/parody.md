@@ -2858,6 +2858,7 @@ example:
 | super no ura de yani suu futari | 在超市后门吸烟的二人 | ![](https://upload.wikimedia.org/wikipedia/en/f/f3/Super_no_Ura_de_Yani_Suu_Hanashi_Behind_the_Supermarket%2C_Smoking_With_You.png)<br>日本漫画家地主创作的漫画，并有改编动画。 |  |
 | relirium | 遗迹与相遇与冒险 | ![](https://t.vndb.org/cv.t/79/123979.jpg)<br>游戏品牌 Whirlpool（漩涡社）的‌20 周年纪念最终作。<br>完整名称‌：Relirium -レリリウム - 遺跡と出逢いと冒険と |  |
 | kimi to kanojo to kanojo no koi. | 你和她和她的恋爱。 | Nitro+游戏 |  |
+| w.l.o. sekai renai kikou | W.L.O 世界恋爱机构 | 典型日本人思维命名方式 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
