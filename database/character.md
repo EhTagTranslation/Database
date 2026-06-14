@@ -9491,6 +9491,7 @@ example:
 | kureha sakamachi | 坂町红羽 |  |  |
 | aromalilith rosemary | 芳香魔女 迷迭香 | ![](https://static.wikia.nocookie.net/yugioh/images/b/b3/AromalilithRosemary-PHNI-EN-SR-1E.png)<br>日语：アロマリリス－ローズマリー<br>所属作品：`yu-gi-oh` |  |
 | nagi nanami | 七海凪 | ![](https://t.vndb.org/ch/10/192810.jpg)<br>所属作品：`relirium` |  |
+| hai tien | 海天 | ![](https://patchwiki.biligame.com/images/blhx/thumb/3/30/hg13ddtmgoq9qosk1eby7u05cs03560.jpg/525px-海天立绘.jpg)<br>所属游戏: `azur lane` | [BILIGAME WIKI](https://wiki.biligame.com/blhx/海天) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
