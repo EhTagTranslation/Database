@@ -9502,6 +9502,7 @@ example:
 | rei takanashi | 小鸟游怜 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/3/3c/clzdf8j5earjky4zxjlgidle2uceq1e.png) | [https://wikiwiki.jp/alicegear/小鳥遊怜](https://wikiwiki.jp/alicegear/小鳥遊怜)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/小鳥遊_怜) |
 | mai nikotama | 二子玉舞 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/a/a6/95oar2m10z67q9s480w3l2y0z1rp9a5.png) | [https://wikiwiki.jp/alicegear/二子玉舞](https://wikiwiki.jp/alicegear/二子玉舞)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/二子玉_舞) |
 | neo itokura | 伊户仓音绪 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/a/ac/bul2nr64d3iagzyygbqrjjuaaz5nif4.png) | [https://wikiwiki.jp/alicegear/伊戸倉音緒](https://wikiwiki.jp/alicegear/伊戸倉音緒)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/伊戸倉_音緒) |
+| chie shinonome | 东云千惠 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/3/31/r91veretgdy64n1rmi4du1mhilv88s0.png) | [https://wikiwiki.jp/alicegear/東雲チヱ](https://wikiwiki.jp/alicegear/東雲チヱ)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/東雲_チヱ) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
