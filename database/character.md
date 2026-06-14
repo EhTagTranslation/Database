@@ -9496,7 +9496,7 @@ example:
 | aika aikawa | 相河爱花 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/e/e3/j822wre8yyqq8ps6yp947fhndfbjo6n.png) | [BILIGAME WIKI](https://wiki.biligame.com/aga/相河_爱花) |
 | ayaka ichijo | 一条绫香 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/a/a3/k0x32hrl3a6rhg8j0kk8eqjjzcbz8tl.png) | [BILIGAME WIKI](https://wiki.biligame.com/aga/一条_绫香) |
 | mutsumi koashi | 小芦睦海 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/e/ea/s2bldqjv1an7p9x2hzhebn8rabc2bpk.png) | [BILIGAME WIKI](https://wiki.biligame.com/aga/小芦_睦海) |
-| yotsuyu hirasaka | 比良坂夜露 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/3/38/qmv2ufdafkofgxm4p5qe21v7pacixgk.png) | [BILIGAME WIKI](https://wiki.biligame.com/aga/比良坂_夜露) |
+| yotsuyu hirasaka | 比良坂夜露 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/3/38/qmv2ufdafkofgxm4p5qe21v7pacixgk.png) | [https://wikiwiki.jp/alicegear/比良坂夜露](https://wikiwiki.jp/alicegear/比良坂夜露)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/比良坂_夜露) |
 | fumika momoshina | 百科文嘉 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/9/90/owdcowch5jdm1p8jpitexmd1f1zsleo.png) | [BILIGAME WIKI](https://wiki.biligame.com/aga/百科_文嘉) |
 
 <!--TEMPLATE: 
