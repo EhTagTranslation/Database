@@ -9498,6 +9498,7 @@ example:
 | mutsumi koashi | 小芦睦海 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/e/ea/s2bldqjv1an7p9x2hzhebn8rabc2bpk.png) | [BILIGAME WIKI](https://wiki.biligame.com/aga/小芦_睦海) |
 | yotsuyu hirasaka | 比良坂夜露 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/3/38/qmv2ufdafkofgxm4p5qe21v7pacixgk.png) | [https://wikiwiki.jp/alicegear/比良坂夜露](https://wikiwiki.jp/alicegear/比良坂夜露)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/比良坂_夜露) |
 | fumika momoshina | 百科文嘉 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/9/90/owdcowch5jdm1p8jpitexmd1f1zsleo.png) | [BILIGAME WIKI](https://wiki.biligame.com/aga/百科_文嘉) |
+| kanade nikitoh | 仁纪藤奏 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/e/ec/6g1c37ureykjv3jbcnhohqbkfp8jy3w.png) | [https://wikiwiki.jp/alicegear/仁紀藤奏](https://wikiwiki.jp/alicegear/仁紀藤奏)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/仁紀藤_奏) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
