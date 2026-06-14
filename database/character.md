@@ -9506,6 +9506,7 @@ example:
 | shiina sutegoro | 州天顷椎奈 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/b/b0/ldlisv575byzpworwwps0axaf618b36.png) | [https://wikiwiki.jp/alicegear/州天頃椎奈](https://wikiwiki.jp/alicegear/州天頃椎奈)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/州天頃_椎奈) |
 | emi garyuu | 我龙绘美 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/0/04/o45r95jprmav06jvn0o1xxynoc4e4z9.png) | [https://wikiwiki.jp/alicegear/我龍絵美](https://wikiwiki.jp/alicegear/我龍絵美)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/我龍_絵美) |
 | mari jinguuji | 神宫寺真理 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/1/19/3uqh13qdhnv6xwx63pppprsu8lsqbzp.png) | [https://wikiwiki.jp/alicegear/神宮寺真理](https://wikiwiki.jp/alicegear/神宮寺真理)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/神宮寺_真理) |
+| akane kotomura | 琴村朱音 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/c/cf/3v4h9sx334p9cmv4qff998blvi68ahl.png) | [https://wikiwiki.jp/alicegear/琴村朱音](https://wikiwiki.jp/alicegear/琴村朱音)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/琴村_朱音) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
