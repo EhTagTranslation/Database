@@ -4341,7 +4341,7 @@ example:
 | louise | 露易兹 | 出自TH05-东方怪绮谈<br>![图](https://ehgt.org/60/86/608695114f39fa15298bcc2270fe5a37ca58f2bf-429316-1024-768-png_l.jpg)<br>![图](# "https://ehgt.org/f0/1c/f01c67233479cb85fb74bc1db9b5ad982e2beed9-750108-896-1262-png_l.jpg") |  |
 | ellen | 爱莲 | 出自TH03-东方梦时空<br>后面的女仆<br>![图](https://ehgt.org/a7/c8/a7c8413d68bac764b9247ee5382df92f4f28deff-859308-896-1262-png_l.jpg) |  |
 | kana anaberal | 卡娜·安娜贝拉尔 | 出自TH03-东方梦时空 |  |
-| misaki kagome | 笼目深沙希 | 所属作品: `p:alice gear aegis`<br>![图](https://ehgt.org/b7/02/b702122027516d74bebcc062854f549fdaf76205-62794-192-360-png_l.jpg) | [BWIKI](https://wiki.biligame.com/aga/籠目_深沙希) |
+| misaki kagome | 笼目深沙希 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/4/42/nxom660pa7tuv77eirsk79r1hruw6eo.png) | [https://wikiwiki.jp/alicegear/籠目深沙希](https://wikiwiki.jp/alicegear/籠目深沙希)<br>[BWIKI](https://wiki.biligame.com/aga/籠目_深沙希) |
 | momo hinamori | 雏森桃 | 所属作品：`bleach`<br>护廷十三队五番队副队长 | [Fandom](https://bleach.fandom.com/zh/wiki/雛森桃?variant=zh) |
 | chen hai | 镇海 | 所属作品：`p:azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/9159d88deb077fb566ded926e8a9ac1c262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/3da30709206fdb016856f0f4e6780c92262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/9d37e945849f9c64c16c35dafd090cad262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/ab08a4c88ddfa936a94a47d75eec576b262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/81930700ab204c118e940f3db1f1657b262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:镇海) |
 | leeloo minai lekatariba-lamina-tchai ekbat de sebat | Leeloo | 所属作品：`p:the fifth element` | [Fandom](https://fifth-element.fandom.com/wiki/Leeloo) |
