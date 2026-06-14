@@ -9514,6 +9514,7 @@ example:
 | bukiko kotobuki | 寿武希子 | 由寿屋发售的机器人塑料模型“FRAME ARMS”系列的拟人化企划《FRAME ARMS GIRL》其衍生TV动画作品的登场角色。<br>![](https://tv.fagirl.com/images/story/12/photo_009.png) | [百度百科](https://baike.baidu.com/item/寿武希子/20782955) |
 | hresvelgr | 大鹫 | 是由寿屋发售的机器人塑料模型“FRAME ARMS”系列的拟人化企划，其动画、漫画《FRAME ARMS GIRL》衍生作品的登场角色。<br>![](https://tv.fagirl.com/images/charactor_hresvelgr.png) | [萌娘百科](https://zh.moegirl.org.cn/大鹫) |
 | baselard | 猎刃 | 是由寿屋发售的机器人塑料模型“FRAME ARMS”系列的拟人化企划，其动画、漫画《FRAME ARMS GIRL》衍生作品的登场角色。<br>![](https://tv.fagirl.com/images/charactor_baselard.png) | [萌娘百科](https://zh.moegirl.org.cn/猎刃) |
+| gourai | 轰雷 | 是由寿屋发售的机器人塑料模型“FRAME ARMS”系列的拟人化企划，其动画、漫画《FRAME ARMS GIRL》衍生作品的登场角色。<br>![](https://tv.fagirl.com/images/charactor_gourai.png) | [萌娘百科](https://zh.moegirl.org.cn/轰雷https://zh.moegirl.org.cn/轰雷) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
