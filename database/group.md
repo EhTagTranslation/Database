@@ -12929,7 +12929,7 @@ example:
 | kanons november | Kanon's November |  |  |
 | sanbalkin | サンバルキン |  |  |
 | muramura murason | むらむら村ソン |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79918/) |
-| doushoku | どうしょく | 童貞食堂 |  |
+| doushoku | どうしょく | 童貞食堂 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70936/) |
 | platinum cape | プラチナケイプ |  |  |
 | unadondon | うな井井 |  |  |
 | tabibitto | たびびっと |  |  |
