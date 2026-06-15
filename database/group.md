@@ -1488,7 +1488,7 @@ example:
 | granada sky | グラナダの空 |  |  |
 | baraneko yougashi-ten | 薔薇猫洋菓子店 |  |  |
 | puu no puupuupuu | ぷぅのぷぅぷぅぷぅ |  |  |
-| dokusai switch | 独裁スイッチ |  |  |
+| dokusai switch | 独裁スイッチ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG23745.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29512/) |
 | junshain inoue | 准社员井上 |  |  |
 | mad order | MAD ORDER |  |  |
 | ochikonium | おちこにうむ |  |  |
