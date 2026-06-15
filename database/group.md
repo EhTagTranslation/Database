@@ -2565,7 +2565,7 @@ example:
 | aida. | 間。 |  |  |
 | aidon raiki | 合丼来来 |  |  |
 | aienkien | 愛鉛奇縁 |  |  |
-| aigamodou | あいがも堂 |  |  |
+| aigamodou | あいがも堂 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73316/) |
 | aigan shounen | 愛玩少年 |  |  |
 | aihara otome | 相原乙女 |  |  |
 | aiiro paradox | 藍色パラドックス |  |  |
