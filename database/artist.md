@@ -15300,6 +15300,7 @@ example:
 | nakaishow | 名飼証 |  |  |
 | dusu | づす |  |  |
 | takahashi kouta | 高橋しじみ（高橋康太） | 高橋しじみ - 男性向<br>高橋 康太 - 女性向 | [X](https://x.com/komaturiomochi) [pixiv](https://www.pixiv.net/users/6709698) |
+| kasabuta | memory |  | [pixiv](https://www.pixiv.net/users/78842939) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01006531.html) \| [BOOTH](https://memory1998.booth.pm/) \| [Pawoo](https://pawoo.net/@memory1225) \| [X](https://x.com/Memory5585) \| [Patreon](https://www.patreon.com/u84864627) \| [Fantia](https://fantia.jp/fanclubs/526815) |
 
 <!--TEMPLATE:
 |  |  |  |  |
