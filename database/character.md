@@ -1123,7 +1123,7 @@ example:
 |  | ▼ 小林家的龙女仆 角色 |  |  |
 | tohru | 托尔 | ![托尔](https://ehgt.org/99/f2/99f2dd26b7dcb9077a8a0d6d76c4d5d23823c0a7-1655459-3214-4084-jpg_l.jpg) |  |
 | kanna kamui | 康娜卡姆依 | ![康娜](https://ehgt.org/92/45/9245438047724c190da3fb17f94bf2351dae0916-505285-2000-3000-jpg_l.jpg) |  |
-| quetzalcoatl | 魁札尔科亚特尔 | ![尔科亚](https://ehgt.org/6d/35/6d35999b7fc306bf083385b823709f0a116926ff-1239359-1240-1850-jpg_l.jpg) |  |
+| quetzalcoatl | 魁札尔科亚特尔 | 魁札尔科亚特尔（Quetzalcoatl）是阿兹特克神话中的羽蛇神。牠在奥尔梅克时期就已经是神了(奥尔梅克时期比希腊化时代早1000多年)，几乎所有中美洲（直到阿兹特克）文化都以某种形式崇拜牠，甚至在特奥蒂瓦坎也有牠的金字塔。<br>魁札尔科亚特尔可以指：<br>魁札尔科亚特尔(露科亚/尔科亚)————《小林家的龙女仆》的登场角色。<br>![尔科亚](https://ehgt.org/6d/35/6d35999b7fc306bf083385b823709f0a116926ff-1239359-1240-1850-jpg_l.jpg)<br><br>魁札尔·科亚特尔(Fate)————《Fate系列》的登场角色。<br>![](https://static.wikia.nocookie.net/newkomica-kari/images/2/26/FGOケツァル・コアトル.jpg/revision/latest?cb=20240406170648&path-prefix=zh-tw)<br><br>魁札尔科亚特尔(Luck&Logic)————《Luck & Logic》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/魁札尔科亚特尔) |
 | kobayashi-san | 小林（龙女仆） | ![](https://static.wikia.nocookie.net/maid-dragon/images/5/59/Kobayashi_7.png)<br>所属作品：`kobayashi-san-chi no maid dragon` |  |
 | shouta magatsuchi | 真土翔太 | ![真土翔太](# "https://ehgt.org/34/16/3416452f9b22d84967c08df972385721bf124c7d-677363-661-935-png_l.jpg") |  |
 | riko saikawa | 才川莉子 |  |  |
