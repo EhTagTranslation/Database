@@ -3652,7 +3652,7 @@ example:
 | camonome | かものめ |  | [pixiv](https://www.pixiv.net/users/8814278) [X](https://x.com/camonome) |
 | shikigami kuroko | 式神くろ子 |  | [pixiv](https://www.pixiv.net/users/1289204) [X](https://x.com/kuroko71369840) |
 | coburaco | コブラノヲヤツ | ![图](https://ehgt.org/cb/95/cb95131960d78ec35d412f3187d15d91a6b85e69-26298-121-170-png_l.jpg) | [pixiv](https://www.pixiv.net/users/17419044) [X](https://x.com/cobcob18kin2) |
-| nemu | ネム |  | [pixiv](https://www.pixiv.net/users/572664) [X](https://x.com/fO6KQFCQBeYPpXb) |
+| nemu | ねむ |  | [pixiv](https://www.pixiv.net/users/572664) [X](https://x.com/fO6KQFCQBeYPpXb) |
 | yoshika | ヨシカ |  |  |
 | uduki takeru | 卯月たける |  |  |
 | yunagi amane | 忧凪天音 |  |  |
