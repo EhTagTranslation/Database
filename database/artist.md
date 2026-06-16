@@ -14518,7 +14518,7 @@ example:
 | hyouuma | Hyouuma | 哈哈，屁↗眼↘派↗对↘ | [X](https://x.com/Hyouuma)<br>[FANBOX](https://www.fanbox.cc/@genshin)<br>[pixiv](https://www.pixiv.net/users/20235288) |
 | nikumaru | 肉丸 |  |  |
 | naruse minami | 鳴瀬南 |  |  |
-| kazumaru | かずまる |  |  |
+| kazumaru | かずまる |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=f5c3dbfa-64d3-11f0-ba33-0242ac160002/section=mens/) |
 | anka tomoshibi | あんかともしび |  |  |
 | uzura dobin | うずら土瓶 |  | [FANBOX](https://uzuradobin.fanbox.cc) \| [X](https://x.com/uzuradobin) \| [pixiv](https://www.pixiv.net/users/75455434) |
 | nezumimochi | ネズミモチ |  |  |
