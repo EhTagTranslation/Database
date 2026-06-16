@@ -9517,7 +9517,7 @@ example:
 | gourai | 轰雷 | 是由寿屋发售的机器人塑料模型“FRAME ARMS”系列的拟人化企划，其动画、漫画《FRAME ARMS GIRL》衍生作品的登场角色。<br>![](https://tv.fagirl.com/images/charactor_gourai.png) | [萌娘百科](https://zh.moegirl.org.cn/轰雷https://zh.moegirl.org.cn/轰雷) |
 | stylet | 短剑 | 是由寿屋发售的机器人塑料模型“FRAME ARMS”系列的拟人化企划，其动画、漫画《FRAME ARMS GIRL》衍生作品的登场角色。<br>![](https://tv.fagirl.com/images/charactor_stylet.png) | [萌娘百科](https://zh.moegirl.org.cn/短剑%28机甲少女%29#) |
 | greifen | 格里芬 | 是由寿屋发售的机器人塑料模型“FRAME ARMS”系列的拟人化企划，其动画、漫画《FRAME ARMS GIRL》衍生作品的登场角色。<br>![](https://www.dalong.net/reviews/kotobukiya/fag28/th/s_fag28.jpg) | [https://www.kotobukiya.co.jp/product/detail/p4934054062140/](https://www.kotobukiya.co.jp/product/detail/p4934054062140/) |
-| subaru akehoshi | 明星スバル |  |  |
+| subaru akehoshi | 明星昴流 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
