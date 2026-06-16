@@ -12041,7 +12041,7 @@ example:
 | xephs artwork | Xeph's Artwork |  |  |
 | xikyougumi | 賽響組 |  |  |
 | xpanda | Xpanda |  |  |
-| xration | Xration |  |  |
+| xration | Xration |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG02325.html) |
 | xuse | ザウス |  |  |
 | xxkorori | ××コロリ |  |  |
 | xxx | トリプルエックス |  |  |
