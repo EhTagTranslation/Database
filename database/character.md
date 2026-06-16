@@ -9519,6 +9519,7 @@ example:
 | greifen | 格里芬 | 是由寿屋发售的机器人塑料模型“FRAME ARMS”系列的拟人化企划，其动画、漫画《FRAME ARMS GIRL》衍生作品的登场角色。<br>![](https://www.dalong.net/reviews/kotobukiya/fag28/th/s_fag28.jpg) | [https://www.kotobukiya.co.jp/product/detail/p4934054062140/](https://www.kotobukiya.co.jp/product/detail/p4934054062140/) |
 | subaru akehoshi | 明星昴流 |  |  |
 | hokuto hidaka | 冰鹰北斗 |  |  |
+| hansuke doi | 土井半助 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
