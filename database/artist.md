@@ -15305,6 +15305,7 @@ example:
 | plankton | プランクトン |  | [FANBOX](https://plankton.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/75684835) |
 | aoki nanase | あおき七瀬 |  |  |
 | harada shigemitsu | 原田重光 |  |  |
+| onda fuoku | 恩田斑奥 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
