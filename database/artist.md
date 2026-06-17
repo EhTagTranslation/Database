@@ -15304,6 +15304,7 @@ example:
 | bairin | バイリン |  | [FANBOX](https://www.fanbox.cc/@bairin) \| [X](https://x.com/tyatyatya_USJ) \| [pixiv](https://www.pixiv.net/users/45578448) \|  [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG55439.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201286/) |
 | plankton | プランクトン |  | [FANBOX](https://plankton.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/75684835) |
 | aoki nanase | あおき七瀬 |  |  |
+| harada shigemitsu | 原田重光 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
