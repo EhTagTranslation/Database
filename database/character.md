@@ -9521,6 +9521,7 @@ example:
 | hokuto hidaka | 冰鹰北斗 |  |  |
 | hansuke doi | 土井半助 |  |  |
 | rikichi yamada | 山田利吉 |  |  |
+| kiyone kotetsu | 虎彻清音 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
