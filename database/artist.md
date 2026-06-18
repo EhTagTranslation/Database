@@ -15306,6 +15306,7 @@ example:
 | aoki nanase | あおき七瀬 |  |  |
 | harada shigemitsu | 原田重光 |  |  |
 | onda fuoku | 恩田斑奥 |  |  |
+| zuki | Zuki |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
