@@ -9524,6 +9524,7 @@ example:
 | kiyone kotetsu | 虎彻清音 |  |  |
 | suzu mukai | 向井铃 | ![](https://lain.bgm.tv/r/400/pic/crt/l/67/f4/13192_crt_lBNyN.jpg)<br>所属作品：`kyoukai senjou no horizon` |  |
 | kazuki sendou | 千堂和树 | ![](https://static.wikia.nocookie.net/remixfavoriteshowandgame/images/5/51/Kazuki_Sendou.jpg/revision/latest?cb=20171205160725)<br>出自作品：`p:comic party`<br><br>千堂和樹（Kazuki Sendou）是日本經典同人界題材美少女遊戲及改編動畫《漫畫派對》（Comic Party）的男主角。 | [Fandom](https://remixfavoriteshowandgame.fandom.com/wiki/Kazuki_Sendou) |
+| mizuki takase | 高濑瑞希 | ![](https://static.wikia.nocookie.net/aquaplus/images/9/9c/Mizuki_Takase.png/revision/latest/scale-to-width-down/268?cb=20200914082652)<br>出自作品：`p:comic party`<br><br>高濑瑞希 (高瀬瑞希 / たかせみずき / Takase Mizuki) 是AQUAPLUS旗下Leaf的游戏《COMIC PARTY》(漫画同人会)系列中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/高濑瑞希) \| [Fandom](https://aquaplus.fandom.com/wiki/Mizuki_Takase) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
