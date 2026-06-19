@@ -6771,7 +6771,7 @@ example:
 | komenikki | 米にっき。 |  |  |
 | komenosukima | 米の隙間 |  |  |
 | kometubu | 米粒 |  |  |
-| komickers | Komickers |  |  |
+| komickers | Komickers |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG11443.html) |
 | komorebi-notebook | こもれびのーと |  |  |
 | komorebitei | 木漏れ日亭 |  |  |
 | komugiko 100 percent | 小麦粉100% |  |  |
