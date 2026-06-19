@@ -15309,6 +15309,7 @@ example:
 | zuki | Zuki |  |  |
 | takahashi osamu | 高橋脩 |  |  |
 | imai yuu | 今井ユウ |  |  |
+| usume shirou | うすめ 四郎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
