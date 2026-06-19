@@ -7536,7 +7536,7 @@ example:
 | mahimaru | まひまる |  |  |
 | mahiruno kagerou | まひるの影郎 |  |  |
 | maho | 真秀 |  |  |
-| mahouya | 魔法屋 |  |  |
+| mahouya | 魔法屋 |  | [FANBOX](https://www.fanbox.cc/@magicshop) \| [pixiv](https://www.pixiv.net/users/3283983) |
 | mai | MAI |  |  |
 | myrage | 舞麗辞 |  |  |
 | mai renjie | 麥人杰 |  |  |
