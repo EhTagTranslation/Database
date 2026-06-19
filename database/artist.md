@@ -1609,7 +1609,7 @@ example:
 | ichiren takushou | 一炼托生 |  |  |
 | katase minami | カタセミナミ |  |  |
 | masamune shirow | 士郎正宗 |  |  |
-| nikusoukyuu | 肉そうきゅー。 |  |  |
+| nikusoukyuu | 肉そうきゅー。 |  | [FANZA](https://book.dmm.co.jp/list/?author=240507) |
 | nimu | ニム |  |  |
 | okayusan | おかゆさん |  |  |
 | wakai ikuo | 若井いくお |  |  |
