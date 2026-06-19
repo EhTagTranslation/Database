@@ -15310,6 +15310,7 @@ example:
 | takahashi osamu | 高橋脩 |  |  |
 | imai yuu | 今井ユウ |  |  |
 | usume shirou | うすめ 四郎 |  |  |
+| shuto haruka | noyF | a.k.a シュウトウハルカ | [X](https://x.com/n_o_y_F) [pixiv](https://www.pixiv.net/users/6497828) |
 
 <!--TEMPLATE:
 |  |  |  |  |
