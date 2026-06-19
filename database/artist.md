@@ -7249,7 +7249,7 @@ example:
 | kure shikure | 久澪しくれ |  |  |
 | kureha mitsushige | 自遊本舗「宇」 |  |  |
 | kureha yosho | くれは洋書 |  |  |
-| kurei daisuke | 暮井大助 |  |  |
+| kurei daisuke | 暮井大助 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22暮井大助%22/ana_flg/all) |
 | kurenami yuuji | 暮浪夕時 |  |  |
 | kuresato yoshiaki | 暮里良昭 |  |  |
 | kureta fumiaki | 呉田文明 |  |  |
