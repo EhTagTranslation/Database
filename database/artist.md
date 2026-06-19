@@ -15311,6 +15311,7 @@ example:
 | imai yuu | 今井ユウ |  |  |
 | usume shirou | うすめ 四郎 |  |  |
 | shuto haruka | noyF | a.k.a シュウトウハルカ | [X](https://x.com/n_o_y_F) [pixiv](https://www.pixiv.net/users/6497828) |
+| karakari | からかり |  | [FANBOX](https://karakaritouge.fanbox.cc/) \| [X](https://x.com/karakaritouge) \| [pixiv](https://www.pixiv.net/users/58020524) \| [Skeb](https://skeb.jp/@karakaritouge) |
 
 <!--TEMPLATE:
 |  |  |  |  |
