@@ -1797,7 +1797,7 @@ example:
 | sakura kinomoto | 木之本樱 | ![](https://static.wikia.nocookie.net/ccs/images/c/cf/Sakura_Kinomoto_Clear_Card_Arc_Anime.png)<br>所属作品：`cardcaptor sakura` |  |
 | touya kinomoto | 木之本桃矢 |  |  |
 | yukito tsukishiro | 月城雪兔 |  |  |
-| tomoyo daidouji | 大道寺知世 | ![](https://img.moegirl.org.cn/common/2/27/Tomoyo_Daidouji.jpg) |  |
+| tomoyo daidouji | 大道寺知世 | ![](https://img.moegirl.org.cn/common/2/27/Tomoyo_Daidouji.jpg)<br>出自作品：`p:cardcaptor sakura`<br><br>大道寺知世（大道寺知世 / だいどうじともよ）是CLAMP所作漫画《魔卡少女樱》《翼·年代记》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/大道寺知世) |
 | sonomi daidouji | 大道寺园美 |  |  |
 | syaoran li | 李小狼 | ![](https://static.wikia.nocookie.net/ccs/images/7/7b/Syaoran_1.jpg)<br>所属作品：`cardcaptor sakura`<br>小樱争夺库洛牌的竞争对手。 |  |
 | meiling li | 李苺铃 |  |  |
