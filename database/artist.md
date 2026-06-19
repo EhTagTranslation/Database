@@ -9420,7 +9420,7 @@ example:
 | redhair | RedHair |  |  |
 | redking | れっどきんぐ |  |  |
 | rei | REI |  |  |
-| rei park | れいぱぁく |  |  |
+| rei park | れいぱぁく |  | [pixiv](https://www.pixiv.net/users/2366326) \| [X](https://x.com/rapeark) |
 | reigamk2 | 麗牙Mk-2 |  |  |
 | reiji | れゐぢ |  |  |
 | reika | 零花 |  |  |
