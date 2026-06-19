@@ -9525,6 +9525,7 @@ example:
 | suzu mukai | 向井铃 | ![](https://lain.bgm.tv/r/400/pic/crt/l/67/f4/13192_crt_lBNyN.jpg)<br>所属作品：`kyoukai senjou no horizon` |  |
 | kazuki sendou | 千堂和树 | ![](https://static.wikia.nocookie.net/remixfavoriteshowandgame/images/5/51/Kazuki_Sendou.jpg/revision/latest?cb=20171205160725)<br>出自作品：`p:comic party`<br><br>千堂和樹（Kazuki Sendou）是日本經典同人界題材美少女遊戲及改編動畫《漫畫派對》（Comic Party）的男主角。 | [Fandom](https://remixfavoriteshowandgame.fandom.com/wiki/Kazuki_Sendou) |
 | mizuki takase | 高濑瑞希 | ![](https://static.wikia.nocookie.net/aquaplus/images/9/9c/Mizuki_Takase.png/revision/latest/scale-to-width-down/268?cb=20200914082652)<br>出自作品：`p:comic party`<br><br>高濑瑞希 (高瀬瑞希 / たかせみずき / Takase Mizuki) 是AQUAPLUS旗下Leaf的游戏《COMIC PARTY》(漫画同人会)系列中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/高濑瑞希) \| [Fandom](https://aquaplus.fandom.com/wiki/Mizuki_Takase) |
+| jean kirschtein | 让·基尔希斯坦 | ![](https://static.wikia.nocookie.net/shingekinokyojin/images/3/38/Jean_Kirschtein_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/268?cb=20231107234604)<br>出自作品：`p:shingeki no kyojin`<br><br>让·基尔希斯坦（ジャン・キルシュタイン）是谏山创创作的漫画《进击的巨人》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/让·基尔希斯坦) \| [Fandom](https://attackontitan.fandom.com/wiki/Jean_Kirschtein_%28Anime%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
