@@ -9523,6 +9523,7 @@ example:
 | rikichi yamada | 山田利吉 |  |  |
 | kiyone kotetsu | 虎彻清音 |  |  |
 | suzu mukai | 向井铃 | ![](https://lain.bgm.tv/r/400/pic/crt/l/67/f4/13192_crt_lBNyN.jpg)<br>所属作品：`kyoukai senjou no horizon` |  |
+| kazuki sendou | 千堂和树 | ![](https://static.wikia.nocookie.net/remixfavoriteshowandgame/images/5/51/Kazuki_Sendou.jpg/revision/latest?cb=20171205160725)<br>出自作品：`p:comic party`<br><br>千堂和樹（Kazuki Sendou）是日本經典同人界題材美少女遊戲及改編動畫《漫畫派對》（Comic Party）的男主角。 | [Fandom](https://remixfavoriteshowandgame.fandom.com/wiki/Kazuki_Sendou) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
