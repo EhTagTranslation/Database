@@ -8747,7 +8747,7 @@ example:
 | felix schultz | 菲利克斯·舒尔茨 | ![](https://i0.hdslb.com/bfs/article/8ca4dd55abac15676a68e3e0c558a5395ebdd508.png)<br>所属作品：`azur lane`<br>历史原型为1938A型大型驱逐舰。 |  |
 | nangong yu | 南宫羽 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/51/南宫羽1.png)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/南宫羽) \| [Fandom](https://zenless-zone-zero.fandom.com/wiki/Nangong_Yu) |
 | tine chelc | 蒂妮·切尔克 | ![](https://static.wikia.nocookie.net/typemoon/images/5/57/Tiné_Chelc_Fate_strange_Fake_character_sheet.png)<br>所属作品：`fate strange fake`<br>日语：ティーネ・チェルク |  |
-| yao guang | 爻光 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/Character_Yao_Guang_Splash_Art.png)<br>所属作品：`honkai star rail` |  |
+| yao guang | 爻光 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/7/7b/Character_Yao_Guang_Game.png/revision/latest/scale-to-width-down/268?cb=20260304050216)<br>所属作品：`honkai star rail`<br><br>![](https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/Character_Yao_Guang_Splash_Art.png) | [萌娘百科](https://zh.moegirl.org.cn/爻光) |
 | moran | 莫兰 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/02/Moran_FB.png)<br>所属作品：`goddess of victory nikke` |  |
 | noa jougasaki | 城崎诺亚 | ![](https://storage.moegirl.org.cn/moegirl/commons/9/92/诺亚正常立绘.png)<br>日语：城ケ崎ノア<br>所属作品:`mahou shoujo no majo saiban`<br><br>诺亚可爱捏 | [萌娘百科](https://zh.moegirl.org.cn/城崎诺亚) |
 | guizhong | 归终 | ![](https://static.wikia.nocookie.net/gensin-impact/images/8/8c/NPC_Guizhong.png)<br>所属作品：`genshin impact`<br>又名：哈艮图斯 |  |
