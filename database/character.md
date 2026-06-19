@@ -9522,6 +9522,7 @@ example:
 | hansuke doi | 土井半助 |  |  |
 | rikichi yamada | 山田利吉 |  |  |
 | kiyone kotetsu | 虎彻清音 |  |  |
+| suzu mukai | 向井铃 | ![](https://lain.bgm.tv/r/400/pic/crt/l/67/f4/13192_crt_lBNyN.jpg)<br>所属作品：`kyoukai senjou no horizon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
