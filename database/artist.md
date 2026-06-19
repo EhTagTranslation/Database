@@ -15308,6 +15308,7 @@ example:
 | onda fuoku | 恩田斑奥 |  |  |
 | zuki | Zuki |  |  |
 | takahashi osamu | 高橋脩 |  |  |
+| imai yuu | 今井ユウ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
