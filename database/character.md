@@ -3550,7 +3550,7 @@ example:
 | natsumi koshigaya | 越谷夏海 | 越谷夏海是あっと所创作的漫画和SILVER LINK.制作的动画《`non non biyori`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/越谷夏海) (\*) |
 | yaichi kuzuryuu | 九头龙八一 | 九头龙八一是由白鸟士郎创作、しらび负责插画的轻小说《`ryuuou no oshigoto`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/九头龙八一) (\*\*) |
 | ai yashajin | 夜叉神天衣 | 夜叉神天衣是由白鸟士郎创作、しらび负责插画的轻小说《`ryuuou no oshigoto`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/夜叉神天衣) (\*\*) |
-| inuyama tamaki | 犬山玉姬 |  |  |
+| inuyama tamaki | 犬山玉姬 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/5/50/Inuyama_Tamaki_-_Profile_Picture.jpg/revision/latest/scale-to-width-down/268?cb=20201214132720)<br><br>犬山玉姫（日语：犬山たまき / いぬやま たまき / Inuyama tamaki）是从2018年9月29日正式开始活跃在YouTube网站的虚拟YouTuber，组织Noripro成员（综艺组）。 | [萌娘百科](https://zh.moegirl.org.cn/犬山玉姬) \| [Fandom](https://virtualyoutuber.fandom.com/wiki/Inuyama_Tamaki) |
 | aliza | 阿莉莎 | ![](https://huiji-public.huijistatic.com/gbf/uploads/d/dc/Zoom_3040083000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/7/7d/Zoom_3040474000_01.png)<br>所属作品：`granblue fantasy` |  |
 | sarasa | 萨拉萨 | ![](https://huiji-public.huijistatic.com/gbf/uploads/1/1a/Zoom_3040032000_81.png)<br>所属作品：`granblue fantasy` |  |
 | hallessena | 哈蕾泽娜 | ![](https://huiji-public.huijistatic.com/gbf/uploads/0/0b/Zoom_3040240000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/7/7c/Zoom_3040540000_01.png)<br>所属作品：`granblue fantasy` |  |
