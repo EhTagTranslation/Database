@@ -5948,7 +5948,7 @@ example:
 | hiyoko saionji | 西园寺日寄子 |  | [萌娘百科](https://zh.moegirl.org.cn/西园寺日寄子) |
 | kazuichi soda | 左右田和一 |  | [萌娘百科](https://zh.moegirl.org.cn/左右田和一) |
 | mahiru koizumi | 小泉真昼 |  | [萌娘百科](https://zh.moegirl.org.cn/小泉真昼) |
-| sonia nevermind | 索尼娅·内瓦曼德 |  | [萌娘百科](https://zh.moegirl.org.cn/索尼娅·内瓦曼德) |
+| sonia nevermind | 索尼娅·内瓦曼德 | ![](https://static.wikia.nocookie.net/danganronpa/images/9/9e/Danganronpa_2_-_Sonia_Nevermind_Sprite_Sidebar.png/revision/latest/scale-to-width-down/268?cb=20200830113301)<br>出自作品：`p:danganronpa`<br><br>索妮亚·内瓦麦（ソニア・ネヴァーマインド）是Spike旗下游戏《超级弹丸论破2:再见绝望学园》及其衍生作品的登场角色，亦在动画《弹丸论破3:The End of 希望之峰学园》的绝望篇和希望篇中登场。 | [萌娘百科](https://zh.moegirl.org.cn/索尼娅·内瓦曼德) \| [Fandom](https://danganronpa.fandom.com/wiki/Sonia_Nevermind) |
 | teruteru hanamura | 花村辉辉 |  | [萌娘百科](https://zh.moegirl.org.cn/花村辉辉) |
 | mikan tsumiki | 罪木蜜柑 |  | [萌娘百科](https://zh.moegirl.org.cn/罪木蜜柑) |
 | yoichi isagi | 洁世一 | ![](https://tv.bluelock-pr.com/tv2nd/wp-content/themes/bluelock-tv2nd-theme/_assets/images/char/detail/webp/isagi_.webp)<br>所属作品：`blue lock` | [萌娘百科](https://zh.moegirl.org.cn/洁世一) |
