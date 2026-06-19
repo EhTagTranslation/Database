@@ -14538,7 +14538,7 @@ example:
 | ameno kaeru | 飴音かえる |  |  |
 | siohuu | しおふう |  | [pixiv](https://www.pixiv.net/users/78452156) [pixiv](https://www.pixiv.net/users/5505413) |
 | kawaruhi | カワルヒ |  |  |
-| eruu | えるう |  |  |
+| eruu | えるう |  | [X](https://x.com/eruuman) \| [FANBOX](https://eruu.fanbox.cc/) \| [Fantia](https://fantia.jp/e86e567986) \| [pixiv](https://www.pixiv.net/users/47025363) |
 | miyamoto muga | 宮本ムガ |  | [FANBOX](https://miyamotomuga.fanbox.cc/) \| [X](https://x.com/MiyamotoMuga) \| [Fantia](https://fantia.jp/fanclubs/498062) \| [FANBOX](https://miyamotomuga.fanbox.cc/) |
 | manzai sugar | Mz\_\_SUGAR |  | [pixiv](https://www.pixiv.net/users/14730603) |
 | khear | Khear |  | [pixiv](https://www.pixiv.net/users/74518504) |
