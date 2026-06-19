@@ -12264,7 +12264,7 @@ example:
 | jagi iwa | ジャギ岩 | ![X](https://pbs.twimg.com/profile_images/1175278340824952833/OhY5Dah-_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/jagi_iwa) [pixiv](https://www.pixiv.net/users/7687527) |
 | seneto | セネト |  |  |
 | unosero | うのせろ | ![X](https://pbs.twimg.com/profile_images/1083229542603358208/P6TQZShF_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/marble_nnn) [pixiv](https://www.pixiv.net/users/27406422) |
-| murasaki shingou | 紫信号 |  | [FANBOX](https://www.fanbox.cc/@signalviolet) \| [Skeb](https://skeb.jp/@SignalViolet) \| [pixiv](https://www.pixiv.net/users/60356242) \| [X](https://x.com/signalviolet_) |
+| murasaki shingou | 紫信号 |  | [FANBOX](https://www.fanbox.cc/@signalviolet) \| [Skeb](https://skeb.jp/@SignalViolet) \| [pixiv](https://www.pixiv.net/users/60356242) \| [X](https://x.com/signalviolet_) \| [Lit.Link](https://lit.link/en/signalviolet) |
 | meriibe | めりーべ |  |  |
 | hoshina mimiwo | 星奈みみヲ |  |  |
 | sakauchi waka | 坂内若 |  | [X](https://x.com/sakauchi0) |
