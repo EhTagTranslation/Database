@@ -14560,7 +14560,7 @@ example:
 | usagino kuua | 兎野くうあ |  |  |
 | bluevery king | ブルベリ王 |  |  |
 | keimo | 啓モ |  |  |
-| sabakan | 佐波缶 |  |  |
+| sabakan | 佐波缶 \| さばかん |  | 佐波缶 [pixiv](https://www.pixiv.net/users/31291526)<br>さばかん [pixiv](https://www.pixiv.net/users/9857265) |
 | ozi8 | おじ８ \| ｴｲﾄﾋﾟｰｴﾑ |  |  |
 | yamashima chihane | 山島ちはね |  |  |
 | tsubonuma | 壺ぬま |  |  |
