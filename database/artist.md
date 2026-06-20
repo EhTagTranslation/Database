@@ -2403,7 +2403,7 @@ example:
 | futayami | 双暗 |  |  |
 | deadflow | Deadflow（Б） | ![画师头像](https://pbs.twimg.com/profile_images/1204295049606905857/41d-pk2B_200x200.png)<br>画师推特头像 | [X](https://x.com/11saicastle) [pixiv](https://www.pixiv.net/users/182552) |
 | yukishizuku | ユキシズク |  |  |
-| mappa ninatta | マッパニナッタ |  |  |
+| mappa ninatta | マッパニナッタ |  | [FANBOX](https://mappaninatta.fanbox.cc/) \| [X](https://x.com/MappaNinatta) \| [pixiv](https://www.pixiv.net/users/2481803) \| [Fantia](https://fantia.jp/mappaninatta) |
 | ryuuto hisashi | りゅうとひさし |  |  |
 | tamazatou | 玉砂糖 |  |  |
 | tanaka yuuichi | 田中雄一 | 日本男性动画师、人物设计师、演出家。代表作是担任人物设定和总作画监督的《魔法禁书目录》、《科学超电磁炮》。 |  |
