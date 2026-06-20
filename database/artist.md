@@ -12349,7 +12349,7 @@ example:
 | kiyoshi | キヨシ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56477.html) |
 | shiworiita | シヲリイタ | ![X](https://pbs.twimg.com/profile_images/1350128631176069120/qeg7BWqH_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/kktakosu) [pixiv](https://www.pixiv.net/users/2417030) |
 | kitakawa touta | 北河トウタ | ![X](https://pbs.twimg.com/profile_images/1417287463630897153/V4c9EQ8V_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/kitakawat) |
-| okiha | 冲叶 |  |  |
+| okiha | 冲叶 | 日语：沖葉 | [FANBOX](https://okiha.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/27905945) \| [Skeb](https://skeb.jp/@skeb55363148) \| [X](https://x.com/okiha55363148) |
 | uekura eku | 上倉エク |  | [X](https://x.com/ekureea) [pixiv](https://www.pixiv.net/users/299299) |
 | dendoro kakariya | 澱泥カカリヤ |  |  |
 | cucchiore | くっきおーれ |  | [pixiv](https://www.pixiv.net/users/15224722) |
