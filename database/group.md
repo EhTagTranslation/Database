@@ -13999,6 +13999,7 @@ example:
 | fuwaten | ふわてん |  |  |
 | momoiro tanzaku | ももいろたんざく |  |  |
 | bio chample | バイオチャンプル |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78204/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48630.html) |
+| chisakiss | チサキッス |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/detail/=/cid=d_622331/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
