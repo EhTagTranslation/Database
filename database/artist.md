@@ -13966,7 +13966,7 @@ example:
 | upimayo | ウぴまヨ | 絵を描くオタク🤗サブ垢 | [X](https://x.com/nas_x) [pixiv](https://www.pixiv.net/users/186732) |
 | azuma ryo | あずま涼 | 主に陰毛と腋毛と潮吹きとマン屁です | [X](https://x.com/azumaryo18) [pixiv](https://www.pixiv.net/users/35581935) |
 | tabbto | オアシス |  |  |
-| moria | もりあ |  |  |
+| moria | もりあ |  | [pixiv](https://www.pixiv.net/users/377155) \| [FANBOX](https://morimoria.fanbox.cc/) \| [X](https://x.com/etietimoria) \| [Fantia](https://fantia.jp/fanclubs/248458) |
 | sakatami | さかたみ |  |  |
 | kiyama haru | 紀山ハル |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201386/) |
 | jakky | ジャッキー |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54566.html) \| [Ci-en](https://ci-en.dlsite.com/creator/8438) \| [X](https://x.com/Jakky_Jakigann) \| [pixiv](https://www.pixiv.net/users/826428) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201410/) \| [Pawoo](https://pawoo.net/@dannto) |
