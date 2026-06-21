@@ -6531,7 +6531,7 @@ example:
 | kei kei dou | 啓々堂 |  |  |
 | kei kei kei loan | ケイケイケイローン |  |  |
 | keigai tengen | 境外天元 |  |  |
-| keikouon | 傾向音 |  |  |
+| keikouon | 傾向音 |  | [Ci-en](https://ci-en.dlsite.com/creator/177) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG23874.html) \| [X](https://x.com/tendency_tone1) |
 | keisotsu na ana | 軽率な穴 |  |  |
 | keito | 圭斗 |  |  |
 | keito no mori | 毛糸の森 |  |  |
