@@ -15315,6 +15315,7 @@ example:
 | shuubetu kouta | 拾捌コウタ |  | [pixiv](https://www.pixiv.net/users/95410110) \| [X](https://x.com/shuubetu815) \| [Ci-en](https://ci-en.dlsite.com/creator/29723) \| [FANBOX](https://shuubetu815.fanbox.cc/) \| [Skeb](https://skeb.jp/@shuubetu815) \| [Fantia](https://fantia.jp/fanclubs/503254) |
 | smells like | すめるすらいく |  | [pixiv](https://www.pixiv.net/users/13896656) \| [X](https://x.com/SmellsLike19) |
 | kounetsu | こうねつ |  |  |
+| nnu | んぬ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
