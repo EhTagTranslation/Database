@@ -4930,7 +4930,7 @@ example:
 | gachapin mukku. | がちゃぴんむっく。 |  |  |
 | gachi drunkers | ガチ★ドランカーズ |  |  |
 | gachinko shobou | 我チ○コ書房 |  |  |
-| gadget | ガジェット工房 |  |  |
+| gadget | ガジェット工房 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG40369.html) |
 | gadoujuku | 我道塾 |  |  |
 | gagaga honpo | ガガガ本舗 |  |  |
 | gagaken | 画々研 |  |  |
