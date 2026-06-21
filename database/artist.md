@@ -15316,6 +15316,7 @@ example:
 | smells like | すめるすらいく |  | [pixiv](https://www.pixiv.net/users/13896656) \| [X](https://x.com/SmellsLike19) |
 | kounetsu | こうねつ |  |  |
 | nnu | んぬ |  |  |
+| jigoku no nyanko | 地獄のにゃんこ |  | [FANBOX](https://jigonyan.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/5035680) \| [X](https://x.com/jigoku_nyanco) \| [Patreon](https://www.patreon.com/jigokunonyanko) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78981/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48317.html) \| [Fantia](https://fantia.jp/fanclubs/21136) \| [Ci-en](https://ci-en.dlsite.com/creator/3049) |
 
 <!--TEMPLATE:
 |  |  |  |  |
