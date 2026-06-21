@@ -935,7 +935,7 @@ example:
 | savan | SAVAN |  |  |
 | sugaishi | すがいし |  |  |
 | sumiya | スミヤ |  | [X](https://x.com/sumiya103) [pixiv](https://www.pixiv.net/users/4595) |
-| takashi | タカシ |  |  |
+| takashi | タカシ |  | [pixiv](https://www.pixiv.net/users/390455) |
 | ushino kandume | 牛野缶诘 |  |  |
 | yahiro pochi | 八尋ぽち | ![X](https://pbs.twimg.com/profile_images/1223323831210610688/y2l5P4hp_400x400.jpg)<br><br>**作者推特头像**<br><br>活跃于《快乐天》杂志的漫画家、同人社团`popochichi`主笔画师<br><br>![works](# "https://pbs.twimg.com/media/Fnok6TSaEAE4u-A?format=jpg&name=large")<br><br>**同人作品** | [X](https://x.com/yahiropoti) [pixiv](https://www.pixiv.net/users/804550) |
 | yanyo | やんよ |  |  |
