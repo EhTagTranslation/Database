@@ -2705,7 +2705,7 @@ example:
 | roomi | 萝米 |  |  |
 | martial artist | 武斗家 |  |  |
 | thief | 盗贼 |  |  |
-| nera briscoletti | 芙萝菈 |  |  |
+| nera briscoletti | 芙萝菈 | ![](https://static.wikia.nocookie.net/p__/images/7/71/Nera_Briscoletti.png/revision/latest/scale-to-width-down/300?cb=20150814105845&path-prefix=protagonist)<br>出自作品：`p:dragon quest v`<br><br>芙萝拉（フローラ/Nera Briscoletti）是日本RPG游戏《勇者斗恶龙5》中的主角候选新娘之一，为萨拉波纳富豪鲁德曼的养女，拥有一姐姐狄波拉，与其性格截然相反，并继承天空人血统。 | [百度百科](https://baike.baidu.com/item/芙萝拉/19900144) \| [Fandom](https://hero.fandom.com/wiki/Nera_Briscoletti) |
 | crimson viper | 深红毒蛇 | ![](https://static.wikia.nocookie.net/streetfighter/images/6/6a/Cvipers6render.png)<br>出自作品：`p:street fighter` |  |
 | blue mary | 布鲁玛丽 |  |  |
 | king | 琼 | ![](https://ehgt.org/w/02/120/64394-mhqrsrnn.webp)<br>所属作品：`king of fighters` |  |
