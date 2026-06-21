@@ -5683,7 +5683,7 @@ example:
 | hirari | ひらり |  |  |
 | hirataira | 平平 |  |  |
 | hired girl | ハイヤードガール |  |  |
-| hirekatsu | ヒレカツ |  |  |
+| hirekatsu | ヒレカツ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG36359.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74192/) |
 | hiroi heya | 拾い部屋 |  |  |
 | hirojuu renshuuchou | 広十練習帖 |  |  |
 | hirokaworld | ヒロカワールド |  |  |
