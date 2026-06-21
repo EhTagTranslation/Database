@@ -13998,7 +13998,7 @@ example:
 | rs street | R’sストリート |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG23028.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29461/) |
 | fuwaten | ふわてん |  |  |
 | momoiro tanzaku | ももいろたんざく |  |  |
-| bio chample | バイオチャンプル |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78204/) |
+| bio chample | バイオチャンプル |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78204/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48630.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
