@@ -7240,7 +7240,7 @@ example:
 | margit eberbach | 玛吉特埃贝·巴赫 | ![](https://ehgt.org/36/7e/367ef16bb7e881028fe5b57818f6da733e54cd00-235368-526-838-jpg_250.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
 | vanessa enoteca | 巴纳莎·艾诺泰卡 | ![](https://ehgt.org/w/02/022/76965-luti97e4.webp)<br>所属作品：`black clover` |  |
 | mimosa vermillion | 米莫萨·凡米里欧 | ![](https://ehgt.org/w/02/107/34538-5sinl3ln.webp)<br>所属作品：`black clover` |  |
-| mereoleona vermillion | 梅列欧蕾欧娜·凡米里欧 | ![](https://ehgt.org/w/02/059/53595-cyztsvtu.webp)<br>所属作品：`black clover` |  |
+| mereoleona vermillion | 梅列欧蕾欧娜·凡米里欧 | ![](https://static.wikia.nocookie.net/blackclover/images/b/bb/Mereoleona_movie_concept.png)<br>所属作品：`black clover`<br>日语：メレオレオナ・ヴァーミリオン |  |
 | lily aquaria | 莉莉·阿克阿丽亚 | ![](https://ehgt.org/w/02/050/44210-7hzg2xr8.webp)<br>所属作品：`black clover` |  |
 | jubilee | 李千欢 | 李千欢（Jubilee）是美国漫威漫画旗下超级英雄，初次登场于《不可思议的X战警》（Uncanny X-Men）第244期（1989年5月）。<br>全名朱比莱辛·李（Jubilation Lee） |  |
 | talia gladys | 塔丽亚·库拉迪斯 | 所属作品：`gundam seed destiny`<br>担任脉冲高达母舰密涅瓦号舰长 |  |
