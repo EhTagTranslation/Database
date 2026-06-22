@@ -9537,6 +9537,7 @@ example:
 | rebecca scarlet | 蕾贝卡·斯嘉丽 | ![](https://ehgt.org/w/02/087/68586-t2dpqshh.webp)<br>所属作品：`black clover`<br>日语：レベッカ・スカーレット |  |
 | fana | 法娜 | ![](https://static.wikia.nocookie.net/blackclover/images/b/bd/Fana_anime_profile.png)<br>所属作品：`black clover` |  |
 | sol marron | 索尔·玛隆 | ![](https://static.wikia.nocookie.net/blackclover/images/f/f6/Sol_anime_profile.png)<br>所属作品：`black clover`<br>日语：ソル・マロン |  |
+| charlotte roselei | 夏洛特·罗丝蕾 | ![](https://static.wikia.nocookie.net/blackclover/images/7/7a/Charlotte_movie_concept.png)<br>所属作品：`black clover`<br>日语：シャーロット・ローズレイ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
