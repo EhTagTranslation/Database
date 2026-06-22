@@ -3248,7 +3248,7 @@ example:
 | achikita chinami | うさぎ工房 |  |  |
 | athena asamiya | 麻宫雅典娜 |  | [萌娘百科](https://zh.moegirl.org.cn/麻宫雅典娜) |
 | da ji | 妲己 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/2/2f/Daji-circle-big.png)<br>所属作品：`honor of kings` |  |
-| da qiao | 大乔 |  |  |
+| da qiao | 大乔 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/f/fe/Da_Qiao-circle-big.png)<br>三国角色，出现于各种作品之中。 |  |
 | dong zhuo | 董卓 |  |  |
 | sun ce | 孙策 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/3/38/Sun_Ce-big-circle.png)<br>所属作品：`honor of kings` |  |
 | xiao qiao | 小乔 |  |  |
