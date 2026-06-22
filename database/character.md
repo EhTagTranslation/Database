@@ -9532,6 +9532,7 @@ example:
 | rieri bishop | 里耶·毕晓普 | ![](https://static.wikia.nocookie.net/taimanin/images/7/72/Rieri_Bishop_6.png/revision/latest/scale-to-width-down/267?cb=20260416072035)<br>出自作品：`p:kangoku senkan`<br><br>里耶·毕晓普（リエリ・ビショップ)）是成人游戏《监狱战舰》系列的女主角之一，同时作为联动角色出现在《对魔忍RPG》中。她是一名冷静沉著、才智过人的太空联邦军中校兼军事警察上级调查官。 | [Fandom](https://taimanin.fandom.com/wiki/Rieri_Bishop) |
 | nadeshiko aoi | 蓝井抚子 | ![](https://static.wikia.nocookie.net/yuru-camp/images/f/fa/Yurucamp-nadeshiko-character_1main.png/revision/latest/scale-to-width-down/268?cb=20221120022652)<br>出自作品：`p:the idolmaster`<br><br>蓝井抚子（藍井 撫子／あおいなでしこ）是多媒体企划《学园偶像大师》及其衍生作品中的登场角色。 | [Fandom](https://yuru-camp.fandom.com/wiki/Nadeshiko_Kagamihara) \| [project-imas.wiki](https://project-imas.wiki/Nadeshiko_Aoi) |
 | sanae ryuuzouji | 龙造寺早苗 | ![](https://t.vndb.org/ch/54/128754.jpg)<br>所属作品：`walkure romanze`<br>日语：龍造寺 早苗 |  |
+| youko | 洋子 | ![](https://static.wikia.nocookie.net/gup/images/0/0d/YoukoTransparant.png)<br>所属作品：`girls und panzer`<br>日语：ヨウコ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
