@@ -9538,6 +9538,7 @@ example:
 | fana | 法娜 | ![](https://static.wikia.nocookie.net/blackclover/images/b/bd/Fana_anime_profile.png)<br>所属作品：`black clover` |  |
 | sol marron | 索尔·玛隆 | ![](https://static.wikia.nocookie.net/blackclover/images/f/f6/Sol_anime_profile.png)<br>所属作品：`black clover`<br>日语：ソル・マロン |  |
 | charlotte roselei | 夏洛特·罗丝蕾 | ![](https://static.wikia.nocookie.net/blackclover/images/7/7a/Charlotte_movie_concept.png)<br>所属作品：`black clover`<br>日语：シャーロット・ローズレイ |  |
+| yami sukehiro | 夜见介大 | ![](https://static.wikia.nocookie.net/blackclover/images/3/3f/Yami_movie_concept.png)<br>所属作品：`black clover`<br>日语：ヤミ・スケヒロ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
