@@ -2859,6 +2859,7 @@ example:
 | relirium | 遗迹与相遇与冒险 | ![](https://t.vndb.org/cv.t/79/123979.jpg)<br>游戏品牌 Whirlpool（漩涡社）的‌20 周年纪念最终作。<br>完整名称‌：Relirium -レリリウム - 遺跡と出逢いと冒険と |  |
 | kimi to kanojo to kanojo no koi. | 你和她和她的恋爱。 | Nitro+游戏 |  |
 | w.l.o. sekai renai kikou | W.L.O 世界恋爱机构 | 典型日本人思维命名方式 |  |
+| king exit | 王的逝去 | ![](https://static.wikia.nocookie.net/rpgmaker/images/2/24/King_Exit.jpg)<br>King Exit 是由红唯まと制作的一部RPG游戏，并有前传Demons Roots。<br>别名：《英雄的越狱》 | [Steam](https://store.steampowered.com/app/712840/King_Exit/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
