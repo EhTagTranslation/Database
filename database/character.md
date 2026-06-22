@@ -9527,6 +9527,7 @@ example:
 | mizuki takase | 高濑瑞希 | ![](https://static.wikia.nocookie.net/aquaplus/images/9/9c/Mizuki_Takase.png/revision/latest/scale-to-width-down/268?cb=20200914082652)<br>出自作品：`p:comic party`<br><br>高濑瑞希 (高瀬瑞希 / たかせみずき / Takase Mizuki) 是AQUAPLUS旗下Leaf的游戏《COMIC PARTY》(漫画同人会)系列中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/高濑瑞希) \| [Fandom](https://aquaplus.fandom.com/wiki/Mizuki_Takase) |
 | jean kirschtein | 让·基尔希斯坦 | ![](https://static.wikia.nocookie.net/shingekinokyojin/images/3/38/Jean_Kirschtein_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/268?cb=20231107234604)<br>出自作品：`p:shingeki no kyojin`<br><br>让·基尔希斯坦（ジャン・キルシュタイン）是谏山创创作的漫画《进击的巨人》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/让·基尔希斯坦) \| [Fandom](https://attackontitan.fandom.com/wiki/Jean_Kirschtein_%28Anime%29) |
 | testament | 泰斯塔门特 |  |  |
+| little mermaid | 小美人鱼 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/44/Little_Mermaid_MI.png/revision/latest?cb=20250424001244)<br>出自作品：`p:goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Little_Mermaid) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
