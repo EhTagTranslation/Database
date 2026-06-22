@@ -9535,6 +9535,7 @@ example:
 | youko | 洋子 | ![](https://static.wikia.nocookie.net/gup/images/0/0d/YoukoTransparant.png)<br>所属作品：`girls und panzer`<br>日语：ヨウコ |  |
 | akao hiiragi | 柊赤绪 | ![](https://static.wikia.nocookie.net/jinki/images/7/7f/Akao_Hiiragi_%28Resurrection%29.png/revision/latest?cb=20230303034547)<br>所属作品:`jinki` | [Fandom](https://jinki.fandom.com/wiki/Akao_Hiragi) |
 | rebecca scarlet | 蕾贝卡·斯嘉丽 | ![](https://ehgt.org/w/02/087/68586-t2dpqshh.webp)<br>所属作品：`black clover`<br>日语：レベッカ・スカーレット |  |
+| fana | 法娜 | ![](https://static.wikia.nocookie.net/blackclover/images/b/bd/Fana_anime_profile.png)<br>所属作品：`black clover` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
