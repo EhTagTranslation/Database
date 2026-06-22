@@ -9536,6 +9536,7 @@ example:
 | akao hiiragi | 柊赤绪 | ![](https://static.wikia.nocookie.net/jinki/images/7/7f/Akao_Hiiragi_%28Resurrection%29.png/revision/latest?cb=20230303034547)<br>所属作品:`jinki` | [Fandom](https://jinki.fandom.com/wiki/Akao_Hiragi) |
 | rebecca scarlet | 蕾贝卡·斯嘉丽 | ![](https://ehgt.org/w/02/087/68586-t2dpqshh.webp)<br>所属作品：`black clover`<br>日语：レベッカ・スカーレット |  |
 | fana | 法娜 | ![](https://static.wikia.nocookie.net/blackclover/images/b/bd/Fana_anime_profile.png)<br>所属作品：`black clover` |  |
+| sol marron | 索尔·玛隆 | ![](https://static.wikia.nocookie.net/blackclover/images/f/f6/Sol_anime_profile.png)<br>所属作品：`black clover`<br>日语：ソル・マロン |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
