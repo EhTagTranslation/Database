@@ -9530,6 +9530,7 @@ example:
 | little mermaid | 小美人鱼 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/44/Little_Mermaid_MI.png/revision/latest?cb=20250424001244)<br>出自作品：`p:goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Little_Mermaid) |
 | tsubame amaya | 雨夜燕 | ![](https://static.wikia.nocookie.net/kangaroos/images/d/d2/Amaya_Tsubame.png/revision/latest/scale-to-width-down/250?cb=20241124044614)<br>出自作品：`p:the idolmaster`<br><br>雨夜燕是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/雨夜燕) \| [Fandom](https://kangaroos.fandom.com/wiki/Tsubame_Amaya) |
 | rieri bishop | 里耶·毕晓普 | ![](https://static.wikia.nocookie.net/taimanin/images/7/72/Rieri_Bishop_6.png/revision/latest/scale-to-width-down/267?cb=20260416072035)<br>出自作品：`p:kangoku senkan`<br><br>里耶·毕晓普（リエリ・ビショップ)）是成人游戏《监狱战舰》系列的女主角之一，同时作为联动角色出现在《对魔忍RPG》中。她是一名冷静沉著、才智过人的太空联邦军中校兼军事警察上级调查官。 | [Fandom](https://taimanin.fandom.com/wiki/Rieri_Bishop) |
+| nadeshiko aoi | 蓝井抚子 | ![](https://static.wikia.nocookie.net/yuru-camp/images/f/fa/Yurucamp-nadeshiko-character_1main.png/revision/latest/scale-to-width-down/268?cb=20221120022652)<br>出自作品：`p:the idolmaster`<br><br>蓝井抚子（藍井 撫子／あおいなでしこ）是多媒体企划《学园偶像大师》及其衍生作品中的登场角色。 | [Fandom](https://yuru-camp.fandom.com/wiki/Nadeshiko_Kagamihara) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
