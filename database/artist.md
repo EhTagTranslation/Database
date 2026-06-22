@@ -15320,6 +15320,7 @@ example:
 | yuuki ringo | 有機リンゴ |  | [pixiv](https://www.pixiv.net/users/30817973) \| [X](https://x.com/rim5_y) |
 | takoneru | たこねる |  | [FANBOX](https://takoneru.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/2613186) \| [X](https://x.com/takoneru3) |
 | shinozuka | 篠塚 |  |  |
+| berrl felpurr | ベルフェルパー | 波登可厨画师 | [X](https://x.com/Berrl_Felpurr)<br>[pixiv](https://www.pixiv.net/users/2071906)<br>[Skeb](https://skeb.jp/@Berrl_Felpurr) |
 
 <!--TEMPLATE:
 |  |  |  |  |
