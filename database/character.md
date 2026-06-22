@@ -9533,6 +9533,7 @@ example:
 | nadeshiko aoi | 蓝井抚子 | ![](https://static.wikia.nocookie.net/yuru-camp/images/f/fa/Yurucamp-nadeshiko-character_1main.png/revision/latest/scale-to-width-down/268?cb=20221120022652)<br>出自作品：`p:the idolmaster`<br><br>蓝井抚子（藍井 撫子／あおいなでしこ）是多媒体企划《学园偶像大师》及其衍生作品中的登场角色。 | [Fandom](https://yuru-camp.fandom.com/wiki/Nadeshiko_Kagamihara) \| [project-imas.wiki](https://project-imas.wiki/Nadeshiko_Aoi) |
 | sanae ryuuzouji | 龙造寺早苗 | ![](https://t.vndb.org/ch/54/128754.jpg)<br>所属作品：`walkure romanze`<br>日语：龍造寺 早苗 |  |
 | youko | 洋子 | ![](https://static.wikia.nocookie.net/gup/images/0/0d/YoukoTransparant.png)<br>所属作品：`girls und panzer`<br>日语：ヨウコ |  |
+| akao hiiragi | 柊赤绪 | ![](https://static.wikia.nocookie.net/jinki/images/7/7f/Akao_Hiiragi_%28Resurrection%29.png/revision/latest?cb=20230303034547)<br>所属作品:`jinki` | [Fandom](https://jinki.fandom.com/wiki/Akao_Hiragi) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
