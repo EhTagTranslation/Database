@@ -15321,6 +15321,7 @@ example:
 | takoneru | たこねる |  | [FANBOX](https://takoneru.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/2613186) \| [X](https://x.com/takoneru3) |
 | shinozuka | 篠塚 |  |  |
 | berrl felpurr | ベルフェルパー | 波登可厨画师 | [X](https://x.com/Berrl_Felpurr)<br>[pixiv](https://www.pixiv.net/users/2071906)<br>[Skeb](https://skeb.jp/@Berrl_Felpurr) |
+| valentine | ばれんたいん | 其它账号名称：barentain | [X](https://x.com/barentainchoco) \| [pixiv](https://www.pixiv.net/users/18307867) \| [Patreon](https://www.patreon.com/c/barentain) \| [FANBOX](https://valenbox.fanbox.cc/) \| [barentainchoco.itch.io](https://barentainchoco.itch.io/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
