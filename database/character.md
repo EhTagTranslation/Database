@@ -9528,6 +9528,7 @@ example:
 | jean kirschtein | 让·基尔希斯坦 | ![](https://static.wikia.nocookie.net/shingekinokyojin/images/3/38/Jean_Kirschtein_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/268?cb=20231107234604)<br>出自作品：`p:shingeki no kyojin`<br><br>让·基尔希斯坦（ジャン・キルシュタイン）是谏山创创作的漫画《进击的巨人》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/让·基尔希斯坦) \| [Fandom](https://attackontitan.fandom.com/wiki/Jean_Kirschtein_%28Anime%29) |
 | testament | 泰斯塔门特 |  |  |
 | little mermaid | 小美人鱼 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/44/Little_Mermaid_MI.png/revision/latest?cb=20250424001244)<br>出自作品：`p:goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Little_Mermaid) |
+| tsubame amaya | 雨夜燕 | ![](https://static.wikia.nocookie.net/kangaroos/images/d/d2/Amaya_Tsubame.png/revision/latest/scale-to-width-down/250?cb=20241124044614)<br>出自作品：`p:the idolmaster`<br><br>雨夜燕是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/雨夜燕) \| [Fandom](https://kangaroos.fandom.com/wiki/Tsubame_Amaya) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
