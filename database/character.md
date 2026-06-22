@@ -2579,7 +2579,7 @@ example:
 | zhang chunhua | 张春华 |  |  |
 | zhuge liang | 诸葛亮 |  |  |
 | ranma saotome | 早乙女乱马 | ![](https://img.moegirl.org.cn/common/thumb/1/10/Character_ranma1-2.png/800px-Character_ranma1-2.png)<br>出自作品：《`p:ranma 12`》<br><br>早乙女乱马（日语：早乙女 乱馬（さおとめ らんま））是由高桥留美子所创作的漫画《乱马1/2》及其衍生作品的登场角色，也是该作的男/女主角。 | [萌娘百科](https://zh.moegirl.org.cn/早乙女乱马) |
-| angela | 安吉拉 | 圣剑传说3角色 |  |
+| angela | 安吉拉 \| 安琪拉 | ①<br>![](https://static.wikia.nocookie.net/honor-of-kings/images/8/8f/Angela-circle-big.png)<br>所属作品：`honor of kings`<br>②<br>![](https://static.wikia.nocookie.net/mana/images/d/d5/Trials_of_Mana_-_Angela.png)<br>所属作品：`seiken densetsu 3` |  |
 | riesz | 莉斯 | 圣剑传说3角色 |  |
 | eucliwood hellscythe | 优克莉伍德·海尔赛兹 |  |  |
 | hinako shijou | 四条雏子 |  |  |
