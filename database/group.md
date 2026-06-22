@@ -13933,7 +13933,7 @@ example:
 | koubai nadeshiko | 红梅抚子 |  |  |
 | kohinata salon | こひなたサロン |  |  |
 | patsu patsu studio | ぱつぱつスタジオ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=221308/) |
-| smells like | すめるすらいく |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201842/) |
+| smells like | すめるすらいく |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201842/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG55820.html) |
 | niche no sacchi | ニッチの察知 |  |  |
 | diamond magnum | ダイヤモンドマグナム |  |  |
 | torobakoya | とろ箱屋 |  | [FANBOX](https://www.fanbox.cc/@torobakoya) \| [pixiv](https://www.pixiv.net/users/618515) \| [Fantia](https://fantia.jp/fanclubs/489011) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49531.html) |
