@@ -3782,7 +3782,7 @@ example:
 | chou a la creme | chou à la crème |  |  |
 | chou chemical gakuen z | 超ケミカル学園Z |  |  |
 | chou mm bekkan | 超MM別館 |  |  |
-| chou project | 超プロジェクト |  |  |
+| chou project | 超プロジェクト |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30481.html) |
 | chou the taizenkutsu | 超THE体前屈 |  |  |
 | chou yutori kyouiku | 超ゆとり教育 |  |  |
 | choukyori dandou keisan | 长距离弹道计算 |  |  |
