@@ -15324,6 +15324,7 @@ example:
 | valentine | ばれんたいん | 其它账号名称：barentain | [X](https://x.com/barentainchoco) \| [pixiv](https://www.pixiv.net/users/18307867) \| [Patreon](https://www.patreon.com/c/barentain) \| [FANBOX](https://valenbox.fanbox.cc/) \| [barentainchoco.itch.io](https://barentainchoco.itch.io/) |
 | laterrenamed | laterrenamed |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01012407.html) |
 | nc731 | nc731 |  |  |
+| ice nine | アイスナイン |  | [X](https://x.com/eFJfPGad5RaXP1m) \| [pixiv](https://www.pixiv.net/users/89641570) \| [Skeb](https://skeb.jp/@eFJfPGad5RaXP1m) \| [FANBOX](https://icenine333.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
