@@ -8384,7 +8384,7 @@ example:
 | nagai kao | 永井佳緒 |  |  |
 | nagai momiage | 长井もみあげ |  |  |
 | nagaikusa | 長い草 |  |  |
-| nagamatsu heizo | 永松平蔵 |  |  |
+| nagamatsu heizo | 永松平蔵 |  | [Ci-en](https://ci-en.dlsite.com/creator/37843) \| [X](https://x.com/nt_heizo) \| [pixiv](https://www.pixiv.net/users/2292788) \| [Pawoo](https://pawoo.net/@heizo_nt) \| [Fantia](https://fantia.jp/051e50c138) |
 | nagami mairu | 長海まいる |  |  |
 | nagana sayui | ながな坂結 |  |  |
 | naganeko | ながねこ |  |  |
