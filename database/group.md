@@ -5974,7 +5974,7 @@ example:
 | ikuukan massatsu-ken | 異空間抹殺圏 |  |  |
 | ild cat | ILD CAT |  |  |
 | illuminator | illuminator |  |  |
-| illust koubou kakutasu | イラスト工房描くたす |  |  |
+| illust koubou kakutasu | イラスト工房描くたす |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG22752.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72306/) |
 | im | Im |  |  |
 | im fragile | i'm Fragile |  |  |
 | imagawatei | 今川亭 |  |  |
