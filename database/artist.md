@@ -15325,6 +15325,7 @@ example:
 | laterrenamed | laterrenamed |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01012407.html) |
 | nc731 | nc731 |  |  |
 | ice nine | アイスナイン |  | [X](https://x.com/eFJfPGad5RaXP1m) \| [pixiv](https://www.pixiv.net/users/89641570) \| [Skeb](https://skeb.jp/@eFJfPGad5RaXP1m) \| [FANBOX](https://icenine333.fanbox.cc/) |
+| biyobiyo | びよびよ |  | [FANBOX](https://biyobiyo.fanbox.cc/) \| [X](https://x.com/biyoeight) \| [pixiv](https://www.pixiv.net/users/10316984) \| [Lit.Link](https://lit.link/en/biyoeight) \| [Fantia](https://fantia.jp/fanclubs/522688) |
 
 <!--TEMPLATE:
 |  |  |  |  |
