@@ -9624,7 +9624,7 @@ example:
 | rapurando | らぷらんど |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG13149.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=25901/) \| [pixiv](https://www.pixiv.net/users/5334592) \| [FANBOX](https://rapurando.fanbox.cc/) \| [X](https://x.com/rapu_ran_do) |
 | rare okowa | レアおこわ |  |  |
 | rasa house | らさはうす |  |  |
-| rascou | らすこう |  |  |
+| rascou | らすこう |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG05452.html) \| [Ci-en](https://ci-en.dlsite.com/creator/8728) \| [Bluesky](https://bsky.app/profile/rascou.bsky.social) \| [X](https://x.com/Rascou_2020) |
 | rasen kyuuri | 螺旋きゅうり |  |  |
 | rasinban | Rasinban |  |  |
 | rask | RASK |  |  |
