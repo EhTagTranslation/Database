@@ -5146,7 +5146,7 @@ example:
 | fujimi gaku | 富士見ガク |  |  |
 | fujimiya akane | 藤宮茜 |  |  |
 | fujimiya midori | 藤宮緑 |  |  |
-| fujimiya siryu | フジミヤ子龍 |  |  |
+| fujimiya siryu | フジミヤ子龍 |  | [FANBOX](https://fujimiyasiryu.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/25996126) \| [Pawoo](https://pawoo.net/@siryu88) \| [X](https://x.com/siryupic) |
 | fujimiya yahiro | 藤宮やひろ |  |  |
 | fujimon | ふじもん |  |  |
 | fujimori saya | ふじもり沙耶 |  |  |
