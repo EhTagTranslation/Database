@@ -9540,6 +9540,7 @@ example:
 | charlotte roselei | 夏洛特·罗丝蕾 | ![](https://static.wikia.nocookie.net/blackclover/images/7/7a/Charlotte_movie_concept.png)<br>所属作品：`black clover`<br>日语：シャーロット・ローズレイ |  |
 | yami sukehiro | 夜见介大 | ![](https://static.wikia.nocookie.net/blackclover/images/3/3f/Yami_movie_concept.png)<br>所属作品：`black clover`<br>日语：ヤミ・スケヒロ |  |
 | peter pan | 彼得潘 |  |  |
+| grand master pang | 大师・尼玛 | ![](https://static.wikia.nocookie.net/dragonquest/images/e/ec/Grand_Master_Pang.png)<br>出自作品：`p:dragon quest xi`<br><br>在《勇者斗恶龙XI 寻觅逝去的时光》中，大师・尼玛（ニマ大師 / Grand Master Pang）是度鲁达乡（Angri-La）的最高指导者、主角伙伴「罗」的严师，也是教导他强大武术的绝顶高手。虽然外表年轻美丽，但她实力高强，个性严厉。 | [Fandom](https://dragonquest.fandom.com/wiki/Grand_Master_Pang) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
