@@ -1064,7 +1064,7 @@ example:
 |  | ▼ 闪乱神乐 角色 |  |  |
 | ageha | 扬羽 | ![](https://static.wikia.nocookie.net/kagura/images/f/fd/KakaoTalk_20210407_222454782.jpg)<br>所属作品：`senran kagura` |  |
 | aimu | 蓝梦 | ![](https://static.wikia.nocookie.net/kagura/images/4/45/Aimu_the_Sagittarius.jpg)<br>所属作品：`senran kagura` |  |
-| aria | 亚璃亚 \| 艾丽娅 \| 爱芮 | ①亚璃亚<br>![](https://img.moegirl.org.cn/common/thumb/d/d7/闪乱神乐-亚璃亚.jpg/420px-闪乱神乐-亚璃亚.jpg)<br>所属作品：`senran kagura`<br><br>②艾丽娅<br>![](https://img.moegirl.org.cn/common/thumb/6/61/精灵艾丽娅.png/270px-精灵艾丽娅.png)<br>《S级怪兽〈贝希摩斯〉被误认成小猫，成为精灵女孩的骑士（宠物）一起生活》中的女主角。<br>③爱芮<br>(![](https://zh.moegirl.org.cn/File:ZZZ_aria.png))<br>爱芮是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士（宠物）一起生活) |
+| aria | 亚璃亚 \| 艾丽娅 \| 爱芮 | ①亚璃亚<br>![](https://img.moegirl.org.cn/common/thumb/d/d7/闪乱神乐-亚璃亚.jpg/420px-闪乱神乐-亚璃亚.jpg)<br>所属作品：`senran kagura`<br><br>②艾丽娅<br>![](https://img.moegirl.org.cn/common/thumb/6/61/精灵艾丽娅.png/270px-精灵艾丽娅.png)<br>《S级怪兽〈贝希摩斯〉被误认成小猫，成为精灵女孩的骑士（宠物）一起生活》中的女主角。<br>③爱芮<br>爱芮是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士（宠物）一起生活) |
 | ashiya | 芦屋 | ![](https://static.wikia.nocookie.net/kagura/images/8/8f/Golden_Goddess_Ashiya_Fullbody_2.jpg)<br>所属作品：`senran kagura` |  |
 | asuka | 飞鸟 | ![](https://i0.hdslb.com/bfs/article/b8cd6f73b8de253cc09fa29aebbc73a3298252208.png)<br>所属作品：`senran kagura` |  |
 | ayame | 菖蒲 | ![](https://static.wikia.nocookie.net/kagura/images/3/32/Ayame_PBS.png)<br>所属作品：`senran kagura` |  |
