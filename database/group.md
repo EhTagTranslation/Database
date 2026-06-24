@@ -14001,6 +14001,7 @@ example:
 | bio chample | バイオチャンプル |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78204/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48630.html) |
 | chisakiss | チサキッス |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/detail/=/cid=d_622331/) |
 | berrl no hakoniwa | ベルの箱庭 | `berrl felpurr`使用的同人社团名称 |  |
+| unisonshift accent | ユニゾンシフト・アクセント | UNiSONSHIFT Accent |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
