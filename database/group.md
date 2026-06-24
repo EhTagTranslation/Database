@@ -8716,7 +8716,7 @@ example:
 | nt robo | NTラボ |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=45061) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG39864.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75602/) |
 | ntr king | NTR キング |  |  |
 | ntr suishin iinkai | NTR推進委員会 |  |  |
-| ntr system | NTRシステム |  |  |
+| ntr system | NTRシステム |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75405/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG39309.html) \| [Ci-en](https://ci-en.dlsite.com/creator/4326) |
 | ntrbear | Ntrbear |  |  |
 | nu | Nu |  |  |
 | nui gohan | ぬいごはん |  |  |
