@@ -9558,6 +9558,7 @@ example:
 | honest | 「实」 | ![](https://i.ytimg.com/vi/kGotedoQTVs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD0pklaYhF_QWlKUBIaR6ditVkBhA)<br>所属作品：`last command` |  |
 | recette lemongrass | 露塞提娅·柠檬草 | ![](https://static.wikia.nocookie.net/recettear/images/7/78/Recette.gif)<br>所属作品：`recettear` |  |
 | anita | 安妮塔 | 常用名，无特指。 |  |
+| emi kobayashi | 小林惠美 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
