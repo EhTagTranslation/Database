@@ -9544,6 +9544,7 @@ example:
 | carole stanley | 卡罗尔·斯坦利 | 所属作品：`carole and tuesday` |  |
 | tuesday simmons | 特丝黛·西蒙斯 | 所属作品：`carole and tuesday` |  |
 | becky lynch | 贝基·林奇 | 所属作品：`fortnite` |  |
+| bianca belair | 比安卡·贝拉尔 | 所属作品：`fortnite` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
