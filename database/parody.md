@@ -2867,6 +2867,7 @@ example:
 | last command | 最后指令 | ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1487270/336c1963049202454fc95ee07248953e940ad309/header_alt_assets_0_schinese.jpg?t=1780716755)<br>《最后指令 Last Command》是一款结合经典游戏贪吃蛇与弹幕要素的全新动作游戏。 | [Steam](https://store.steampowered.com/app/1487270/_/) |
 | void stranger | 虚空陌客 | ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2121980/header.jpg?t=1735612860)<br>由 ‌System Erasure‌ 开发发行的 ‌2D 迷宫解谜游戏 | [Steam](https://store.steampowered.com/app/2121980/Void_Stranger/) |
 | recettear | 露塞提娅:道具屋经营妙方 | ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70400/header.jpg?t=1447353479) | [Steam](https://store.steampowered.com/app/70400/Recettear_An_Item_Shops_Tale/) |
+| nanoapostle | 奈米使徒计划 | ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400640/header.jpg?t=1768575257)<br>《奈米使徒计划》是一款科幻风格的 Boss Rush 动作游戏‌，玩家扮演被植入奈米机械的少女安妮塔，在生化兵器研究所中战斗并寻求逃脱 。‌‌‌ | [Steam](https://store.steampowered.com/app/2400640/_/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
