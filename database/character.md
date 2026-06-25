@@ -9560,6 +9560,7 @@ example:
 | anita | 安妮塔 | 常用名，无特指。 |  |
 | emi kobayashi | 小林绘美 | 所属作品：`2 shot diary` |  |
 | papyrus | 莎草 | ![](https://arknights.wiki.gg/images/Papyrus.png)<br>所属作品 `p:arknights` | [PRTS](https://prts.wiki/w/莎草) |
+| ren kizaki | 牙崎涟 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
