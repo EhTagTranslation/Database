@@ -9556,6 +9556,7 @@ example:
 | theo | Theo | ![](https://static.wikia.nocookie.net/celestegame/images/f/f2/Theo_Instagram.png)<br>所属作品：`celeste` |  |
 | madeline | Madeline | ![](https://static.wikia.nocookie.net/celestegame/images/5/5f/Madeline_Serious_Left.png)<br>所属作品：`celeste` |  |
 | honest | 「实」 | ![](https://i.ytimg.com/vi/kGotedoQTVs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD0pklaYhF_QWlKUBIaR6ditVkBhA)<br>所属作品：`last command` |  |
+| recette lemongrass | 露塞提娅·柠檬草 | ![](https://static.wikia.nocookie.net/recettear/images/7/78/Recette.gif)<br>所属作品：`recettear` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
