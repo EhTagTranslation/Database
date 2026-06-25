@@ -9554,6 +9554,7 @@ example:
 | hecuba | 赫库芭 | ![](https://static.wikia.nocookie.net/onimusha/images/1/13/Hecubarender.png)<br>所属作品：`onimusha`<br>外型为巨大蜜蜂的高等幻魔,是少数能够召唤地狱门的幻魔。 |  |
 | louise bridges | 明日 | ![](https://static.wikia.nocookie.net/deathstranding/images/6/6f/DS2_Tomorrow_Poster.jpeg)<br>所属作品：`death stranding`<br>山姆的亲生女儿，昵称为洛。 |  |
 | theo | Theo | ![](https://static.wikia.nocookie.net/celestegame/images/f/f2/Theo_Instagram.png)<br>所属作品：`celeste` |  |
+| madeline | Madeline | ![](https://static.wikia.nocookie.net/celestegame/images/5/5f/Madeline_Serious_Left.png)<br>所属作品：`celeste` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
