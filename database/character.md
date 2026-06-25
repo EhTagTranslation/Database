@@ -9551,6 +9551,7 @@ example:
 | valkyrie hildr | 希露德 | ![](https://static.wikia.nocookie.net/typemoon/images/f/f5/LancerValkyrieStage2.png)<br>所属作品：`fate grand order` |  |
 | valkyrie olrun | 奥尔露恩 | ![](https://static.wikia.nocookie.net/typemoon/images/1/17/AssassinÖlrúnFull.png)<br>所属作品：`fate grand order`<br>日语：ワルキューレ・エルルーン |  |
 | lorna frost | 罗娜·弗罗斯特 | ![](https://static.wikia.nocookie.net/enderlilies/images/d/d4/EM_Lorna_Frost.png)<br>所属作品：`ender magnolia` |  |
+| hecuba | 赫库芭 | ![](https://static.wikia.nocookie.net/onimusha/images/1/13/Hecubarender.png)<br>所属作品：`onimusha`<br>外型为巨大蜜蜂的高等幻魔,是少数能够召唤地狱门的幻魔。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
