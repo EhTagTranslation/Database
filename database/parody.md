@@ -2863,6 +2863,7 @@ example:
 | ender magnolia | 终焉之玛格诺利亚 | ![](https://static.wikia.nocookie.net/enderlilies/images/a/ac/EM_Key_Art.jpg)<br>《ENDER MAGNOLIA》是一款黑暗奇幻风格的 2D 横版动作角色扮演游戏， 玩家将冒险穿越荒凉的烟雾之地，拯救人类和人造人。 | [Steam](https://store.steampowered.com/app/2725260/ENDER_MAGNOLIA_Bloom_in_the_Mist/) |
 | opus prism peak | OPUS: 心相吾山 | ![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1947910/674031f3b27f43627ead1e6e4b60caeeab059f9a/capsule_616x353.jpg?t=1779209454)<br>中国台湾开发商 SIGONO 打造的叙事冒险游戏。 | [Steam](https://store.steampowered.com/app/1947910/OPUS/) |
 | death stranding | 死亡搁浅 | ![](https://static.wikia.nocookie.net/deathstranding/images/8/8d/DS_key_art_final.jpg)<br>《死亡搁浅》是一款由小岛工作室开发的动作冒险游戏 。 |  |
+| celeste | 蔚蓝 | ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504230/header.jpg?t=1714089525)<br>《蔚蓝》是由加拿大电子游戏设计师麦迪·索尔森和诺尔·贝瑞所设计开发的平台类独立游戏，讲述了主角玛德琳在攀登塞莱斯特山途中，面对自身恐慌和抑郁的故事。 | [Steam](https://store.steampowered.com/app/504230/Celeste/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
