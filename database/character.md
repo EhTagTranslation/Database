@@ -9550,6 +9550,7 @@ example:
 | thrud | 斯露德 | ![](https://static.wikia.nocookie.net/typemoon/images/c/ca/LancerValkyrieStage3.png)<br>所属作品：`fate grand order` |  |
 | valkyrie hildr | 希露德 | ![](https://static.wikia.nocookie.net/typemoon/images/f/f5/LancerValkyrieStage2.png)<br>所属作品：`fate grand order` |  |
 | valkyrie olrun | 奥尔露恩 | ![](https://static.wikia.nocookie.net/typemoon/images/1/17/AssassinÖlrúnFull.png)<br>所属作品：`fate grand order`<br>日语：ワルキューレ・エルルーン |  |
+| lorna frost | 罗娜·弗罗斯特 | ![](https://static.wikia.nocookie.net/enderlilies/images/d/d4/EM_Lorna_Frost.png)<br>所属作品：`ender magnolia` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
