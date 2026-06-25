@@ -9546,6 +9546,7 @@ example:
 | becky lynch | 贝基·林奇 | 所属作品：`fortnite` |  |
 | bianca belair | 比安卡·贝拉尔 | 所属作品：`fortnite` |  |
 | tarasque | 不识爱的悲哀之龙 | ![](https://static.wikia.nocookie.net/typemoon/images/5/5b/Tarasque.png)<br>所属作品：`fate grand order` |  |
+| valkyrie ortlinde | 女武神奥特琳德 | ![](https://static.wikia.nocookie.net/typemoon/images/e/e7/LancerValkyrieStage1.png)<br>所属作品：`fate grand order` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
