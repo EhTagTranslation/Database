@@ -5440,7 +5440,7 @@ example:
 | harapecodonburi | はらぺこどんぶり |  |  |
 | harapekkoken | ハラペッコケン |  |  |
 | harapeko shucchoujo | はらぺこ出張所 |  |  |
-| harapeko teishoku | はらぺこ定食 |  |  |
+| harapeko teishoku | はらぺこ定食 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG09320.html) |
 | harapekopon | はらぺこぽん |  |  |
 | haratama | ハラタマ |  |  |
 | hard days | hard days |  |  |
