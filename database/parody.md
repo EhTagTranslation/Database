@@ -2862,6 +2862,7 @@ example:
 | king exit | 王的逝去 | ![](https://static.wikia.nocookie.net/rpgmaker/images/2/24/King_Exit.jpg)<br>King Exit 是由红唯まと制作的一部RPG游戏，并有前传Demons Roots。<br>别名：《英雄的越狱》 | [Steam](https://store.steampowered.com/app/712840/King_Exit/) |
 | ender magnolia | 终焉之玛格诺利亚 | ![](https://static.wikia.nocookie.net/enderlilies/images/a/ac/EM_Key_Art.jpg)<br>《ENDER MAGNOLIA》是一款黑暗奇幻风格的 2D 横版动作角色扮演游戏， 玩家将冒险穿越荒凉的烟雾之地，拯救人类和人造人。 | [Steam](https://store.steampowered.com/app/2725260/ENDER_MAGNOLIA_Bloom_in_the_Mist/) |
 | opus prism peak | OPUS: 心相吾山 | ![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1947910/674031f3b27f43627ead1e6e4b60caeeab059f9a/capsule_616x353.jpg?t=1779209454)<br>中国台湾开发商 SIGONO 打造的叙事冒险游戏。 | [Steam](https://store.steampowered.com/app/1947910/OPUS/) |
+| death stranding | 死亡搁浅 | ![](https://static.wikia.nocookie.net/deathstranding/images/8/8d/DS_key_art_final.jpg)<br>《死亡搁浅》是一款由小岛工作室开发的动作冒险游戏 。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
