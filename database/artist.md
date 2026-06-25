@@ -15329,6 +15329,7 @@ example:
 | tansui | 炭水 | 推特、skeb、p站都是叫炭水 | [X](https://x.com/tansui_san)<br>[Skeb](https://skeb.jp/@tansui_san)<br>[pixiv](https://www.pixiv.net/users/76255332) |
 | ouichi | 凹一 |  |  |
 | tobino bino | 鳶野びの |  |  |
+| hachicon | hachicon |  | [X](https://x.com/hachicon_works/) \| [Skeb](https://skeb.jp/@hachicon_works) \| [FANBOX](https://hachicon.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/546952) \| [Patreon](https://www.patreon.com/cw/hachicon_works) \| [pixiv](https://www.pixiv.net/users/8067116) |
 
 <!--TEMPLATE:
 |  |  |  |  |
