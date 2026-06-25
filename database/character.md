@@ -9549,6 +9549,7 @@ example:
 | valkyrie ortlinde | 奥特琳德 | ![](https://static.wikia.nocookie.net/typemoon/images/e/e7/LancerValkyrieStage1.png)<br>所属作品：`fate grand order` |  |
 | thrud | 斯露德 | ![](https://static.wikia.nocookie.net/typemoon/images/c/ca/LancerValkyrieStage3.png)<br>所属作品：`fate grand order` |  |
 | valkyrie hildr | 希露德 | ![](https://static.wikia.nocookie.net/typemoon/images/f/f5/LancerValkyrieStage2.png)<br>所属作品：`fate grand order` |  |
+| valkyrie olrun | 奥尔露恩 | ![](https://static.wikia.nocookie.net/typemoon/images/1/17/AssassinÖlrúnFull.png)<br>所属作品：`fate grand order`<br>日语：ワルキューレ・エルルーン |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
