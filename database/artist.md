@@ -15328,6 +15328,7 @@ example:
 | biyobiyo | びよびよ |  | [FANBOX](https://biyobiyo.fanbox.cc/) \| [X](https://x.com/biyoeight) \| [pixiv](https://www.pixiv.net/users/10316984) \| [Lit.Link](https://lit.link/en/biyoeight) \| [Fantia](https://fantia.jp/fanclubs/522688) |
 | tansui | 炭水 | 推特、skeb、p站都是叫炭水 | [X](https://x.com/tansui_san)<br>[Skeb](https://skeb.jp/@tansui_san)<br>[pixiv](https://www.pixiv.net/users/76255332) |
 | ouichi | 凹一 |  |  |
+| tobino bino | 鳶野びの |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
