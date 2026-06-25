@@ -9552,6 +9552,7 @@ example:
 | valkyrie olrun | 奥尔露恩 | ![](https://static.wikia.nocookie.net/typemoon/images/1/17/AssassinÖlrúnFull.png)<br>所属作品：`fate grand order`<br>日语：ワルキューレ・エルルーン |  |
 | lorna frost | 罗娜·弗罗斯特 | ![](https://static.wikia.nocookie.net/enderlilies/images/d/d4/EM_Lorna_Frost.png)<br>所属作品：`ender magnolia` |  |
 | hecuba | 赫库芭 | ![](https://static.wikia.nocookie.net/onimusha/images/1/13/Hecubarender.png)<br>所属作品：`onimusha`<br>外型为巨大蜜蜂的高等幻魔,是少数能够召唤地狱门的幻魔。 |  |
+| louise bridges | 洛 | ![](https://static.wikia.nocookie.net/deathstranding/images/6/6f/DS2_Tomorrow_Poster.jpeg)<br>所属作品：`death stranding`<br>山姆的亲生女儿。‌‌ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
