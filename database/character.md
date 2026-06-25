@@ -9555,6 +9555,7 @@ example:
 | louise bridges | 明日 | ![](https://static.wikia.nocookie.net/deathstranding/images/6/6f/DS2_Tomorrow_Poster.jpeg)<br>所属作品：`death stranding`<br>山姆的亲生女儿，昵称为洛。 |  |
 | theo | Theo | ![](https://static.wikia.nocookie.net/celestegame/images/f/f2/Theo_Instagram.png)<br>所属作品：`celeste` |  |
 | madeline | Madeline | ![](https://static.wikia.nocookie.net/celestegame/images/5/5f/Madeline_Serious_Left.png)<br>所属作品：`celeste` |  |
+| honest | 「实」 | ![](https://static.wikia.nocookie.net/last-command/images/7/7b/Icon_Honest.png)<br>所属作品：`last command` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
