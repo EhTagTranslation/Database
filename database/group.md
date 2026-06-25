@@ -14004,6 +14004,7 @@ example:
 | unisonshift accent | ユニゾンシフト・アクセント | UNiSONSHIFT Accent |  |
 | goodspeed | goodspeed |  | [X](https://x.com/goodspeed20182) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44215.html) \| [Skeb](https://skeb.jp/@goodspeed20182) \| [Fantia](https://fantia.jp/fanclubs/551926) |
 | atelier fujimiya | アトリエフジミヤ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG51555.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200304/) |
+| ponkanshou | 凸完庄 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
