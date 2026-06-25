@@ -2860,6 +2860,7 @@ example:
 | kimi to kanojo to kanojo no koi. | 你和她和她的恋爱。 | Nitro+游戏 |  |
 | w.l.o. sekai renai kikou | W.L.O 世界恋爱机构 | 典型日本人思维命名方式 |  |
 | king exit | 王的逝去 | ![](https://static.wikia.nocookie.net/rpgmaker/images/2/24/King_Exit.jpg)<br>King Exit 是由红唯まと制作的一部RPG游戏，并有前传Demons Roots。<br>别名：《英雄的越狱》 | [Steam](https://store.steampowered.com/app/712840/King_Exit/) |
+| ender magnolia | 终焉之玛格诺利亚 | ![](https://static.wikia.nocookie.net/enderlilies/images/a/ac/EM_Key_Art.jpg)<br>《ENDER MAGNOLIA》是一款黑暗奇幻风格的 2D 横版动作角色扮演游戏， 玩家将冒险穿越荒凉的烟雾之地，拯救人类和人造人。 | [Steam](https://store.steampowered.com/app/2725260/ENDER_MAGNOLIA_Bloom_in_the_Mist/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
