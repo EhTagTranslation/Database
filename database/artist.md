@@ -10350,7 +10350,7 @@ example:
 | sudou | すどー |  |  |
 | suehiro yoshiyuki | 末廣よしゆき |  |  |
 | suemitsu dicca | すえみつぢっか |  |  |
-| sueyuu | すえゆう |  |  |
+| sueyuu | すえゆう |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22すえゆう%22/ana_flg/all) |
 | sugai | スガイ |  |  |
 | sugaleon | スガレオン |  |  |
 | sugamon | すがもん |  |  |
