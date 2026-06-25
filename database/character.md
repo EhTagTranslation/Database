@@ -9559,6 +9559,7 @@ example:
 | recette lemongrass | 露塞提娅·柠檬草 | ![](https://static.wikia.nocookie.net/recettear/images/7/78/Recette.gif)<br>所属作品：`recettear` |  |
 | anita | 安妮塔 | 常用名，无特指。 |  |
 | emi kobayashi | 小林绘美 | 所属作品：`2 shot diary` |  |
+| papyrus | 莎草 | ![](https://arknights.wiki.gg/images/Papyrus.png)<br>所属作品 `p:arknights` | [PRTS](https://prts.wiki/w/莎草) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
