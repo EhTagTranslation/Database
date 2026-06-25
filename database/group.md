@@ -10406,7 +10406,7 @@ example:
 | shoshinsha crossover | 初心者クロスオーバー |  |  |
 | shota scratch jikkou iinkai | スクラッチ実行委員会 |  |  |
 | shotafes junbikai | ショタフェス準備会 |  |  |
-| shoudansha | 笑談者 |  |  |
+| shoudansha | 笑談者 |  | [BOOTH](https://syoudannsya-ntr.booth.pm/) \| [pixiv](https://www.pixiv.net/users/13978499) \| [X](https://x.com/Sano_Rituka) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG29712.html) \| [Ci-en](https://ci-en.dlsite.com/creator/6477) |
 | shouga udon | 枯葉 |  |  |
 | shoujo aigan club | 少女愛玩倶楽部 |  |  |
 | shoujo ex | 少女EX |  |  |
