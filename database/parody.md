@@ -2865,6 +2865,7 @@ example:
 | death stranding | 死亡搁浅 | ![](https://static.wikia.nocookie.net/deathstranding/images/8/8d/DS_key_art_final.jpg)<br>《死亡搁浅》是一款由小岛工作室开发的动作冒险游戏 。 |  |
 | celeste | 蔚蓝 | ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504230/header.jpg?t=1714089525)<br>《蔚蓝》是由加拿大电子游戏设计师麦迪·索尔森和诺尔·贝瑞所设计开发的平台类独立游戏，讲述了主角玛德琳在攀登塞莱斯特山途中，面对自身恐慌和抑郁的故事。 | [Steam](https://store.steampowered.com/app/504230/Celeste/) |
 | last command | 最后指令 | ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1487270/336c1963049202454fc95ee07248953e940ad309/header_alt_assets_0_schinese.jpg?t=1780716755)<br>《最后指令 Last Command》是一款结合经典游戏贪吃蛇与弹幕要素的全新动作游戏。 | [Steam](https://store.steampowered.com/app/1487270/_/) |
+| void stranger | 虚空陌客 | ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2121980/header.jpg?t=1735612860)<br>由 ‌System Erasure‌ 开发发行的 ‌2D 迷宫解谜游戏 | [Steam](https://store.steampowered.com/app/2121980/Void_Stranger/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
