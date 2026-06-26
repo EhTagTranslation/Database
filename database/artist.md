@@ -5054,7 +5054,7 @@ example:
 | ero murasaki | エロムラサキ |  |  |
 | erobaldo | エロバルド |  |  |
 | erutasuku | えるたすく |  |  |
-| escape | えすけーぷ! |  |  |
+| escape | えすけーぷ! |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG32256.html) |
 | esora koto | 絵空コト |  |  |
 | esukichizuru | S木チズリ |  |  |
 | esuo | えすお |  |  |
