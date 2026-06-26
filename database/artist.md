@@ -15330,6 +15330,7 @@ example:
 | ouichi | 凹一 |  |  |
 | tobino bino | 鳶野びの |  |  |
 | hachicon | hachicon |  | [X](https://x.com/hachicon_works/) \| [Skeb](https://skeb.jp/@hachicon_works) \| [FANBOX](https://hachicon.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/546952) \| [Patreon](https://www.patreon.com/cw/hachicon_works) \| [pixiv](https://www.pixiv.net/users/8067116) |
+| ameno | 雨之 |  | [pixiv](https://www.pixiv.net/users/15290540) \| [FANBOX](https://www.fanbox.cc/@uriens) \| [Pawoo](https://pawoo.net/@uriens) \| [X](https://x.com/ameyuki23) |
 
 <!--TEMPLATE:
 |  |  |  |  |
