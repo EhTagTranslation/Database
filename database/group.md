@@ -13730,7 +13730,7 @@ example:
 | adolescence maru | アドレセンス丸 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01043317.html) |
 | navy coffee | NAVY COFFEE |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=25378) |
 | atomodori dekinai ten q | 後戻り出来ない点q |  |  |
-| pot detox | ぽっとデトックス |  |  |
+| pot detox | ぽっとデトックス |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01004509.html) |
 | koumon seikoujo | 校門製鋼所 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01051252.html) |
 | daisakyuu | 大砂丘 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01062927.html) |
 | full exist | フルイスエミ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202915/) |
