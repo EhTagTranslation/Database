@@ -12750,7 +12750,7 @@ example:
 | yuuki saien | ユーキ菜園 |  |  |
 | ginshio honpo | 银しお本铺 |  |  |
 | kitsune no nijibiya | 狐の虹火屋 |  |  |
-| juubako seisakujo | 重箱製作所 |  |  |
+| juubako seisakujo | 重箱製作所 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78606/) |
 | mandara ryuuseigun | マンダラ流星群 |  |  |
 | chimimou land | ちみもうらんど |  |  |
 | neyagurui | ねやぐるい |  |  |
