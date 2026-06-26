@@ -9561,6 +9561,7 @@ example:
 | emi kobayashi | 小林绘美 | 所属作品：`2 shot diary` |  |
 | papyrus | 莎草 | ![](https://arknights.wiki.gg/images/Papyrus.png)<br>所属作品 `p:arknights` | [PRTS](https://prts.wiki/w/莎草) |
 | ren kizaki | 牙崎涟 |  |  |
+| alderp barnes alexei | 阿尔达普·阿列克谢·巴内斯 | ![](https://static.wikia.nocookie.net/konosuba/images/7/7d/Alderp_Barnes_Alexei.png)<br>出自作品：`p:kono subarashii sekai ni syukufuku o`<br><br>阿尔达普·阿列克谢·巴内斯（Alexei Barnes Alderp / アレクセイ・バーネス・アルダープ）是轻小说及动漫作品《为美好的世界献上祝福！》中的反派角色。 | [Fandom](https://konosuba.fandom.com/wiki/Alderp_Barnes_Alexei) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
