@@ -14166,7 +14166,7 @@ example:
 | suppa | すっぱ |  | [pixiv](https://www.pixiv.net/users/29759363) [X](https://x.com/hagakuresuppa) |
 | sekka mushi | 雪花蟲 |  | [pixiv](https://www.pixiv.net/users/111488352) |
 | nishikasai munieru | 西葛西むにえる |  | [pixiv](https://www.pixiv.net/users/3345033) |
-| mopumopu | もぷもぷ |  |  |
+| mopumopu | もぷもぷ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG33508.html) |
 | ooishi kou | 大石コウ |  |  |
 | sakura muni | 桜むに |  |  |
 | yuu ringo | 幽林檎 |  |  |
