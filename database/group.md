@@ -13242,7 +13242,7 @@ example:
 | kairaku | 快楽 |  |  |
 | petra-beta | Petra-β |  |  |
 | ray-raw | Ray-Raw |  |  |
-| paiwohasa-mu | パイオハサーム |  |  |
+| paiwohasa-mu | パイオハサーム |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203722/) |
 | q doujin | Q同人 |  |  |
 | tooka chaya | 十日茶屋 |  |  |
 | arumike | あるみ家 |  |  |
