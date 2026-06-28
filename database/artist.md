@@ -15337,6 +15337,7 @@ example:
 | arino | 蟻乃 |  |  |
 | miyako surota | 京師すろた |  |  |
 | opurotein | おぷろていん |  |  |
+| satou mizu | 佐藤ミズ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
