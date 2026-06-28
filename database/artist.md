@@ -15336,6 +15336,7 @@ example:
 | samorame | サモラメ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01041799.html) |
 | arino | 蟻乃 |  |  |
 | miyako surota | 京師すろた |  |  |
+| opurotein | おぷろていん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
