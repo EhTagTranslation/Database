@@ -14008,6 +14008,7 @@ example:
 | torotoro yume banana | とろとろ夢ばなな |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG61394.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200877/) |
 | rocinante | ロシナンテ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200874/) \| [FANBOX](https://roci.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/48757687) \| [X](https://x.com/rocin_ante) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53214.html) |
 | nana no moe | Nana no moe |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG74103.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206926/) |
+| upstick | upStick |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG64667.html) \| [Ci-en](https://ci-en.dlsite.com/creator/20163) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
