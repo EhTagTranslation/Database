@@ -732,7 +732,7 @@ example:
 | peach candy | Peach Candy |  |  |
 | live house | LIVE HOUSE |  |  |
 | sujoyu and co. | 酢醤油&Co. |  |  |
-| dksha | DKsha |  |  |
+| dksha | DKsha |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=232158/) |
 | re barna | re:barna |  |  |
 | furanokumarin | ふらのくまりん |  |  |
 | rm-rf- | RM-RF-\* |  |  |
