@@ -14006,6 +14006,7 @@ example:
 | atelier fujimiya | アトリエフジミヤ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG51555.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200304/) |
 | ponkanshou | 凸完庄 |  |  |
 | torotoro yume banana | とろとろ夢ばなな |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG61394.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200877/) |
+| rocinante | ロシナンテ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200874/) \| [FANBOX](https://roci.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/48757687) \| [X](https://x.com/rocin_ante) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53214.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
