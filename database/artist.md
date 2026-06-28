@@ -15335,6 +15335,7 @@ example:
 | nishina kakeri | 仁科かけり |  | [X](https://x.com/kakeri247) [FANBOX](https://www.fanbox.cc/@kakeri247) |
 | samorame | サモラメ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01041799.html) |
 | arino | 蟻乃 |  |  |
+| miyako surota | 京師すろた |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
