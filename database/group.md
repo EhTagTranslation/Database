@@ -14010,6 +14010,7 @@ example:
 | nana no moe | Nana no moe |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG74103.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206926/) |
 | upstick | upStick |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG64667.html) \| [Ci-en](https://ci-en.dlsite.com/creator/20163) |
 | kakun | カークン |  | [FANBOX](https://kakunr18.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/86937522) \| [X](https://x.com/karkun369) \| [X](https://x.com/karkunr18) |
+| myajima | みゃ島 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
