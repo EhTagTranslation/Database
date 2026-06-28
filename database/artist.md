@@ -15333,6 +15333,7 @@ example:
 | ameno | 雨之 |  | [pixiv](https://www.pixiv.net/users/15290540) \| [FANBOX](https://www.fanbox.cc/@uriens) \| [Pawoo](https://pawoo.net/@uriens) \| [X](https://x.com/ameyuki23) |
 | mocoda | モコ田 |  | [pixiv](https://www.pixiv.net/users/118431518) |
 | nishina kakeri | 仁科かけり |  | [X](https://x.com/kakeri247) [FANBOX](https://www.fanbox.cc/@kakeri247) |
+| samorame | サモラメ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01041799.html) |
 
 <!--TEMPLATE:
 |  |  |  |  |
