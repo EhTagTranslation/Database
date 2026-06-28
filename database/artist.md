@@ -15338,6 +15338,7 @@ example:
 | miyako surota | 京師すろた |  |  |
 | opurotein | おぷろていん |  |  |
 | satou mizu | 佐藤ミズ |  |  |
+| tokoloten | シもん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
