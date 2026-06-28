@@ -15339,6 +15339,7 @@ example:
 | opurotein | おぷろていん |  |  |
 | satou mizu | 佐藤ミズ |  |  |
 | tokoloten | シもん |  |  |
+| myaji | みゃじ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
