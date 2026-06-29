@@ -11679,7 +11679,7 @@ example:
 | ukikusaya | うきくさ屋 |  |  |
 | ultimania | アルティマニア |  |  |
 | ultimate works | アルティメットワークス |  |  |
-| ultra one | ULTRA ○NE |  |  |
+| ultra one | ULTRA ○NE |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG25835.html) \| [Ci-en](https://ci-en.dlsite.com/creator/15463) |
 | ultra siccative | ウルトラシッカチーフ |  |  |
 | ultra violet | ULTRA Violet |  |  |
 | ululun | UluluN |  |  |
