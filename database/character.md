@@ -9565,6 +9565,7 @@ example:
 | hua yuqing | 花语青 | ![](https://mahjongsoul.wiki.gg/images/thumb/Yuqing-default.png/600px-Yuqing-default.png?209320)<br>所属作品：`mahjong soul` |  |
 | yasuo | 亚索(疾风剑豪) | ![](https://static.wikia.nocookie.net/leagueoflegends/images/c/cd/Yasuo_OriginalCentered.jpg)<br>所属作品：`league of legends` |  |
 | albert brudzewski | 阿尔伯特·布鲁泽夫斯基 | ![](https://lain.bgm.tv/r/400/pic/crt/l/24/61/161911_crt_sy1Tx.jpg?r=1741944126)<br>所属作品：`chi. chikyuu no undou ni tsuite` |  |
+| rafal | 拉法尔 | ![](https://lain.bgm.tv/r/400/pic/crt/l/0f/46/112709_crt_KLXXw.jpg?r=1721877180)<br>所属作品：`chi. chikyuu no undou ni tsuite` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
