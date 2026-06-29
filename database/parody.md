@@ -2869,6 +2869,7 @@ example:
 | recettear | 露塞提娅:道具屋经营妙方 | ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70400/header.jpg?t=1447353479) | [Steam](https://store.steampowered.com/app/70400/Recettear_An_Item_Shops_Tale/) |
 | nanoapostle | 奈米使徒计划 | ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400640/header.jpg?t=1768575257)<br>《奈米使徒计划》是一款科幻风格的 Boss Rush 动作游戏‌，玩家扮演被植入奈米机械的少女安妮塔，在生化兵器研究所中战斗并寻求逃脱 。‌‌‌ | [Steam](https://store.steampowered.com/app/2400640/_/) |
 | 2 shot diary | 双人日记 | ![](https://upload.wikimedia.org/wikipedia/fr/thumb/b/bd/2_shot_diary_logo.png/500px-2_shot_diary_logo.png)<br>《2 Shot Diary》是一款在 FM Towns 平台上发行的冒险游戏，现已停止运营。<br>日语：ツーショットDiary |  |
+| chi. chikyuu no undou ni tsuite | 地。―关于地球的运动― | ![](https://upload.wikimedia.org/wikipedia/en/b/b7/Chi%2C_Chikyū_no_Undō_ni_Tsuite_vol_1.png)<br>鱼丰创作的漫画，并有改编动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
