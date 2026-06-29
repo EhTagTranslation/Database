@@ -9567,6 +9567,7 @@ example:
 | albert brudzewski | 阿尔伯特·布鲁泽夫斯基 | ![](https://lain.bgm.tv/r/400/pic/crt/l/24/61/161911_crt_sy1Tx.jpg?r=1741944126)<br>所属作品：`chi. chikyuu no undou ni tsuite` |  |
 | rafal | 拉法尔 | ![](https://lain.bgm.tv/r/400/pic/crt/l/0f/46/112709_crt_KLXXw.jpg?r=1721877180)<br>所属作品：`chi. chikyuu no undou ni tsuite` |  |
 | oczy | 奥克齐 | ![](https://lain.bgm.tv/r/400/pic/crt/l/34/c3/112713_crt_hC3r5.jpg?r=1725507182)<br>所属作品：`chi. chikyuu no undou ni tsuite` |  |
+| badeni | 巴德尼 | ![](https://lain.bgm.tv/r/400/pic/crt/l/cd/1c/112715_crt_Y5mF5.jpg?r=1725507203)<br>所属作品：`chi. chikyuu no undou ni tsuite` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
