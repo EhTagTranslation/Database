@@ -11983,7 +11983,7 @@ example:
 | zero punch | ぜろぽんち |  |  |
 | zero tanuki | 零狸 |  |  |
 | zessekaishonen | 絶世界少年 |  |  |
-| zest | ゼスト |  |  |
+| zest | ゼスト |  | [pixiv](https://www.pixiv.net/users/457540) |
 | zettaizetumei | 絶対絶命 |  |  |
 | zetz | ぜっつ |  |  |
 | zima | Zima |  |  |
