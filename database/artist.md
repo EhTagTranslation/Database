@@ -15341,6 +15341,7 @@ example:
 | tokoloten | シもん |  |  |
 | myaji | みゃじ |  |  |
 | tokyo gunjo | 东京群青 |  |  |
+| purugame | プルガメ |  | [pixiv](https://www.pixiv.net/users/46754200) \| [X](https://x.com/purugameko) \| [odaibako](https://odaibako.net/u/purugameko) |
 
 <!--TEMPLATE:
 |  |  |  |  |
