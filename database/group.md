@@ -298,7 +298,7 @@ example:
 | inst | Inst |  |  |
 | plum | PLUM |  |  |
 | kaze no gotoku | 風のごとく! |  |  |
-| haitoku sensei | はいとく先生 |  |  |
+| haitoku sensei | はいとく先生 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG21810.html) \| [Ci-en](https://ci-en.dlsite.com/creator/24325) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28805/) |
 | angyadow | 行脚堂 |  |  |
 | noraneko-no-tama | ノラネコノタマ |  |  |
 | hizadati zekkouchou | ひざだち絶好調 |  |  |
