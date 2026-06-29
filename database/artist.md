@@ -754,7 +754,7 @@ example:
 | dunga | ドゥンガ |  |  |
 | musashi daichi | 武蔵ダイチ |  |  |
 | nukunuku orange | ヌクヌクオレンジ |  |  |
-| onikubo hirohisa | 鬼窪浩久 |  |  |
+| onikubo hirohisa | 鬼窪浩久 |  | [FANZA](https://book.dmm.co.jp/list/?author=25037) |
 | sagattoru | サカッとる |  |  |
 | tamaki | TAMAKI \| 環 |  |  |
 | ahemaru | アヘ丸 |  | [pixiv](https://www.pixiv.net/users/287671) |
