@@ -3335,7 +3335,7 @@ example:
 | blind alley | Blind Alley |  |  |
 | blink | blink |  |  |
 | blip | BLIP |  |  |
-| blitzkrieg | ブリッツクリーク |  |  |
+| blitzkrieg | ブリッツクリーク |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG10878.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28656/) |
 | blood plus blood | ぶらっど+ぶらっど |  |  |
 | blood temple | BLOOD TEMPLE |  |  |
 | bloodberry | BloodBerry |  |  |
