@@ -15342,6 +15342,7 @@ example:
 | myaji | みゃじ |  |  |
 | tokyo gunjo | 东京群青 |  |  |
 | purugame | プルガメ |  | [pixiv](https://www.pixiv.net/users/46754200) \| [X](https://x.com/purugameko) \| [odaibako](https://odaibako.net/u/purugameko) |
+| haitoku sensei | はいとく先生 |  | [X](https://x.com/HaitokuSensei) \| [pixiv](https://www.pixiv.net/users/5960171) \| [Fantia](https://fantia.jp/fanclubs/6368) \| [FANBOX](https://haitoku.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
