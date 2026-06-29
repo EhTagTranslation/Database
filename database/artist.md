@@ -15340,7 +15340,7 @@ example:
 | satou mizu | 佐藤ミズ |  |  |
 | tokoloten | シもん |  |  |
 | myaji | みゃじ |  |  |
-| tokyo gunjo | 東京群青 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG58603.html) |
+| tokyo gunjo | 东京群青 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
