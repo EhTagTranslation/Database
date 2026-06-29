@@ -1312,7 +1312,7 @@ example:
 | 88 gou | 88号 |  |  |
 | ofuton de suyaa | おふとんでスヤァ |  |  |
 | fatalpulse | Fatalpulse |  |  |
-| oneone1 | ONEONE1 |  |  |
+| oneone1 | ONEONE1 |  | [FANZA](https://book.dmm.co.jp/list/?author=334562) |
 | marchen box | メルヘンBOX |  |  |
 | pokopii | ぽこぴー |  |  |
 | hikaru no kobeya | ひかるの小部屋 |  |  |
