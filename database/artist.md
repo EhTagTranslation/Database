@@ -9494,7 +9494,7 @@ example:
 | rir | RIR |  |  |
 | ririmat tsuruegar | リリマット・ツルーガー |  |  |
 | risa. | りさ。 |  |  |
-| risei | 李星 |  |  |
+| risei | 李星 |  | [FANZA](https://book.dmm.co.jp/list/?author=255116) |
 | risuou | 李子昴 |  |  |
 | risupu | risupu |  |  |
 | rit. | rit. |  |  |
