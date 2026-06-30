@@ -2304,7 +2304,7 @@ example:
 | 203 | ニイマルサン |  | [pixiv](https://www.pixiv.net/users/463128) |
 | 333 | 333 |  |  |
 | 471 | 四七一 |  |  |
-| 530 | 530 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG43470.html) |
+| 530 | 530 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG43470.html) \| [Fantia](https://fantia.jp/fanclubs/1560) |
 | 560 | 560 |  |  |
 | 1122 | 1122 |  |  |
 | 1787 | 1787 |  |  |
