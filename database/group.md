@@ -14012,7 +14012,7 @@ example:
 | kakun | カークン |  | [FANBOX](https://kakunr18.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/86937522) \| [X](https://x.com/karkun369) \| [X](https://x.com/karkunr18) |
 | myajima | みゃ島 |  |  |
 | tokyo gunjo | 东京群青 |  |  |
-| ichigo no monogatari | いちごのものがたり |  |  |
+| ichigo no monogatari | 草莓的故事 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
