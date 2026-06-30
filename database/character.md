@@ -9571,6 +9571,7 @@ example:
 | subaru nanaura | 七浦昴 | ![](https://static.wikia.nocookie.net/prettyallfriends/images/c/c3/Subaru.png)<br>所属作品：`himitsu no aipri`<br>日语：七浦すばる |  |
 | otome nanaura | 七浦乙女 | ![](https://static.wikia.nocookie.net/prettyallfriends/images/1/1e/Otome.png)<br>所属作品：`himitsu no aipri`<br>日语：七浦おとめ |  |
 | umi asanagi | 朝凪海 | ![](https://static.wikia.nocookie.net/class-de-2banmeni-kawaii-onnanoko-to-tomodachi/images/4/47/Umi_Asanagi_Anime.png)<br>所属作品：`class de 2-banme ni kawaii onnanoko to tomodachi ni natta` |  |
+| maxwell | 麦斯威尔 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c7/Maxwell_FB.png/revision/latest?cb=20230404082836)<br>所属作品:`p:goddess of victory nikke` | [BILIGAME WIKI](https://wiki.biligame.com/nikke/麦斯威尔)<br>[Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Maxwell) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
