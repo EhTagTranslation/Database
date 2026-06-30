@@ -9642,7 +9642,7 @@ example:
 | re cre at tors | Re:Cre@tors |  |  |
 | re set | Re:Set |  |  |
 | re-bidou | Re-BI堂 |  |  |
-| re-fire | リファイア |  |  |
+| re-fire | リファイア |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=22616/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG05721.html) |
 | re-tale | Re-tale |  |  |
 | re-vival | Re-vival |  |  |
 | real | real |  |  |
