@@ -14014,6 +14014,7 @@ example:
 | tokyo gunjo | 东京群青 |  |  |
 | ichigo no monogatari | 草莓的故事 | いちごのものがたり |  |
 | kirei na ohana-chan | 绮丽的花酱 | キレイなお花ちゃん |  |
+| tomato can souko | とまとかん倉庫 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
