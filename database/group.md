@@ -14013,6 +14013,7 @@ example:
 | myajima | みゃ島 |  |  |
 | tokyo gunjo | 东京群青 |  |  |
 | ichigo no monogatari | 草莓的故事 |  |  |
+| kirei na ohana-chan | 绮丽的花酱 | キレイなお花ちゃん |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
