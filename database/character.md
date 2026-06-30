@@ -9570,6 +9570,7 @@ example:
 | badeni | 巴德尼 | ![](https://lain.bgm.tv/r/400/pic/crt/l/cd/1c/112715_crt_Y5mF5.jpg?r=1725507203)<br>所属作品：`chi. chikyuu no undou ni tsuite` |  |
 | subaru nanaura | 七浦昴 | ![](https://static.wikia.nocookie.net/prettyallfriends/images/c/c3/Subaru.png)<br>所属作品：`himitsu no aipri`<br>日语：七浦すばる |  |
 | otome nanaura | 七浦乙女 | ![](https://static.wikia.nocookie.net/prettyallfriends/images/1/1e/Otome.png)<br>所属作品：`himitsu no aipri`<br>日语：七浦おとめ |  |
+| umi asanagi | 朝凪海 | ![](https://static.wikia.nocookie.net/class-de-2banmeni-kawaii-onnanoko-to-tomodachi/images/4/47/Umi_Asanagi_Anime.png)<br>所属作品：`class de 2-banme ni kawaii onnanoko to tomodachi ni natta` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
