@@ -1187,7 +1187,7 @@ example:
 | lolisin | ろりしn |  |  |
 | miyako hito | ミヤコヒト |  |  |
 | sola bozu | 空坊主 |  |  |
-| mimonel | ミモネル |  |  |
+| mimonel | ミモネル |  | [FANBOX](https://mimonel.fanbox.cc) \| [pixiv](https://www.pixiv.net/users/112519) \| [X](https://x.com/mimonel) \| [Skeb](https://skeb.jp/@mimonel) |
 | kloah | Kloah |  |  |
 | chirumakuro | ちるまくろ |  |  |
 | fumihiko | ふみひこ |  |  |
