@@ -5003,7 +5003,7 @@ example:
 | gekidan asaroku | 劇団あさろく |  |  |
 | gekidan bunshichi | 劇団文七 |  |  |
 | gekidan kinmirai | 劇團近未来 |  |  |
-| gekidan onigashima | 劇団☆鬼ヶ島 |  |  |
+| gekidan onigashima | 劇団☆鬼ヶ島 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44198.html) |
 | gekijou pierrot | 激情ピエロ |  |  |
 | gekikara | GEKIKARA |  |  |
 | gekirou director | 激浪Director |  |  |
