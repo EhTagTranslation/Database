@@ -2871,6 +2871,7 @@ example:
 | 2 shot diary | 双人日记 | ![](https://upload.wikimedia.org/wikipedia/fr/thumb/b/bd/2_shot_diary_logo.png/500px-2_shot_diary_logo.png)<br>《2 Shot Diary》是一款在 FM Towns 平台上发行的冒险游戏，现已停止运营。<br>日语：ツーショットDiary |  |
 | chi. chikyuu no undou ni tsuite | 地。―关于地球的运动― | ![](https://upload.wikimedia.org/wikipedia/en/b/b7/Chi%2C_Chikyū_no_Undō_ni_Tsuite_vol_1.png)<br>鱼丰创作的漫画，并有改编动画。 |  |
 | class de 2-banme ni kawaii onnanoko to tomodachi ni natta | 和班上第二可爱的女孩成为了朋友 | ![](https://upload.wikimedia.org/wikipedia/zh/b/b1/我和班上第二可愛的女生成為朋友.jpg)<br>日语：クラスで2番目に可愛い女の子と友だちになった |  |
+| itoko no ko | いとこのこ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
