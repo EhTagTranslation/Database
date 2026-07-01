@@ -4667,7 +4667,7 @@ example:
 | chimaro | ちまろ |  |  |
 | chimo | チモ |  |  |
 | chimple hotter | チンプル堀田 |  |  |
-| chin | chin |  |  |
+| chin | chin |  | [FANZA](https://book.dmm.co.jp/list/?author=256437) |
 | chin tokusyu | 珍・特集 |  |  |
 | china | 茶否 |  |  |
 | chinhou | 珍步 |  |  |
