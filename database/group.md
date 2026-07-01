@@ -14015,6 +14015,7 @@ example:
 | ichigo no monogatari | 草莓的故事 | いちごのものがたり |  |
 | kirei na ohana-chan | 绮丽的花酱 | キレイなお花ちゃん |  |
 | tomato can souko | とまとかん倉庫 |  |  |
+| type-3 | Type-3 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
