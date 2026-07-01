@@ -6319,7 +6319,7 @@ example:
 | jinnai jun | 陣内潤 |  |  |
 | jino | じーの |  |  |
 | jiro | JIRO |  |  |
-| jirou | ジロウ |  |  |
+| jirou | ジロウ |  | [FANZA](https://book.dmm.co.jp/list/?author=26348) |
 | jiseki | ジセキ |  |  |
 | jita | 爺太 |  |  |
 | jitsuyou shinshiki | 実用新式 |  |  |
