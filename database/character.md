@@ -9572,6 +9572,7 @@ example:
 | otome nanaura | 七浦乙女 | ![](https://static.wikia.nocookie.net/prettyallfriends/images/1/1e/Otome.png)<br>所属作品：`himitsu no aipri`<br>日语：七浦おとめ |  |
 | umi asanagi | 朝凪海 | ![](https://static.wikia.nocookie.net/class-de-2banmeni-kawaii-onnanoko-to-tomodachi/images/4/47/Umi_Asanagi_Anime.png)<br>所属作品：`class de 2-banme ni kawaii onnanoko to tomodachi ni natta` |  |
 | maxwell | 麦斯威尔 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c7/Maxwell_FB.png/revision/latest?cb=20230404082836)<br>所属作品:`p:goddess of victory nikke` | [BILIGAME WIKI](https://wiki.biligame.com/nikke/麦斯威尔)<br>[Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Maxwell) |
+| momoka yashiro | 桃桃 | ![](https://static.wikia.nocookie.net/gundam/images/9/94/Yashiro_Momoka.png)<br>出自作品：`p:gundam build divers` | [维基百科](https://zh.wikipedia.org/wiki/鋼彈創鬥者_潛網大戰) \| [Fandom](https://gundam.fandom.com/wiki/Momoka_Yashiro) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
