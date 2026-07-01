@@ -14016,6 +14016,7 @@ example:
 | kirei na ohana-chan | 绮丽的花酱 | キレイなお花ちゃん |  |
 | tomato can souko | とまとかん倉庫 |  |  |
 | type-3 | Type-3 |  |  |
+| hiyashite katameru | ひやしてかためる |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
