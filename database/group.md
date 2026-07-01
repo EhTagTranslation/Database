@@ -12591,7 +12591,7 @@ example:
 | kaiten paradogs | 回転ParaDOGs |  |  |
 | umi no sachi teishoku | 海の幸定食 |  |  |
 | tennensuidousui | 天然水道水 |  |  |
-| sorairo koubou | 空色工房 |  |  |
+| sorairo koubou | 空色工房 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG50532.html) |
 | kakuran operetta | 攪乱オペレッタ |  |  |
 | hikoushiki | 飞行式 | 画师`cowbow`所属社团 |  |
 | toyoko daisyouten | 东横大赏典 | 漫画家`yamada kintetsu`所属社团 |  |
