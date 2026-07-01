@@ -5011,7 +5011,7 @@ example:
 | gekka bijin | 月下美刃 |  |  |
 | gekka no neko | 月華の猫 |  |  |
 | gekkan hitorizumou | 月刊一人相撲 |  |  |
-| gekkan toshiue milk tank | 月刊年上ミルクタンク |  |  |
+| gekkan toshiue milk tank | 月刊年上ミルクタンク |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG42145.html) |
 | gekkou sanctuary | 月光サンクチュアリ |  |  |
 | gekkou tei | 月光亭 |  |  |
 | gekkou touzoku | 月光盗賊 |  |  |
