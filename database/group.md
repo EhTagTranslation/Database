@@ -2535,7 +2535,7 @@ example:
 | aerial | エアリアル |  |  |
 | aerial rave | AERIAL RAVE |  |  |
 | aerial soul | Aerial Soul |  |  |
-| aerodog | AERODOG |  |  |
+| aerodog | AERODOG |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54001.html) |
 | affidavit | Affidavit |  |  |
 | affix | Affix |  |  |
 | afj | AFJ |  |  |
