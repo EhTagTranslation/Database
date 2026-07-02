@@ -6200,7 +6200,7 @@ example:
 | jms space | JMSスペース |  |  |
 | john doe shinobu | あっぱーきゃんでぃー |  |  |
 | johnny iron pipe | ジョニー鉄パイプ |  |  |
-| joji panchu uriba | 女児ぱんちゅ売場 |  |  |
+| joji panchu uriba | 女児ぱんちゅ売場 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01007103.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=213922/) |
 | joker type | JOKER TYPE |  |  |
 | jokou kukan | 徐行区間 |  |  |
 | jon | JON |  |  |
