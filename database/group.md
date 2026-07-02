@@ -13351,7 +13351,7 @@ example:
 | wild chicken | ワイルドチキン |  |  |
 | momico-san | もみ子さん |  |  |
 | jaryuu kyoudan | 邪竜教団 |  |  |
-| milk sausage | みるくそーせーじ |  |  |
+| milk sausage | みるくそーせーじ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=214667/) |
 | tatsuwa no sato | たつわの里 |  |  |
 | picapica suppa | picapicaすっぱ |  |  |
 | kibayashimori | 木林森 |  |  |
