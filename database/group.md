@@ -324,7 +324,7 @@ example:
 | ice coffin | ICE COFFIN |  |  |
 | teriyaki nikuman | てりやきにくまん |  |  |
 | chijoku an | 耻辱庵 |  |  |
-| otajai | オタじゃい |  |  |
+| otajai | オタじゃい |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG25102.html) |
 | hades | ハーデス |  |  |
 | kurawanya | くろわん屋 |  |  |
 | 54burger | 54BURGER |  |  |
