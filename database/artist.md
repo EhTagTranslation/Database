@@ -11810,7 +11810,7 @@ example:
 | yukihoshi kokoro | 雪星こころ |  |  |
 | yukimachi tounosuke | 雪町灯之助 |  |  |
 | yukimai | ゆきまい |  |  |
-| yukimaro yukky | ゆきまろゆっきー |  |  |
+| yukimaro yukky | ゆきまろゆっきー |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ゆきまろゆっきー%22/ana_flg/all) |
 | yukimaru. | 雪丸。 |  |  |
 | yukimi | 由木弥 |  |  |
 | yukimi iris | 雪味あいりす |  |  |
