@@ -11600,7 +11600,7 @@ example:
 | yappy | yappy |  |  |
 | yarii shimeta | 枪衣七五三太 | ![X](https://pbs.twimg.com/profile_images/1399318088256872450/h8vVZRuf_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/yarii753TA) |
 | yas | yas |  |  |
-| yasaka | 弥栄 |  |  |
+| yasaka | 弥栄 |  | [FANBOX](https://www.fanbox.cc/@iyasaka) |
 | yasaka minato | 八坂ミナト |  |  |
 | yasha | yasha |  |  |
 | yashai | やしゃい |  |  |
