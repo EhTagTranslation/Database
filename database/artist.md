@@ -1895,7 +1895,7 @@ example:
 | kumataro | 隈太郎 |  |  |
 | mokkouyou bond | 木工用ボンド |  |  |
 | mustang r | マスタングR |  |  |
-| nanakagi satoshi | 七键智志 |  |  |
+| nanakagi satoshi | 七键智志 |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ006849) |
 | saba ibaru | 佐羽いばる |  |  |
 | takuwan | たくわん |  |  |
 | tsukiwani | 月わに |  |  |
