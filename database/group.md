@@ -3217,7 +3217,7 @@ example:
 | batachiki | バタチキ |  |  |
 | batchaya | ばっちゃ屋 |  |  |
 | batsu freak | Batsu freak |  |  |
-| batsu jirushi | ばつ印 |  |  |
+| batsu jirushi | ばつ印 | ばつ印DX | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48875.html) |
 | batten sketch | ばってんスケッチ |  |  |
 | bb | BB |  |  |
 | bbb | BBB |  |  |
