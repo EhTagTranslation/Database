@@ -5011,7 +5011,7 @@ example:
 | emanon123 | emanon123 |  |  |
 | emi | えみ |  |  |
 | emilio | えみりお |  | [pixiv](https://www.pixiv.net/users/4427149) |
-| emina | emina |  |  |
+| emina | えみーな |  | [pixiv](https://www.pixiv.net/users/340791) |
 | emino | えみの |  |  |
 | emit | えみっと |  |  |
 | emori misaki | 江森美沙樹 |  |  |
