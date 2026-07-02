@@ -13449,7 +13449,7 @@ example:
 | cafe momozuki | 喫茶モモヅキ |  |  |
 | kodomo to kodomo | こどもとこども |  |  |
 | majutsu kessha kuroki tsubasa | 魔術結社・黒き翼 |  |  |
-| aburi tarako-tei | おむすびころりん |  |  |
+| aburi tarako-tei | あぶりたらこ亭 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG71970.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=214013/) |
 | nurunuru bouzu | ぬるぬる坊主 |  |  |
 | kani zousui | かに雑炊 |  |  |
 | tareme sijou syugi | 垂れ目至上主義 |  |  |
