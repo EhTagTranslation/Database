@@ -14019,6 +14019,7 @@ example:
 | hiyashite katameru | ひやしてかためる |  |  |
 | stick | すてぃっく | Stick |  |
 | mousou bunny | 妄想☆ばにぃ |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ026433) |
+| nagasaki irohatei | 長崎いろは邸 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53272.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
