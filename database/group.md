@@ -14018,6 +14018,7 @@ example:
 | type-3 | Type-3 |  |  |
 | hiyashite katameru | ひやしてかためる |  |  |
 | stick | すてぃっく | Stick |  |
+| mousou bunny | 妄想☆ばにぃ |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ026433) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
