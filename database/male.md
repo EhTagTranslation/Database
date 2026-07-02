@@ -464,7 +464,7 @@ example:
 | kindergarten uniform | 幼儿园制服 | 一个穿着简单的浅蓝色套头衫的人，有假的衣领，经常戴着黄色的帽子。 |  |
 | kunoichi | 女忍装 | 女性忍者服装。通常为暗色，有网装衣服和部分轻甲。不应与`ninja`混淆。需要`crossdressing`标签。 |  |
 | lab coat | 白大褂 | 一件长长的白色外套。经常被医生，科学家或学校护士穿着。 |  |
-| latex | 乳胶紧身衣 | 用橡胶或塑料制作的衣服，一般紧身。不应与`leotard`、`skinsuit`、`tights`、 `bloomers`或`bike shorts`标签混淆。<br>![图](# "https://ehgt.org/97/c6/97c65a8c2b9fed456708a3a8ddffd85fca77297f-1260684-960-1280-jpg_250.jpg")![图](# "https://ehgt.org/fd/6e/fd6e5aed7c882df3011f351ce445fa611cd6cb31-1200828-1421-2000-jpg_l.jpg")![图](# "https://ehgt.org/4b/94/4b947d1ca23f23ad339cd3572ff8f9259ae16d0e-561629-1417-2000-jpg_l.jpg") |  |
+| latex | 乳胶紧身衣 | 用橡胶或塑料制作的衣服，一般紧身。不应与`leotard`、`skinsuit`、`tights`、`bloomers`或`bike shorts`标签混淆。<br>![图](# "https://ehgt.org/97/c6/97c65a8c2b9fed456708a3a8ddffd85fca77297f-1260684-960-1280-jpg_250.jpg")![图](# "https://ehgt.org/fd/6e/fd6e5aed7c882df3011f351ce445fa611cd6cb31-1200828-1421-2000-jpg_l.jpg")![图](# "https://ehgt.org/4b/94/4b947d1ca23f23ad339cd3572ff8f9259ae16d0e-561629-1417-2000-jpg_l.jpg") |  |
 | leotard | 紧身衣 | 舞蹈演员、女性体育锻炼者等穿的紧身连衣裤，常用于体操、`bunny girl`和`wrestling`。不应与`skinsuit`、`bodysuit`、`latex`、`swimsuit`或`school swimsuit`混淆。<br>![图](# "https://ehgt.org/0e/4c/0e4cb66ebd858ceb8af866c7efb390253f60609b-912489-2087-3000-jpg_l.jpg")![图](# "https://ehgt.org/94/7b/947bb629b7fdda23c863e5878cc2646853b7e099-913358-1500-2120-jpg_250.jpg") |  |
 | lingerie | 情趣内衣 | 用来增加性感度的轻薄或性感的内衣，相对于常规的内衣更色情。此外，还包括睡衣。<br>![图](# "https://ehgt.org/cd/fb/cdfb92f1d5c75f3754f3cb656cc468b7799344a6-1466633-1200-1694-jpg_l.jpg") |  |
 | living clothes | 生物衣 | 自己具有运动能力的衣服。 |  |
