@@ -1413,7 +1413,7 @@ example:
 | oohira sunset | 太平さんせっと |  |  |
 | obui | おぶい |  | [X](https://x.com/ovvv) \| [pixiv](https://www.pixiv.net/users/17606) \| [Fantia](https://fantia.jp/fanclubs/6268) |
 | amazeroth | Amazeroth |  |  |
-| batsu | ばつ |  |  |
+| batsu | ばつ |  | [pixiv](https://www.pixiv.net/users/167105) \| [X](https://x.com/batuACT3) \| [FANBOX](https://batuact3.fanbox.cc/) \| [Skeb](https://skeb.jp/@batuACT3) |
 | campbell gichou | キャンベル議長 |  |  |
 | hinotsuki neko | 日月ネコ |  |  |
 | jake | じぇいく |  |  |
