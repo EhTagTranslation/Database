@@ -6739,7 +6739,7 @@ example:
 | machiko mai | 真知子老师 |  | [维基百科](https://zh.wikipedia.org/wiki/真知子老師) |
 | elizabeth | 伊丽莎白 | 所属作品：`persona 3` |  |
 | lilith aensland | 莉莉丝·安斯兰特 |  |  |
-| liu shen | 柳神 |  | [百度百科](https://baike.baidu.com/item/柳神/15436879) |
+| liu shen | 柳神 | ![](https://ehgt.org/w/01/558/77433-ied9efsf.webp)<br>所属作品：`wanmei shijie` | [百度百科](https://baike.baidu.com/item/柳神/15436879) |
 | lulushi loo | 露露西·露 | ![](https://ehgt.org/w/01/916/33420-ezl5mhm6.webp)<br>所属作品：`isekai nonbiri nouka` | [百度百科](https://baike.baidu.com/item/露露西·露/62528689) |
 | chisa kotegawa | 古手川千纱 | ![](https://img.moegirl.org.cn/common/5/54/Grandblue_5_body.png)<br>所属作品：`grand blue`<br>伊豆大学机械工学系一年级生。本作主角北原伊织的无血缘表亲兼社团同辈同级系生。 | [萌娘百科](https://zh.moegirl.org.cn/古手川千纱) |
 | secre swallowtail | 塞科蕾・斯瓦罗忒尔（尼禄） | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/18/00/09/40/135225212_p1_master1200.jpg)<br>所属作品：`black clover`<br>原为侍奉着初代魔法帝路米艾尔·希尔巴米利安·库罗巴的少女，在使用禁术后变成了一只黑色的小鸟，并被众人称作“尼禄”（小黑）。黑色短发，暗红色眼睛。 | [百度百科](https://baike.baidu.com/item/尼禄/23699320) |
