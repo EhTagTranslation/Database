@@ -9585,6 +9585,7 @@ example:
 | jin muso | 金无双 | ![](https://lain.bgm.tv/r/400/pic/crt/l/a6/41/14718_crt_HNRs7.jpg)<br>所属作品：`aquarion evol`<br>日语：ジン・ムソウ |  |
 | yunoha thrul | 柚叶·苏尔 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d5/61/15540_crt_6E2jJ.jpg)<br>所属作品：`aquarion evol` |  |
 | kagura demuri | 神乐·迪姆利 | ![](https://lain.bgm.tv/r/400/pic/crt/l/9e/69/14717_crt_hfi5z.jpg)<br>所属作品：`aquarion evol`<br>日语：カグラ・デムリ |  |
+| gin tachibana | 立花·訚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/95/3f/14391_crt_WEmoT.jpg)<br>所属作品：`kyoukai senjou no horizon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
