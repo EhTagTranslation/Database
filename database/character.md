@@ -9576,6 +9576,7 @@ example:
 | touko sakurai | 月城莫娜 | ![](https://static.wikia.nocookie.net/my-senpai-is-annoying/images/4/41/Sakurai_Profile.png)<br>出自作品：`p:senpai ga uzai kouhai no hanashi`<br><br>月城莫娜（月城モナ / つきしろモナ / Tsukishiro Mona）是由しろまんた創作的漫画《前辈有够烦》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/月城莫娜) \| [Fandom](https://my-senpai-is-annoying.fandom.com/wiki/Tōko_Sakurai) |
 | satsuki myoudouin | 明堂院皋 |  |  |
 | maggie mcginnis | 玛姬·麦金尼斯 | ![](https://static.wikia.nocookie.net/playdeadlock/images/0/0e/McGinnis.jpg)<br>所属作品：`deadlock` |  |
+| harriet wolf | 克莱蒂 狼 | ![](https://static.wikia.nocookie.net/monsterhigh/images/8/89/Harriet.jpg)<br>所属作品：`monster high` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
