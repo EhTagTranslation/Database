@@ -9579,7 +9579,7 @@ example:
 | harriet wolf | 克莱蒂 狼 | ![](https://static.wikia.nocookie.net/monsterhigh/images/8/89/Harriet.jpg)<br>所属作品：`monster high` |  |
 | rinto kagamine | 镜音铃人 | ![](https://static.wikia.nocookie.net/fanloid/images/3/3a/Image_Kagamine_Rinto_byAn.jpg)<br>所属作品：`vocaloid`<br>基于官方 Vocaloid 角色镜音铃（Kagamine Rin）的性转版本。 |  |
 | mikuo hatsune | 初音未来 [男版] | ![](https://static.wikia.nocookie.net/fanloid/images/7/77/Image_Hatsune_Mikuo-img1.jpg)<br>所属作品：`vocaloid`<br>基于官方 Vocaloid 角色初音未来（Hatsune Miku）的性转角色。<br>日语：初音ミクオ |  |
-| ponto nei | 先斗宁 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/a/a2/Ponto_Nei_2026_Main_Model.png) ![](https://static.wikia.nocookie.net/virtualyoutuber/images/e/ec/VTA_Ponto_Nei_PP.jpeg)<br>先斗宁（先斗寧 / ぽんとねい）是一名从2022年3月20日在Youtube平台开始活动的虚拟UP主，所属于业界团体NIJISANJI。 | [萌娘百科](https://zh.moegirl.org.cn/先斗宁) \| [Fandom](https://virtualyoutuber.fandom.com/wiki/Ponto_Nei) |
+| ponto nei | 先斗宁 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/a/a2/Ponto_Nei_2026_Main_Model.png) ![](https://static.wikia.nocookie.net/virtualyoutuber/images/e/ec/VTA_Ponto_Nei_PP.jpeg)<br>所属社团：`p:nijisanji`<br><br>先斗宁（先斗寧 / ぽんとねい）是一名从2022年3月20日在Youtube平台开始活动的虚拟UP主，所属于业界团体NIJISANJI。 | [萌娘百科](https://zh.moegirl.org.cn/先斗宁) \| [Fandom](https://virtualyoutuber.fandom.com/wiki/Ponto_Nei) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
