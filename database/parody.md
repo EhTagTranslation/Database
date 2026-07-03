@@ -2872,6 +2872,7 @@ example:
 | chi. chikyuu no undou ni tsuite | 地。―关于地球的运动― | ![](https://upload.wikimedia.org/wikipedia/en/b/b7/Chi%2C_Chikyū_no_Undō_ni_Tsuite_vol_1.png)<br>鱼丰创作的漫画，并有改编动画。 |  |
 | class de 2-banme ni kawaii onnanoko to tomodachi ni natta | 和班上第二可爱的女孩成为了朋友 | ![](https://upload.wikimedia.org/wikipedia/zh/b/b1/我和班上第二可愛的女生成為朋友.jpg)<br>日语：クラスで2番目に可愛い女の子と友だちになった |  |
 | itoko no ko | いとこのこ |  |  |
+| monster high | 精灵高中 | ![](https://upload.wikimedia.org/wikipedia/en/9/9b/Monster_High_dolls.jpg)<br>《精灵高中》是美泰公司旗下的美国时尚娃娃系列。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
