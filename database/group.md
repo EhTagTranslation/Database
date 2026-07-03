@@ -14021,6 +14021,7 @@ example:
 | mousou bunny | 妄想☆ばにぃ |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ026433) |
 | nagasaki irohatei | 長崎いろは邸 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53272.html) |
 | typeh | TypeH |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG55400.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200640/) |
+| ototoi n | オトトイN |  | [DLsite](https://www.dlsite.com/girls/circle/profile/=/maker_id/RG49658.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79577/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
