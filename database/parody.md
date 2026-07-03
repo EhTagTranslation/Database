@@ -1151,7 +1151,7 @@ example:
 | berserk | 剑风传奇 | 《剑风传奇》（日语：ベルセルク，英语：Berserk）是日本漫画家三浦建太郎所作的奇幻漫画，现时在白泉社出版的双周刊杂志《YOUNG ANIMAL》不定期连载中。 | [维基百科](https://zh.wikipedia.org/wiki/烙印勇士) (\*) |
 | isekai wa smartphone to tomo ni. | 带着智能手机闯荡异世界 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2450372216.webp)<br>《带着智能手机闯荡异世界。》是冬原パトラ所作的日本轻小说作品，并有同名改编动画。 | [维基百科](https://zh.wikipedia.org/wiki/帶著智慧型手機闖蕩異世界。) |
 | atelier tanaka | 田中是年龄=没女朋友的魔法师 |  | [百度贴吧](https://tieba.baidu.com/f?kw=田中的工作室) |
-| servant x service | 跟班×服务 | 《跟班×服务》（日语：サーバント×サービス，英语：SERVANT×SERVICE，香港译作“爆趣乡公所”，台湾译作“迷糊公务员 SERVANT×SERVICE”）是高津Karino的日本漫画作品。 | [维基百科](https://zh.wikipedia.org/wiki/Servant_x_Service) (\*) |
+| servant x service | 跟班×服务 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b0/46/69944_FZmY2.jpg)<br>《跟班×服务》（日语：サーバント×サービス，英语：SERVANT×SERVICE，香港译作“爆趣乡公所”，台湾译作“迷糊公务员 SERVANT×SERVICE”）是高津Karino的日本漫画作品。 | [维基百科](https://zh.wikipedia.org/wiki/Servant_x_Service) (\*) |
 | bakuon | 爆音少女！！ | 《爆音少女！！》（日语：ばくおん!!），是日本漫画家织本任那的机车题材漫画作品，自2011年开始于秋田书店的漫画杂志《月刊Young Champion烈》连载。电视动画于2016年4月开始播放至同年6月，全12话。 | [维基百科](https://zh.wikipedia.org/wiki/爆音少女！！) (\*) |
 | inou-battle wa nichijou-kei no naka de | 日常系的异能战斗 | 《日常系的异能战斗》（日语：異能バトルは日常系のなかで）是由望公太著作，029绘制插画，SB Creative的GA文库所发行的日本轻小说作品。2013年5月广播剧CD化，同年7月漫画化，漫画版由黑濑浩介作画。2014年3月宣布改编成电视动画，由TRIGGER制作，于2014年10月6日起东京电视台等播出。 | [维基百科](https://zh.wikipedia.org/wiki/日常生活中的異能戰鬥) (\*) |
 | denkigai no honya-san | 电器街的漫画店 | 《电器街的漫画店》（日语：デンキ街の本屋さん）是水安里的日本漫画作品，于Media Factory漫画杂志《月刊Comic Flapper》2011年7月号开始连载。台湾中文版由长鸿出版社代理发行。2014年5月发表电视动画化消息，电视动画于同年10月播放。 | [维基百科](https://zh.wikipedia.org/wiki/電器街的漫畫店) (\*) |
