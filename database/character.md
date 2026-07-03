@@ -9577,6 +9577,7 @@ example:
 | satsuki myoudouin | 明堂院皋 |  |  |
 | maggie mcginnis | 玛姬·麦金尼斯 | ![](https://static.wikia.nocookie.net/playdeadlock/images/0/0e/McGinnis.jpg)<br>所属作品：`deadlock` |  |
 | harriet wolf | 克莱蒂 狼 | ![](https://static.wikia.nocookie.net/monsterhigh/images/8/89/Harriet.jpg)<br>所属作品：`monster high` |  |
+| rinto kagamine | 镜音铃人 | ![](https://static.wikia.nocookie.net/fanloid/images/3/3a/Image_Kagamine_Rinto_byAn.jpg)<br>所属作品：`vocaloid`<br>基于官方 Vocaloid 角色镜音铃（Kagamine Rin）的性转版本。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
