@@ -2107,7 +2107,7 @@ example:
 | yukikaze mizuki | 水城雪风 | ![](https://static.wikia.nocookie.net/taimanin/images/2/27/Mizuki_Yukikaze_43.png)<br>所属作品：`taimanin yukikaze` |  |
 | shiranui mizuki | 水城不知火 | ![](https://static.wikia.nocookie.net/taimanin/images/6/69/Mizuki_Shrianui_Infobox.png)<br>所属作品：`taimanin yukikaze` |  |
 |  | ▼ 跟班×服务 |  |  |
-| lucy ... yamagami | 山神露西 |  |  |
+| lucy ... yamagami | 山神露西 | ![](https://lain.bgm.tv/r/400/pic/crt/l/60/43/20443_crt_6Rq99.jpg)<br>所属作品：`servant x service`<br>日语：山神ルーシー |  |
 | yutaka hasebe | 长谷部丰 |  |  |
 |  | ▼ 天降之物 |  |  |
 | tomoki sakurai | 樱井智树 |  |  |
