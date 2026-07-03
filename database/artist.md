@@ -15351,6 +15351,7 @@ example:
 | boole | boole |  | [Patreon](https://www.patreon.com/cw/boole0812?vanity=boole0812) |
 | mikoshiba | 御子柴 |  | [pixiv](https://www.pixiv.net/users/50391910) \| [X](https://x.com/m_k_mikshibN) |
 | korra | コッラ |  | [X](https://x.com/Korra_Down)<br>[FANBOX](https://www.fanbox.cc/@korradown)<br>[pixiv](https://www.pixiv.net/users/115142486) |
+| toriyoshi | とりよし |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
