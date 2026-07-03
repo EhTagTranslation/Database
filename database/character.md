@@ -2244,7 +2244,7 @@ example:
 |  | ▼ 幸运星 |  |  |
 | soujirou izumi | 泉宗次郎 | 所属作品：`lucky star`<br>`c:konata izumi`的父亲，`kanata izumi`的丈夫。职业是小说家。<br>喜欢美少女游戏，和泉此方一样的宅，还将女儿养成了彻头彻尾的御宅族。<br>![](https://static.wikia.nocookie.net/luckystar/images/2/29/Sojiro.PNG) |  |
 | kanata izumi | 泉彼方 |  |  |
-| konata izumi | 泉此方 | ![](https://static.wikia.nocookie.net/luckystar/images/f/fe/Konata-san2.png)<br>出自作品：`p:lucky star`<br><br>泉此方（日语：泉こなた / いずみこなた / Izumi Konata）是美水镜创作的四格漫画《幸运星》及其衍生作品的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/泉此方) \| [Fandom](https://luckystar.fandom.com/wiki/Konata_Izumi) |
+| konata izumi | 泉此方 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e9/de/275_crt_Cb3dp.jpg)<br>所属作品：`lucky star` | [萌娘百科](https://zh.moegirl.org.cn/泉此方) \| [Fandom](https://luckystar.fandom.com/wiki/Konata_Izumi) |
 | miki hiiragi | 柊美纪 |  |  |
 | kagami hiiragi | 柊镜 |  |  |
 | tsukasa hiiragi | 柊司 |  |  |
