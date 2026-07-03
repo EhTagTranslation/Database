@@ -6902,7 +6902,7 @@ example:
 | crusch karsten | ‌库珥修·卡尔斯腾 | 所属作品：`re zero kara hajimeru isekai seikatsu`<br>![](https://ehgt.org/w/01/897/97707-46uyoaep.webp) |  |
 | pirotess | 比萝蒂丝 | 所属作品：`lodoss-tou senki`<br>![](https://ehgt.org/w/02/089/08713-56wlje1e.webp) |  |
 | hiyori kozuki | 光月日和 | ![](https://ehgt.org/w/02/067/88920-2r15kky0.webp)<br>所属作品：`one piece`<br>和之国公主/原花之都第一花魁 |  |
-| turenne | 人狼女王 | 所属作品：`kyoukai senjou no horizon`<br>![](https://lain.bgm.tv/r/400/pic/cover/l/84/46/18032_oSn9S.jpg) |  |
+| turenne | 人狼女王 | ![](https://static.wikia.nocookie.net/genesis-horizon/images/2/25/Turenne.jpg)<br>所属作品：`kyoukai senjou no horizon`<br>日语：テュレンヌ |  |
 | seol hee | 冰月花雪 | 所属作品：`agents of atlas`<br>![](https://ehgt.org/w/01/997/93869-9keezetj.webp)<br>冰月花雪（Luna Snow），是美国漫威漫画旗下超级英雄，首次登场于游戏《漫威：未来之战》 |  |
 | raynare | 天野夕麻 | ![](https://ehgt.org/w/01/900/91458-4mm2m04e.webp)<br>日语：レイナーレ/あまのゆうま<br>所属作品：`highschool dxd` |  |
 | riruka dokugamine | 毒峰莉露卡 | ![](https://ehgt.org/w/02/088/57406-5zxp7n2m.webp)<br>所属作品：`bleach`<br>日语:毒ヶ峰リルカ |  |
