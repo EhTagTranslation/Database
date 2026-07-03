@@ -9583,6 +9583,7 @@ example:
 | amata sora | 阿马塔·空 | ![](https://static.wikia.nocookie.net/aquarion/images/c/c3/Amata_Sora.jpg)<br>所属作品：`aquarion evol`<br>日语：アマタ・ソラ |  |
 | andy w. hole | 安迪·W·霍尔 | ![](https://lain.bgm.tv/r/400/pic/crt/l/90/0b/14723_crt_jwD0T.jpg)<br>所属作品：`aquarion evol`<br>日语：アンディ・W・ホール |  |
 | jin muso | 金无双 | ![](https://lain.bgm.tv/r/400/pic/crt/l/a6/41/14718_crt_HNRs7.jpg)<br>所属作品：`aquarion evol`<br>日语：ジン・ムソウ |  |
+| yunoha thrul | 柚叶·苏尔 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d5/61/15540_crt_6E2jJ.jpg)<br>所属作品：`aquarion evol` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
