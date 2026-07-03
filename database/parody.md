@@ -2873,6 +2873,7 @@ example:
 | class de 2-banme ni kawaii onnanoko to tomodachi ni natta | 和班上第二可爱的女孩成为了朋友 | ![](https://upload.wikimedia.org/wikipedia/zh/b/b1/我和班上第二可愛的女生成為朋友.jpg)<br>日语：クラスで2番目に可愛い女の子と友だちになった |  |
 | itoko no ko | いとこのこ |  |  |
 | monster high | 精灵高中 | ![](https://upload.wikimedia.org/wikipedia/en/9/9b/Monster_High_dolls.jpg)<br>《精灵高中》是美泰公司旗下的美国时尚娃娃系列。 |  |
+| timesplitters | 时空分裂者 | ![](https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/TimeSplittersLogoSeries.svg/960px-TimeSplittersLogoSeries.svg.png)<br>由 Free Radical Design 开发的第一人称射击游戏系列 。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
