@@ -1975,7 +1975,7 @@ example:
 | artoria pendragon rider alter | 阿尔托莉雅·潘德拉贡〔骑阶Alter〕 | ![](https://static.wikia.nocookie.net/fategrandorder/images/3/36/S179_Stage3.webp)<br>所属作品：`fate grand order` |  |
 | katsushika hokusai | 葛饰北斋 | ![图](https://ehgt.org/e8/cc/e8ccea19028bed78c6fafa4710cf7b5da057cc16-2657507-1024-1448-png_l.jpg)<br>出自作品：`p:fate grand order`<br><br>葛饰北斋是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 | [Mooncell](http://www.fgo.wiki/w/葛饰北斋) [萌娘百科](https://zh.moegirl.org.cn/葛饰北斋%28Fate%29#) |
 | saint martha | 玛尔达 | ![图](https://ehgt.org/54/3d/543d726588b7b40ffc89612938edad9dfc1b232a-2396129-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/玛尔达%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/玛尔达) |
-| murasaki shikibu | 紫式部 | 在型月推出的安卓&iOS游戏《Fate/Grand Order》中登场的从者，职阶为魔法师。 |  |
+| murasaki shikibu | 紫式部 | 紫式部（日语：むらさきしきぶ）是日本平安時期的女作家、歌人。 父亲是身为学者和诗人的藤原为时。<br><br>ACG作品人物：<br>①紫式部————`p:fate grand order`<br>![](https://static.wikia.nocookie.net/typemoon/images/a/a3/CasterMurasakiShikibuStage1.png)<br><br>②藤原香子————《源君物语》 | [萌娘百科](https://zh.moegirl.org.cn/紫式部) \| [Fandom](https://typemoon.fandom.com/wiki/Murasaki_Shikibu) |
 |  | ▼ 刀剑神域 |  |  |
 | kazuto kirigaya | 桐谷和人 | ![](https://static.wikia.nocookie.net/swordartonline/images/4/4e/Kirito_Full_Body.png)<br>所属作品：`sword art online`<br>日语：桐ヶ谷 和人 | [Fandom](https://swordartonline.fandom.com/wiki/Kirigaya_Kazuto) |
 | asuna yuuki | 结城明日奈（亚丝娜） | ![](https://ehgt.org/w/02/211/73582-rluqpcp6.webp)<br>所属作品：`sword art online` | [维基百科](https://zh.wikipedia.org/wiki/亞絲娜) |
