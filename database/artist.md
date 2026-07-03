@@ -15354,6 +15354,7 @@ example:
 | toriyoshi | とりよし |  |  |
 | catzz | catzz |  |  |
 | marisayaka | まりさやか |  |  |
+| wano umi | 和野うみ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
