@@ -9581,6 +9581,7 @@ example:
 | mikuo hatsune | 初音未来 [男版] | ![](https://static.wikia.nocookie.net/fanloid/images/7/77/Image_Hatsune_Mikuo-img1.jpg)<br>所属作品：`vocaloid`<br>基于官方 Vocaloid 角色初音未来（Hatsune Miku）的性转角色。<br>日语：初音ミクオ |  |
 | ponto nei | 先斗宁 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/a/a2/Ponto_Nei_2026_Main_Model.png) ![](https://static.wikia.nocookie.net/virtualyoutuber/images/e/ec/VTA_Ponto_Nei_PP.jpeg)<br>所属社团：`p:nijisanji`<br><br>先斗宁（先斗寧 / ぽんとねい）是一名从2022年3月20日在Youtube平台开始活动的虚拟UP主，所属于业界团体NIJISANJI。 | [萌娘百科](https://zh.moegirl.org.cn/先斗宁) \| [Fandom](https://virtualyoutuber.fandom.com/wiki/Ponto_Nei) |
 | amata sora | 阿马塔·空 | ![](https://static.wikia.nocookie.net/aquarion/images/c/c3/Amata_Sora.jpg)<br>所属作品：`aquarion evol`<br>日语：アマタ・ソラ |  |
+| andy w. hole | 安迪·W·霍尔 | ![](https://lain.bgm.tv/r/400/pic/crt/l/90/0b/14723_crt_jwD0T.jpg)<br>所属作品：`aquarion evol`<br>日语：アンディ・W・ホール |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
