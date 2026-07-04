@@ -1098,7 +1098,7 @@ example:
 | womi | WOMI |  | [pixiv](https://www.pixiv.net/users/378507) |
 | otsumami | おつまみ |  |  |
 | shiramayumi | 白真弓 |  |  |
-| chiro | CHIRO \| チろ | ようかい玉の輿<br>チよこれいと |  |
+| chiro | CHIRO \| チろ | ようかい玉の輿<br>チよこれいと | [pixiv](https://www.pixiv.net/users/109946) \| [X](https://x.com/chiroame) |
 | junny | JUNNY |  |  |
 | wakino keibun | 胁乃敬文 | 茶入敬文 |  |
 | suzuneco | Suzu猫。 |  |  |
