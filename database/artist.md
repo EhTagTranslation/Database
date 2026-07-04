@@ -5268,7 +5268,7 @@ example:
 | ga015 | ga015 |  |  |
 | gabagobogebe | ガバゴボゲベ |  |  |
 | gaburi | ガブリ |  |  |
-| gachonjirou | がちょん次郎 |  |  |
+| gachonjirou | がちょん次郎 |  | [FANBOX](https://gachonjirou.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/30081) \| [Pawoo](https://pawoo.net/@anarudaiou) |
 | gaden | GADEN |  |  |
 | gagarin kichi | ガガーリン吉 |  |  |
 | gaiseisya | 凱聖者 |  |  |
