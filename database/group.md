@@ -414,7 +414,7 @@ example:
 | royal bitch | ろいやるびっち |  |  |
 | einsatz | Einsatz |  |  |
 | majimeya | 真面目屋 |  |  |
-| almarosso | アルマロッソ |  |  |
+| almarosso | アルマロッソ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG17378.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27662/sort=date/) |
 | jitaku vacation | 自宅vacation |  |  |
 | avalanche | あばらんち |  |  |
 | suzu no oka | 鈴の丘 |  |  |
