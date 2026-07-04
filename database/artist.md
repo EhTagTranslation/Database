@@ -15355,6 +15355,7 @@ example:
 | catzz | catzz |  |  |
 | marisayaka | まりさやか |  |  |
 | wano umi | 和野うみ |  |  |
+| goblin touzokudan | ゴブリンの恥 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
