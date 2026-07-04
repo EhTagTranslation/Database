@@ -9589,6 +9589,7 @@ example:
 | juana | 胡安娜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/00/66/16488_crt_Bzn5n.jpg)<br>所属作品：`kyoukai senjou no horizon` |  |
 | muneshige tachibana | 立花·宗茂 | ![](https://lain.bgm.tv/r/400/pic/crt/l/c6/ae/14479_crt_mz6AC.jpg)<br>所属作品：`kyoukai senjou no horizon` |  |
 | ragatha | 雅加塔 | 所属作品：`the amazing digital circus` |  |
+| pomni | 帕姆尼 | 所属作品：`the amazing digital circus` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
