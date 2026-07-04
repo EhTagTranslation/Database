@@ -14024,6 +14024,7 @@ example:
 | ototoi n | オトトイN |  | [DLsite](https://www.dlsite.com/girls/circle/profile/=/maker_id/RG49658.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79577/) |
 | esuneko no ichi | えすねこのいち | 一个老牌scat画师的同人社团 |  |
 | 20nt | 20NT |  |  |
+| nametakenoko | なめたけのこ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
