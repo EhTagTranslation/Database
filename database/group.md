@@ -3724,7 +3724,7 @@ example:
 | childwife | childwife |  |  |
 | chill-out | Chill-Out |  |  |
 | chilukuni | 散る国 |  |  |
-| chimamire yashiki | 血まみれ屋敷 |  |  |
+| chimamire yashiki | 血まみれ屋敷 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75058/) |
 | chimatsuriya honpo | 血祭屋本舗 |  |  |
 | chime | ちゃいむ |  |  |
 | chimeishou | 致命傷 |  |  |
