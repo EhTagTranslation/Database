@@ -15356,6 +15356,7 @@ example:
 | marisayaka | まりさやか |  |  |
 | wano umi | 和野うみ |  |  |
 | goblin touzokudan | ゴブリンの恥 |  |  |
+| nametakenoko | なめたけのこ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
