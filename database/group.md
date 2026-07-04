@@ -819,7 +819,7 @@ example:
 | mof-mof | mof-mof | WOMI 所在社团 [mof-mof](http://mof-mof.sakura.ne.jp/top.html) |  |
 | aneko no techo | あねこの手帖 |  |  |
 | circle heron | サークルヘロン |  |  |
-| youkai tamanokoshi | ようかい玉の輿 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=25781/) |
+| youkai tamanokoshi | ようかい玉の輿 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=25781/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG11723.html) |
 | waffle sand | わっふるさんど |  |  |
 | monotrust | モノトラスト |  |  |
 | fuwamoko honpo | ふわもこ本舗 |  |  |
