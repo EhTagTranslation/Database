@@ -7345,7 +7345,7 @@ example:
 | meru | 梅鲁 | ![](https://ehgt.org/w/01/865/30094-cznh27g2.webp)<br>所属作品：`meru the succubus` |  |
 | rui | 瑞 | ![](https://static.wikia.nocookie.net/dream-club/images/1/1e/Rui.png)<br>所属作品：`dream c club` |  |
 | douki-chan | 同期 | ![](https://ehgt.org/w/01/686/71917-67k0qjv6.webp)<br>所属作品：`ganbare douki-chan` |  |
-| chihiro fushimi | 伏见千寻 | 所属作品：`persona 3` |  |
+| chihiro fushimi | 伏见千寻 | ![](https://static.wikia.nocookie.net/megamitensei/images/5/58/Chihiro_Fushimi_%28P3R%29.png)<br>所属作品：`persona 3` |  |
 | qoone | 库娜 | ![](https://zurswtyclg.hath.network/om/180437371/afa3feeda8efaf7f8d47bbca7aacebc55d0af239-1015298-832-1216-png/3aae091f2757e2f324fdf3c4491f881d1a4dea8e-59798-800-1169-wbp/800/g75j0zje17h8gu1tkbm/1391.webp)<br>所属作品：`asobi ni iku yo`<br>日语名：クーネ |  |
 | subaru | 昴 | ![](https://ehgt.org/w/02/296/69674-jouhkpqo.webp)<br>所属作品：`beat blades haruka`<br>上弦众的闪耀忍。 |  |
 | apricot | Apricot | ![](https://img.moegirl.org.cn/common/thumb/4/47/Froot_%28Apricot%29_2.0_Full_Body.webp/800px-Froot_%28Apricot%29_2.0_Full_Body.webp.png)<br>所属社团：VShojo |  |
