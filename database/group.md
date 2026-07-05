@@ -12665,7 +12665,7 @@ example:
 | donut church | ドーナツ教会 |  |  |
 | netsuko | ネツ湖 |  |  |
 | milkdou shoukai | みるく堂商会 |  |  |
-| airimiash | アイリミアーシュ | 画师`rabu`所属社团 |  |
+| airimiash | アイリミアーシュ | 画师`rabu`所属社团 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57892.html) |
 | mokkorihan | もっこりはん |  |  |
 | zenjidou shimoneta seizou machine | 全自動下ネタ製造マシーン |  |  |
 | shachi | しゃち |  |  |
