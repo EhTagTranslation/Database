@@ -7445,7 +7445,7 @@ example:
 | manbun no ichi | 万分の市 |  |  |
 | manchindou | マンチン堂 |  |  |
 | mandoragora striker | まんどらごらすとらいかー |  |  |
-| mandrill | まんドリル |  |  |
+| mandrill | まんドリル |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG12616.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=25873/) |
 | manga jigoku | マンガジゴク |  |  |
 | manga super | マンガスーパー |  |  |
 | mangan | マンガン |  |  |
