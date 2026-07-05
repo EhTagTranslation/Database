@@ -3995,7 +3995,7 @@ example:
 | maho hiyajo | 比屋定真帆 | 比屋定真帆 ![](https://i0.hdslb.com/bfs/article/8e9412351c56c2abf0396b4d9525e9848c5a7321.jpg@750w_584h_progressive.webp) 是MAGES.所制作的游戏《命运石之门 0》及其衍生作品的登场角色。LabMem No.009，牧濑红莉栖所属大学的前辈研究员。Amadeus的红莉栖曾如此评价："我只不过是平凡之人的代表，真帆前辈才是真正的'上帝宠儿（Amadeus）'。” | [萌娘百科](https://zh.moegirl.org.cn/比屋定真帆) |
 | venom | 毒液 |  |  |
 | katarina claes | 卡塔莉娜·克拉艾斯 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d2/11/72349_crt_5SxZZ.jpg?r=1586098007)<br>所属作品：`otome game no hametsu flag shika nai akuyaku reijou ni tensei shiteshimatta...` | [萌娘百科](https://zh.moegirl.org.cn/卡塔莉娜·克拉艾斯) |
-| maria campbell | 玛丽亚·坎贝尔 |  |  |
+| maria campbell | 玛丽亚·坎贝尔 | ![](https://static.wikia.nocookie.net/destruction-flag-otome/images/c/ce/Maria.Campbell.full.2860839.png)<br>所属作品：`otome game no hametsu flag shika nai akuyaku reijou ni tensei shiteshimatta...` |  |
 | diluc ragnvindr | 迪卢克·莱艮芬德 | **迪卢克·莱艮芬德**（英语：diluc ragnvindr）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![图片](https://img.moegirl.org.cn/common/thumb/3/35/贵公子_迪卢克.jpg/240px-贵公子_迪卢克.jpg) | [萌娘百科](https://zh.moegirl.org.cn/迪卢克·莱艮芬德) [米游社观测枢](https://bbs.mihoyo.com/ys/obc/content/75/detail) |
 | kaeya alberich | 凯亚·亚尔伯里奇 | **凯亚·亚尔伯里奇**（英语：kaeya alberich）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![图片](https://img.moegirl.org.cn/common/thumb/7/75/Genshin_Kaeya_intro_fix.jpg/240px-Genshin_Kaeya_intro_fix.jpg) | [萌娘百科](https://zh.moegirl.org.cn/凯亚·亚尔伯里奇)  [米游社观测枢](https://bbs.mihoyo.com/ys/obc/content/76/detail) |
 | anya forger | 阿尼亚·福杰 | ![](https://static.wikia.nocookie.net/spy-x-family9171/images/f/ff/Anya_Forger_Anime.png)<br>所属作品：`spy x family` | [萌娘百科](https://zh.moegirl.org.cn/阿尼亚·福杰) |
