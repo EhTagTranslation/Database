@@ -14025,6 +14025,7 @@ example:
 | esuneko no ichi | えすねこのいち | 一个老牌scat画师的同人社团 |  |
 | 20nt | 20NT |  |  |
 | nametakenoko | なめたけのこ |  |  |
+| amaterasu tsukikage | 雨照月影 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
