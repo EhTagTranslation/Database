@@ -3582,7 +3582,7 @@ example:
 | carpaccio | カルパッチョ |  |  |
 | carrot | きゃろっと |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27127/) |
 | carrot academy | キャロットアカデミー |  |  |
-| carrot caramel batake | きゃろっときゃらめる畑 |  |  |
+| carrot caramel batake | きゃろっときゃらめる畑 |  | [pixiv](https://www.pixiv.net/users/30990206) \| [Fantia](https://fantia.jp/fanclubs/15914) \| [X](https://x.com/carrotfarm_Q) \| [FANBOX](https://carrotcaramel.fanbox.cc/) |
 | carrot works | きゃろっとワークス |  |  |
 | caryo | CARYO |  |  |
 | cascade | CASCADE |  |  |
