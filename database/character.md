@@ -9593,6 +9593,7 @@ example:
 | gerald stuart | 吉奥尔多·斯提亚特 | ![](https://static.wikia.nocookie.net/destruction-flag-otome/images/6/6e/Geordo_render.png)<br>所属作品：`otome game no hametsu flag shika nai akuyaku reijou ni tensei shiteshimatta...` | [百度百科](https://baike.baidu.com/item/吉奥尔多·斯提亚特) |
 | keith claes | 吉斯·克拉艾斯 | ![](https://static.wikia.nocookie.net/destruction-flag-otome/images/1/17/Keith_Anime.png)<br>所属作品：`otome game no hametsu flag shika nai akuyaku reijou ni tensei shiteshimatta...` |  |
 | yumeko shikiya | 志喜屋梦子 | ![](https://static.wikia.nocookie.net/makeine/images/5/5f/Shikiya_AN.png)<br>所属作品：`make heroine ga oosugiru` |  |
+| rinne inaba | 稻叶凛音 | ![](https://static.wikia.nocookie.net/jetix-academy/images/f/f8/Rinne_Inaba.png)<br>所属作品：`chousoku henkei gyrozetter` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
