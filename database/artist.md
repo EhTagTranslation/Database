@@ -4232,7 +4232,7 @@ example:
 | arima you | 有马有 |  |  |
 | arima yutaka | 有马ゆたか |  |  |
 | arimori haru | 在森 晴 |  |  |
-| arimura ario | 有村ありお |  |  |
+| arimura ario | 有村ありお |  | [X](https://x.com/ario_arimura) \| [Ci-en](https://ci-en.dlsite.com/creator/4012) \| [Lit.Link](https://lit.link/en/ario_arimuramanman_o) \| [pixiv](https://www.pixiv.net/users/2217591) \| [Skeb](https://skeb.jp/@ario_arimura) |
 | arimura shinobu | 有村しのぶ |  |  |
 | arimura yuu | 有村悠 |  |  |
 | arinko | 蟻ん子 |  |  |
