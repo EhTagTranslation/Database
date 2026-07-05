@@ -1740,7 +1740,7 @@ example:
 | studio a | studio A |  |  |
 | shougentei | 翔玄亭 |  |  |
 | d.n.a.lab. | D・N・A.Lab. |  |  |
-| kinokonomi | きのこのみ |  |  |
+| kinokonomi | きのこのみ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77901/) |
 | pigpanpan | PigPanPan |  |  |
 | yomairi sensei | よまいり先生 |  |  |
 | koniro kajitsu | 紺色果実 |  |  |
