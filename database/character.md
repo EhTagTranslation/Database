@@ -4516,7 +4516,7 @@ example:
 | wednesday addams | 星期三·亚当斯 |  | [https://zh.m.wikipedia.org/wiki/星期三\_%28电视剧%29](https://zh.wikipedia.org/wiki/星期三_%28电视剧%29) |
 | miyako shikimori | 式守都 | ![](https://ehgt.org/w/02/212/63967-aloz5h8r.webp)<br>出自作品：`p:kawaii dake ja nai shikimori-san`<br><br>式守都（日语：式守（しきもり） 都（みやこ））是真木萤五创作的Web漫画《式守同学不只可爱而已》中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/式守都) |
 | fuuka yamagishi | 山岸风花 | 山岸风花（日语：山岸 風花（やまぎし ふうか） (Yamagishi Fuuka)）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/山岸风花) |
-| yukari takeba | 岳羽由加莉 | 岳羽由加莉（日语：岳羽 ゆかり（たけば ゆかり） (Takeba Yukari)）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/岳羽由加莉) |
+| yukari takeba | 岳羽由加莉 | ![](https://static.wikia.nocookie.net/megamitensei/images/d/d9/P3REYukari.png)<br>所属作品：`persona 3`<br>日语：岳羽 ゆかり（たけば ゆかり） | [萌娘百科](https://zh.moegirl.org.cn/岳羽由加莉) |
 | aigis | 埃癸斯 | 埃癸斯（日语：アイギス (Aegis)；美版：Aigis）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/埃癸斯%28女神异闻录3%29#) |
 | celia claire | 瑟莉亚·库列尔 | ![](https://seireigensouki.com/1st/wp-content/themes/seirei_honban/assets/img/page/chara-pic02.png)<br>所属作品: `p:seirei gensouki`<br>贝尔托姆王立学院的天才学生，利欧在王立学院就学的教师。 | [萌娘百科](https://zh.moegirl.org.cn/瑟莉亚·库列尔) |
 | hinata tachibana | 橘日向 | 橘日向是由津留崎优所创作的漫画《与变成了异世界美少女的大叔一起冒险》及其衍生作品的女主角。32岁的单身原大叔美少女。身高体重都很平均的平平无奇的男生，从小到大喜欢的女生全都爱慕着好友神宫寺司，自己毫无机会。为了神宫寺能早点结婚而经常拉着他去参加联谊。在一次联谊会上喝得烂醉如泥，抱怨为什么没有女生喜欢自己，与其这样下去，不如变成女孩子算了，在回去的路上，被女神转移到了异世界，变成了倾倒众生的金发碧眼绝世美少女。 | [萌娘百科](https://zh.moegirl.org.cn/橘日向) |
