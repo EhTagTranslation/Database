@@ -9590,6 +9590,7 @@ example:
 | muneshige tachibana | 立花·宗茂 | ![](https://lain.bgm.tv/r/400/pic/crt/l/c6/ae/14479_crt_mz6AC.jpg)<br>所属作品：`kyoukai senjou no horizon` |  |
 | ragatha | 雅加塔 | 所属作品：`the amazing digital circus` |  |
 | pomni | 帕姆尼 | 所属作品：`the amazing digital circus` |  |
+| gerald stuart | 吉奥尔多·斯提亚特 | ![](https://static.wikia.nocookie.net/destruction-flag-otome/images/6/6e/Geordo_render.png)<br>所属作品：`otome game no hametsu flag shika nai akuyaku reijou ni tensei shiteshimatta...` | [百度百科](https://baike.baidu.com/item/吉奥尔多·斯提亚特) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
