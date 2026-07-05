@@ -2616,7 +2616,7 @@ example:
 | hina | 日奈 \| 雏 | 由于此标签可能标记的角色过多。名字中含有hina的打标签时应尽量注意。<br><br>目前所固定的两个角色：<br>①日奈，漫画《`one piece`》及其衍生作品中的角色。<br><br>②新田雏，是由大武政夫创作的漫画《`hinamatsuri`》及其衍生作品的登场角色。<br><br>※其他角色如有全名应使用全名，不应使用本tag<br>举例：<br>`hina kagiyama` ：`touhou project`中的角色<br>`hina amano` ：`tenki no ko`中的角色<br>`hina araki` ：`the idolmaster`中的角色 |  |
 | matoi giboshi | 拟宝珠缠 |  |  |
 | lemon giboshi | 拟宝珠柠檬 |  |  |
-| iroha | 伊吕波 | 格斗游戏《侍魂》中的一位女性角色 |  |
+| iroha | 伊吕波 | ![](https://static.wikia.nocookie.net/snk/images/6/62/Iroha_QGSC.png)<br>出自作品：`p:samurai spirits`<br><br>伊吕波（日语：いろは）是SNK旗下的游戏《侍魂》系列及其衍生作品的登场角色。初登场于《侍魂 天下一剑客传》。 | [萌娘百科](https://zh.moegirl.org.cn/伊吕波%28侍魂%29) \| [Fandom](https://snk.fandom.com/wiki/Iroha) |
 | arle nadja | 阿露露 | 《噗哟噗哟》登场角色 |  |
 | tifa lockhart | 蒂法·洛克哈特 | ![](https://moegirl.uk/images/2/2f/蒂法·洛克哈特（最终幻想VII重制版宣传图）.png)<br>本名:	ティファ·ロックハート/Tifa Lockhart<br>別號:	耶路撒冷<br>髮色:	黑褐髮<br>瞳色:	紅瞳<br>身高:	167cm<br>三圍:	92-60-88 |  |
 | aerith gainsborough | 艾瑞丝·盖恩斯巴勒 | ![](https://static.wikia.nocookie.net/finalfantasy/images/1/1f/Aerith_Gainsborough_from_FFVII_Rebirth_promo_render.png)<br>所属作品：`final fantasy vii` |  |
