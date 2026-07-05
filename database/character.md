@@ -9595,6 +9595,7 @@ example:
 | yumeko shikiya | 志喜屋梦子 | ![](https://static.wikia.nocookie.net/makeine/images/5/5f/Shikiya_AN.png)<br>所属作品：`make heroine ga oosugiru` |  |
 | rinne inaba | 稻叶凛音 | ![](https://static.wikia.nocookie.net/jetix-academy/images/f/f8/Rinne_Inaba.png)<br>所属作品：`chousoku henkei gyrozetter` |  |
 | koromaru | 虎狼丸 | ![](https://static.wikia.nocookie.net/megamitensei/images/e/e5/P3RE_Koromaru.png)<br>所属作品：`persona 3` |  |
+| lohen | 洛恩 | ![](https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Character_Lohen_Full_Wish.png)<br>所属作品：`genshin impact` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
