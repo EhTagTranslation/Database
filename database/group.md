@@ -14026,6 +14026,7 @@ example:
 | 20nt | 20NT |  |  |
 | nametakenoko | なめたけのこ |  |  |
 | amaterasu tsukikage | 雨照月影 |  |  |
+| higehurai | ひげふらい |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201506/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
