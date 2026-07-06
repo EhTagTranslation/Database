@@ -9598,6 +9598,7 @@ example:
 | lohen | 洛恩 | ![](https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Character_Lohen_Full_Wish.png)<br>所属作品：`genshin impact` |  |
 | hazuki azuma | 东叶月 | ![](https://lain.bgm.tv/r/400/pic/crt/l/dc/a6/21780_crt_Y955a.jpg?r=1381586946)<br>所属作品：`yami to boushi to hon no tabibito` |  |
 | hatsumi azuma | 东初美 | ![](https://lain.bgm.tv/r/400/pic/crt/l/fe/4b/21785_crt_vQCtu.jpg?r=1381586952)<br>所属作品：`yami to boushi to hon no tabibito` |  |
+| mina hinomori | 日野森美奈 | ![](https://ehgt.org/w/02/442/09840-0ftk4j9t.webp)<br>所属作品：`pia carrot e youkoso 2` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
