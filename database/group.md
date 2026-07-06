@@ -1081,7 +1081,7 @@ example:
 | saga planets | Saga Planets |  |  |
 | banana koubou | ばな奈工房 |  |  |
 | mujitan | むじたん |  |  |
-| aka no hana | 赤のハナ |  |  |
+| aka no hana | 赤のハナ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71583/) |
 | caustica | コースティカ |  |  |
 | denen shoujo | 田园少女 |  |  |
 | dressing plus party | Dressing+Party |  |  |
