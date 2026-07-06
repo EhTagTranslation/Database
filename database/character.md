@@ -9597,6 +9597,7 @@ example:
 | koromaru | 虎狼丸 | ![](https://static.wikia.nocookie.net/megamitensei/images/e/e5/P3RE_Koromaru.png)<br>所属作品：`persona 3` |  |
 | lohen | 洛恩 | ![](https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Character_Lohen_Full_Wish.png)<br>所属作品：`genshin impact` |  |
 | hazuki azuma | 东叶月 | ![](https://lain.bgm.tv/r/400/pic/crt/l/dc/a6/21780_crt_Y955a.jpg?r=1381586946)<br>所属作品：`yami to boushi to hon no tabibito` |  |
+| hatsumi azuma | 东初美 | ![](https://lain.bgm.tv/r/400/pic/crt/l/fe/4b/21785_crt_vQCtu.jpg?r=1381586952)<br>所属作品：`yami to boushi to hon no tabibito` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
