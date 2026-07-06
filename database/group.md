@@ -529,7 +529,7 @@ example:
 | yukikagerou | 雪陽炎 |  |  |
 | akumenari | アクメナリ! |  |  |
 | hot mikan | ほっとみかん |  |  |
-| g-panda | Gぱんだ |  |  |
+| g-panda | Gぱんだ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28846/) |
 | high tech pen case | ハイテクペンケース |  |  |
 | strawberry milk studio | Strawberry Milk Studio |  |  |
 | lolita crusaders | ロリータクルセイダーズ |  |  |
