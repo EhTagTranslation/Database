@@ -8763,7 +8763,7 @@ example:
 | rui tendo | 天动瑠依 | ![](https://static.wikia.nocookie.net/idoly-pride/images/7/7d/Tendo_Rui_1.png/revision/latest?cb=20210103051532)<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/天动瑠依)<br>[Fandom](https://idoly-pride.fandom.com/wiki/Rui_Tendo) |
 | izumi segawa | 濑川泉 | ![](https://static.wikia.nocookie.net/hayatenogotoku/images/a/a1/Izumi_Segawa.jpg)<br>所属作品：`hayate no gotoku`<br>日文：瀬川泉 |  |
 | ayumu nishizawa | 西泽步 | ![](https://static.wikia.nocookie.net/hayatenogotoku/images/2/2c/Ayumu_Nishizawa.jpg)<br>所属作品：`hayate no gotoku`<br>日语：西沢歩 |  |
-| maria | 玛丽亚 | ![](https://static.wikia.nocookie.net/hayatenogotoku/images/0/0a/Maria.jpg)<br>所属作品：`hayate no gotoku`<br>日语：マリア |  |
+| maria | 玛丽亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/72/e6/2413_crt_anidb.jpg)<br>所属作品：`hayate no gotoku`<br>日语：マリア | [Bangumi](https://bgm.tv/character/2413) |
 | miki hanabishi | 花菱美希 | ![](https://static.wikia.nocookie.net/hayatenogotoku/images/1/15/Miki_Hanabishi.jpg)<br>所属作品：`hayate no gotoku`<br>日语：花菱美希（はなびし みき） |  |
 | risa asakaze | 朝风理沙 | ![](https://static.wikia.nocookie.net/hayatenogotoku/images/9/97/Risa_Asakaze.jpg)<br>所属作品：`hayate no gotoku`<br>日语：朝風理沙（あさかぜりさ） |  |
 | burtgang | 布尔特根 |  | [BILIGAME WIKI](https://wiki.biligame.com/crosscore/布尔特根) |
