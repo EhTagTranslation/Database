@@ -9630,6 +9630,7 @@ example:
 | shizuo heiwajima | 平和岛静雄 | ![](https://lain.bgm.tv/r/400/pic/crt/l/14/19/10631_crt_8s768.jpg)<br>所属作品：`durarara`<br>日语：平和島靜雄 | [Bangumi](https://bgm.tv/character/10631) |
 | tom tanaka | 田中汤姆 | ![](https://static.wikia.nocookie.net/durarara/images/c/c8/Tom_Tanaka_ShoE04_11M15S.JPG)<br>所属作品：`durarara`<br>日语：田中トム | [Bangumi](https://bgm.tv/character/25861) |
 | zazan | 杀残 | ![](https://static.wikia.nocookie.net/hunterxhunter/images/a/a5/Zazan.png)<br>所属作品：`hunter x hunter`<br>日语：ザザン | [Bangumi](https://bgm.tv/character/75690) |
+| hidari | 左 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b5/1a/201415_crt_A47WT.jpg)<br>所属作品：`yomi no tsugai` | [Bangumi](https://bgm.tv/character/201415) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
