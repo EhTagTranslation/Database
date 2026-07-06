@@ -3722,7 +3722,7 @@ example:
 | chris yukine | 雪音克莉丝 | 雪音克莉丝是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/雪音克莉丝) |
 | hibiki tachibana | 立花响 | ![](https://storage.moegirl.org.cn/moegirl/commons/7/7c/Hibiki_gear_XV.png)<br>立花响是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/立花响) |
 | miku kohinata | 小日向未来 | 小日向未来是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/小日向未来) |
-| gardevoir | 沙奈朵 | ![](https://ehgt.org/w/00/779/01884-8chhmzuk.webp)<br>出自作品：`p:pokemon`<br><br>沙奈朵（日语：サーナイト，英语：Gardevoir）是宝可梦系列登场的宝可梦之一，最初登场于《宝可梦 红宝石／蓝宝石》。 | [萌娘百科](https://zh.moegirl.org.cn/沙奈朵) |
+| gardevoir | 沙奈朵 | ![](https://archives.bulbagarden.net/media/upload/thumb/3/3d/0282Gardevoir-Mega.png/165px-0282Gardevoir-Mega.png)<br>出自作品：`p:pokemon`<br>日语：サーナイト<br>最初登场于《宝可梦 红宝石／蓝宝石》。 | [萌娘百科](https://zh.moegirl.org.cn/沙奈朵) |
 | celestine lucullus | 塞蕾斯汀·卢库勒斯 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/3/3c/Serafina_Renatus.png)<br>所属作品：`kuroinu kedakaki seijo wa hakudaku ni somaru`<br>日语：セレスティン·ルクルス | [萌娘百科](https://zh.moegirl.org.cn/塞蕾斯汀·卢库勒斯) |
 | lucario | 路卡利欧 | ![](https://s1.52poke.com/wiki/thumb/d/d7/448Lucario.png/300px-448Lucario.png)<br>所属作品：`pokemon`<br>日文︰ルカリオ | [神奇宝贝百科](https://wiki.52poke.com/wiki/路卡利欧) |
 | eren jaeger | 艾伦·耶格尔 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e3/2f/18101_crt_343At.jpg?r=1410320023)<br>出自作品：`p:shingeki no kyojin`<br><br>艾伦·耶格尔（エレン・イェーガー）是谏山创创作的漫画《进击的巨人》及其衍生作品的登场角色，男主角。 | [萌娘百科](https://zh.moegirl.org.cn/艾伦·耶格尔) \| [Fandom](https://attackontitan.fandom.com/wiki/Eren_Yeager) |
