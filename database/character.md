@@ -9623,6 +9623,7 @@ example:
 | tatsuya asagiri | 朝雾达哉 | ![](https://t.vndb.org/ch/95/15395.jpg)<br>所属作品：`yoake mae yori ruriiro na` | [Bangumi](https://bgm.tv/character/1097) |
 | midori tooyama | 远山翠 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b5/a1/1104_crt_V882r.jpg)<br>所属作品：`yoake mae yori ruriiro na`<br>日语：遠山翠 | [Bangumi](https://bgm.tv/character/1104) |
 | cynthia marguerite | 辛西娅·玛格丽特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e1/f2/42752_crt_hsHmr.jpg)<br>所属作品：`yoake mae yori ruriiro na`<br>日语：シンシア・マルグリット | [Bangumi](https://bgm.tv/character/42752) |
+| douma | 童磨 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/2/24/Anime_Doma%27s_cult_wear.png)<br>所属作品：`kimetsu no yaiba` | [Bangumi](https://bgm.tv/character/92284) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
