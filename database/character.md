@@ -9614,6 +9614,7 @@ example:
 | meimei himari | 冥鸣阳葵 | ![](https://static.wikia.nocookie.net/vocalsynth/images/d/dd/Meimei_Himari.png)<br>所用声库：`voicevox`<br>日语：冥鳴ひまり | [YouTube](https://www.youtube.com/channel/UCBA2EDiX5euSTM2Ic3gKqIw) |
 | professor burnet | 芭内特博士 | ![](https://archives.bulbagarden.net/media/upload/thumb/7/74/Sun_Moon_Professor_Burnet.png/210px-Sun_Moon_Professor_Burnet.png)<br>出自作品：`p:pokemon`<br>日语：バーネット博士 |  |
 | loewe | 蕾薇 | ![](https://static.wikia.nocookie.net/shochiku/images/3/33/Loewe.png)<br>所属作品：`yami healer`<br>日语：レーヴェ |  |
+| kohane ohitome | 小一孁 心羽 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2024/09/24/11/08/38/122727487_p0_master1200.jpg)<br>所属作品：`project kv` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
