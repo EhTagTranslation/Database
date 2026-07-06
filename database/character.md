@@ -9633,6 +9633,7 @@ example:
 | hidari | 左 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b5/1a/201415_crt_A47WT.jpg)<br>所属作品：`yomi no tsugai` | [Bangumi](https://bgm.tv/character/201415) |
 | e.h. | 极乐净土·哈珀 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8c/E.H._FB.png)<br>所属作品：`goddess of victory nikke` |  |
 | hayate ayasaki | 绫崎飒 | ![](https://lain.bgm.tv/r/400/pic/crt/l/5d/ec/2416_crt_anidb.jpg)<br>所属作品：`hayate no gotoku`<br>日语：綾崎ハヤテ | [Bangumi](https://bgm.tv/character/2416) |
+| lucy platini | 露西·普拉蒂尼 | ![](https://static.wikia.nocookie.net/closers/images/2/23/Lucy_Platini.jpg)<br>所属作品：`closers`<br>韩语：루시 플라티니 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
