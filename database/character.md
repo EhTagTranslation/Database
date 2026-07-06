@@ -9625,6 +9625,7 @@ example:
 | cynthia marguerite | 辛西娅·玛格丽特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e1/f2/42752_crt_hsHmr.jpg)<br>所属作品：`yoake mae yori ruriiro na`<br>日语：シンシア・マルグリット | [Bangumi](https://bgm.tv/character/42752) |
 | douma | 童磨 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/2/24/Anime_Doma%27s_cult_wear.png)<br>所属作品：`kimetsu no yaiba` | [Bangumi](https://bgm.tv/character/92284) |
 | anri sonohara | 园原杏里 | ![](https://lain.bgm.tv/r/400/pic/crt/l/a7/ee/10996_crt_Ku3MH.jpg)<br>所属作品：`durarara`<br>日语：園原杏里 | [Bangumi](https://bgm.tv/character/10996) |
+| izaya orihara | 折原临也 | ![](https://lain.bgm.tv/r/400/pic/crt/l/82/dd/10630_crt_7dhvq.jpg)<br>所属作品：`durarara`<br>日语：折原臨也 | [Bangumi](https://bgm.tv/character/10630) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
