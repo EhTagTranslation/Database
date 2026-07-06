@@ -2877,6 +2877,7 @@ example:
 | yami to boushi to hon no tabibito | 暗与帽子与书之旅人 | ![](https://upload.wikimedia.org/wikipedia/en/e/e4/Yami_to_Bōshi_to_Hon_no_Tabibito_cover.jpg)<br>日语：ヤミと帽子と本の旅人<br>Root 于 2002 年 12 月出版的日本成人视觉小说。 |  |
 | pole princess | 钢管公主 | ![](https://upload.wikimedia.org/wikipedia/en/4/45/Pole_Princess!!_key_visual.jpg)<br>日语：ポールプリンセス‼ |  |
 | newton to ringo no ki | 牛顿与苹果树 | ![](https://upload.wikimedia.org/wikipedia/zh/2/21/牛顿与苹果树.jpg)<br>《牛顿与苹果树》（日语：ニュートンと林檎の樹）是Laplacian于2017年5月26日发售的恋爱冒险类型成人游戏。 |  |
+| yami healer | 无照天才治疗师的逆袭人生 | ![](https://static.wikia.nocookie.net/shochiku/images/4/48/The_Brilliant_Healer%27s_New_Life_in_the_Shadows.png)<br>英文全名：《Yami Healer to shite Tanoshiku Ikiru》<br>又译：《瞬间治愈却被当成废物踢出队伍的天才治疗师，改当无照治疗师快乐过活/天才治疗师退队作为无照治疗师快乐过活》 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
