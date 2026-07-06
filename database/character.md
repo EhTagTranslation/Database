@@ -4656,7 +4656,7 @@ example:
 | touko fukawa | 腐川冬子 | 腐川冬子是游戏《弹丸论破》系列及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/40/腐川冬子.png) | [萌娘百科](https://zh.moegirl.org.cn/腐川冬子) |
 | haru | 春 | 春（日语：ハル）是由板垣巴留所创作漫画《BEASTARS》及其衍生作品的女主角。<br>![](https://img.moegirl.org.cn/common/0/04/BEASTARS_main1.png) | [萌娘百科](https://zh.moegirl.org.cn/春%28BEASTARS%29) |
 | rio kastle | 神代璃绪 | 神代璃绪（日语：神代璃緒）是由ぎやろっぷ制作的动画作品《游☆戏☆王ZEXAL》和三好直人，吉田伸合作的漫画作品《游☆戏☆王ZEXAL》及其衍生作品的登场角色.<br>![](https://img.moegirl.org.cn/common/9/99/Chara_rio.png) | [萌娘百科](https://zh.moegirl.org.cn/神代璃绪) |
-| elizabeth liones | 伊丽莎白·里昂妮丝 | 由日本漫画家铃木央所创作的《七大罪》漫画作品及其衍生作品中的登场角色 |  |
+| elizabeth liones | 伊丽莎白·里昂妮丝 | ![](https://lain.bgm.tv/r/400/pic/crt/l/4c/03/26480_crt_DXuAZ.jpg)<br>所属作品：`nanatsu no taizai`<br>日语：エリザベス・リオネス | [Bangumi](https://bgm.tv/character/26480) |
 | yanqing | 彦卿 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/Character_Yanqing_Splash_Art.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/彦卿) |
 | seika ijichi | 伊地知星歌 | ![](https://ehgt.org/w/01/796/47464-djhojeig.webp)<br>出自作品：`p:bocchi the rock`<br><br>伊地知星歌（日语：伊地知（いじち）星歌（せいか））是由はまじあき所创作的漫画《孤独摇滚！》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊地知星歌) |
 | rika furude | 古手梨花 | ![](https://static.wikia.nocookie.net/whentheycry/images/f/f3/Rika_mei_school_%281%29.png)<br><br>圭一的学妹，和沙都子同为小学6年级。古手神社的独生女，雏见泽御三家之一，古手家的最后一人。在每年6月的绵流祭担当巫女，被认为是御社神大人的转世，兼具冷静与神秘性，受到村人的喜爱与崇敬。 | [萌娘百科](https://zh.moegirl.org.cn/古手梨花) [Fandom](https://whentheycry.fandom.com/wiki/Furude_Rika) |
