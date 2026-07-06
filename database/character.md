@@ -9604,6 +9604,7 @@ example:
 | hannah | 汉娜 | ![](https://static.wikia.nocookie.net/mahjongsoul/images/f/f8/Hannah-default.png)<br>所属作品：`mahjong soul` |  |
 | kaavi | 卡维 | ![](https://static.wikia.nocookie.net/mahjongsoul/images/0/0c/Kaavi1.png)<br>所属作品：`mahjong soul` |  |
 | ichihime | 一姬 | ![](https://static.wikia.nocookie.net/mahjongsoul/images/b/b2/0_一姬.png)<br>所属作品：`mahjong soul` |  |
+| chiori mikami | 三上千织 | ![](https://static.wikia.nocookie.net/mahjongsoul/images/8/87/0_千织大.png)<br>所属作品：`mahjong soul` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
