@@ -3729,7 +3729,7 @@ example:
 | chime | ちゃいむ |  |  |
 | chimeishou | 致命傷 |  |  |
 | chimere marie | chimere/marie |  |  |
-| chimple hotters | チンプルホッターズ |  |  |
+| chimple hotters | チンプルホッターズ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01021523.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=222855/) |
 | chimple island | チンプル愛☆ランド |  |  |
 | chimuya | ちむ屋 |  |  |
 | chin soudou | 珍騒動 |  |  |
