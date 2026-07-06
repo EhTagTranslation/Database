@@ -9600,6 +9600,7 @@ example:
 | hatsumi azuma | 东初美 | ![](https://lain.bgm.tv/r/400/pic/crt/l/fe/4b/21785_crt_vQCtu.jpg?r=1381586952)<br>所属作品：`yami to boushi to hon no tabibito` |  |
 | mina hinomori | 日野森美奈 | ![](https://ehgt.org/w/02/442/09840-0ftk4j9t.webp)<br>所属作品：`pia carrot e youkoso 2` |  |
 | azusa hinomori | 日野森梓 | ![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f4bf49f8-8a93-4d8d-ae78-b737028f80e4/dh1j58f-b58e4c7e-aee3-41a1-8fdb-3d4c05589506.png/v1/fit/w_400,h_600/azusa_hinomori_by_act52_dh1j58f-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjAwIiwicGF0aCI6Ii9mL2Y0YmY0OWY4LThhOTMtNGQ4ZC1hZTc4LWI3MzcwMjhmODBlNC9kaDFqNThmLWI1OGU0YzdlLWFlZTMtNDFhMS04ZmRiLTNkNGMwNTU4OTUwNi5wbmciLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.iqXsMM4K6VCy55FYJ366794OdnMCkeFS2RR1JWaua0k)<br>所属作品：`pia carrot e youkoso 2` |  |
+| tomomi aizawa | 爱沢友美 | ![](https://ehgt.org/w/02/440/28790-ofv78sq8.webp)<br>所属作品：`pia carrot e youkoso 2`<br>日语：愛沢 ともみ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
