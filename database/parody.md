@@ -2879,6 +2879,7 @@ example:
 | newton to ringo no ki | 牛顿与苹果树 | ![](https://upload.wikimedia.org/wikipedia/zh/2/21/牛顿与苹果树.jpg)<br>《牛顿与苹果树》（日语：ニュートンと林檎の樹）是Laplacian于2017年5月26日发售的恋爱冒险类型成人游戏。 |  |
 | yami healer | 无照天才治疗师的逆袭人生 | ![](https://static.wikia.nocookie.net/shochiku/images/4/48/The_Brilliant_Healer%27s_New_Life_in_the_Shadows.png)<br>英文全名：《Yami Healer to shite Tanoshiku Ikiru》<br>又译：《瞬间治愈却被当成废物踢出队伍的天才治疗师，改当无照治疗师快乐过活/天才治疗师退队作为无照治疗师快乐过活》 |  |
 | natsu no arashi | 夏之岚！ | ![](https://lain.bgm.tv/r/400/pic/cover/l/3b/bf/1454_47lsn.jpg)<br>小林尽创作的日本漫画作品，并有改编动画。 | [Bangumi](https://bgm.tv/subject/1454) |
+| yomi no tsugai | 黄泉使者 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_z7obB.jpg)<br>日语：黄泉のツガイ<br>荒川弘所编绘的日本漫画作品。 | [Bangumi](https://bgm.tv/subject/568572) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
