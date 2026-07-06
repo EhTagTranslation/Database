@@ -6549,7 +6549,7 @@ example:
 | kriemhild | 克里姆希尔德 | ![克里姆希尔德](https://p.sda1.dev/26/79d7e0f42bcc5911cd1c1bf657bf6aea/1000012951.png)<br>克里姆希尔德是TYPE-MOON旗下游戏《`fate grand order`》及其衍生作品的登场角色。 |  |
 | enkidu | 恩奇都 | ![恩奇都](https://p.sda1.dev/26/767a6df4fcb11e0a7c719f19d8eafe7c/1000012954.png)<br>恩奇都是TYPE-MOON旗下的《Fate系列》及其衍生作品的登场角色。<br>原型为现今人类历史上最古老的叙事诗《吉尔伽美什史诗》里的重要人物，古代美索不达米亚（Mesopotamia）地区苏美尔（Sumer）王朝的都市国家乌鲁克（Uruk）之王吉尔伽美什的敌人和唯一的挚友，与其一同经历了诸多冒险。 |  |
 | violet parr | 巴小倩 |  | [维基百科](https://zh.wikipedia.org/wiki/巴小倩) |
-| yuna | 尤娜 | ![](https://static.wikia.nocookie.net/finalfantasy/images/c/c6/FFX_HD_Yuna_Render.png)<br>日语：ユウナ<br>所属作品：`final fantasy x` | [萌娘百科](https://zh.moegirl.org.cn/尤娜%28最终幻想%29#) |
+| yuna | 尤娜 \| 优奈 | ①所属作品：`final fantasy x`<br>![](https://static.wikia.nocookie.net/finalfantasy/images/c/c6/FFX_HD_Yuna_Render.png)<br>日语：ユウナ<br>②所属作品：`kuma kuma kuma bear`<br>![](https://static.wikia.nocookie.net/kumakumakumabear/images/f/f0/Yuna_Full_Body_Anime.png) | [萌娘百科](https://zh.moegirl.org.cn/尤娜%28最终幻想%29#) |
 | she-hulk | 女浩克 |  |  |
 | manchester | 曼彻斯特 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/29e96834d96f6958f3cdd93b6bb5ee58262400697.png)<br>其原型为英国海军的曼彻斯特号轻巡洋舰。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:曼彻斯特#) |
 | suffren | 絮弗伦 | ![](https://patchwiki.biligame.com/images/blhx/thumb/9/95/5gxwy16r20g9mh4plxdit853kkpqvch.jpg/525px-絮弗伦立绘.jpg)<br>《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型为法国海军絮弗伦级重巡洋舰一号舰絮弗伦号（French cruiser Suffren）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:絮弗伦)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/絮弗伦) |
