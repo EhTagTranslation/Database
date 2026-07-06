@@ -9634,6 +9634,7 @@ example:
 | e.h. | 极乐净土·哈珀 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8c/E.H._FB.png)<br>所属作品：`goddess of victory nikke` |  |
 | hayate ayasaki | 绫崎飒 | ![](https://lain.bgm.tv/r/400/pic/crt/l/5d/ec/2416_crt_anidb.jpg)<br>所属作品：`hayate no gotoku`<br>日语：綾崎ハヤテ | [Bangumi](https://bgm.tv/character/2416) |
 | lucy platini | 露西·普拉蒂尼 | ![](https://static.wikia.nocookie.net/closers/images/2/23/Lucy_Platini.jpg)<br>所属作品：`closers`<br>韩语：루시 플라티니 |  |
+| dina | 迪娜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/0c/f3/171101_crt_2Nnz7.jpg?r=1760400742)<br>所属作品：《野生のラスボスが現れた!/A Wild Last Boss Appeared!》<br>日语：ディーナ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
