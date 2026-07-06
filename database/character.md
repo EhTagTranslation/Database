@@ -3218,7 +3218,7 @@ example:
 | star girl | 逐星女 |  | [百度百科](https://baike.baidu.com/item/逐星女/1392703) |
 | harley quinn | 哈莉·奎茵 |  | [萌娘百科](https://zh.moegirl.org.cn/哈莉·奎茵) |
 | zatanna zatara | 扎塔娜·扎塔拉 |  | [萌娘百科](https://zh.moegirl.org.cn/扎塔娜·扎塔拉) |
-| starfire | 星火 |  | [萌娘百科](https://zh.moegirl.org.cn/星火) |
+| starfire | 星火 | ![](https://static.wikia.nocookie.net/teentitans/images/9/9b/Starfire.png)<br>出自作品：`p:teen titans`<br><br>星火是DC漫画旗下的漫画及其衍生作品的登场角色，在《DC漫画呈现》#26中首次登场。 | [萌娘百科](https://zh.moegirl.org.cn/星火) \| [Fandom](https://teentitans.fandom.com/wiki/Starfire) |
 | supergirl | 超级少女 |  | [百度百科](https://baike.baidu.com/item/超级少女/16786875) |
 | superwoman | 超级女侠 | 超级女侠／女超人／超女 | [百度百科](https://baike.baidu.com/item/超级女侠/19824448) |
 | batwoman | 蝙蝠女侠 |  | [百度百科](https://baike.baidu.com/item/蝙蝠女侠/430714) |
