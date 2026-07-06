@@ -2875,6 +2875,7 @@ example:
 | monster high | 精灵高中 | ![](https://upload.wikimedia.org/wikipedia/en/9/9b/Monster_High_dolls.jpg)<br>《精灵高中》是美泰公司旗下的美国时尚娃娃系列。 |  |
 | timesplitters | 时空分裂者 | ![](https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/TimeSplittersLogoSeries.svg/960px-TimeSplittersLogoSeries.svg.png)<br>由 Free Radical Design 开发的第一人称射击游戏系列 。 |  |
 | yami to boushi to hon no tabibito | 暗与帽子与书之旅人 | ![](https://upload.wikimedia.org/wikipedia/en/e/e4/Yami_to_Bōshi_to_Hon_no_Tabibito_cover.jpg)<br>日语：ヤミと帽子と本の旅人<br>Root 于 2002 年 12 月出版的日本成人视觉小说。 |  |
+| pole princess | 钢管公主 | ![](https://upload.wikimedia.org/wikipedia/en/4/45/Pole_Princess!!_key_visual.jpg)<br>日语：ポールプリンセス‼ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
