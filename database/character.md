@@ -3753,7 +3753,7 @@ example:
 | torako | 虎子 |  |  |
 | naruko yokoshima | 横岛鸣子 |  |  |
 | aoi hinami | 日南葵 | ![](https://static.wikia.nocookie.net/yowa-chara-tomozaki-kun/images/f/f3/Aoi-02_Anime.png)<br>所属作品：`jaku-chara tomozaki-kun` |  |
-| feena fam earthlight | 菲娜·法姆·阿修莱特 | ![](https://ehgt.org/w/02/413/64478-223c0nib.webp)<br>所属作品：`yoake mae yori ruriiro na` | [萌娘百科](https://zh.moegirl.org.cn/菲娜·法姆·阿修莱特) |
+| feena fam earthlight | 菲娜·法姆·阿修莱特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/98/48/1098_crt_s9590.jpg)<br>所属作品：`yoake mae yori ruriiro na`<br>日语：フィーナ・ファム・アーシュライト | [萌娘百科](https://zh.moegirl.org.cn/菲娜·法姆·阿修莱特) |
 | akiko minase | 水濑秋子 | 动画、游戏《Kanon》中的人物。相泽祐一的阿姨，水濑名雪的母亲。 | [百度百科](https://baike.baidu.com/item/水濑秋子/10785282?fr=aladdin) |
 | yuuichi aizawa | 相泽祐一 | 相泽祐一是Key出品的Galgame《Kanon》的登场人物，为作品的男主角。 | [萌娘百科](https://zh.moegirl.org.cn/相泽祐一) |
 | itako tohoku | 东北伊达子 | 東北イタコ |  |
