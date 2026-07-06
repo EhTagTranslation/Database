@@ -15360,6 +15360,7 @@ example:
 | gouriki toratarou | 剛力虎太郎 |  |  |
 | umiwatari | うみわたり |  |  |
 | touou | トウオウ |  |  |
+| kotani | こたに |  | [pixiv](https://www.pixiv.net/users/15802209) \| [X](https://x.com/shiro_nuno) \| [Skeb](https://skeb.jp/@sakuhima0616) \| [Fantia](https://fantia.jp/fanclubs/494307) \| [FANBOX](https://gomabota-mochi.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
