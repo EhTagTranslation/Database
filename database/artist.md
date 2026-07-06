@@ -452,7 +452,7 @@ example:
 | fukori | フコリ |  |  |
 | shinyashiki | 新屋敷 |  |  |
 | kanzume | KANZUME |  | [piixiv](https://www.pixiv.net/users/29981) |
-| kishimen | きしめん |  |  |
+| kishimen | きしめん |  | [pixiv](https://www.pixiv.net/users/7492722) |
 | ken-1 | Ken-1 |  | [X](https://x.com/clowns_ken1) [pixiv](https://www.pixiv.net/users/32288) |
 | midoh tsukasa | 御堂つかさ |  |  |
 | oyama yasunaga | 尾山泰永 |  |  |
