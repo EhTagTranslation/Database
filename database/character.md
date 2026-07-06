@@ -9611,7 +9611,7 @@ example:
 | escanor | 艾斯卡诺 | ![](https://static.wikia.nocookie.net/nanatsu-no-taizai/images/b/b0/Escanor_%28Day%29_%28Cursed_by_Light%29.png)<br>所属作品：`nanatsu no taizai`<br>日语：エスカノール | [Bangumi](https://bgm.tv/character/58779) |
 | sayoko asatsuyu | 朝露砂夜子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/44/e6/42962_crt_QbULx.jpg)<br>所属作品：`tsumamigui` | [Bangumi](https://bgm.tv/character/42962) |
 | miyuri natsuki | 夏树海夕里 | ![](https://lain.bgm.tv/r/400/pic/crt/l/f7/83/42961_crt_k0WPt.jpg)<br>所属作品：`tsumamigui` | [Bangumi](https://bgm.tv/character/42961) |
-| meimei himari | 冥鸣阳葵 | ![](https://static.wikia.nocookie.net/vocalsynth/images/d/dd/Meimei_Himari.png)<br>所属作品：`voicevox`<br>日语：冥鳴ひまり | [YouTube](https://www.youtube.com/channel/UCBA2EDiX5euSTM2Ic3gKqIw) |
+| meimei himari | 冥鸣阳葵 | ![](https://static.wikia.nocookie.net/vocalsynth/images/d/dd/Meimei_Himari.png)<br>所用声库：`voicevox`<br>日语：冥鳴ひまり | [YouTube](https://www.youtube.com/channel/UCBA2EDiX5euSTM2Ic3gKqIw) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
