@@ -9629,6 +9629,7 @@ example:
 | celty sturluson | 塞尔提·史特路尔森 | ![](https://lain.bgm.tv/r/400/pic/crt/l/34/19/9530_crt_kxKpN.jpg?r=1663693948)<br>所属作品：`durarara`<br>日语：セルティ・ストゥルルソン | [Bangumi](https://bgm.tv/character/9530) |
 | shizuo heiwajima | 平和岛静雄 | ![](https://lain.bgm.tv/r/400/pic/crt/l/14/19/10631_crt_8s768.jpg)<br>所属作品：`durarara`<br>日语：平和島靜雄 | [Bangumi](https://bgm.tv/character/10631) |
 | tom tanaka | 田中汤姆 | ![](https://static.wikia.nocookie.net/durarara/images/c/c8/Tom_Tanaka_ShoE04_11M15S.JPG)<br>所属作品：`durarara`<br>日语：田中トム | [Bangumi](https://bgm.tv/character/25861) |
+| zazan | 杀残 | ![](https://static.wikia.nocookie.net/hunterxhunter/images/a/a5/Zazan.png)<br>所属作品：`hunter x hunter`<br>日语：ザザン | [Bangumi](https://bgm.tv/character/75690) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
