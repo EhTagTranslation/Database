@@ -14029,7 +14029,7 @@ example:
 | higehurai | ひげふらい |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201506/) |
 | whisp | Whisp |  |  |
 | bug system | バグシステム |  |  |
-| nostradamus | のすとらだむす |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG18831.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28318/) |
+| nostradamus | のすとらだむす |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG18831.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28318/) \| [Skeb](https://skeb.jp/@nosudamu) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
