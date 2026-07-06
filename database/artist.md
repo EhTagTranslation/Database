@@ -15358,6 +15358,7 @@ example:
 | goblin touzokudan | ゴブリンの恥 |  |  |
 | nametakenoko | なめたけのこ |  |  |
 | gouriki toratarou | 剛力虎太郎 |  |  |
+| umiwatari | うみわたり |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
