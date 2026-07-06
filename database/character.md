@@ -9628,6 +9628,7 @@ example:
 | izaya orihara | 折原临也 | ![](https://lain.bgm.tv/r/400/pic/crt/l/82/dd/10630_crt_7dhvq.jpg)<br>所属作品：`durarara`<br>日语：折原臨也 | [Bangumi](https://bgm.tv/character/10630) |
 | celty sturluson | 塞尔提·史特路尔森 | ![](https://lain.bgm.tv/r/400/pic/crt/l/34/19/9530_crt_kxKpN.jpg?r=1663693948)<br>所属作品：`durarara`<br>日语：セルティ・ストゥルルソン | [Bangumi](https://bgm.tv/character/9530) |
 | shizuo heiwajima | 平和岛静雄 | ![](https://lain.bgm.tv/r/400/pic/crt/l/14/19/10631_crt_8s768.jpg)<br>所属作品：`durarara`<br>日语：平和島靜雄 | [Bangumi](https://bgm.tv/character/10631) |
+| tom tanaka | 田中汤姆 | ![](https://static.wikia.nocookie.net/durarara/images/c/c8/Tom_Tanaka_ShoE04_11M15S.JPG)<br>所属作品：`durarara`<br>日语：田中トム | [Bangumi](https://bgm.tv/character/25861) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
