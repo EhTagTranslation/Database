@@ -15361,6 +15361,7 @@ example:
 | umiwatari | うみわたり |  |  |
 | touou | トウオウ |  |  |
 | kotani | こたに |  | [pixiv](https://www.pixiv.net/users/15802209) \| [X](https://x.com/shiro_nuno) \| [Skeb](https://skeb.jp/@sakuhima0616) \| [Fantia](https://fantia.jp/fanclubs/494307) \| [FANBOX](https://gomabota-mochi.fanbox.cc/) |
+| roborobocap | roborobocap |  | [FANBOX](https://roborobocap.fanbox.cc/) \| [Patreon](https://www.patreon.com/roborobocap) \| [X](https://x.com/roborobocap) \|  [pixiv](https://www.pixiv.net/users/5315878) |
 
 <!--TEMPLATE:
 |  |  |  |  |
