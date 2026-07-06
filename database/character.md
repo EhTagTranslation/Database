@@ -9606,6 +9606,7 @@ example:
 | ichihime | 一姬 | ![](https://static.wikia.nocookie.net/mahjongsoul/images/b/b2/0_一姬.png)<br>所属作品：`mahjong soul` |  |
 | chiori mikami | 三上千织 | ![](https://static.wikia.nocookie.net/mahjongsoul/images/8/87/0_千织大.png)<br>所属作品：`mahjong soul` |  |
 | alice bedford | 爱丽丝·贝德福德 | ![](https://static.wikia.nocookie.net/newton-and-the-apple-tree/images/8/82/Alice.png)<br>日语：アリス・べッドフォッド<br>所属作品：`newton to ringo no ki` |  |
+| shuuji asanaga | 朝永修二 | ![](https://static.wikia.nocookie.net/newton-and-the-apple-tree/images/8/84/Syuji.png)<br>所属作品：`newton to ringo no ki` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
