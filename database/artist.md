@@ -4666,7 +4666,7 @@ example:
 | chilt | ちると |  |  |
 | chimaro | ちまろ |  |  |
 | chimo | チモ |  |  |
-| chimple hotter | チンプル堀田 |  | [pixiv](https://www.pixiv.net/users/21241471) \| [pixiv](https://www.pixiv.net/users/21241471) \| [Skeb](https://skeb.jp/@chimple_hotter) \| [Fantia](https://fantia.jp/fanclubs/88722) \| [FANBOX](https://chimplehotter.fanbox.cc/) |
+| chimple hotter | チンプル堀田 |  | [pixiv](https://www.pixiv.net/users/21241471) \| [X](https://x.com/chimple_hotter) \| [Skeb](https://skeb.jp/@chimple_hotter) \| [Fantia](https://fantia.jp/fanclubs/88722) \| [FANBOX](https://chimplehotter.fanbox.cc/) |
 | chin | chin |  | [FANZA](https://book.dmm.co.jp/list/?author=256437) |
 | chin tokusyu | 珍・特集 |  |  |
 | china | 茶否 |  |  |
