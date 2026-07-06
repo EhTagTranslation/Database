@@ -9618,6 +9618,7 @@ example:
 | kaoru itokonoue | 丝此上 薰 | ![](https://i.pixiv.cat/img-master/img/2024/09/06/00/02/14/122170266_p0_master1200.jpg)<br>所属作品：`project kv` |  |
 | estel freesia | 艾丝蒂尔·弗利西亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/60/b6/42751_crt_B0sHZ.jpg)<br>所属作品：`yoake mae yori ruriiro na`<br>日语：エステル·フリージア | [Bangumi](https://bgm.tv/character/42751) |
 | asagiri mai | 朝雾麻衣 | ![](https://lain.bgm.tv/r/400/pic/crt/l/6a/28/1100_crt_Lt0Z0.jpg)<br>所属作品：`yoake mae yori ruriiro na` | [Bangumi](https://bgm.tv/character/1100) |
+| natsuki takamizawa | 鹰见泽菜月 | ![](https://lain.bgm.tv/r/400/pic/crt/l/18/e1/1099_crt_3s9XZ.jpg)<br>所属作品：`yoake mae yori ruriiro na`<br>日语：鷹見沢菜月 | [Bangumi](https://bgm.tv/character/1099) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
