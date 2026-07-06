@@ -9622,6 +9622,7 @@ example:
 | wreathlit noel | 莉兹里特·诺艾尔 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ac/33/1107_crt_Am355.jpg)<br>所属作品：`yoake mae yori ruriiro na`<br>日语：リースリット・ノエル | [Bangumi](https://bgm.tv/character/1107) |
 | tatsuya asagiri | 朝雾达哉 | ![](https://t.vndb.org/ch/95/15395.jpg)<br>所属作品：`yoake mae yori ruriiro na` | [Bangumi](https://bgm.tv/character/1097) |
 | midori tooyama | 远山翠 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b5/a1/1104_crt_V882r.jpg)<br>所属作品：`yoake mae yori ruriiro na`<br>日语：遠山翠 | [Bangumi](https://bgm.tv/character/1104) |
+| cynthia marguerite | 辛西娅·玛格丽特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e1/f2/42752_crt_hsHmr.jpg)<br>所属作品：`yoake mae yori ruriiro na`<br>日语：シンシア・マルグリット | [Bangumi](https://bgm.tv/character/42752) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
