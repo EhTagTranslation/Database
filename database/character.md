@@ -9613,6 +9613,7 @@ example:
 | miyuri natsuki | 夏树海夕里 | ![](https://lain.bgm.tv/r/400/pic/crt/l/f7/83/42961_crt_k0WPt.jpg)<br>所属作品：`tsumamigui` | [Bangumi](https://bgm.tv/character/42961) |
 | meimei himari | 冥鸣阳葵 | ![](https://static.wikia.nocookie.net/vocalsynth/images/d/dd/Meimei_Himari.png)<br>所用声库：`voicevox`<br>日语：冥鳴ひまり | [YouTube](https://www.youtube.com/channel/UCBA2EDiX5euSTM2Ic3gKqIw) |
 | professor burnet | 芭内特博士 | ![](https://archives.bulbagarden.net/media/upload/thumb/7/74/Sun_Moon_Professor_Burnet.png/210px-Sun_Moon_Professor_Burnet.png)<br>出自作品：`p:pokemon`<br>日语：バーネット博士 |  |
+| loewe | 蕾薇 | ![](https://static.wikia.nocookie.net/shochiku/images/3/33/Loewe.png)<br>所属作品：`yami healer`<br>日语：レーヴェ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
