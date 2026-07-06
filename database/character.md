@@ -9608,6 +9608,7 @@ example:
 | alice bedford | 爱丽丝·贝德福德 | ![](https://static.wikia.nocookie.net/newton-and-the-apple-tree/images/8/82/Alice.png)<br>日语：アリス・べッドフォッド<br>所属作品：`newton to ringo no ki` |  |
 | shuuji asanaga | 朝永修二 | ![](https://static.wikia.nocookie.net/newton-and-the-apple-tree/images/8/84/Syuji.png)<br>所属作品：`newton to ringo no ki` |  |
 | yu linglong | 玉玲珑 | 所属作品：`naraka bladepoint` |  |
+| escanor | 艾斯卡诺 | ![](https://static.wikia.nocookie.net/nanatsu-no-taizai/images/b/b0/Escanor_%28Day%29_%28Cursed_by_Light%29.png)<br>所属作品：`nanatsu no taizai`<br>日语：エスカノール | [Bangumi](https://bgm.tv/character/58779) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
