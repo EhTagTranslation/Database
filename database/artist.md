@@ -15363,6 +15363,7 @@ example:
 | kotani | こたに |  | [pixiv](https://www.pixiv.net/users/15802209) \| [X](https://x.com/shiro_nuno) \| [Skeb](https://skeb.jp/@sakuhima0616) \| [Fantia](https://fantia.jp/fanclubs/494307) \| [FANBOX](https://gomabota-mochi.fanbox.cc/) |
 | roborobocap | roborobocap |  | [FANBOX](https://roborobocap.fanbox.cc/) \| [Patreon](https://www.patreon.com/roborobocap) \| [X](https://x.com/roborobocap) \|  [pixiv](https://www.pixiv.net/users/5315878) |
 | captain jerkpants | Captainjerkpants |  | [X](https://x.com/CaptJerkpants/) \| [pixiv](https://www.pixiv.net/users/19304479) \| [Patreon](https://www.patreon.com/CaptainJerkpants) \| [linktr.ee](https://linktr.ee/captjerkpants) |
+| iori ayaka | いおりあやか |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
