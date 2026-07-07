@@ -14033,6 +14033,7 @@ example:
 | halladaydou | ハラディ堂 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01061208.html) |
 | caramel maam | きゃらめるまみー |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01024467.html) |
 | kagero studio | カゲロースタジオ |  |  |
+| ayameya | あやめや |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
