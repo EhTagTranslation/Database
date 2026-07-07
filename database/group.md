@@ -12782,7 +12782,7 @@ example:
 | cominaya | こみな屋 |  |  |
 | agenasu | 揚げナス(仮) |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52438.html) \| [FANZA](https://t.co/mjaKIKRzQk) |
 | miracleburn | みらくるバーン |  |  |
-| ice coffee | 冷珈琲 |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=116558) |
+| ice coffee | 冷咖啡 | 冷珈琲 | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=116558) |
 | nasu homu | なすほーむ |  |  |
 | hitaki nikomiya | ひたき煮込み屋 |  |  |
 | tori salt | トリソルト |  |  |
