@@ -2313,7 +2313,7 @@ example:
 | sailor uranus | 水手天王星 | ![](https://ehgt.org/w/02/089/63830-7t33omwa.webp)<br>所属作品：`p:sailor moon`<br>天王遥（てんおうはるか） |  |
 | sailor pluto | 水手冥王星 | ![](https://ehgt.org/w/01/891/47141-3otyyex4.webp)<br>所属作品：`p:sailor moon`<br>冥王雪奈（めいおうせつな） |  |
 | kenji tsukino | 月野谦之 |  |  |
-| ikuko tsukino | 月野育子 |  |  |
+| ikuko tsukino | 月野育子 | ![](https://static.wikia.nocookie.net/sailormoon/images/5/5d/Ikuko_Tsukino_Cosmos.jpg)<br>所属作品：`sailor moon` |  |
 | shingo tsukino | 月野进悟 |  |  |
 | naru osaka | 大阪奈留 |  |  |
 | gurio umino | 海野栗雄 |  |  |
