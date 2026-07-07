@@ -603,7 +603,7 @@ example:
 | oboro muramasa | 胧村正 |  |  |
 | zettai bouei leviathan | 绝对防卫利维坦 |  |  |
 | tokimeki memorial | 心跳回忆 |  |  |
-| future card buddyfight | 未来卡 搭档对战 |  |  |
+| future card buddyfight | 未来卡 搭档对战 | ![](https://lain.bgm.tv/r/400/pic/cover/l/22/bd/85558_tf8PC.jpg) |  |
 | fun fun pharmacy | 不可思议魔法药店 |  |  |
 | aiura | 校园日记 AIURA |  |  |
 | gokujou seitokai | 极上学生会 |  |  |
