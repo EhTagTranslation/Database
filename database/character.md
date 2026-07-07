@@ -9640,6 +9640,7 @@ example:
 | mitachurl | 丘丘暴徒 | ![](https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Mitachurl.png)<br>出自作品：`p:genshin impact` | [百度百科](https://baike.baidu.com/item/丘丘暴徒/60384635) \| [Fandom](https://genshin-impact.fandom.com/wiki/Mitachurl) |
 | noboru kodou | 虎堂升 | ![](https://lain.bgm.tv/r/400/pic/crt/l/16/bc/63610_crt_43c1A.jpg)<br>所属作品：`future card buddyfight`<br>日语：虎堂ノボル | [Bangumi](https://bgm.tv/character/63610) |
 | magoroku shidou | 祠堂孙六 | ![](https://static.wikia.nocookie.net/buddyfight/images/b/b8/Magoroku_full.png)<br>所属作品：`future card buddyfight`<br>日语：祠堂孫六 |  |
+| akira ogata | 绪方旭 | ![](https://lain.bgm.tv/r/400/pic/crt/l/3c/d2/109064_crt_Oz9Zw.jpg?r=1755998277)<br>所属作品：`sono bisque doll wa koi o suru` | [Bangumi](https://bgm.tv/character/109064) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
