@@ -9641,6 +9641,7 @@ example:
 | noboru kodou | 虎堂升 | ![](https://lain.bgm.tv/r/400/pic/crt/l/16/bc/63610_crt_43c1A.jpg)<br>所属作品：`future card buddyfight`<br>日语：虎堂ノボル | [Bangumi](https://bgm.tv/character/63610) |
 | magoroku shidou | 祠堂孙六 | ![](https://static.wikia.nocookie.net/buddyfight/images/b/b8/Magoroku_full.png)<br>所属作品：`future card buddyfight`<br>日语：祠堂孫六 |  |
 | akira ogata | 绪方旭 | ![](https://lain.bgm.tv/r/400/pic/crt/l/3c/d2/109064_crt_Oz9Zw.jpg?r=1755998277)<br>所属作品：`sono bisque doll wa koi o suru` | [Bangumi](https://bgm.tv/character/109064) |
+| atena saotome | 早乙女天奈 | ![](https://lain.bgm.tv/r/400/pic/crt/l/2a/ac/90483_crt_AaZ0k.jpg?r=1611503551)<br>所属作品：`megami-ryou no ryoubo-kun.`<br>日语：早乙女あてな |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
