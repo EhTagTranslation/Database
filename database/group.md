@@ -3683,7 +3683,7 @@ example:
 | chibineco honpo | ちびねこ本舗 |  |  |
 | chicchi bokujou | チッチ牧場 |  |  |
 | chichai mono club | ちっちゃい物クラブ |  |  |
-| chichi mafia | 乳マフィア |  |  |
+| chichi mafia | 乳マフィア |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG27906.html) \| [Ci-en](https://ci-en.dlsite.com/creator/433) |
 | chichikemo | ちちけも |  |  |
 | chick tack bon | ちくたくぼん |  |  |
 | chicken nugget gyuuniku aji | チキンナゲット牛肉味 |  |  |
