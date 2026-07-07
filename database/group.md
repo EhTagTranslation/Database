@@ -13265,7 +13265,7 @@ example:
 | mochiki sengyoten | もちき鮮魚店 |  |  |
 | koromoya | 衣屋 |  |  |
 | acesulfame kei | あせするふぁむ系 |  |  |
-| sukebe hatsudenjo | すけべ发电所 |  |  |
+| sukebe hatsudenjo | すけべ发电所 | 日语：すけべ発電所 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68789.html) |
 | katakana de velokisss | 平仮名で、べろきす |  |  |
 | shinkai-kajuen | 深海果樹園 |  |  |
 | aparachiya | アパラチ屋 |  |  |
