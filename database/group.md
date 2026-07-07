@@ -10948,7 +10948,7 @@ example:
 | sushi-go-round | 回転寿司 |  |  |
 | sushi-ya | 寿司屋 |  |  |
 | sushiya. | スシヤ。 |  |  |
-| sutaco rider | スタコライダー |  |  |
+| sutaco rider | スタコライダー |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG67398.html) |
 | suteiburus | すていぶるず |  |  |
 | suvwave | SUVWAVE |  |  |
 | suwatteru | 座ってる |  |  |
