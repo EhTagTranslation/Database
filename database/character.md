@@ -8623,7 +8623,7 @@ example:
 | famine devil | 饥荒恶魔 | ![](https://ehgt.org/w/02/245/72686-fn9nvd87.webp)<br>所属作品：`chainsaw man` | [Fandom](https://chainsaw-man.fandom.com/wiki/Fami) |
 | cure arcana shadow | 森亚琉琉歌 (奥秘天使·影) | ![](https://static.wikia.nocookie.net/prettycure/images/7/79/Luluka_Cure_Arcana_Shadow_Profile.png/revision/latest?cb=20260111014026)<br>所属作品:`meitantei precure`<br>日语：森亜るるか（もりあ るるか）<br>又译：森亚露露卡 | [萌娘百科](https://zh.moegirl.org.cn/森亚琉琉歌)<br>[Fandom](https://prettycure.fandom.com/wiki/Moria_Luluka) |
 | marshall d. teach | 马歇尔·D·蒂奇 | ![](https://static.wikia.nocookie.net/onepiece/images/f/ff/Marshall_D._Teach_Anime_Post_Timeskip_Infobox.png)<br>出自作品：`p:one piece`<br><br>马歇尔·D·蒂奇，人称其“黑胡子”，是黑胡子海贼团团长，四皇之一，目前已知唯一一个拥有两个恶魔果实能力的人。 | [Fandom](https://onepiece.fandom.com/zh/wiki/馬歇爾·D·汀奇?variant=zh-sg) |
-| ralmia | 洛菈米亚 | ![](https://static.wikia.nocookie.net/shadowverse/images/1/12/Imagem_2022-01-12_121555.png)<br>出自作品：`p:shadowverse` | [shadowverse-portal](https://shadowverse-portal.com/card/116841010?lang=zh-tw) |
+| ralmia | 洛菈米亚 | ![](https://static.wikia.nocookie.net/shadowverse/images/c/ca/Ralmia_win.png)<br>出自作品：`p:shadowverse` | [影之诗百科](https://shadowverse-portal.com/card/116841010?lang=zh-tw) |
 | fluorite | 萤石 | ![](https://endfield.wiki.gg/images/Fluorite_Splash_Art.png?f12154=&format=original)<br>所属游戏:`arknights endfield` | [萌娘百科](https://zh.moegirl.org.cn/萤石) |
 | camula | 卡缪拉 | ![卡缪拉](https://p.sda1.dev/30/cc31e1dfe0344b84bb963c2a02a58a19/image.png)<br>所属作品：《游戏王GX》登场角色。吸血鬼 | [百度百科](https://baike.baidu.com/item/卡缪拉/7446903) |
 | mem-cho | MEM啾 | ![](https://static.wikia.nocookie.net/oshi_no_ko/images/3/37/Mem-Cho_Anime.png)<br>所属作品：`oshi no ko` | [萌娘百科](https://zh.moegirl.org.cn/MEM_啾) |
