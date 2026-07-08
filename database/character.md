@@ -9660,6 +9660,7 @@ example:
 | mikoto amamiya | 李瑟钰 | ![](https://static.wikia.nocookie.net/closers-anime/images/1/1a/Seulbi_Lee.jpg)<br>所属作品：`closers` |  |
 | eunha | 银河 | ![](https://static.wikia.nocookie.net/closers-anime/images/9/9b/Eunha.jpg)<br>所属作品：`closers` |  |
 | chie ashikaga | 足利知恵 | 所属作品：`school days`<br>日语：あしかが ちえ |  |
+| setsuna kiyoura | 清浦刹那 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8d/92/425_crt_9tqEl.jpg?r=1459666699)<br>所属作品：`school days` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
