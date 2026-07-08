@@ -3108,7 +3108,7 @@ example:
 | akabane youko | 赤羽叶子 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2021/08/18/13/42/26/92075448_p0_master1200.jpg)<br>赤羽葉子（Akaba Youko）是隶属于彩虹社Gamers的虚拟YouTuber，高中三年生。粉丝群体名为しかばね。 | [萌娘百科](https://zh.moegirl.org.cn/赤羽叶子) |
 | aduchi momo | 安土桃 | 14岁的初中二年生。经常随身携带喜欢的螃蟹玩偶。 | [萌娘百科](https://zh.moegirl.org.cn/安土桃) |
 | yamiyono moruru | 暗夜乃莫露露 | 5000岁的恶魔幼女，曾经吸人血为生。最近只和可乐和拉面一起生活。<br>すもも幼儿园成员。 おはがぉー🍜ψ\`( ･-･× )´↝<br>于2019年6月24日毕业 | [萌娘百科](https://zh.moegirl.org.cn/暗夜乃莫露露) |
-| fuyuki hinata | 日向冬树 |  |  |
+| fuyuki hinata | 日向冬树 | 所属作品：`keroro gunsou` |  |
 | natsumi hinata | 日向夏美 | 所属作品：`keroro gunsou` |  |
 | aki hinata | 日向秋 | 所属作品：`keroro gunsou` |  |
 | cheshire | 柴郡 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/7fc73dde9d88f4980b9b61e75176d119262400697.png)<br>其原型是英国海军的1940年15500吨重巡洋舰改型。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:柴郡) |
