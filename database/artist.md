@@ -237,7 +237,7 @@ example:
 | shibasaki syouzi | 柴崎ショージ | 其他笔名：柴崎しょうじ | [X](https://x.com/Siba_Syoji) |
 | tempo gensui | 天蓬元帅 |  |  |
 | mafuyu | 真冬 |  |  |
-| kakugari kyoudai | カクガリ兄弟 |  |  |
+| kakugari kyoudai | カクガリ兄弟 |  | [pixiv](https://www.pixiv.net/users/16997195) |
 | matsumomo mahiru | 松百まひる |  |  |
 | aoi masami | 苍海 | あおいまさみ | [pixiv](https://www.pixiv.net/users/764148) [X](https://x.com/aoimasami) |
 | itou life | 伊东life | 伊東ライフ | [pixiv](https://www.pixiv.net/users/32156) |
