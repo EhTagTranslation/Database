@@ -9658,6 +9658,7 @@ example:
 | daria dimensional witch | 次元魔女·多萝茜 | ![](https://static.wikia.nocookie.net/shadowverse/images/a/a5/Daria_leader.png)<br>所属作品：`shadowverse` |  |
 | eris anthule | 伊莉丝·安蒂尔 | ![](https://static.wikia.nocookie.net/shadowverse/images/b/b3/Eris.png)<br>所属作品：`shadowverse` |  |
 | mikoto amamiya | 李瑟钰 | ![](https://static.wikia.nocookie.net/closers-anime/images/1/1a/Seulbi_Lee.jpg)<br>所属作品：`closers` |  |
+| eunha | 银河 | ![](https://static.wikia.nocookie.net/closers-anime/images/9/9b/Eunha.jpg)<br>所属作品：`closers` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
