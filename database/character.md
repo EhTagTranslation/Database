@@ -9654,6 +9654,7 @@ example:
 | chiyo iin | 伊院知与 | ![](https://static.wikia.nocookie.net/100kanojo/images/1/17/ChiyoFull.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo` |  |
 | sekka | 雪华 | ![](https://static.wikia.nocookie.net/shadowverse/images/e/ee/Sekka.png)<br>所属作品：`shadowverse` |  |
 | orchid | 奥契丝 | ![](https://static.wikia.nocookie.net/shadowverse/images/5/5c/Orchis_leader.png)<br>所属作品：`shadowverse`<br>Orchis（在日本被称为 Orchid） |  |
+| magachiyo | 曲千代 | ![](https://static.wikia.nocookie.net/shadowverse/images/b/b9/Magachiyo_leader.png)<br>所属作品：`shadowverse` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
