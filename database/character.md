@@ -9646,6 +9646,7 @@ example:
 | aashi kedarui | 毛樽井亚爱子衣 | ![](https://static.wikia.nocookie.net/100kanojo/images/7/79/AhkoInfobox.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`<br>日语：毛樽井亜愛子衣 |  |
 | mei meido | 铭户芽衣 | ![](https://static.wikia.nocookie.net/100kanojo/images/e/e9/MeiFull.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`<br>日语：銘戸芽衣 |  |
 | kurumi haraga | 原贺胡桃 | ![](https://static.wikia.nocookie.net/100kanojo/images/1/1a/KurumiFull.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`<br>日语：原賀胡桃 |  |
+| kusuri yakuzen | 药膳楠莉 | ![](https://static.wikia.nocookie.net/100kanojo/images/a/a8/KusuriFull.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`<br>日语：薬膳楠莉 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
