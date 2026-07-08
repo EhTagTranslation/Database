@@ -13681,7 +13681,7 @@ example:
 | mousou sanmyaku | 妄想山脈 |  |  |
 | ochaduke | おちゃづけ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG74963.html) |
 | rk-2 | RK-2 |  | [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202797/) |
-| september | September |  | [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201409/) |
+| september | September |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201409/) |
 | more beat | モアビート |  |  |
 | denki neko | でんきねこ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54603.html) |
 | shuuchi koubou | 羞恥工房 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49361.html) |
