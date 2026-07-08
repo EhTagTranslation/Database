@@ -9649,6 +9649,7 @@ example:
 | kusuri yakuzen | 药膳楠莉 | ![](https://static.wikia.nocookie.net/100kanojo/images/a/a8/KusuriFull.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`<br>日语：薬膳楠莉 |  |
 | mimimi utsukushisugi | 美杉美美美 | ![](https://static.wikia.nocookie.net/100kanojo/images/9/98/MimimiFull.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`<br>日语：美杉美々美 |  |
 | kishika torotoro | 土吕瀞骑士华 | ![](https://static.wikia.nocookie.net/100kanojo/images/1/15/KishikaFull.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`<br>日语：土呂瀞騎士華 |  |
+| iku sutou | 须藤育 | ![](https://static.wikia.nocookie.net/100kanojo/images/5/5a/IkuFull.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
