@@ -9644,6 +9644,7 @@ example:
 | atena saotome | 早乙女天奈 | ![](https://lain.bgm.tv/r/400/pic/crt/l/2a/ac/90483_crt_AaZ0k.jpg?r=1611503551)<br>所属作品：`megami-ryou no ryoubo-kun.`<br>日语：早乙女あてな |  |
 | meme kakure | 华暮爱爱 | ![](https://static.wikia.nocookie.net/100kanojo/images/f/f9/MemeFull.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`<br>日语：華暮愛々 |  |
 | aashi kedarui | 毛樽井亚爱子衣 | ![](https://static.wikia.nocookie.net/100kanojo/images/7/79/AhkoInfobox.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`<br>日语：毛樽井亜愛子衣 |  |
+| mei meido | 铭户芽衣 | ![](https://static.wikia.nocookie.net/100kanojo/images/e/e9/MeiFull.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`<br>日语：銘戸芽衣 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
