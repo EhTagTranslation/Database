@@ -9655,6 +9655,7 @@ example:
 | sekka | 雪华 | ![](https://static.wikia.nocookie.net/shadowverse/images/e/ee/Sekka.png)<br>所属作品：`shadowverse` |  |
 | orchid | 奥契丝 | ![](https://static.wikia.nocookie.net/shadowverse/images/5/5c/Orchis_leader.png)<br>所属作品：`shadowverse`<br>Orchis（在日本被称为 Orchid） |  |
 | magachiyo | 曲千代 | ![](https://static.wikia.nocookie.net/shadowverse/images/b/b9/Magachiyo_leader.png)<br>所属作品：`shadowverse` |  |
+| daria dimensional witch | 次元魔女·多萝茜 | ![](https://static.wikia.nocookie.net/shadowverse/images/a/a5/Daria_leader.png)<br>所属作品：`shadowverse` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
