@@ -9650,6 +9650,7 @@ example:
 | mimimi utsukushisugi | 美杉美美美 | ![](https://static.wikia.nocookie.net/100kanojo/images/9/98/MimimiFull.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`<br>日语：美杉美々美 |  |
 | kishika torotoro | 土吕瀞骑士华 | ![](https://static.wikia.nocookie.net/100kanojo/images/1/15/KishikaFull.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`<br>日语：土呂瀞騎士華 |  |
 | iku sutou | 须藤育 | ![](https://static.wikia.nocookie.net/100kanojo/images/5/5a/IkuFull.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo` |  |
+| matsuri dei | 出井祭李 | ![](https://static.wikia.nocookie.net/100kanojo/images/6/69/MatsuriInfobox.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
