@@ -5146,7 +5146,7 @@ example:
 | futaba isurugi | 石动双叶 | ![](https://static.wikia.nocookie.net/revuestarlight/images/a/ab/Futaba_Isurugi_Revue_Outfit.png)<br>日语：石動 双葉<br>所属作品: `p:shoujo kageki revue starlight` | [萌娘百科](https://zh.moegirl.org.cn/石动双叶) |
 | kaoruko hanayagi | 花柳香子 | ![](https://static.wikia.nocookie.net/revuestarlight/images/b/b2/Kaoruko_Hanayagi_School_Uniform.png)<br>所属作品: `p:shoujo kageki revue starlight` | [萌娘百科](https://zh.moegirl.org.cn/花柳香子) |
 | mahiru tsuyuzaki | 露崎真昼 | ![](https://static.wikia.nocookie.net/revuestarlight/images/6/65/Mahiru_Tsuyuzaki_Revue_Outfit.png)<br>日语：露崎 まひる<br>所属作品: `p:shoujo kageki revue starlight` | [萌娘百科](https://zh.moegirl.org.cn/露崎真昼) |
-| shizuka yoshimoto | 好本静 | 《超超超超超喜欢你的100个女朋友》女主之一。 |  |
+| shizuka yoshimoto | 好本静 | ![](https://static.wikia.nocookie.net/100kanojo/images/9/9c/ShizukaFull.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo` |  |
 | anastasia hoshin | 安娜塔西亚·合辛 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/10/17/29/43/134934465_p3_master1200.jpg)<br><br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>国王候补者之一。出身于卡拉拉基的最下层。现任合辛商会的会长。<br>具备卓越的商业才能，将卡拉拉基的留希卡商工会买下并改名。 | [萌娘百科](https://zh.moegirl.org.cn/安娜塔西亚·合辛) |
 | stark | 休塔尔克 | ![](https://thumbsnap.com/i/rTR4LL6h.jpg)<br>出自作品：`p:sousou no frieren`<br><br>休塔尔克是由山田钟人原作、阿部司作画的漫画《葬送的芙莉莲》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/休塔尔克) |
 | aiba uiha | 相羽初叶 | 相羽初叶（相羽ういは / Aiba Uiha）是一名从2019年7月28日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/相羽初叶) |
