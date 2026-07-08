@@ -4881,7 +4881,7 @@ example:
 | futaket junbikai | ふたけっと準備会 |  |  |
 | futamura futon ten | ふたむらふとん店 |  |  |
 | futanarist zatsudan | ふたなりすと雑談 |  |  |
-| futanarun | ふたなるん |  |  |
+| futanarun | ふたなるん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG18734.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/detail/=/cid=d_220351/) |
 | futanaya | フタナ屋 |  |  |
 | futatsu no hokuro | ふたつのほくろ |  |  |
 | futeikei zenzai | 不定形ぜんざい |  |  |
