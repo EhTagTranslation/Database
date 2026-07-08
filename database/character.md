@@ -6028,7 +6028,7 @@ example:
 | aisha udgard elfrieden | 爱夏·乌德卡德 | ![](https://static.wikia.nocookie.net/genjitsushugisha/images/2/2a/Aisha-Artwork_%28Anime%29.png)<br>所属作品：`genjitsu shugi yuusha no oukoku saikenki` | [Fandom](https://genkoku.fandom.com/wiki/Aisha_Udgard) |
 | b. jenet | B·珍妮特 | `p:fatal fury` | [维基百科（日语）](https://ja.wikipedia.org/wiki/B.ジェニー) |
 | venus | 启明星 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2024/10/14/03/45/01/123312390_p0_master1200.jpg)<br>所属作品：`zenless zone zero`<br>NPC角色。 |  |
-| nano eiai | 荣逢凪乃 | ![](https://img.moegirl.org.cn/common/e/e6/荣逢凪乃.png)<br>日语：栄逢（えいあい） 凪乃（なの）<br>中村力斗创作、野泽由纪子作画的漫画《超超超超超喜欢你的100个女朋友》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/荣逢凪乃) |
+| nano eiai | 荣逢凪乃 | ![](https://static.wikia.nocookie.net/100kanojo/images/a/a2/NanoFull.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`<br>日语：栄逢凪乃 | [萌娘百科](https://zh.moegirl.org.cn/荣逢凪乃) |
 | sayaka kirasaka | 煌坂纱矢华 | ![](https://ehgt.org/w/02/056/69380-j4k84uaj.webp)<br>所属作品: `p:strike the blood` | [萌娘百科](https://zh.moegirl.org.cn/煌坂纱矢华) |
 | priestess | 女神官 \| 普瑞赛斯 | ①女神官。<br>![](https://ehgt.org/w/01/988/34871-nafz15x5.webp)<br>所属作品: `p:goblin slayer`<br><br>————————<br>②普瑞赛斯<br>![](https://img.moegirl.org.cn/common/1/12/Ak_avg_npc_083.png)<br>所属作品: `p:arknights` | [萌娘百科 普瑞赛斯](https://zh.moegirl.org.cn/普瑞赛斯)<br>[萌娘百科 女神官](https://zh.moegirl.org.cn/女神官) |
 | homura kougetsu | 焰·皋月 | 所属作品: `p:edens zero` | [维基百科](https://zh.wikipedia.org/wiki/EDENS_ZERO角色列表) |
