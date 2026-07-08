@@ -5650,7 +5650,7 @@ example:
 | inagi | 稻木 |  |  |
 | hiburi | 日振 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:日振) |
 | lycanroc | 鬃岩狼人 | ![](https://s1.52poke.com/wiki/thumb/b/b5/745Lycanroc-Midday.png/300px-745Lycanroc-Midday.png)<br>所属作品：`pokemon` | [神奇宝贝百科](https://wiki.52poke.com/wiki/鬃岩狼人) |
-| angol moa | 安格尔·摩亚 | 军曹动画中的角色 |  |
+| angol moa | 安格尔·摩亚 | ![](https://static.wikia.nocookie.net/keroro/images/f/fe/Mois_artwork.png)<br>所属作品：`keroro gunsou` |  |
 | temari tsukimura | 月村手毬 | 月村手毬是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/c/c9/Imas_gakuen_cidol-ttmr-3-000_0-landscape.png/1920px-Imas_gakuen_cidol-ttmr-3-000_0-landscape.png) | [萌娘百科](https://zh.moegirl.org.cn/月村手毬) |
 | futaba igarashi | 五十岚双叶 | ![](https://static.wikia.nocookie.net/my-senpai-is-annoying/images/2/26/Igarashi_Futaba_anime.png)<br>所属作品：`senpai ga uzai kouhai no hanashi`<br>五十嵐双葉 |  |
 | wanderer | 流浪者 | 流浪者是游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/流浪者%28原神%29#) |
