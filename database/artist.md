@@ -15364,6 +15364,7 @@ example:
 | roborobocap | roborobocap |  | [FANBOX](https://roborobocap.fanbox.cc/) \| [Patreon](https://www.patreon.com/roborobocap) \| [X](https://x.com/roborobocap) \|  [pixiv](https://www.pixiv.net/users/5315878) |
 | captain jerkpants | Captainjerkpants |  | [X](https://x.com/CaptJerkpants/) \| [pixiv](https://www.pixiv.net/users/19304479) \| [Patreon](https://www.patreon.com/CaptainJerkpants) \| [linktr.ee](https://linktr.ee/captjerkpants) |
 | iori ayaka | いおりあやか |  |  |
+| pastime774 | pastime774 |  | [pixiv](https://www.pixiv.net/users/49797574) \| [Fantia](https://fantia.jp/pastime774) \| [X](https://x.com/Pastime7742) |
 
 <!--TEMPLATE:
 |  |  |  |  |
