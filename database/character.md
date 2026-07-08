@@ -9659,6 +9659,7 @@ example:
 | eris anthule | 伊莉丝·安蒂尔 | ![](https://static.wikia.nocookie.net/shadowverse/images/b/b3/Eris.png)<br>所属作品：`shadowverse` |  |
 | mikoto amamiya | 李瑟钰 | ![](https://static.wikia.nocookie.net/closers-anime/images/1/1a/Seulbi_Lee.jpg)<br>所属作品：`closers` |  |
 | eunha | 银河 | ![](https://static.wikia.nocookie.net/closers-anime/images/9/9b/Eunha.jpg)<br>所属作品：`closers` |  |
+| chie ashikaga | 足利知恵 | 所属作品：`school days`<br>日语：あしかが ちえ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
