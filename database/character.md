@@ -5135,7 +5135,7 @@ example:
 | niya amachi | 天地妮娅 | ![](https://static.wikia.nocookie.net/blue-archive/images/c/c4/Niya_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/天地妮娅) |
 | fiammetta | 菲亚梅塔 | ![](https://patchwiki.biligame.com/images/arknights/2/24/dx1kba5fwygcoqn38xfcrx0qknsxowz.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/菲亚梅塔](https://prts.wiki/w/菲亚梅塔)<br>[BILIGAME WIKI](https://wiki.biligame.com/arknights/菲亚梅塔) |
 | shu | 黍 | ![](https://patchwiki.biligame.com/images/arknights/c/c4/c0eadpamtqxmh1jynje3f3utqc6dyn8.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/黍](https://prts.wiki/w/黍) |
-| hahari hanazono | 花园羽羽里 | 花园羽羽里（日语：花園（はなぞの） 羽々里（ははり））是由中村力斗创作、野澤ゆき子作画的漫画《`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`》及其衍生作品的登场角色。<br><br>“花园羽羽里”名字由来：“花园”请看“花园羽香里”条目中的“花园”，“羽羽里（ははり）”中的羽羽（はは）谐音就是“母亲（はは）”。<br><br>生日（5.12）的含义：2019年（漫画开始连载的那一年）的母亲节。 | [萌娘百科](https://zh.moegirl.org.cn/花园羽羽里) |
+| hahari hanazono | 花园羽羽里 | ![](https://static.wikia.nocookie.net/100kanojo/images/8/8c/HahariFull.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`<br>日语：花園羽々里 | [萌娘百科](https://zh.moegirl.org.cn/花园羽羽里) |
 | naoto hachiouji | 八王子直人 | 八王子直人，是由ナナシ创作的漫画`p:ijiranaide nagatoro-san`及其衍生作品中的登场角色。 | [维基百科](https://zh.wikipedia.org/wiki/不要欺負我，長瀞同學) |
 | xianyun | 闲云 | ![](https://patchwiki.biligame.com/images/ys/b/be/ccedtmxnqkg4f0u6aunenvokknrto11.gif)<br>所属作品：`genshin impact`<br>绝云仙众「三眼五显仙人」之一，雅号「留云借风真君」。擅使机关奇术，心向红尘烟火，正以「闲云」之名行走人间。 | [萌娘百科](https://zh.moegirl.org.cn/闲云) |
 | aizawa ema | 蓝泽艾玛 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/5/56/Aizawa_Ema_Key_Visual.png)<br>日语：藍沢エマ / あいざわ えま | [萌娘百科](https://zh.moegirl.org.cn/蓝泽艾玛) [Fandom](https://virtualyoutuber.fandom.com/wiki/Aizawa_Ema) |
