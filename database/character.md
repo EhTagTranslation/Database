@@ -5053,7 +5053,7 @@ example:
 | airi kurimura | 栗村爱莉 | ![](https://patchwiki.biligame.com/images/ba/c/c1/ndkn0e9rmlkc7rwvmzc84nj2060bokn.png)<br>所属作品: `p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Airi) |
 | rentarou aijou | 爱城恋太郎 | ![](https://static.wikia.nocookie.net/100kanojo/images/3/32/RentarouFull.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`<br>日语：愛城恋太郎 |  |
 | karane inda | 院田唐音 | ![](https://static.wikia.nocookie.net/100kanojo/images/1/17/KaraneFull.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo` |  |
-| hakari hanazono | 花园羽香里 | ![](https://ehgt.org/w/02/083/11917-uwj6jdpg.webp)<br>出自作品：`p:kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`<br><br>花园羽香里（日语：花園（はなぞの） 羽香里（はかり））是由中村力斗原作、野泽由纪子作画的《超超超超超喜欢你的100个女朋友》及其衍生作品的登场角色。<br>属性：粉发、巨乳、痴女、高中生、妄想、大小姐、安产型、丰满体型、百合（唐音） | [萌娘百科](https://zh.moegirl.org.cn/花园羽香里) |
+| hakari hanazono | 花园羽香里 | ![](https://static.wikia.nocookie.net/100kanojo/images/6/63/HakariFull.png)<br>所属作品：`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`<br>日语：花園羽香里 | [萌娘百科](https://zh.moegirl.org.cn/花园羽香里) |
 | mayling shen | 沈美玲 | `p:girls frontline`<br>少女前线2:追放<br>人类<br>![](https://iopwiki.com/images/8/8d/GFL2_Mayling_character_sheet.jpg) | [萌娘百科](https://zh.moegirl.org.cn/沈美玲) |
 | akari wanibuchi | 鳄渊亚伽里 | ![](https://static.wikia.nocookie.net/blue-archive/images/2/21/Akari_Gym_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/鳄渊亚伽里) |
 | kikyou kiryuu | 桐生桔梗 | ![](https://static.wikia.nocookie.net/blue-archive/images/8/84/Kikyou_Portrait.png)<br>所属作品: `p:blue archive` |  |
