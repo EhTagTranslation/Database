@@ -5408,7 +5408,7 @@ example:
 | roger rabbit | 兔子罗杰 | `p:who framed roger rabbit` |  |
 | betty boop | 贝蒂娃娃 |  | [维基百科](https://zh.wikipedia.org/wiki/贝蒂娃娃) |
 | ankha | 艳后 | ![](https://patchwiki.biligame.com/images/dongsen/3/39/0qk07h279fy7r5gxi7gz9bnzwck22tc.png)<br>出自作品：`p:animal crossing` | [BILIGAME WIKI](https://wiki.biligame.com/dongsen/艳后) |
-| isabelle | 西施惠 |  | [维基百科](https://zh.wikipedia.org/wiki/西施惠) |
+| isabelle | 伊莎贝尔 \| 西施惠 | ①所属作品：`shadowverse`<br>![](https://static.wikia.nocookie.net/shadowverse/images/d/d9/Isabelle.png)<br>——————————<br>②所属作品：`animal crossing` | [维基百科](https://zh.wikipedia.org/wiki/西施惠) |
 | cream the rabbit | 可利姆 |  | [索尼克百科](https://sonicpedia.org/wiki/可利姆) |
 | vanilla the rabbit | 瓦妮菈 |  | [索尼克百科](https://sonicpedia.org/wiki/瓦妮菈) |
 | blaze the cat | 布蕾姿 |  | [索尼克百科](https://sonicpedia.org/wiki/布蕾姿) |
