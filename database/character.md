@@ -9664,6 +9664,7 @@ example:
 | kyomi kasannoin | 花山院恭美 | ![](https://lain.bgm.tv/r/400/pic/crt/l/67/aa/41210_crt_3p1PJ.jpg?r=1463122596)<br>所属作品：`school days` |  |
 | minami obuchi | 小渊南 | ![](https://lain.bgm.tv/r/400/pic/crt/l/52/17/112784_crt_5Yh7N.jpg)<br>所属作品：`school days`<br>日语：小渕みなみ |  |
 | niki ookuma | 大隈二喜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b3/57/41209_crt_iqd03.jpg?r=1462415478)<br>所属作品：`school days` |  |
+| natsumi koizumi | 小泉夏美 | ![](https://lain.bgm.tv/r/400/pic/crt/l/a6/dc/112778_crt_h4mB9.jpg)<br>所属作品：`school days` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
