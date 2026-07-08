@@ -4353,7 +4353,7 @@ example:
 | tsukuyo oono | 大野月咏 | ![](https://patchwiki.biligame.com/images/ba/1/12/73j6lohh6qm3r5wre6zkfdulfut0y0b.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/大野月夜)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Tsukuyo) |
 | mikoto aketa | 绯田美琴 | ![](https://img.moegirl.org.cn/common/f/f7/Mikoto_initial.png)<br>![](https://img.moegirl.org.cn/common/0/02/MikotoFull-Checkmate.png)<br>绯田美琴（日语：緋田 美琴（あけた みこと））<br>所属作品:`p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/绯田美琴) |
 | nazuna nanakusa | 七草荠 |  |  |
-| revy | 莱薇 | 莱薇（英文：Revy）是广江礼威漫画《黑礁》及其衍生作品的登场角色。<br><br>本名蕾贝卡·李（英文：Rebecca Lee）。 | [萌娘百科](https://zh.moegirl.org.cn/莱薇%28黑礁%29#) |
+| revy | 莱薇 | ![](https://static.wikia.nocookie.net/lagooncompany/images/6/68/1662629676388.png)<br>出自作品：`p:black lagoon`<br><br>莱薇（英文：Revy）是广江礼威漫画《黑礁》及其衍生作品的登场角色。本名蕾贝卡·李（英文：Rebecca Lee）。 | [萌娘百科](https://zh.moegirl.org.cn/莱薇%28黑礁%29#) \| [Fandom](https://lagooncompany.fandom.com/wiki/Revy) |
 | natsumi kurobe | 黑部夏美 | 黑部夏美是由しろまんた创作的漫画《前辈有够烦》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/黑部夏美) |
 | assaultron | 突袭者机器人 | 突袭者（Assaultron）是单机RPG游戏《辐射系列》中的一种机器人。 | [萌娘百科](https://zh.moegirl.org.cn/突袭者机器人) |
 | satoru gojo | 五条悟 |  |  |
