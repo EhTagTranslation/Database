@@ -3109,7 +3109,7 @@ example:
 | aduchi momo | 安土桃 | 14岁的初中二年生。经常随身携带喜欢的螃蟹玩偶。 | [萌娘百科](https://zh.moegirl.org.cn/安土桃) |
 | yamiyono moruru | 暗夜乃莫露露 | 5000岁的恶魔幼女，曾经吸人血为生。最近只和可乐和拉面一起生活。<br>すもも幼儿园成员。 おはがぉー🍜ψ\`( ･-･× )´↝<br>于2019年6月24日毕业 | [萌娘百科](https://zh.moegirl.org.cn/暗夜乃莫露露) |
 | fuyuki hinata | 日向冬树 |  |  |
-| natsumi hinata | 日向夏美 |  |  |
+| natsumi hinata | 日向夏美 | 所属作品：`keroro gunsou` |  |
 | aki hinata | 日向秋 |  |  |
 | cheshire | 柴郡 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/7fc73dde9d88f4980b9b61e75176d119262400697.png)<br>其原型是英国海军的1940年15500吨重巡洋舰改型。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:柴郡) |
 | savage | 暴行 | ![](https://patchwiki.biligame.com/images/arknights/a/a7/qthe6bzi195xo0vqlizjg0qz6v05ai3.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:暴行) |
