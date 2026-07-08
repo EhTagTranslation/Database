@@ -8647,7 +8647,7 @@ example:
 | rinha kaya | 贺阳燐羽 | ![](https://static.wikia.nocookie.net/yuripedia/images/0/0d/RinhaKaya.png)<br>出自作品：`p:the idolmaster`<br><br>贺阳燐羽是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/贺阳燐羽) |
 | virgo | 芭露歌 | ![](https://ehgt.org/w/02/063/56494-qynjxv6t.webp)<br>所属作品：`fairy tail`<br>日文：バルゴ |  |
 | malevola gibb | 梅乐维拉·吉布 | ![](https://ehgt.org/w/02/116/11182-585f3rn5.webp)<br>出自作品：`p:dispatch`<br><br>梅乐维拉·吉布（Malevola Gibb）：挥舞大剑的魔鬼女，能开传送门，吊车尾小队成员。 |  |
-| filene | 銀冰龍人‧菲琳 | ![](https://shadowverse-portal.com/image/card/phase2/common/C/C_108441030.png)<br>出自作品：`p:shadowverse` | [shadowverse-portal](https://shadowverse-portal.com/card/108441030?lang=zh-tw) |
+| filene | 银冰龙人‧菲琳 | ![](https://static.wikia.nocookie.net/shadowverse/images/d/d5/Filene_leader_base.png)<br>出自作品：`p:shadowverse` | [shadowverse-portal](https://shadowverse-portal.com/card/108441030?lang=zh-tw) |
 | levy mcgarden | 蕾比·马库嘎登 | ![](https://static.wikia.nocookie.net/fairytail/images/3/34/Levy_X792.png)<br>所属作品：`fairy tail`<br>日文：レビィ・マクガーデン |  |
 | gajeel redfox | 伽吉鲁·雷特福克斯 | ![](https://static.wikia.nocookie.net/fairytail/images/3/3f/Gajeel_Redfox_GMG.png)<br>所属作品：`fairy tail`<br>日文：ガジル・レッドフォックス |  |
 | hua mulan | 花木兰 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/d/dd/Mulan-circle-big.png)<br>所属作品：`honor of kings` |  |
