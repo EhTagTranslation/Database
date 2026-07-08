@@ -3788,7 +3788,7 @@ example:
 | neneko | 宁宁子 | `p:yumeria` |  |
 | mona | 米姆  \| 莫娜 | ①![](https://gbf.wiki/images/thumb/3/3f/Npc_zoom_3990607000_01.png/720px-Npc_zoom_3990607000_01.png)<br>所属作品：`granblue fantasy`<br>三姐妹中的老二，也是莱文的天空骑士。<br>②<br>![](https://ehgt.org/22/f6/22f6401e39c12ad116367276b23de930794f420d-194685-868-1234-jpg_l.jpg)<br>所属作品:p:warioware,`p:super mario brothers` |  |
 | komichi akebi | 明日小路 |  |  |
-| alisa southerncross | 爱莉莎·南十字星 | ![图](https://ehgt.org/3c/dc/3cdc3d6af34fa84dc63f780c643eab67ec6277f3-57078-600-1171-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/爱莉莎·南十字星) [Fandom](https://keroro.fandom.com/wiki/Alisa_Southerncross) |
+| alisa southerncross | 爱莉莎·南十字星 | ![](https://ehgt.org/w/02/321/10524-45g1sx5r.webp)<br>所属作品：`keroro gunsou` | [萌娘百科](https://zh.moegirl.org.cn/爱莉莎·南十字星) [Fandom](https://keroro.fandom.com/wiki/Alisa_Southerncross) |
 | shishiro botan | 狮白牡丹 |  | [萌娘百科](https://zh.moegirl.org.cn/狮白牡丹) [YouTube](https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA)  [X](https://x.com/shishirobotan) |
 | bennett | 班尼特 | 班尼特（英语：bennett）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b3/班尼特.jpg) | [萌娘百科](https://zh.moegirl.org.cn/班尼特) |
 | ruri hoshino | 星野·琉璃 |  | [维基百科](https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters) [萌娘百科](https://zh.moegirl.org.cn/星野琉璃) [Fanbox](https://nadesico.fandom.com/wiki/Ruri_Hoshino) |
