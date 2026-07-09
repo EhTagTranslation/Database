@@ -5154,7 +5154,7 @@ example:
 | sodachi oikura | 老仓育 | 所属作品: `p:bakemonogatari`<br><br>`c:koyomi araragi`的高中一年级同班同学，班长。喜欢别人称呼自己为数学家“欧拉”。从登场开始就非常讨厌`c:koyomi araragi`。<br><br>![](https://static.wikia.nocookie.net/bakemonogatari1645/images/1/1a/OwariOikura2.png) | [萌娘百科](https://zh.moegirl.org.cn/老仓育) [Fandom](https://bakemonogatari.fandom.com/wiki/Sodachi_Oikura) |
 | smolder | 斯莫得 |  |  |
 | touka satomi | 里见灯花 |  | [pixiv](https://dic.pixiv.net/a/里見灯花) |
-| firefly | 流萤 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/Character_Firefly_Game.png)<br>所属作品：`honkai star rail`<br>星核猎手成员，身着机械装甲「萨姆」战斗。忠于任务，性格坚强。 | [萌娘百科](https://zh.moegirl.org.cn/流萤) \| [Fandom](https://honkai-star-rail.fandom.com/wiki/Firefly) |
+| firefly | 流萤 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/4/44/Character_Firefly_Game.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/流萤) \| [Fandom](https://honkai-star-rail.fandom.com/wiki/Firefly) |
 | black swan | 黑天鹅 | ![](https://patchwiki.biligame.com/images/sr/thumb/a/af/payusvzxpo9mso33fml1trp9qtr39j5.png/1050px-黑天鹅立绘.png)<br>所属作品：`honkai star rail`<br>「流光忆庭」的忆者，神秘优雅的占卜师。 | [萌娘百科](https://zh.moegirl.org.cn/黑天鹅%28星穹铁道%29#) |
 | gaming yip | 嘉明 |  |  |
 | dunyarzad homayani | 迪娜泽黛 | ![](https://ehgt.org/fa/50/fa50e5e11a18f51c5d5bf61fe2541b0b4108a038-395259-420-720-png_l.jpg)<br>所属作品：`genshin impact`<br>患有魔鳞病的年轻少女，几乎每一天都只能躺在病床上，为了不让自己剩余人生留下遗憾 ，在花神诞日即将到来之际逃出自家筹办花神诞祭。 | [萌娘百科](https://zh.moegirl.org.cn/迪娜泽黛) |
