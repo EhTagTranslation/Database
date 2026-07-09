@@ -15366,6 +15366,7 @@ example:
 | iori ayaka | いおりあやか |  |  |
 | pastime774 | pastime774 |  | [pixiv](https://www.pixiv.net/users/49797574) \| [Fantia](https://fantia.jp/pastime774) \| [X](https://x.com/Pastime7742) |
 | ponyarata popalappio | ぽにゃらーたぽぱらっぴお |  | [FANBOX](https://www.fanbox.cc/@ponyara-ta) \| [pixiv](https://www.pixiv.net/users/76841573) \| [X](https://x.com/gone_ghg) \| [Misskey.io](https://misskey.io/@ponyara_ta) |
+| painame daikanpa | パインアメ大寒波 |  | [pixiv](https://www.pixiv.net/users/81711658) \| [X](https://x.com/painamedaikanpa) |
 
 <!--TEMPLATE:
 |  |  |  |  |
