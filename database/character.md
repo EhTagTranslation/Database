@@ -2902,7 +2902,7 @@ example:
 | tanjirou kamado | 灶门炭治郎 | ![](https://ehgt.org/w/01/401/75617-34nxpqo4.webp)<br>出自作品：`p:kimetsu no yaiba`<br><br>灶门炭治郎（日语：竈門（かまど） 炭治郎（たんじろう））是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的主人公。<br>灶门家长子，造型为制服上披着市松图案的羽织，有着一头深红发与红色眼睛的“赫灼之子”（从事火仕职业家庭的孩子）。左额上有着小时候为了保护弟弟，而被滚烫的水壶烧伤的大片伤痕。 | [萌娘百科](https://zh.moegirl.org.cn/灶门炭治郎) |
 | kyojuro rengoku | 炼狱杏寿郎 | "炎柱"炼狱杏寿郎生来便拥有超过于常人的力量 |  |
 | obanai iguro | 伊黑小芭内 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/7/70/Obanai_anime_right_face.png)<br>所属作品：`p:kimetsu no yaiba`<br>鬼殺隊隊員，使用「蛇」之呼吸的蛇柱。<br>伊黑小芭内（日语：伊黒（いぐろ） 小芭内（おばない）） | [萌娘百科](https://zh.moegirl.org.cn/伊黑小芭内) |
-| aoi kanzaki | 神崎葵 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/6/63/Aoi_anime_design.png)<br>出自作品：`p:kimetsu no yaiba`<br><br>神崎葵（日语：神崎アオイ / かんざきアオイ）是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的登場角色。 | [萌娘百科](https://zh.moegirl.org.cn/神崎葵) \| [Fandom](https://kimetsu-no-yaiba.fandom.com/zh/wiki/神崎葵?variant=zh-cn) |
+| aoi kanzaki | 神崎葵 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/6/63/Aoi_anime_design.png)<br>出自作品：`p:kimetsu no yaiba`<br>日语：神崎アオイ / かんざきアオイ | [萌娘百科](https://zh.moegirl.org.cn/神崎葵) \| [Fandom](https://kimetsu-no-yaiba.fandom.com/zh/wiki/神崎葵?variant=zh-cn) |
 | sabito | 锖兔 | 鳞泷左近次的弟子，灶门炭治郎的师兄，富冈义勇的同门友人 |  |
 | tengen uzui | 宇髄天元 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/0/07/Tengen_anime.png)<br>所属作品：`kimetsu no yaiba` |  |
 | hodaka morishima | 森岛帆高 | 日本离岛的都立神津岛高校，16岁的高中一年生。外人看来有些失控的少年。出门时仅带着一个黄色小包包离家，并携带着《麦田里的守望者》（村上春树译）。杯面习惯泡2分钟就食用。习惯在Yahoo奇摩知识+询问各种问题<br>![](https://img.moegirl.org.cn/common/thumb/7/7e/Morisaki_Hodaka.png/250px-Morisaki_Hodaka.png) |  |
