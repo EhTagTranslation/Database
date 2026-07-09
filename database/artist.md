@@ -15365,6 +15365,7 @@ example:
 | captain jerkpants | Captainjerkpants |  | [X](https://x.com/CaptJerkpants/) \| [pixiv](https://www.pixiv.net/users/19304479) \| [Patreon](https://www.patreon.com/CaptainJerkpants) \| [linktr.ee](https://linktr.ee/captjerkpants) |
 | iori ayaka | いおりあやか |  |  |
 | pastime774 | pastime774 |  | [pixiv](https://www.pixiv.net/users/49797574) \| [Fantia](https://fantia.jp/pastime774) \| [X](https://x.com/Pastime7742) |
+| ponyarata popalappio | ぽにゃらーたぽぱらっぴお |  | [FANBOX](https://www.fanbox.cc/@ponyara-ta) \| [X](https://x.com/ponyara_ta) \| [pixiv](https://www.pixiv.net/users/76841573) \| [X](https://x.com/gone_ghg) \| [Misskey.io](https://misskey.io/@ponyara_ta) |
 
 <!--TEMPLATE:
 |  |  |  |  |
