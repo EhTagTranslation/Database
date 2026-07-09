@@ -612,7 +612,7 @@ example:
 | kinokotei | きのこ亭 |  |  |
 | kinokodomo | きのこども |  |  |
 | kohakutei | 琥珀亭 |  |  |
-| izanagi | いざなぎ |  |  |
+| izanagi | いざなぎ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=25935/) \| [Ci-en](https://ci-en.dlsite.com/creator/1192) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG13159.html) |
 | inuteikoku | 犬帝国 |  |  |
 | yamamoto | 山本同人 |  |  |
 | private garden | Private Garden |  |  |
