@@ -9671,6 +9671,7 @@ example:
 | mugen mochi | 无限麻薯 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/23/19/58/19/135452147_p0_master1200.jpg)<br>日语：ムゲンもっち | [YouTube](https://www.youtube.com/@MUGENMOCHI) |
 | porty | Porty\_ramram | 日语：ぽるてぃ<br>英语：porty\_ramram | [X](https://x.com/porty_ramram) |
 | roman carax | 罗曼·卡拉斯 | ![](https://static.wikia.nocookie.net/cyberpunk/images/7/71/Roman_Infobox_CPEDGEII.png)<br>所属作品：`cyberpunk` |  |
+| d | D（赛博朋克） | ![](https://static.wikia.nocookie.net/cyberpunk/images/7/78/D_Infobox_CPEDGEII.png)<br>所属作品：`cyberpunk` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
