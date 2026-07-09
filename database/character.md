@@ -9669,6 +9669,7 @@ example:
 | hk433 | HK433 | ![](https://gfwiki.org/images/thumb/3/36/Pic_HK433.png/1024px-Pic_HK433.png)<br>所属作品：`girls frontline` |  |
 | kudo raika | 玖伖莱卡 | 日语：玖伖ライカ | [YouTube](https://www.youtube.com/channel/UCHbgJSDq2lFXJfmNw7Zf78Q) |
 | mugen mochi | 无限麻薯 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/23/19/58/19/135452147_p0_master1200.jpg)<br>日语：ムゲンもっち | [YouTube](https://www.youtube.com/@MUGENMOCHI) |
+| porty | Porty\_ramram | 日语：ぽるてぃ<br>英语：porty\_ramram | [X](https://x.com/porty_ramram) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
