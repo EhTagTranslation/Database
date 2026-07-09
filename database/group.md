@@ -14034,6 +14034,7 @@ example:
 | caramel maam | きゃらめるまみー |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01024467.html) |
 | kagero studio | カゲロースタジオ |  |  |
 | ayameya | あやめや |  |  |
+| pain koubou | パイン工房 | `a:painame daikanpa`使用的同人社团名称 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01038617.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
