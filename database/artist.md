@@ -572,7 +572,7 @@ example:
 | ikuhana niro | 几花にいろ | ![X](https://pbs.twimg.com/profile_images/989343713368334338/QnyounDQ_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/ikuhananiro) |
 | c.r | しーあーる |  | [pixiv](https://www.pixiv.net/users/125757) |
 | chimosaku | ちもさく |  |  |
-| otoo | ぉとぉ |  |  |
+| otoo | ぉとぉ |  | [Skeb](https://skeb.jp/@izanagi_oto) \| [X](https://x.com/izanagi_oto) \| [pixiv](https://www.pixiv.net/users/882387) \| [Misskey.io](https://misskey.io/@otoo) |
 | belu | BeLu |  |  |
 | yotsuba chika | 四葉チカ |  |  |
 | hashimoto takashi | 桥本隆 | 桥本タカシ，日本著名原画家、画师。 |  |
