@@ -8265,7 +8265,7 @@ example:
 | mozuya murasaki | もずや紫 |  |  |
 | mr.lostman | Mr.Lostman |  |  |
 | mr.sugar | MR.sugar |  |  |
-| mr.way | Mr.way |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=071fda05-64d4-11f0-ba33-0242ac160002/section=mens/) |
+| mr.way | Mr.way |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=071fda05-64d4-11f0-ba33-0242ac160002/section=mens/) \| [FANBOX](https://waybullet.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/39832) \| [pixiv](https://www.pixiv.net/users/1759704) \| [Pawoo](https://pawoo.net/@waybullet) \| [X](https://x.com/waybullet) \| [Skeb](https://skeb.jp/@waybullet) |
 | mt | mt |  |  |
 | mt.somo | Mt.somo |  |  |
 | mtd | mtd |  |  |
