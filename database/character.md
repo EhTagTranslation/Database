@@ -9673,6 +9673,7 @@ example:
 | roman carax | 罗曼·卡拉斯 | ![](https://static.wikia.nocookie.net/cyberpunk/images/7/71/Roman_Infobox_CPEDGEII.png)<br>所属作品：`cyberpunk` |  |
 | d | D（赛博朋克） | ![](https://static.wikia.nocookie.net/cyberpunk/images/7/78/D_Infobox_CPEDGEII.png)<br>所属作品：`cyberpunk` |  |
 | ark ranger black | 方舟黑色游侠 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/75/Ark_Ranger_Black_FB.png)<br>所属作品：`goddess of victory nikke` |  |
+| ryogoku tsukasa | 领国司 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/6/67/Tsukasa_Ryogoku_portrait.png)<br>日语：領国つかさ | [YouTube](https://www.youtube.com/@tsukasa_ryogoku) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
