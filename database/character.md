@@ -9672,6 +9672,7 @@ example:
 | porty | Porty\_ramram | 日语：ぽるてぃ<br>英语：porty\_ramram | [X](https://x.com/porty_ramram) |
 | roman carax | 罗曼·卡拉斯 | ![](https://static.wikia.nocookie.net/cyberpunk/images/7/71/Roman_Infobox_CPEDGEII.png)<br>所属作品：`cyberpunk` |  |
 | d | D（赛博朋克） | ![](https://static.wikia.nocookie.net/cyberpunk/images/7/78/D_Infobox_CPEDGEII.png)<br>所属作品：`cyberpunk` |  |
+| ark ranger black | 方舟黑色游侠 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/75/Ark_Ranger_Black_FB.png)<br>所属作品：`goddess of victory nikke` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
