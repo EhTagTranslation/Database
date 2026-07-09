@@ -9169,7 +9169,7 @@ example:
 | teoritta | 缇欧丽塔 | ![](https://static.wikia.nocookie.net/sentenced-to-be-a-hero/images/f/fe/Teoritta_Full_Body_%28Anime%29.png)<br>所属作品：`yuusha-kei ni shosu`<br>日语：テオリッタ |  |
 | frenci mastibolt | 芙雷希·玛斯提波鲁特 | ![](https://static.wikia.nocookie.net/sentenced-to-be-a-hero/images/e/e3/Frenci_Mastibolt_Full_Body_%28Anime%29.png)<br>所属作品：`yuusha-kei ni shosu`<br>日语：フレンシィ・マスティボルト |  |
 | akaba | 阿卡巴 | 所属作品：`unmei no makimodoshi`<br>日语：アカバ |  |
-| ramiel | 拉米尔 | ![](https://ehgt.org/w/02/360/75686-emh05i7s.webp)<br>所属作品：`zenless zone zero` |  |
+| ramiel | 拉米尔 | ![](https://static.wikia.nocookie.net/yuripedia/images/0/0e/Ramiel.%28Ange.Vierge%29.full.2011232.jpg)<br>所属作品：`ange vierge` |  |
 | willow schnee | 威洛·施尼 | ![](https://static.wikia.nocookie.net/rwby/images/d/da/WillowSchnee-V7C8.png)<br>所属作品：`rwby` |  |
 | whitley schnee | 惠特利·施尼 | ![](https://static.wikia.nocookie.net/rwby/images/a/ab/WhitleySchnee-V4C7.png)<br>所属作品：`rwby` |  |
 | rinka shidou | 紫藤凛花 | ![](https://static.wikia.nocookie.net/taimanin/images/8/88/Shido_Rinka_2.png)<br>所属作品：`taimanin rpg` |  |
