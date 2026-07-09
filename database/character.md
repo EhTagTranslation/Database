@@ -9666,6 +9666,7 @@ example:
 | niki ookuma | 大隈二喜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b3/57/41209_crt_iqd03.jpg?r=1462415478)<br>所属作品：`school days` |  |
 | natsumi koizumi | 小泉夏美 | ![](https://lain.bgm.tv/r/400/pic/crt/l/a6/dc/112778_crt_h4mB9.jpg)<br>所属作品：`school days` |  |
 | ruka imakawa | 今川留夏 | ![](https://static.wikia.nocookie.net/school-days/images/a/a8/RukaImagawa.jpg)<br>所属作品：`school days` |  |
+| hk433 | HK433 | ![](https://gfwiki.org/images/thumb/3/36/Pic_HK433.png/1024px-Pic_HK433.png)<br>所属作品：`girls frontline` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
