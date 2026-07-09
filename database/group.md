@@ -1884,7 +1884,7 @@ example:
 | popochichi | ぽぽちち |  |  |
 | g.y.more.l | G.Y.MORE.L |  |  |
 | nyoudou juunisei | 尿道十二世 |  |  |
-| hobukuro | ほおぶくろっ! |  |  |
+| hobukuro | ほおぶくろっ! |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76737/) |
 | yasai no kuni | 野菜の国 |  |  |
 | ikkizuka | いっきづか |  |  |
 | komadori nouen | こまどり農園 |  |  |
