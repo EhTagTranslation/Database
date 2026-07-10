@@ -5940,7 +5940,7 @@ example:
 | lisia | 琉琪亚 | ![](https://img.moegirl.org.cn/common/thumb/6/6a/琉琪亞_ORAS.png/280px-琉琪亞_ORAS.png)<br>所属作品：`pokemon`<br>日语：ルチア | [萌娘百科](https://zh.moegirl.org.cn/琉琪亚) |
 | coral | 珊瑚 | ![](https://archives.bulbagarden.net/media/upload/2/2e/Coral_anime_2.png)<br>所属作品：`pokemon`<br>日语：サンゴ | [https://bulbapedia.bulbagarden.net/wiki/Coral](https://bulbapedia.bulbagarden.net/wiki/Coral) |
 | lacey | 紫竽 | ![](https://archives.bulbagarden.net/media/upload/thumb/8/83/Scarlet_Violet_Lacey.png/225px-Scarlet_Violet_Lacey.png)<br>所属作品：`pokemon`<br>日文名︰タロ<br>英文名︰Lacey | [https://bulbapedia.bulbagarden.net/wiki/Lacey](https://bulbapedia.bulbagarden.net/wiki/Lacey) |
-| sumireko ogawa | 绪川堇子 | 日语：緒川（おがわ） 菫子（すみれこ）<br>《怪异与少女与神隐》的登场角色。 |  |
+| sumireko ogawa | 绪川堇子 | ![](https://static.wikia.nocookie.net/kaii-to-otome-to-kamikakushi/images/8/8b/Sumireko.jpg)<br>出自作品：`p:kaii to otome to kamikakushi`<br><br>绪川堇子（日语：緒川菫子 / おがわすみれこ）是由ぬじま所创作的漫画《怪异与少女与神隐》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/绪川堇子) \| [Fandom](https://kaii-to-otome-to-kamikakushi.fandom.com/wiki/Sumireko_Ogawa) |
 | cogita | 吾思 | 所属作品：`pokemon`<br>![](https://img.moegirl.org.cn/common/thumb/c/cb/PLA_Cogita.png/256px-PLA_Cogita.png)<br>日语名：コギト<br>英语名：Cogita<br>《宝可梦传说 阿尔宙斯》中洗翠地区的居民之一。<br>据本人所述，与“相当厉害的宝可梦”非常亲密。 | [萌娘百科](https://zh.moegirl.org.cn/吾思) |
 | sanae yamada | 山田早苗 | 日语：やまだ さなえ<br>樱井纪雄创作的漫画《`boku no kokoro no yabai yatsu`》及其衍生作品中的登场角色，山田杏奈的母亲。 |  |
 | serval landau | 希露瓦·朗道 | ![](https://patchwiki.biligame.com/images/sr/thumb/c/cf/rq1jk29rxmp7ko6fk11wi5l1eq43qxh.png/1050px-希露瓦立绘.png)<br>所属作品：`honkai star rail`<br>自由叛逆的朗道家长女，曾是可可利亚的挚友，如今是兴趣使然的机械师。 | [萌娘百科](https://zh.moegirl.org.cn/希露瓦·朗道) |
