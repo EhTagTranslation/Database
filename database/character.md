@@ -4270,7 +4270,7 @@ example:
 | mu-12 | μ-No.12- | 缪 |  |
 | nu-13 | ν-No.13- | 纽恩 |  |
 | jin kisaragi | 琴恩·如月 |  |  |
-| erice utsumi | 宇津见绘里濑 | ![](https://thumbsnap.com/i/zhY8nkeB.jpg)<br>宇津见绘里濑（日语：宇津見エリセ）是TYPE-MOON旗下的Fate系列及其衍生作品的登场角色，在《Fate/Requiem》首次登场，主人公。 | [萌娘百科](https://zh.moegirl.org.cn/宇津见绘里濑) |
+| erice utsumi | 宇津见绘里濑 | ![](https://static.wikia.nocookie.net/typemoon/images/f/ff/Erice.png)<br>出自作品：`p:fate grand order`<br><br>宇津见绘里濑（日语：宇津見エリセ）是TYPE-MOON旗下的Fate系列及其衍生作品的登场角色，在《Fate/Requiem》首次登场，主人公。 | [萌娘百科](https://zh.moegirl.org.cn/宇津见绘里濑) \| [Fandom](https://typemoon.fandom.com/wiki/Erice_Utsumi) |
 | emiya alter | 卫宫〔Alter〕 |  |  |
 | shinoa hiiragi | 柊筱娅 |  |  |
 | fatui electro cicin mage | 雷萤术士 | ![](https://ehgt.org/w/00/856/83167-ta3c64e7.webp)<br>出自作品：`p:genshin impact` |  |
