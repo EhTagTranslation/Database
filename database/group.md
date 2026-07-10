@@ -10769,7 +10769,7 @@ example:
 | studio daiya alt | スタジオ・ダイヤ・オルタ |  |  |
 | studio dellforce | STUDIOデルフォース |  |  |
 | studio dia | スタジオ・ダイア |  |  |
-| studio diamond | スタジオ・ダイヤ |  |  |
+| studio diamond | スタジオ・ダイヤ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG33136.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72764/) |
 | studio dimple | スタジオDimple |  |  |
 | studio erohouse | スタジオエロハウス |  |  |
 | studio f | スタジオ・エフ |  |  |
