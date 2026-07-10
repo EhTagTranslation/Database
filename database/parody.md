@@ -770,7 +770,7 @@ example:
 | atelier sophie | 索菲的工作室 | 《炼金工作室系列》A17 |  |
 | atelier firis | 菲莉丝的工作室 | 《炼金工作室系列》A18 |  |
 | atelier lulua | 露露亚的炼金工房 | 《炼金工作室系列》A20<br><br>露露亚的炼金工房 ～亚兰德之炼金术士4～ | [萌娘百科](https://zh.moegirl.org.cn/露露亚的炼金工房_～亚兰德之炼金术士4～) [维基百科（英语）](https://en.wikipedia.org/wiki/Atelier_Lulua:_The_Scion_of_Arland) |
-| atelier ryza | 莱莎的工作室 | 《炼金工作室系列》A21 |  |
+| atelier ryza | 莱莎的炼金工房 |  | [维基百科](https://zh.wikipedia.org/wiki/萊莎的鍊金工房_～常闇女王與秘密藏身處～) \| [萌娘百科](https://zh.moegirl.org.cn/莱莎的炼金工房_～常暗女王与秘密藏身处～) |
 | atelier lina | 莉娜的工作室 | 《炼金工作室系列》外传A6 |  |
 |  | ↑炼金工作室 系列 |  |  |
 | my neighbor totoro | 龙猫 |  |  |
