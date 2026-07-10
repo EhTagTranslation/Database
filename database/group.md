@@ -351,7 +351,7 @@ example:
 | optworks | OPTWORKS |  |  |
 | nikujirushi | にくじるし |  |  |
 | great canyon | グレートキャニオン |  |  |
-| amp | AMP |  |  |
+| amp | AMP |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG69157.html) |
 | peanutsland | ピーナッツランド |  |  |
 | black fly | BLACK FLY |  |  |
 | acid club | ACID CLUB |  |  |
