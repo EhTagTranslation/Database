@@ -2880,6 +2880,7 @@ example:
 | yami healer | 无照天才治疗师的逆袭人生 | ![](https://static.wikia.nocookie.net/shochiku/images/4/48/The_Brilliant_Healer%27s_New_Life_in_the_Shadows.png)<br>英文全名：《Yami Healer to shite Tanoshiku Ikiru》<br>又译：《瞬间治愈却被当成废物踢出队伍的天才治疗师，改当无照治疗师快乐过活/天才治疗师退队作为无照治疗师快乐过活》 |  |
 | natsu no arashi | 夏之岚！ | ![](https://lain.bgm.tv/r/400/pic/cover/l/3b/bf/1454_47lsn.jpg)<br>小林尽创作的日本漫画作品，并有改编动画。 | [Bangumi](https://bgm.tv/subject/1454) |
 | yomi no tsugai | 黄泉使者 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_z7obB.jpg)<br>日语：黄泉のツガイ<br>荒川弘所编绘的日本漫画作品，并有改编动画。 | [Bangumi](https://bgm.tv/subject/568572) |
+| nue no onmyouji | 鵺之阴阳师 | ![](https://static.wikia.nocookie.net/nue-no-onmyouji/images/2/21/Weekly_Shounen_Jump_Issue_24-2023.png)<br>《鵺之阴阳师》 (日语：鵺の陰陽師) 是日本漫画家川江康太著作的漫画作品，于2023年5月15日《周刊少年Jump》开始连载，单行本日文版由集英社出版发行。 | [百度百科](https://baike.baidu.com/item/鵺之阴阳师/63022911) \| [Fandom](https://nue-no-onmyouji.fandom.com/wiki/Nue%27s_Exorcist) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
