@@ -9679,7 +9679,7 @@ example:
 | fremy speeddraw | 芙雷米·史皮德洛 | ![](https://static.wikia.nocookie.net/rokka-no-yuusha/images/8/8d/Fremy_novel_crop.jpg)<br>出自作品：`p:rokka no yuusha`<br><br>芙雷米·史皮德洛（Fremy Speeddraw）是輕小說《六花的勇者》及其改編動畫中的女主角。 | [Fandom](https://rokkanoyuusha.fandom.com/wiki/Fremy_Speeddraw) |
 | evergreen | 艾芭葛琳 | ![](https://static.wikia.nocookie.net/fairytail/images/1/1c/Evergreen_new.jpg)<br>出自作品：`p:fairy tail`<br><br>艾芭葛琳（日文：エバーグリーン，英文：Evergreen），是日本漫画《妖精的尾巴》及其衍生作品中的角色。 | [百度百科](https://baike.baidu.com/item/艾芭葛琳/9983283) \| [Fandom](https://fairytail.fandom.com/wiki/Evergreen) |
 | gabby | 嘉比 | ![](https://static.wikia.nocookie.net/yomi-no-tsugai/images/6/66/Gabby_-_anime_design.png)<br>出自作品：`p:yomi no tsugai` | [Fandom](https://yomi-no-tsugai.fandom.com/wiki/Gabby) |
-| cheelai | 茨莱 | ![](https://static.wikia.nocookie.net/dragonball/images/a/aa/Cheelai_1.png)<br>出自作品：`p:dragon ball super`<br><br>茨莱（日语：チライ，英语：Chira），日本动画《龙珠超》剧场版《龙珠超：布罗利》与《龙珠超：超级英雄》中的女性角色。 | [百度百科](https://baike.baidu.com/item/茨莱/23112453) \| [Fandom](https://dragonball.fandom.com/wiki/Cheelai) |
+| cheelai | 茨莱 | ![](https://static.wikia.nocookie.net/dragonball/images/a/aa/Cheelai_1.png)<br>出自作品：`p:dragon ball super`<br><br>茨莱（日语：チライ，英语：Chirai），日本动画《龙珠超》剧场版《龙珠超：布罗利》与《龙珠超：超级英雄》中的女性角色。 | [百度百科](https://baike.baidu.com/item/茨莱/23112453) \| [Fandom](https://dragonball.fandom.com/wiki/Cheelai) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
