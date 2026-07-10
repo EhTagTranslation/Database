@@ -9676,6 +9676,7 @@ example:
 | ryogoku tsukasa | 领国司 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/6/67/Tsukasa_Ryogoku_portrait.png)<br>日语：領国つかさ | [YouTube](https://www.youtube.com/@tsukasa_ryogoku) |
 | puwapuwa popura | Puwapuwa Popura | 所属企划：青桐高中（あおぎり高校）<br>日语：ぷわぷわぽぷら | [YouTube](https://www.youtube.com/@popura0119) |
 | remielle dan | 蕾米埃尔·丹‌ | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/b/b1/Agent_Remielle_Dan_Portrait.png)<br>所属作品：`zenless zone zero` |  |
+| fremy speeddraw | 芙雷米·史皮德洛 | ![](https://static.wikia.nocookie.net/rokka-no-yuusha/images/8/8d/Fremy_novel_crop.jpg)<br>出自作品：`p:rokka no yuusha`<br><br>芙雷米·史皮德洛（Fremy Speeddraw）是輕小說《六花的勇者》及其改編動畫中的女主角。 | [Fandom](https://rokkanoyuusha.fandom.com/wiki/Fremy_Speeddraw) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
