@@ -3145,7 +3145,7 @@ example:
 | alena | 安莉娜 |  |  |
 | reimi saionji | 蕾米 | 《星之海洋4》女主角 |  |
 | maika sakuranomiya | 樱之宫莓香 | 樱之宫莓香是由日本漫画家中山幸创作的漫画《调教咖啡厅》及其衍生作品的登场角色。 |  |
-| kaho hinata | 日向夏帆 | 日向夏帆是由日本漫画家中山幸创作的漫画《调教咖啡厅》及其衍生作品的登场角色。 |  |
+| kaho hinata | 日向夏帆 | ![](https://static.wikia.nocookie.net/blend-s/images/b/b0/Kaho_manga_render_FULL.png)<br>出自作品：`p:blend s`<br><br>日向夏帆（日语：日向夏帆 / ひなたかほ / Hinata Kaho）是由日本漫画家中山幸创作的漫画《调教咖啡厅》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/日向夏帆) \| [Fandom](https://blend-s.fandom.com/wiki/Kaho_Hinata) |
 | mafuyu hoshikawa | 星川麻冬 | 星川麻冬是由日本漫画家中山幸创作的漫画《调教咖啡厅》及其衍生作品的登场角色。 |  |
 | miu amano | 天野美雨 | 天野美雨是由日本漫画家中山幸创作的漫画《调教咖啡厅》及其衍生作品的登场角色。 |  |
 | hideri kanzaki | 神崎日照 | 神崎日照是由日本漫画家中山幸创作的漫画《调教咖啡厅》及其衍生作品的登场角色。 |  |
