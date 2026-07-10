@@ -3807,7 +3807,7 @@ example:
 | morgan le fay | 摩根·勒·菲 | 游戏《Fate/Grand Order》的登场人物，作为自止境的奥克尼而来横扫不列颠并君临天下，支配妖精国不列颠长达2017年的女王登场。<br>![摩根](https://media.fgo.wiki/4/4f/モルガン满破.png) | [萌娘百科](https://zh.moegirl.org.cn/摩根%28Fate/Grand_Order%29#) |
 | nishizono chigusa | 西园千草 | 西园千草是一名从2020年08月10日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/西园千草) |
 | sherry birkin | 雪莉·柏金 | 初登场于《生化危机2》，该作故事的核心人物。后登场于《生化危机 暗黑编年史》、《生化危机 浣熊市行动》、《生化危机6》。除此之外，在《生化危机6》以及《生化危机2 重制版》中雪莉是可操纵游玩的女角色之一。 | [萌娘百科](https://zh.moegirl.org.cn/雪莉·柏金) [Fandom](https://residentevil.fandom.com/wiki/Sherry_Birkin) |
-| ratna petit | 拉特娜·葡蒂 | 拉特娜·葡蒂是一名从2019年8月13日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/拉特娜·葡蒂) |
+| ratna petit | 拉特娜·葡蒂 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/f/fa/Ratna_Petit_Portrait_2024.png)<br>所属社团：`p:nijisanji`<br><br>拉特娜·葡蒂是一名从2019年8月13日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/拉特娜·葡蒂) \| [Fandom](https://virtualyoutuber.fandom.com/wiki/Ratna_Petit) |
 | shigure ui | 时雨羽衣 | 时雨羽衣是一名日本的插画家、漫画家。同时以个人势VTuber身份从2019年5月18日在YouTube开展相关活动。 | [萌娘百科](https://zh.moegirl.org.cn/时雨羽衣) |
 | suo sango | 周央珊瑚 | 周央珊瑚是一名从2020年08月09日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/周央珊瑚) |
 | lakshmibai | 拉克什米·芭伊 | 章西女王（Rani of Jhansi；1835年11月19日—1858年6月18日），印度民族女英雄。 | [萌娘百科](https://zh.moegirl.org.cn/拉克什米·芭伊%28Fate%29) |
