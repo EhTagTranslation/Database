@@ -15368,6 +15368,7 @@ example:
 | ponyarata popalappio | ぽにゃらーたぽぱらっぴお |  | [FANBOX](https://www.fanbox.cc/@ponyara-ta) \| [pixiv](https://www.pixiv.net/users/76841573) \| [X](https://x.com/gone_ghg) \| [Misskey.io](https://misskey.io/@ponyara_ta) |
 | painame daikanpa | パインアメ大寒波 |  | [pixiv](https://www.pixiv.net/users/81711658) \| [X](https://x.com/painamedaikanpa) |
 | tantanmen | 坦々MEN |  | [FANBOX](https://www.fanbox.cc/@tantanmen) \| [pixiv](https://www.pixiv.net/users/7342308) \| [X](https://x.com/paugan555) \| [Pawoo](https://pawoo.net/@TANTANMEN72) \| [Skeb](https://skeb.jp/@paugan555) |
+| dobepopon | どべぽぽん |  | [pixiv](https://www.pixiv.net/users/14380259) \| [X](https://x.com/HatoLoad) \| [Skeb](https://skeb.jp/@HatoLoad) |
 
 <!--TEMPLATE:
 |  |  |  |  |
