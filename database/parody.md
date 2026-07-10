@@ -2881,6 +2881,7 @@ example:
 | natsu no arashi | 夏之岚！ | ![](https://lain.bgm.tv/r/400/pic/cover/l/3b/bf/1454_47lsn.jpg)<br>小林尽创作的日本漫画作品，并有改编动画。 | [Bangumi](https://bgm.tv/subject/1454) |
 | yomi no tsugai | 黄泉使者 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_z7obB.jpg)<br>日语：黄泉のツガイ<br>荒川弘所编绘的日本漫画作品，并有改编动画。 | [Bangumi](https://bgm.tv/subject/568572) |
 | nue no onmyouji | 鵺之阴阳师 | ![](https://static.wikia.nocookie.net/nue-no-onmyouji/images/2/21/Weekly_Shounen_Jump_Issue_24-2023.png)<br>《鵺之阴阳师》 (日语：鵺の陰陽師) 是日本漫画家川江康太著作的漫画作品，于2023年5月15日《周刊少年Jump》开始连载，单行本日文版由集英社出版发行。 | [百度百科](https://baike.baidu.com/item/鵺之阴阳师/63022911) \| [Fandom](https://nue-no-onmyouji.fandom.com/wiki/Nue%27s_Exorcist) |
+| yanineko | 尼古喵喵 | ![](https://storage.moegirl.tw/moegirl/commons/5/5d/Yanineko_01.jpg)<br>《尼古喵喵》（日语：ヤニねこ，英语：Yani Neko）是由NyanNyanFactory（にゃんにゃんファクトリー）创作的日本漫画系列。自2023年2月起在讲谈社的青年漫画杂志《周刊Young Magazine》上连载。<br><br>这是耄啊？？？ | [维基百科](https://zh.wikipedia.org/wiki/尼古喵喵) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
