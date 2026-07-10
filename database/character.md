@@ -4140,7 +4140,7 @@ example:
 | yoichi nasu no suketaka | 那须与一 | 所属作品 `p:drifters` |  |
 | bridget | 布里奇特 | ![](https://static.wikia.nocookie.net/guilty-gear/images/d/d4/Bridget_Guilty_Gear_Strive.png)<br>日语：ブリジット<br>所属作品：`guilty gear` | [维基百科](https://zh.wikipedia.org/wiki/聖騎士之戰系列角色列表) |
 | princess marie ange | マリー・アンジュ 王女 |  |  |
-| sakura kagamihara | 各务原樱 |  | [萌娘百科](https://zh.moegirl.org.cn/各务原樱) |
+| sakura kagamihara | 各务原樱 | ![](https://static.wikia.nocookie.net/yuru-camp/images/6/64/S2_Sakura_kagamihara-yurucamp-jp.png)<br>出自作品：`p:yuru camp`<br><br>各务原樱（日语：各務原桜 / がみはらさくら）是由あfろ所创作的漫画《摇曳露营△》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/各务原樱) |
 | frederica irving | フレドリカ・アーヴィング | ![](https://static.wikia.nocookie.net/etrian/images/9/99/Frederica.png)<br>所属作品: `p:etrian odyssey` | [Fandom](https://etrian.fandom.com/wiki/Frederica_Irving) |
 | junko enoshima | 江之岛盾子 | 所属作品: `danganronpa`<br>![](https://upload.wikimedia.org/wikipedia/en/4/44/Junko_Enoshima.png) | [维基百科（英语）](https://en.wikipedia.org/wiki/Junko_Enoshima)   [萌娘百科](https://zh.moegirl.org.cn/江之岛盾子c) |
 | chisato nishikigi | 锦木千束 | ![](https://static.wikia.nocookie.net/lycoris-recoil/images/3/31/Chisato_Nishikigi.png)<br>所属作品：`lycoris recoil` | [萌娘百科](https://zh.moegirl.org.cn/锦木千束) [Fandom](https://lycoris-recoil.fandom.com/wiki/Chisato_Nishikigi) |
