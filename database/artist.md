@@ -12629,7 +12629,7 @@ example:
 | uni toshiki | ウニトシキ |  |  |
 | teikuuhikou | 低空飞行 |  |  |
 | iwami yasoya | 石见やそや | ![X](https://pbs.twimg.com/profile_images/1607594719500197892/r3UmAHQ9_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/IwamiYasoya) [pixiv](https://www.pixiv.net/users/22078099) |
-| mittsuman | みっつまん |  |  |
+| mittsuman | みっつまん |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202935/) \| [FANBOX](https://mittuman.fanbox.cc/) \| [BOOTH](https://mittuman.booth.pm/) \| [pixiv](https://www.pixiv.net/users/55741855) \| [X](https://x.com/douzin_mittuman) |
 | chinetsu | ちねつ |  |  |
 | akausu ko | 赤薄紅 |  |  |
 | otona no sexy ehon | 大人のSEXY絵本 |  |  |
