@@ -15370,6 +15370,7 @@ example:
 | tantanmen | 坦々MEN |  | [FANBOX](https://www.fanbox.cc/@tantanmen) \| [pixiv](https://www.pixiv.net/users/7342308) \| [X](https://x.com/paugan555) \| [Pawoo](https://pawoo.net/@TANTANMEN72) \| [Skeb](https://skeb.jp/@paugan555) |
 | dobepopon | どべぽぽん |  | [pixiv](https://www.pixiv.net/users/14380259) \| [X](https://x.com/HatoLoad) \| [Skeb](https://skeb.jp/@HatoLoad) |
 | higashino gojuri | 東野ごじゅり |  | [pixiv](https://www.pixiv.net/users/664312)<br>[FANBOX](https://higashinogozou.fanbox.cc/posts?page=1) |
+| kashiwamochi yomogi | 柏餅よもぎ |  | [pixiv](https://www.pixiv.net/users/74048317)<br>[FANBOX](https://momomotakusan.fanbox.cc/)<br>[Skeb](https://skeb.jp/@momomotakusan)<br>[X](https://x.com/momomotakusan) |
 
 <!--TEMPLATE:
 |  |  |  |  |
