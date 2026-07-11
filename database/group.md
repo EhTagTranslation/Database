@@ -51,7 +51,7 @@ example:
 | darknesspot | DarknessPot | INTERHEART 旗下品牌 |  |
 | nihon bussan | 日本物产 |  |  |
 | sphinx | SPHINX | 日本物产旗下 |  |
-| bishop | BISHOP（主教社） |  |  |
+| bishop | 主教社 | ![](https://www.bishop.jp/images/brand_logo.png) | [官网](https://www.bishop.jp/top.html) |
 | tanuki soft | たぬきそふと |  |  |
 | baseson | BaseSon |  |  |
 | miel | Miel | ![](http://www.miel-soft.com/img/mielbn.jpg) | [官方网站](http://www.miel-soft.com) |
