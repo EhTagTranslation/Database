@@ -7421,7 +7421,7 @@ example:
 | makushiro | マクシロ |  |  |
 | malus pumila | まるすぷみら |  |  |
 | mama ni wa naisho | ママにはナイショ |  |  |
-| mama-san ballet | ママさんバレエ |  |  |
+| mama-san ballet | ママさんバレエ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75617/) |
 | mamagotoya | ままごと屋 |  |  |
 | mamagult | ママグル徒 |  |  |
 | mamamax | MAMAMAX |  |  |
