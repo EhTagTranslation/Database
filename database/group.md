@@ -13493,7 +13493,7 @@ example:
 | dekitate amaguri | できたて甘栗 |  |  |
 | torotoro tororokonbu | とろとろとろろ昆布 |  |  |
 | wasuresou na namae | 忘れそうな名前 |  |  |
-| mikikomachi | みきこまち |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01009898.html) |
+| mikikomachi | みきこまち |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01009898.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=211410/) |
 | tou kasokudou jouge undou | 等加速度上下运动 | 等加速度上下運動 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54589.html) |
 | merrymoon | MerryMoon | `a:tsukimimumi`使用的同人社团名称 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01007800.html) |
 | rinrin tokoro | 輪々処 |  |  |
