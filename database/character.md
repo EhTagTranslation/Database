@@ -9684,6 +9684,7 @@ example:
 | rulership | 统治地位 | ![](https://static.wikia.nocookie.net/umamusume/images/0/05/Rulership_%28Race%29.png)<br>所属作品：`uma musume pretty derby` |  |
 | hana sunomiya | 须之宫花 | ![](https://static.wikia.nocookie.net/please-dont-bully-me-nagatoro/images/4/4e/Sunomiya_Anime_Headshot.png)<br>所属作品：`ijiranaide nagatoro-san`<br>日语：須ノ宮 花 |  |
 | koyuki hikawa | 冰川小雪 | ![](https://lain.bgm.tv/r/400/pic/crt/l/45/ad/185504_crt_6p93Q.jpg)<br>所属作品：`koori no jouheki`<br>日语：氷川小雪 |  |
+| flare corona | 芙蕾雅·珂罗娜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/0b/cf/114429_crt_Fz3wC.jpg)<br>所属作品：`fairy tail`<br>日语：フレア・コロナ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
