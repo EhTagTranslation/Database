@@ -3719,7 +3719,7 @@ example:
 | sabrina | 娜姿 | ![](https://s1.52poke.com/wiki/thumb/7/7d/娜姿_LPLE.png/252px-娜姿_LPLE.png)<br>所属作品：`pokemon`<br>日文︰ナツメ |  |
 | nagao kagetora | 长尾景虎 |  |  |
 | shirabe tsukuyomi | 月读调 | ![](https://static.wikia.nocookie.net/senkizesshousymphogear/images/c/c6/Shirabe_G.png)<br>所属作品：`p:senki zesshou symphogear` | [萌娘百科](https://zh.moegirl.org.cn/月读调) |
-| chris yukine | 雪音克莉丝 | 雪音克莉丝是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/雪音克莉丝) |
+| chris yukine | 雪音克莉丝 | ![](https://static.wikia.nocookie.net/senkizesshousymphogear/images/0/04/Chris_G.png)<br>所属作品：`p:senki zesshou symphogear` | [萌娘百科](https://zh.moegirl.org.cn/雪音克莉丝) |
 | hibiki tachibana | 立花响 | ![](https://storage.moegirl.org.cn/moegirl/commons/7/7c/Hibiki_gear_XV.png)<br>立花响是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/立花响) |
 | miku kohinata | 小日向未来 | 小日向未来是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/小日向未来) |
 | gardevoir | 沙奈朵 | ![](https://archives.bulbagarden.net/media/upload/thumb/3/3d/0282Gardevoir-Mega.png/165px-0282Gardevoir-Mega.png)<br>出自作品：`p:pokemon`<br>日语：サーナイト<br>最初登场于《宝可梦 红宝石／蓝宝石》。 | [萌娘百科](https://zh.moegirl.org.cn/沙奈朵) |
