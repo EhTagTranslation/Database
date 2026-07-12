@@ -4327,7 +4327,7 @@ example:
 | lillia | 莉莉娅（含羞蓓蕾） | 所属作品：`league of legends`<br>![](https://wiki.leagueoflegends.com/en-us/images/Lillia_OriginalSkin.jpg?ababd) |  |
 | thresh | 锤石 |  |  |
 | sophia nishikinomiya | 苏菲亚·锦之宫 | `anna nishikinomiya`的母亲，时冈学园家长会会长。 |  |
-| anna nishikinomiya | 安娜·锦之宫 |  |  |
+| anna nishikinomiya | 安娜·锦之宫 | ![](https://lain.bgm.tv/r/400/pic/crt/l/1e/b7/32286_crt_CLbcl.jpg)<br>所属作品：`shimoneta to iu gainen ga sonzai shinai taikutsu na sekai` |  |
 | moona hoshinova | 暮娜·惑星诺瓦 | Moona Hoshinova（日语：ムーナ・ホシノヴァ），是Hololive印度尼西亚（Hololive ID）一期生虚拟UP主中的一员，于2020年4月开始活动。 | [维基百科](https://zh.wikipedia.org/wiki/Moona_Hoshinova) [萌娘百科](https://zh.moegirl.org.cn/Moona_Hoshinova) |
 | miya chinen | 知念实也 |  |  |
 | koushi sugawara | 菅原孝支 |  | [Fandom Wiki](https://haikyuu.fandom.com/wiki/Kōshi_Sugawara) |
