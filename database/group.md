@@ -3519,7 +3519,7 @@ example:
 | c.cpu | C.CPU |  |  |
 | c.h.a.r.i.o.t | C.H.A.R.I.O.T |  |  |
 | c.m. | C.M. |  |  |
-| c.n.p | C.N.P |  |  |
+| c.n.p | C.N.P |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71624/) |
 | c.o.2 | C.O.2 |  |  |
 | c.r.c | C・R・C |  |  |
 | c.s. | C.S. |  |  |
