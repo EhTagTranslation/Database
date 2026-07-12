@@ -1305,7 +1305,7 @@ example:
 |  | ▼ 樱花庄的宠物女孩 角色 |  |  |
 | sorata kanda | 神田空太 |  |  |
 | mashiro shiina | 椎名真白 | ![](https://ehgt.org/w/02/018/02333-a96uhxba.webp)<br>出自作品：`p:sakurasou no pet na kanojo`<br><br>椎名真白（日语：椎名ましろ / しいなましろ ）是鸭志田一创作的轻小说《樱花庄的宠物女孩》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/椎名真白) |
-| nanami aoyama | 青山七海 |  |  |
+| nanami aoyama | 青山七海 | ![](https://static.wikia.nocookie.net/sakurasounopetnakanojo/images/7/70/Nanami_aoyama_by_yukii_chann-d66dkot-0.png)<br>所属作品：`sakurasou no pet na kanojo`<br>日语：あおやま ななみ |  |
 | misaki kamiigusa | 上井草美咲 |  |  |
 | chihiro sengoku | 千石千寻 |  |  |
 |  | ▼ 龙与虎 角色 |  |  |
