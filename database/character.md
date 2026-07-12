@@ -5877,7 +5877,7 @@ example:
 | maizuru | 舞鹤 | 舞鹤（日语：マイヅル）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的登场角色。 |  |
 | yanagi tsukishiro | 月城柳 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/10/29/76099754/51f7da64878494b38ec4147c794e1b2c_2233892488382252178.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/月城柳) |
 | maria cadenzavna eve | 玛丽亚·卡登扎夫娜·伊芙 | 玛丽亚·卡登扎夫娜·伊芙是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/玛丽亚·卡登扎夫娜·伊芙) |
-| elfnein | 艾芙奈恩 | 艾芙奈恩是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/艾芙奈恩) |
+| elfnein | 艾芙奈恩 | ![](https://static.wikia.nocookie.net/senkizesshousymphogear/images/e/e0/Elfnein_XV.png)<br>所属作品：`p:senki zesshou symphogear` | [萌娘百科](https://zh.moegirl.org.cn/艾芙奈恩) |
 | taoqi | 桃祈 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/6/69/a2fx0h30xz5fvamydsjty0bojrt9c00.png/605px-Mc_wiki_role_taoqi_x1500.png)<br>所属作品：`wuthering waves`<br>天工边防事务的负责人，平时慵懒的她，却总能可靠地解决问题。 守护他人的点点愿望汇聚成坚固的屏障，屹立于今州城前。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/桃祈) |
 | miyo harada | 原田美世 | ![](https://patchwiki.biligame.com/images/imascg/thumb/6/67/6utlidm2py31uc4oarxomy62g4u4yp3.png/960px-CGSS-Miyo-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 | [萌娘百科](https://zh.moegirl.org.cn/原田美世) |
 | shouko nishimiya | 西宫硝子 | 西宫硝子是大今良时所创作的漫画《声之形》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/40/Nishimiya_Shouko_Side.png) | [萌娘百科](https://zh.moegirl.org.cn/西宫硝子) |
