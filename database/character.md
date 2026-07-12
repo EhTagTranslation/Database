@@ -9690,6 +9690,7 @@ example:
 | milk | 米尔克 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/aa/Milk_%28Extreme_Fighter%29_FB.png)<br>所属作品：`goddess of victory nikke` |  |
 | nonoa | 惠比寿乃爱（诺诺亚） | ![](https://static.wikia.nocookie.net/25-dimensional-seduction/images/d/d6/Ebisu_Noa_Anime.png)<br>所属作品：`2.5-jigen no yuuwaku` |  |
 | chtholly nota seniorious | 珂朵莉·诺塔·瑟尼欧里斯 | ![](https://static.wikia.nocookie.net/suka-suka/images/a/a6/ChthollyHat.png)<br>所属作品：`shuumatsu nani shitemasu ka isogashii desu ka sukutte moratte ii desu ka`<br>日语：クトリ・ノタ・セニオリス |  |
+| akane osaki | 樱咲朱音 | ![](https://static.wikia.nocookie.net/akane-banashi/images/d/dd/Akane_Osaki_-_anime_design.png)<br>所属作品：`akane-banashi` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
