@@ -9688,6 +9688,7 @@ example:
 | kazuha migiwa | 渚一叶 | ![](https://static.wikia.nocookie.net/remixfavoriteshowandgame/images/d/dd/Kazuha_Migiwa.png)<br>所属作品：`yosuga no sora`<br>日语：渚一葉 |  |
 | park jae-sang | 朴载相 | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/PSY_EMTV_logo_27_%288198008711%29.jpg/500px-PSY_EMTV_logo_27_%288198008711%29.jpg)<br>韩国歌手Psy，又称“鸟叔” |  |
 | milk | 米尔克 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/aa/Milk_%28Extreme_Fighter%29_FB.png)<br>所属作品：`goddess of victory nikke` |  |
+| nonoa | 惠比寿乃爱（诺诺亚） | ![](https://static.wikia.nocookie.net/25-dimensional-seduction/images/d/d6/Ebisu_Noa_Anime.png)<br>所属作品：`2.5-jigen no yuuwaku` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
