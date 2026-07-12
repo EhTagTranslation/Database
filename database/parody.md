@@ -310,7 +310,7 @@ example:
 | dragon ball z | 龙珠Z |  |  |
 | dragon ball gt | 龙珠GT |  |  |
 | dragon ball super | 龙珠超 |  |  |
-| sakurasou no pet na kanojo | 樱花庄的宠物女孩 |  |  |
+| sakurasou no pet na kanojo | 樱花庄的宠物女孩 | ![](https://lain.bgm.tv/r/400/pic/cover/l/01/a2/41488_qw09G.jpg)<br>鸭志田一创作的漫画作品。 |  |
 | myriad colors phantom world | 无彩限的怪灵世界 |  |  |
 | soul eater | 噬魂师 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2260277206.webp) |  |
 | urara meirochou | Urara迷路帖 |  |  |
