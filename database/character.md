@@ -3276,7 +3276,7 @@ example:
 | midori fuse | 布施翠 |  |  |
 | roxy migurdia | 洛琪希·米格路迪亚 | ![](https://static.wikia.nocookie.net/mushokutensei/images/4/49/MT-AN-S3P1v2-Roxy-FullBody.png)<br>出自作品：`p:mushoku tensei`<br>日语：ロキシー・ミグルディア | [萌娘百科](https://zh.moegirl.org.cn/洛琪希·米格路迪亚) |
 | ghislaine dedoldia | 基列奴·泰德路迪亚 | ![](https://ehgt.org/w/01/962/79012-9zid7hj2.webp)<br>所属作品：`mushoku tensei` |  |
-| eris boreas greyrat | 艾莉丝·伯雷亚斯·格雷拉特 | ![](https://ehgt.org/w/02/068/78269-ttc9v5b8.webp)<br>所属作品:`p:mushoku tensei`<br>艾莉丝·伯雷亚斯·格雷拉特／艾莉丝·格雷拉特（エリス・ボレアス・グレイラット／エリス・グレイラット）是由理不尽な孫の手所创作的轻小说《无职转生～到了异世界就拿出真本事～》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/艾莉丝·伯雷亚斯·格雷拉特) |
+| eris boreas greyrat | 艾莉丝·伯雷亚斯·格雷拉特 | ![](https://static.wikia.nocookie.net/mushokutensei/images/0/0b/MT-AN-S3SK-Eris-FullBody.png)<br>所属作品:`p:mushoku tensei`<br>日语：エリス・ボレアス・グレイラット／エリス・グレイラット | [萌娘百科](https://zh.moegirl.org.cn/艾莉丝·伯雷亚斯·格雷拉特) |
 | aya fujisawa | 菖蒲（藤泽彩） | 菖蒲/藤泽彩(アヤメ/フジサワ・アヤ，Ayame/Fujisawa Aya)<br>登场作品：《高达创形者》 |  |
 | musse egret | 妙婕·伊格瑞特 | ![](https://static.wikia.nocookie.net/kiseki/images/7/79/Musse_Egret_%28Sen_IV%29.png)<br>所属作品：`the legend of heroes` | [https://trails-game.com/character/musse-egret/](https://trails-game.com/character/musse-egret/) |
 | alisa reinford | 亚莉莎·莱恩福尔特 | ![](https://static.wikia.nocookie.net/kiseki/images/0/0c/Alisa_Reinford_%28Sen_III%29.png)<br>所属作品：`the legend of heroes` | [https://trails-game.com/character/alisa-reinford/](https://trails-game.com/character/alisa-reinford/) |
