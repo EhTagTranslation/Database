@@ -1288,7 +1288,7 @@ example:
 | kiyomi sakura | 纱仓清美 |  |  |
 | nagisa saitou | 齐藤渚 |  |  |
 |  | ▼ VOCALOID & VOICEROID 角色 |  |  |
-| miku hatsune | 初音未来 | 初音未来（日语：初音（はつね） ミク，平文式罗马字：Hatsune Miku）是Crypton Future Media株式会社企划·开发·贩售的，基于Yamaha的VOCALOID歌声合成引擎（NT使用的是Crypton自主研发的歌声合成引擎）所制作的声音库软件及其拟人化形象。 | [萌娘百科](https://zh.moegirl.org.cn/初音未来) (\*\*) |
+| miku hatsune | 初音未来 | ![](https://static.wikia.nocookie.net/vocaloid/images/1/11/Hatsune_miku_v6.png)<br>![](https://snowmiku.com/skytown/images/visual_miku.webp)<br>日语：初音ミク，是Crypton Future Media株式会社企划·开发·贩售的，基于Yamaha的VOCALOID歌声合成引擎所制作的声音库软件及其拟人化形象。 | [萌娘百科](https://zh.moegirl.org.cn/初音未来) |
 | luka megurine | 巡音流歌 | ![](https://static.wikia.nocookie.net/vocaloid/images/3/39/Luka_v4x_final.png) | [Fandom](https://vocaloid.fandom.com/wiki/Megurine_Luka) [萌娘百科](https://zh.moegirl.org.cn/巡音流歌) |
 | len kagamine | 镜音连 |  |  |
 | rin kagamine | 镜音铃 |  |  |
