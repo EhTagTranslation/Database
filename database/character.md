@@ -9686,6 +9686,7 @@ example:
 | koyuki hikawa | 冰川小雪 | ![](https://lain.bgm.tv/r/400/pic/crt/l/45/ad/185504_crt_6p93Q.jpg)<br>所属作品：`koori no jouheki`<br>日语：氷川小雪 |  |
 | flare corona | 芙蕾雅·珂罗娜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/0b/cf/114429_crt_Fz3wC.jpg)<br>所属作品：`fairy tail`<br>日语：フレア・コロナ |  |
 | kazuha migiwa | 渚一叶 | ![](https://static.wikia.nocookie.net/remixfavoriteshowandgame/images/d/dd/Kazuha_Migiwa.png)<br>所属作品：`yosuga no sora`<br>日语：渚一葉 |  |
+| park jae-sang | 朴载相 | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/PSY_EMTV_logo_27_%288198008711%29.jpg/500px-PSY_EMTV_logo_27_%288198008711%29.jpg)<br>Psy，又称“鸟叔” |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
