@@ -9816,7 +9816,7 @@ example:
 | sasori butter | さそりバター |  |  |
 | sataken | 佐竹犬 |  |  |
 | satetsu | サテツ |  |  |
-| sato | sato |  |  |
+| sato | さと |  |  |
 | sato seila | 佐藤せいら |  |  |
 | satomi | 里美 |  |  |
 | satomi hidefumi | さとみひでふみ |  |  |
