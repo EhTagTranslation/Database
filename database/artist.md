@@ -804,7 +804,7 @@ example:
 | shinobu tanei | 志乃武丹英 |  |  |
 | cuzukago | くずかご |  |  |
 | kojima miu | 儿岛未生 |  |  |
-| kokudakaya | こくだかや |  |  |
+| kokudakaya | こくだかや |  | [FANZA](https://book.dmm.co.jp/list/?author=294649) |
 | kuroishi ringo | 黒石りんご |  |  |
 | mokuzou | 杢臓 |  |  |
 | suitekiya yuumin | 水滴家悠民 |  |  |
