@@ -4229,7 +4229,7 @@ example:
 | aratsuka ogami | 荒塚オガミ |  | [Fandom](https://youtube.fandom.com/wiki/Ogami_Aratsuka) [X](https://x.com/aratsuka_ogami) |
 | nishikata | 西片 |  |  |
 | nezha | 哪吒 |  |  |
-| carol malus dienheim | 卡萝·玛尔斯·丁海姆 | 卡萝·玛尔斯·丁海姆是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/卡萝·玛尔斯·丁海姆) |
+| carol malus dienheim | 卡萝·玛尔斯·丁海姆 | ![](https://static.wikia.nocookie.net/senkizesshousymphogear/images/0/00/CarolNormalClothes.png)<br>所属作品：`p:senki zesshou symphogear` | [萌娘百科](https://zh.moegirl.org.cn/卡萝·玛尔斯·丁海姆) |
 | dori | 多莉 | 所属作品:`p:utawarerumono` |  |
 | rikka morizono | 森园立夏 | ![](https://circus-co.jp/product/dc3/img/character/img_chr01_illust_l.png)<br>所属作品：`da capo iii` | [萌娘百科](https://zh.moegirl.org.cn/森园立夏) |
 | aponia | 阿波尼亚 | 阿波尼亚是米哈游旗下的游戏《崩坏3》及其衍生作品的登场角色<br>![](https://img.moegirl.org.cn/common/4/4c/阿波尼亚.png) | [萌娘百科](https://zh.moegirl.org.cn/_?curid=508425) |
