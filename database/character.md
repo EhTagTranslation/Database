@@ -3280,7 +3280,7 @@ example:
 | aya fujisawa | 菖蒲（藤泽彩） | 菖蒲/藤泽彩(アヤメ/フジサワ・アヤ，Ayame/Fujisawa Aya)<br>登场作品：《高达创形者》 |  |
 | musse egret | 妙婕·伊格瑞特 | ![](https://static.wikia.nocookie.net/kiseki/images/7/79/Musse_Egret_%28Sen_IV%29.png)<br>所属作品：`the legend of heroes` | [https://trails-game.com/character/musse-egret/](https://trails-game.com/character/musse-egret/) |
 | alisa reinford | 亚莉莎·莱恩福尔特 | ![](https://static.wikia.nocookie.net/kiseki/images/0/0c/Alisa_Reinford_%28Sen_III%29.png)<br>所属作品：`the legend of heroes` | [https://trails-game.com/character/alisa-reinford/](https://trails-game.com/character/alisa-reinford/) |
-| fie claussell | 菲·克劳赛尔 | ![](https://static.wikia.nocookie.net/kiseki/images/c/ca/Fie_Claussell_%28Kuro%29.png)<br>所属作品：`the legend of heroes` | [https://trails-game.com/character/fie-claussell/](https://trails-game.com/character/fie-claussell/) |
+| fie claussell | 菲·克劳赛尔 | ![](https://static.wikia.nocookie.net/kiseki/images/c/ca/Fie_Claussell_%28Kuro%29.png)<br>所属作品：`the legend of heroes` | [官网](https://trails-game.com/character/fie-claussell/) |
 | alfin reise arnor | 艾尔芬·莱泽·亚诺尔 | ![](https://static.wikia.nocookie.net/kiseki/images/0/08/Alfin_Reise_Arnor_%28Sen_III%29.png)<br>所属作品：`the legend of heroes` | [https://trails-game.com/character/alfin-reise-arnor/](https://trails-game.com/character/alfin-reise-arnor/) |
 | chen hui-chieh | 陈晖洁 | ![](https://patchwiki.biligame.com/images/arknights/5/56/35zxnoozj5d8nw8bdys30n9mydm2vc6.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:陈) |
 | hermione granger | 赫敏·格兰杰 | 《哈利·波特》系列女主角，生于1979年9月19日，出身于一个普通中产阶级家庭。 十一岁时，赫敏得知自己是一个女巫，需要去霍格沃茨魔法学校上学。 |  |
