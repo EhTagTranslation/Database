@@ -3718,7 +3718,7 @@ example:
 | dusk | 夕 | ![](https://patchwiki.biligame.com/images/arknights/3/38/528a5ouyame8vs5o6bgoino0a1djcim.png)<br>所属作品`p:arknights` |  |
 | sabrina | 娜姿 | ![](https://s1.52poke.com/wiki/thumb/7/7d/娜姿_LPLE.png/252px-娜姿_LPLE.png)<br>所属作品：`pokemon`<br>日文︰ナツメ |  |
 | nagao kagetora | 长尾景虎 |  |  |
-| shirabe tsukuyomi | 月读调 | 月读调是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/月读调) |
+| shirabe tsukuyomi | 月读调 | ![](https://static.wikia.nocookie.net/senkizesshousymphogear/images/c/c6/Shirabe_G.png)<br>所属作品：`p:senki zesshou symphogear` | [萌娘百科](https://zh.moegirl.org.cn/月读调) |
 | chris yukine | 雪音克莉丝 | 雪音克莉丝是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/雪音克莉丝) |
 | hibiki tachibana | 立花响 | ![](https://storage.moegirl.org.cn/moegirl/commons/7/7c/Hibiki_gear_XV.png)<br>立花响是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/立花响) |
 | miku kohinata | 小日向未来 | 小日向未来是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/小日向未来) |
