@@ -3275,7 +3275,7 @@ example:
 | jean | 琴 | ![](https://patchwiki.biligame.com/images/ys/2/27/r5wsqozq60ykxpyc29d6wc69lckrg8s.gif)<br>所属作品：`genshin impact`<br>正直严谨的蒲公英骑士，蒙德西风骑士团的代理团长。 | [BILIGAME WIKI](https://wiki.biligame.com/ys/琴) |
 | midori fuse | 布施翠 |  |  |
 | roxy migurdia | 洛琪希·米格路迪亚 | ![](https://static.wikia.nocookie.net/mushokutensei/images/4/49/MT-AN-S3P1v2-Roxy-FullBody.png)<br>出自作品：`p:mushoku tensei`<br>日语：ロキシー・ミグルディア | [萌娘百科](https://zh.moegirl.org.cn/洛琪希·米格路迪亚) |
-| ghislaine dedoldia | 基列奴·泰德路迪亚 | ![](https://ehgt.org/w/01/962/79012-9zid7hj2.webp)<br>所属作品：`mushoku tensei` |  |
+| ghislaine dedoldia | 基列奴·泰德路迪亚 | ![](https://static.wikia.nocookie.net/mushokutensei/images/c/cc/Ghislaine_Manga.png)<br>所属作品：`mushoku tensei` |  |
 | eris boreas greyrat | 艾莉丝·伯雷亚斯·格雷拉特 | ![](https://static.wikia.nocookie.net/mushokutensei/images/0/0b/MT-AN-S3SK-Eris-FullBody.png)<br>所属作品:`p:mushoku tensei`<br>日语：エリス・ボレアス・グレイラット／エリス・グレイラット | [萌娘百科](https://zh.moegirl.org.cn/艾莉丝·伯雷亚斯·格雷拉特) |
 | aya fujisawa | 菖蒲（藤泽彩） | 菖蒲/藤泽彩(アヤメ/フジサワ・アヤ，Ayame/Fujisawa Aya)<br>登场作品：《高达创形者》 |  |
 | musse egret | 妙婕·伊格瑞特 | ![](https://static.wikia.nocookie.net/kiseki/images/7/79/Musse_Egret_%28Sen_IV%29.png)<br>所属作品：`the legend of heroes` | [https://trails-game.com/character/musse-egret/](https://trails-game.com/character/musse-egret/) |
