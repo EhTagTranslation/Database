@@ -6899,7 +6899,7 @@ example:
 | yubelluna | 优贝露娜 | ![](https://static.wikia.nocookie.net/highschooldxd/images/e/e7/Yubelluna_-_Profile_Pic_Infobox.png)<br>日语：ユーベルーナ<br>所属作品：`highschool dxd` |  |
 | gyokuyou | 玉叶 | 所属作品：`kusuriya no hitorigoto`<br>![](https://ehgt.org/w/02/006/98362-kxlfqcla.webp) |  |
 | shizuka marikawa | 鞠川静香 | ![](https://ehgt.org/w/02/072/72347-4htrld8h.webp)<br>所属作品：`highschool of the dead` |  |
-| crusch karsten | ‌库珥修·卡尔斯腾 | 所属作品：`re zero kara hajimeru isekai seikatsu`<br>![](https://ehgt.org/w/01/897/97707-46uyoaep.webp) |  |
+| crusch karsten | ‌库珥修·卡尔斯腾 | ![](https://static.wikia.nocookie.net/rezero/images/c/cb/Crusch_Karsten_Season_1_Character_Design.png)<br>所属作品：`re zero kara hajimeru isekai seikatsu` |  |
 | pirotess | 比萝蒂丝 | 所属作品：`lodoss-tou senki`<br>![](https://ehgt.org/w/02/089/08713-56wlje1e.webp) |  |
 | hiyori kozuki | 光月日和 | ![](https://ehgt.org/w/02/067/88920-2r15kky0.webp)<br>所属作品：`one piece`<br>和之国公主/原花之都第一花魁 |  |
 | turenne | 人狼女王 | ![](https://static.wikia.nocookie.net/genesis-horizon/images/2/25/Turenne.jpg)<br>所属作品：`kyoukai senjou no horizon`<br>日语：テュレンヌ |  |
