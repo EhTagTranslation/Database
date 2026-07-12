@@ -2123,7 +2123,7 @@ example:
 | saikin yatotta maid ga ayashii | 最近雇的女仆有点怪 |  | [萌娘百科](https://zh.moegirl.org.cn/最近雇的女仆有点怪) |
 | benriya saitou-san isekai ni iku | 万事屋斋藤先生转生异世界 |  | [萌娘百科](https://zh.moegirl.org.cn/万事屋斋藤先生转生异世界) |
 | mar | MÄR魔兵传奇 |  | [萌娘百科](https://zh.moegirl.org.cn/魔兵传奇) [维基百科](https://zh.wikipedia.org/wiki/MÄR_魔法世界) |
-| kinsou no vermeil | 金装的维尔梅 | 金装的维尔梅～濒临堕落的魔法师和最强的灾厄一起冲入魔法世界～ | [萌娘百科](https://zh.moegirl.org.cn/金装的维尔梅～濒临堕落的魔法师和最强的灾厄一起冲入魔法世界～) |
+| kinsou no vermeil | 金装的维尔梅 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/2c/373710_Z5da0.jpg)<br>全名：金装的维尔梅～濒临堕落的魔法师和最强的灾厄一起冲入魔法世界～ | [萌娘百科](https://zh.moegirl.org.cn/金装的维尔梅～濒临堕落的魔法师和最强的灾厄一起冲入魔法世界～) |
 | ganbare goemon | 大盗五右卫门 |  | [维基百科](https://zh.wikipedia.org/wiki/大盜五右衛門系列) |
 | jikkyou powerful pro yakyuu | 实况力量棒球系列 |  | [维基百科](https://zh.wikipedia.org/wiki/實況野球系列) |
 | dolphin wave | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_240/h_240/215/497891/2024/4/6/629650.webp?x-image-process=image/resize,m_lfit,h_200,w_200/ignore-error,1&image_process=resize,mid,w_200,h_200) 洶湧海豚 | 《Dolphin Wave》（常译作汹涌海豚、海豚波潮等等），为日本游戏开发商株式会社Bullets于2022年推出的手机游戏，并由Marvelous、Honey Parade Games联合出品。 | [维基百科](https://zh.wikipedia.org/wiki/洶湧海豚) |
