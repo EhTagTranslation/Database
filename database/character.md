@@ -6123,7 +6123,7 @@ example:
 | evelyn chevalier | 伊芙琳·舒瓦利耶 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/02/04/15559334/84b1718e8b4c8c85322776c89bac039c_5603416352690327429.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/伊芙琳·舒瓦利耶) |
 | aisha greyrat | 爱夏·格雷拉特 | ![](https://ehgt.org/w/02/035/56390-sjkre8kr.webp)<br>所属作品：`mushoku tensei` | [萌娘百科](https://zh.moegirl.org.cn/爱夏·格雷拉特) |
 | ariel anemoi asura | 爱丽儿·阿涅摩伊·阿斯拉 | ![](https://static.wikia.nocookie.net/mushokutensei/images/5/50/MT-AN-S2-Ariel-FullBody.png)<br>所属作品：`mushoku tensei` | [萌娘百科](https://zh.moegirl.org.cn/爱丽儿·阿涅摩伊·阿斯拉) |
-| linia dedoldia | 莉妮亚娜·泰德路迪亚 | ![](https://ehgt.org/w/01/995/76520-n5gas6uq.webp)<br>所属作品：`mushoku tensei` | [萌娘百科](https://zh.moegirl.org.cn/莉妮亚娜·泰德路迪亚) |
+| linia dedoldia | 莉妮亚娜·泰德路迪亚 | ![](https://static.wikia.nocookie.net/mushokutensei/images/3/37/MT-AN-S2-Linia-FullBody.png)<br>所属作品：`mushoku tensei` | [萌娘百科](https://zh.moegirl.org.cn/莉妮亚娜·泰德路迪亚) |
 | norn greyrat | 诺伦·格雷拉特 | ![](https://ehgt.org/w/01/962/64057-3b7yyi3c.webp)<br>所属作品：`mushoku tensei` | [萌娘百科](https://zh.moegirl.org.cn/诺伦·格雷拉特) |
 | pursena adoldia | 普尔塞娜·亚德路迪亚 | ![](https://ehgt.org/w/02/088/34578-axkjv5x9.webp)<br>所属作品：`mushoku tensei` | [萌娘百科](https://zh.moegirl.org.cn/普尔塞娜·亚德路迪亚) |
 | hiyori shiina | 椎名日和 | ![](https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/f/fb/Hiyori_Shiina_LN_3rd_Year_visual.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e` | [萌娘百科](https://zh.moegirl.org.cn/椎名日和) |
