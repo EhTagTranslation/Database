@@ -14040,6 +14040,7 @@ example:
 | enarizushi | えなりずし |  | [X](https://x.com/donkichikin)<br>[pixiv](https://www.pixiv.net/users/50776295) |
 | night white lily | Night White Lily |  |  |
 | shiso ninniku | 始祖にんにく |  |  |
+| cafe blanc | かふぇぶらん☆ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
