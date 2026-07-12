@@ -600,7 +600,7 @@ example:
 | beniiro kaitenkikou | 红色回转机构 |  |  |
 | gff | GFF |  |  |
 | waffle doumeiken | ワッフル同盟犬 |  |  |
-| raid slash | RAID SLASH |  |  |
+| raid slash | RAID SLASH |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74128/) |
 | colomonyu | ころもにゅ |  |  |
 | umidori | うみどり |  |  |
 | l-gauge sha | Lゲージ社 |  |  |
