@@ -9682,7 +9682,7 @@ example:
 | cheelai | 茨莱 | ![](https://static.wikia.nocookie.net/dragonball/images/a/aa/Cheelai_1.png)<br>出自作品：`p:dragon ball super`<br><br>茨莱（日语：チライ，英语：Chirai），日本动画《龙珠超》剧场版《龙珠超：布罗利》与《龙珠超：超级英雄》中的女性角色。 | [百度百科](https://baike.baidu.com/item/茨莱/23112453) \| [Fandom](https://dragonball.fandom.com/wiki/Cheelai) |
 | kaguya nanbu | 楠舞神夜 | ![](https://static.wikia.nocookie.net/superrobotwars/images/8/8f/Mugen_no_Frontier_Nanbu_Kaguya.jpg/revision/latest?cb=20260405183450)<br>所属作品:`endless frontier` | [百度百科](https://baike.baidu.com/item/楠舞神夜/2535734) |
 | rulership | 统治地位 | ![](https://static.wikia.nocookie.net/umamusume/images/0/05/Rulership_%28Race%29.png)<br>所属作品：`uma musume pretty derby` |  |
-| hana sunomiya | 须宫纱奈 | ![](https://static.wikia.nocookie.net/please-dont-bully-me-nagatoro/images/4/4e/Sunomiya_Anime_Headshot.png)<br>所属作品：`ijiranaide nagatoro-san`<br>日语：須ノ宮 花 |  |
+| hana sunomiya | 须之宫花 | ![](https://static.wikia.nocookie.net/please-dont-bully-me-nagatoro/images/4/4e/Sunomiya_Anime_Headshot.png)<br>所属作品：`ijiranaide nagatoro-san`<br>日语：須ノ宮 花 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
