@@ -15374,6 +15374,7 @@ example:
 | alicecrazy | alicecrazy |  |  |
 | penti | Penti |  | [X](https://x.com/Penti0673) \| [FANBOX](https://penti.fanbox.cc/) \| [Patreon](https://www.patreon.com/cw/penti06731) |
 | inusuku | いぬすく |  |  |
+| ecolu | えこる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
