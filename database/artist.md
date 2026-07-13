@@ -14579,7 +14579,7 @@ example:
 | jihuatong | 计划通 |  |  |
 | juuichi gatsu | 十一月 |  | [pixiv](https://www.pixiv.net/users/15782328) |
 | doukutsu ika | 洞窟イカ | Cave Squid |  |
-| amairo ayame | 甘色アヤメ |  |  |
+| amairo ayame | 甘色アヤメ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=218880/) \| [FANBOX](https://sico-hunter.fanbox.cc/) |
 | momo sumomo | ももすもも |  |  |
 | kakabien | かかびえん | 别名：こいずみけー | [pixiv](https://www.pixiv.net/users/27472745/)<br>[X](https://x.com/kakukukun)<br>[Skeb](https://skeb.jp/@kakukukun) |
 | hachineko | 蜂猫 |  | [pixiv](https://www.pixiv.net/users/54945068)<br>[FANBOX](https://www.fanbox.cc/@makaluvchu) |
