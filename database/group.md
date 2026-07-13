@@ -14044,6 +14044,7 @@ example:
 | galvalume kouhan | ガルバリウム鋼板 |  |  |
 | shise at agepan | 司瀬@あげぱん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30164.html) \| [Ci-en](https://ci-en.dlsite.com/creator/3651) \| [pixiv](https://www.pixiv.net/users/14829049) \| [Fantia](https://fantia.jp/fanclubs/314689) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71655/) |
 | inusuku | いぬすく | 社团代表作为《妹相随 黑白世界的缤纷冒险》 |  |
+| akumehage | アクメハゲ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41058.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
