@@ -2146,7 +2146,7 @@ example:
 | okuni yoshinobu | 小国由喜 |  |  |
 | oreiro | オレイロ |  |  |
 | ndc | NDC |  |  |
-| rocket monkey | 火箭猴 |  |  |
+| rocket monkey | 火箭猴 | 日语：ロケットモンキー | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=24813/) |
 | a-teru haito | A辉废都 |  |  |
 | kusumoto toka | 楠元とうか |  |  |
 | utatane hiroyuki | うたたねひろゆき |  |  |
