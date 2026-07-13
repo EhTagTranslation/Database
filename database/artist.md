@@ -15376,6 +15376,7 @@ example:
 | inusuku | いぬすく |  |  |
 | ecolu | えこる |  |  |
 | everyday2 | everyday2 | 新账号：Dr.Orga | [FANBOX](https://everyday2.fanbox.cc/) \| [FANBOX](https://drorga.fanbox.cc/) \| [X](https://x.com/Orga_Pixiv) \| [pixiv](https://www.pixiv.net/users/107431728) |
+| joe hasegawa | ジョー長谷川 |  | [pixiv](https://www.pixiv.net/users/67673013) |
 
 <!--TEMPLATE:
 |  |  |  |  |
