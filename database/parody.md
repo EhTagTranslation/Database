@@ -2884,6 +2884,7 @@ example:
 | yanineko | 尼古喵喵 | ![](https://storage.moegirl.tw/moegirl/commons/5/5d/Yanineko_01.jpg)<br>《尼古喵喵》（日语：ヤニねこ，英语：Yani Neko）是由NyanNyanFactory（にゃんにゃんファクトリー）创作的日本漫画系列。自2023年2月起在讲谈社的青年漫画杂志《周刊Young Magazine》上连载。<br><br>目前被广大网友称为二次元出生之家<br><br>这是耄啊？？？ | [维基百科](https://zh.wikipedia.org/wiki/尼古喵喵) |
 | koori no jouheki | 冰之城墙 | ![](https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg)<br><br>![](https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_qlbrR.jpg) |  |
 | akane-banashi | 落语朱音 | ![](https://lain.bgm.tv/r/400/pic/cover/l/71/03/576121_sqqIH.jpg) |  |
+| seito kaichou hikaru | 圣徒会长小光 | ![](https://t.vndb.org/cv.t/14/131214.jpg) | [VNDB](https://vndb.org/v2190) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
