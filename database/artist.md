@@ -15373,6 +15373,7 @@ example:
 | kashiwamochi yomogi | 柏餅よもぎ |  | [pixiv](https://www.pixiv.net/users/74048317)<br>[FANBOX](https://momomotakusan.fanbox.cc/)<br>[Skeb](https://skeb.jp/@momomotakusan)<br>[X](https://x.com/momomotakusan) |
 | alicecrazy | alicecrazy |  |  |
 | penti | Penti |  | [X](https://x.com/Penti0673) \| [FANBOX](https://penti.fanbox.cc/) \| [Patreon](https://www.patreon.com/cw/penti06731) |
+| inusuku | いぬすく |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
