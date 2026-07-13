@@ -9691,6 +9691,7 @@ example:
 | nonoa | 惠比寿乃爱（诺诺亚） | ![](https://static.wikia.nocookie.net/25-dimensional-seduction/images/d/d6/Ebisu_Noa_Anime.png)<br>所属作品：`2.5-jigen no yuuwaku` |  |
 | chtholly nota seniorious | 珂朵莉·诺塔·瑟尼欧里斯 | ![](https://static.wikia.nocookie.net/suka-suka/images/a/a6/ChthollyHat.png)<br>所属作品：`shuumatsu nani shitemasu ka isogashii desu ka sukutte moratte ii desu ka`<br>日语：クトリ・ノタ・セニオリス |  |
 | akane osaki | 樱咲朱音 | ![](https://static.wikia.nocookie.net/akane-banashi/images/d/dd/Akane_Osaki_-_anime_design.png)<br>所属作品：`akane-banashi` |  |
+| quetzalpetlatl | 魁特札尔皮特莱特尔 | ![](https://static.wikia.nocookie.net/maid-dragon/images/0/08/Screenshot_2023-08-10_171708_-_Copy.png)<br>所属作品：`kobayashi-san-chi no maid dragon`<br>日语：ケツァルペトラトル |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
