@@ -9692,6 +9692,7 @@ example:
 | chtholly nota seniorious | 珂朵莉·诺塔·瑟尼欧里斯 | ![](https://static.wikia.nocookie.net/suka-suka/images/a/a6/ChthollyHat.png)<br>所属作品：`shuumatsu nani shitemasu ka isogashii desu ka sukutte moratte ii desu ka`<br>日语：クトリ・ノタ・セニオリス |  |
 | akane osaki | 樱咲朱音 | ![](https://static.wikia.nocookie.net/akane-banashi/images/d/dd/Akane_Osaki_-_anime_design.png)<br>所属作品：`akane-banashi` |  |
 | quetzalpetlatl | 魁特札尔皮特莱特尔 | ![](https://static.wikia.nocookie.net/maid-dragon/images/0/08/Screenshot_2023-08-10_171708_-_Copy.png)<br>所属作品：`kobayashi-san-chi no maid dragon`<br>日语：ケツァルペトラトル |  |
+| fantina | 梅丽莎 | ![](https://static.wikia.nocookie.net/pokemon/images/c/c0/Fantina_Brilliant_Diamond_and_Shining_Pearl.png)<br>出自作品：`p:pokemon`<br><br>梅丽莎（日文：メリッサ；英文：Fantina）是游戏《宝可梦》系列中的虚拟角色。 | [神奇宝贝百科](https://wiki.52poke.com/zh-hant/梅麗莎) \| [百度百科](https://baike.baidu.com/item/梅丽莎/78546) \| [Fandom](https://pokemon.fandom.com/wiki/Fantina) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
