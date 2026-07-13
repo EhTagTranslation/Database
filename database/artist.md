@@ -15375,6 +15375,7 @@ example:
 | penti | Penti |  | [X](https://x.com/Penti0673) \| [FANBOX](https://penti.fanbox.cc/) \| [Patreon](https://www.patreon.com/cw/penti06731) |
 | inusuku | いぬすく |  |  |
 | ecolu | えこる |  |  |
+| everyday2 | everyday2 | 新账号：Dr.Orga | [FANBOX](https://everyday2.fanbox.cc/) \| [FANBOX](https://drorga.fanbox.cc/) \| [FANBOX](https://drorga.fanbox.cc/) \| [X](https://x.com/Orga_Pixiv) \| [pixiv](https://www.pixiv.net/users/107431728) |
 
 <!--TEMPLATE:
 |  |  |  |  |
