@@ -9694,6 +9694,7 @@ example:
 | quetzalpetlatl | 魁特札尔皮特莱特尔 | ![](https://static.wikia.nocookie.net/maid-dragon/images/0/08/Screenshot_2023-08-10_171708_-_Copy.png)<br>所属作品：`kobayashi-san-chi no maid dragon`<br>日语：ケツァルペトラトル |  |
 | fantina | 梅丽莎 | ![](https://static.wikia.nocookie.net/pokemon/images/c/c0/Fantina_Brilliant_Diamond_and_Shining_Pearl.png)<br>出自作品：`p:pokemon`<br><br>梅丽莎（日文：メリッサ；英文：Fantina）是游戏《宝可梦》系列中的虚拟角色。 | [神奇宝贝百科](https://wiki.52poke.com/zh-hant/梅麗莎) \| [百度百科](https://baike.baidu.com/item/梅丽莎/78546) \| [Fandom](https://pokemon.fandom.com/wiki/Fantina) |
 | drifblim | 随风球 | ![](https://static.wikia.nocookie.net/pokemon/images/e/ea/0426Drifblim.png)<br>出自作品：`p:pokemon`<br><br>随风球（日文︰フワライド，英文︰Drifblim）是幽灵属性／飞行属性宝可梦。 | [Fandom](https://pokemon.fandom.com/wiki/Drifblim) \| [神奇宝贝百科](https://wiki.52poke.com/zh-hant/随风球) |
+| akari mizunashi | 水无灯里 | ![](https://static.wikia.nocookie.net/aria/images/5/53/Akari_Pre_Timeskip.png)<br>出自作品：`p:aria`<br><br>水无灯里（水無灯里 / みずなしあかり）是由天野梢所创作的漫画《水星领航员》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/水无灯里) \| [Fandom](https://aria.fandom.com/wiki/Akari_Mizunashi) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
