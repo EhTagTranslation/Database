@@ -9701,6 +9701,7 @@ example:
 | fraurem chrome | 芙劳蕾姆·克洛姆 | ![](https://static.wikia.nocookie.net/isekai-nonbiri-nouka-manga-wiki/images/b/b2/Fraurem_Chrome_Anime_Full.png)<br>所属作品：`isekai nonbiri nouka`<br>日语：フラウレム=クローム |  |
 | sena | 赛娜 | ![](https://static.wikia.nocookie.net/isekai-nonbiri-nouka-manga-wiki/images/e/ef/Sena_Anime_Full.png)<br>所属作品：`isekai nonbiri nouka`<br>日语：セナ |  |
 | ann | 安 | ![](https://static.wikia.nocookie.net/isekai-nonbiri-nouka-manga-wiki/images/b/b7/Ann_Anime_Full.png)<br>所属作品：`isekai nonbiri nouka`<br>日语：アン |  |
+| shino azuma | 东紫乃 | ![](https://lain.bgm.tv/r/400/pic/crt/l/45/91/184758_crt_1q7oC.jpg)<br>所属作品：`seihantai na kimi to boku` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
