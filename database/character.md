@@ -9698,6 +9698,7 @@ example:
 | akamaru | 赤丸 | ![](https://static.wikia.nocookie.net/naruto/images/0/09/Akamaru_p1.png)<br>出自作品：`p:naruto`<br><br>赤丸（日语：あかまる，Akamaru），日本漫画《火影忍者》及其衍生作品中的一只忍犬。 | [百度百科](https://baike.baidu.com/item/赤丸/8399) \| [Fandom](https://naruto.fandom.com/wiki/Akamaru) |
 | bonnie anderson | 邦妮·安德森 | 所属作品：`toy story` |  |
 | noriko shiina | 椎名法子 | ![](https://static.wikia.nocookie.net/kangaroos/images/d/de/Shiina_Noriko.png/revision/latest?cb=20230421171031)<br>所属作品: `the idolmaster` Cinderella Girls | [萌娘百科](https://zh.moegirl.org.cn/椎名法子) |
+| fraurem chrome | 芙劳蕾姆·克洛姆 | ![](https://static.wikia.nocookie.net/isekai-nonbiri-nouka-manga-wiki/images/b/b2/Fraurem_Chrome_Anime_Full.png)<br>所属作品：`isekai nonbiri nouka`<br>日语：フラウレム=クローム |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
