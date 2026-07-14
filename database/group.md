@@ -1743,7 +1743,7 @@ example:
 | kinokonomi | きのこのみ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77901/) |
 | pigpanpan | PigPanPan |  |  |
 | yomairi sensei | よまいり先生 |  |  |
-| koniro kajitsu | 紺色果実 |  |  |
+| koniro kajitsu | 绀色果实 |  |  |
 | pandora box | ぱんどらぼっくす |  |  |
 | jekyll and hyde | Jekyll and Hyde |  |  |
 | roentgen | Roentgen |  |  |
