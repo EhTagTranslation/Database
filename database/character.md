@@ -2091,7 +2091,7 @@ example:
 | shiina | 椎名 |  |  |
 | hisako | 久子 |  |  |
 | masami iwasawa | 岩泽雅美 | ![](https://static.wikia.nocookie.net/angelbeats/images/5/58/Iwasawa_visualnovel.png)<br>所属作品：`angel beats`<br>日语：岩沢雅美 |  |
-| miyuki irie | 入江美雪 |  |  |
+| miyuki irie | 入江美雪 | ![](https://static.wikia.nocookie.net/angelbeats/images/a/a8/Irie_visualnovel.png)<br>所属作品：`angel beats`<br>日语：入江みゆき |  |
 | shiori sekine | 关根诗织 |  |  |
 |  | ▼ 干物妹！小埋 |  |  |
 | umaru doma | 土间埋 |  | [萌娘百科](https://zh.moegirl.org.cn/土间埋) |
