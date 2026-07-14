@@ -9702,6 +9702,7 @@ example:
 | sena | 赛娜 | ![](https://static.wikia.nocookie.net/isekai-nonbiri-nouka-manga-wiki/images/e/ef/Sena_Anime_Full.png)<br>所属作品：`isekai nonbiri nouka`<br>日语：セナ |  |
 | ann | 安 | ![](https://static.wikia.nocookie.net/isekai-nonbiri-nouka-manga-wiki/images/b/b7/Ann_Anime_Full.png)<br>所属作品：`isekai nonbiri nouka`<br>日语：アン |  |
 | shino azuma | 东紫乃 | ![](https://lain.bgm.tv/r/400/pic/crt/l/45/91/184758_crt_1q7oC.jpg)<br>所属作品：`seihantai na kimi to boku` |  |
+| serafina de lavillant | 赛拉菲娜·德·拉维兰特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/f4/c8/173044_crt_P30YQ.jpg)<br>所属作品：`himekishi wa barbaroi no yome`<br>日语：セラフィーナ・ド・ラヴィラント |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
