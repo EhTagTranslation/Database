@@ -15379,6 +15379,7 @@ example:
 | joe hasegawa | ジョー長谷川 |  | [pixiv](https://www.pixiv.net/users/67673013) |
 | sukebe rakugaki | sukebe rakugaki | すけいら | [pixiv](https://www.pixiv.net/users/17966818) \| [FANBOX](https://rakugakis.fanbox.cc/) \| [X](https://x.com/skeira2342) \| [Fantia](https://fantia.jp/fanclubs/487702) \| [Ci-en](https://ci-en.dlsite.com/creator/27698) |
 | endo saya | 円堂さや |  | [FANZA](https://book.dmm.co.jp/list/?author=346318) |
+| jigoku no dentaku | 地獄の電卓 |  | [pixiv](https://www.pixiv.net/users/303333) \| [X](https://x.com/6D0QLGlvIncAFNp) |
 
 <!--TEMPLATE:
 |  |  |  |  |
