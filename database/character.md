@@ -2086,7 +2086,7 @@ example:
 | kanade tachibana | 立华奏 | ![](https://static.wikia.nocookie.net/angelbeats/images/8/89/Kanade_visualnovel.png)<br>所属作品：`angel beats`<br>日语：立華かなで |  |
 | yuri nakamura | 仲村由理 | ![](https://static.wikia.nocookie.net/angelbeats/images/d/d4/Yuri_visualnovel.png)<br>所属作品：`angel beats`<br>riyu :仲村ゆり |  |
 | yuzuru otonashi | 音无结弦 | ![](https://static.wikia.nocookie.net/angelbeats/images/8/87/Otonasi_visualnovel.png)<br>所属作品：`angel beats` |  |
-| hideki hinata | 日向秀树 |  |  |
+| hideki hinata | 日向秀树 | ![](https://static.wikia.nocookie.net/angelbeats/images/1/11/Hinata_VN.png)<br>所属作品：`angel beats` |  |
 |  | 由依(重复项) |  |  |
 | shiina | 椎名 |  |  |
 | hisako | 久子 |  |  |
