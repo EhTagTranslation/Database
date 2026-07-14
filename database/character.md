@@ -5894,7 +5894,7 @@ example:
 | superman | 超人 |  | [萌娘百科](https://zh.moegirl.org.cn/超人%28DC漫画%29#) |
 | sethos | 赛索斯 | 赛索斯是米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/赛索斯) |
 | triss merigold | 特莉丝·梅莉葛德 | [萌娘百科](https://zh.moegirl.org.cn/特莉丝·梅莉葛德) |  |
-| yennefer | 叶奈法 |  | [萌娘百科](https://zh.moegirl.org.cn/叶奈法) |
+| yennefer | 叶奈法 | ![](https://static.wikia.nocookie.net/witcher/images/f/f0/The_Witcher_3_Wild_Hunt-Yennefer_of_Vengerberg.png)<br>出自作品：`p:the witcher`<br><br>范格堡的叶奈法（英语：Yennefer of Vengerberg）是《猎魔人系列》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/叶奈法) \| [Fandom](https://witcher.fandom.com/wiki/Yennefer_of_Vengerberg) |
 | ciri | 希里 | 希里，即希里雅·菲欧娜·艾伦·丽安伦（英语：Cirilla Fiona Elen Riannon），是安杰伊·萨普科夫斯基所著系列小说《猎魔人》以及CD Projekt RED所制作的改编游戏《巫师3:狂猎》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/希里雅·菲欧娜·艾伦·丽安伦) |
 | mizuchi miyadeguchi | 宫出口瑞灵 | 宫出口瑞灵是东方Project系列中的官方角色，首次登场于东方智灵奇传，担任智灵奇传的反派角色。 | [THBWiki](https://thwiki.cc/宫出口瑞灵) |
 | kaori miyazono | 宫园薰 | ![](https://ehgt.org/w/01/984/74168-v0bwenfk.webp)<br>所属作品：`shigatsu wa kimi no uso`<br>宫园薰（宮園（みやぞの） かをり） | [萌娘百科](https://zh.moegirl.org.cn/宫园薰)<br>[维基百科](https://zh.wikipedia.org/wiki/四月是你的謊言) |
