@@ -10429,7 +10429,7 @@ example:
 | shounin eden | 聖人エデン |  |  |
 | shouwa kara heisei e | 昭和から平成へ |  |  |
 | shouwa prism | 昭和プリズム |  |  |
-| showa saishuu sensen | 昭和最終戦線 |  |  |
+| showa saishuu sensen | 昭和最終戦線 |  | [Ci-en](https://ci-en.dlsite.com/creator/24416) \| [Fantia](https://fantia.jp/fanclubs/2326) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG17001.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28615/) \| [X](https://x.com/h7u7) |
 | shouyu gohan | しょうゆごはん |  |  |
 | syowajukou | 昭和重工 |  |  |
 | shrine | SHRINE |  |  |
