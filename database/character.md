@@ -9705,6 +9705,7 @@ example:
 | serafina de lavillant | 赛拉菲娜·德·拉维兰特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/f4/c8/173044_crt_P30YQ.jpg)<br>所属作品：`himekishi wa barbaroi no yome`<br>日语：セラフィーナ・ド・ラヴィラント |  |
 | cersei | 洁姿 | ![](https://lain.bgm.tv/r/400/pic/crt/l/67/b8/173046_crt_vuXmg.jpg)<br>所属作品：`himekishi wa barbaroi no yome`<br>日语：ツェツィ |  |
 | azuki momoi | 桃井小豆 | ![](https://static.wikia.nocookie.net/kangaroos/images/8/82/Momoi_Azuki.png/revision/latest?cb=20230530202649)<br>所属作品：`the idolmaster` Cinderella Girls | [萌娘百科](https://zh.moegirl.org.cn/桃井小豆) |
+| saki yoshioka | 吉冈沙纪 | ![](https://patchwiki.biligame.com/images/imascg/c/ca/0saycvjhhz8xsvaf2guanqcw7wqjxli.png)<br>所属作品: `the idolmaster` Cinderella Girls | [萌娘百科](https://zh.moegirl.org.cn/吉冈沙纪) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
