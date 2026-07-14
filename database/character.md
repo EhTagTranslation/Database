@@ -2083,7 +2083,7 @@ example:
 | mariana prinsilla | 玛莉安娜·普林希拉 | ![](https://static.wikia.nocookie.net/photo-kano/images/8/8b/Mariana_Prinsilla.jpg)<br>出自作品：`p:reco love`<br>日语：マリアーナ・プリンシラ | [Fandom](https://sweet-one.fandom.com/wiki/Mariana_Prinsilla) |
 | miu sagara | 相良美宇 |  |  |
 |  | ▼ angel beats! |  |  |
-| kanade tachibana | 立华奏 | ![图](https://ehgt.org/92/66/92660f1f548615ca22672528b866ac4d062d569d-10994451-4912-6996-jpg_l.jpg)![图](https://ehgt.org/74/d9/74d99381c0f0d8910d67f85d5abc8081fe0dd30d-3386558-2114-3001-jpg_l.jpg)![图](https://ehgt.org/3d/11/3d11aeebe05cb3b6e2277d4d3c94813915c25720-630016-1000-1000-jpg_l.jpg)![图](https://ehgt.org/64/e8/64e8107c03d46b930059ea5fabc1ab202caca9ec-1165368-1131-1600-jpg_l.jpg)![图](# "https://ehgt.org/2b/f2/2bf2b7af263ff2986d75e09e94960c84e6c58b2d-337759-1240-1754-jpg_l.jpg")![图](# "https://ehgt.org/dd/b9/ddb9f21c2ee00463664fa4f698bcb93fe3861db5-2022525-1138-1600-png_l.jpg") |  |
+| kanade tachibana | 立华奏 | ![](https://static.wikia.nocookie.net/angelbeats/images/8/89/Kanade_visualnovel.png)<br>所属作品：`angel beats` |  |
 | yuri nakamura | 仲村由理 | ![图](https://ehgt.org/9e/be/9ebe20001823c83bbf4ec09cbaa25cad8290a627-11384914-4912-6996-jpg_l.jpg)![图](https://ehgt.org/e8/86/e886b4ed1cdc2225ced072d304e2b6c0b5dc0684-203927-1000-1397-jpg_l.jpg) |  |
 | yuzuru otonashi | 音无结弦 |  |  |
 | hideki hinata | 日向秀树 |  |  |
