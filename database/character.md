@@ -2083,7 +2083,7 @@ example:
 | mariana prinsilla | 玛莉安娜·普林希拉 | ![](https://static.wikia.nocookie.net/photo-kano/images/8/8b/Mariana_Prinsilla.jpg)<br>出自作品：`p:reco love`<br>日语：マリアーナ・プリンシラ | [Fandom](https://sweet-one.fandom.com/wiki/Mariana_Prinsilla) |
 | miu sagara | 相良美宇 |  |  |
 |  | ▼ angel beats! |  |  |
-| kanade tachibana | 立华奏 | ![](https://static.wikia.nocookie.net/angelbeats/images/8/89/Kanade_visualnovel.png)<br>所属作品：`angel beats` |  |
+| kanade tachibana | 立华奏 | ![](https://static.wikia.nocookie.net/angelbeats/images/8/89/Kanade_visualnovel.png)<br>所属作品：`angel beats`<br>日语：立華かなで |  |
 | yuri nakamura | 仲村由理 | ![](https://static.wikia.nocookie.net/angelbeats/images/d/d4/Yuri_visualnovel.png)<br>所属作品：`angel beats`<br>riyu :仲村ゆり |  |
 | yuzuru otonashi | 音无结弦 | ![](https://static.wikia.nocookie.net/angelbeats/images/8/87/Otonasi_visualnovel.png)<br>所属作品：`angel beats` |  |
 | hideki hinata | 日向秀树 |  |  |
