@@ -2886,6 +2886,7 @@ example:
 | akane-banashi | 落语朱音 | ![](https://lain.bgm.tv/r/400/pic/cover/l/71/03/576121_sqqIH.jpg) |  |
 | seito kaichou hikaru | 圣徒会长小光 | ![](https://t.vndb.org/cv.t/14/131214.jpg) | [VNDB](https://vndb.org/v2190) |
 | toy story | 玩具总动员系列 | ![](https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg) |  |
+| himekishi wa barbaroi no yome | 女骑士成为蛮族新娘 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cb/cf/516543_103zp.jpg)<br>日语：姫騎士は蛮族の嫁 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
