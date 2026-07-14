@@ -9700,6 +9700,7 @@ example:
 | noriko shiina | 椎名法子 | ![](https://static.wikia.nocookie.net/kangaroos/images/d/de/Shiina_Noriko.png/revision/latest?cb=20230421171031)<br>所属作品: `the idolmaster` Cinderella Girls | [萌娘百科](https://zh.moegirl.org.cn/椎名法子) |
 | fraurem chrome | 芙劳蕾姆·克洛姆 | ![](https://static.wikia.nocookie.net/isekai-nonbiri-nouka-manga-wiki/images/b/b2/Fraurem_Chrome_Anime_Full.png)<br>所属作品：`isekai nonbiri nouka`<br>日语：フラウレム=クローム |  |
 | sena | 赛娜 | ![](https://static.wikia.nocookie.net/isekai-nonbiri-nouka-manga-wiki/images/e/ef/Sena_Anime_Full.png)<br>所属作品：`isekai nonbiri nouka`<br>日语：セナ |  |
+| ann | 安 | ![](https://static.wikia.nocookie.net/isekai-nonbiri-nouka-manga-wiki/images/b/b7/Ann_Anime_Full.png)<br>所属作品：`isekai nonbiri nouka`<br>日语：アン |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
