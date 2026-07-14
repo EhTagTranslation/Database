@@ -4565,7 +4565,7 @@ example:
 | eroitto | エロイット |  |  |
 | eroliya | えろり屋 |  |  |
 | eromafia | エロマフィア |  |  |
-| eromazun | エロマズン |  |  |
+| eromazun | エロマズン |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG16563.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27481/) |
 | eronamin h | エロナミンH |  |  |
 | erondo | eRONDO |  |  |
 | eroro | Eroro |  |  |
