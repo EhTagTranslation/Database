@@ -4595,7 +4595,7 @@ example:
 | aoi matsubara | 松原葵 |  |  |
 | koyomi mizuhara | 水原历 | ![](https://static.wikia.nocookie.net/azumanga/images/6/68/Koyomi_Mizuhara_full_body.jpg/revision/latest?cb=20140107012050)<br>所属作品:`azumanga daioh` | [Fandom](https://azumanga.fandom.com/wiki/Koyomi_Mizuhara) |
 | osaka | 大阪 | 春日步 |  |
-| sakaki | 榊 |  |  |
+| sakaki | 榊 | ![](https://static.wikia.nocookie.net/azumanga/images/2/21/SakakiAnime.jpg)<br>出自作品：`p:azumanga daioh`<br><br>榊（日语：さかき / Sakaki），是日本漫画《阿滋漫画大王》及其衍生作品中的角色。 | [百度百科](https://baike.baidu.com/item/榊/18438024) \| [Fandom](https://azumanga.fandom.com/wiki/Sakaki) |
 | tomo takino | 泷野智 |  |  |
 | chiyo mihama | 美滨千代 |  |  |
 | riza wildman | 丽莎·瓦德曼 |  |  |
