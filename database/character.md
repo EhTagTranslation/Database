@@ -9693,7 +9693,7 @@ example:
 | akane osaki | 樱咲朱音 | ![](https://static.wikia.nocookie.net/akane-banashi/images/d/dd/Akane_Osaki_-_anime_design.png)<br>所属作品：`akane-banashi` |  |
 | quetzalpetlatl | 魁特札尔皮特莱特尔 | ![](https://static.wikia.nocookie.net/maid-dragon/images/0/08/Screenshot_2023-08-10_171708_-_Copy.png)<br>所属作品：`kobayashi-san-chi no maid dragon`<br>日语：ケツァルペトラトル |  |
 | fantina | 梅丽莎 | ![](https://static.wikia.nocookie.net/pokemon/images/c/c0/Fantina_Brilliant_Diamond_and_Shining_Pearl.png)<br>出自作品：`p:pokemon`<br><br>梅丽莎（日文：メリッサ；英文：Fantina）是游戏《宝可梦》系列中的虚拟角色。 | [神奇宝贝百科](https://wiki.52poke.com/zh-hant/梅麗莎) \| [百度百科](https://baike.baidu.com/item/梅丽莎/78546) \| [Fandom](https://pokemon.fandom.com/wiki/Fantina) |
-| drifblim | 随风球 | ![](https://static.wikia.nocookie.net/pokemon/images/e/ea/0426Drifblim.png)<br>出自作品：`p:pokemon`<br><br>随风球（日文︰フワライド，英文︰Drifblim）是幽灵属性／飞行属性宝可梦。 | [Fandom](https://pokemon.fandom.com/wiki/Drifblim) \| [神奇宝贝百科](https://wiki.52poke.com/zh-hant/随风球) |
+| drifblim | 随风球 | ![](https://static.wikia.nocookie.net/pokemon/images/e/ea/0426Drifblim.png)<br>出自作品：`p:pokemon`<br>日语︰フワライド | [Fandom](https://pokemon.fandom.com/wiki/Drifblim) \| [神奇宝贝百科](https://wiki.52poke.com/zh-hant/随风球) |
 | akari mizunashi | 水无灯里 | ![](https://lain.bgm.tv/r/400/pic/crt/l/11/ac/11598_crt_Yg2ox.jpg?r=1710444701)<br>出自作品：`p:aria`<br>日语：水無灯里 / みずなしあかり | [萌娘百科](https://zh.moegirl.org.cn/水无灯里) \| [Fandom](https://aria.fandom.com/wiki/Akari_Mizunashi) |
 | akamaru | 赤丸 | ![](https://static.wikia.nocookie.net/naruto/images/0/09/Akamaru_p1.png)<br>出自作品：`p:naruto`<br><br>赤丸（日语：あかまる，Akamaru），日本漫画《火影忍者》及其衍生作品中的一只忍犬。 | [百度百科](https://baike.baidu.com/item/赤丸/8399) \| [Fandom](https://naruto.fandom.com/wiki/Akamaru) |
 | bonnie anderson | 邦妮·安德森 | 所属作品：`toy story` |  |
