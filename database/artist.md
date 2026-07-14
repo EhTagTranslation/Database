@@ -15381,6 +15381,7 @@ example:
 | endo saya | 円堂さや |  | [FANZA](https://book.dmm.co.jp/list/?author=346318) |
 | jigoku no dentaku | 地獄の電卓 |  | [pixiv](https://www.pixiv.net/users/303333) \| [X](https://x.com/6D0QLGlvIncAFNp) |
 | lancer | らんすer |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22らんすer%22/ana_flg/all) |
+| 3x3 | 3×3(さざん) |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%223×3%28さざん%29%22/ana_flg/all) |
 
 <!--TEMPLATE:
 |  |  |  |  |
