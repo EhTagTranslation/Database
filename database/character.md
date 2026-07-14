@@ -9706,6 +9706,7 @@ example:
 | cersei | 洁姿 | ![](https://lain.bgm.tv/r/400/pic/crt/l/67/b8/173046_crt_vuXmg.jpg)<br>所属作品：`himekishi wa barbaroi no yome`<br>日语：ツェツィ |  |
 | azuki momoi | 桃井小豆 | ![](https://static.wikia.nocookie.net/kangaroos/images/8/82/Momoi_Azuki.png/revision/latest?cb=20230530202649)<br>所属作品：`the idolmaster` Cinderella Girls | [萌娘百科](https://zh.moegirl.org.cn/桃井小豆) |
 | saki yoshioka | 吉冈沙纪 | ![](https://patchwiki.biligame.com/images/imascg/c/ca/0saycvjhhz8xsvaf2guanqcw7wqjxli.png)<br>所属作品: `the idolmaster` Cinderella Girls | [萌娘百科](https://zh.moegirl.org.cn/吉冈沙纪) |
+| karin domyoji | 道明寺歌铃 | ![](https://patchwiki.biligame.com/images/imascg/3/3b/984yw489jwgbd6341evxflo3ch3ggya.png)<br>所属作品: `the idolmaster` Cinderella Girls | [萌娘百科](https://zh.moegirl.org.cn/道明寺歌铃)<br>[BILIGAME WIKI](https://wiki.biligame.com/imascg/道明寺歌铃) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
