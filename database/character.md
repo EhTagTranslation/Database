@@ -6720,7 +6720,7 @@ example:
 | poporon | 波波隆 | 波波隆（ぽぽろん）是由ユキヲ所创作的漫画《邪神与厨二病少女》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/波波隆) |
 | minos | 米诺斯 | 米诺斯（ミノス）是由ユキヲ所创作的漫画《邪神与厨二病少女》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/米诺斯%28邪神与厨二病少女%29) |
 | kyon-kyon | 僵僵 | 僵僵（キョンキョン）是由ユキヲ所创作的漫画《邪神与厨二病少女》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/僵僵) |
-| yusa | 游佐 | 游佐（日语：遊佐）是由ユキヲ所创作的漫画《邪神与厨二病少女》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/游佐%28邪神与厨二病少女%29) |
+| yusa | 游佐 | ①所属作品：`angel beats`<br>![](https://static.wikia.nocookie.net/angelbeats/images/e/ec/Ab_character_yusa_image.png)<br>②所属作品：`jashin-chan dropkick`<br>![](https://static.wikia.nocookie.net/jashinchan/images/d/d7/Yusa.png) | [萌娘百科](https://zh.moegirl.org.cn/游佐%28邪神与厨二病少女%29) |
 | ecute | 伊库特 | 伊库特（日语：エキュート）是由ユキヲ所创作的漫画《邪神与厨二病少女》及其衍生作品的登场角色。 |  |
 | atre | 亚特蕾 | 亚特蕾（日语：アトレ）是由ユキヲ所创作的漫画《邪神与厨二病少女》及其衍生作品的登场角色。 |  |
 | lierre | 莉薇露 | 莉薇露（日语：リエール）是由ユキヲ所创作的漫画《邪神与厨二病少女》及其衍生作品的登场角色。 |  |
