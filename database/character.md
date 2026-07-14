@@ -9697,6 +9697,7 @@ example:
 | akari mizunashi | 水无灯里 | ![](https://static.wikia.nocookie.net/aria/images/5/53/Akari_Pre_Timeskip.png)<br>出自作品：`p:aria`<br><br>水无灯里（水無灯里 / みずなしあかり）是由天野梢所创作的漫画《水星领航员》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/水无灯里) \| [Fandom](https://aria.fandom.com/wiki/Akari_Mizunashi) |
 | akamaru | 赤丸 | ![](https://static.wikia.nocookie.net/naruto/images/0/09/Akamaru_p1.png)<br>出自作品：`p:naruto`<br><br>赤丸（日语：あかまる，Akamaru），日本漫画《火影忍者》及其衍生作品中的一只忍犬。 | [百度百科](https://baike.baidu.com/item/赤丸/8399) \| [Fandom](https://naruto.fandom.com/wiki/Akamaru) |
 | bonnie anderson | 邦妮·安德森 | 所属作品：`toy story` |  |
+| noriko shiina | 椎名法子 | ![](https://static.wikia.nocookie.net/kangaroos/images/d/de/Shiina_Noriko.png/revision/latest?cb=20230421171031)<br>所属作品: `the idolmaster` Cinderella Girls | [萌娘百科](https://zh.moegirl.org.cn/椎名法子) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
