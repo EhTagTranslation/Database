@@ -2092,7 +2092,7 @@ example:
 | hisako | 久子 |  |  |
 | masami iwasawa | 岩泽雅美 | ![](https://static.wikia.nocookie.net/angelbeats/images/5/58/Iwasawa_visualnovel.png)<br>所属作品：`angel beats`<br>日语：岩沢雅美 |  |
 | miyuki irie | 入江美雪 | ![](https://static.wikia.nocookie.net/angelbeats/images/a/a8/Irie_visualnovel.png)<br>所属作品：`angel beats`<br>日语：入江みゆき |  |
-| shiori sekine | 关根诗织 |  |  |
+| shiori sekine | 关根诗织 | ![](https://static.wikia.nocookie.net/angelbeats/images/d/d8/Ab_character_sekine_image.png)<br>所属作品：`angel beats`<br>日语：関根しおり |  |
 |  | ▼ 干物妹！小埋 |  |  |
 | umaru doma | 土间埋 |  | [萌娘百科](https://zh.moegirl.org.cn/土间埋) |
 | taihei doma | 土间大平 |  | [萌娘百科](https://zh.moegirl.org.cn/土间大平) |
