@@ -8421,7 +8421,7 @@ example:
 | yuta okkotsu | 乙骨忧太 | ![](https://thumbsnap.com/i/bz7wtjMA.jpg)<br>出自作品：`p:jujutsu kaisen`<br><br>乙骨忧太（日语：乙骨（おつこつ） 憂太（ゆうた））是由芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/乙骨忧太) |
 | euphausia etoreika | 尤法西娅·艾托蕾卡 | ![](https://static.wikia.nocookie.net/megamitensei/images/b/b0/Eupha.png/revision/latest?cb=20240930145554)<br>所属作品:`metaphor refantazio` | [百度百科](https://baike.baidu.com/item/尤法西娅·艾托蕾卡/65129965)<br>[Fandom](https://megamitensei.fandom.com/wiki/Euphausia_Etoreika) |
 | meiya mitsurugi | 御剑冥夜 | ![](https://static.wikia.nocookie.net/muvluv/images/6/6f/Meiya_Chronicles_04_Uniform.png)<br>所属作品：`muv-luv` |  |
-| beatrix brehme | 贝娅特丽克丝·布莱梅 | ![](https://static.wikia.nocookie.net/muvluv/images/8/82/Beatrix_Fortified_Suit_1.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Beatrix_Brehme) |
+| beatrix brehme | 贝娅特丽克丝·布莱梅 | ![](https://static.wikia.nocookie.net/muvluv/images/5/5f/Beatrix_BDU_1.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Beatrix_Brehme) |
 | sumika kagami | 鉴纯夏 | ![](https://static.wikia.nocookie.net/muvluv/images/c/c5/Sumika_AF_Swimsuit.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Kagami_Sumika) |
 | takeru shirogane | 白银武 | ![](https://static.wikia.nocookie.net/muvluv/images/b/b6/Takeru_AF_School_Uniform.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Shirogane_Takeru) |
 | inia sestina | 伊妮亚·谢斯切娜 | ![](https://static.wikia.nocookie.net/muvluv/images/d/dd/Inia_TE_Winter_Jacket.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Inia_Sestina) |
