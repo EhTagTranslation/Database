@@ -2090,7 +2090,7 @@ example:
 |  | 由依(重复项) |  |  |
 | shiina | 椎名 |  |  |
 | hisako | 久子 |  |  |
-| masami iwasawa | 岩泽雅美 |  |  |
+| masami iwasawa | 岩泽雅美 | ![](https://static.wikia.nocookie.net/angelbeats/images/5/58/Iwasawa_visualnovel.png)<br>所属作品：`angel beats`<br>日语：岩沢雅美 |  |
 | miyuki irie | 入江美雪 |  |  |
 | shiori sekine | 关根诗织 |  |  |
 |  | ▼ 干物妹！小埋 |  |  |
