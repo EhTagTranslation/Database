@@ -2885,6 +2885,7 @@ example:
 | koori no jouheki | 冰之城墙 | ![](https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg)<br><br>![](https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_qlbrR.jpg) |  |
 | akane-banashi | 落语朱音 | ![](https://lain.bgm.tv/r/400/pic/cover/l/71/03/576121_sqqIH.jpg) |  |
 | seito kaichou hikaru | 圣徒会长小光 | ![](https://t.vndb.org/cv.t/14/131214.jpg) | [VNDB](https://vndb.org/v2190) |
+| toy story | 玩具总动员系列 | ![](https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
