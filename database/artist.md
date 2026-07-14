@@ -5526,7 +5526,7 @@ example:
 | hanasaki | 華咲 |  |  |
 | hanasaku mahiru | 花咲まひる |  |  |
 | hanataka retomo | はなたかれとも |  |  |
-| hanauna | はなうな |  |  |
+| hanauna | はなうな |  | [pixiv](https://www.pixiv.net/users/381076) \| [X](https://x.com/h7u7) |
 | hanazawa suou | 花澤すおう |  |  |
 | hanchou | 班長 |  |  |
 | handa | handa |  |  |
