@@ -9445,7 +9445,7 @@ example:
 | mana kase | 嘉濑茉奈 | ![](https://static.wikia.nocookie.net/d4dj/images/6/6d/Kase_Mana.png)<br>日语：嘉瀬茉奈<br>所属作品：`dig delight direct drive dj` |  |
 | shano himegami | ‌姬神纱乃 | ![](https://static.wikia.nocookie.net/d4dj/images/b/bf/Himegami_Shano_Img.png)<br>日语：姫神紗乃<br>所属作品：`dig delight direct drive dj` |  |
 | airi amano | 天野愛莉 | ![](https://static.wikia.nocookie.net/d4dj/images/a/a3/Amano_Airi_Img.png)<br>日语：天野愛莉<br>所属作品：`dig delight direct drive dj` |  |
-| nolan grayson | 诺兰·格雷森 | ![](https://static.wikia.nocookie.net/amazon-invincible/images/8/89/Omni-Man_S2.png)<br>所属作品：`invincible` |  |
+| nolan grayson | 全能侠 | ![](https://static.wikia.nocookie.net/amazon-invincible/images/8/89/Omni-Man_S2.png)<br>本名：诺兰·格雷森<br>所属作品：`invincible` |  |
 | zoe thompson | 科技夹克 | ![](https://static.wikia.nocookie.net/amazon-invincible/images/9/99/Zoe_Thompson.jpeg)<br>本名扎克·汤普森（Zack Thompson）<br>所属作品：`invincible` |  |
 | gsc president | 联邦学生会长 | ![](https://static.wikia.nocookie.net/blue-archive/images/c/ce/GSC_President_Portrait.png)<br>日语：連邦生徒会長<br>所属作品：`blue archive` |  |
 | shushu tina | 舒舒蒂纳 | ![](https://pbs.twimg.com/profile_images/1819700195786936320/6SAhZe_D_400x400.jpg)<br>日语：しゅしゅ てぃな<br>个人势Vtuber。 | [YouTube](https://www.youtube.com/@ShushuTina) \| [X](https://x.com/shushu_tina) |
