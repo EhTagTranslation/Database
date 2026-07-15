@@ -13807,7 +13807,7 @@ example:
 | kusuriyubi | くすりゆび |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79831/) |
 | circle higani | サークルひがに |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01035273.html) \| [DLsite](https://ci-en.dlsite.com/creator/28129) |
 | futatsu musubi | ふたつむすび |  |  |
-| sakura shiina | 佐倉シイナ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202077/) |
+| sakura shiina | 佐倉シイナ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202077/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG55792.html) |
 | gomu gomu | ゴムゴム |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=215225/) |
 | radio tower | radio tower |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53609.html) |
 | hagakure | 葉が紅 |  |  |
