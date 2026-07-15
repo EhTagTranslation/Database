@@ -14533,7 +14533,7 @@ example:
 | suzuran mashiro | 鈴蘭ましろ |  |  |
 | mayaman | まやまん |  | [pixiv](https://www.pixiv.net/users/117723807) |
 | agumeru | あぐめる |  |  |
-| tokupyon | とくぴょん |  |  |
+| tokupyon | とくぴょん |  | [FANBOX](https://ardnades.fanbox.cc/) \| [X](https://x.com/ardnades) \| [pixiv](https://www.pixiv.net/users/42479) \| [Pawoo](https://pawoo.net/@ardnades) \| [Fantia](https://fantia.jp/ardnades) \| [Skeb](https://skeb.jp/@ardnades) |
 | kasai | 葛西 |  |  |
 | ameno kaeru | 飴音かえる |  |  |
 | siohuu | しおふう |  | [pixiv](https://www.pixiv.net/users/78452156) [pixiv](https://www.pixiv.net/users/5505413) |
