@@ -9728,6 +9728,7 @@ example:
 | gepard landau | 杰帕德•朗道 | ![](https://patchwiki.biligame.com/images/sr/thumb/7/78/h9tiuv0bwbt6n3c0rk42eer1u2bgajo.png/1350px-杰帕德立绘.png)<br>所属作品：`honkai star rail` |  |
 | argenti | 银枝 | ![](https://patchwiki.biligame.com/images/sr/thumb/a/a4/mtoe12lzwhcgk4ajjpioyv1cshr9j3t.png/1350px-银枝立绘.png)<br>所属作品：`honkai star rail` |  |
 | pom-pom | 帕姆 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/NPC_Pom-Pom.png)<br>所属作品：`honkai star rail`<br>星穹列车列车长。 |  |
+| lucilla | 洛瑟菈‌ | ![](https://static.wikia.nocookie.net/wutheringwaves/images/8/88/Lucilla_Full_Sprite.png)<br>所属作品：`wuthering waves` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
