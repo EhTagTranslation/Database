@@ -7918,7 +7918,7 @@ example:
 | mine | 玛茵 | ![](https://ehgt.org/w/01/970/38375-fjmo8sh9.webp)<br>所属作品：`akame ga kill`<br>Night Raid成员，个性强势，自称射击的天才，双马尾傲娇属性。 |  |
 | tatsumi | 塔兹米 | ![](https://static.wikia.nocookie.net/akamegakill/images/1/1e/Tatsumi_main.png)<br>所属作品：`akame ga kill` |  |
 | tessia eralith | 提西娅·艾拉利斯 | ![](https://ehgt.org/w/01/822/76003-vdi06sum.webp)<br>所属作品：`the beginning after the end` |  |
-| michiru tojo | 都条未知留 | ![](https://dwave.softstar.com.tw/skin/assets/img/chara/michiru-tojo/img_chara.png)<br>所属作品：`dolphin wave` |  |
+| michiru tojo | 都条未知留 | ![](https://static.wikia.nocookie.net/dolphin-wave/images/8/88/DW_Michiru_Render.png)<br>所属作品：`dolphin wave` |  |
 | shion suminoe | 住乃绘紫苑 | ![](https://dwave.softstar.com.tw/skin/assets/data/webp/chara/shion-suminoe/img_chara.png.webp)<br>所属作品：`dolphin wave` |  |
 | yume yamaba | 山叶由芽 | ![](https://dwave.softstar.com.tw/skin/assets/img/chara/yume-yamaba/img_chara.png)<br>所属作品：`dolphin wave` |  |
 | iruka sakimiya | 咲宫入华 | ![](https://static.wikia.nocookie.net/multiversal-rulers/images/b/bb/Iruka_Sakimiya_Prepared.png)<br>所属作品：`dolphin wave` |  |
