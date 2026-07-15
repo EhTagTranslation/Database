@@ -7855,7 +7855,7 @@ example:
 | cure summer | 夏海真夏 (夏日天使) | ![](https://static.wikia.nocookie.net/prettycure/images/0/03/ManatsuSummer.png)<br>日语：夏海まなつ（なつうみ まなつ）<br>所属作品：`tropical-rouge precure` | [萌娘百科](https://moegirl.uk/夏海真夏) |
 | believe | 信念 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/4/40/36z7e1rbf9vflkqyvsn0kkhh900spdw.png/600px-Yf_1095.png)<br>所属作品：`uma musume pretty derby` |  |
 | darley arabian | 达利阿拉伯 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/44/UPDCH_DarleyArabian_00.png)<br>所属作品：`uma musume pretty derby` |  |
-| jiaoqiu | 椒丘 | ![](https://patchwiki.biligame.com/images/sr/thumb/b/b5/h2u3h7qkujl7t1vrdydgcbsouu717qc.png/1350px-椒丘立绘.png)<br>所属作品：`honkai star rail`<br>仙舟「曜青」的狐人医士、策士，出身丹鼎司名家。 |  |
+| jiaoqiu | 椒丘 | ![](https://patchwiki.biligame.com/images/sr/thumb/b/b5/h2u3h7qkujl7t1vrdydgcbsouu717qc.png/1350px-椒丘立绘.png)<br>所属作品：`honkai star rail` |  |
 | rubick | 拉比克 | ![](https://liquipedia.net/commons/images/1/14/Cosmetic_icon_Stargazer%27s_Curiosity.png)<br>所属作品：`defense of the ancients` |  |
 | lumi | 灯灯 | ![](https://mc.appfeng.com/ui/avatar/T_IconRole_Pile_dengdeng_UI.png)<br>所属作品：`wuthering waves`<br>呜呜物流的领航员，运输队的小组长。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/灯灯) |
 | queen annes revenge | 安妮女王复仇号 | ![](https://patchwiki.biligame.com/images/blhx/thumb/e/e9/6ra3jz15i9tdymsphauw4h9dalsef3a.jpg/525px-安妮女王复仇号立绘.jpg)<br>![](https://patchwiki.biligame.com/images/blhx/thumb/c/ca/0xbo09nuh5916nln75wtshcwp593pho.jpg/525px-安妮女王复仇号换装.jpg)<br>所属作品：`azur lane` | [BILIGAME WIKI](https://wiki.biligame.com/blhx/安妮女王复仇号) |
