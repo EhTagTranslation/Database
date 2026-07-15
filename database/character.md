@@ -9723,6 +9723,7 @@ example:
 | veritas ratio | 维里塔斯•拉帝奥 | ![](https://patchwiki.biligame.com/images/sr/thumb/1/1d/925f4ivd1q8z4uxmwmrz11wjfpgxq7v.png/1350px-真理医生立绘.png)<br>所属作品：`honkai star rail`<br>别称：真理医生 |  |
 | luca | 卢卡 | ![](https://patchwiki.biligame.com/images/sr/thumb/5/5f/iz3rzu7mg628rqzz1k44feiw8yp1u8o.png/1350px-卢卡立绘.png)<br>所属作品：`honkai star rail` |  |
 | luocha | 罗刹 | ![](https://patchwiki.biligame.com/images/sr/thumb/b/bb/83jmlw7ocallvy5kl0hwwujl1k0omdk.png/1350px-罗刹立绘.png)<br>所属作品：`honkai star rail` |  |
+| anaxa | 那刻夏 | ![](https://patchwiki.biligame.com/images/sr/thumb/1/11/kxfzce61y48elc76qwlla3979fwt9o7.png/1350px-那刻夏立绘.png)<br>所属作品：`honkai star rail`<br>全名：阿那克萨戈拉斯 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
