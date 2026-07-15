@@ -9729,6 +9729,7 @@ example:
 | argenti | 银枝 | ![](https://patchwiki.biligame.com/images/sr/thumb/a/a4/mtoe12lzwhcgk4ajjpioyv1cshr9j3t.png/1350px-银枝立绘.png)<br>所属作品：`honkai star rail` |  |
 | pom-pom | 帕姆 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/5/5f/NPC_Pom-Pom.png)<br>所属作品：`honkai star rail`<br>星穹列车列车长。 |  |
 | lucilla | 洛瑟菈‌ | ![](https://static.wikia.nocookie.net/wutheringwaves/images/8/88/Lucilla_Full_Sprite.png)<br>所属作品：`wuthering waves` |  |
+| kuusetsu | 空折 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/f/fa/Kuusetsu_visual_anime.png)<br>所属作品：`mato seihei no slave` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
