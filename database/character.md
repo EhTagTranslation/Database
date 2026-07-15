@@ -9731,6 +9731,7 @@ example:
 | lucilla | 洛瑟菈‌ | ![](https://static.wikia.nocookie.net/wutheringwaves/images/8/88/Lucilla_Full_Sprite.png)<br>所属作品：`wuthering waves` |  |
 | kuusetsu | 空折 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/f/fa/Kuusetsu_visual_anime.png)<br>所属作品：`mato seihei no slave` |  |
 | yakumo ezo | 虾夷夜云 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/7/78/Yakumo_Ezo_S2.webp)<br>所属作品：`mato seihei no slave`<br>日语：蝦夷 夜雲 |  |
+| aoba wakura | 和仓青羽 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/8/8b/Aoba_Wakura_anime_design.png)<br>所属作品：`mato seihei no slave` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
