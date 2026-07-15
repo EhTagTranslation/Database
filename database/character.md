@@ -9736,6 +9736,7 @@ example:
 | konomi tatara | 多多良木乃实 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/f/f0/Konomi_Tatara_S2.webp)<br>所属作品：`mato seihei no slave`<br>日语：多々良 木乃実 |  |
 | naon yuno | 汤野波音 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/d/d1/Naon_Yuno_anime_design.png)<br>所属作品：`mato seihei no slave`<br>日语：湯野波音 |  |
 | nei okawamura | 大川村宁 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/1/1f/Nei_Ookawamura_S2.webp)<br>所属作品：`mato seihei no slave` |  |
+| tobera azuma | 东海桐花 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/2/29/Tobera_Azuma_S2.webp)<br>所属作品：`mato seihei no slave` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
