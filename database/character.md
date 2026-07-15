@@ -9717,6 +9717,7 @@ example:
 | mark grayson | 无敌少侠 | ![](https://static.wikia.nocookie.net/amazon-invincible/images/a/a3/Invincible_%28Mark_Grayson%29.png)<br>本名：马克·格雷森<br>所属作品：`invincible` |  |
 | amanda | 怪兽女孩 | ![](https://static.wikia.nocookie.net/amazon-invincible/images/2/29/Amanda.png)<br>本名：阿曼达<br>所属作品：`invincible` |  |
 | vill-v | 维尔薇 | ![](https://static.wikia.nocookie.net/hoducks/images/1/18/Helical_Contraption.png)<br>所属作品：`honkai gakuen` |  |
+| deedlit | 蒂德莉特 | ![](https://patchwiki.biligame.com/images/langrisser/thumb/f/f0/t7m8sw8sfle1v5dipkdyrso94dnodpy.png/1536px-立绘_蒂德莉特.png)<br>所属作品：`lodoss-tou senki`<br>日语：ディードリット |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
