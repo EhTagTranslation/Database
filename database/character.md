@@ -9719,6 +9719,7 @@ example:
 | vill-v | 维尔薇 | ![](https://static.wikia.nocookie.net/hoducks/images/1/18/Helical_Contraption.png)<br>所属作品：`honkai gakuen` |  |
 | deedlit | 蒂德莉特 | ![](https://patchwiki.biligame.com/images/langrisser/thumb/f/f0/t7m8sw8sfle1v5dipkdyrso94dnodpy.png/1536px-立绘_蒂德莉特.png)<br>所属作品：`lodoss-tou senki`<br>日语：ディードリット |  |
 | welt yang | 瓦尔特•杨 | ![](https://patchwiki.biligame.com/images/sr/thumb/2/23/fvhf6r7z5iecu1n0zs1qb6yeuqi2fds.png/1350px-瓦尔特立绘.png)<br>所属作品：`honkai star rail` |  |
+| gallagher | 加拉赫 | ![](https://patchwiki.biligame.com/images/sr/thumb/f/fb/hv8b1bfbyhlm21glkzl9nl5r5rjsc5h.png/1350px-加拉赫立绘.png)<br>所属作品：`honkai star rail` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
