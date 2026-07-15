@@ -15383,6 +15383,7 @@ example:
 | lancer | らんすer |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22らんすer%22/ana_flg/all) |
 | 3x3 | 3×3(さざん) |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%223×3%28さざん%29%22/ana_flg/all) |
 | rara | rara |  | [pixiv](https://www.pixiv.net/users/24480936) |
+| sakanaya | sakanaya |  | [pixiv](https://www.pixiv.net/users/89663352) \| [FANBOX](https://sakanaya.fanbox.cc/) \| [X](https://x.com/sakanaya952) \| [Skeb](https://skeb.jp/@sakanaya952) |
 
 <!--TEMPLATE:
 |  |  |  |  |
