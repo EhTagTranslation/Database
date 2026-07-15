@@ -5820,7 +5820,7 @@ example:
 | miquella of the haligtree | 纯净圣树黄金米凯拉 | 米凯拉是2022年From Software开发的游戏《艾尔登法环》中的角色。米凯拉是由玛莉卡与其第二任丈夫拉达冈诞下的第一位子嗣，同玛莉卡（拉达冈）相同都是一体两面，另一面名为托莉娜，想要成为神祇让交界地所有人强制爱，消除斗争。 |  |
 | malenia | 玛莲妮亚 | 玛莲妮亚是角色扮演游戏《艾尔登法环》中的角色。 |  |
 | marika | marika |  |  |
-| eien no joou marika | 永恒女王玛莉卡 |  |  |
+| eien no joou marika | 永恒女王玛莉卡 | ![](https://static.wikia.nocookie.net/eldenring/images/5/5b/Marika_the_Eternal_cutscene_art.webp)<br>所属作品：`elden ring` |  |
 | rennala | 蕾娜拉 |  |  |
 | fire keeper | 防火女 |  |  |
 | gwynevere | 葛温艾薇雅 |  |  |
