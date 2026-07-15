@@ -9715,6 +9715,7 @@ example:
 | allen the alien | 外星人艾伦 | ![](https://static.wikia.nocookie.net/amazon-invincible/images/c/cd/BuffAllen.png)<br>所属作品：`invincible` |  |
 | kate cha | 分身凯特 | ![](https://static.wikia.nocookie.net/amazon-invincible/images/8/80/Dupli-KateProfile.png)<br>本名：凯特”·查<br>所属作品：`invincible` |  |
 | mark grayson | 无敌少侠 | ![](https://static.wikia.nocookie.net/amazon-invincible/images/a/a3/Invincible_%28Mark_Grayson%29.png)<br>本名：马克·格雷森<br>所属作品：`invincible` |  |
+| amanda | 怪兽女孩 | ![](https://static.wikia.nocookie.net/amazon-invincible/images/2/29/Amanda.png)<br>本名：阿曼达<br>所属作品：`invincible` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
