@@ -9734,6 +9734,7 @@ example:
 | aoba wakura | 和仓青羽 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/8/8b/Aoba_Wakura_anime_design.png)<br>所属作品：`mato seihei no slave` |  |
 | shikoku | 紫黑 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/f/f2/Shikoku_anime_S2.webp)<br>所属作品：`mato seihei no slave` |  |
 | konomi tatara | 多多良木乃实 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/f/f0/Konomi_Tatara_S2.webp)<br>所属作品：`mato seihei no slave`<br>日语：多々良 木乃実 |  |
+| naon yuno | 汤野波音 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/d/d1/Naon_Yuno_anime_design.png)<br>所属作品：`mato seihei no slave`<br>日语：湯野波音 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
