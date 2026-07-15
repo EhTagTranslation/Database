@@ -12573,7 +12573,7 @@ example:
 | shironekoya | 白猫屋 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200303/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG51218.html) |
 | mugen karaage | 無限からあげ |  |  |
 | yonaka works | ヨナカWorks |  |  |
-| touketsu shamen | トウケツ斜面 |  | [pixiv](https://www.pixiv.net/users/64953199)<br>[X](https://x.com/two_ketsu) |
+| touketsu shamen | トウケツ斜面 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202876/) \| [pixiv](https://www.pixiv.net/users/64953199) \| [X](https://x.com/two_ketsu) |
 | koutetsu shabon dama | 钢铁しゃぼん玉 | 画师`tamayura banko`所属社团 |  |
 | hogeramu | ほげらむ |  |  |
 | mizushirazu | みずしらず |  |  |
