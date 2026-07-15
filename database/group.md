@@ -3966,7 +3966,7 @@ example:
 | cothurnus | Cothurnus |  |  |
 | cotojikan | 琴慈館 |  |  |
 | cottage | cottage |  |  |
-| cotton candy | Cotton Candy | こっとんきゃんでぃ |  |
+| cotton candy | Cotton Candy | こっとんきゃんでぃ | [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=44988) |
 | cotton color | コットンカラー |  |  |
 | cotton house | こっとん堂 |  |  |
 | cotton pop | Cotton Pop |  |  |
