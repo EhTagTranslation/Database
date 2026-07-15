@@ -9712,6 +9712,7 @@ example:
 | samantha eve wilkins | 原子伊芙 | ![](https://static.wikia.nocookie.net/amazon-invincible/images/7/74/Atom-EveProfile.png)<br>本名：萨曼莎·伊芙·格雷森<br>所属作品：`invincible` |  |
 | deborah grayson | 黛比·葛瑞森 | ![](https://static.wikia.nocookie.net/amazon-invincible/images/c/cb/DebbieProfile.png)<br>所属作品：`invincible` |  |
 | anissa | 安妮莎 | ![](https://static.wikia.nocookie.net/amazon-invincible/images/0/01/Viltrumite_Anissa.png)<br>所属作品：`invincible` |  |
+| allen the alien | 外星人艾伦 | ![](https://static.wikia.nocookie.net/amazon-invincible/images/c/cd/BuffAllen.png)<br>所属作品：`invincible` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
