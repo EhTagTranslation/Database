@@ -9709,6 +9709,7 @@ example:
 | karin domyoji | 道明寺歌铃 | ![](https://patchwiki.biligame.com/images/imascg/3/3b/984yw489jwgbd6341evxflo3ch3ggya.png)<br>所属作品: `the idolmaster` Cinderella Girls | [萌娘百科](https://zh.moegirl.org.cn/道明寺歌铃)<br>[BILIGAME WIKI](https://wiki.biligame.com/imascg/道明寺歌铃) |
 | cui yifei | 崔亦菲 | ![](https://static.wikia.nocookie.net/muvluv/images/8/8c/Cui_TE_Fatigues.png)<br>所属作品：`muv-luv` |  |
 | angelica ainsworth | 安洁莉卡·恩兹华斯 | ![](https://static.wikia.nocookie.net/typemoon/images/0/05/Angelica_%28Anime%29.webp)<br>所属作品：`fate kaleid liner prisma illya`<br>日语：アンジェリカ・エインズワース |  |
+| samantha eve wilkins | 原子伊芙 | ![](https://static.wikia.nocookie.net/amazon-invincible/images/7/74/Atom-EveProfile.png)<br>本名：萨曼莎·伊芙·格雷森<br>所属作品：`invincible` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
