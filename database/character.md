@@ -3173,7 +3173,7 @@ example:
 | ryoko yoshida | 吉田良子 |  |  |
 | sieg | 齐格 |  |  |
 | hajime nagumo | 南云始 | ![](https://img.moegirl.org.cn/common/7/7c/Hajime_Nagumo.png)<br>所属作品：`arifureta shokugyou de sekai saikyou`<br><br>某一天和全班同学突然被转移到异世界后，因其天职为炼成师，无魔法适应性，而被同学称为无能且遭到歧视。后来经过许多试炼终于成为了世界最强。 | [萌娘百科](https://zh.moegirl.org.cn/南云始) |
-| yue | 月 | ![](https://i.pixiv.cat/img-master/img/2025/01/01/05/33/25/125768896_p0_master1200.jpg)<br><br>所属作品：`arifureta shokugyou de sekai saikyou`<br><br>魔法水平世界第一。对南云始时的糟糕程度也是世界第一。<br>在大迷宫的奈落被南云始解除封印的吸血鬼美少女，度过了与年龄不符的漫长岁月。 | [萌娘百科](https://zh.moegirl.org.cn/月%28平凡职业造就世界最强%29#) |
+| yue | 月 | ![](https://static.wikia.nocookie.net/arifureta-shokugyou-de-sekai-saikyou/images/b/be/Yue_%28Anime_Artwork-3%29.png)<br>所属作品：`arifureta shokugyou de sekai saikyou` | [萌娘百科](https://zh.moegirl.org.cn/月%28平凡职业造就世界最强%29#) |
 | shea haulia | 希娅·哈乌利亚 | ![](https://static.wikia.nocookie.net/arifureta-shokugyou-de-sekai-saikyou/images/c/c6/Shea_%28Anime_Artwork%29.png)<br>所属作品：`arifureta shokugyou de sekai saikyou` | [萌娘百科](https://zh.moegirl.org.cn/希雅·郝里亚) |
 | kaori shirasaki | 白崎香织 | ![](https://static.wikia.nocookie.net/arifureta-shokugyou-de-sekai-saikyou/images/b/bb/Kaori_%28Anime_Artwork%29.png)<br>所属作品：`arifureta shokugyou de sekai saikyou` | [萌娘百科](https://zh.moegirl.org.cn/白崎香织) |
 | hanako honda | 本田华子 |  |  |
