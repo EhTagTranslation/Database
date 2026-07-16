@@ -10572,7 +10572,7 @@ example:
 | sodomutogomora | ソドムトゴモラ |  |  |
 | soft circle courreges | ソフトさ～くるクレージュ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48458.html) |
 | soft on omanko | SOFT ON OMANKO |  |  |
-| soft thigh | Soft Thigh |  |  |
+| soft thigh | Soft Thigh |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76699/) |
 | soitsu wa yabee | そいつはヤベェ! |  |  |
 | soket equals pocket | そけっと=ぽけっと |  |  |
 | soko | 倉庫 |  |  |
