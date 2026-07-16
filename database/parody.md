@@ -2888,6 +2888,7 @@ example:
 | toy story | 玩具总动员系列 | ![](https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg) |  |
 | himekishi wa barbaroi no yome | 女骑士成为蛮族新娘 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cb/cf/516543_103zp.jpg)<br>日语：姫騎士は蛮族の嫁 |  |
 | killer instinct | 杀手本能 |  |  |
+| dropout | Drop out | ![](https://ehgt.org/w/00/405/55180-l7mgam9a.webp)<br>ドロップアウト<br>煌野一人创作的漫画，并有改编里番动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
