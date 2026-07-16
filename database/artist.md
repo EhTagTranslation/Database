@@ -15386,6 +15386,7 @@ example:
 | sakanaya | sakanaya |  | [pixiv](https://www.pixiv.net/users/89663352) \| [FANBOX](https://sakanaya.fanbox.cc/) \| [X](https://x.com/sakanaya952) \| [Skeb](https://skeb.jp/@sakanaya952) |
 | jimpu6 | JimPu6 |  | [Patreon](https://www.patreon.com/u31202903) \| [FANBOX](https://jimpu6.fanbox.cc/) |
 | nyarome | にゃろメ |  | [FANBOX](https://z3c407ot.fanbox.cc/) \| [X](https://x.com/nya6ome) \| [pixiv](https://www.pixiv.net/users/16051451) \| [Lit.Link](https://lit.link/en/nya6ome) |
+| koi kakeru shinai kanojo | 想要传达给你的爱恋 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
