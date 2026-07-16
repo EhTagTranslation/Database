@@ -14047,6 +14047,7 @@ example:
 | akumehage | アクメハゲ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41058.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76031/) |
 | lapin gris | Lapin gris |  |  |
 | mochimochi warabi | 望望わらび | 丸井すくえあ | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01009417.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=227987/) |
+| us track | ユーストラック | Us: Track，AMUSE CRAFT旗下品牌，目前唯一一作为想要传达给你的爱恋 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
