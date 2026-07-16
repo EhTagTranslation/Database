@@ -15388,6 +15388,7 @@ example:
 | nyarome | にゃろメ |  | [FANBOX](https://z3c407ot.fanbox.cc/) \| [X](https://x.com/nya6ome) \| [pixiv](https://www.pixiv.net/users/16051451) \| [Lit.Link](https://lit.link/en/nya6ome) |
 | koi kakeru shinai kanojo | 想要传达给你的爱恋 |  |  |
 | nunemaru | ぬね丸 |  |  |
+| thikiso takeda | ティキソー竹田 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
