@@ -2890,6 +2890,7 @@ example:
 | killer instinct | 杀手本能 |  |  |
 | dropout | Drop out | ![](https://ehgt.org/w/00/405/55180-l7mgam9a.webp)<br>ドロップアウト<br>煌野一人创作的漫画，并有改编里番动画。 |  |
 | shugaten | 甜糖热恋 |  |  |
+| hoshikoi twinkle | 星恋＊Twinkle |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
