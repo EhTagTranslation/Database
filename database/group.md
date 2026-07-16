@@ -14050,6 +14050,7 @@ example:
 | us track | ユーストラック | Us: Track，AMUSE CRAFT旗下品牌，目前唯一一作为想要传达给你的爱恋 |  |
 | futanari seisanchi | ふたなり生産地 |  |  |
 | zuzuzunune | ずずずぬね |  |  |
+| yogachika | ヨガチカ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
