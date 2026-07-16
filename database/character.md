@@ -9740,6 +9740,7 @@ example:
 | miwako sawatari | 泽渡美和子 | ![](https://static.wikia.nocookie.net/13-sentinels-aegis-rim/images/0/03/Miwako_Sawatari_%28Mystery_Files%29.png/revision/latest?cb=20220723003433)<br>所属作品:`13 sentinels aegis rim` | [Fandom](https://13-sentinels-aegis-rim.fandom.com/wiki/Miwako_Sawatari) |
 | reika shichijou | 七条玲香 | ![](https://ami.animecharactersdatabase.com/images%20of/Reika%20Shichijou/from/Dropout/uploads/chars/39134-1514193130.jpg)<br>所属作品：`dropout` |  |
 | aiko hatayama | 畑山爱子 | ![](https://ehgt.org/w/01/743/38144-uxnqhgii.webp)<br>所属作品：`arifureta shokugyou de sekai saikyou` |  |
+| asirpa | 阿席莉帕 | ![](https://static.wikia.nocookie.net/goldenkamuy/images/b/b9/Asirpa.png)<br>出自作品：`p:golden kamuy`<br><br>阿席莉帕（日语：アシㇼパ）是由野田智所创作的漫画《黄金神威》及其衍生作品的登场角色，女主角。 | [萌娘百科](https://zh.moegirl.org.cn/阿席莉帕) \| [Fandom](https://goldenkamuy.fandom.com/wiki/Asirpa) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
