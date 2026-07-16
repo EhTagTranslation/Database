@@ -6638,7 +6638,7 @@ example:
 | yuuki wakura | 和仓优希 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/4/41/Yuuki_Wakura_S2.webp)<br>所属作品：`mato seihei no slave`<br>因魔都灾害被转移至魔都，遭丑鬼袭击时被京香解救，通过“无穷之锁”契约成为其“奴隶”加入魔防队。 | [萌娘百科](https://zh.moegirl.org.cn/和仓优希) |
 | yumina urnea belfast | 由美娜·艾尔涅雅·贝尔法斯特 | ![](https://img.moegirl.org.cn/common/thumb/2/2f/Yumina_Ernea_Belfast_Anime.png/364px-Yumina_Ernea_Belfast_Anime.png)<br>所属作品：`isekai wa smartphone to tomo ni.`<br>贝尔法斯特王国的公主。 | [萌娘百科](https://zh.moegirl.org.cn/由美娜·艾尔涅雅·贝尔法斯特) |
 | mei mei | 冥冥 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/a/a8/Mei_Mei_%28Anime_2%29.png)<br>出自作品：`p:jujutsu kaisen` | [萌娘百科](https://zh.moegirl.org.cn/冥冥%28咒术回战%29#) |
-| shizuku yaegashi | 八重㭴雫 | ![](https://i.pixiv.cat/img-master/img/2025/02/12/16/06/22/127160677_p0_master1200.jpg)<br>所属作品：`arifureta shokugyou de sekai saikyou`<br>南云始的同学，和白崎香织、天之河光辉、坂上龙太郎为青梅竹马。某天上课时全班被召唤而来到异世界托达斯，被召唤后的天职为“剑士”。 | [萌娘百科](https://zh.moegirl.org.cn/八重㭴雫) |
+| shizuku yaegashi | 八重㭴雫 | ![](https://static.wikia.nocookie.net/arifureta-shokugyou-de-sekai-saikyou/images/1/1c/Shizuku_%28Anime_Artwork%29.png)<br>所属作品：`arifureta shokugyou de sekai saikyou` | [萌娘百科](https://zh.moegirl.org.cn/八重㭴雫) |
 | rei miyamoto | 宫本丽 | ![](https://ehgt.org/w/02/114/59002-8c0bs1s7.webp)<br>所属作品：`highschool of the dead` | [萌娘百科](https://zh.moegirl.org.cn/宫本丽) |
 | yukino mifuyu | 雪乃深冬 | ![](https://ehgt.org/w/02/115/45267-5y29tzzg.webp) |  |
 | iuno | 尤诺 | ![](https://pic.cangku.moe/images/2025/09/04/1y1vM.md.webp)<br>所属作品：`wuthering waves`<br>她被命运以怎样的名义青睐，就被命运以怎样的方式裹挟。但她从未被打败，也不肯罢休。 | [百度百科](https://baike.baidu.com/item/尤诺/65734292) \| [萌娘百科](https://zh.moegirl.org.cn/尤诺%28鸣潮%29#)<br>[BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/尤诺) |
