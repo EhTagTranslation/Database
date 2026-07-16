@@ -4513,7 +4513,7 @@ example:
 | alexis rhodes | 天上院明日香 | 《游戏王GX》中的主要角色之一，天上院吹雪的妹妹。<br>![](https://ehgt.org/w/01/965/72400-ue3lm1c0.webp) | [萌娘百科](https://zh.moegirl.org.cn/天上院明日香) |
 | cyno | 赛诺 | ![](https://patchwiki.biligame.com/images/ys/a/a2/l27pv9gl7pm7mx4l0s7zwb8us90p11k.gif)<br>所属作品:`p:genshin impact`<br>教令院内负责监管学者们的「大风纪官」。工作时比刹诃伐罗学院制作的「大风机关」更有效率。 | [萌娘百科](https://zh.moegirl.org.cn/赛诺) |
 | alexia midgar | 阿莱克西亚·米德嘉尔 | ![](https://lain.bgm.tv/pic/crt/l/57/4a/103288_crt_MwrjM.jpg?r=1675248297&_gl=1*9cf1ib*_ga*Nzg4MzExMjk0LjE3MjQ1NzQ0NDM.*_ga_1109JLGMHN*czE3NTcyODk1NDIkbzE1JGcxJHQxNzU3Mjg5ODUyJGo1NCRsMCRoMA)..<br>所属作品: `p:kage no jitsuryokusha ni naritakute`<br>米德加尔王国的第二王女。 |  |
-| wednesday addams | 星期三·亚当斯 |  | [https://zh.m.wikipedia.org/wiki/星期三\_%28电视剧%29](https://zh.wikipedia.org/wiki/星期三_%28电视剧%29) |
+| wednesday addams | 星期三·亚当斯 | ![](https://upload.wikimedia.org/wikipedia/zh/9/9d/Wednesday_Addams.jpg)<br>出自作品：`p:the addams family`<br><br>星期三·亚当斯（英语：Wednesday Addams），全名星期三·星期五·亚当斯（英语：Wednesday Friday Addams），是《亚当斯一家》系列的虚构角色，由美国漫画家查尔斯·亚当斯创作。 | [维基百科](https://zh.wikipedia.org/wiki/星期三·阿達) |
 | miyako shikimori | 式守都 | ![](https://ehgt.org/w/02/212/63967-aloz5h8r.webp)<br>出自作品：`p:kawaii dake ja nai shikimori-san`<br><br>式守都（日语：式守（しきもり） 都（みやこ））是真木萤五创作的Web漫画《式守同学不只可爱而已》中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/式守都) |
 | fuuka yamagishi | 山岸风花 | ![](https://static.wikia.nocookie.net/megamitensei/images/f/f0/Fuuka_Yamagishi_Reload.png)<br>所属作品：`persona 3`<br>日语：山岸 風花（やまぎし ふうか） | [萌娘百科](https://zh.moegirl.org.cn/山岸风花) |
 | yukari takeba | 岳羽由加莉 | ![](https://static.wikia.nocookie.net/megamitensei/images/d/d9/P3REYukari.png)<br>所属作品：`persona 3`<br>日语：岳羽 ゆかり（たけば ゆかり） | [萌娘百科](https://zh.moegirl.org.cn/岳羽由加莉) |
