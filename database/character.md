@@ -9742,6 +9742,7 @@ example:
 | aiko hatayama | 畑山爱子 | ![](https://ehgt.org/w/01/743/38144-uxnqhgii.webp)<br>所属作品：`arifureta shokugyou de sekai saikyou` |  |
 | asirpa | 阿席莉帕 | ![](https://static.wikia.nocookie.net/goldenkamuy/images/b/b9/Asirpa.png)<br>出自作品：`p:golden kamuy`<br><br>阿席莉帕（日语：アシㇼパ）是由野田智所创作的漫画《黄金神威》及其衍生作品的登场角色，女主角。 | [萌娘百科](https://zh.moegirl.org.cn/阿席莉帕) \| [Fandom](https://goldenkamuy.fandom.com/wiki/Asirpa) |
 | boukuu maigo hime | 防空埋护姬 | 日本帝国海军秋月级驱逐舰9号舰——凉月（Suzutsuki）的深海化形态。 |  |
+| tenko ono | 小野天子 | 所属作品：`usotsuki gokuou-kun` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
