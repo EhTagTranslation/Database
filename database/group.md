@@ -14052,6 +14052,7 @@ example:
 | zuzuzunune | ずずずぬね |  |  |
 | yogachika | ヨガチカ |  |  |
 | mochitsu motaretsu. | もちつもたれつ。 |  |  |
+| lp studio | えるぴーすたじお | LPstudio |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
