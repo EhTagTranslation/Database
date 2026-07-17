@@ -1313,7 +1313,7 @@ example:
 | reiha | 零覇 |  |  |
 | chimaq | チマQ |  |  |
 | magaki ryouta | 間垣りょうた |  |  |
-| yukino minato | 雪野みなと |  | [pixiv](https://www.pixiv.net/users/529489) [X](https://x.com/straycat_2018) |
+| yukino minato | 雪野凑 | 雪野みなと（ps 他只画萝莉） | [pixiv](https://www.pixiv.net/users/529489) [X](https://x.com/straycat_2018) |
 | maruchang | 丸ちゃん。 |  |  |
 |  | A1 |  |  |
 | sukiyo | スキヨ |  |  |
