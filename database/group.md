@@ -14051,6 +14051,7 @@ example:
 | futanari seisanchi | ふたなり生産地 |  |  |
 | zuzuzunune | ずずずぬね |  |  |
 | yogachika | ヨガチカ |  |  |
+| mochitsu motaretsu. | もちつもたれつ。 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
