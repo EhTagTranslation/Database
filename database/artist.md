@@ -15391,6 +15391,7 @@ example:
 | thikiso takeda | ティキソー竹田 |  |  |
 | mochinabe | もち鍋 |  |  |
 | forest | 森林 | フォレスト |  |
+| hirama kenji | 平間ケンジ |  | [FANZA](https://book.dmm.co.jp/list/?author=380490) |
 
 <!--TEMPLATE:
 |  |  |  |  |
