@@ -2891,7 +2891,7 @@ example:
 | dropout | Drop out | ![](https://ehgt.org/w/00/405/55180-l7mgam9a.webp)<br>ドロップアウト<br>煌野一人创作的漫画，并有改编里番动画。 |  |
 | shugaten | 甜糖热恋 |  |  |
 | hoshikoi twinkle | 星恋＊Twinkle |  |  |
-| usotsuki gokuou-kun | 骗子！狱王君 | ![](https://upload.wikimedia.org/wikipedia/en/d/d0/Usotsuki!_Gokuō-kun_volume_1.png)<br>日语：ウソツキ！ゴクオーくん<br>日本漫画家‌吉もと誠‌创作的漫画作品。 |  |
+| usotsuki gokuou-kun | 骗子!狱王君 | ![](https://upload.wikimedia.org/wikipedia/en/d/d0/Usotsuki!_Gokuō-kun_volume_1.png)<br>日语：ウソツキ！ゴクオーくん<br>日本漫画家‌吉もと誠‌创作的漫画作品。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
