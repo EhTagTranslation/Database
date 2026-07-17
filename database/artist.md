@@ -15390,6 +15390,7 @@ example:
 | nunemaru | ぬね丸 |  |  |
 | thikiso takeda | ティキソー竹田 |  |  |
 | mochinabe | もち鍋 |  |  |
+| forest | 森林 | フォレスト |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
