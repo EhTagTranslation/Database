@@ -14054,6 +14054,7 @@ example:
 | mochitsu motaretsu. | もちつもたれつ。 |  |  |
 | lp studio | えるぴーすたじお | LPstudio |  |
 | forest caravan | 森林大篷车 | フォレスト・キャラバン |  |
+| tennen six | てんねんシックス |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01000692.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=207526/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
