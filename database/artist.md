@@ -15389,6 +15389,7 @@ example:
 | koi kakeru shinai kanojo | 想要传达给你的爱恋 |  |  |
 | nunemaru | ぬね丸 |  |  |
 | thikiso takeda | ティキソー竹田 |  |  |
+| mochinabe | もち鍋 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
