@@ -15405,6 +15405,7 @@ example:
 | kazumasa | カズマサ |  |  |
 | yuzu-soft | 柚子社 |  |  |
 | yuri nayuta | 悠理なゆた |  |  |
+| gurasion | ぐらしおん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
