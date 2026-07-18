@@ -15406,6 +15406,7 @@ example:
 | yuzu-soft | 柚子社 |  |  |
 | yuri nayuta | 悠理なゆた |  |  |
 | gurasion | ぐらしおん |  |  |
+| osushi 961 | おすし961 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
