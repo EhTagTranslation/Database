@@ -2813,7 +2813,7 @@ example:
 | redash | RedAsh |  | [pixiv](https://www.pixiv.net/users/35484662) [微博](https://weibo.com/p/1005057059159490) |
 | kuroha reiji | 九郎 |  | [X](https://x.com/Trg_AKT) [pixiv](https://www.pixiv.net/users/136872) |
 | kirekawa | きれかわ |  | [pixiv](https://www.pixiv.net/users/8983263) |
-| taro oimo | たろおいも |  | [X](https://x.com/taro0imo) [pixiv](https://www.pixiv.net/users/14015863) |
+| taro oimo | たろおいも \| 田町三作 |  | [X](https://x.com/taro0imo) [pixiv](https://www.pixiv.net/users/14015863) |
 | akimoto dai | あきもと大 |  | [X](https://x.com/dai_colorful) |
 | kumada | くまのとおる（くまだ） |  | [X](https://x.com/kumadano) [pixiv](https://www.pixiv.net/users/86161) |
 | nipi | nipi |  | [X](https://x.com/saberchankawaii) [pixiv](https://www.pixiv.net/users/15622479) |
