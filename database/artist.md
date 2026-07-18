@@ -15403,6 +15403,7 @@ example:
 | kisarazu yuu | 木更津侑 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=eb684b79-64d3-11f0-ba33-0242ac160002/section=mens/) |
 | momo irone | ももいろね |  |  |
 | kazumasa | カズマサ |  |  |
+| yuzu-soft | 柚子社 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
