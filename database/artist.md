@@ -11294,7 +11294,7 @@ example:
 | urokozuki | ウロコヅキ |  |  |
 | uron | うろん |  |  |
 | urotsuki | うろつき |  |  |
-| urozuki akira | 宇路月 |  |  |
+| urozuki akira | 宇路月あきら |  |  |
 | urushi | ウルシ |  |  |
 | urutsu | ウルツ |  |  |
 | uruu | うるう |  |  |
