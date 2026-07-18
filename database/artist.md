@@ -12128,7 +12128,7 @@ example:
 | totoyama keiji | 魚山ケイジ |  | [X](https://x.com/mizumanjiu) |
 | konery | ｺﾈﾘｨ＠(ヽ'ω\`) |  | [pixiv](https://www.pixiv.net/users/8009793) [X](https://x.com/pice1234) |
 | cocomachi | ここまち |  | [pixiv](https://www.pixiv.net/users/55223444) |
-| mizuse kiseki | 星の紅茶 | 曾用名：みずせ希跡 | [pixiv](https://www.pixiv.net/users/12120406) [X](https://x.com/hoshi0tea) |
+| mizuse kiseki | 星的红茶 | 星の紅茶，曾用名：みずせ希跡 | [pixiv](https://www.pixiv.net/users/12120406) [X](https://x.com/hoshi0tea) |
 | momomo gasshuukoku | ももも合衆国 |  | [Fantia](https://fantia.jp/fanclubs/12600) |
 | nameless peasant | 皮三豆 |  | [X](https://x.com/Pisanto666) |
 | minamoto kosada | 源康定 |  |  |
