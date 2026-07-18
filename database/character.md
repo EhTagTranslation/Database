@@ -3239,7 +3239,7 @@ example:
 | power girl | 神力女孩 |  |  |
 | talia al ghul | 塔利亚·艾尔·古尔 |  |  |
 | vixen | 雌狐 |  |  |
-| le malin | 恶毒 | 恶毒(MNF Le Malin/ ル・マラン)自由法国海军的恶毒号驱逐舰（French destroyer Le Malin） | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:恶毒) |
+| le malin | 恶毒 | ![](https://static.wikia.nocookie.net/the-official-azur-lane/images/d/d1/Le_Malin.png)<br>出自作品：`p:azur lane`<br><br>恶毒（惡毒，Le Malin，ル・マラン，르 말랭 ）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。其原型为自由法国海军的恶毒号驱逐舰（French destroyer Le Malin）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:恶毒) \| [Fandom](https://the-official-azur-lane.fandom.com/wiki/Le_Malin) |
 | suzuki hina | 铃木雏 | 铃木雏<br><br>身份不明，是从天空中掉落下来的少女，和hime(田中姬)一起住在田中工务店，衣服上有着和hime(田中姬)同样的家纹 | [萌娘百科: 田中姬铃木雏](https://zh.moegirl.org.cn/田中姬铃木雏)<br>[Twitter: 铃木雏](https://x.com/HinaSuzuki_HH) |
 | tanaka hime | 田中姬 | 田中姬<br><br>出身不明，据说在流浪的时候被田中工务店捡到，于是从此以后就住在田中工务店. | [萌娘百科: 田中姬铃木雏](https://zh.moegirl.org.cn/田中姬铃木雏)<br>[Twitter: 田中姬](https://x.com/HimeTanaka_HH) |
 | nobukatsu oda | 织田信胜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/76/bf/16545_crt_sWm0v.jpg)<br>所属作品：`oda nobuna no yabou` |  |
