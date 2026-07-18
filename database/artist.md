@@ -12656,7 +12656,7 @@ example:
 | nishi yasuaki | 西ヤスアキ | 西康晃 | [X](https://x.com/nishi_ak1) [pixiv](https://www.pixiv.net/users/15129224) |
 | higashi taishi | 東太子 | 转生成为 [コソコソ丸](https://www.pixiv.net/users/30446632) |  |
 | kokudou juunigou | 国道12号 |  | [X](https://x.com/juunigou) |
-| sushi yuusha toro | 寿司勇者トロ | ホラーとクリーチャーだいすきっ！<br>同人サークル「イニミニマニモ？」でゲーム作ってるよっ！<br>ニコニコで東方異形郷（R-18G）という動画も投稿してるよんっ！ | [X](https://x.com/toro_yori_ebi)<br>[pixiv](https://www.pixiv.net/users/2938678)<br>[Fantia](https://fantia.jp/fanclubs/22621) |
+| sushi yuusha toro | 寿司勇者托罗 | 寿司勇者トロ，代表作Black Souls和小红帽系列<br>ホラーとクリーチャーだいすきっ！<br>同人サークル「イニミニマニモ？」でゲーム作ってるよっ！<br>ニコニコで東方異形郷（R-18G）という動画も投稿してるよんっ！ | [X](https://x.com/toro_yori_ebi)<br>[pixiv](https://www.pixiv.net/users/2938678)<br>[Fantia](https://fantia.jp/fanclubs/22621) |
 | sandbox | 砂场 |  | [pixiv](https://www.pixiv.net/users/2638053) |
 | yunamaro | ゆなまろ |  |  |
 | 810eru | 草叶える | ![](https://pbs.twimg.com/profile_images/1188383436056084480/Ig6MCV0G_400x400.jpg) | [X](https://x.com/810eru) [pixiv](https://www.pixiv.net/users/28540587) |
