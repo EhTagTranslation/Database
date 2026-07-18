@@ -15398,6 +15398,7 @@ example:
 | katsushika pachi | 葛飾ぱち |  |  |
 | yumeno mikan | 夢野みかん |  |  |
 | yunmi | ゆんみ |  |  |
+| hikaru | 日袈流 |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ024595/ana_flg/all) |
 
 <!--TEMPLATE:
 |  |  |  |  |
