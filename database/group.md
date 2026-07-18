@@ -14063,7 +14063,7 @@ example:
 | ironenone | いろねのね |  |  |
 | chieuchi | CHIEUCHI |  |  |
 | blossom | BLOSSOM |  |  |
-| sushiya 961 | Sushiya 961 |  |  |
+| sushiya 961 | すし屋961 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
