@@ -14062,6 +14062,7 @@ example:
 | milimili amuse craft erotica | milimili：AMUSE CRAFT EROTICA |  |  |
 | ironenone | いろねのね |  |  |
 | chieuchi | CHIEUCHI |  |  |
+| blossom | BLOSSOM |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
