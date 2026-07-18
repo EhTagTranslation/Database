@@ -15394,6 +15394,7 @@ example:
 | hirama kenji | 平間ケンジ |  | [FANZA](https://book.dmm.co.jp/list/?author=380490) |
 | koyukomu | コユコム |  |  |
 | choma | CHOMA |  | [FANZA](https://book.dmm.co.jp/list/?author=357256) |
+| mada kimetenai | まだきめてない |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
