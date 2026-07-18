@@ -9746,6 +9746,7 @@ example:
 | gaou mikado | 未门牙王 | ![](https://static.wikia.nocookie.net/buddyfight/images/3/3b/Gao_body.png)<br>所属作品：`future card buddyfight`<br>日语：未門 牙王 |  |
 | kiri hyouryuu | 冰龙桐 | ![](https://static.wikia.nocookie.net/buddyfight/images/8/88/Kiri_Hyoryu_%28Season_1%29.png)<br>所属作品：`future card buddyfight`<br>日语：氷竜 キリ |  |
 | tetsuya kurodake | 黑岳哲也 | ![](https://static.wikia.nocookie.net/buddyfight/images/6/67/Tetsuya_full.png)<br>所属作品：`future card buddyfight`<br>日语：黒岳テツヤ |  |
+| erina olegovna aveen | 艾莉娜·奥列戈芙娜·阿文 | エリナ・オレゴヴナ・アヴェーン |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
