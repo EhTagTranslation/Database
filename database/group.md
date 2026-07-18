@@ -14058,6 +14058,7 @@ example:
 | jill | jill |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202995/) \| [pixiv](https://www.pixiv.net/users/73142326) \| [X](https://x.com/_jill_sensitive) |
 | orange pulque | おれんじぷるけ | Orange Pulque |  |
 | ero trance | エロトランス |  |  |
+| engawa no osushi | えんがわのおすし |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78933/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
