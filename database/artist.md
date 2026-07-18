@@ -15397,6 +15397,7 @@ example:
 | mada kimetenai | まだきめてない |  |  |
 | katsushika pachi | 葛飾ぱち |  |  |
 | yumeno mikan | 夢野みかん |  |  |
+| yunmi | ゆんみ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
