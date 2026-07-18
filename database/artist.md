@@ -9591,7 +9591,7 @@ example:
 | ryuki | リュウキ |  |  |
 | ryumage | りう☆めいじ |  |  |
 | ryuno | ryuno |  |  |
-| ryunosuke | 龍之介 |  |  |
+| ryunosuke | 龙之介 | 龍之介 |  |
 | ryutou | 竜湯 |  |  |
 | ryuudou hiromi | 龍堂ひろみ |  |  |
 | ryuuka ryou | りゅうか綾 |  |  |
