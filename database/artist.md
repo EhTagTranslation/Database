@@ -15404,6 +15404,7 @@ example:
 | momo irone | ももいろね |  |  |
 | kazumasa | カズマサ |  |  |
 | yuzu-soft | 柚子社 |  |  |
+| yuri nayuta | 悠理なゆた |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
