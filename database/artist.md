@@ -8885,7 +8885,7 @@ example:
 | nwonyo | んをんよ |  |  |
 | ny-o-ph | NY-O-PH |  |  |
 | nyagomaru | にゃご丸 |  |  |
-| nyahu | にゃふ |  |  |
+| nyahu | 睦月にゃふ |  |  |
 | nyakaaki | にゃかあき |  |  |
 | nyake | にゃけ |  |  |
 | nyakki | にゃっき |  |  |
