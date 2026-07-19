@@ -14064,6 +14064,7 @@ example:
 | chieuchi | CHIEUCHI |  |  |
 | blossom | BLOSSOM |  |  |
 | sushiya 961 | すし屋961 |  |  |
+| salmon marinade | サーモンマリネード |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
