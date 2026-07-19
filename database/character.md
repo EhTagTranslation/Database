@@ -5868,7 +5868,7 @@ example:
 | rinami himesaki | 姫崎莉波 | ![](https://gakuen.idolmaster-official.jp/assets/img/idol/rinami/thumb.png)<br>出自作品：`p:the idolmaster`<br><br>姬崎莉波是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。 | [官网人物介绍](https://gakuen.idolmaster-official.jp/idol/rinami/) \| [萌娘百科](https://zh.moegirl.org.cn/姬崎莉波) |
 | saya | 沙耶 | ![](https://static.wikia.nocookie.net/saya-no-uta/images/b/b1/Saya_no_Uta_Infobox.jpg)<br>所属作品：`saya no uta` |  |
 | ginko momose | 百生吟子 | ![](https://static.wikia.nocookie.net/love-live/images/f/f9/Ginko_Momose_2026.png/revision/latest?cb=20260416143538)<br>百生吟子（日语：百生 吟子，罗马字：Momose Ginko）是企划《`love live hasunosora jogakuin school idol club`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/百生吟子) |
-| hime anyoji | 安养寺姬芽 | 安养寺姬芽（日语：安養寺 姫芽，罗马字：Anyoji Hime）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/安养寺姬芽) |
+| hime anyoji | 安养寺姬芽 | ![](https://static.wikia.nocookie.net/love-live/images/e/e3/Hime_Anyoji_2026.png/revision/latest?cb=20260416143553)<br>安养寺姬芽（日语：安養寺 姫芽，罗马字：Anyoji Hime）是企划《`love live hasunosora jogakuin school idol club`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/安养寺姬芽) |
 | ophelia phamrsolone | 奥菲莉娅·法姆索罗涅 |  |  |
 | sigurd | 齐格鲁德 |  |  |
 | mao arimura | 有村麻央 | ![](https://ehgt.org/w/01/759/56753-24297f4f.webp)<br>出自作品：`p:the idolmaster`<br><br>有村麻央是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。 | [官网人物介绍](https://gakuen.idolmaster-official.jp/idol/mao/) \| [萌娘百科](https://zh.moegirl.org.cn/有村麻央) |
