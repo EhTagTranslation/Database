@@ -15413,6 +15413,7 @@ example:
 | sarako | こじまたけし |  | [FANBOX](https://www.fanbox.cc/@kojimasarako) \| [pixiv](https://www.pixiv.net/users/6580803) \| [X](https://x.com/kojimasarako) |
 | aa hoshikawa | あゝほしかわ |  |  |
 | kaimei | 海冥 |  |  |
+| suisogenshi | すいそげんし |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
