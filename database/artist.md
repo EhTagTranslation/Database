@@ -15415,6 +15415,7 @@ example:
 | kaimei | 海冥 |  |  |
 | suisogenshi | すいそげんし |  |  |
 | fujiwara tatsuro | 藤原たつろー |  |  |
+| kakun | カークン |  | [pixiv](https://www.pixiv.net/users/86937522) \| [X](https://x.com/karkun369) \| [FANBOX](https://www.fanbox.cc/@kakunr18) |
 
 <!--TEMPLATE:
 |  |  |  |  |
