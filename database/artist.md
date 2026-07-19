@@ -15414,6 +15414,7 @@ example:
 | aa hoshikawa | あゝほしかわ |  |  |
 | kaimei | 海冥 |  |  |
 | suisogenshi | すいそげんし |  |  |
+| fujiwara tatsuro | 藤原たつろー |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
