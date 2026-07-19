@@ -14066,6 +14066,7 @@ example:
 | sushiya 961 | すし屋961 |  |  |
 | salmon marinade | サーモンマリネード |  |  |
 | afterglow | Afterglow\* |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01054536.html) |
+| tatsumaki denchi | 竜巻電池 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
