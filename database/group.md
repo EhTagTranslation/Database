@@ -9263,7 +9263,7 @@ example:
 | pink no chao | PINKのCHAO! |  |  |
 | pink no jaguchi | ピンクの蛇口 |  |  |
 | pink pepper | Pink pepper |  |  |
-| pink pineapple | ピンクパイナップル |  |  |
+| pink pineapple | ピンクパイナップル | 粉菠萝社 |  |
 | pink poison | PINK POISON |  |  |
 | pink revolver | ピンクリボルバー |  |  |
 | pink rose | PINK ROSE |  |  |
