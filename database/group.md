@@ -10972,7 +10972,7 @@ example:
 | sweet devil | すいーとでびる |  |  |
 | sweet girls | Sweet Girls |  |  |
 | sweet jasmine | sweet☆jasmine |  |  |
-| sweet pea | スイートピー |  |  |
+| sweet pea | 甜豌豆 | スイートピー |  |
 | sweet princess | Sweet Princess |  |  |
 | sweet raspberry | スウィートラズベリー |  |  |
 | sweet taste | SWEET TASTE |  |  |
