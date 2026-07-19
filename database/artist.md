@@ -15409,6 +15409,7 @@ example:
 | osushi 961 | おすし961 |  |  |
 | tomochi | ともち |  |  |
 | koyama sunao | こやま沙緒 |  |  |
+| inukai mofu | 犬養モフ |  | [pixiv](https://www.pixiv.net/users/34673258) \| [FANBOX](https://inukai-mofu.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
