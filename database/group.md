@@ -200,7 +200,7 @@ example:
 | pastel wing | PASTEL WING |  | [官方网站](http://pastelwing.net) |
 | ajisaidenden | アジサイデンデン |  | [X](https://x.com/ajisaidenden_cm) [官方网站](http://ajisaidenden.x.fc2.com) |
 | attendance number 26 | 出席番号26 |  | [官方网站](http://attendancenumber26.blog137.fc2.com) |
-| yu-yu-tei | 悠々亭 |  |  |
+| yu-yu-tei | 悠悠亭 | 悠々亭，水上凛香的同人社团 |  |
 | circle ohigetan | サークル尾髭丹 |  |  |
 | mahou rikigaku | 魔法力学 |  |  |
 | minimum game koubou | ミニマムゲーム工房 |  |  |
