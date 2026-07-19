@@ -5091,7 +5091,7 @@ example:
 | galleon | 伽莱翁 | ![](https://huiji-public.huijistatic.com/gbf/uploads/2/22/Zoom_3040544000_01.png)<br>所属作品：`granblue fantasy` |  |
 | asa mitaka | 三鹰朝 | ![](https://ehgt.org/w/02/187/79936-hq9u2svh.webp)<br>出自作品：`p:chainsaw man`<br><br>三鹰朝（日语：三鷹アサ）是由藤本树所创作漫画《电锯人》及其衍生作品的登场角色。第二部女主角。 | [萌娘百科](https://zh.moegirl.org.cn/三鹰朝) |
 | sayaka murano | 村野沙耶香 | ![村野沙耶香](https://img.moegirl.org.cn/common/thumb/9/9b/Muranosayaka_img.png/280px-Muranosayaka_img.png)<br>村野沙耶香（日语：村野 さやか，罗马字：Murano Sayaka）是企划《`love live hasunosora jogakuin school idol club`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/村野沙耶香) [Fandom](https://love-live.fandom.com/wiki/Sayaka_Murano) |
-| kaho hinoshita | 日野下花帆 | 日野下花帆（日语：日野下 花帆，罗马字：Hinoshita Kaho）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。<br>![日野下花帆](https://img.moegirl.org.cn/common/thumb/d/d7/Kaho_img.png/280px-Kaho_img.png) | [萌娘百科](https://zh.moegirl.org.cn/日野下花帆) [Fandom](https://love-live.fandom.com/wiki/Kaho_Hinoshita) |
+| kaho hinoshita | 日野下花帆 | ![日野下花帆](https://img.moegirl.org.cn/common/thumb/d/d7/Kaho_img.png/280px-Kaho_img.png)<br>日野下花帆（日语：日野下 花帆，罗马字：Hinoshita Kaho）是企划《`love live hasunosora jogakuin school idol club`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/日野下花帆) [Fandom](https://love-live.fandom.com/wiki/Kaho_Hinoshita) |
 | gravel | 砾 |  |  |
 | ant-man | 蚁人 | 蚁人（Ant-Man）是美国漫威漫画系列的登场角色，由漫画家史丹·李、杰克·科比与拉里·李伯共同创造。 |  |
 | utena hiiragi | 柊舞缇娜 | 柊舞缇娜（日语：柊（ひいらぎ） うてな）是小野中彰大所创作的漫画《憧憬成为魔法少女》及其衍生作品的登场角色。<br>![](https://bkimg.cdn.bcebos.com/pic/ac345982b2b7d0a20cf427838ab861094b36acaf2c2c?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [萌娘百科](https://zh.moegirl.org.cn/柊舞缇娜) |
