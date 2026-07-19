@@ -2974,7 +2974,7 @@ example:
 | armeria | Armeria |  |  |
 | armored ginkakuji | アーマードギンカクジ |  |  |
 | armored namamono | アーマードなまもの |  |  |
-| aroma terrace | あろまてらす |  |  |
+| aroma terrace | 香氛露台 | あろまてらす |  |
 | aromatic girl | aromatic girl |  |  |
 | arpeggio | あるぺじお |  |  |
 | arsenothelus | アルセノテリス |  |  |
