@@ -15410,6 +15410,7 @@ example:
 | tomochi | ともち |  |  |
 | koyama sunao | こやま沙緒 |  |  |
 | inukai mofu | 犬養モフ |  | [pixiv](https://www.pixiv.net/users/34673258) \| [FANBOX](https://inukai-mofu.fanbox.cc/) |
+| sarako | こじまたけし |  | [FANBOX](https://www.fanbox.cc/@kojimasarako) \| [pixiv](https://www.pixiv.net/users/6580803) \| [X](https://x.com/kojimasarako) |
 
 <!--TEMPLATE:
 |  |  |  |  |
