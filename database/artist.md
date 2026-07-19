@@ -15416,6 +15416,7 @@ example:
 | suisogenshi | すいそげんし |  |  |
 | fujiwara tatsuro | 藤原たつろー |  |  |
 | kakun | カークン |  | [pixiv](https://www.pixiv.net/users/86937522) \| [X](https://x.com/karkun369) \| [FANBOX](https://www.fanbox.cc/@kakunr18) |
+| alali | AlAli |  | [pixiv](https://www.pixiv.net/users/126536667) \| [X](https://x.com/Alcola030) |
 
 <!--TEMPLATE:
 |  |  |  |  |
