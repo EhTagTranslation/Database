@@ -1509,7 +1509,7 @@ example:
 |  | 铃木 |  |  |
 |  | 土屋 |  |  |
 | darjeeling | 大吉岭 | ![](https://static.wikia.nocookie.net/gup/images/9/94/025_darjeeling.png)<br>所属作品：`girls und panzer`<br>日语：ダージリン |  |
-| assam | 阿萨姆 |  |  |
+| assam | 阿萨姆 | ![](https://static.wikia.nocookie.net/gup/images/1/10/Assamofficial.png)<br>出自作品：`p:girls und panzer`<br><br>阿萨姆（日语：アッサム）（英语：Assam）是Actas创作的动画《少女与战车》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/阿萨姆) \| [Fandom](https://gup.fandom.com/wiki/Assam) |
 | orange pekoe | 橙黄白毫 | ![](https://static.wikia.nocookie.net/gup/images/8/87/Orangepekoeofficial.png)<br>所属作品：`girls und panzer`<br>日语：オレンジペコ |  |
 | rosehip | 蔷薇果 | ![](https://static.wikia.nocookie.net/gup/images/e/e8/Rosehipnormaluniform.png)<br>所属作品：`girls und panzer`<br>日语：ローズヒップ |  |
 | rukuriri | 鲁克莉莉 | ![](https://static.wikia.nocookie.net/gup/images/1/1d/Rukuririofficial.png)<br>所属作品：`girls und panzer`<br>日语：ルクリリ |  |
