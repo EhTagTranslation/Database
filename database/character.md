@@ -1525,7 +1525,7 @@ example:
 |  | 库拉拉 |  |  |
 | maho nishizumi | 西住真穗 | ![](https://static.wikia.nocookie.net/gup/images/a/af/Mahoofficial.png)<br>所属作品：`girls und panzer`<br>日语：西住まほ |  |
 | erika itsumi | 逸见艾丽卡 | ![](https://static.wikia.nocookie.net/gup/images/b/bb/Erikaofficial.png)<br>所属作品：`girls und panzer`<br>日语：逸見 エリカ |  |
-| mika | 米卡 |  |  |
+| mika | 米卡 | ![](https://static.wikia.nocookie.net/gup/images/3/36/Micahofficial.png)<br>所属作品：`girls und panzer`<br>日语：ミカ |  |
 | aki | 阿基 |  |  |
 | mikko | 米科 |  |  |
 | kinuyo nishi | 西绢代 | ![](https://static.wikia.nocookie.net/gup/images/f/f5/Nishi.png)<br>日语：西 絹代/にし きぬよ<br>所属作品:`girls und panzer` | [萌娘百科](https://zh.moegirl.org.cn/西绢代) |
