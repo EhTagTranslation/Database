@@ -730,7 +730,7 @@ example:
 |  | 日野茜(重复项) |  |  |
 | kirari moroboshi | 诸星琪拉莉 | ![](https://patchwiki.biligame.com/images/imascg/1/15/bhs0scovwgqjtb0v9hv73djsnnx7gxs.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | airi totoki | 十时爱梨 | ![](https://patchwiki.biligame.com/images/imascg/thumb/1/13/9scsyg0nyw35x786s2rh8mpnbfn4i7m.jpg/375px-CG-Airi-SR-21.jpg)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
-| natalia | 娜塔莉亚 | ![](https://patchwiki.biligame.com/images/imascg/3/36/khw9z3jtq7n7h5r9jhoh1u7rwuzgdwa.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
+| natalia | 娜塔莉亚 | ![](https://patchwiki.biligame.com/images/imascg/0/07/fbgxm8wfrccgunapbezsx64k1kgslxn.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 相马夏美 |  |  |
 |  | 槙原志保 |  |  |
 | takumi mukai | 向井拓海 | ![](https://patchwiki.biligame.com/images/imascg/1/12/0kzzgcuy0w2uugbg9f7rn4modp68dcf.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
