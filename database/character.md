@@ -1546,7 +1546,7 @@ example:
 | yuri isuzu | 五十铃百合 |  |  |
 | shiho nishizumi | 西住志穗 | ![](https://static.wikia.nocookie.net/gup/images/8/87/Shiho.png)<br>出自作品：`p:girls und panzer`<br>日语：西住しほ / にしずみしほ | [萌娘百科](https://zh.moegirl.org.cn/西住志穗) |
 |  | 秋山淳五郎 |  |  |
-| yoshiko akiyama | 秋山好子 | ![](https://ehgt.org/w/00/923/19218-o2opfpgo.webp)<br>出自作品：`p:girls und panzer`<br><br>秋山好子（日语：秋（あき）山（やま）　好（よし）子（こ））是由Actas所制作的动画《少女与战车》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/秋山好子) |
+| yoshiko akiyama | 秋山好子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/a5/4f/42112_crt_6JZUF.jpg?r=1464654692)<br>所属作品：`girls und panzer` | [萌娘百科](https://zh.moegirl.org.cn/秋山好子) |
 |  | 冷泉久子 |  |  |
 | chiyo shimada | 岛田千代 | ![](https://ehgt.org/w/02/282/28606-g8hp8v8c.webp)<br>出自作品：`p:girls und panzer`<br>日语：島田 千代（しまだ ちよ） | [萌娘百科](https://zh.moegirl.org.cn/岛田千代) |
 |  | 文科省官员 |  |  |
