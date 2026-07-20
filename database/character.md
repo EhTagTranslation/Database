@@ -1538,7 +1538,7 @@ example:
 |  | 留美 |  |  |
 |  | 鹤姬静 |  |  |
 |  | 松风铃 |  |  |
-| ami chouno | 蝶野亚美 |  |  |
+| ami chouno | 蝶野亚美 | ![](https://static.wikia.nocookie.net/gup/images/3/38/AmiTransp.png)<br>所属作品：`girls und panzer` |  |
 |  | 篠川香音 |  |  |
 | rena andou | 安藤丽奈 | ![](https://static.wikia.nocookie.net/gup/images/d/de/AndouTransp.png)<br>所属作品：`girls und panzer`<br>日语：安藤レナ |  |
 | ruka oshida | 押田流歌 | ![](https://static.wikia.nocookie.net/gup/images/7/77/OshidaTransparent.png)<br>所属作品：`girls und panzer`<br>日语：押田ルカ |  |
