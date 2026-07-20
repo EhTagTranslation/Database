@@ -15420,6 +15420,7 @@ example:
 | taima miko nono-sama | 退魔巫女のの様&退魔道女ノノ様 | 退魔道女ノノ～喜欢的事情是、和我一样强大的女性打败怪物和妖魔、那个帅气的身姿～<br>基本上不会做回复、但我喜欢读大家的评论、请不要顾虑一起评论作品吧。<br>日本語 オッケー！<br>中国语 可以！<br>English OK！ | [FANBOX](https://ononosama.fanbox.cc/)<br>[pixiv](https://www.pixiv.net/users/10866428)<br>[pixiv](https://www.pixiv.net/users/99415511) |
 | natsuzo | なつぞう |  |  |
 | joucho | 情緒 |  |  |
+| erai | えらい |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
