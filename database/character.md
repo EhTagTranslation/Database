@@ -3858,7 +3858,7 @@ example:
 | yelan | 夜兰 | ![](https://patchwiki.biligame.com/images/ys/5/53/2zdtnu4axo2r34twhu7r1i2ityh2e0x.gif)<br>所属作品:`p:genshin impact`<br>自称供职于总务司的神秘人士，却又是总务司名录里的「不存在之人」。 | [萌娘百科](https://zh.moegirl.org.cn/夜兰) |
 | baki hanma | 范马刃牙 | 所属作品 `grappler baki` | [Fandom](https://baki.fandom.com/wiki/Baki_Hanma) |
 | mana inuyama | 犬山真名 | 所属作品 `p:gegege no kitarou`<br>![图](https://ehgt.org/3d/f9/3df99a587b6ca07508581a39287a94689356dfaf-29336-478-860-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/犬山真名) [Fandom](https://gegegenokitaro.fandom.com/wiki/Mana_Inuyama) |
-| megumi | 惠美 | 惠美（日语：メグミ），也译惠，《`girls und panzer`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/惠美%28少女与战车%29#) |
+| megumi | 惠美 | ![](https://static.wikia.nocookie.net/gup/images/2/25/Megumiofficial.png)<br>所属作品：`girls und panzer`<br>日语：メグミ | [萌娘百科](https://zh.moegirl.org.cn/惠美%28少女与战车%29#) |
 | rumi | 留美 | 留美（日语：ルミ），也译琉美，瑠美，瑠海，《`girls und panzer`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/留美%28少女与战车%29) |
 | mare s. ephemeral | 梅娅·S·艾菲梅拉尔 | 梅娅·S·艾菲梅拉尔是Favorite制作的R18恋爱文字冒险类游戏《`p:hoshizora no memoria`》及其衍生作品的登场角色。<br>![梅娅](https://t.vndb.org/ch/66/40666.jpg)<br>从设定上来讲是`f:alien girl`(Extraterrestrial), 星球的化身(Celestial Body)(比较类似于<`p:rewrite`>中地球的化身`c:kagari`) | [萌娘百科](https://zh.moegirl.org.cn/梅娅·S·艾菲梅拉尔) |
 | loid forger | 劳埃德·福杰 | ![](https://static.wikia.nocookie.net/spy-x-family9171/images/9/9c/Loid_Forger_Colored_Full_Body.png)<br>所属作品：`spy x family`<br>西人民共和国的一名间谍，代号黄昏。 | [维基百科](https://zh.wikipedia.org/wiki/SPY×FAMILY間諜家家酒) |
