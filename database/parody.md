@@ -464,7 +464,7 @@ example:
 | gekkan shoujo nozaki-kun | 月刊少女野崎君 |  |  |
 | girl friend beta | 临时女友 |  |  |
 | bakuman | 食梦者 |  |  |
-| nisekoi | 伪恋 |  |  |
+| nisekoi | 伪恋 | ![](https://lain.bgm.tv/r/400/pic/cover/l/22/cd/114758_27XTt.jpg)<br>古味直志创作的漫画作品，并有改编动画。 |  |
 | blade and soul | 剑灵 |  |  |
 | inu x boku ss | 妖狐×仆SS |  |  |
 | guilty gear | 罪恶装备 |  |  |
