@@ -4630,7 +4630,7 @@ example:
 | bailu | 白露 | ![](https://patchwiki.biligame.com/images/sr/thumb/3/32/rzr41b0bxdlovno4qie52rdjrun0y3z.png/1050px-白露立绘.png)<br>所属作品：`honkai star rail`<br>性格活泼的小女孩，持明族的「衔药龙女」，药到病除的名医。 | [BILIGAME WIKI](https://wiki.biligame.com/sr/白露) |
 | tingyun | 停云（忘归人） | ![](https://patchwiki.biligame.com/images/sr/thumb/8/84/cdbqs9lnnyfi304n6ky9aht9yi3pa4g.png/1050px-忘归人立绘.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/停云) |
 | bronya rand | 布洛妮娅·兰德 | ![](https://img.moegirl.org.cn/common/5/59/布洛妮娅·兰德.png)<br>所属作品：`honkai star rail`<br>贝洛伯格「大守护者」继承人，年轻干练的银鬃铁卫统领。 | [萌娘百科](https://zh.moegirl.org.cn/布洛妮娅·兰德) |
-| shuuko komi | 古见秀子 | 古见秀子，古见硝子的母亲，是漫画《古见同学有交流障碍症》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/74/Komi_Shuko.png) | [萌娘百科](https://zh.moegirl.org.cn/古见秀子) |
+| shuuko komi | 古见秀子 | ![](https://static.wikia.nocookie.net/komisan-wa-komyushou-desu/images/e/e7/Shuuko_Anime.png)<br>所属作品：`komi-san wa komyushou desu.` | [萌娘百科](https://zh.moegirl.org.cn/古见秀子) |
 | kana arima | 有马加奈 | ![](https://static.wikia.nocookie.net/oshi_no_ko/images/e/ee/Kana_Arima_Anime.png)<br>所属作品：`oshi no ko` | [萌娘百科](https://zh.moegirl.org.cn/有马加奈) |
 | mina majikina | 真镜名美奈 | 真镜名美奈（日语：真鏡名 ミナ）是SNK旗下的游戏《侍魂》系列及其衍生作品的登场角色。初登场于《侍魂 零》。<br>![](https://img.moegirl.org.cn/common/8/85/19341583.jpg) | [萌娘百科](https://zh.moegirl.org.cn/真镜名美奈) |
 | nyotengu | 女天狗 | ![](https://static.wikia.nocookie.net/deadoralive/images/c/c6/CECBCF84-ECFE-4C3A-AC03-7E5B834B5582.png)<br>所属作品：`dead or alive` | [萌娘百科](https://zh.moegirl.org.cn/女天狗%28死或生%29) |
