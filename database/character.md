@@ -1516,7 +1516,7 @@ example:
 | kay | 凯伊 | ![](https://static.wikia.nocookie.net/gup/images/4/47/Kay.png)<br>所属作品：`girls und panzer`<br>日语：ケイ |  |
 |  | 直美 |  |  |
 |  | 亚理纱 |  |  |
-| chiyomi anzai | 安斋千代美 |  |  |
+| chiyomi anzai | 安斋千代美 | ![](https://static.wikia.nocookie.net/gup/images/7/79/Anchovy.png)<br>所属作品：`girls und panzer`<br>日语：アンチョビ |  |
 | carpaccio | 卡尔帕乔 | ![](https://static.wikia.nocookie.net/gup/images/b/b4/Carpaccio.png)<br>所属作品：`girls und panzer`<br>日语：カルパッチョ |  |
 | pepperoni | 佩帕罗妮 | ![](https://static.wikia.nocookie.net/gup/images/f/f2/Peperonie.png)<br>所属作品：`girls und panzer`<br>日语：ペパロニ |  |
 | katyusha | 喀秋莎 |  |  |
