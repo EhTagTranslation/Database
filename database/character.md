@@ -9761,6 +9761,7 @@ example:
 | yoshitaka nakabayashi | 中林义贵 | ![](https://static.wikia.nocookie.net/villains/images/a/a6/Yoshitaka.jpg)<br>所属作品：`he is my master` |  |
 | mitsuki sawatari | 泽渡美月 | ![](https://lain.bgm.tv/r/400/pic/crt/l/65/18/8189_crt_anidb.jpg)<br>所属作品：`he is my master` |  |
 | izumi sawatari | 泽渡泉 | ![](https://lain.bgm.tv/r/400/pic/crt/l/3f/ff/8203_crt_anidb.jpg)<br>所属作品：`he is my master` |  |
+| anna kurauchi | 仓内安奈 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e7/8a/35132_crt_9RBMJ.jpg?r=1440740858)<br>所属作品：`he is my master` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
