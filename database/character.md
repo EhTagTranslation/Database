@@ -9768,6 +9768,7 @@ example:
 | joey jones | 乔伊·琼斯 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d0/d1/68022_crt_0acT0.jpg)<br>所属作品：`heroman`<br>日语：ジョセフ・カーター・ジョーンズ |  |
 | hinako | 雏子 | ![](https://ehgt.org/w/00/009/73613-auob7u6k.webp)<br>所属作品：`issho ni training` |  |
 | hagoromo gitsune | 羽衣狐 | ![](https://lain.bgm.tv/r/400/pic/crt/l/a3/f9/35950_crt_Zy0cB.jpg?r=1739105665)<br>所属作品：`nurarihyon no mago` |  |
+| nomu | 脑无 | ![](https://lain.bgm.tv/r/400/pic/crt/l/de/bf/41940_crt_w666j.jpg?r=1469015900)<br>所属作品：`my hero academia` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
