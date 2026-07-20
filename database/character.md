@@ -1541,7 +1541,7 @@ example:
 | ami chouno | 蝶野亚美 |  |  |
 |  | 篠川香音 |  |  |
 | rena andou | 安藤丽奈 |  |  |
-| ruka oshida | 押田流歌 |  |  |
+| ruka oshida | 押田流歌 | ![](https://static.wikia.nocookie.net/gup/images/7/77/OshidaTransparent.png)<br>所属作品：`girls und panzer`<br>日语：押田ルカ |  |
 | murakami | 村上 |  |  |
 | yuri isuzu | 五十铃百合 |  |  |
 | shiho nishizumi | 西住志穗 | ![](https://ehgt.org/w/00/559/96807-8ey2gili.webp)<br>出自作品：`p:girls und panzer`<br><br>西住志穗（日语：西住しほ / にしずみしほ）是Actas制作的动画《少女与战车》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/西住志穗) |
