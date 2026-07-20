@@ -1495,7 +1495,7 @@ example:
 | azusa sawa | 泽梓 |  |  |
 |  | 山乡步 |  |  |
 |  | 阪口桂利奈 |  |  |
-| yuuki utsugi | 宇津木优季 |  |  |
+| yuuki utsugi | 宇津木优季 | ![](https://static.wikia.nocookie.net/gup/images/5/52/Yuukiofficial.png)<br>所属作品：`girls und panzer`<br>日语：宇津木 優季 |  |
 |  | 大野绫 |  |  |
 | saki maruyama | 丸山纱希 |  |  |
 | midoriko sono | 园绿子 |  |  |
