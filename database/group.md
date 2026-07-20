@@ -1731,7 +1731,7 @@ example:
 | nihon kemomimi suishou iinkai | 日本ケモ耳推奨委員会 |  |  |
 | ayakase-ke no neko | 綾枷家の猫 |  |  |
 | mignon works | MIGNON WORKS |  |  |
-| ichijiku yogurt | いちじくよーぐると | 无花果酸奶 |  |
+| ichijiku yogurt | 无花果酸奶 | いちじくよーぐると |  |
 | egoistic honey | Egoistic Honey |  |  |
 | amamiya | 甘味屋 |  |  |
 | curry berg dish | カリーバーグディッシュ |  |  |
