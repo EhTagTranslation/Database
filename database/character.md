@@ -9763,6 +9763,7 @@ example:
 | izumi sawatari | 泽渡泉 | ![](https://lain.bgm.tv/r/400/pic/crt/l/3f/ff/8203_crt_anidb.jpg)<br>所属作品：`he is my master` |  |
 | anna kurauchi | 仓内安奈 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e7/8a/35132_crt_9RBMJ.jpg?r=1440740858)<br>所属作品：`he is my master` |  |
 | wataru tachibana | 橘亘 | ![](https://static.wikia.nocookie.net/hayatenogotoku/images/a/ac/Tachibana_Wataru_3.jpg)<br>所属作品：`hayate no gotoku`<br>日语：橘 ワタル |  |
+| saki kijima | 贵岛沙希 | ![](https://static.wikia.nocookie.net/hayatenogotoku/images/e/e5/Saki_Kijima.jpg)<br>所属作品：`hayate no gotoku`<br>日语：貴嶋 サキ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
