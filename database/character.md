@@ -1481,7 +1481,7 @@ example:
 | hana isuzu | 五十铃华 | ![](https://static.wikia.nocookie.net/gup/images/a/a5/Hanaofficial.png)<br>所属作品：`girls und panzer` |  |
 | yukari akiyama | 秋山优花里 | ![](https://static.wikia.nocookie.net/gup/images/9/94/Yukariofficial.png)<br>所属作品：`girls und panzer` |  |
 | mako reizei | 冷泉麻子 | ![](https://static.wikia.nocookie.net/gup/images/3/34/Makoofficial.png)<br>所属作品：`girls und panzer` |  |
-| anzu kadotani | 角谷杏 |  |  |
+| anzu kadotani | 角谷杏 | ![](https://static.wikia.nocookie.net/gup/images/4/43/AnzuOfficial.png)<br>所属作品：`girls und panzer` |  |
 | yuzu koyama | 小山柚子 | ![](https://static.wikia.nocookie.net/gup/images/f/fa/Yuzuofficial.png)<br>所属作品：`girls und panzer` |  |
 | momo kawashima | 河岛桃 |  |  |
 |  | 凯撒 |  |  |
