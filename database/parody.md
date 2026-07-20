@@ -148,7 +148,7 @@ example:
 | to heart | 心之彼端 | 《To Heart》是由Leaf/AQUAPLUS在1997年出版的PC美少女游戏。 | [萌娘百科](https://zh.moegirl.org.cn/ToHeart) [维基百科](https://zh.wikipedia.org/wiki/To_Heart) |
 | toheart2 | ToHeart2 | ![图](https://ehgt.org/2a/50/2a505b55f08336e6a411f5387a7dc38c07f5f247-70604-320-452-jpg_l.jpg)![图](https://ehgt.org/e3/e8/e3e8326a98db36972b4b3e7f9a4043a567105a37-1216531-1024-1441-jpg_l.jpg) |  |
 | k-on | 轻音少女 | ![图](https://ehgt.org/ee/4f/ee4f3da314a2748030b53b9e495c8d20fd0d6fd5-1465878-5000-3501-jpg_l.jpg) |  |
-| he is my master | 我的主人 | 《我的主人爱作怪》又译《这就是我的主人》<br>![图](# "https://ehgt.org/b6/ab/b6abf92359b980bb527b9dbe70f3e05aa2bfe1dc-1751503-1359-1891-jpg_250.jpg") |  |
+| he is my master | 我的主人爱作怪 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4e/ab/6389_WieXm.jpg)<br>日语：これが私の御主人様<br>别译：这就是我的主人 |  |
 | code geass | 叛逆的鲁鲁修 | ![](https://thumbsnap.com/i/K42JPLdL.jpg)<br>《Code Geass 反叛的鲁路修》（日语：コードギアス 反逆のルルーシュ）是日本日昇制作的Code Geass动画系列第一作。 | [萌娘百科](https://zh.moegirl.org.cn/CODE_GEASS) \| [维基百科](https://zh.wikipedia.org/wiki/Code_Geass_反叛的魯路修) |
 | naruto | 火影忍者 | ![](https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg)<br>《火影忍者》（日语：NARUTO -ナルト-），为日本漫画家岸本齐史创作的少年漫画，并有改编动画。 | [维基百科](https://zh.wikipedia.org/wiki/火影忍者)<br>[百度百科](https://baike.baidu.com/item/火影忍者/8702) |
 | school rumble | 校园迷糊大王 | ![图](# "https://ehgt.org/99/a6/99a6540c2f25f5dc98b2f1132d653fbe4bc437b1-2416658-1658-2338-jpg_l.jpg")![图](https://ehgt.org/40/63/4063a57712188f2180cbfb8ac11032e46556cd7e-623674-1073-1500-jpg_l.jpg) |  |
