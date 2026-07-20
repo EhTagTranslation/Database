@@ -1489,7 +1489,7 @@ example:
 |  | 左卫门佐 |  |  |
 |  | 龙 |  |  |
 | noriko isobe | 矶边典子 |  |  |
-| taeko kondou | 近藤妙子 |  |  |
+| taeko kondou | 近藤妙子 | ![](https://static.wikia.nocookie.net/gup/images/a/aa/Taekoofficial.png)<br>所属作品：`girls und panzer` |  |
 | shinobu kawanishi | 河西忍 |  |  |
 | akebi sasaki | 佐佐木明日 |  |  |
 | azusa sawa | 泽梓 |  |  |
