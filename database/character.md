@@ -9752,6 +9752,7 @@ example:
 | ore | 俺 | ![](https://static.wikia.nocookie.net/isekai/images/c/c1/Protagonist_-_Anime_CH.png)<br>所属作品：`megami isekai tensei nani ni naritai desu ka ore yuusha no rokkotsu de` |  |
 | dianna soreil | 迪安娜·索雷尔 | ![](https://static.wikia.nocookie.net/gundam/images/0/08/TAG-Dianna-Soriel.png)<br>所属作品：`turn a gundam` |  |
 | sochie heim | 苏茜亚·海姆 | ![](https://static.wikia.nocookie.net/gundam/images/2/23/TAG-Sochie.png)<br>所属作品：`turn a gundam` |  |
+| enna alouette | 天堂鸟Enna | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/f/f1/Enna_Alouette_Portrait.png)<br>所属社团：`nijisanji`<br>日语：エナー・アールウェット | [YouTube](https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
