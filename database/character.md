@@ -9753,6 +9753,7 @@ example:
 | dianna soreil | 迪安娜·索雷尔 | ![](https://static.wikia.nocookie.net/gundam/images/0/08/TAG-Dianna-Soriel.png)<br>所属作品：`turn a gundam` |  |
 | sochie heim | 苏茜亚·海姆 | ![](https://static.wikia.nocookie.net/gundam/images/2/23/TAG-Sochie.png)<br>所属作品：`turn a gundam` |  |
 | enna alouette | 天堂鸟Enna | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/f/f1/Enna_Alouette_Portrait.png)<br>所属社团：`nijisanji`<br>日语：エナー・アールウェット | [YouTube](https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow) |
+| miu yarai | 矢来美羽 | ![](https://static.wikia.nocookie.net/vsbattles/images/7/74/Yarai_Miu.png)<br>所属作品：`dracu-riot` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
