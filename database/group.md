@@ -14069,6 +14069,7 @@ example:
 | tatsumaki denchi | 竜巻電池 |  |  |
 | usagi no yume | うさぎのゆめ |  |  |
 | joucho antei | 情緒安亭 |  |  |
+| circle cherry boy | サークルチェリー・ボーイ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
