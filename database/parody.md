@@ -562,7 +562,7 @@ example:
 | beauty and the beast | 美女与野兽 |  |  |
 | baka to test to shoukanjuu | 笨蛋测验召唤兽 | ![](https://thumbsnap.com/i/RaJfEQWg.jpg)<br>《笨蛋、测验、召唤兽》（日语：バカとテストと召喚獣、韩语：바보와 시험과 소환수、英语：Baka and Test: Summon the Beasts）是井上坚二创作、叶贺唯作画的轻小说，于2007年1月起由enterbrain（后转为KADOKAWA）出版，发行于旗下Fami通文库。本小说是第8届Entame大奖小说部门编辑部特别奖得奖作品，曾于2008年获得“这本轻小说真厉害！”排行榜的第8位、于2010年获得“这本轻小说真厉害！”排行榜的第1位。本小说有漫画、动画、广播剧、游戏等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/笨蛋、测验、召唤兽) |
 | arcana heart | 圣灵之心 |  |  |
-| heroman | HEROMAN |  |  |
+| heroman | HEROMAN | ![](https://lain.bgm.tv/r/400/pic/cover/l/27/d8/4312_LSvSJ.jpg) |  |
 | anyamaru tantei kiruminzoo | 动物侦探奇鲁米 |  |  |
 | kyoukai senjou no horizon | 境界线上的地平线 | 《境界线上的地平线》（境界線上のホライゾン、Horizon on the Middle of Nowhere）是由川上稔创作的日本的轻小说由电击文库（ASCII·MediaWorks）出版发行。现有动画、漫画、游戏等衍生作品。<br>![图](https://ehgt.org/60/6d/606d7b37976c84ddbb735c6c7913ccac59745083-251201-800-1129-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/境界线上的地平线) [维基百科](https://zh.wikipedia.org/wiki/境界線上的地平線) |
 | rwby | RWBY | ![RWBY](https://upload.wikimedia.org/wikipedia/en/4/45/RWBY_Cover.jpg)<br>RWBY是一部受美国动漫影响的 3D 计算机动画网络系列，由 Monty Oum 为 Rooster Teeth 创作。<br>RWBY这个名字来源于四位主角的名字：Ruby Rose、Weiss Schnee、Blake Belladonna和Yang Xiao Long(杨小龙)，以及他们各自的主题颜色（红、白、黑、黄）。<br>故事发生在《遗迹》的虚构世界中，年轻人接受训练成为战士（“猎人”和“女猎人”），以保护他们的世界免受格林怪物的侵害。 | [维基百科](https://en.wikipedia.org/wiki/RWBY)<br>[官方推特](https://x.com/OfficialRWBY) |
