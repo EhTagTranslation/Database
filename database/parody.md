@@ -205,7 +205,7 @@ example:
 | dorei to no seikatsu | 与奴隶的生活 -Teaching Feeling- | ![](https://ehgt.org/f6/c1/f6c1f9496abd2fb24c4708552cb23444f267938c-1164819-1240-1754-jpg_l.jpg) |  |
 | girls und panzer | 少女与战车 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a3/af/40310_suEF6.jpg)<br>《少女与战车》（日语：ガールズ&パンツァー）是由水岛努执导，吉田玲子担当编剧，Actas Inc.制作的原创动画。 | [萌娘百科](https://zh.moegirl.org.cn/少女与战车) |
 | seto no hanayome | 濑户的花嫁 | 《濑户的花嫁》（瀬戸の花嫁）是由2002年至2009年在《月刊GANGAN WING》连载的木村太彦原作漫画作品，在2004年至2005年共发售广播剧CD两卷。从2007年4月开始播放电视动画，2008年发售OVA。网络广播‘瀬戸の花嫁 嫁入りラジオ’于2007年4月6日开始在音泉每周发放。2010年4月22日于网上连载再开。在《月刊GANGAN JOKER》2010年12月号连载完毕。<br>![](# "https://ehgt.org/cb/4e/cb4ef3421b8266e546d3748819b068222b3cce49-1573305-1661-2400-jpg_l.jpg") |  |
-| brave witches | 无畏魔女 | ![](https://ehgt.org/d8/3d/d83d8d6e1311cbbd4b3e205e6db348d4b5b5f229-753411-1051-1494-jpg_l.jpg) |  |
+| brave witches | 无畏魔女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5c/85/85338_7ROAZ.jpg)<br>作者：島田フミカネ |  |
 | strike witches | 强袭魔女 | ![](https://ehgt.org/bb/a8/bba849df4c0a42e8ab77ffc2041c965d36d9a2d9-927736-777-1087-jpg_l.jpg) |  |
 | kemono friends | 兽娘动物园 | 动物朋友、动物好友、兽娘动物园<br>![](https://ehgt.org/a2/bd/a2bda88699f5537b84ac994d8a9cbbfccc022b86-1281172-860-1220-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/兽娘动物园) [维基百科](https://zh.wikipedia.org/wiki/動物朋友) |
 | league of legends | 英雄联盟 | ![](https://patchwiki.biligame.com/resources/assets/images/logo/logo_lol.png?t=2025112910&v=76)<br>《英雄联盟》（League of Legends，简称LOL）是由美国拳头游戏（Riot Games）开发、中国内地由腾讯游戏代理运营的英雄对战MOBA竞技网游。 |  |
