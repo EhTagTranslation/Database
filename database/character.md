@@ -1548,7 +1548,7 @@ example:
 |  | 秋山淳五郎 |  |  |
 | yoshiko akiyama | 秋山好子 | ![](https://ehgt.org/w/00/923/19218-o2opfpgo.webp)<br>出自作品：`p:girls und panzer`<br><br>秋山好子（日语：秋（あき）山（やま）　好（よし）子（こ））是由Actas所制作的动画《少女与战车》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/秋山好子) |
 |  | 冷泉久子 |  |  |
-| chiyo shimada | 岛田千代 | ![](https://static.wikia.nocookie.net/gup/images/9/9b/Shimada_screenshot.png)<br>出自作品：`p:girls und panzer`<br>日语：島田 千代（しまだ ちよ） | [萌娘百科](https://zh.moegirl.org.cn/岛田千代) |
+| chiyo shimada | 岛田千代 | ![](https://ehgt.org/w/02/282/28606-g8hp8v8c.webp)<br>出自作品：`p:girls und panzer`<br>日语：島田 千代（しまだ ちよ） | [萌娘百科](https://zh.moegirl.org.cn/岛田千代) |
 |  | 文科省官员 |  |  |
 |  | ▼ 尼尔 |  |  |
 | a2 | A型二号 |  |  |
