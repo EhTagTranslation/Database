@@ -1540,7 +1540,7 @@ example:
 |  | 松风铃 |  |  |
 | ami chouno | 蝶野亚美 |  |  |
 |  | 篠川香音 |  |  |
-| rena andou | 安藤丽奈 |  |  |
+| rena andou | 安藤丽奈 | ![](https://static.wikia.nocookie.net/gup/images/d/de/AndouTransp.png)<br>所属作品：`girls und panzer`<br>日语：安藤レナ |  |
 | ruka oshida | 押田流歌 | ![](https://static.wikia.nocookie.net/gup/images/7/77/OshidaTransparent.png)<br>所属作品：`girls und panzer`<br>日语：押田ルカ |  |
 | murakami | 村上 |  |  |
 | yuri isuzu | 五十铃百合 |  |  |
