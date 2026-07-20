@@ -9759,6 +9759,7 @@ example:
 | natose | 南斗星 | ![](https://static.wikia.nocookie.net/theyaremynoblemasters/images/e/e3/NatoseTAMNM.jpg)<br>所属作品：`they are my noble masters` |  |
 | yao fueifuei | 杨菲菲 | ![](https://patchwiki.biligame.com/images/imascg/1/14/45xu4esnw0ep47na6ki78bh6u9ei6m4.png)<br>所属作品：`the idolmaster`<br>日文名：やおふぇいふぇい |  |
 | yoshitaka nakabayashi | 中林义贵 | ![](https://static.wikia.nocookie.net/villains/images/a/a6/Yoshitaka.jpg)<br>所属作品：`he is my master` |  |
+| mitsuki sawatari | 泽渡美月 | ![](https://lain.bgm.tv/r/400/pic/crt/l/65/18/8189_crt_anidb.jpg)<br>所属作品：`he is my master` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
