@@ -1517,7 +1517,7 @@ example:
 |  | 直美 |  |  |
 |  | 亚理纱 |  |  |
 | chiyomi anzai | 安斋千代美 |  |  |
-| carpaccio | 卡尔帕乔 |  |  |
+| carpaccio | 卡尔帕乔 | ![](https://static.wikia.nocookie.net/gup/images/b/b4/Carpaccio.png)<br>所属作品：`girls und panzer`<br>日语：カルパッチョ |  |
 | pepperoni | 佩帕罗妮 | ![](https://static.wikia.nocookie.net/gup/images/f/f2/Peperonie.png)<br>所属作品：`girls und panzer`<br>日语：ペパロニ |  |
 | katyusha | 喀秋莎 |  |  |
 | nonna | 农娜 | ![](https://static.wikia.nocookie.net/gup/images/d/d0/Nonna.png)<br>所属作品：`girls und panzer`<br>日语：ノンナ |  |
