@@ -9796,6 +9796,7 @@ example:
 | facehugger | 抱脸虫 | “抱脸虫”是科幻电影《异形》系列中的一种虚构外星生物，属于异形生命周期中的第二阶段形态。它的外形类似一只带有长尾的节肢动物，会主动扑向宿主面部，用尾部的触手缠绕宿主的喉咙并植入胚胎。被寄生后，宿主通常会在短时间内死亡，而抱脸虫则会自行脱落。该生物以其快速、致命和寄生方式著称，是异形系列中最具标志性和恐怖感的形象之一。 |  |
 | silica the s-rank mage | 西莉卡（S级法师） | ![](https://static.wikia.nocookie.net/tsuiho-shiromadoshi/images/9/94/Silica.png)<br>所属作品：`yuusha party wo tsuihou sareta shiromadoushi s-rank boukensha ni hirowareru` |  |
 | elena skalnikore | 艾莲娜·斯卡尼古尔 | ![](https://static.wikia.nocookie.net/handoreddo/images/f/fe/Hundred_Elena.jpg)<br>所属作品：`hundred`<br>日语：エレナ・スカルニコレ |  |
+| kobo kanaeru | 可波·卡娜埃露 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/3/3b/Kobo_Kanaeru_Portrait.png)<br>所属社团：`hololive`<br>日语：こぼ・かなえる |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
