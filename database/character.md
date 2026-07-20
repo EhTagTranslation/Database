@@ -1498,7 +1498,7 @@ example:
 | yuuki utsugi | 宇津木优季 | ![](https://static.wikia.nocookie.net/gup/images/5/52/Yuukiofficial.png)<br>所属作品：`girls und panzer`<br>日语：宇津木 優季 |  |
 |  | 大野绫 |  |  |
 | saki maruyama | 丸山纱希 |  |  |
-| midoriko sono | 园绿子 |  |  |
+| midoriko sono | 园绿子 | ![](https://static.wikia.nocookie.net/gup/images/e/e0/Sodokoofficial.png)<br>所属作品：`girls und panzer`<br>日语：園 みどり子 |  |
 |  | 后藤茂代子 |  |  |
 |  | 金春希美 |  |  |
 |  | 猫田 |  |  |
