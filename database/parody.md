@@ -2894,7 +2894,7 @@ example:
 | usotsuki gokuou-kun | 骗子!狱王君 | ![](https://upload.wikimedia.org/wikipedia/en/d/d0/Usotsuki!_Gokuō-kun_volume_1.png)<br>日语：ウソツキ！ゴクオーくん<br>日本漫画家‌吉もと誠‌创作的漫画作品。 |  |
 | megami isekai tensei nani ni naritai desu ka ore yuusha no rokkotsu de | 女神“异世界转生想成为什么” 我“勇者的肋骨” | ![](https://lain.bgm.tv/r/400/pic/cover/l/c4/47/623854_02HSu.jpg)<br>日语：女神『異世界転生何になりたいですか』俺「勇者の肋骨で」<br>作者：安泰（宝島社刊） |  |
 | they are my noble masters | 你是主人我是仆 | ![](https://lain.bgm.tv/r/400/pic/cover/l/72/27/246380_92272.jpg)<br>日语：君が主で執事が俺で |  |
-| diebuster | 勇往直前2 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3a/83/768_2E3Rm.jpg) |  |
+| diebuster | 飞跃巅峰2 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3a/83/768_2E3Rm.jpg)<br>日语：トップをねらえ2! |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
