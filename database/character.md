@@ -9781,6 +9781,7 @@ example:
 | ayumi yamagou | 山乡步 | ![](https://static.wikia.nocookie.net/gup/images/a/a3/Ayumiofficial.png)<br>所属作品：`girls und panzer`<br>日语：山郷 あゆみ |  |
 | nakajima | 中岛丽罗 | ![](https://static.wikia.nocookie.net/gup/images/0/0b/Nakajimaofficial.png)<br>所属作品：`girls und panzer`<br>日语：中嶋麗羅 |  |
 | nikka edvardine katajainen | 妮卡·爱德华汀·卡塔雅南 | ![](https://static.wikia.nocookie.net/strikewitches/images/2/22/Nipani.jpg)<br>所属作品：`brave witches`<br>日语：ニッカ・エドワーディン・カタヤイネン |  |
+| takami karibuchi | 雁渊孝美 | ![](https://static.wikia.nocookie.net/strikewitches/images/0/0e/Takami_profile.jpg)<br>所属作品：`brave witches` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
