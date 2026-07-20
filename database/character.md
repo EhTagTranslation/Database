@@ -9748,6 +9748,7 @@ example:
 | tetsuya kurodake | 黑岳哲也 | ![](https://static.wikia.nocookie.net/buddyfight/images/6/67/Tetsuya_full.png)<br>所属作品：`future card buddyfight`<br>日语：黒岳テツヤ |  |
 | erina olegovna aveen | 艾莉娜·奥列戈芙娜·阿文 | エリナ・オレゴヴナ・アヴェーン |  |
 | cutlass | 卡特拉斯 |  |  |
+| megami-sama | 女神大人 | ![](https://static.wikia.nocookie.net/isekai/images/2/26/Goddess_-_Anime_CH.png)<br>所属作品：`megami isekai tensei nani ni naritai desu ka ore yuusha no rokkotsu de` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
