@@ -15423,6 +15423,7 @@ example:
 | erai | えらい |  |  |
 | gunkan amaebi | 軍艦あまえび |  |  |
 | meme koubou | めめ |  |  |
+| kumasawa | 熊沢 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
