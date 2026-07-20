@@ -14068,6 +14068,7 @@ example:
 | afterglow | Afterglow\* |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01054536.html) |
 | tatsumaki denchi | 竜巻電池 |  |  |
 | usagi no yume | うさぎのゆめ |  |  |
+| joucho antei | 情緒安亭 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
