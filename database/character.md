@@ -9774,6 +9774,7 @@ example:
 | naomi | 直美 | ![](https://static.wikia.nocookie.net/gup/images/3/39/Naomi.png)<br>所属作品：`girls und panzer`<br>日语：ナオミ |  |
 | tsuchiya | 土屋梦屯 | ![](https://static.wikia.nocookie.net/gup/images/a/ac/Tsuchiya.png)<br>所属作品：`girls und panzer`<br>日语：土屋 夢屯 |  |
 | aoi hiyoshi | 日吉葵（皮优炭） | ![](https://static.wikia.nocookie.net/gup/images/5/5d/Piyotanofficial.png)<br>所属作品：`girls und panzer`<br>日语：ぴよたん |  |
+| nozomi konparu | 金春希美 | ![](https://static.wikia.nocookie.net/gup/images/e/e7/Nozomiofficial.png)<br>所属作品：`girls und panzer` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
