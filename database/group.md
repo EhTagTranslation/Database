@@ -9484,7 +9484,7 @@ example:
 | puniiyu | ぷにいゆ |  |  |
 | puniponya | ぷにぽんや |  |  |
 | punipuni doka-n | ぷにぷにどか～ん♪ |  |  |
-| punipunikan | ぷにぷに館 |  |  |
+| punipunikan | ぷにぷに館 | ぷにぷに館@Tランドルト | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=205208/) |
 | punisher punishment | ぱにっしゃーぱにっしゅめんと |  |  |
 | punyanica | ぷにゃニカ |  |  |
 | puppy biscuit | ぱぴービスケット |  |  |
