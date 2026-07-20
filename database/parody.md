@@ -1770,7 +1770,7 @@ example:
 | astro fighter sunred | 天体战士桑雷德 |  | [维基百科](https://zh.wikipedia.org/wiki/天体战士桑雷德) |
 | astro plan | 太空历险记 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Astro_Plan) |
 | asura cryin | 魔神相克者 |  | [维基百科](https://zh.wikipedia.org/wiki/魔神相克者) |
-| atsumare fushigi kenkyuubu | 集合！不可思议研究社 |  | [维基百科](https://zh.wikipedia.org/wiki/集合！不可思議研究社) |
+| atsumare fushigi kenkyuubu | 集合！不可思议研究社 | ![](https://lain.bgm.tv/r/400/pic/cover/l/12/ff/191651_t6qze.jpg)<br>日语：あつまれ！ふしぎ研究部 | [维基百科](https://zh.wikipedia.org/wiki/集合！不可思議研究社) |
 | aura battler dunbine | 圣战士丹拜因 |  | [维基百科](https://zh.wikipedia.org/wiki/聖戰士DUNBINE) |
 | ayashi no ceres | 梦幻妖子 |  | [维基百科](https://zh.wikipedia.org/wiki/夢幻妖子) |
 | azfareo no sobayounin | 苍龙的仆人 |  | [萌娘百科](https://zh.moegirl.org.cn/苍龙的仆人) |
