@@ -9757,6 +9757,7 @@ example:
 | shinra kuonji | 久远寺森罗 | ![](https://static.wikia.nocookie.net/theyaremynoblemasters/images/0/0a/758365-shinra_large.png)<br>所属作品：`they are my noble masters`<br>日语：久遠寺森羅 |  |
 | ageha kuki | 九鬼扬羽 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8c/48/11753_crt_6AAso.jpg)<br>所属作品：`they are my noble masters`<br>日语：九鬼揚羽 |  |
 | natose | 南斗星 | ![](https://static.wikia.nocookie.net/theyaremynoblemasters/images/e/e3/NatoseTAMNM.jpg)<br>所属作品：`they are my noble masters` |  |
+| yao fueifuei | 杨菲菲 | ![](https://patchwiki.biligame.com/images/imascg/1/14/45xu4esnw0ep47na6ki78bh6u9ei6m4.png)<br>所属作品：`the idolmaster`<br>日文名：やおふぇいふぇい |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
