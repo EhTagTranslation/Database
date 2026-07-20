@@ -9800,7 +9800,7 @@ example:
 | irys | IRyS | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/5/5b/IRyS_2022_Portrait.png)<br>所属社团：`hololive`<br>日语：アイリス |  |
 | pavolia reine | 帕沃莉亚·蕾内 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/2/25/Pavolia_Reine_3D_Model.png)<br>所属社团:`hololive`<br>日语：パヴォリア・レイネ |  |
 | haanja | 哈安贾 | 所属作品：`sinisistar` |  |
-| yuu amami | 天海夕 | ![](https://static.wikia.nocookie.net/class-de-2banmeni-kawaii-onnanoko-to-tomodachi/images/9/98/Yuu_Amami_Anime.png)<br>出自作品：`p:class de 2-banme ni kawaii onnanoko to tomodachi ni natta`<br><br>天海夕（日语：あまみゆう）是轻小说《和班上第二可爱的女孩子成为朋友》中的核心人物，被设定为班级公认的第一美少女。 | [百度百科](https://baike.baidu.com/item/天海夕/62195006) |
+| yuu amami | 天海夕 | ![](https://static.wikia.nocookie.net/class-de-2banmeni-kawaii-onnanoko-to-tomodachi/images/9/98/Yuu_Amami_Anime.png)<br>出自作品：`p:class de 2-banme ni kawaii onnanoko to tomodachi ni natta`<br><br>天海夕（日语：あまみゆう）是轻小说《和班上第二可爱的女孩子成为朋友》中的核心人物，被设定为班级公认的第一美少女。 | [百度百科](https://baike.baidu.com/item/天海夕/62195006) \| [Fandom](https://kuranika.fandom.com/wiki/Yuu_Amami) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
