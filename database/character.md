@@ -9772,6 +9772,7 @@ example:
 | flint | 芙琳特 | ![](https://static.wikia.nocookie.net/gup/images/2/2e/Flint.png)<br>所属作品：`girls und panzer`<br>日语：フリント |  |
 | riko matsumoto | 松本里子 | ![](https://static.wikia.nocookie.net/gup/images/0/08/Erwinofficial.png)<br>所属作品：`girls und panzer` |  |
 | naomi | 直美 | ![](https://static.wikia.nocookie.net/gup/images/3/39/Naomi.png)<br>所属作品：`girls und panzer`<br>日语：ナオミ |  |
+| tsuchiya | 土屋梦屯 | ![](https://static.wikia.nocookie.net/gup/images/a/ac/Tsuchiya.png)<br>所属作品：`girls und panzer`<br>日语：土屋 夢屯 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
