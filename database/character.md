@@ -1510,7 +1510,7 @@ example:
 |  | 土屋 |  |  |
 | darjeeling | 大吉岭 |  |  |
 | assam | 阿萨姆 |  |  |
-| orange pekoe | 橙黄白毫 |  |  |
+| orange pekoe | 橙黄白毫 | ![](https://static.wikia.nocookie.net/gup/images/8/87/Orangepekoeofficial.png)<br>所属作品：`girls und panzer`<br>日语：オレンジペコ |  |
 | rosehip | 蔷薇果 |  |  |
 | rukuriri | 鲁克莉莉 |  |  |
 | kay | 凯伊 | ![](https://static.wikia.nocookie.net/gup/images/4/47/Kay.png)<br>所属作品：`girls und panzer`<br>日语：ケイ |  |
