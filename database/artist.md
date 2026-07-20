@@ -15421,6 +15421,7 @@ example:
 | natsuzo | なつぞう |  |  |
 | joucho | 情緒 |  |  |
 | erai | えらい |  |  |
+| gunkan amaebi | 軍艦あまえび |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
