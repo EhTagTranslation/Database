@@ -15424,6 +15424,7 @@ example:
 | gunkan amaebi | 軍艦あまえび |  |  |
 | meme koubou | めめ |  |  |
 | kumasawa | 熊沢 |  |  |
+| kie | Kie |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
