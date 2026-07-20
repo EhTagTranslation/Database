@@ -9784,6 +9784,7 @@ example:
 | takami karibuchi | 雁渊孝美 | ![](https://static.wikia.nocookie.net/strikewitches/images/0/0e/Takami_profile.jpg)<br>所属作品：`brave witches` |  |
 | gundula rall | 昆杜菈·拉尔 | ![](https://static.wikia.nocookie.net/strikewitches/images/f/f1/Gundula_Rall_Profile.jpg)<br>所属作品：`brave witches`<br>日语：グンドュラ・ラル |  |
 | edytha rossmann | 艾迪塔·罗斯曼 | ![](https://static.wikia.nocookie.net/strikewitches/images/6/64/Edytha.jpg)<br>所属作品：`brave witches`<br>日语：エディータ・ロスマン |  |
+| waltrud krupinski | 瓦尔特鲁德·库宾斯基 | ![](https://static.wikia.nocookie.net/strikewitches/images/6/6c/Waltrud_krupinski.jpg)<br>所属作品：`brave witches`<br>日语：ヴァルトルート･クルピンスキー |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
