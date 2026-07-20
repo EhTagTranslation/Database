@@ -42,7 +42,7 @@ example:
 |  | ▼Key社作品 |  |  |
 | kanon | Kanon❄ | ![图](https://ehgt.org/3e/50/3e50009195d4d8e2fbb0bfb598ab8629147e7ac7-5902895-6968-4868-jpg_l.jpg)![图](https://ehgt.org/8a/d0/8ad040fd592c5d6ce3cd1cf9abae91e03129de83-6613139-3467-2451-png_l.jpg) |  |
 | air | AIR🕊 | ![图](https://ehgt.org/3e/a7/3ea73e69f15c51281a60424f1d568c2dea2e6d43-349944-1728-1235-jpg_l.jpg) |  |
-| clannad | CLANNAD👪 | 团子大家族![图](https://ehgt.org/83/e3/83e325c3621ac18761d34e23b1399d72d9dfda8a-578197-1139-1600-jpg_l.jpg)![图](https://ehgt.org/01/d9/01d911516d467eb61e32f38e2812604f27bfb8eb-776953-1102-1600-jpg_l.jpg)![图](# "https://ehgt.org/45/7f/457fc64d7daa370f2bbb991322c6473545ff789a-453032-1124-1600-jpg_l.jpg") |  |
+| clannad | CLANNAD | ![](https://lain.bgm.tv/r/400/pic/cover/l/28/38/51_z0Ly8.jpg)<br>《CLANNAD》是日本游戏品牌Key发行的恋爱冒险游戏，并有改编动画。 |  |
 | angel beats | 天使的心跳 | 《Angel Beats!》（简称AB）是由Key主导的系列企划。包括共13话的原创TV动画，以及漫画、小说、游戏、网络广播、Guide Book等作品。<br>![](https://img.moegirl.org.cn/common/2/20/Angelbeats.jpg) | [萌娘百科](https://zh.moegirl.org.cn/Angel_Beats)! |
 | charlotte | Charlotte🌠 | 麻枝准原创动画第二部<br>![图](https://ehgt.org/85/28/8528be985e3cc839b689675d1961886ce68f03a3-1047883-2457-3542-jpg_l.jpg) |  |
 | little busters | Little Busters!⚾🐈 | 《Little Busters!》（日语：リトルバスターズ！），是由日本公司VISUAL ARTS旗下游戏子品牌`key`所制作发行的一款Galgame。 | [萌娘百科](https://zh.moegirl.org.cn/Little_Busters!) [维基百科](https://zh.wikipedia.org/wiki/Little_Busters!) |
