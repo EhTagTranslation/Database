@@ -9755,6 +9755,7 @@ example:
 | enna alouette | 天堂鸟Enna | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/f/f1/Enna_Alouette_Portrait.png)<br>所属社团：`nijisanji`<br>日语：エナー・アールウェット | [YouTube](https://www.youtube.com/channel/UCR6qhsLpn62WVxCBK1dkLow) |
 | miu yarai | 矢来美羽 | ![](https://static.wikia.nocookie.net/vsbattles/images/7/74/Yarai_Miu.png)<br>所属作品：`dracu-riot` |  |
 | shinra kuonji | 久远寺森罗 | ![](https://static.wikia.nocookie.net/theyaremynoblemasters/images/0/0a/758365-shinra_large.png)<br>所属作品：`they are my noble masters`<br>日语：久遠寺森羅 |  |
+| ageha kuki | 九鬼扬羽 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8c/48/11753_crt_6AAso.jpg)<br>所属作品：`they are my noble masters`<br>日语：九鬼揚羽 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
