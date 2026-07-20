@@ -9792,6 +9792,7 @@ example:
 | georgette lemare | 乔洁特·莱马尔 | ![](https://static.wikia.nocookie.net/strikewitches/images/a/af/Georgette.jpg)<br>所属作品：`brave witches`<br>日语：ジョーゼット・ルマール |  |
 | sadako shimohara | 下原定子 | ![](https://static.wikia.nocookie.net/strikewitches/images/4/44/Shimohara_Sadako.jpg)<br>所属作品：`brave witches` |  |
 | laura nissinen | 萝拉·尼西宁 | ![](https://static.wikia.nocookie.net/strikewitches/images/6/62/Nissinen-Ewacs.jpg)<br>所属作品：`brave witches`<br>日语：ラウラ・ヴィルヘルミーナ・ニッシネン |  |
+| shou hinakawa | 雏河翔 | ![雏河翔](https://static.wikia.nocookie.net/psychopass/images/7/77/TV2_Sho.png/revision/latest?cb=20200913214328)<br>雏河翔（日语：ひなかわ しょう）是noitaminA频道企划的动画《PSYCHO-PASS 心理测量者 2》及其后续作品与衍生作品中的登场角色。 | [萌娘百科](https://moegirl.uk/雏河翔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
