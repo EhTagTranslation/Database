@@ -9789,6 +9789,7 @@ example:
 | hikari karibuchi | 雁渊光 | ![](https://static.wikia.nocookie.net/strikewitches/images/b/b5/Hikari.jpeg)<br>所属作品：`brave witches`<br>日语：雁淵ひかり |  |
 | aurora e. juutilainen | 奥罗拉·E·尤蒂莱南 | ![](https://static.wikia.nocookie.net/strikewitches/images/a/af/Aurora_Mjolnir.jpg)<br>所属作品：`brave witches`<br>日语：アウロラ・E・ユーティライネン |  |
 | hanna wind | 汉娜·艾尔塔·温德 | ![](https://lain.bgm.tv/r/400/pic/crt/l/6e/c9/71962_crt_f40IW.jpg?r=1569251306)<br>所属作品：`brave witches`<br>日语：ハンナ・ヘルッタ・ウィンド |  |
+| georgette lemare | 乔洁特·莱马尔 | ![](https://static.wikia.nocookie.net/strikewitches/images/a/af/Georgette.jpg)<br>所属作品：`brave witches`<br>日语：ジョーゼット・ルマール |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
