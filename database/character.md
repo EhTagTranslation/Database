@@ -9777,6 +9777,7 @@ example:
 | nozomi konparu | 金春希美 | ![](https://static.wikia.nocookie.net/gup/images/e/e7/Nozomiofficial.png)<br>所属作品：`girls und panzer` |  |
 | koume akaboshi | 赤星小梅 | ![](https://static.wikia.nocookie.net/gup/images/b/be/Koume1.png)<br>所属作品：`girls und panzer` |  |
 | moyoko gotou | 后藤茂代子 | ![](https://static.wikia.nocookie.net/gup/images/c/c1/Moyokoofficial.png)<br>所属作品：`girls und panzer`<br>日语：後藤 モヨ子 |  |
+| aya oono | 大野绫 | ![](https://static.wikia.nocookie.net/gup/images/b/b4/Ayaofficial.png)<br>所属作品：`girls und panzer`<br>日语：大野 あや |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
