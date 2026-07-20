@@ -9797,6 +9797,7 @@ example:
 | silica the s-rank mage | 西莉卡（S级法师） | ![](https://static.wikia.nocookie.net/tsuiho-shiromadoshi/images/9/94/Silica.png)<br>所属作品：`yuusha party wo tsuihou sareta shiromadoushi s-rank boukensha ni hirowareru` |  |
 | elena skalnikore | 艾莲娜·斯卡尼古尔 | ![](https://static.wikia.nocookie.net/handoreddo/images/f/fe/Hundred_Elena.jpg)<br>所属作品：`hundred`<br>日语：エレナ・スカルニコレ |  |
 | kobo kanaeru | 可波·卡娜埃露 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/3/3b/Kobo_Kanaeru_Portrait.png)<br>所属社团：`hololive`<br>日语：こぼ・かなえる |  |
+| irys | IRyS | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/5/5b/IRyS_2022_Portrait.png)<br>所属社团：`hololive`<br>日语：アイリス |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
