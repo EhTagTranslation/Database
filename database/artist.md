@@ -15422,6 +15422,7 @@ example:
 | joucho | 情緒 |  |  |
 | erai | えらい |  |  |
 | gunkan amaebi | 軍艦あまえび |  |  |
+| meme koubou | めめ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
