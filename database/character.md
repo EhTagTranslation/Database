@@ -9778,6 +9778,7 @@ example:
 | koume akaboshi | 赤星小梅 | ![](https://static.wikia.nocookie.net/gup/images/b/be/Koume1.png)<br>所属作品：`girls und panzer` |  |
 | moyoko gotou | 后藤茂代子 | ![](https://static.wikia.nocookie.net/gup/images/c/c1/Moyokoofficial.png)<br>所属作品：`girls und panzer`<br>日语：後藤 モヨ子 |  |
 | aya oono | 大野绫 | ![](https://static.wikia.nocookie.net/gup/images/b/b4/Ayaofficial.png)<br>所属作品：`girls und panzer`<br>日语：大野 あや |  |
+| ayumi yamagou | 山乡步 | ![](https://static.wikia.nocookie.net/gup/images/a/a3/Ayumiofficial.png)<br>所属作品：`girls und panzer`<br>日语：山郷 あゆみ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
