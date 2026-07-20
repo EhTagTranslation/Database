@@ -2896,6 +2896,7 @@ example:
 | they are my noble masters | 你是主人我是仆 | ![](https://lain.bgm.tv/r/400/pic/cover/l/72/27/246380_92272.jpg)<br>日语：君が主で執事が俺で |  |
 | diebuster | 飞跃巅峰2 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3a/83/768_2E3Rm.jpg)<br>日语：トップをねらえ2! |  |
 | live on cardliver kakeru | 卡片斗士翔 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d8/74/98370_IJ21j.jpg)<br>日语：ライブオン CARDLIVER 翔 |  |
+| issho ni training | 一起做运动吧 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a1/d4/7963_X9tYV.jpg)<br>日语：いっしょにとれーにんぐ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
