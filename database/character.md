@@ -9766,6 +9766,7 @@ example:
 | saki kijima | 贵岛沙希 | ![](https://static.wikia.nocookie.net/hayatenogotoku/images/e/e5/Saki_Kijima.jpg)<br>所属作品：`hayate no gotoku`<br>日语：貴嶋 サキ |  |
 | lina davis | 莉娜·戴维斯 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d0/21/68025_crt_fog4c.jpg)<br>所属作品：`heroman`<br>日语：リナ・デイヴィス |  |
 | joey jones | 乔伊·琼斯 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d0/d1/68022_crt_0acT0.jpg)<br>所属作品：`heroman`<br>日语：ジョセフ・カーター・ジョーンズ |  |
+| hinako | 雏子 | ![](https://ehgt.org/w/00/009/73613-auob7u6k.webp)<br>所属作品：`issho ni training` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
