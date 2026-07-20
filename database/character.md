@@ -1520,7 +1520,7 @@ example:
 | carpaccio | 卡尔帕乔 |  |  |
 | pepperoni | 佩帕罗妮 |  |  |
 | katyusha | 喀秋莎 |  |  |
-| nonna | 农娜 |  |  |
+| nonna | 农娜 | ![](https://static.wikia.nocookie.net/gup/images/d/d0/Nonna.png)<br>所属作品：`girls und panzer`<br>日语：ノンナ |  |
 |  | 妮娜 |  |  |
 |  | 库拉拉 |  |  |
 | maho nishizumi | 西住真穗 | ![](https://static.wikia.nocookie.net/gup/images/a/af/Mahoofficial.png)<br>所属作品：`girls und panzer`<br>日语：西住まほ |  |
