@@ -14070,6 +14070,7 @@ example:
 | usagi no yume | うさぎのゆめ |  |  |
 | joucho antei | 情緒安亭 |  |  |
 | circle cherry boy | サークルチェリー・ボーイ |  |  |
+| pengin maru | ペンギン丸 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
