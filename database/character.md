@@ -9787,6 +9787,7 @@ example:
 | waltrud krupinski | 瓦尔特鲁德·库宾斯基 | ![](https://static.wikia.nocookie.net/strikewitches/images/6/6c/Waltrud_krupinski.jpg)<br>所属作品：`brave witches`<br>日语：ヴァルトルート･クルピンスキー |  |
 | naoe kanno | 管野直枝 | ![](https://static.wikia.nocookie.net/strikewitches/images/a/ad/Naoe_kanno.jpg)<br>所属作品：`brave witches` |  |
 | hikari karibuchi | 雁渊光 | ![](https://static.wikia.nocookie.net/strikewitches/images/b/b5/Hikari.jpeg)<br>所属作品：`brave witches`<br>日语：雁淵ひかり |  |
+| aurora e. juutilainen | 奥罗拉·E·尤蒂莱南 | ![](https://static.wikia.nocookie.net/strikewitches/images/a/af/Aurora_Mjolnir.jpg)<br>所属作品：`brave witches`<br>日语：アウロラ・E・ユーティライネン |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
