@@ -9798,7 +9798,7 @@ example:
 | elena skalnikore | 艾莲娜·斯卡尼古尔 | ![](https://static.wikia.nocookie.net/handoreddo/images/f/fe/Hundred_Elena.jpg)<br>所属作品：`hundred`<br>日语：エレナ・スカルニコレ |  |
 | kobo kanaeru | 可波·卡娜埃露 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/3/3b/Kobo_Kanaeru_Portrait.png)<br>所属社团：`hololive`<br>日语：こぼ・かなえる |  |
 | irys | IRyS | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/5/5b/IRyS_2022_Portrait.png)<br>所属社团：`hololive`<br>日语：アイリス |  |
-| pavolia reine | 帕沃莉亚·蕾内 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/d2/Pavolia_Reine_Portrait.png)<br>所属社团:`hololive` |  |
+| pavolia reine | 帕沃莉亚·蕾内 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/2/25/Pavolia_Reine_3D_Model.png)<br>所属社团:`hololive`<br>日语：パヴォリア・レイネ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
