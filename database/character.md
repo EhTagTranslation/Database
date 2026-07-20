@@ -1482,7 +1482,7 @@ example:
 | yukari akiyama | 秋山优花里 | ![](https://static.wikia.nocookie.net/gup/images/9/94/Yukariofficial.png)<br>所属作品：`girls und panzer` |  |
 | mako reizei | 冷泉麻子 | ![](https://static.wikia.nocookie.net/gup/images/3/34/Makoofficial.png)<br>所属作品：`girls und panzer` |  |
 | anzu kadotani | 角谷杏 |  |  |
-| yuzu koyama | 小山柚子 |  |  |
+| yuzu koyama | 小山柚子 | ![](https://static.wikia.nocookie.net/gup/images/f/fa/Yuzuofficial.png)<br>所属作品：`girls und panzer` |  |
 | momo kawashima | 河岛桃 |  |  |
 |  | 凯撒 |  |  |
 |  | 埃尔文 |  |  |
