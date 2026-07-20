@@ -15427,6 +15427,7 @@ example:
 | kie | Kie |  |  |
 | narisokonai | なりそこない |  |  |
 | koshimaki tokage | 越薪蜥蜴 |  |  |
+| kouyu | 鉱油 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
