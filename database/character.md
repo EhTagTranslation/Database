@@ -1524,7 +1524,7 @@ example:
 |  | 妮娜 |  |  |
 |  | 库拉拉 |  |  |
 | maho nishizumi | 西住真穗 |  |  |
-| erika itsumi | 逸见艾丽卡 |  |  |
+| erika itsumi | 逸见艾丽卡 | ![](https://static.wikia.nocookie.net/gup/images/b/bb/Erikaofficial.png)<br>所属作品：`girls und panzer`<br>日语：逸見 エリカ |  |
 | mika | 米卡 |  |  |
 | aki | 阿基 |  |  |
 | mikko | 米科 |  |  |
