@@ -2674,7 +2674,7 @@ example:
 | daichi | 矢座だいち |  |  |
 | ramchi | らむち |  | [pixiv](https://www.pixiv.net/users/24359642) [X](https://x.com/RamchiPixiv) |
 | mignon | mignon |  | [pixiv](https://www.pixiv.net/users/24234) [X](https://x.com/mignon) |
-| natsuki marina | 夏月まりな |  | [pixiv](https://www.pixiv.net/users/482462) [X](https://x.com/marinauryu) |
+| natsuki marina | 夏月茉莉奈 | 夏月まりな、日本女性画师 | [pixiv](https://www.pixiv.net/users/482462) [X](https://x.com/marinauryu) |
 | watanon | わたのん |  | [pixiv](https://www.pixiv.net/users/1202103) [X](https://x.com/watanohara2) |
 | amami mikihiro | 甘味みきひろ |  | [pixiv](https://www.pixiv.net/users/12348) [X](https://x.com/amami_mikihiro) |
 | mikage | 美影 |  | [pixiv](https://www.pixiv.net/users/140701) [X](https://x.com/mikage81) |
