@@ -9794,6 +9794,7 @@ example:
 | laura nissinen | 萝拉·尼西宁 | ![](https://static.wikia.nocookie.net/strikewitches/images/6/62/Nissinen-Ewacs.jpg)<br>所属作品：`brave witches`<br>日语：ラウラ・ヴィルヘルミーナ・ニッシネン |  |
 | shou hinakawa | 雏河翔 | ![雏河翔](https://static.wikia.nocookie.net/psychopass/images/7/77/TV2_Sho.png/revision/latest?cb=20200913214328)<br>雏河翔（日语：ひなかわ しょう）是noitaminA频道企划的动画《PSYCHO-PASS 心理测量者 2》及其后续作品与衍生作品中的登场角色。 | [萌娘百科](https://moegirl.uk/雏河翔) |
 | facehugger | 抱脸虫 | “抱脸虫”是科幻电影《异形》系列中的一种虚构外星生物，属于异形生命周期中的第二阶段形态。它的外形类似一只带有长尾的节肢动物，会主动扑向宿主面部，用尾部的触手缠绕宿主的喉咙并植入胚胎。被寄生后，宿主通常会在短时间内死亡，而抱脸虫则会自行脱落。该生物以其快速、致命和寄生方式著称，是异形系列中最具标志性和恐怖感的形象之一。 |  |
+| silica the s-rank mage | 西莉卡（S级法师） | ![](https://static.wikia.nocookie.net/tsuiho-shiromadoshi/images/9/94/Silica.png)<br>所属作品：`yuusha party wo tsuihou sareta shiromadoushi s-rank boukensha ni hirowareru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
