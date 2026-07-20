@@ -1508,7 +1508,7 @@ example:
 |  | 星野 |  |  |
 |  | 铃木 |  |  |
 |  | 土屋 |  |  |
-| darjeeling | 大吉岭 |  |  |
+| darjeeling | 大吉岭 | ![](https://static.wikia.nocookie.net/gup/images/9/94/025_darjeeling.png)<br>所属作品：`girls und panzer`<br>日语：ダージリン |  |
 | assam | 阿萨姆 |  |  |
 | orange pekoe | 橙黄白毫 | ![](https://static.wikia.nocookie.net/gup/images/8/87/Orangepekoeofficial.png)<br>所属作品：`girls und panzer`<br>日语：オレンジペコ |  |
 | rosehip | 蔷薇果 |  |  |
