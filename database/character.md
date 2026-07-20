@@ -1478,7 +1478,7 @@ example:
 |  | ▼ 少女与战车 |  |  |
 | miho nishizumi | 西住美穗 |  |  |
 | saori takebe | 武部沙织 |  |  |
-| hana isuzu | 五十铃华 |  |  |
+| hana isuzu | 五十铃华 | ![](https://static.wikia.nocookie.net/gup/images/a/a5/Hanaofficial.png)<br>所属作品：`girls und panzer` |  |
 | yukari akiyama | 秋山优花里 |  |  |
 | mako reizei | 冷泉麻子 |  |  |
 | anzu kadotani | 角谷杏 |  |  |
