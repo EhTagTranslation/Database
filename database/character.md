@@ -1477,7 +1477,7 @@ example:
 | satsuki shinonome | 东云皋月 |  |  |
 |  | ▼ 少女与战车 |  |  |
 | miho nishizumi | 西住美穗 | ![](https://static.wikia.nocookie.net/gup/images/c/c2/Miho_Victory.png)<br>所属作品：`girls und panzer`<br>日语：西住みほ |  |
-| saori takebe | 武部沙织 |  |  |
+| saori takebe | 武部沙织 | ![](https://static.wikia.nocookie.net/gup/images/e/ee/Saoriofficial.png)<br>所属作品：`girls und panzer`<br>日语：武部 沙織 |  |
 | hana isuzu | 五十铃华 | ![](https://static.wikia.nocookie.net/gup/images/a/a5/Hanaofficial.png)<br>所属作品：`girls und panzer` |  |
 | yukari akiyama | 秋山优花里 |  |  |
 | mako reizei | 冷泉麻子 |  |  |
