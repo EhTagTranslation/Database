@@ -3059,7 +3059,7 @@ example:
 | gloria | 小优 | ![](https://img.moegirl.org.cn/common/3/39/Gloria_.png)<br>所属作品:`p:pokemon`<br>日语：ユウリ | [萌娘百科](https://zh.moegirl.org.cn/小优%28宝可梦%29#) |
 | allister | 欧尼奥 |  |  |
 | klara | 克拉拉 | ①所属作品：`girls und panzer`<br>![](https://static.wikia.nocookie.net/gup/images/d/de/Klara_Vector.png)<br>②所属作品：`p:pokemon`<br>![](https://img.moegirl.org.cn/common/3/37/Sword_Shield_Klara.png)<br>日文︰クララ | [萌娘百科](https://zh.moegirl.org.cn/克拉拉%28宝可梦%29#) |
-| dola | 多拉 | 年龄350岁的上位龙族[火龙（Fire Drake）]，在异世界某处远离人烟的洞窟中守护着财宝，偶尔会翱翔天际打发空余时间。<br><br>在守护财宝里偶然发现了现代的产物（手机等），现在化身为人类的姿态进行着VTuber活动。 | [萌娘百科](https://zh.moegirl.org.cn/多拉%28虚拟UP主%29) |
+| dola | 多拉 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/7/7d/Dola_Portrait.png)<br>所属社团：`hololive` | [萌娘百科](https://zh.moegirl.org.cn/多拉%28虚拟UP主%29) |
 | moon | 美月 |  |  |
 | rosa | 鸣依 | ![](https://s1.52poke.com/wiki/thumb/e/e7/鸣依_B2W2.png/139px-鸣依_B2W2.png)<br>所属作品：`pokemon`<br>日文︰メイ | [Fandom](https://pokemon.fandom.com/wiki/Rosa)<br>[萌娘百科](https://zh.moegirl.org.cn/鸣依) |
 | ars almal | 阿露丝·阿尔玛 | 阿露丝·阿尔玛（アルス·アルマル / Ars almal）是隶属于彩虹社旗下的虚拟YouTuber，正式出道于2019年7月28日。 | [萌娘百科](https://zh.moegirl.org.cn/阿露丝·阿尔玛) |
