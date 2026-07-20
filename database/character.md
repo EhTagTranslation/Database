@@ -1491,7 +1491,7 @@ example:
 | noriko isobe | 矶边典子 |  |  |
 | taeko kondou | 近藤妙子 | ![](https://static.wikia.nocookie.net/gup/images/a/aa/Taekoofficial.png)<br>所属作品：`girls und panzer` |  |
 | shinobu kawanishi | 河西忍 |  |  |
-| akebi sasaki | 佐佐木明日 |  |  |
+| akebi sasaki | 佐佐木明日 | ![](https://static.wikia.nocookie.net/gup/images/a/aa/Akebiofficial.png)<br>所属作品：`girls und panzer`<br>日语：佐々木 あけび |  |
 | azusa sawa | 泽梓 |  |  |
 |  | 山乡步 |  |  |
 |  | 阪口桂利奈 |  |  |
