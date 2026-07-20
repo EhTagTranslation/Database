@@ -1523,7 +1523,7 @@ example:
 | nonna | 农娜 |  |  |
 |  | 妮娜 |  |  |
 |  | 库拉拉 |  |  |
-| maho nishizumi | 西住真穗 |  |  |
+| maho nishizumi | 西住真穗 | ![](https://static.wikia.nocookie.net/gup/images/a/af/Mahoofficial.png)<br>所属作品：`girls und panzer`<br>日语：西住まほ |  |
 | erika itsumi | 逸见艾丽卡 | ![](https://static.wikia.nocookie.net/gup/images/b/bb/Erikaofficial.png)<br>所属作品：`girls und panzer`<br>日语：逸見 エリカ |  |
 | mika | 米卡 |  |  |
 | aki | 阿基 |  |  |
