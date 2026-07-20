@@ -9771,6 +9771,7 @@ example:
 | nomu | 脑无 | ![](https://lain.bgm.tv/r/400/pic/crt/l/de/bf/41940_crt_w666j.jpg?r=1469015900)<br>所属作品：`my hero academia` |  |
 | flint | 芙琳特 | ![](https://static.wikia.nocookie.net/gup/images/2/2e/Flint.png)<br>所属作品：`girls und panzer`<br>日语：フリント |  |
 | riko matsumoto | 松本里子 | ![](https://static.wikia.nocookie.net/gup/images/0/08/Erwinofficial.png)<br>所属作品：`girls und panzer` |  |
+| naomi | 直美 | ![](https://static.wikia.nocookie.net/gup/images/3/39/Naomi.png)<br>所属作品：`girls und panzer`<br>日语：ナオミ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
