@@ -262,7 +262,7 @@ example:
 | carn | 夏庵 |  |  |
 | okada kou | 岡田コウ |  |  |
 | neko pantsu | ねこパンツ |  |  |
-| suzunone rena | 铃音れな |  | [X](https://x.com/suzunonerena) [pixiv](https://www.pixiv.net/users/748444) |
+| suzunone rena | 铃音丽奈 | 鈴音れな | [X](https://x.com/suzunonerena) [pixiv](https://www.pixiv.net/users/748444) |
 | miyabi | 美矢火 | ![X](https://pbs.twimg.com/profile_images/1139806826306760704/5xsFg_vY_400x400.png)<br><br>**作者推特头像**<br><br>comic bavel作者，以描绘婀娜多姿的女高中生角色见长。 | [X](https://x.com/manga_works) [pixiv](https://www.pixiv.net/users/9342232) |
 | pochi. | ぽち。 |  |  |
 | hayami jun | 早见纯 |  |  |
