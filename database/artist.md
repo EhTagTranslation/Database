@@ -15425,6 +15425,7 @@ example:
 | meme koubou | めめ |  |  |
 | kumasawa | 熊沢 |  |  |
 | kie | Kie |  |  |
+| narisokonai | なりそこない |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
