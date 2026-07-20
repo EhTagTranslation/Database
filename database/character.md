@@ -9786,6 +9786,7 @@ example:
 | edytha rossmann | 艾迪塔·罗斯曼 | ![](https://static.wikia.nocookie.net/strikewitches/images/6/64/Edytha.jpg)<br>所属作品：`brave witches`<br>日语：エディータ・ロスマン |  |
 | waltrud krupinski | 瓦尔特鲁德·库宾斯基 | ![](https://static.wikia.nocookie.net/strikewitches/images/6/6c/Waltrud_krupinski.jpg)<br>所属作品：`brave witches`<br>日语：ヴァルトルート･クルピンスキー |  |
 | naoe kanno | 管野直枝 | ![](https://static.wikia.nocookie.net/strikewitches/images/a/ad/Naoe_kanno.jpg)<br>所属作品：`brave witches` |  |
+| hikari karibuchi | 雁渊光 | ![](https://static.wikia.nocookie.net/strikewitches/images/b/b5/Hikari.jpeg)<br>所属作品：`brave witches`<br>日语：雁淵ひかり |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
