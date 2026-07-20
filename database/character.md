@@ -1492,7 +1492,7 @@ example:
 | taeko kondou | 近藤妙子 | ![](https://static.wikia.nocookie.net/gup/images/a/aa/Taekoofficial.png)<br>所属作品：`girls und panzer` |  |
 | shinobu kawanishi | 河西忍 | ![](https://static.wikia.nocookie.net/gup/images/1/18/Shinobuofficial.png)<br>所属作品：`girls und panzer` |  |
 | akebi sasaki | 佐佐木明日 | ![](https://static.wikia.nocookie.net/gup/images/a/aa/Akebiofficial.png)<br>所属作品：`girls und panzer`<br>日语：佐々木 あけび |  |
-| azusa sawa | 泽梓 |  |  |
+| azusa sawa | 泽梓 | ![](https://static.wikia.nocookie.net/gup/images/0/07/Azusaofficial.png)<br>所属作品：`girls und panzer` |  |
 |  | 山乡步 |  |  |
 |  | 阪口桂利奈 |  |  |
 | yuuki utsugi | 宇津木优季 | ![](https://static.wikia.nocookie.net/gup/images/5/52/Yuukiofficial.png)<br>所属作品：`girls und panzer`<br>日语：宇津木 優季 |  |
