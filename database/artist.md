@@ -15429,6 +15429,7 @@ example:
 | koshimaki tokage | 越薪蜥蜴 |  |  |
 | kouyu | 鉱油 |  |  |
 | classic | くらしっく |  |  |
+| inumajin | 犬魔人 |  | [X](https://x.com/wanwan_majin5) |
 
 <!--TEMPLATE:
 |  |  |  |  |
