@@ -9816,6 +9816,7 @@ example:
 | runa sasaki | 佐佐木瑠奈 | ![](https://static.wikia.nocookie.net/yamada-kun-to-lv999-no-koi-wo-suru/images/5/5d/Runa_Sasaki_Portrait.png)<br>所属作品：`yamada-kun to lv999 no koi o suru`<br>日语：佐々木瑠奈 |  |
 | momoko maeda | 前田桃子 | ![](https://static.wikia.nocookie.net/yamada-kun-to-lv999-no-koi-wo-suru/images/1/1d/Momo_Full_Body.png)<br>所属作品：`yamada-kun to lv999 no koi o suru` |  |
 | yukari tsubaki | 椿由香里 | ![](https://static.wikia.nocookie.net/yamada-kun-to-lv999-no-koi-wo-suru/images/a/ab/Tsubaki_Full_Body.png)<br>所属作品：`yamada-kun to lv999 no koi o suru`<br>日语：椿ゆかり |  |
+| yuki osanai | 小佐内由纪 | ![](https://lain.bgm.tv/r/400/pic/crt/l/1a/22/150624_crt_suCuN.jpg?r=1724765521)<br>所属作品：`shoushimin series`<br>日语：小佐内ゆき |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
