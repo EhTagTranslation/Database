@@ -9811,7 +9811,7 @@ example:
 | sitara | 希塔拉 | ![](https://static.wikia.nocookie.net/jaadugar/images/3/36/Sitara_-_Anime.png)<br>所属作品：`tenmaku no jaadugar` |  |
 | mei nagato | 长土萌依 | ![](https://ami.animecharactersdatabase.com/images%20of/Mei%20Nagato/from/Dolphin%20Wave/uploads/chars/41903-2129298351.png)<br>所属作品：`dolphin wave` |  |
 | catherina grann | 凯瑟琳娜 | ![](https://static.wikia.nocookie.net/megamitensei/images/a/a5/MRF_Catherina.png)<br>所属作品：`metaphor refantazio`<br>日语：キャゼリナ・グラン |  |
-| usagi chugoku | 中国兔子 | ![](https://static.wikia.nocookie.net/utau/images/f/f9/Chuugoku_Usagi.png/revision/latest?cb=20260613140225)<br>所属作品:`voicevox` | [Fandom](https://utau.fandom.com/wiki/Usagi_Chuugoku) |
+| usagi chugoku | 中国兔子 | ![](https://static.wikia.nocookie.net/fansekai/images/b/bb/ChuugokuUsagiVoiceVox.png)<br>所用声源：`voicevox`<br>日语：中国うさぎ | [Fandom](https://utau.fandom.com/wiki/Usagi_Chuugoku) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
