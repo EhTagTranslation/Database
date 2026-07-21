@@ -9814,6 +9814,7 @@ example:
 | usagi chugoku | 中国兔子 | ![](https://static.wikia.nocookie.net/fansekai/images/b/bb/ChuugokuUsagiVoiceVox.png)<br>所用声源：`voicevox`<br>日语：中国うさぎ | [Fandom](https://utau.fandom.com/wiki/Usagi_Chuugoku) |
 | akane kinoshita | 木之下茜 | ![](https://static.wikia.nocookie.net/yamada-kun-to-lv999-no-koi-wo-suru/images/f/f2/Akane_Kinoshita_Anime_Portrait.png)<br>所属作品：`yamada-kun to lv999 no koi o suru` |  |
 | runa sasaki | 佐佐木瑠奈 | ![](https://static.wikia.nocookie.net/yamada-kun-to-lv999-no-koi-wo-suru/images/5/5d/Runa_Sasaki_Portrait.png)<br>所属作品：`yamada-kun to lv999 no koi o suru`<br>日语：佐々木瑠奈 |  |
+| momoko maeda | 前田桃子 | ![](https://static.wikia.nocookie.net/yamada-kun-to-lv999-no-koi-wo-suru/images/1/1d/Momo_Full_Body.png)<br>所属作品：`yamada-kun to lv999 no koi o suru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
