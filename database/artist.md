@@ -15430,6 +15430,7 @@ example:
 | kouyu | 鉱油 |  |  |
 | classic | くらしっく |  |  |
 | inumajin | 犬魔人 |  | [X](https://x.com/wanwan_majin5) |
+| dasoku sentarou | 蛇足せんたろう |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
