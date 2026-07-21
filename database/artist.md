@@ -15433,6 +15433,7 @@ example:
 | dasoku sentarou | 蛇足せんたろう |  |  |
 | oono kogorou | 大野小悟郎 |  |  |
 | maru 1-ko | 丸１個 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22丸１個%22/ana_flg/all) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=f2a0da39-64d3-11f0-ba33-0242ac160002/section=mens/) |
+| tereshima | テレシマ |  | [pixiv](https://www.pixiv.net/users/83722650) \| [X](https://x.com/tereshimar18) \| [FANBOX](https://www.fanbox.cc/@tereshima) |
 
 <!--TEMPLATE:
 |  |  |  |  |
