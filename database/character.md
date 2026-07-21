@@ -9802,6 +9802,7 @@ example:
 | haanja | 哈安贾 | 所属作品：`sinisistar` |  |
 | yuu amami | 天海夕 | ![](https://static.wikia.nocookie.net/class-de-2banmeni-kawaii-onnanoko-to-tomodachi/images/9/98/Yuu_Amami_Anime.png)<br>出自作品：`p:class de 2-banme ni kawaii onnanoko to tomodachi ni natta`<br><br>天海夕（日语：あまみゆう）是轻小说《和班上第二可爱的女孩子成为朋友》中的核心人物，被设定为班级公认的第一美少女。 | [百度百科](https://baike.baidu.com/item/天海夕/62195006) \| [Fandom](https://kuranika.fandom.com/wiki/Yuu_Amami) |
 | yaniko satou | 佐藤雅妮子 | ![](https://yanineko-anime.com/wp/wp-content/themes/yanineko-theme/images/chara-pic01.webp)<br>所属作品:`yanineko`<br>嗜烟如命 |  |
+| kaoruko nishi | 西薰子 | ![](https://yanineko-anime.com/wp/wp-content/themes/yanineko-theme/images/chara-pic04.webp)<br>所属作品:`yanineko`<br>关西喵喵 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
