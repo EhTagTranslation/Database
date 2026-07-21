@@ -9805,6 +9805,7 @@ example:
 | kaoruko nishi | 西薰子 | ![](https://yanineko-anime.com/wp/wp-content/themes/yanineko-theme/images/chara-pic04.webp)<br>所属作品:`yanineko`<br>关西喵喵 |  |
 | aruko sakai | 酒井酒子 | ![](https://yanineko-anime.com/wp/wp-content/themes/yanineko-theme/images/chara-pic05.webp)<br>所属作品:`yanineko`<br>酒精喵喵 |  |
 | mimi yoshizumi | 吉住未实 | ![](https://lain.bgm.tv/r/400/pic/crt/l/27/a1/113433_crt_h8AzY.jpg)<br>所属作品：`oshi no ko` |  |
+| watarai hibari | 渡会云雀 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/a/a5/2434_Watarai_Hibari_Portrait.png)<br>所属社团：`nijisanji` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
