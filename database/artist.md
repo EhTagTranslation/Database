@@ -15439,6 +15439,7 @@ example:
 | lemi | おはぎ |  |  |
 | sasanoki panda | 笹ノ木ぱんだ |  |  |
 | kigome | きごみー |  |  |
+| chinpoki | ちんぽき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
