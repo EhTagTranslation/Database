@@ -15431,6 +15431,7 @@ example:
 | classic | くらしっく |  |  |
 | inumajin | 犬魔人 |  | [X](https://x.com/wanwan_majin5) |
 | dasoku sentarou | 蛇足せんたろう |  |  |
+| oono kogorou | 大野小悟郎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
