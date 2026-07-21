@@ -15436,6 +15436,7 @@ example:
 | tereshima | テレシマ |  | [pixiv](https://www.pixiv.net/users/83722650) \| [X](https://x.com/tereshimar18) \| [FANBOX](https://www.fanbox.cc/@tereshima) |
 | chino | 風神chino |  |  |
 | def atsu | デフアツ |  |  |
+| lemi | おはぎ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
