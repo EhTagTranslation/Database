@@ -13235,7 +13235,7 @@ example:
 | hiramaru akira | 平丸あきら |  |  |
 | aotsubaki toto | 青椿トト |  |  |
 | gasuba ana | がすばあな |  |  |
-| minegami aya | 峰上绫 |  |  |
+| minegami aya | 峰上绫 | 日:峯上綾 |  |
 | menthako | 闷茶子 |  | [X](https://x.com/Menthak0?t=6NfWfQB40mBdNnWcLDXWzw&s=09) [pixiv](https://www.pixiv.net/users/5373467) |
 | toyono tama | 豊乃たま |  |  |
 | sunagimo dx | すなぎもDX |  | [pixiv](https://www.pixiv.net/users/53400480) \| [X](https://x.com/trkwGX02) \| [Skeb](https://skeb.jp/@4C0tz) |
