@@ -12901,7 +12901,7 @@ example:
 | ruutyan | るち餡 |  | [pixiv](https://www.pixiv.net/users/11659204) |
 | announ | 暗ノ吽 |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ021465) |
 | shien | しえん |  | [pixiv](https://www.pixiv.net/users/43943119) |
-| kibi anmitsu | 吉备馅蜜 |  | [pixiv](https://www.pixiv.net/users/2510266) |
+| kibi anmitsu | 吉备馅蜜 | 日:吉備あんみつ | [pixiv](https://www.pixiv.net/users/2510266) |
 | nozora yuzu | 望宙ゆず |  | [pixiv](https://www.pixiv.net/users/40565545) |
 | aburi saamon maru | 炙りサーモン丸 |  | [X](https://x.com/shake00XP) \| [pixiv](https://www.pixiv.net/users/17224606) \| [Bluesky](https://bsky.app/profile/aburisamo.bsky.social) |
 | shiranai hitoshi | しらないひとし |  |  |
