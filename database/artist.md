@@ -15437,6 +15437,7 @@ example:
 | chino | 風神chino |  |  |
 | def atsu | デフアツ |  |  |
 | lemi | おはぎ |  |  |
+| sasanoki panda | 笹ノ木ぱんだ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
