@@ -9810,6 +9810,7 @@ example:
 | miku ahiru | 亚昼美玖 | ![](https://static.wikia.nocookie.net/medalisttest/images/f/f3/Miku_Ahiru_Anime.png)<br>所属作品：`medalist` |  |
 | sitara | 希塔拉 | ![](https://static.wikia.nocookie.net/jaadugar/images/3/36/Sitara_-_Anime.png)<br>所属作品：`tenmaku no jaadugar` |  |
 | mei nagato | 长土萌依 | ![](https://ami.animecharactersdatabase.com/images%20of/Mei%20Nagato/from/Dolphin%20Wave/uploads/chars/41903-2129298351.png)<br>所属作品：`dolphin wave` |  |
+| catherina grann | 凯瑟琳娜 | ![](https://static.wikia.nocookie.net/megamitensei/images/a/a5/MRF_Catherina.png)<br>所属作品：`metaphor refantazio`<br>日语：キャゼリナ・グラン |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
