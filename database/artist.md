@@ -2488,7 +2488,7 @@ example:
 | chacharan | 茶々らん |  | [pixiv](https://www.pixiv.net/users/25930775) [X](https://x.com/chacharan33) |
 | isuwie | イスィ |  | [Fantia](https://fantia.jp/fanclubs/6604) \| [FANBOX](https://isuwieya.fanbox.cc/) \| [DLsite](https://ci-en.dlsite.com/creator/1683) \| [X](https://x.com/isuwie) \| [lit.link](https://lit.link/en/isuwie) |
 | misaoka | みさおか |  | [pixiv](https://www.pixiv.net/users/290106) |
-| ootori mahiro | 凤まひろ |  |  |
+| ootori mahiro | 鳳まひろ |  |  |
 | yaya hinata | 稍日向 |  |  |
 | koeda shiro | こえだしろ |  |  |
 | honjou hideaki | 本条秀明 |  |  |
