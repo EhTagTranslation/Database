@@ -4130,7 +4130,7 @@ example:
 | annkoku daimaou | 暗黒大魔王 |  |  |
 | anohito | あのひと |  |  |
 | anoshabu | アノシャブ |  |  |
-| anparu98 | anparu98 |  |  |
+| anparu98 | anparu98/4nparu |  |  |
 | anshin mama | あんしんママ |  |  |
 | anyakunin | 暗躍人 |  |  |
 | anyama takemi | 案山たけみ |  |  |
