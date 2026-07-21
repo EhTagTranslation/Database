@@ -9812,6 +9812,7 @@ example:
 | mei nagato | 长土萌依 | ![](https://ami.animecharactersdatabase.com/images%20of/Mei%20Nagato/from/Dolphin%20Wave/uploads/chars/41903-2129298351.png)<br>所属作品：`dolphin wave` |  |
 | catherina grann | 凯瑟琳娜 | ![](https://static.wikia.nocookie.net/megamitensei/images/a/a5/MRF_Catherina.png)<br>所属作品：`metaphor refantazio`<br>日语：キャゼリナ・グラン |  |
 | usagi chugoku | 中国兔子 | ![](https://static.wikia.nocookie.net/fansekai/images/b/bb/ChuugokuUsagiVoiceVox.png)<br>所用声源：`voicevox`<br>日语：中国うさぎ | [Fandom](https://utau.fandom.com/wiki/Usagi_Chuugoku) |
+| akane kinoshita | 木之下茜 | ![](https://static.wikia.nocookie.net/yamada-kun-to-lv999-no-koi-wo-suru/images/f/f2/Akane_Kinoshita_Anime_Portrait.png)<br>所属作品：`yamada-kun to lv999 no koi o suru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
