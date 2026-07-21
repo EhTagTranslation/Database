@@ -9804,6 +9804,7 @@ example:
 | yaniko satou | 佐藤雅妮子 | ![](https://yanineko-anime.com/wp/wp-content/themes/yanineko-theme/images/chara-pic01.webp)<br>所属作品:`yanineko`<br>尼古喵喵，嗜烟如命 |  |
 | kaoruko nishi | 西薰子 | ![](https://yanineko-anime.com/wp/wp-content/themes/yanineko-theme/images/chara-pic04.webp)<br>所属作品:`yanineko`<br>关西喵喵 |  |
 | aruko sakai | 酒井酒子 | ![](https://yanineko-anime.com/wp/wp-content/themes/yanineko-theme/images/chara-pic05.webp)<br>所属作品:`yanineko`<br>酒精喵喵 |  |
+| mimi yoshizumi | 吉住未实 | ![](https://lain.bgm.tv/r/400/pic/crt/l/27/a1/113433_crt_h8AzY.jpg)<br>所属作品：`oshi no ko` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
