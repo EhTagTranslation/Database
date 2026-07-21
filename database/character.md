@@ -9808,6 +9808,7 @@ example:
 | watarai hibari | 渡会云雀 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/a/a5/2434_Watarai_Hibari_Portrait.png)<br>所属社团：`nijisanji` |  |
 | jett-senpai | 杰特前辈 | ![](https://static.wikia.nocookie.net/prettycure/images/e/ee/Jett-senpai_Profile.png)<br>所属作品：`meitantei precure` |  |
 | miku ahiru | 亚昼美玖 | ![](https://static.wikia.nocookie.net/medalisttest/images/f/f3/Miku_Ahiru_Anime.png)<br>所属作品：`medalist` |  |
+| sitara | 希塔拉 | ![](https://static.wikia.nocookie.net/jaadugar/images/3/36/Sitara_-_Anime.png)<br>所属作品：`tenmaku no jaadugar` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
