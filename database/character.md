@@ -5188,7 +5188,7 @@ example:
 | genji | 源氏 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/17/OW2_Genji.png)<br>出自作品：`p:overwatch` | [萌娘百科](https://zh.moegirl.org.cn/岛田源氏) |
 | ichigo kurosaki | 黑崎一护 | ![](https://thumbsnap.com/i/xaU5iVwi.jpg)<br>出自作品：`p:bleach`<br><br>黑崎一护（日语：黒崎一护／くろさきいちご Kurosaki Ichigo）是日本漫画《BLEACH》中的主角。特征是遗传自母亲的橘色头发，棕色瞳孔。 | [Fandom](https://bleach.fandom.com/zh/wiki/黑崎一護?variant=zh-cn) |
 | retsu unohana | 卯之花烈 | ![](https://ehgt.org/w/02/009/23248-d9fh9rer.webp)<br>出自作品：`p:bleach`<br><br>卯之花烈（日语：うのはな れつ）是久保带人所创作的漫画《BLEACH》及其衍生作品的角色。 | [萌娘百科](https://zh.moegirl.org.cn/卯之花烈) |
-| rui yashio | 八潮瑠唯 |  |  |
+| rui yashio | 八潮瑠唯 | ![](https://static.wikia.nocookie.net/bandori/images/d/da/Yashio_Rui_-_Spring_Casual_%282023%29_Live2D_Model.png)<br>出自作品：`p:bang dream`<br><br>八潮瑠唯（日语：八潮瑠唯 / やしおるい）是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色，Morfonica的小提琴手。 | [萌娘百科](https://zh.moegirl.org.cn/八潮瑠唯) \| [Fandom](https://bandori.fandom.com/wiki/Yashio_Rui) |
 | miles morales | 迈尔斯·莫拉雷斯 | 漫威漫画系列登场角色 | [萌娘百科](https://zh.moegirl.org.cn/迈尔斯·莫拉雷斯) |
 | stella | 星 | 所属作品: `p:dragon quest ix` | [Fandom](https://dragonquest.fandom.com/wiki/Stella) |
 | asahi ohka | 樱花朝日 | 樱花朝日是猫豆腐创作的漫画《`p:onii-chan wa oshimai`》及其衍生作品的登场角色，穗月椛的同学，非常亲近人的活泼开朗的女孩子。<br>有着把想到的事情直接说出来的性格，喜欢用绰号称呼别人，一方面擅长运动，一方面又不擅长学习，在考试前经常萎靡不振。<br>![樱花朝日](https://img.moegirl.org.cn/common/1/14/OukaAsahi.jpg) | [萌娘百科](https://zh.moegirl.org.cn/樱花朝日) |
