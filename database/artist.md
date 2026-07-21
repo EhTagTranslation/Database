@@ -12555,7 +12555,7 @@ example:
 | shaggy susu | Shaggy SUSU |  | [FANBOX](https://www.fanbox.cc/@shaggysusu) [pixiv](https://www.pixiv.net/users/40138790) [X](https://x.com/aiden39439540) [Patreon](https://www.patreon.com/user?u=51386268) |
 | xiao bai tian | 小白天 | 喜欢绘制少年或男孩。 | [X](https://x.com/0nQn8YMXpkzgnem?s=09)<br>[pixiv](https://www.pixiv.net/users/21089872) |
 | suzukawa | 凉河 |  | [X](https://x.com/suzukawa_poo)<br>[pixiv](https://www.pixiv.net/users/4970303) |
-| kizuna | 絆 |  | [X](https://x.com/Kizuna_0113) [pixiv](https://www.pixiv.net/users/16034374) |
+| kizuna | 绊 | 絆 | [X](https://x.com/Kizuna_0113) [pixiv](https://www.pixiv.net/users/16034374) |
 | natsume yochiki | よちき |  | [X](https://x.com/NatsumeYochiki) [pixiv](https://www.pixiv.net/users/66979543) |
 | modare | モ誰 |  | [X](https://x.com/jeonghee1414) [pixiv](https://www.pixiv.net/users/1878082) |
 | momoshiki | ももしき |  | [pixiv](https://www.pixiv.net/users/220294) [X](https://x.com/momoshiki) |
