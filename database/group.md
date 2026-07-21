@@ -14073,6 +14073,7 @@ example:
 | pengin maru | ペンギン丸 |  |  |
 | taopopo | たおぽぽ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01023597.html) |
 | lily stella | Lily Stella |  |  |
+| dasokutei | 蛇足亭 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
