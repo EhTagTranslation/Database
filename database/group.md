@@ -14072,6 +14072,7 @@ example:
 | circle cherry boy | サークルチェリー・ボーイ |  |  |
 | pengin maru | ペンギン丸 |  |  |
 | taopopo | たおぽぽ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01023597.html) |
+| lily stella | Lily Stella |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
