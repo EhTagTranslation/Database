@@ -2899,6 +2899,7 @@ example:
 | issho ni training | 一起做运动吧 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a1/d4/7963_X9tYV.jpg)<br>日语：いっしょにとれーにんぐ |  |
 | yuusha party wo tsuihou sareta shiromadoushi s-rank boukensha ni hirowareru | 被驱逐出勇者队伍的白魔导师 | ![](https://lain.bgm.tv/r/400/pic/cover/l/19/38/505793_HF3Ug.jpg)<br>全名：被驱逐出勇者队伍的白魔导师，被S级冒险者捡到 ～这个白魔导师超规格～<br>日语：勇者パーティーを追放された白魔導師、Sランク冒険者に拾われる ～この白魔導師が規格外すぎる～ |  |
 | tenmaku no jaadugar | 穹庐下的魔女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg)<br>日语：天幕のジャードゥーガル |  |
+| shoushimin series | 小市民系列 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e2/f4/474906_z0h44.jpg)<br>日语：小市民シリーズ<br>作者：米澤穂信 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
