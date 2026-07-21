@@ -4715,7 +4715,7 @@ example:
 | cian yo | Cian yo |  |  |
 | cilica | CILICA |  |  |
 | cindy | cindy |  |  |
-| circussion | circussion |  |  |
+| circussion | 樫音(circussion) |  |  |
 | ck j | Ckj |  |  |
 | ckj | ckj |  |  |
 | cl | シーエル |  |  |
