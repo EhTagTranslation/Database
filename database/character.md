@@ -9825,6 +9825,7 @@ example:
 | mio fuyutsuki | 冬月美樱 | ![](https://static.wikia.nocookie.net/kurikamicity/images/3/3f/Fuyutsuki.png)<br>所属作品：`koori zokusei danshi to cool na douryou joshi`<br>日语：冬月さん |  |
 | lufas maphaahl | 露法丝·玛法尔 | ![](https://static.wikia.nocookie.net/yasei-no-last-boss-arawareta/images/8/8f/Ruphas_Anime_CD.png)<br>所属作品：`yasei no last boss ga arawareta`<br>日语：ルファス・マファール |  |
 | spot | 斑点 | ![](https://patchwiki.biligame.com/images/arknights/d/d3/9ffwd9kj3zo560czyvejk399thcf7g6.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/斑点) |
+| rangers | 巡林者 | ![](https://patchwiki.biligame.com/images/arknights/d/d1/ervyt4y9biremrhph33un1c66ukipuv.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/巡林者) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
