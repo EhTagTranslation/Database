@@ -15440,6 +15440,7 @@ example:
 | sasanoki panda | 笹ノ木ぱんだ |  |  |
 | kigome | きごみー |  |  |
 | chinpoki | ちんぽき |  |  |
+| nuibara | ぬいばら |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
