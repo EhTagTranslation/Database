@@ -9821,6 +9821,7 @@ example:
 | alyosha | 阿罗夏 | ![](https://static.wikia.nocookie.net/gensin-impact/images/6/6b/Alyosha_Card.png)<br>所属作品：`genshin impact` |  |
 | touka tsuyuri | 栗花落桃华 | ![](https://static.wikia.nocookie.net/lonely-attack/images/f/f9/Light_Novel_Vol_5_cover_text-less.jpg)<br>所属作品：`hitoribocchi no isekai kouryaku` |  |
 | hameko yurufuwa tenshi | 松松软软\*天使·性子 | ![](https://yanineko-anime.com/wp/wp-content/themes/yanineko-theme/images/chara-pic03.webp)<br>所属作品:`yanineko`<br>性爱喵喵 |  |
+| white fox | 白狐 | ![](https://static.wikia.nocookie.net/marveldatabase/images/8/8b/Death_of_Doctor_Strange_White_Fox_Vol_1_1_Textless.jpg)<br>所属作品：`agents of atlas` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
