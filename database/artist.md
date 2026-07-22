@@ -15441,6 +15441,7 @@ example:
 | kigome | きごみー |  |  |
 | chinpoki | ちんぽき |  |  |
 | nuibara | ぬいばら |  |  |
+| gisyuled | ギシュレッド |  | [pixiv](https://www.pixiv.net/users/1035409) \| [X](https://x.com/gisyuled) \| [Lit.Link](https://lit.link/en/gisyuled) |
 
 <!--TEMPLATE:
 |  |  |  |  |
