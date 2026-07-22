@@ -2901,6 +2901,7 @@ example:
 | tenmaku no jaadugar | 穹庐下的魔女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg)<br>日语：天幕のジャードゥーガル |  |
 | shoushimin series | 小市民系列 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e2/f4/474906_z0h44.jpg)<br>日语：小市民シリーズ<br>作者：米澤穂信 |  |
 | hitoribocchi no isekai kouryaku | 独自一人的异世界攻略 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d2/66/476129_q83DE.jpg)<br>日本作家五示正司创作的网络小说，并有改编动画。 |  |
+| koori zokusei danshi to cool na douryou joshi | 冰属性男子和酷酷女同事 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8a/27/388993_gdLGU.jpg)<br>殿谷美由记创作的漫画作品，并有改编动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
