@@ -9634,7 +9634,7 @@ example:
 | e.h. | 极乐净土·哈珀 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8c/E.H._FB.png)<br>所属作品：`goddess of victory nikke` |  |
 | hayate ayasaki | 绫崎飒 | ![](https://lain.bgm.tv/r/400/pic/crt/l/5d/ec/2416_crt_anidb.jpg)<br>所属作品：`hayate no gotoku`<br>日语：綾崎ハヤテ | [Bangumi](https://bgm.tv/character/2416) |
 | lucy platini | 露西·普拉蒂尼 | ![](https://static.wikia.nocookie.net/closers/images/2/23/Lucy_Platini.jpg)<br>所属作品：`closers`<br>韩语：루시 플라티니 |  |
-| dina | 迪娜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/0c/f3/171101_crt_2Nnz7.jpg?r=1760400742)<br>所属作品：《野生のラスボスが現れた!/A Wild Last Boss Appeared!》<br>日语：ディーナ |  |
+| dina | 迪娜 | ![](https://static.wikia.nocookie.net/yasei-no-last-boss-arawareta/images/7/7e/Dina_Anime_CD.png)<br>所属作品：`yasei no last boss ga arawareta`<br>日语：ディーナ |  |
 | beast boy | 野兽男孩 | ![](https://static.wikia.nocookie.net/teentitans/images/c/c1/Beast_Boy.png)<br>出自作品：`p:teen titans`<br><br>野兽男孩（Beast Boy）是美国DC漫画旗下超级英雄，初次登场于《末日巡逻队》（Doom Patrol）第99期（1965年11月）。 | [百度百科](https://baike.baidu.com/item/野兽男孩/19957891) \| [Fandom](https://teentitans.fandom.com/wiki/Beast_Boy) |
 | kawaki | 川木 | ![](https://static.wikia.nocookie.net/naruto/images/3/33/Kawaki_Part_II.png)<br>出自作品：`p:boruto`<br><br>川木（カワキ、Kawaki），别名漩涡川木、乾等，男，是日本漫画《BORUTO -火影新世代-》及其衍生作品中的角色。 | [百度百科](https://baike.baidu.com/item/川木/20604722) \| [Fandom](https://naruto.fandom.com/wiki/Kawaki) |
 | mitachurl | 丘丘暴徒 | ![](https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Mitachurl.png)<br>出自作品：`p:genshin impact` | [百度百科](https://baike.baidu.com/item/丘丘暴徒/60384635) \| [Fandom](https://genshin-impact.fandom.com/wiki/Mitachurl) |
