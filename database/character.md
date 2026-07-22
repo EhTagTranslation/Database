@@ -9822,6 +9822,7 @@ example:
 | touka tsuyuri | 栗花落桃华 | ![](https://static.wikia.nocookie.net/lonely-attack/images/f/f9/Light_Novel_Vol_5_cover_text-less.jpg)<br>所属作品：`hitoribocchi no isekai kouryaku` |  |
 | hameko yurufuwa tenshi | 松松软软\*天使·性子 | ![](https://yanineko-anime.com/wp/wp-content/themes/yanineko-theme/images/chara-pic03.webp)<br>所属作品:`yanineko`<br>性爱喵喵 |  |
 | white fox | 白狐 | ![](https://static.wikia.nocookie.net/marveldatabase/images/8/8b/Death_of_Doctor_Strange_White_Fox_Vol_1_1_Textless.jpg)<br>所属作品：`agents of atlas` |  |
+| mio fuyutsuki | 冬月美樱 | ![](https://static.wikia.nocookie.net/kurikamicity/images/3/3f/Fuyutsuki.png)<br>所属作品：`koori zokusei danshi to cool na douryou joshi`<br>日语：冬月さん |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
