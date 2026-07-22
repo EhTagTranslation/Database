@@ -14252,7 +14252,7 @@ example:
 | hatagoya | はたごや |  |  |
 | heitai gensui | 兵隊幻酔 |  |  |
 | hitofuu main | 人風メーン |  |  |
-| kakisoba | かきそば |  |  |
+| kakisoba | かきそば |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=215436/) |
 | hoshizono kanon | 星園かのん |  |  |
 | hoshi ichi | ほしいち |  |  |
 | hori yusuke | ホリユウスケ |  |  |
