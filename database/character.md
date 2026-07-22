@@ -9820,6 +9820,7 @@ example:
 | kyoko otonashi | 音无响子 | ![](https://static.wikia.nocookie.net/maisonikkoku/images/e/ea/Kyoko_27-96.png/revision/latest?cb=20191125223910)<br>所属作品:`maison ikkoku`<br>音无响子旧姓千草，高中毕业半年后嫁给音无惣一郎。在结婚不到半年后，丈夫因车祸去世，无法从悲痛中解脱的音无响子接管了公公的房产一刻馆，成为这栋破旧公寓的管理员。 | [百度百科](https://baike.baidu.com/item/音无响子/6273245) |
 | alyosha | 阿罗夏 | ![](https://static.wikia.nocookie.net/gensin-impact/images/6/6b/Alyosha_Card.png)<br>所属作品：`genshin impact` |  |
 | touka tsuyuri | 栗花落桃华 | ![](https://static.wikia.nocookie.net/lonely-attack/images/f/f9/Light_Novel_Vol_5_cover_text-less.jpg)<br>所属作品：`hitoribocchi no isekai kouryaku` |  |
+| hameko yurufuwa tenshi | 松松软软\*天使·性子 | ![](https://yanineko-anime.com/wp/wp-content/themes/yanineko-theme/images/chara-pic03.webp)<br>所属作品:`yanineko`<br>性爱喵喵 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
