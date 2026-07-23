@@ -15444,6 +15444,7 @@ example:
 | gisyuled | ギシュレッド |  | [pixiv](https://www.pixiv.net/users/1035409) \| [X](https://x.com/gisyuled) \| [Lit.Link](https://lit.link/en/gisyuled) |
 | ryo-chan | 良ちゃん\* |  | [pixiv](https://www.pixiv.net/users/44872149) \| [FANBOX](https://ryochan.fanbox.cc/) \| [X](https://x.com/orz_ryochan) \| [BOOTH](https://oujicha.booth.pm/) |
 | yugudora shiruo | ユグドラしるお |  | [pixiv](https://www.pixiv.net/users/110775417) \| [X](https://x.com/yugudora460) |
+| muutsuki | むうつき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
