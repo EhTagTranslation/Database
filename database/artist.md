@@ -15446,6 +15446,7 @@ example:
 | yugudora shiruo | ユグドラしるお |  | [pixiv](https://www.pixiv.net/users/110775417) \| [X](https://x.com/yugudora460) |
 | muutsuki | むうつき |  |  |
 | ayul | Ayul |  |  |
+| bakatare | ばかたれ |  | [FANBOX](https://bktr.fanbox.cc/) \| [X](https://x.com/_b_k_t_r_) \| [Skeb](https://skeb.jp/@_B_K_T_R_) \| [pixiv](https://www.pixiv.net/users/19537695) |
 
 <!--TEMPLATE:
 |  |  |  |  |
