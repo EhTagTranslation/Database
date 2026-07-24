@@ -9828,6 +9828,7 @@ example:
 | rangers | 巡林者 | ![](https://patchwiki.biligame.com/images/arknights/d/d1/ervyt4y9biremrhph33un1c66ukipuv.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/巡林者) |
 | isolte cruel | 伊泽露缇·克露艾尔 | ![](https://static.wikia.nocookie.net/mushokutensei/images/b/bd/Isolde-Anime-FullBody.png)<br>出自作品:`mushoku tensei`<br>日语：イゾルテ・クルーエル |  |
 | gabia | 加维亚 | ![](https://lootandwaifus.com/characters/trickcal/gabia.webp)<br>出自作品:`trickcal revive` |  |
+| aia | 阿伊阿 | 出自作品:`blue dragon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
