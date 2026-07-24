@@ -14082,6 +14082,7 @@ example:
 | saisai saishujutsu | 再々再手術 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79359/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49125.html) |
 | jadou potato | 邪道ポテト |  |  |
 | amamori yashiki | あまもり屋敷 |  |  |
+| chuable soft | チュアブルソフト | 又可译为Chewable Soft |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
