@@ -14623,7 +14623,7 @@ example:
 | omurice | オムライス |  |  |
 | 5t | 5T |  | [FANBOX](https://ttttt.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/66753557) \| [X](https://x.com/5t_000) |
 | frozen spider lily | Frozenspiderlily |  |  |
-| kazenami | かぜなみ |  |  |
+| kazenami | かぜなみ |  | [FANBOX](https://kazenami.fanbox.cc/) \| [X](https://x.com/ka_ze_na_mi) \| [pixiv](https://www.pixiv.net/users/91993794) \| [Skeb](https://skeb.jp/@ka_ze_na_mi) |
 | morita tsumire | 森田つみれ |  |  |
 | glycogen | グリコーゲン |  |  |
 | daikanki | 大歓喜 | 成人向 / 綠帽・寝取・多人・調教・絲襪・高跟鞋創作帳號<br>創作原創漫畫與插圖，聚焦於 NTR、關係錯位與戀物題材。<br>不只是情色，更描繪慾望、倫理與自我欺瞞交錯中的裂縫與快感根源。<br>如果你也對這樣的世界有共鳴，歡迎追蹤。 | [pixiv](https://www.pixiv.net/users/109660227) \| [FANBOX](https://daikanki.fanbox.cc/) \| [X](https://x.com/dai_kan_ki) |
