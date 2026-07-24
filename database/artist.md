@@ -15449,6 +15449,7 @@ example:
 | bakatare | ばかたれ |  | [FANBOX](https://bktr.fanbox.cc/) \| [X](https://x.com/_b_k_t_r_) \| [Skeb](https://skeb.jp/@_B_K_T_R_) \| [pixiv](https://www.pixiv.net/users/19537695) |
 | eihamu | エイハム |  |  |
 | piyopoyo | piyopoyo |  |  |
+| chihel | Chihel |  | [pixiv](https://www.pixiv.net/users/36470747) \| [FANBOX](https://chihel.fanbox.cc/) \| [Patreon](https://www.patreon.com/cw/chihel123) \| [X](https://x.com/chihel2731) |
 
 <!--TEMPLATE:
 |  |  |  |  |
