@@ -15450,6 +15450,7 @@ example:
 | eihamu | エイハム |  |  |
 | piyopoyo | piyopoyo |  |  |
 | chihel | Chihel |  | [pixiv](https://www.pixiv.net/users/36470747) \| [FANBOX](https://chihel.fanbox.cc/) \| [Patreon](https://www.patreon.com/cw/chihel123) \| [X](https://x.com/chihel2731) |
+| lumium | Lumium |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
