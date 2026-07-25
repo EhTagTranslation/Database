@@ -2399,7 +2399,7 @@ example:
 | chrome shelled regios | 钢壳都市雷吉欧斯 |  | [维基百科](https://zh.wikipedia.org/wiki/鋼殼都市雷吉歐斯) [萌娘百科](https://zh.moegirl.org.cn/钢壳都市雷吉欧斯) |
 | ga-rei | 食灵-零- |  | [萌娘百科](https://zh.moegirl.org.cn/食灵-零-) [维基百科](https://zh.wikipedia.org/wiki/食靈) |
 | jin ping mei | 金瓶梅 |  |  |
-| eiken | 巨乳学园 |  | [维基百科](https://zh.wikipedia.org/wiki/巨乳學園) |
+| eiken | 巨乳学园 | ![](https://lain.bgm.tv/r/400/pic/cover/l/26/6e/22584_SnAAz.jpg)<br>别译：乳旋风 | [维基百科](https://zh.wikipedia.org/wiki/巨乳學園) |
 | medalist | 金牌得主 | ![漫画封面](https://upload.wikimedia.org/wikipedia/zh/b/b5/メダリスト.jpg) | [wiki](https://zh.wikipedia.org/wiki/金牌得主) |
 | arakawa under the bridge | 荒川爆笑团 |  | [维基百科](https://zh.wikipedia.org/wiki/荒川爆笑團) [萌娘百科](https://zh.moegirl.org.cn/荒川爆笑团) |
 | mamotte shugogetten | 守护月天 |  | [维基百科](https://zh.wikipedia.org/wiki/守護月天) [萌娘百科](https://zh.moegirl.org.cn/守护月天) |
