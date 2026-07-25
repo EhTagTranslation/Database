@@ -1483,7 +1483,7 @@ example:
 | mako reizei | 冷泉麻子 | ![](https://static.wikia.nocookie.net/gup/images/3/34/Makoofficial.png)<br>所属作品：`girls und panzer` |  |
 | anzu kadotani | 角谷杏 | ![](https://static.wikia.nocookie.net/gup/images/4/43/AnzuOfficial.png)<br>所属作品：`girls und panzer` |  |
 | yuzu koyama | 小山柚子 | ![](https://static.wikia.nocookie.net/gup/images/f/fa/Yuzuofficial.png)<br>所属作品：`girls und panzer` |  |
-| momo kawashima | 河岛桃 | ![](https://static.wikia.nocookie.net/gup/images/4/4b/Momoofficial.png)<br>出自作品：`p:girls und panzer`<br><br>河岛桃（日语：河嶋桃 / かわしま もも）是Actas制作的动画《少女与战车》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/河岛桃) \| [Fandom](https://gup.fandom.com/wiki/Momo_Kawashima) |
+| momo kawashima | 河岛桃 | ![](https://static.wikia.nocookie.net/gup/images/4/4b/Momoofficial.png)<br>出自作品：`p:girls und panzer`<br><br>河岛桃（日语：河嶋桃 / かわしまもも）是Actas制作的动画《少女与战车》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/河岛桃) \| [Fandom](https://gup.fandom.com/wiki/Momo_Kawashima) |
 |  | 凯撒 |  |  |
 |  | 埃尔文 |  |  |
 |  | 左卫门佐 |  |  |
