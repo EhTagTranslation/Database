@@ -14083,6 +14083,7 @@ example:
 | jadou potato | 邪道ポテト |  |  |
 | amamori yashiki | あまもり屋敷 |  |  |
 | chuable soft | チュアブルソフト | 又可译为Chewable Soft |  |
+| shikibuton cover | 敷布団カバー |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202961/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56745.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
