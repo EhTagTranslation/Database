@@ -9829,6 +9829,7 @@ example:
 | isolte cruel | 伊泽露缇·克露艾尔 | ![](https://static.wikia.nocookie.net/mushokutensei/images/b/bd/Isolde-Anime-FullBody.png)<br>出自作品:`mushoku tensei`<br>日语：イゾルテ・クルーエル |  |
 | gabia | 加维亚 | ![](https://lootandwaifus.com/characters/trickcal/gabia.webp)<br>出自作品:`trickcal revive` |  |
 | aia | 阿伊阿 | 出自作品:`blue dragon` |  |
+| kuroageha | 奈阿 | ![](https://static.wikia.nocookie.net/mushibugyo/images/b/bc/Kuroageha_anime.png)<br>出自作品：`p:mushibugyo`<br><br>本名：奈阿（お奈阿 / Princess Naa） | [Fandom](https://mushibugyo.fandom.com/wiki/Kuroageha) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
