@@ -15451,6 +15451,7 @@ example:
 | piyopoyo | piyopoyo |  |  |
 | chihel | Chihel |  | [pixiv](https://www.pixiv.net/users/36470747) \| [FANBOX](https://chihel.fanbox.cc/) \| [Patreon](https://www.patreon.com/cw/chihel123) \| [X](https://x.com/chihel2731) |
 | lumium | Lumium |  |  |
+| tanehijiri | たねひじり |  | [Ci-en](https://ci-en.dlsite.com/creator/37206) \| [X](https://x.com/tanehijiri13763) \| [FANBOX](https://tanehijiri763.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/54389929) \| [Pawoo](https://pawoo.net/@tanehijiri_763) \| [Fantia](https://fantia.jp/fanclubs/131729) |
 
 <!--TEMPLATE:
 |  |  |  |  |
