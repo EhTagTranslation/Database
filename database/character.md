@@ -5779,7 +5779,7 @@ example:
 | mikoto uchiha | 宇智波美琴 | ![](https://img.moegirl.org.cn/common/f/f1/Yuzhibomeiqin.jpg)<br>鼬和佐助的母親，宇智波富岳的妻子，漩渦玖辛奈的好友 | [萌娘百科](https://zh.moegirl.org.cn/宇智波美琴) |
 | rin nohara | 野原琳 | ![](https://ehgt.org/w/00/863/48811-c60otx05.webp)<br>出自作品：`p:naruto`<br>野原琳（日语：のはら リン）是岸本齐史所创作的漫画《火影忍者》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/野原琳) |
 | obito uchiha | 宇智波带土 |  |  |
-| karin uzumaki | 漩涡香燐 |  |  |
+| karin uzumaki | 漩涡香燐 | ![](https://static.wikia.nocookie.net/naruto/images/7/72/Karin3.png)<br>出自作品：`p:naruto` | [萌娘百科](https://zh.moegirl.org.cn/香燐) \| [Fandom](https://naruto.fandom.com/wiki/Karin) |
 | suigetsu hozuki | 鬼灯水月 |  |  |
 | kaguya ootsutsuki | 大筒木辉夜 | ![](https://static.wikia.nocookie.net/naruto/images/6/6c/Kaguya_Ōtsutsuki.png/revision/latest?cb=20180824113908)<br>出自作品：`p:naruto`<br><br>大筒木辉夜（おおつつき かぐや），日本漫画《火影忍者》及其衍生作品中的女性角色。 | [百度百科](https://baike.baidu.com/item/大筒木辉夜/10269443) \| [Fandom](https://naruto.fandom.com/wiki/Kaguya_Ōtsutsuki) |
 | konohamaru sarutobi | 猿飞木叶丸 | ![](https://thumbsnap.com/i/Rj2BLfUJ.jpg)<br>出自作品：`p:naruto`<br><br>猿飞木叶丸是岸本齐史所创作的漫画《火影忍者》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/猿飞木叶丸) |
