@@ -5950,7 +5950,7 @@ example:
 | mahiru koizumi | 小泉真昼 |  | [萌娘百科](https://zh.moegirl.org.cn/小泉真昼) |
 | sonia nevermind | 索尼娅·内瓦曼德 | ![](https://static.wikia.nocookie.net/danganronpa/images/9/9e/Danganronpa_2_-_Sonia_Nevermind_Sprite_Sidebar.png/revision/latest/scale-to-width-down/268?cb=20200830113301)<br>出自作品：`p:danganronpa`<br><br>索妮亚·内瓦麦（ソニア・ネヴァーマインド）是Spike旗下游戏《超级弹丸论破2:再见绝望学园》及其衍生作品的登场角色，亦在动画《弹丸论破3:The End of 希望之峰学园》的绝望篇和希望篇中登场。 | [萌娘百科](https://zh.moegirl.org.cn/索尼娅·内瓦曼德) \| [Fandom](https://danganronpa.fandom.com/wiki/Sonia_Nevermind) |
 | teruteru hanamura | 花村辉辉 | ![](https://static.wikia.nocookie.net/danganronpa/images/c/cd/Danganronpa_2_-_Teruteru_Hanamura_Sprite_Sidebar.png)<br>出自作品：`p:danganronpa` | [萌娘百科](https://zh.moegirl.org.cn/花村辉辉) \| [Fandom](https://danganronpa.fandom.com/wiki/Teruteru_Hanamura) |
-| mikan tsumiki | 罪木蜜柑 |  | [萌娘百科](https://zh.moegirl.org.cn/罪木蜜柑) |
+| mikan tsumiki | 罪木蜜柑 | ![](https://ehgt.org/w/02/313/68685-gbuyxr12.webp)<br>出自作品:`danganronpa` | [萌娘百科](https://zh.moegirl.org.cn/罪木蜜柑) |
 | yoichi isagi | 洁世一 | ![](https://tv.bluelock-pr.com/tv2nd/wp-content/themes/bluelock-tv2nd-theme/_assets/images/char/detail/webp/isagi_.webp)<br>所属作品：`blue lock` | [萌娘百科](https://zh.moegirl.org.cn/洁世一) |
 | kurusu natsume | 来栖夏芽 | ![](https://ehgt.org/w/01/937/92080-2p2a64ed.webp)<br>所属社团：`p:nijisanji`<br><br>来栖夏芽 （ 日语：来栖夏芽 / くるすなつめ / Kurusu Natsume ）是一名从2019年12月29日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/来栖夏芽) |
 | misuzu kamio | 神尾观铃 | AIR女主角之一 (也就是封面上的黄色单马尾) |  |
