@@ -1176,7 +1176,7 @@ example:
 | yamato christina wako | 大和·克莉丝汀·和子 |  |  |
 |  | ▼ 白箱 角色 |  |  |
 | aoi miyamori | 宫森葵 | ![宫森葵](https://ehgt.org/09/7f/097fd5fac6a50f5a5c11d85324fae9ba0fa65b30-1033595-2871-4089-jpg_l.jpg) |  |
-| ema yasuhara | 安原绘麻 | ![安原绘麻](https://ehgt.org/b2/76/b27655e9877933260c4bfc06cd6abbc64e409257-1125551-2519-3600-jpg_l.jpg) |  |
+| ema yasuhara | 安原绘麻 | ![](https://static.wikia.nocookie.net/shirobako/images/f/fc/Ema_movie_kv.png)<br>出自作品:`shirobako` |  |
 | midori imai | 今井绿 | ![今井绿](https://ehgt.org/6b/95/6b955cdde296173a139ed41ad909710e8bb6fdaa-1132368-2500-3600-jpg_l.jpg) |  |
 | shizuka sakaki | 坂木静香 | ![坂木静香](https://ehgt.org/dd/04/dd04c6153a9486b891a972a6385651ee15f25819-1134912-2517-3600-jpg_l.jpg) |  |
 | misa toudou | 藤堂美沙 | ![藤堂美沙](https://ehgt.org/84/3f/843ff87a0c00171ce96eaad056fe337bf50dfe38-525650-2853-4089-jpg_l.jpg) |  |
