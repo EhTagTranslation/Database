@@ -1738,7 +1738,7 @@ example:
 | son goku | 孙悟空 | ![](https://ehgt.org/w/02/051/71361-tj53k205.webp)<br>孙悟空是中国古典小说《西游记》的主人公，也是中国神话中的民俗神祇之一，明代百回本《西游记》书中最为深入人心的形象之一。由于《西游记》在中国乃至世界的影响力，众多文艺作品中都有孙悟空的衍生形象，有的是对《西游记》原著的改编或新编，也有的与《西游记》并无联系，只是借用了孙悟空及其他人物的名字。英语圈通常称西游记中的孙悟空为Sun Wukong或Monkey King，而称各种日系作品中的孙悟空为Son Goku（单独提到Goku时一般指《龙珠》的孙悟空）。 | [萌娘百科](https://zh.moegirl.org.cn/孙悟空) |
 | spopovich | 斯波比奇 |  |  |
 | vegeta | 贝吉塔 |  |  |
-| trunks briefs | 特兰克斯 |  |  |
+| trunks briefs | 特兰克斯 | ![](https://static.wikia.nocookie.net/xianb/images/a/af/Trunks.png)<br><br>特兰克斯 (日语：トランクス；英语：Trunks)，是由鸟山明创作的漫画《龙珠》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/特兰克斯) \| [Fandom](https://animated-character-database.fandom.com/wiki/Trunks_Briefs) |
 | piccolo | 比克 |  |  |
 | goku black | 黑悟空 |  |  |
 | broly | 布罗利 |  |  |
