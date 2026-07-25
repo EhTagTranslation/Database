@@ -5807,7 +5807,7 @@ example:
 | noel niihashi | 新桥诺艾尔 | 日本漫画《burn the witch》及其衍生作品中的女主角<br>新桥诺艾尔（新橋のえる Noel Niihashi），日本漫画《burn the witch》及其衍生作品中的女主角之一，“Wing Bind”的1等保护官，所属于笛吹队。被前辈的妮内称为“尼哈”。 |  |
 | alma armas | 阿尔玛·阿玛斯 |  |  |
 | bambietta basterbine | 邦比爱塔·芭丝塔拜姻 | ![](https://ehgt.org/w/02/077/69784-81i1i4k2.webp)<br>所属作品：`bleach` |  |
-| midnight | 午夜 |  |  |
+| midnight | 午夜 | ![](https://static.wikia.nocookie.net/p__/images/e/e8/Screenshot_2025-06-11_223948-Photoroom.png/revision/latest/scale-to-width-down/238?cb=20250611104223&path-prefix=protagonist)<br>出自作品：`p:my hero academia`<br><br>午夜是日本漫画《我的英雄学院》及其衍生作品中的角色。 | [百度百科](https://baike.baidu.com/item/午夜/19691316) \| [Fandom](https://hero.fandom.com/wiki/Midnight_%28My_Hero_Academia%29) |
 | sumire otohana | 乙花堇 | 千年科学学校所属，锻炼部的部长。![](https://patchwiki.biligame.com/images/ba/9/9d/db4dyt0yrqig7l0gw05pihz7qszqzrv.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Sumire) |
 | marina | 饭田 |  |  |
 | cecile croomy | 塞希尔·柯尔米 | ![](https://ehgt.org/w/01/893/77455-30mbiqpv.webp)<br>所属作品：`code geass`<br>日语名：セシル・クルーミー<br>兰斯洛特开发群成员，中尉军衔，兼具同情心与坚韧。 |  |
