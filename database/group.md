@@ -12773,7 +12773,7 @@ example:
 | kozuki sousaku dokoro | 甲月創作処 |  |  |
 | nezumi no haha | 鼠の母 |  |  |
 | hachihachihachi | 蜂蜂蜂 |  |  |
-| sakuranbo nouen | 樱桃农园 |  |  |
+| sakuranbo nouen | 樱桃农园 | さくらんぼ農園 |  |
 | nurupon | ぬるポン |  |  |
 | waifusplit | WaifuSplit |  | [X](https://x.com/WaifuSplit)  [Patreon](https://www.patreon.com/waifusplit/) \| [Instagram](https://www.instagram.com/waifusplitstudios/) \| [waifusplit](https://waifusplit.com/) |
 | shirasu latte | しらすラテ |  |  |
