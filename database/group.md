@@ -14090,6 +14090,7 @@ example:
 | mofu mofu sheep | もふもふしーぷ |  |  |
 | nekoma koukoku | ねこま皇国 |  |  |
 | polfessional | ポルフェッショナル |  |  |
+| soto meguro | 外目黒 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
