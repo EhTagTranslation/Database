@@ -14086,6 +14086,7 @@ example:
 | shikibuton cover | 敷布団カバー |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202961/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56745.html) |
 | alkanet | あるかねっと |  |  |
 | 30 kouhan kara hajimeru ero doujin | 30代後半から始めるエロ同人 |  |  |
+| amuricha | あむりた帝国 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
