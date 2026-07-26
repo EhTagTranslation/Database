@@ -15460,6 +15460,7 @@ example:
 | benten korehito | 弁天惟仁 |  |  |
 | amrita | あむりた |  |  |
 | after eru | あふた〜える |  |  |
+| fujikyuu | 藤宮キュート |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
