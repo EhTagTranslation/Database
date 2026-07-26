@@ -14089,6 +14089,7 @@ example:
 | amuricha | あむりた帝国 |  |  |
 | mofu mofu sheep | もふもふしーぷ |  |  |
 | nekoma koukoku | ねこま皇国 |  |  |
+| polfessional | ポルフェッショナル |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
