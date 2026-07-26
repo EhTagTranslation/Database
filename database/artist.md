@@ -15463,6 +15463,7 @@ example:
 | fujikyuu | 藤宮キュート |  |  |
 | nekomatan. | ねこまたん。 |  |  |
 | emasson | エマーソン |  |  |
+| ginzou | 銀蔵 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
