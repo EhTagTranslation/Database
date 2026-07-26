@@ -8392,7 +8392,7 @@ example:
 | naganoon | ながの～ん |  |  |
 | naganoro | ながのろ |  |  |
 | nagare | nagare |  |  |
-| nagareboshi | 流れ星 |  |  |
+| nagareboshi | 流れ星 | たつか |  |
 | nagareboshi purin | 流れ星☆プリン |  |  |
 | nagaro | ながろ |  |  |
 | nagase yuuki | 长濑佑希 |  |  |
