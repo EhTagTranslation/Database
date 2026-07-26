@@ -15456,6 +15456,7 @@ example:
 | ichijiku | いちじく |  |  |
 | nontakosun | のんたこすん |  |  |
 | machupinyu | まちゅぴにゅ |  |  |
+| numasaka seisaku | 沼坂星作 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
