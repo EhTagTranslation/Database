@@ -15462,6 +15462,7 @@ example:
 | after eru | あふた〜える |  |  |
 | fujikyuu | 藤宮キュート |  |  |
 | nekomatan. | ねこまたん。 |  |  |
+| emasson | エマーソン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
