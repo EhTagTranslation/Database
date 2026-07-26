@@ -7078,7 +7078,7 @@ example:
 | konako | こなこ |  |  |
 | konata gazel | 此方がぜる |  |  |
 | konayama kata | 粉山カタ |  |  |
-| konboi | KONBOI |  |  |
+| konboi | KONBOI | んぼい丸 \| んぼい |  |
 | kondom | 昆童虫 |  |  |
 | konecha | こね茶 |  |  |
 | konkon | KON-KON |  |  |
