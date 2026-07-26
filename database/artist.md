@@ -15459,6 +15459,7 @@ example:
 | numasaka seisaku | 沼坂星作 |  |  |
 | benten korehito | 弁天惟仁 |  |  |
 | amrita | あむりた |  |  |
+| after eru | あふた〜える |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
