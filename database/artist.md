@@ -15455,6 +15455,7 @@ example:
 | alka | あるか |  |  |
 | ichijiku | いちじく |  |  |
 | nontakosun | のんたこすん |  |  |
+| machupinyu | まちゅぴにゅ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
