@@ -15461,6 +15461,7 @@ example:
 | amrita | あむりた |  |  |
 | after eru | あふた〜える |  |  |
 | fujikyuu | 藤宮キュート |  |  |
+| nekomatan. | ねこまたん。 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
