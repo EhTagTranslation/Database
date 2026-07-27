@@ -9840,6 +9840,7 @@ example:
 | nina watari | 渡里妮娜 | ![](https://en.touhouwiki.net/images/thumb/a/ab/Th20Nina.png/352px-Th20Nina.png)<br>出自作品:`touhou project`<br>《东方锦上京》中登场 |  |
 | tyr | 提尔（棕色尘埃） | ![](https://static.wikitide.net/browndust2wiki/thumb/4/49/Costume_004101.png/599px-Costume_004101.png)<br>出自作品:`brave nine` |  |
 | fara phoenix | 法拉·菲尼克斯 | 出自作品:`star fox` |  |
+| fefnir | 法布尼尔 | ![](https://static.wikia.nocookie.net/megaman/images/7/76/Fefnir.png)<br>出自作品:`megaman zero`<br>日语：ファーブニル |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
