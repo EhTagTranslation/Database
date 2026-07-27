@@ -9851,6 +9851,7 @@ example:
 | kureha miyamoto | 宫本红霸 | 出自作品:`kamen rider zeztz` |  |
 | souta minamino | 南野奏太 | ![](https://static.wikia.nocookie.net/prettycure/images/c/c5/SoutaConcept.PNG)<br>出自作品:`suite precure` |  |
 | yelena belova | 叶莲娜·贝洛娃（黑寡妇） | ![](https://static.wikia.nocookie.net/marveldatabase/images/4/4f/White_Widow_Vol_1_1_Artgerm_Virgin_Variant.jpg)<br>出自作品:`avengers` |  |
+| roka ayatsumugi | 绫䌷芦花 | ![](https://static.wikia.nocookie.net/yuripedia/images/8/82/Roka_Ayatsumugi_%28Tsukuyomi%29.png)<br>出自作品:`chou kaguya-hime` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
