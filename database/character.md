@@ -4185,7 +4185,7 @@ example:
 | arlecchino | 「仆人」阿蕾奇诺 | ![](https://patchwiki.biligame.com/images/ys/a/a6/kvdjk68ggdwdvsss1qfjf9gbqehfy12.gif)<br>所属作品:`p:genshin impact`<br>愚人众执行官第四席，「仆人」。沉静冷酷的外交官，「壁炉之家」所有孩子们畏惧又依赖的「父亲」。 | [萌娘百科](https://zh.moegirl.org.cn/阿蕾奇诺) [Fandom](https://genshin-impact.fandom.com/wiki/Arlecchino) |
 | platinum the trinity | 白金·崔妮蒂 | 所属作品: `p:blazblue`<br>![](https://static.wikia.nocookie.net/blazblue/images/5/59/Platinum_the_Trinity_%28Centralfiction%2C_Character_Select_Artwork%29.png) | [维基百科](https://zh.wikipedia.org/wiki/蒼翼默示錄系列) [Fandom](https://blazblue.fandom.com/wiki/Platinum_the_Trinity) |
 | marta lualdi | 玛尔塔·路亚蒂 | 仙乐传说-拉塔特斯克的骑士-的女主角。青蓝色眼睛，栗子色长发，头上左右各有一个白花发饰。<br>![](https://static.wikia.nocookie.net/aselia/images/d/d1/Marta_Status_%28DotNW%29.jpg) | [Fandom](https://aselia.fandom.com/wiki/Marta_Lualdi) |
-| asuka katou | 加藤明日香 |  |  |
+| asuka katou | 加藤明日香 | 出自作品:`its not my fault that im not popular` |  |
 | august von parseval | 奥古斯特·冯·帕塞瓦尔 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/fd5d30bbce43148c346604574944696a262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:奥古斯特·冯·帕塞瓦尔) |
 | shinn asuka | 真·飞鸟 |  | [萌娘百科](https://zh.moegirl.org.cn/真·飞鸟) [Fandom](https://gundam.fandom.com/wiki/Shinn_Asuka) |
 | yuzuki seo | 濑尾结月 |  |  |
