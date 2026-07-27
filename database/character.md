@@ -9847,6 +9847,7 @@ example:
 | kaufmo | 卡夫莫 | 出自作品:`the amazing digital circus` |  |
 | kit bodega | 基德·博德加 | ![](https://static.wikia.nocookie.net/gameoverse/images/9/9a/Kit_-_model_sheet_render.png)<br>出自作品:`gameoverse` |  |
 | ribbit | 瑞比特 | 出自作品:`the amazing digital circus` |  |
+| takhisis | 塔克西丝 | ![](https://static.wikia.nocookie.net/dragonlance/images/d/d6/619554156_3845997942367820_9218815052592980488_n.jpg)<br>出自作品:`dragonlance` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
