@@ -9836,6 +9836,7 @@ example:
 | komoe harumachi | 春町小萌 | ![](https://static.wikia.nocookie.net/eiken/images/0/07/Komoe1.gif)<br>出自作品:`eiken` |  |
 | anya melfissa | 阿妮娅·梅尔菲莎 | 阿妮娅·梅尔菲莎（英语：Anya Melfissa，日语：アーニャ・メルフィッサ），是hololive所属的一位印尼语虚拟主播，于2020年12月5日出道。<br><br>人物概述<br>阿妮娅·梅尔菲莎是Hololive ID的成员。人物设定是一个名为“KERIS”的古代兵器，一种马来群岛各民族使用的一种独特的短剑。角色设定是被主人进行了神秘仪式而获得了人类的身体，碰到喜欢的话题则会像孩子一般的热情。<br><br>阿妮娅·梅尔菲莎的角色设计者为上倉エク。直播内容以游戏、杂谈、歌唱为主。 | [维基百科](https://zh.wikipedia.org/wiki/阿妮婭·梅爾菲莎?utm_source=chatgpt.com) |
 | mochiko kaneda | 金田持子 | ![](https://ehgt.org/w/02/531/26886-49w1nie2.webp)<br>出自作品:`mount celeb kaneda-san` |  |
+| ariya iwanaga | 磐永阿梨夜 | ![](https://en.touhouwiki.net/images/thumb/6/62/Th20Ariya.png/396px-Th20Ariya.png)<br>出自作品:`touhou project`<br>东方锦上京 ~ Fossilized Wonders》中登场 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
