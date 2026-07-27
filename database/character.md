@@ -9841,6 +9841,7 @@ example:
 | tyr | 提尔（棕色尘埃） | ![](https://static.wikitide.net/browndust2wiki/thumb/4/49/Costume_004101.png/599px-Costume_004101.png)<br>出自作品:`brave nine` |  |
 | fara phoenix | 法拉·菲尼克斯 | 出自作品:`star fox` |  |
 | fefnir | 法布尼尔 | ![](https://static.wikia.nocookie.net/megaman/images/7/76/Fefnir.png)<br>出自作品:`megaman zero`<br>日语：ファーブニル |  |
+| harpuia | 赫尔琵亚 | ![](https://static.wikia.nocookie.net/megaman/images/6/65/Mega_Man_X_DiVE_Hunter_Program_Harpuia.png)<br>出自作品:`megaman zero` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
