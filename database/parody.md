@@ -2910,6 +2910,7 @@ example:
 | mina the hollower | 挖掘者米娜 | ![](https://upload.wikimedia.org/wikipedia/en/6/6a/Mina_the_Hollower_cover_art.png) | [Steam](https://store.steampowered.com/app/1875580/_/) |
 | dragonlance | 龙枪编年史 | 《龙枪编年史》是由玛格丽特·魏丝和特蕾西·希克曼创作的奇幻小说三部曲。 |  |
 | wylde pak | 沃德朴一家 |  |  |
+| kamen rider zeztz | 假面骑士ZZZ | ![](https://static.wikia.nocookie.net/kamenrider/images/a/a4/Zeztz_Poster.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
