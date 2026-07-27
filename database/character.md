@@ -7649,7 +7649,7 @@ example:
 | shen | 慎（暮光之眼） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/0/00/925cay00k5izn0we59bh1jtxn6t4drm.jpg) |  |
 | zilean | 基兰（时光守护者） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/8/8a/eoi35mhof56nv70pmsbxjesxj1ymkro.jpg) |  |
 | kennen | 凯南（狂暴之心） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/0/01/janys4yrkawv9zqh9a0rp386i1noepe.jpg) |  |
-| jax | 贾克斯（武器大师） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/d/dc/8ta2rfn5suie8wlnsup13n3vv2oqsue.jpg) |  |
+| jax | 贾克斯 \| 武器大师 | ①所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/d/dc/8ta2rfn5suie8wlnsup13n3vv2oqsue.jpg)<br>————————<br>②出自作品:`the amazing digital circus` |  |
 | twisted fate | 崔斯特（卡牌大师） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/0/09/r7omk1ist95tg5h7a5b1w1el5k2q1ld.jpg) |  |
 | blonde blazer | 金耀光 | 游戏《超英派遣中心》（Dispatch）中的角色 |  |
 | invisigal | 隐身女 | 游戏《超英派遣中心》（Dispatch）中的角色 |  |
