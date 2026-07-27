@@ -9855,6 +9855,7 @@ example:
 | yuri tamura | 田村百合 | ![](https://lain.bgm.tv/r/400/pic/crt/l/3f/a5/76032_crt_3D200.jpg)<br>出自作品:`its not my fault that im not popular` |  |
 | masaki yoshida | 吉田茉咲 | 所属作品：`p:its not my fault that im not popular` |  |
 | koharu minami | 南小阳 | 出自作品:`its not my fault that im not popular` |  |
+| sachi mima | 美马幸 | 出自作品:`its not my fault that im not popular` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
