@@ -9850,6 +9850,7 @@ example:
 | takhisis | 塔克西丝 | ![](https://static.wikia.nocookie.net/dragonlance/images/d/d6/619554156_3845997942367820_9218815052592980488_n.jpg)<br>出自作品:`dragonlance` |  |
 | kureha miyamoto | 宫本红霸 | 出自作品:`kamen rider zeztz` |  |
 | souta minamino | 南野奏太 | ![](https://static.wikia.nocookie.net/prettycure/images/c/c5/SoutaConcept.PNG)<br>出自作品:`suite precure` |  |
+| yelena belova | 叶莲娜·贝洛娃（黑寡妇） | ![](https://static.wikia.nocookie.net/marveldatabase/images/4/4f/White_Widow_Vol_1_1_Artgerm_Virgin_Variant.jpg)<br>出自作品:`avengers` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
