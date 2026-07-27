@@ -14092,6 +14092,7 @@ example:
 | polfessional | ポルフェッショナル |  |  |
 | soto meguro | 外目黒 |  |  |
 | doujin echigoya | 同人越後屋 |  |  |
+| seiheki salad bowl | 性癖サラダボウル |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
