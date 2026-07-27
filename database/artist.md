@@ -15470,6 +15470,7 @@ example:
 | izumi uni | 出海うに |  | [FANZA](https://book.dmm.co.jp/list/?author=353394) |
 | siu | Siu |  | [pixiv](https://www.pixiv.net/users/9459043) \| [X](https://x.com/siu0207) \| [FANBOX](https://siu.fanbox.cc/) |
 | dosukebe kojikimaru | ドスケベ乞食丸 |  |  |
+| gendou kobayashi | ゲンドウコバヤシ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
