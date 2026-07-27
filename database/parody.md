@@ -2908,6 +2908,7 @@ example:
 | tenkuu shinpan | 天空侵犯 | ![](https://lain.bgm.tv/r/400/pic/cover/l/15/1d/317693_3W2J6.jpg)<br>作者：三浦追儺 |  |
 | mount celeb kaneda-san | 金田小姐想靠富婆身份高高在上 | ![](https://cdn-public.comici.jp/series/2/20240325121320899863824CA91921E9CF84912BA84260396-lg.webp)<br>日语:マウントセレブ金田さん |  |
 | mina the hollower | 挖掘者米娜 | ![](https://upload.wikimedia.org/wikipedia/en/6/6a/Mina_the_Hollower_cover_art.png) | [Steam](https://store.steampowered.com/app/1875580/_/) |
+| dragonlance | 龙枪编年史 | 《龙枪编年史》是由玛格丽特·魏丝和特蕾西·希克曼创作的奇幻小说三部曲。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
