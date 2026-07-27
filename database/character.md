@@ -9844,6 +9844,7 @@ example:
 | harpuia | 赫尔琵亚 | ![](https://static.wikia.nocookie.net/megaman/images/6/65/Mega_Man_X_DiVE_Hunter_Program_Harpuia.png)<br>出自作品:`megaman zero` |  |
 | kirara tamako | 云母玉子 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/d2/Kirara_Tamako_Full_Body.png)<br>所属社团:`nijisanji`<br>日语：雲母たまこ | [YouTube](https://www.youtube.com/@KiraraTamako/videos) |
 | yumi lee | 李裕美 | ![](https://static.wikia.nocookie.net/windbreaker/images/f/fb/Yumi_L.jpg)<br>出自作品:`windbreaker`<br>韩语：이유미 |  |
+| kaufmo | 卡夫莫 | 出自作品:`the amazing digital circus` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
