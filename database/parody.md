@@ -2911,7 +2911,7 @@ example:
 | dragonlance | 龙枪编年史 | 《龙枪编年史》是由玛格丽特·魏丝和特蕾西·希克曼创作的奇幻小说三部曲。 |  |
 | wylde pak | 沃德朴一家 |  |  |
 | kamen rider zeztz | 假面骑士ZZZ | ![](https://static.wikia.nocookie.net/kamenrider/images/a/a4/Zeztz_Poster.jpg) |  |
-| wakaba-iro no quartet | 若叶色的四重奏 | ![](https://t.vndb.org/cv.t/56/98656.jpg)<br>若葉色のカルテット |  |
+| wakaba-iro no quartet | 若叶色的四重奏 | ![](https://t.vndb.org/cv.t/56/98656.jpg)<br>若葉色のカルテット | [https://vndb.org/v25367](https://vndb.org/v25367) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
