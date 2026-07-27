@@ -15466,6 +15466,7 @@ example:
 | ginzou | 銀蔵 |  |  |
 | dallim | Dallim |  | [pixiv](https://www.pixiv.net/users/11818793) \| [FANBOX](https://clallim.fanbox.cc/) |
 | umehara ume | 梅原うめ |  | [X](https://x.com/ume_kkmk) [pixiv](https://www.pixiv.net/users/1291097/artworks) |
+| ogino jun | 荻野純 | 代表作品《透明人间之骨》 | [X](https://x.com/ogino_jun) [pixiv](https://www.pixiv.net/users/35438167) |
 
 <!--TEMPLATE:
 |  |  |  |  |
