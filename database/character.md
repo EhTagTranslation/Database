@@ -1551,7 +1551,7 @@ example:
 | chiyo shimada | 岛田千代 | ![](https://ehgt.org/w/02/282/28606-g8hp8v8c.webp)<br>出自作品：`p:girls und panzer`<br>日语：島田 千代（しまだ ちよ） | [萌娘百科](https://zh.moegirl.org.cn/岛田千代) |
 |  | 文科省官员 |  |  |
 |  | ▼ 尼尔 |  |  |
-| a2 | A型二号 |  |  |
+| a2 | A型二号 | ![](https://i2.hdslb.com/bfs/new_dyn/6034d003e3d09a05ee433d9963ac5637262400697.png)<br>所属作品：`nier automata` |  |
 | 2b | 二号B型 | ![](https://ehgt.org/w/01/995/61163-tf8qn966.webp)<br>所属作品: `p:nier automata` | [萌娘百科](https://zh.moegirl.org.cn/寄叶二号B型) [Fandom](https://nier.fandom.com/wiki/YoRHa_No.2_Type_B) |
 | 9s | 九号S型 |  |  |
 |  | ▼ 交响情人梦 |  |  |
