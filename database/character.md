@@ -5489,7 +5489,7 @@ example:
 | navia caspar | 娜维娅·卡萨帕 | ![](https://patchwiki.biligame.com/images/ys/0/07/ia8tl8fk7ngdtbhepvlb0mz1oqygvwh.gif)<br>所属作品：`genshin impact`<br>刺玫会现任会长，一位可爱、尽责的好老板。 | [萌娘百科](https://zh.moegirl.org.cn/娜维娅·卡萨帕) |
 | shizuru kousaka | 高坂静流 | ![](https://static.wikia.nocookie.net/taimanin/images/8/85/Kousaka_Shizuru_22.png)<br>所属作品：`taimanin yukikaze`<br>高坂静流是一位专注于单独执行危险潜入任务的经验丰富的对魔忍。 | [https://www.lilith-soft.com/chara/detail/261](https://www.lilith-soft.com/chara/detail/261) |
 | krystal | 克莉斯塔尔 |  | [维基百科](https://zh.wikipedia.org/wiki/星際火狐系列角色列表#克莉斯塔爾) |
-| fox mccloud | 火狐·麦克劳德 |  | [维基百科](https://zh.wikipedia.org/wiki/星際火狐系列角色列表#火狐·麥克勞德) |
+| fox mccloud | 火狐·麦克劳德 | 出自作品:`star fox` | [维基百科](https://zh.wikipedia.org/wiki/星際火狐系列角色列表#火狐·麥克勞德) |
 | wolf odonnell | 沃尔夫·欧唐纳 |  | [维基百科](https://zh.wikipedia.org/wiki/星際火狐系列角色列表#沃爾夫·歐唐納) |
 | falco lombardi | 法尔科·兰巴帝 |  | [维基百科](https://zh.wikipedia.org/wiki/星際火狐系列角色列表#法爾科·蘭巴帝) |
 | panther caroso | 巴萨·卡尔罗兹 |  | [维基百科](https://zh.wikipedia.org/wiki/星際火狐系列角色列表#巴薩·卡爾羅茲) |
