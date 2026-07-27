@@ -9839,6 +9839,7 @@ example:
 | ariya iwanaga | 磐永阿梨夜 | ![](https://en.touhouwiki.net/images/thumb/6/62/Th20Ariya.png/396px-Th20Ariya.png)<br>出自作品:`touhou project`<br>东方锦上京 ~ Fossilized Wonders》中登场 |  |
 | nina watari | 渡里妮娜 | ![](https://en.touhouwiki.net/images/thumb/a/ab/Th20Nina.png/352px-Th20Nina.png)<br>出自作品:`touhou project`<br>《东方锦上京》中登场 |  |
 | tyr | 提尔（棕色尘埃） | ![](https://static.wikitide.net/browndust2wiki/thumb/4/49/Costume_004101.png/599px-Costume_004101.png)<br>出自作品:`brave nine` |  |
+| fara phoenix | 法拉·菲尼克斯 | 出自作品:`star fox` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
