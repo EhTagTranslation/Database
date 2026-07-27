@@ -9853,6 +9853,7 @@ example:
 | yelena belova | 叶莲娜·贝洛娃（黑寡妇） | ![](https://static.wikia.nocookie.net/marveldatabase/images/4/4f/White_Widow_Vol_1_1_Artgerm_Virgin_Variant.jpg)<br>出自作品:`avengers` |  |
 | roka ayatsumugi | 绫䌷芦花 | ![](https://static.wikia.nocookie.net/yuripedia/images/8/82/Roka_Ayatsumugi_%28Tsukuyomi%29.png)<br>出自作品:`chou kaguya-hime` |  |
 | yuri tamura | 田村百合 | ![](https://lain.bgm.tv/r/400/pic/crt/l/3f/a5/76032_crt_3D200.jpg)<br>出自作品:`its not my fault that im not popular` |  |
+| masaki yoshida | 吉田茉咲 | 所属作品：`p:its not my fault that im not popular` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
