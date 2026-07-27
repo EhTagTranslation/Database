@@ -15469,6 +15469,7 @@ example:
 | ogino jun | 荻野純 | 代表作品《透明人间之骨》 | [X](https://x.com/ogino_jun) [pixiv](https://www.pixiv.net/users/35438167) |
 | izumi uni | 出海うに |  | [FANZA](https://book.dmm.co.jp/list/?author=353394) |
 | siu | Siu |  | [pixiv](https://www.pixiv.net/users/9459043) \| [X](https://x.com/siu0207) \| [FANBOX](https://siu.fanbox.cc/) |
+| dosukebe kojikimaru | ドスケベ乞食丸 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
