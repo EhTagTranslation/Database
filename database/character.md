@@ -3984,7 +3984,7 @@ example:
 | katsuki bakugou | 爆豪胜己 | 所属作品：`p:my hero academia`<br><br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/83/Katsuki_Bakugo_School_Uniform_Full_Body.png) | [维基百科](https://zh.wikipedia.org/wiki/爆豪勝己) [Fandom](https://myheroacademia.fandom.com/wiki/Katsuki_Bakugo) |
 | kyouko takizawa | 泷泽京子 | 所属作品：`bijin onna joushi takizawa-san`<br><br>![](https://cdn.myanimelist.net/images/manga/2/204811.jpg) | [myanimelist](https://myanimelist.net/character/159431/Kyouko_Takizawa) |
 | black prince | 黑太子 | 所属作品：`p:azur lane` | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:黑太子) |
-| tomoko kuroki | 黑木智子 | 所属作品：`p:its not my fault that im not popular` | [萌娘百科](https://zh.moegirl.org.cn/黑木智子) |
+| tomoko kuroki | 黑木智子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/cc/f7/18105_crt_8GR44.jpg)<br>所属作品：`p:its not my fault that im not popular` | [萌娘百科](https://zh.moegirl.org.cn/黑木智子) |
 | yukari miyako | 都由香里 |  |  |
 | clare | 克蕾雅 |  |  |
 | raki | 拉基 |  |  |
