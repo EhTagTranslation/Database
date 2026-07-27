@@ -9857,6 +9857,7 @@ example:
 | koharu minami | 南小阳 | 出自作品:`its not my fault that im not popular` |  |
 | sachi mima | 美马幸 | 出自作品:`its not my fault that im not popular` |  |
 | emiri uchi | 内笑美莉 | 出自作品:`its not my fault that im not popular` |  |
+| hina nemoto | 根元阳菜 | 出自作品:`its not my fault that im not popular` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
