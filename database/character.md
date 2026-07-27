@@ -8381,7 +8381,7 @@ example:
 | yuko murakami | 村上佑子 | 所属作品：`bishoujo kamen poitrine` |  |
 | kaga nazuna | 花芽荠 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/90/Kaga_Nazuna_corporate_full_body.png)<br>所属社团：VSPO<br>日语：花芽なずな |  |
 | kaga sumire | 花芽菫 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/2/29/Kaga_Sumire_Portrait_Still.png)<br>所属社团：VSPO<br>日语：花芽すみれ |  |
-| phantom | 幻影法师 | ![](https://static.wikia.nocookie.net/maplestory/images/7/7f/ClassArtwork_Phantom_%28Nova%29.png)<br>所属作品：`maplestory` | [Fandom](https://maplestory.fandom.com/wiki/Phantom) |
+| phantom | 潘托姆 \| 幻影法师 | ①所属作品：`goddess of victory nikke`<br>![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2c/Phantom_%28Alt%29_FB.png)<br>——————————<br>②所属作品：`maplestory`<br>![](https://static.wikia.nocookie.net/maplestory/images/7/7f/ClassArtwork_Phantom_%28Nova%29.png) | [Fandom](https://maplestory.fandom.com/wiki/Phantom) |
 | luminous | 夜光法师 | ![](https://static.wikia.nocookie.net/maplestory/images/5/52/ClassArtwork_Luminous_%28Nova%29.png)<br>所属作品：`maplestory` |  |
 | mrs. ming ming | 明明女士 | ![](https://static.wikia.nocookie.net/maplestory/images/2/29/NPC_Mrs._Ming_Ming.png)<br>所属作品：`maplestory` |  |
 | blaze wizard | 炎术士 | ![](https://static.wikia.nocookie.net/maplestory/images/1/10/ClassArtwork_Blaze_Wizard_%28Ignition%2C_Male%29.png)<br>所属作品：`maplestory` |  |
