@@ -9846,6 +9846,7 @@ example:
 | yumi lee | 李裕美 | ![](https://static.wikia.nocookie.net/windbreaker/images/f/fb/Yumi_L.jpg)<br>出自作品:`windbreaker`<br>韩语：이유미 |  |
 | kaufmo | 卡夫莫 | 出自作品:`the amazing digital circus` |  |
 | kit bodega | 基德·博德加 | ![](https://static.wikia.nocookie.net/gameoverse/images/9/9a/Kit_-_model_sheet_render.png)<br>出自作品:`gameoverse` |  |
+| ribbit | 瑞比特 | 出自作品:`the amazing digital circus` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
