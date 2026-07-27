@@ -9845,6 +9845,7 @@ example:
 | kirara tamako | 云母玉子 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/d2/Kirara_Tamako_Full_Body.png)<br>所属社团:`nijisanji`<br>日语：雲母たまこ | [YouTube](https://www.youtube.com/@KiraraTamako/videos) |
 | yumi lee | 李裕美 | ![](https://static.wikia.nocookie.net/windbreaker/images/f/fb/Yumi_L.jpg)<br>出自作品:`windbreaker`<br>韩语：이유미 |  |
 | kaufmo | 卡夫莫 | 出自作品:`the amazing digital circus` |  |
+| kit bodega | 基德·博德加 | ![](https://static.wikia.nocookie.net/gameoverse/images/9/9a/Kit_-_model_sheet_render.png)<br>出自作品:`gameoverse` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
