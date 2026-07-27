@@ -15471,6 +15471,7 @@ example:
 | siu | Siu |  | [pixiv](https://www.pixiv.net/users/9459043) \| [X](https://x.com/siu0207) \| [FANBOX](https://siu.fanbox.cc/) |
 | dosukebe kojikimaru | ドスケベ乞食丸 |  |  |
 | gendou kobayashi | ゲンドウコバヤシ |  |  |
+| yumikichi | ユミキチ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
