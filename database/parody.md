@@ -2907,6 +2907,7 @@ example:
 | asuras wrath | 阿修罗之怒 | ![](https://static.wikia.nocookie.net/asuraswrath/images/a/a7/Asura%27s_Wrath_Box_Art.webp/revision/latest/scale-to-width-down/250?cb=20220702124833)<br>《阿修罗之怒》（日语：アスラズ ラース，英语：Asura's Wrath），是由卡普空与CyberConnect2（简称CC2）合作开发的动作游戏。于2012年2月23日发售。 | [维基百科](https://zh.wikipedia.org/wiki/阿修羅之怒) \| [Fandom](https://asuraswrath.fandom.com/wiki/Asura) |
 | tenkuu shinpan | 天空侵犯 | ![](https://lain.bgm.tv/r/400/pic/cover/l/15/1d/317693_3W2J6.jpg)<br>作者：三浦追儺 |  |
 | mount celeb kaneda-san | 金田小姐想靠富婆身份高高在上 | ![](https://cdn-public.comici.jp/series/2/20240325121320899863824CA91921E9CF84912BA84260396-lg.webp)<br>日语:マウントセレブ金田さん |  |
+| mina the hollower | 挖掘者米娜 | ![](https://upload.wikimedia.org/wikipedia/en/6/6a/Mina_the_Hollower_cover_art.png) | [Steam](https://store.steampowered.com/app/1875580/_/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
