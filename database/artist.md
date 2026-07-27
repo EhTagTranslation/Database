@@ -15464,6 +15464,7 @@ example:
 | nekomatan. | ねこまたん。 |  |  |
 | emasson | エマーソン |  |  |
 | ginzou | 銀蔵 |  |  |
+| dallim | Dallim |  | [pixiv](https://www.pixiv.net/users/11818793) \| [FANBOX](https://clallim.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
