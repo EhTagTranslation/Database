@@ -1632,7 +1632,7 @@ example:
 | shigatsu wa kimi no uso | 四月是你的谎言 |  | [维基百科](https://zh.wikipedia.org/wiki/四月是你的謊言) |
 | axis powers hetalia | 黑塔利亚 Axis Powers | 《黑塔利亚 Axis Powers》（日语：Axis powers ヘタリア，英语：Hetalia: Axis Powers），简称《黑塔利亚》或《APH（啊泼喝）》，是日丸屋秀和创作的一部网络漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/黑塔利亚) |
 | disney twisted-wonderland | 迪士尼扭曲仙境 | 《迪士尼扭曲仙境》（日语：ディズニーツイステッドワンダーランド；英语：Disney Twisted-Wonderland）是由Aniplex和Walt Disney Japan共同开发的一款手机游戏，由漫画家枢やな（枢梁）担任其原案、主线故事及角色设计。 | [萌娘百科](https://zh.moegirl.org.cn/迪士尼扭曲仙境) |
-| sono bisque doll wa koi o suru | 更衣人偶坠入爱河 | ![图](https://ehgt.org/12/ac/12ac4507b72ef0c51a54c460f151b5496b490493-252937-1600-2268-jpg_l.jpg)<br>《更衣人偶坠入爱河》（日语：その着せ替え人形は恋をする，简称“着せ恋”）是由日本女性漫画家福田晋一绘画的Cosplay题材青年漫画作品，并有动画等衍生作品 | [维基百科](https://zh.wikipedia.org/wiki/戀上換裝娃娃) [萌娘百科](https://zh.moegirl.org.cn/更衣人偶坠入爱河)  [漫画官网](https://magazine.jp.square-enix.com/yg/introduction/sonobisque/) [动画官网](https://bisquedoll-anime.com/) [动画官方Twitter](https://x.com/kisekoi_anime) |
+| sono bisque doll wa koi o suru | 更衣人偶坠入爱河 | ![图](https://ehgt.org/12/ac/12ac4507b72ef0c51a54c460f151b5496b490493-252937-1600-2268-jpg_l.jpg)<br>《更衣人偶坠入爱河》（日语：その着せ替え人形は恋をする，简称“着せ恋”）是由日本女性漫画家福田晋一绘画的Cosplay题材青年漫画作品，并有动画等衍生作品 | [维基百科](https://zh.wikipedia.org/wiki/戀上換裝娃娃) [萌娘百科](https://zh.moegirl.org.cn/更衣人偶坠入爱河) |
 | hypnosis mic | 催眠麦克风 |  |  |
 | project sekai | 世界计划 | 《世界计划 缤纷舞台！ feat.初音未来》<br>日语：プロジェクトセカイ カラフルステージ！ feat.初音ミク，<br>英语：Project Sekai: Colorful Stage feat. Hatsune Miku，<br>简称《世界计划》（日语：プロセカ），是基于抽卡的视觉小说风格音乐手机游戏 | [官网地址](https://pjsekai.sega.jp/) [维基百科](https://zh.wikipedia.org/wiki/世界计划_缤纷舞台！_feat.初音未来) |
 | needy streamer overload | 主播女孩重度依赖 |  |  |
