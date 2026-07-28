@@ -2924,6 +2924,7 @@ example:
 | sally face | 莎莉脸 |  |  |
 | boushoku no berserk | 暴食狂战士 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cf/39/248915_dFHYN.jpg)<br>全名：暴食狂战士~唯有我突破了所谓「等级」的概念~<br>日语 :暴食のベルセルク ~俺だけレベルという概念を突破する~ |  |
 | black torch | 暗黑灯火 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1b/75/542603_KZT1m.jpg)<br>作者：タカキツヨシ |  |
+| mf ghost | 燃油车斗魂 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5b/c9/530110_EQtrE.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
