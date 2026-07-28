@@ -8369,7 +8369,7 @@ example:
 | naba | 菜葉 |  |  |
 | nabe | Nabe |  |  |
 | nabenco | なべんこ |  |  |
-| nabeshiki | ナベシキ |  |  |
+| nabeshiki | ナベシキ |  | [pixiv](https://www.pixiv.net/users/1305019) \| [FANBOX](https://fanbox7bshiki.fanbox.cc/) \| [X](https://x.com/7b_shiki) \| [Fantia](https://fantia.jp/fanclubs/4961) \| [Skeb](https://skeb.jp/@7b_shiki) |
 | nabeshima mike | 鍋島ミケ |  |  |
 | nabeya sakihana | 鍋谷咲花 |  |  |
 | nabeyu | なべゆ |  |  |
