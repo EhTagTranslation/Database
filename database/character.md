@@ -9888,6 +9888,7 @@ example:
 | uka hatsuayu | 初鲇羽果 | ![](https://lain.bgm.tv/r/400/pic/crt/l/52/29/203532_crt_dg9iw.jpg)<br>出自作品:`kirei ni shite moraemasu ka.` |  |
 | meiko morita | 森田芽衣子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/58/ce/183945_crt_808Yi.jpg)<br>出自作品:`ichijyoma mankitsu gurashi` |  |
 | mako kawai | 河合真子 | ![](https://static.wikia.nocookie.net/food-for-the-soul/images/1/15/Mako_Kawai_Anime.png)<br>出自作品:`hibi wa sugiredo meshi umashi`<br>日语：河合まこ |  |
+| nana hoshi | 星奈奈 | ![](https://static.wikia.nocookie.net/food-for-the-soul/images/c/c4/Nana_Hoshi_Anime.png)<br>出自作品:`hibi wa sugiredo meshi umashi`<br>日语：星なな |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
