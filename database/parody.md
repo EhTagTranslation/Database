@@ -2922,6 +2922,7 @@ example:
 | ichijyoma mankitsu gurashi | 一叠间漫画咖啡厅日常！ | ![](https://lain.bgm.tv/r/400/pic/cover/l/68/22/282944_QAz0K.jpg)<br>日语：一畳間まんきつ暮らし！ |  |
 | kiwami-highandlow | 极致的高低体验 | ![](https://booth.pximg.net/e513f2c4-5df5-4360-8ba7-656802f7a753/i/1957573/e726238d-ca13-431a-9c46-4e21eb0856e1_base_resized.jpg) | [BOOTH](https://booth.pm/ja/items/1957573) |
 | sally face | 莎莉脸 |  |  |
+| boushoku no berserk | 暴食狂战士 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cf/39/248915_dFHYN.jpg)<br>全名：暴食狂战士~唯有我突破了所谓「等级」的概念~<br>日语 :暴食のベルセルク ~俺だけレベルという概念を突破する~ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
