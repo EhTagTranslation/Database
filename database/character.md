@@ -9905,6 +9905,7 @@ example:
 | roxy hart | 罗琪希·哈特 | ![](https://static.wikia.nocookie.net/berserkofgluttony/images/1/1d/Roxy_Hart_Anime.png)<br>出自作品:`boushoku no berserk`<br>日语：ロキシー・ハート |  |
 | noa aoi | 苍唯乃爱 | ![](https://static.wikia.nocookie.net/pole-princess/images/a/af/Noa_1.png)<br>出自作品:`pole princess`<br>日语：蒼唯 ノア |  |
 | sana murafuji | 紫藤纱娜 | ![](https://static.wikia.nocookie.net/pole-princess/images/e/eb/Sana_1.png)<br>出自作品:`pole princess`<br>日语：紫藤 サナ |  |
+| yukari mikoshiro | 御子白优花梨 | ![](https://static.wikia.nocookie.net/pole-princess/images/2/2c/Yukari_1.png)<br>出自作品:`pole princess`<br>日语：御子白 ユカリ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
