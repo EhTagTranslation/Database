@@ -9883,6 +9883,7 @@ example:
 | neneko izumozaki | 出云崎宁宁子 | ![](https://t.vndb.org/ch/16/194416.jpg)<br>出自作品:`return to shironagasu island`<br>日语：出雲崎 ねね子 |  |
 | mira julietta vespaland | 米拉·朱利亚塔·维斯巴朗德 | ![](https://cdn.myanimelist.net/images/characters/9/149891.jpg)<br>出自作品:`detective conan`<br>登场于《 鲁邦三世 VS 名侦探柯南 》 |  |
 | hisako fuchita | 渕田久子 | ![](https://static.wikia.nocookie.net/angelbeats/images/2/2a/Hisako_HeavenBurnsRed.png)<br>出自作品:`angel beats`<br>日语：渕田 ひさ子 |  |
+| eri shiina | 椎名枝里 | ![](https://static.wikia.nocookie.net/angelbeats/images/f/f2/Shiina_visualnovel.png)<br>出自作品:`angel beats` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
