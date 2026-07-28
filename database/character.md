@@ -9915,6 +9915,7 @@ example:
 | ezra | 以斯拉 | ![](https://limbuscompany.wiki.gg/images/thumb/Ezra_StandingSprite.png/598px-Ezra_StandingSprite.png?f98c68)<br>出自作品:`limbus company`<br>韩语：에즈라 |  |
 | sailor sommelier | 水手侍酒师 | 出自作品:`sailor moon` |  |
 | sailor guts | 水手勇士 | 出自作品:`sailor moon` |  |
+| asa mitakas mother | 三鹰朝妈妈 | 出自作品:`chainsaw man` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
