@@ -2928,6 +2928,7 @@ example:
 | kimi to koete koi ni naru | 跨越种族与你相恋 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cc/27/532940_LE79k.jpg) |  |
 | sudachi no maoujou | 离巢的魔王城 | ![](https://lain.bgm.tv/r/400/pic/cover/l/14/d8/354130_7CjwZ.jpg) |  |
 | shiboritoranaide onna shounin-san | 别榨干我啊，商人小姐！ | ![](https://lain.bgm.tv/r/400/pic/cover/l/44/44/297896_5g6vb.jpg) |  |
+| watashi o tabetai hitodenashi | 对我垂涎欲滴的非人少女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/dc/1d/313877_d7Hi7.jpg)<br>日语：私を喰べたい、ひとでなし |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
