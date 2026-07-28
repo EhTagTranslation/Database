@@ -9862,6 +9862,7 @@ example:
 | rize kamishiro | 神代利世 |  | [萌娘百科](https://zh.moegirl.org.cn/神代利世) |
 | xi jinping | 习近平 |  |  |
 | mao zedong | 毛泽东 |  |  |
+| zooble | 祖波 | 出自作品:`the amazing digital circus` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
