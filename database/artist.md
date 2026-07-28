@@ -15476,6 +15476,7 @@ example:
 | sawada yuusuke | サワダユウスケ |  |  |
 | tsuchikado | つちかど |  |  |
 | chapio gensui | ちゃぴお元帥 |  |  |
+| ahoge kinoko | あほげきのこ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
