@@ -2920,6 +2920,7 @@ example:
 | loop 7-kaime no akuyaku reijou wa | 重启七次人生的叛逆千金 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7a/aa/322220_mo3Og.jpg)<br>全名：轮回七次的反派大小姐，在前敌国享受随心所欲的新婚生活<br>日语：ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する |  |
 | return to shironagasu island | 重返蓝鲸岛 | ![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1156990/header_schinese.jpg?t=1783493013) | [Steam](https://store.steampowered.com/app/1156990/_Return_to_Shironagasu_Island/) |
 | ichijyoma mankitsu gurashi | 一叠间漫画咖啡厅日常！ | ![](https://lain.bgm.tv/r/400/pic/cover/l/68/22/282944_QAz0K.jpg)<br>日语：一畳間まんきつ暮らし！ |  |
+| kiwami-highandlow | 极致的高低体验 | ![](https://booth.pximg.net/e513f2c4-5df5-4360-8ba7-656802f7a753/i/1957573/e726238d-ca13-431a-9c46-4e21eb0856e1_base_resized.jpg) | [BOOTH](https://booth.pm/ja/items/1957573) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
