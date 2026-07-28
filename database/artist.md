@@ -15477,6 +15477,7 @@ example:
 | tsuchikado | つちかど |  |  |
 | chapio gensui | ちゃぴお元帥 |  |  |
 | ahoge kinoko | あほげきのこ |  |  |
+| ura jiraiya | うらじらいや |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
