@@ -2916,6 +2916,7 @@ example:
 | buchigire reijou wa houfuku o chikaimashita. | 暴怒千金发誓复仇 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e2/dd/579246_61291.jpg)<br>全名：暴怒千金发誓复仇。～凭借魔导书之力打垮祖国～<br>日语：ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～ |  |
 | to be hero x | 凸变英雄 X | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/37/405212_2LgDe.jpg) |  |
 | life makeover | 以闪亮之名 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ba/cb/356760_9pFW7.jpg) |  |
+| isekai one turn kill nee-san ane douhan no isekai seikatsu hajimemashita | 异世界一击无双姐姐 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2c/ee/373833_4g4v6.jpg)<br>全名：异世界一击无双姐姐 ～姐同伴异世界生活开启～<br>日语：異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
