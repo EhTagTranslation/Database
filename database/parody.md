@@ -2930,6 +2930,7 @@ example:
 | shiboritoranaide onna shounin-san | 别榨干我啊，商人小姐！ | ![](https://lain.bgm.tv/r/400/pic/cover/l/44/44/297896_5g6vb.jpg) |  |
 | watashi o tabetai hitodenashi | 对我垂涎欲滴的非人少女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/dc/1d/313877_d7Hi7.jpg)<br>日语：私を喰べたい、ひとでなし |  |
 | shuu ni ichido classmate o kau hanashi | 我买下了与她的每周密会 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0d/e8/370560_sgCDF.jpg)<br>日语：週に一度クラスメイトを買う話 |  |
+| otome game no heroine de saikyou survival | 身为女性向游戏的女主角挑战最强生存剧 | ![](https://lain.bgm.tv/r/400/pic/cover/l/72/03/372291_MqKF5.jpg)<br>日语：乙女ゲームのヒロインで最強サバイバル |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
