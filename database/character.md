@@ -9896,6 +9896,7 @@ example:
 | nagomi | 和 | ![](https://static.wikia.nocookie.net/25-dimensional-seduction/images/6/6a/753♡_Anime.png)<br>出自作品:`2.5-jigen no yuuwaku` |  |
 | arisa izayoi | 十六夜亚理沙 | ![](https://preview.redd.it/my-dress-up-darling-season-2-character-visual-for-marin-v0-bpfsvhh8wraf1.jpeg?width=1080&crop=smart&auto=webp&s=6bcee04eed39cddbb9dabd6ae144c2c2ac7b336c)<br>出自作品:`sono bisque doll wa koi o suru` |  |
 | max immelmann | 马克斯·殷麦曼 | ![](https://azurlane.netojuu.com/images/thumb/f/f6/Max_ImmelmannCNWithoutBG.png/1595px-Max_ImmelmannCNWithoutBG.png)<br>出自作品:`azur lane`<br>别名：玛克西米莉安·伊梅拉 |  |
+| demenishki | Demenishki | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/1/14/Demenishki_Portrait.jpg) | [YouTube](https://www.youtube.com/@demenishki) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
