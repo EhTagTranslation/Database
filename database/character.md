@@ -3693,7 +3693,7 @@ example:
 | mei hiuchidani | 火打谷爱衣 |  |  |
 | suzune shioyama | 汐山凉音 |  |  |
 | wakana gojou | 五条新菜 | ![](https://static.wikia.nocookie.net/sono-bisque-doll-wa-koi-wo-suru/images/a/a9/Wakana_Gojo.webp)<br>出自作品：`p:sono bisque doll wa koi o suru`<br><br>五条新菜（日语：五条新菜 / ごじょうわかな）是由福田晋一创作的漫画《更衣人偶坠入爱河》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/五条新菜) \| [Fandom](https://sono-bisque-doll-wa-koi-wo-suru.fandom.com/wiki/Wakana_Gojo) |
-| marin kitagawa | 喜多川海梦 | ![图](https://p.sda1.dev/5/90b6665d7a131deb663ecb63cfa825d9/Kitagawa_Marin_1.png)<br><br>所属作品：`sono bisque doll wa koi o suru`<br>开朗的美少女，没有害怕的东西。<br>金发黑棕色瞳，平时会戴桃红色美瞳。<br>与新菜同为1年5班。对于自己喜欢的东西不会掩饰。 | [萌娘百科](https://zh.moegirl.org.cn/喜多川海梦) |
+| marin kitagawa | 喜多川海梦 | ![](https://static.wikia.nocookie.net/sono-bisque-doll-wa-koi-wo-suru/images/8/81/Marin_Kitagawa.webp)<br>所属作品：`sono bisque doll wa koi o suru` | [萌娘百科](https://zh.moegirl.org.cn/喜多川海梦) |
 | akeno himejima | 姬岛朱乃 | ![](https://haremking.tv/character/images/4s.png)<br>所属作品：`highschool dxd` | [萌娘百科](https://zh.moegirl.org.cn/姬岛朱乃) |
 | asia argento | 爱莎·阿尔杰特 | ![](https://static.wikia.nocookie.net/highschooldxd/images/7/72/Asia_Argento_by_Skodwarde.png)<br>日语：アーシア・アルジェント<br>所属作品：`highschool dxd` | [萌娘百科](https://zh.moegirl.org.cn/爱莎·阿尔杰特) |
 | koneko toujou | 塔城小猫 | ![](https://static.wikia.nocookie.net/highschooldxd/images/2/2d/Koneko_Toujou_soccer_game.png)<br>日语：とうじょう こねこ<br>所属作品：`highschool dxd` | [萌娘百科](https://zh.moegirl.org.cn/塔城小猫) |
