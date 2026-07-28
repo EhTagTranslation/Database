@@ -9879,6 +9879,7 @@ example:
 | mirai azuma | 吾妻未来 | ![](https://static.wikia.nocookie.net/blue-archive/images/7/7d/Mirai_Portrait.png)<br>出自作品:`blue archive`<br>日语：吾妻ミライ |  |
 | sophie peaceful | 索菲·碧丝福尔 | ![](https://static.wikia.nocookie.net/my-onehit-kill-sister/images/5/50/Sophie.png)<br>出自作品:`isekai one turn kill nee-san ane douhan no isekai seikatsu hajimemashita`<br>日语：ソフィ＝ピースフル |  |
 | kilmaria | 吉尔玛莉亚 | ![](https://static.wikia.nocookie.net/villains/images/5/50/Kilmaria.webp)<br>出自作品:`isekai one turn kill nee-san ane douhan no isekai seikatsu hajimemashita`<br>日语：キルマリア |  |
+| rishe irmgard weitzner | 莉榭·伊尔姆加德·韦尔特纳 | ![](https://lain.bgm.tv/r/400/pic/crt/l/9c/ea/135637_crt_aRXCE.jpg?r=1705249990)<br>出自作品:`loop 7-kaime no akuyaku reijou wa`<br>日语：リーシェ・イルムガルド・ヴェルツナー |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
