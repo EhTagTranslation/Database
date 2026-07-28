@@ -9868,6 +9868,7 @@ example:
 | nana shiraishi | 白石奈奈 | ![](https://static.wikia.nocookie.net/mahjongsoul/images/6/61/NanaShiraishiDefault.png)<br>出自作品:`mahjong soul` |  |
 | clairie serah | 克蕾露薇·塞拉 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/4/44/Clairie_Serah_-_Anime_Design.png)<br>出自作品:`tsue to tsurugi no wistoria`<br>日语：クレイルウィ・セラ |  |
 | ellie leis | 艾莉·莱斯 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b3/d8/196012_crt_4JJ2v.jpg)<br>出自作品:`buchigire reijou wa houfuku o chikaimashita.`<br>日语：エリー・レイス |  |
+| x | X | ![](https://lain.bgm.tv/r/400/pic/crt/l/84/0c/161131_crt_vspDL.jpg)<br>出自作品:`to be hero x` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
