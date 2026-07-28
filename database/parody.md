@@ -2914,6 +2914,7 @@ example:
 | wakaba-iro no quartet | 若叶色的四重奏 | ![](https://t.vndb.org/cv.t/56/98656.jpg)<br>若葉色のカルテット | [https://vndb.org/v25367](https://vndb.org/v25367) |
 | balala the fairies | 巴啦啦小魔仙系列 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b8/ef/121596_DL4nV.jpg)<br>![](https://lain.bgm.tv/r/400/pic/cover/l/43/4c/71926_Uex88.jpg)<br>![](https://lain.bgm.tv/r/400/pic/cover/l/a4/7f/378809_dvSn2.jpg) |  |
 | buchigire reijou wa houfuku o chikaimashita. | 暴怒千金发誓复仇 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e2/dd/579246_61291.jpg)<br>全名：暴怒千金发誓复仇。～凭借魔导书之力打垮祖国～<br>日语：ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～ |  |
+| to be hero x | 凸变英雄 X | ![](https://lain.bgm.tv/r/400/pic/cover/l/9a/37/405212_2LgDe.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
