@@ -9891,6 +9891,7 @@ example:
 | nana hoshi | 星奈奈 | ![](https://static.wikia.nocookie.net/food-for-the-soul/images/c/c4/Nana_Hoshi_Anime.png)<br>出自作品:`hibi wa sugiredo meshi umashi`<br>日语：星なな |  |
 | claire furutachi | 古馆红怜亚 | ![](https://static.wikia.nocookie.net/food-for-the-soul/images/4/4d/Kurea_Furutachi_Anime.png)<br>出自作品:`hibi wa sugiredo meshi umashi`<br>日语：古館くれあ |  |
 | noel izumi | 和泉乃爱琉 | ![](https://static.wikia.nocookie.net/tenshitsuki/images/6/67/Noel_Izumi.png)<br>出自作品:`one room hiatari futsuu tenshi-tsuki`<br>日语：和泉 のえる |  |
+| pai kawahigashi | 河东派 | ![](https://static.wikia.nocookie.net/ponnomichi/images/8/86/Pai_Kawahigashi_Character_Design.png)<br>出自作品:`pon no michi`<br>日语：河東ぱい |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
