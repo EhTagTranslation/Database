@@ -9860,6 +9860,7 @@ example:
 | hina nemoto | 根元阳菜 | 出自作品:`its not my fault that im not popular` |  |
 | mako tanaka | 田中真子 | 出自作品:`its not my fault that im not popular` |  |
 | rize kamishiro | 神代利世 |  | [萌娘百科](https://zh.moegirl.org.cn/神代利世) |
+| xi jinping | 习近平 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
