@@ -7887,7 +7887,7 @@ example:
 | asclepius | 阿斯克勒庇俄斯 |  |  |
 | tamamo aria | 玉藻艾莉亚 |  |  |
 | jing ke | 荆轲 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/3/3d/Arke-big-circle.png)<br>所属作品：`honor of kings` |  |
-| rizu-kyun | 魅魔利兹 | 《更衣人偶坠入爱河》中女主角喜多川海梦曾cos过的角色 |  |
+| rizu-kyun | 魅魔利兹 | ![](https://static.wikia.nocookie.net/sono-bisque-doll-wa-koi-wo-suru/images/6/6a/DressRizu.webp)<br>`marin kitagawa`COS的角色。<br>所属作品：`sono bisque doll wa koi o suru` |  |
 | kuchisake-onna | 裂口女 |  |  |
 | laufen | 菈奥芬 | ![](https://ehgt.org/w/02/338/43867-tpet6vji.webp)<br>所属作品: `p:sousou no frieren` |  |
 | shirahoshi | 白星 | 白星（しらほし）是日本动漫作品《海贼王》里的其中一个角色，鱼人岛龙宫王国的公主，为海王星三兄弟的妹妹，鱼人岛以外的人都用“人鱼公主”（人魚姫）称呼她。<br>![白星](https://upload.wikimedia.org/wikipedia/zh/thumb/5/5e/Shirahoshi.png/421px-Shirahoshi.png) | [维基百科](https://zh.wikipedia.org/wiki/白星) |
