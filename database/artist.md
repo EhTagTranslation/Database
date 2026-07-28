@@ -15474,6 +15474,7 @@ example:
 | yumikichi | ユミキチ |  |  |
 | sukota | すこ太 |  | [pixiv](https://www.pixiv.net/users/36117365) \| [X](https://x.com/seikonsuco2) \| [FANBOX](https://sucosuco.fanbox.cc/) \| [Skeb](https://skeb.jp/@seikonsuco2) |
 | sawada yuusuke | サワダユウスケ |  |  |
+| tsuchikado | つちかど |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
