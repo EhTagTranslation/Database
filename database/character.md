@@ -9903,6 +9903,7 @@ example:
 | lara greyrat | 菈菈·格雷拉特 | ![](https://static.wikia.nocookie.net/mushokutensei/images/2/22/Lara-Greyrat-Childhood-MT-LN-V26.jpg)<br>出自作品:`mushoku tensei`<br>日语：ララ・グレイラット |  |
 | nina farion | 妮娜·法利昂 | ![](https://static.wikia.nocookie.net/mushokutensei/images/9/9b/MT-AN-S3SS-Nina-SS-FullBody.png)<br>出自作品:`mushoku tensei`<br>日语:ニナ・ファリオン |  |
 | roxy hart | 罗琪希·哈特 | ![](https://static.wikia.nocookie.net/berserkofgluttony/images/1/1d/Roxy_Hart_Anime.png)<br>出自作品:`boushoku no berserk`<br>日语：ロキシー・ハート |  |
+| noa aoi | 苍唯乃爱 | ![](https://static.wikia.nocookie.net/pole-princess/images/a/af/Noa_1.png)<br>出自作品:`pole princess`<br>日语：蒼唯 ノア |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
