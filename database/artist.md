@@ -4094,7 +4094,7 @@ example:
 | amida murasaki | あみだむらさき |  |  |
 | amin | あみん |  |  |
 | amino | あみ野 |  |  |
-| amu | あむ |  |  |
+| amu | あむ |  | [X](https://x.com/amupippi) |
 | amum | amum |  |  |
 | amury | あむりー |  |  |
 | amyuchan | アミュちゃん |  |  |
