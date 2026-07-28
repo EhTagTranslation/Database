@@ -9926,6 +9926,7 @@ example:
 | hinako yaotose | 八百岁比名子 | ![](https://static.wikia.nocookie.net/watatabe/images/2/28/Yaotose_Hinako_Anime_Character_Design_2.png)<br>出自作品:`watashi o tabetai hitodenashi` |  |
 | shiori miyagi | 宫城志绪理 | ![](https://lain.bgm.tv/r/400/pic/crt/l/5a/f6/125878_crt_M7tWu.jpg?r=1685105837)<br>所属作品：`shuu ni ichido classmate o kau hanashi` |  |
 | sybilla | 百鬼（席薇亚） | ![](https://static.wikia.nocookie.net/spy-room/images/7/70/Sybilla.anime.png)<br>出自作品:`spy kyoushitsu` |  |
+| grete | 爱娘（葛蕾特） | ![](https://static.wikia.nocookie.net/spy-room/images/e/eb/ManamusumeLNFull.png)<br>出自作品:`spy kyoushitsu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
