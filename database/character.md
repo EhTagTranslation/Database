@@ -9885,6 +9885,7 @@ example:
 | hisako fuchita | 渕田久子 | ![](https://static.wikia.nocookie.net/angelbeats/images/2/2a/Hisako_HeavenBurnsRed.png)<br>出自作品:`angel beats`<br>日语：渕田 ひさ子 |  |
 | eri shiina | 椎名枝里 | ![](https://static.wikia.nocookie.net/angelbeats/images/f/f2/Shiina_visualnovel.png)<br>出自作品:`angel beats` |  |
 | yui yoshioka | 芳冈由依 | ![](https://static.wikia.nocookie.net/angelbeats/images/2/2a/Yui_HeavenBurnsRed.png)<br>出自作品:`angel beats`<br>日语：芳岡 ユイ |  |
+| uka hatsuayu | 初鲇羽果 | ![](https://lain.bgm.tv/r/400/pic/crt/l/52/29/203532_crt_dg9iw.jpg)<br>出自作品:`kirei ni shite moraemasu ka.` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
