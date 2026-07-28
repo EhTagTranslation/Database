@@ -2669,7 +2669,7 @@ example:
 | mikono suzushiro | 御子乃·铃白 | ![](https://lain.bgm.tv/r/400/pic/crt/l/53/28/14713_crt_YUzQQ.jpg)<br>所属作品：`aquarion evol` |  |
 | suomi konepi | 须绪美·科妮皮 |  |  |
 | shinji ikari | 碇真嗣 |  |  |
-| reika shimohira | 下平玲花 |  |  |
+| reika shimohira | 下平玲花 | ![](https://ehgt.org/w/01/945/11036-lzbu9ccm.webp)<br>出自作品:`gantz` |  |
 | katina tarask | 卡琪娜·塔拉斯克 |  |  |
 | leona garstein | 雷欧娜·嘉施泰因 |  |  |
 | poison | 毒药 | ![](https://ehgt.org/w/02/018/80075-7hooe5j6.webp)<br>所属作品：`final fight` |  |
