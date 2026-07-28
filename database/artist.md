@@ -2378,7 +2378,7 @@ example:
 | nakata modem | 中田モデム |  |  |
 | anzaki moral | 杏咲モラル |  |  |
 | brother pierrot | ブラザーピエロ |  |  |
-| oltlo | おるとろ |  |  |
+| oltlo | おるとろ |  | [pixiv](https://www.pixiv.net/users/66760) \| [X](https://x.com/oltlo) \| [Fantia](https://fantia.jp/fanclubs/18365) |
 | piromizu | ピロ水 |  | [X](https://x.com/piromizu) [pixiv](https://www.pixiv.net/users/151922) |
 | jorori | じょろり |  |  |
 | abe manabu | 安部マナブ |  |  |
