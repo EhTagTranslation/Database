@@ -9863,6 +9863,7 @@ example:
 | xi jinping | 习近平 |  |  |
 | mao zedong | 毛泽东 |  |  |
 | zooble | 祖波 | 出自作品:`the amazing digital circus` |  |
+| gangle | 金戈 | 出自作品:`the amazing digital circus` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
