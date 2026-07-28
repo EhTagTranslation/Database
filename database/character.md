@@ -9894,6 +9894,7 @@ example:
 | pai kawahigashi | 河东派 | ![](https://static.wikia.nocookie.net/ponnomichi/images/8/86/Pai_Kawahigashi_Character_Design.png)<br>出自作品:`pon no michi`<br>日语：河東ぱい |  |
 | mari louise amasaka | 天坂·露易丝·真璃 | ![](https://patchwiki.biligame.com/images/pcr/thumb/5/50/l2ytkdohjzhoj7az4e0e6ugqvhs0p1n.png/447px-露易丝玛丽.png)<br>出自作品:`princess connect` |  |
 | nagomi | 和 | ![](https://static.wikia.nocookie.net/25-dimensional-seduction/images/6/6a/753♡_Anime.png)<br>出自作品:`2.5-jigen no yuuwaku` |  |
+| arisa izayoi | 十六夜亚理沙 | ![](https://preview.redd.it/my-dress-up-darling-season-2-character-visual-for-marin-v0-bpfsvhh8wraf1.jpeg?width=1080&crop=smart&auto=webp&s=6bcee04eed39cddbb9dabd6ae144c2c2ac7b336c)<br>出自作品:`sono bisque doll wa koi o suru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
