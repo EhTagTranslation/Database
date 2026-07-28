@@ -9893,6 +9893,7 @@ example:
 | noel izumi | 和泉乃爱琉 | ![](https://static.wikia.nocookie.net/tenshitsuki/images/6/67/Noel_Izumi.png)<br>出自作品:`one room hiatari futsuu tenshi-tsuki`<br>日语：和泉 のえる |  |
 | pai kawahigashi | 河东派 | ![](https://static.wikia.nocookie.net/ponnomichi/images/8/86/Pai_Kawahigashi_Character_Design.png)<br>出自作品:`pon no michi`<br>日语：河東ぱい |  |
 | mari louise amasaka | 天坂·露易丝·真璃 | ![](https://patchwiki.biligame.com/images/pcr/thumb/5/50/l2ytkdohjzhoj7az4e0e6ugqvhs0p1n.png/447px-露易丝玛丽.png)<br>出自作品:`princess connect` |  |
+| nagomi | 和 | ![](https://static.wikia.nocookie.net/25-dimensional-seduction/images/6/6a/753♡_Anime.png)<br>出自作品:`2.5-jigen no yuuwaku` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
