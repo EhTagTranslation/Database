@@ -9871,6 +9871,7 @@ example:
 | x | X | ![](https://lain.bgm.tv/r/400/pic/crt/l/84/0c/161131_crt_vspDL.jpg)<br>出自作品:`to be hero x` |  |
 | masashi okazaki | 冈崎雅史 | 出自作品:`atsumare fushigi kenkyuubu` |  |
 | megumi goryou | 五领恵 | 出自作品:`atsumare fushigi kenkyuubu` |  |
+| tobari yogatari | 夜语帷 | ![](https://static.wikia.nocookie.net/vocalsynth/images/d/d6/Yogatari_Tobari_AIVOICE_illust.png)<br>日语：夜語トバリ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
