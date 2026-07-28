@@ -9900,6 +9900,7 @@ example:
 | maiev shadowsong | 玛维·影之歌 | ![](https://static.wikia.nocookie.net/wowpedia/images/b/b4/Maiev_HS_cropped.jpg)<br>出自作品:`world of warcraft` |  |
 | shar | 夜之女莎尔 | 出自作品:`baldurs gate` |  |
 | kouki inaba | 稻叶光辉 | 出自作品:`gantz`<br>日语：稲葉 光輝 |  |
+| lara greyrat | 菈菈·格雷拉特 | ![](https://static.wikia.nocookie.net/mushokutensei/images/2/22/Lara-Greyrat-Childhood-MT-LN-V26.jpg)<br>出自作品:`mushoku tensei`<br>日语：ララ・グレイラット |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
