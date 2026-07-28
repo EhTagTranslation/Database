@@ -9874,6 +9874,7 @@ example:
 | tobari yogatari | 夜语帷 | ![](https://static.wikia.nocookie.net/vocalsynth/images/d/d6/Yogatari_Tobari_AIVOICE_illust.png)<br>日语：夜語トバリ |  |
 | mono | Mono | ![](https://static.wikia.nocookie.net/littlenightmares/images/2/2e/CUTOUT-2-Mono-copy-619x1024.png)<br>出自作品:`little nightmares` |  |
 | gensai kawakami | 河上彦斋 | ![](https://static.wikia.nocookie.net/typemoon/images/8/82/AssassinKawakamiGensaiStage1.png)<br>![](https://static.wikia.nocookie.net/typemoon/images/7/76/AssassinKawakamiGensaiStage2.png)<br>出自作品:`fate grand order` |  |
+| anran | 安燃 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/OW2_Anran.png)<br>出自作品:`overwatch` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
