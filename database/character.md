@@ -9924,6 +9924,7 @@ example:
 | mari asaka | 朝霞万理 | ![](https://static.wikia.nocookie.net/kimi-to-koete-koi-ni-naru/images/a/a9/Mari_Asaka_Render.png)<br>出自作品:`kimi to koete koi ni naru` |  |
 | miko yashiro | 社美胡 | ![](https://static.wikia.nocookie.net/watatabe/images/6/60/Yashiro_Miko_Anime_Character_Design_2.png)<br>出自作品:`watashi o tabetai hitodenashi` |  |
 | hinako yaotose | 八百岁比名子 | ![](https://static.wikia.nocookie.net/watatabe/images/2/28/Yaotose_Hinako_Anime_Character_Design_2.png)<br>出自作品:`watashi o tabetai hitodenashi` |  |
+| shiori miyagi | 宫城志绪理 | ![](https://lain.bgm.tv/r/400/pic/crt/l/5a/f6/125878_crt_M7tWu.jpg?r=1685105837)<br>所属作品：`shuu ni ichido classmate o kau hanashi` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
