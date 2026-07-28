@@ -9866,6 +9866,7 @@ example:
 | gangle | 金戈 | 出自作品:`the amazing digital circus` |  |
 | ayane kisaragi | 如月彩音 | ![](https://static.wikia.nocookie.net/mahjongsoul/images/a/a7/Ayane-default.png)<br>![](https://static.wikia.nocookie.net/mahjongsoul/images/a/ab/Ayane-bond.png)<br>出自作品:`mahjong soul` |  |
 | nana shiraishi | 白石奈奈 | ![](https://static.wikia.nocookie.net/mahjongsoul/images/6/61/NanaShiraishiDefault.png)<br>出自作品:`mahjong soul` |  |
+| clairie serah | 克蕾露薇·塞拉 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/4/44/Clairie_Serah_-_Anime_Design.png)<br>出自作品:`tsue to tsurugi no wistoria`<br>日语：クレイルウィ・セラ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
