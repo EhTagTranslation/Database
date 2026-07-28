@@ -2912,6 +2912,7 @@ example:
 | wylde pak | 沃德朴一家 |  |  |
 | kamen rider zeztz | 假面骑士ZZZ | ![](https://static.wikia.nocookie.net/kamenrider/images/a/a4/Zeztz_Poster.jpg) |  |
 | wakaba-iro no quartet | 若叶色的四重奏 | ![](https://t.vndb.org/cv.t/56/98656.jpg)<br>若葉色のカルテット | [https://vndb.org/v25367](https://vndb.org/v25367) |
+| balala the fairies | 巴啦啦小魔仙系列 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b8/ef/121596_DL4nV.jpg)<br>![](https://lain.bgm.tv/r/400/pic/cover/l/43/4c/71926_Uex88.jpg)<br>![](https://lain.bgm.tv/r/400/pic/cover/l/a4/7f/378809_dvSn2.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
