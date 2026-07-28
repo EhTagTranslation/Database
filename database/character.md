@@ -9872,6 +9872,7 @@ example:
 | masashi okazaki | 冈崎雅史 | 出自作品:`atsumare fushigi kenkyuubu` |  |
 | megumi goryou | 五领恵 | 出自作品:`atsumare fushigi kenkyuubu` |  |
 | tobari yogatari | 夜语帷 | ![](https://static.wikia.nocookie.net/vocalsynth/images/d/d6/Yogatari_Tobari_AIVOICE_illust.png)<br>日语：夜語トバリ |  |
+| mono | Mono | ![](https://static.wikia.nocookie.net/littlenightmares/images/2/2e/CUTOUT-2-Mono-copy-619x1024.png)<br>出自作品:`little nightmares` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
