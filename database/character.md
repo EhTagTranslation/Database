@@ -9919,6 +9919,7 @@ example:
 | nozomi kitahara | 北原望 | ![](https://lain.bgm.tv/r/400/pic/crt/l/01/1d/134807_crt_4Ur9D.jpg?r=1767066455)<br>出自作品:`mf ghost` |  |
 | ren saionji | 西园寺恋 | ![](https://lain.bgm.tv/r/400/pic/crt/l/93/99/123210_crt_MVDk1.jpg?r=1767065943)<br>出自作品:`mf ghost` |  |
 | hiromi higuruma | 日车宽见 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/62/Hiromi_Higuruma_%28Anime%29.png)<br>出自作品:`jujutsu kaisen` |  |
+| tomo kukuri | 久久利智 | ![](https://ami.animecharactersdatabase.com/images%20of/Tomo%20Kukuri/from/Dolphin%20Wave/uploads/chars/41903-1722504473.png)<br>出自作品:`dolphin wave` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
