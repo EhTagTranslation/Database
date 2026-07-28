@@ -9921,6 +9921,7 @@ example:
 | hiromi higuruma | 日车宽见 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/62/Hiromi_Higuruma_%28Anime%29.png)<br>出自作品:`jujutsu kaisen` |  |
 | tomo kukuri | 久久利智 | ![](https://ami.animecharactersdatabase.com/images%20of/Tomo%20Kukuri/from/Dolphin%20Wave/uploads/chars/41903-1722504473.png)<br>出自作品:`dolphin wave` |  |
 | kaneko lumi | 金子瑠美 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/a/a6/Kaneko_Lumi_-_2023_fullbody.png) | [YouTube](https://www.youtube.com/@KanekoLumi) |
+| mari asaka | 朝霞万理 | ![](https://static.wikia.nocookie.net/kimi-to-koete-koi-ni-naru/images/a/a9/Mari_Asaka_Render.png)<br>出自作品:`kimi to koete koi ni naru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
