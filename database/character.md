@@ -9910,6 +9910,7 @@ example:
 | subaru nanyo | 南曜昴 | ![](https://static.wikia.nocookie.net/pole-princess/images/8/84/Subaru_1.png)<br>出自作品:`pole princess`<br>日语：南曜 スバル |  |
 | mio tousaka | 东坂澪 | ![](https://static.wikia.nocookie.net/pole-princess/images/b/b4/Mio_1.png)<br>出自作品:`pole princess`<br>日语：東坂ミオ |  |
 | ichika kishimojin | 鬼子母神一华 | ![](https://static.wikia.nocookie.net/blacktorch-manga/images/b/b6/Ichika_Kishimojin_anime_design.png)<br>出自作品:`black torch` |  |
+| fuyo | 芙蓉 | ![](https://static.wikia.nocookie.net/blacktorch-manga/images/f/f6/Fuyo.png)<br>出自作品:`black torch` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
