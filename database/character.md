@@ -9865,6 +9865,7 @@ example:
 | zooble | 祖波 | 出自作品:`the amazing digital circus` |  |
 | gangle | 金戈 | 出自作品:`the amazing digital circus` |  |
 | ayane kisaragi | 如月彩音 | ![](https://static.wikia.nocookie.net/mahjongsoul/images/a/a7/Ayane-default.png)<br>出自作品:`mahjong soul` |  |
+| nana shiraishi | 白石奈奈 | ![](https://static.wikia.nocookie.net/mahjongsoul/images/6/61/NanaShiraishiDefault.png)<br>出自作品:`mahjong soul` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
