@@ -9899,6 +9899,7 @@ example:
 | demenishki | Demenishki | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/1/14/Demenishki_Portrait.jpg) | [YouTube](https://www.youtube.com/@demenishki) |
 | maiev shadowsong | 玛维·影之歌 | ![](https://static.wikia.nocookie.net/wowpedia/images/b/b4/Maiev_HS_cropped.jpg)<br>出自作品:`world of warcraft` |  |
 | shar | 夜之女莎尔 | 出自作品:`baldurs gate` |  |
+| kouki inaba | 稻叶光辉 | 出自作品:`gantz`<br>日语：稲葉 光輝 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
