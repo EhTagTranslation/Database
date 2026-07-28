@@ -2926,6 +2926,7 @@ example:
 | black torch | 暗黑灯火 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1b/75/542603_KZT1m.jpg)<br>作者：タカキツヨシ |  |
 | mf ghost | 燃油车斗魂 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5b/c9/530110_EQtrE.jpg) |  |
 | kimi to koete koi ni naru | 跨越种族与你相恋 | ![](https://lain.bgm.tv/r/400/pic/cover/l/cc/27/532940_LE79k.jpg) |  |
+| sudachi no maoujou | 离巢的魔王城 | ![](https://lain.bgm.tv/r/400/pic/cover/l/14/d8/354130_7CjwZ.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
