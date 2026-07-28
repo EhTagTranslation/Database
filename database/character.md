@@ -9881,6 +9881,7 @@ example:
 | kilmaria | 吉尔玛莉亚 | ![](https://static.wikia.nocookie.net/villains/images/5/50/Kilmaria.webp)<br>出自作品:`isekai one turn kill nee-san ane douhan no isekai seikatsu hajimemashita`<br>日语：キルマリア |  |
 | rishe irmgard weitzner | 莉榭·伊尔姆加德·韦尔特纳 | ![](https://lain.bgm.tv/r/400/pic/crt/l/9c/ea/135637_crt_aRXCE.jpg?r=1705249990)<br>出自作品:`loop 7-kaime no akuyaku reijou wa`<br>日语：リーシェ・イルムガルド・ヴェルツナー |  |
 | neneko izumozaki | 出云崎宁宁子 | ![](https://t.vndb.org/ch/16/194416.jpg)<br>出自作品:`return to shironagasu island`<br>日语：出雲崎 ねね子 |  |
+| mira julietta vespaland | 米拉·朱利亚塔·维斯巴朗德 | ![](https://cdn.myanimelist.net/images/characters/9/149891.jpg)<br>出自作品:`detective conan`<br>登场于《 鲁邦三世 VS 名侦探柯南 》 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
