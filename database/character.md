@@ -9878,6 +9878,7 @@ example:
 | erpin | 埃尔芬 | ![](https://patchwiki.biligame.com/images/tk/5/50/lroxwz41ruzm0l4w3sun7b23d8syjfa.png)<br>出自作品:`trickcal revive` |  |
 | mirai azuma | 吾妻未来 | ![](https://static.wikia.nocookie.net/blue-archive/images/7/7d/Mirai_Portrait.png)<br>出自作品:`blue archive`<br>日语：吾妻ミライ |  |
 | sophie peaceful | 索菲·碧丝福尔 | ![](https://static.wikia.nocookie.net/my-onehit-kill-sister/images/5/50/Sophie.png)<br>出自作品:`isekai one turn kill nee-san ane douhan no isekai seikatsu hajimemashita`<br>日语：ソフィ＝ピースフル |  |
+| kilmaria | 吉尔玛莉亚 | ![](https://static.wikia.nocookie.net/villains/images/5/50/Kilmaria.webp)<br>出自作品:`isekai one turn kill nee-san ane douhan no isekai seikatsu hajimemashita`<br>日语：キルマリア |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
