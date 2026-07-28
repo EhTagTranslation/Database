@@ -9898,6 +9898,7 @@ example:
 | max immelmann | 马克斯·殷麦曼 | ![](https://azurlane.netojuu.com/images/thumb/f/f6/Max_ImmelmannCNWithoutBG.png/1595px-Max_ImmelmannCNWithoutBG.png)<br>出自作品:`azur lane`<br>别名：玛克西米莉安·伊梅拉 |  |
 | demenishki | Demenishki | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/1/14/Demenishki_Portrait.jpg) | [YouTube](https://www.youtube.com/@demenishki) |
 | maiev shadowsong | 玛维·影之歌 | ![](https://static.wikia.nocookie.net/wowpedia/images/b/b4/Maiev_HS_cropped.jpg)<br>出自作品:`world of warcraft` |  |
+| shar | 夜之女莎尔 | 出自作品:`baldurs gate` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
