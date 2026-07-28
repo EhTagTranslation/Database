@@ -9917,6 +9917,7 @@ example:
 | sailor guts | 水手勇士 | 出自作品:`sailor moon` |  |
 | asa mitakas mother | 三鹰朝妈妈 | 出自作品:`chainsaw man` |  |
 | nozomi kitahara | 北原望 | ![](https://lain.bgm.tv/r/400/pic/crt/l/01/1d/134807_crt_4Ur9D.jpg?r=1767066455)<br>出自作品:`mf ghost` |  |
+| ren saionji | 西园寺恋 | ![](https://lain.bgm.tv/r/400/pic/crt/l/93/99/123210_crt_MVDk1.jpg?r=1767065943)<br>出自作品:`mf ghost` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
