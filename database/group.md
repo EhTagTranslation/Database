@@ -7757,7 +7757,7 @@ example:
 | mikorabi | みこらび |  |  |
 | mikouken 2nd | 味巧軒2nd |  |  |
 | milcrepe | みるくれーぷ |  |  |
-| milf shobou | ミルフ書房 |  |  |
+| milf shobou | ミルフ書房 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71701/) \| [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ019773) \| [FANBOX](https://milfsyobou.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/14425882) \| [X](https://x.com/milf_syobou) |
 | milk angel | みるくえんじぇる |  |  |
 | milk boy | みるくぼーい |  |  |
 | milk cha | みるく茶 |  |  |
