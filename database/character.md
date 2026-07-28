@@ -9923,6 +9923,7 @@ example:
 | kaneko lumi | 金子瑠美 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/a/a6/Kaneko_Lumi_-_2023_fullbody.png) | [YouTube](https://www.youtube.com/@KanekoLumi) |
 | mari asaka | 朝霞万理 | ![](https://static.wikia.nocookie.net/kimi-to-koete-koi-ni-naru/images/a/a9/Mari_Asaka_Render.png)<br>出自作品:`kimi to koete koi ni naru` |  |
 | miko yashiro | 社美胡 | ![](https://static.wikia.nocookie.net/watatabe/images/6/60/Yashiro_Miko_Anime_Character_Design_2.png)<br>出自作品:`watashi o tabetai hitodenashi` |  |
+| hinako yaotose | 八百岁比名子 | ![](https://static.wikia.nocookie.net/watatabe/images/2/28/Yaotose_Hinako_Anime_Character_Design_2.png)<br>出自作品:`watashi o tabetai hitodenashi` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
