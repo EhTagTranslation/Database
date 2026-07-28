@@ -2919,6 +2919,7 @@ example:
 | isekai one turn kill nee-san ane douhan no isekai seikatsu hajimemashita | 异世界一击无双姐姐 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2c/ee/373833_4g4v6.jpg)<br>全名：异世界一击无双姐姐 ～姐同伴异世界生活开启～<br>日语：異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～ |  |
 | loop 7-kaime no akuyaku reijou wa | 重启七次人生的叛逆千金 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7a/aa/322220_mo3Og.jpg)<br>全名：轮回七次的反派大小姐，在前敌国享受随心所欲的新婚生活<br>日语：ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する |  |
 | return to shironagasu island | 重返蓝鲸岛 | ![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1156990/header_schinese.jpg?t=1783493013) | [Steam](https://store.steampowered.com/app/1156990/_Return_to_Shironagasu_Island/) |
+| ichijyoma mankitsu gurashi | 一叠间漫画咖啡厅日常！ | ![](https://lain.bgm.tv/r/400/pic/cover/l/68/22/282944_QAz0K.jpg)<br>日语：一畳間まんきつ暮らし！ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
