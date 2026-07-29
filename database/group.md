@@ -12667,7 +12667,7 @@ example:
 | milkdou shoukai | みるく堂商会 |  |  |
 | airimiash | アイリミアーシュ | 画师`rabu`所属社团 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57892.html) |
 | mokkorihan | もっこりはん |  |  |
-| zenjidou shimoneta seizou machine | 全自動下ネタ製造マシーン |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=208399/) |
+| zenjidou shimoneta seizou machine | 全自動下ネタ製造マシーン |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=208399/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01003729.html) |
 | shachi | しゃち |  |  |
 | mittsuman | みっつまん |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202935/) \| [FANBOX](https://mittuman.fanbox.cc/) \| [BOOTH](https://mittuman.booth.pm/) \| [pixiv](https://www.pixiv.net/users/55741855) \| [X](https://x.com/douzin_mittuman) |
 | zyougesayuu | 上下左右 |  |  |
