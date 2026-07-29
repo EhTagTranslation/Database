@@ -14096,6 +14096,7 @@ example:
 | hiyoyokko | ひよよっこ |  |  |
 | android koubou | アンドロイド工房 |  |  |
 | hayaaruki | ハヤアルキ |  | [pixiv](https://www.pixiv.net/users/1844644) \| [FANBOX](https://hayaaruki-go.fanbox.cc/) \| [X](https://x.com/ppprtppp) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71407/) |
+| awa no chikara | あわのちから |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
