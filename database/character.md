@@ -9929,6 +9929,7 @@ example:
 | grete | 爱娘（葛蕾特） | ![](https://static.wikia.nocookie.net/spy-room/images/e/eb/ManamusumeLNFull.png)<br>出自作品:`spy kyoushitsu` |  |
 | mutsumi yozakura | 夜樱六美 | ![](https://static.wikia.nocookie.net/missionofyozakurafamily/images/8/87/Mutsumi_Anime_Action_Pose.png)<br>出自作品:`yozakura-san chi no daisakusen` |  |
 | shion yozakura | 夜樱四怨 | ![](https://static.wikia.nocookie.net/missionofyozakurafamily/images/d/d5/Shion_Yozakura_Anime.png)<br>出自作品:`yozakura-san chi no daisakusen` |  |
+| sigrid de lazur | 希格莉德·德拉叙尔 | ![](https://patchwiki.biligame.com/images/zzz/6/60/t8ia7xc3moufv5hvst72ngn7dwtgvj8.png)<br>出自作品:`zenless zone zero` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
