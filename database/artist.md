@@ -15478,6 +15478,7 @@ example:
 | chapio gensui | ちゃぴお元帥 |  |  |
 | ahoge kinoko | あほげきのこ |  |  |
 | ura jiraiya | うらじらいや |  |  |
+| kimjunho | JJanda |  | [Patreon](https://www.patreon.com/cw/JJanda) |
 
 <!--TEMPLATE:
 |  |  |  |  |
