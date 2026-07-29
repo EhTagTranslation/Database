@@ -9928,6 +9928,7 @@ example:
 | sybilla | 百鬼（席薇亚） | ![](https://static.wikia.nocookie.net/spy-room/images/7/70/Sybilla.anime.png)<br>出自作品:`spy kyoushitsu` |  |
 | grete | 爱娘（葛蕾特） | ![](https://static.wikia.nocookie.net/spy-room/images/e/eb/ManamusumeLNFull.png)<br>出自作品:`spy kyoushitsu` |  |
 | mutsumi yozakura | 夜樱六美 | ![](https://static.wikia.nocookie.net/missionofyozakurafamily/images/8/87/Mutsumi_Anime_Action_Pose.png)<br>出自作品:`yozakura-san chi no daisakusen` |  |
+| shion yozakura | 夜樱四怨 | ![](https://static.wikia.nocookie.net/missionofyozakurafamily/images/d/d5/Shion_Yozakura_Anime.png)<br>出自作品:`yozakura-san chi no daisakusen` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
