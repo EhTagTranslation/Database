@@ -9927,6 +9927,7 @@ example:
 | shiori miyagi | 宫城志绪理 | ![](https://lain.bgm.tv/r/400/pic/crt/l/5a/f6/125878_crt_M7tWu.jpg?r=1685105837)<br>所属作品：`shuu ni ichido classmate o kau hanashi` |  |
 | sybilla | 百鬼（席薇亚） | ![](https://static.wikia.nocookie.net/spy-room/images/7/70/Sybilla.anime.png)<br>出自作品:`spy kyoushitsu` |  |
 | grete | 爱娘（葛蕾特） | ![](https://static.wikia.nocookie.net/spy-room/images/e/eb/ManamusumeLNFull.png)<br>出自作品:`spy kyoushitsu` |  |
+| mutsumi yozakura | 夜樱六美 | ![](https://static.wikia.nocookie.net/missionofyozakurafamily/images/8/87/Mutsumi_Anime_Action_Pose.png)<br>出自作品:`yozakura-san chi no daisakusen` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
