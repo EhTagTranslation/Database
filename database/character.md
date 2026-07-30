@@ -9935,7 +9935,7 @@ example:
 | kinji hakari | 秤金次 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/c/cf/Kinji_Hakari_%28Anime%29.png)<br>出自作品:`jujutsu kaisen` |  |
 | longyan | 胧焉 | ![](https://static.wikia.nocookie.net/snowbreak/images/0/07/Lustrous_Pearls_splash.png)<br>出自作品:`snowbreak containment zone` |  |
 | obey your master | 听命汝主 | ![](https://static.wikia.nocookie.net/umamusume/images/c/c1/Obey_Your_Master_%28Anime%29.jpg)<br>出自作品:`uma musume pretty derby`<br>日语：オベイユアマスター |  |
-| noi komazawa | 驹泽乃依 | ![](https://storage.moegirl.org.cn/moegirl/commons/8/88/超时空辉夜姬驹泽乃依.webp)<br>出自作品:`chou kaguya-hime` |  |
+| noi komazawa | 驹泽乃依 | ![](https://lain.bgm.tv/r/400/pic/crt/l/28/3c/197446_crt_TuCem.jpg)<br>出自作品:`chou kaguya-hime`<br>日语：駒沢乃依 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
