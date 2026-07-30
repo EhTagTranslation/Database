@@ -2933,6 +2933,7 @@ example:
 | otome game no heroine de saikyou survival | 身为女性向游戏的女主角挑战最强生存剧 | ![](https://lain.bgm.tv/r/400/pic/cover/l/72/03/372291_MqKF5.jpg)<br>日语：乙女ゲームのヒロインで最強サバイバル |  |
 | duolingo | 多邻国 | 多邻国公司开发的语言学习工具软件 |  |
 | yozakura-san chi no daisakusen | 夜樱家的大作战 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9d/9a/411276_Kzyt0.jpg)<br>作者： 権平ひつじ |  |
+| the return of the condor heroes | 神雕侠侣 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
