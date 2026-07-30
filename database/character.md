@@ -9933,6 +9933,7 @@ example:
 | katarina | 卡特琳娜（不祥之刃） | ![](https://liquipedia.net/commons/images/5/59/League_Infobox_Katarina.jpg)<br>出自作品:`league of legends` |  |
 | xiaolongnu | 小龙女 | 出自作品:`the return of the condor heroes` |  |
 | kinji hakari | 秤金次 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/c/cf/Kinji_Hakari_%28Anime%29.png)<br>出自作品:`jujutsu kaisen` |  |
+| longyan | 胧焉 | ![](https://static.wikia.nocookie.net/snowbreak/images/0/07/Lustrous_Pearls_splash.png)<br>出自作品:`snowbreak containment zone` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
