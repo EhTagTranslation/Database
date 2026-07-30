@@ -9946,6 +9946,7 @@ example:
 | akito takagi | 高木秋人 | ![](https://static.wikia.nocookie.net/bakuman/images/e/e7/Bakuman-Takagi_Akito.png/revision/latest?cb=20140322081259)<br>所属作品:`bakuman` |  |
 | hidemitsu ishizawa | 石泽秀光 | ![](https://static.wikia.nocookie.net/bakuman/images/2/28/Ishizawa_anime.png/revision/latest?cb=20110822153036)<br>所属作品:`bakuman` | [百度百科](https://baike.baidu.com/item/石泽秀光/9298960) |
 | kaya miyoshi | 见吉香耶 | ![](https://static.wikia.nocookie.net/loveinterest/images/3/3e/Miyoshi_Kaya_%28Anime%29.jpg/revision/latest?cb=20140808173912)<br>所属作品:`bakuman` | [百度百科](https://baike.baidu.com/item/见吉香耶/3762561) |
+| takurou nakai | 中井巧朗 | ![](https://static.wikia.nocookie.net/bakuman/images/0/0e/5092-1076635941.jpg/revision/latest?cb=20140323144629)<br>所属作品:`bakuman` | [百度百科](https://baike.baidu.com/item/中井巧朗/3778450) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
