@@ -1357,7 +1357,7 @@ example:
 | yui kiriyama | 桐山唯 |  |  |
 | yoshifumi aoki | 青木义文 |  |  |
 |  | ▼ 伪恋 |  |  |
-| raku ichijou | 一条乐 |  |  |
+| raku ichijou | 一条乐 | ![](https://static.wikia.nocookie.net/nisekoi/images/9/9b/Raku_full_body.png)<br>出自作品：`p:nisekoi` |  |
 | kosaki onodera | 小野寺小咲 | ![](https://static.wikia.nocookie.net/nisekoi/images/6/6c/Yomeiri_Kosaki_Onodera_Key_Artwork.png)<br>出自作品：`p:nisekoi` |  |
 | haru onodera | 小野寺春 | ![](https://static.wikia.nocookie.net/nisekoi/images/2/22/Haru_appearence.png)<br>出自作品：`p:nisekoi` |  |
 | yui kanakura | 奏仓羽 |  |  |
