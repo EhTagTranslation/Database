@@ -1363,7 +1363,7 @@ example:
 | yui kanakura | 奏仓羽 |  |  |
 | marika tachibana | 橘万里花 |  |  |
 | chitoge kirisaki | 桐崎千棘 | ![](https://static.wikia.nocookie.net/nisekoi/images/d/dc/Yomeiri_Chitoge_Kirisaki_Key_Artwork.png)<br>出自作品：`p:nisekoi` | [萌娘百科](https://zh.moegirl.org.cn/桐崎千棘) |
-| seishirou tsugumi | 鸫诚士郎 |  |  |
+| seishirou tsugumi | 鸫诚士郎 | ![](https://static.wikia.nocookie.net/nisekoi/images/c/cc/Yomeiri_Seishirō_Tsugumi_Key_Artwork.png)<br>出自作品：`p:nisekoi` |  |
 | ruri miyamoto | 宫本琉璃 | ![](https://static.wikia.nocookie.net/nisekoi/images/1/1e/Yomeiri_Ruri_Miyamoto_Key_Artwork.png)<br>出自作品：`p:nisekoi` |  |
 |  | ▼ 迷途猫 |  |  |
 | fumino serizawa | 芹泽文乃 | ![](# "https://ehgt.org/9e/3b/9e3b863ee641b45a17d6f5a804797d64ce1263fb-95205-200-500-jpg_l.jpg") |  |
