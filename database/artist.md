@@ -953,7 +953,7 @@ example:
 | akagi asahito | 赤城あさひと |  |  |
 | benimura karu | 红村かる | ![X](https://pbs.twimg.com/profile_images/990289119199641600/zMj0JXxG_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/benny_cal) [pixiv](https://www.pixiv.net/users/551096) |
 | bota mochito | 牡丹もちと |  | [X](https://x.com/botamotito) [pixiv](https://www.pixiv.net/users/3791006) |
-| cuvie | Cuvie |  |  |
+| cuvie | Cuvie |  | [FANZA](https://book.dmm.co.jp/list/?author=50395) |
 | hazuki yuto | 羽月ユウト |  |  |
 | hinasaki yo | 雏咲叶 |  | [X](https://x.com/saicoro_chick) [pixiv](https://www.pixiv.net/users/71175) |
 | naruko | 平间宏和（鸣湖） | 平間ひろかず（鳴湖）<br><br>![X](https://pbs.twimg.com/profile_images/1570384028938940416/oYz6vpR9_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/haisui) [pixiv](https://www.pixiv.net/users/5090) |
