@@ -9955,6 +9955,7 @@ example:
 | kaname | 卡纳梅 | ![](https://static.wikia.nocookie.net/crossange/images/4/4d/Kaname_Front_Back.png/revision/latest?cb=20150118071103)<br>所属作品:`cross ange` | [百度百科](https://baike.baidu.com/item/卡纳梅/22066762) |
 | miranda campbell | 米兰达·坎贝尔 | ![](https://static.wikia.nocookie.net/crossange/images/0/0c/Miranda_Front_Back.png/revision/latest?cb=20141012183302)<br>所属作品:`cross ange` | [百度百科](https://baike.baidu.com/item/米兰达/20865295) |
 | riza randog | 莉莎·兰多格 | ![](https://static.wikia.nocookie.net/crossange/images/6/6a/Cross_Ange_Riza_Rundog_full_appearence.png/revision/latest?cb=20141012140232)<br>所属作品:`cross ange` | [百度百科](https://baike.baidu.com/item/莉莎·兰多格/64314449) |
+| daisy von preslaria | 黛西·冯·普雷斯拉里亚 | ![](https://ehgt.org/w/02/324/52199-iifv7zy5.webp)<br>出自作品:'outo no hazure no renkinjutsushi' |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
