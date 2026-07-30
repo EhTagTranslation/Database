@@ -9961,6 +9961,7 @@ example:
 | soleil | 索雷优 | ![](https://static.wikia.nocookie.net/fireemblem/images/6/65/Soleil_Heroes.png/revision/latest?cb=20251231074704)<br>所属作品:`fire emblem fates` | [Fandom](https://fireemblem.fandom.com/wiki/Soleil) |
 | ash | 艾绪 | ![](https://static.wikia.nocookie.net/fireemblem/images/1/17/Ash_Borrowed_Power_Heroes.png/revision/latest?cb=20250904061526)<br>所属作品:`fire emblem heroes` | [Fandom](https://fireemblem.fandom.com/wiki/Ash) |
 | meliai | 墨利亚 | ![](https://static.wikia.nocookie.net/fireemblem/images/d/d1/Melíai_Heroes.png/revision/latest?cb=20250707224052)<br>所属作品:`fire emblem heroes` | [Fandom](https://fireemblem.fandom.com/wiki/Melíai) |
+| paula mccoy | 宝拉·马可伊 | ![](https://lain.bgm.tv/r/400/pic/crt/l/dd/1a/27076_crt_pG3gO.jpg?r=1429270767)<br>出自作品：`p:nisekoi` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
