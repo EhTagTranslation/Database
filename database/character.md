@@ -1359,7 +1359,7 @@ example:
 |  | ▼ 伪恋 |  |  |
 | raku ichijou | 一条乐 |  |  |
 | kosaki onodera | 小野寺小咲 | ![](https://static.wikia.nocookie.net/nisekoi/images/6/6c/Yomeiri_Kosaki_Onodera_Key_Artwork.png)<br>出自作品：`p:nisekoi` |  |
-| haru onodera | 小野寺春 |  |  |
+| haru onodera | 小野寺春 | ![](https://static.wikia.nocookie.net/nisekoi/images/2/22/Haru_appearence.png)<br>出自作品：`p:nisekoi` |  |
 | yui kanakura | 奏仓羽 |  |  |
 | marika tachibana | 橘万里花 |  |  |
 | chitoge kirisaki | 桐崎千棘 | ![](https://static.wikia.nocookie.net/nisekoi/images/d/dc/Yomeiri_Chitoge_Kirisaki_Key_Artwork.png)<br>出自作品：`p:nisekoi` | [萌娘百科](https://zh.moegirl.org.cn/桐崎千棘) |
