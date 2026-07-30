@@ -1358,7 +1358,7 @@ example:
 | yoshifumi aoki | 青木义文 |  |  |
 |  | ▼ 伪恋 |  |  |
 | raku ichijou | 一条乐 |  |  |
-| kosaki onodera | 小野寺小咲 |  |  |
+| kosaki onodera | 小野寺小咲 | ![](https://static.wikia.nocookie.net/nisekoi/images/6/6c/Yomeiri_Kosaki_Onodera_Key_Artwork.png)<br>出自作品：`p:nisekoi` |  |
 | haru onodera | 小野寺春 |  |  |
 | yui kanakura | 奏仓羽 |  |  |
 | marika tachibana | 橘万里花 |  |  |
