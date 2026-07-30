@@ -9938,6 +9938,7 @@ example:
 | noi komazawa | 驹泽乃依 | ![](https://lain.bgm.tv/r/400/pic/crt/l/28/3c/197446_crt_TuCem.jpg)<br>出自作品:`chou kaguya-hime`<br>日语：駒沢乃依 |  |
 | lealumie | Lealumie |  | [YouTube](https://www.youtube.com/@lealumie) |
 | theresa lorca | 特蕾莎·洛尔卡 | 所属作品：`james bond` |  |
+| cressida bright | 克蕾西达·布莱特 | 所属作品：`james bond` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
