@@ -6159,7 +6159,7 @@ example:
 | io takuya | 射尾卓弥 |  |  |
 | iogi juichi | 井荻寿一 |  |  |
 | ippachi | いっぱち |  |  |
-| ippon | 一本 |  |  |
+| ippon | 一本院遊郭（いっぽん，Lとらっぷ） |  | [pixiv](https://www.pixiv.net/users/1030889/) [pawoo](https://pawoo.net/@ltrapippon) |
 | iri | イリ |  |  |
 | irie | IRIE |  |  |
 | irie yamazaki | IRIE YAMAZAKI |  |  |
