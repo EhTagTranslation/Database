@@ -9947,6 +9947,7 @@ example:
 | hidemitsu ishizawa | 石泽秀光 | ![](https://static.wikia.nocookie.net/bakuman/images/2/28/Ishizawa_anime.png/revision/latest?cb=20110822153036)<br>所属作品:`bakuman` | [百度百科](https://baike.baidu.com/item/石泽秀光/9298960) |
 | kaya miyoshi | 见吉香耶 | ![](https://static.wikia.nocookie.net/loveinterest/images/3/3e/Miyoshi_Kaya_%28Anime%29.jpg/revision/latest?cb=20140808173912)<br>所属作品:`bakuman` | [百度百科](https://baike.baidu.com/item/见吉香耶/3762561) |
 | takurou nakai | 中井巧朗 | ![](https://static.wikia.nocookie.net/bakuman/images/0/0e/5092-1076635941.jpg/revision/latest?cb=20140323144629)<br>所属作品:`bakuman` | [百度百科](https://baike.baidu.com/item/中井巧朗/3778450) |
+| alektra maria von levenherz | 吉尔 | ![](https://static.wikia.nocookie.net/crossange/images/7/70/Cross_Ange_jill_full_appearence.png/revision/latest?cb=20141012173202)<br>原名: 阿莱克特拉·玛丽亚·冯·雷本赫尔兹<br>所属作品:`cross ange` | [百度百科](https://baike.baidu.com/item/吉尔/22064149) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
