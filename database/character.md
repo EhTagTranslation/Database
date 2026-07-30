@@ -9954,6 +9954,7 @@ example:
 | irma kankkunen | 伊尔玛·坎库宁 | ![](https://static.wikia.nocookie.net/crossange/images/f/fc/Ilma_Front_Back.png/revision/latest?cb=20150214184542)<br>所属作品:`cross ange` | [百度百科](https://baike.baidu.com/item/伊尔玛/64275290) |
 | kaname | 卡纳梅 | ![](https://static.wikia.nocookie.net/crossange/images/4/4d/Kaname_Front_Back.png/revision/latest?cb=20150118071103)<br>所属作品:`cross ange` | [百度百科](https://baike.baidu.com/item/卡纳梅/22066762) |
 | miranda campbell | 米兰达·坎贝尔 | ![](https://static.wikia.nocookie.net/crossange/images/0/0c/Miranda_Front_Back.png/revision/latest?cb=20141012183302)<br>所属作品:`cross ange` | [百度百科](https://baike.baidu.com/item/米兰达/20865295) |
+| riza randog | 莉莎·兰多格 | ![](https://static.wikia.nocookie.net/crossange/images/6/6a/Cross_Ange_Riza_Rundog_full_appearence.png/revision/latest?cb=20141012140232)<br>所属作品:`cross ange` | [百度百科](https://baike.baidu.com/item/莉莎·兰多格/64314449) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
