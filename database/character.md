@@ -1362,7 +1362,7 @@ example:
 | haru onodera | 小野寺春 |  |  |
 | yui kanakura | 奏仓羽 |  |  |
 | marika tachibana | 橘万里花 |  |  |
-| chitoge kirisaki | 桐崎千棘 | ![](https://ehgt.org/w/00/266/73038-v49egy8q.webp)<br>出自作品：`p:nisekoi`<br><br>桐崎千棘是古味直志所创作的漫画《伪恋》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/桐崎千棘) |
+| chitoge kirisaki | 桐崎千棘 | ![](https://static.wikia.nocookie.net/nisekoi/images/d/dc/Yomeiri_Chitoge_Kirisaki_Key_Artwork.png)<br>出自作品：`p:nisekoi` | [萌娘百科](https://zh.moegirl.org.cn/桐崎千棘) |
 | seishirou tsugumi | 鸫诚士郎 |  |  |
 | ruri miyamoto | 宫本琉璃 |  |  |
 |  | ▼ 迷途猫 |  |  |
