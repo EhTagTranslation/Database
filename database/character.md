@@ -9934,6 +9934,7 @@ example:
 | xiaolongnu | 小龙女 | 出自作品:`the return of the condor heroes` |  |
 | kinji hakari | 秤金次 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/c/cf/Kinji_Hakari_%28Anime%29.png)<br>出自作品:`jujutsu kaisen` |  |
 | longyan | 胧焉 | ![](https://static.wikia.nocookie.net/snowbreak/images/0/07/Lustrous_Pearls_splash.png)<br>出自作品:`snowbreak containment zone` |  |
+| obey your master | 听命汝主 | ![](https://static.wikia.nocookie.net/umamusume/images/c/c1/Obey_Your_Master_%28Anime%29.jpg)<br>出自作品:`uma musume pretty derby`<br>日语：オベイユアマスター |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
