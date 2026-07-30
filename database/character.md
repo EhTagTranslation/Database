@@ -9943,6 +9943,7 @@ example:
 | eldreda sunbringer | 艾尔妲·挽昼 | 所属作品：`zenless zone zero` |  |
 | aiko iwase | 岩濑爱子 | ![](https://static.wikia.nocookie.net/bakuman/images/e/e4/Aiko_Iwase_%28Anime%29.png/revision/latest?cb=20120309183745)<br>所属作品:`bakuman` | [百度百科](https://baike.baidu.com/item/岩濑爱子/9299841) |
 | akira hattori | 服部哲 | ![](https://static.wikia.nocookie.net/bakuman/images/6/6d/Akira_hattori_02_by_ale_mangekyo-d4icyyc.png/revision/latest?cb=20140323144023)<br>所属作品:`bakuman` | [百度百科](https://baike.baidu.com/item/服部哲/3763364) |
+| akito takagi | 高木秋人 | ![](https://static.wikia.nocookie.net/bakuman/images/e/e7/Bakuman-Takagi_Akito.png/revision/latest?cb=20140322081259)<br>所属作品:`bakuman` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
