@@ -9940,6 +9940,7 @@ example:
 | theresa lorca | 特蕾莎·洛尔卡 | 所属作品：`james bond` |  |
 | cressida bright | 克蕾西达·布莱特 | 所属作品：`james bond` |  |
 | misery stentrem | 米瑟里·斯坦特雷姆 | ![](https://static.wikia.nocookie.net/wwc-harem-of-d/images/d/da/Misery_Stentrem.jpg)<br>所属作品：`youkoso sukebe elf no mori e`<br>日语：ミズリィ・ステントレーム |  |
+| eldreda sunbringer | 艾尔妲·挽昼 | 所属作品：`zenless zone zero` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
