@@ -9941,6 +9941,7 @@ example:
 | cressida bright | 克蕾西达·布莱特 | 所属作品：`james bond` |  |
 | misery stentrem | 米瑟里·斯坦特雷姆 | ![](https://static.wikia.nocookie.net/wwc-harem-of-d/images/d/da/Misery_Stentrem.jpg)<br>所属作品：`youkoso sukebe elf no mori e`<br>日语：ミズリィ・ステントレーム |  |
 | eldreda sunbringer | 艾尔妲·挽昼 | 所属作品：`zenless zone zero` |  |
+| aiko iwase | 岩濑爱子 | ![](https://static.wikia.nocookie.net/bakuman/images/e/e4/Aiko_Iwase_%28Anime%29.png/revision/latest?cb=20120309183745)<br>所属作品:`bakuman` | [百度百科](https://baike.baidu.com/item/岩濑爱子/9299841) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
