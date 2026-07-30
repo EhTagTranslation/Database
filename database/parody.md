@@ -2934,6 +2934,7 @@ example:
 | duolingo | 多邻国 | 多邻国公司开发的语言学习工具软件 |  |
 | yozakura-san chi no daisakusen | 夜樱家的大作战 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9d/9a/411276_Kzyt0.jpg)<br>作者： 権平ひつじ |  |
 | the return of the condor heroes | 神雕侠侣 |  |  |
+| james bond | 詹姆斯·邦德 | 小说家伊恩·佛莱明 1953 年创作的虚构角色，为英国军情六处特工，代号 007。有多部系列电影。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
