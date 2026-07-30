@@ -2937,6 +2937,7 @@ example:
 | james bond | 詹姆斯·邦德 | 小说家伊恩·佛莱明 1953 年创作的虚构角色，为英国军情六处特工，代号 007。有多部系列电影。 |  |
 | outo no hazure no renkinjutsushi | 王都边境的炼金术师 | 全名：王都边境的炼金术师～因为是不合适的职业，所以悠闲地经营店铺～<br>日语：王都の外れの錬金術師 ～ハズレ職業だったので、のんびりお店経営します～ |  |
 | hamidashi creative | 常轨脱离Creative | ![](https://ehgt.org/w/00/846/80970-kf70axip.webp)<br>所属社团：`mado soft` |  |
+| kagura reimeiki | 神乐黎明记 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
