@@ -9948,6 +9948,7 @@ example:
 | kaya miyoshi | 见吉香耶 | ![](https://static.wikia.nocookie.net/loveinterest/images/3/3e/Miyoshi_Kaya_%28Anime%29.jpg/revision/latest?cb=20140808173912)<br>所属作品:`bakuman` | [百度百科](https://baike.baidu.com/item/见吉香耶/3762561) |
 | takurou nakai | 中井巧朗 | ![](https://static.wikia.nocookie.net/bakuman/images/0/0e/5092-1076635941.jpg/revision/latest?cb=20140323144629)<br>所属作品:`bakuman` | [百度百科](https://baike.baidu.com/item/中井巧朗/3778450) |
 | alektra maria von levenherz | 吉尔 | ![](https://static.wikia.nocookie.net/crossange/images/7/70/Cross_Ange_jill_full_appearence.png/revision/latest?cb=20141012173202)<br>原名: 阿莱克特拉·玛丽亚·冯·雷本赫尔兹<br>所属作品:`cross ange` | [百度百科](https://baike.baidu.com/item/吉尔/22064149) |
+| coco reeve | 可可·里夫 | ![](https://static.wikia.nocookie.net/crossange/images/3/30/Coco_Front_Back.png/revision/latest?cb=20141012183014)<br>所属作品:`cross ange` | [百度百科](https://baike.baidu.com/item/可可/20865323) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
