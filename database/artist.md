@@ -15480,6 +15480,7 @@ example:
 | ura jiraiya | うらじらいや |  |  |
 | kimjunho | JJanda |  | [Patreon](https://www.patreon.com/cw/JJanda) |
 | lockhart | ロックハート |  | [FANBOX](https://lockhart.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/36737976) \| [X](https://x.com/lockhart_4545) |
+| toda youchika | 戸田陽近 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
