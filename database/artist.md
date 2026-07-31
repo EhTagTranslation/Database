@@ -11257,7 +11257,7 @@ example:
 | unico kasumi | ゆにこかすみ |  |  |
 | unikura | うに蔵 |  |  |
 | uniskie seagal | ウニスキー・セガール |  |  |
-| unknown | 春香 |  |  |
+| unknown | unknown |  |  |
 | uno ryoku | 温野りょく |  |  |
 | unohanat | うのはな透 |  |  |
 | unomi | うのみ |  |  |
