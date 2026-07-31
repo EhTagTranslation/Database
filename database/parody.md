@@ -2696,7 +2696,7 @@ example:
 | satsuriku no tenshi | 杀戮的天使 | ![](https://upload.wikimedia.org/wikipedia/zh/d/d2/殺戮的天使.jpg)<br>《杀戮的天使》是星屑KRNKRN开发的角色扮演解谜游戏。 | [百度百科](https://baike.baidu.com/item/杀戮的天使/22043831?fromtitle=杀戮天使&fromid=19038360&fr=aladdin) |
 | bra-ban | 管乐恋曲！～The bonds of melody～ | 柚子社游戏 |  |
 | assassins pride | 刺客守则 | ![](https://static.wikia.nocookie.net/assassinspride/images/f/f2/LNVol4.jpg)<br>《刺客守则》是日本作家天城启创作、二之本仁野负责插画的轻小说，并有同名改编动画作品。 | [百度百科](https://baike.baidu.com/item/刺客守则/20256035) |
-| kanojo x kanojo x kanojo | 彼女×彼女×彼女 ～和三姐妹的心跳同居生活～ |  |  |
+| kanojo x kanojo x kanojo | 彼女×彼女×彼女 ～和三姐妹的心跳同居生活～ | ![](https://ehgt.org/w/00/435/16431-4rki4bn1.webp) |  |
 | zettai shougeki platonic heart | 绝对冲激～柏拉图之心～ |  |  |
 | yuuki bakuhatsu bang bravern | 勇气爆发Bang Bravern | ![](https://thumbsnap.com/i/LxJbHGHq.jpg)<br>《勇气爆发BANG BRAVERN》（日语：勇気爆発バーンブレイバーン）是由CygamesPictures制作的一部原创动画，于2024年1月11日播出。 | [萌娘百科](https://zh.moegirl.org.cn/勇气爆发BANG_BRAVERN) \| [维基百科](https://zh.wikipedia.org/wiki/勇氣爆發Bang_Bravern) |
 | lies of p | 匹诺曹的谎言 | ![](https://static.wikia.nocookie.net/lies-of-p/images/f/f4/Lies_of_P_Cover.png)<br>《匹诺曹的谎言》是由NEOWIZ开发制作的一款角色扮演类游戏作品。 |  |
