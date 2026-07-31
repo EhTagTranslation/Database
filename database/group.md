@@ -14100,6 +14100,7 @@ example:
 | zibettalia | じべたりあ |  |  |
 | yamamori himawari | 山盛りひまわり |  |  |
 | dendou monaka | 電動もなか |  |  |
+| umebatake | ウメ畑 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
