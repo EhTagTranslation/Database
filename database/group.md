@@ -1346,7 +1346,7 @@ example:
 | brave heart petit | BRAVE HEART petit |  |  |
 | chocolate synapse | Chocolate Synapse |  |  |
 | boku wa maso desu | 僕はマゾです |  |  |
-| stanky | STANKY |  |  |
+| stanky | STANKY |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41857.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76297/) |
 | wizs studio | Wiz's Studio |  |  |
 | alkaloid | アルカロイド |  |  |
 | d slash l | D/L |  |  |
