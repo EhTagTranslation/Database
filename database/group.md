@@ -14102,6 +14102,7 @@ example:
 | dendou monaka | 電動もなか |  |  |
 | umebatake | ウメ畑 |  |  |
 | monmon-dou | 悶々堂 |  |  |
+| radical tenshi | ラジカル天使 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
