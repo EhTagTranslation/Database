@@ -15484,6 +15484,7 @@ example:
 | miyakura halt | 宮鞍ハルト |  |  |
 | zibetta | じべた |  |  |
 | yamamoto kichiko | 山本キチコ |  |  |
+| dendou monaka | 電動もなか |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
