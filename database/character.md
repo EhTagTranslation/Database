@@ -9962,6 +9962,7 @@ example:
 | ash | 艾绪 | ![](https://static.wikia.nocookie.net/fireemblem/images/1/17/Ash_Borrowed_Power_Heroes.png/revision/latest?cb=20250904061526)<br>所属作品:`fire emblem heroes` | [Fandom](https://fireemblem.fandom.com/wiki/Ash) |
 | meliai | 墨利亚 | ![](https://static.wikia.nocookie.net/fireemblem/images/d/d1/Melíai_Heroes.png/revision/latest?cb=20250707224052)<br>所属作品:`fire emblem heroes` | [Fandom](https://fireemblem.fandom.com/wiki/Melíai) |
 | paula mccoy | 宝拉·马可伊 | ![](https://lain.bgm.tv/r/400/pic/crt/l/dd/1a/27076_crt_pG3gO.jpg?r=1429270767)<br>出自作品：`p:nisekoi` |  |
+| hiyori hiwamura | 鶸村日和 | ![](https://www.yowayowasensei-anime.com/assets/character/1c.webp?v3)<br>所属作品:`yowayowa sensei` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
