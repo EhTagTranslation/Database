@@ -15487,7 +15487,7 @@ example:
 | dendou monaka | 電動もなか |  |  |
 | naburokku | なぶろっく |  |  |
 | eternal tomokazu | エターナル☆トモカズ |  |  |
-| yamada tarou | 田中太郎 |  |  |
+| yamada tarou | 山田太郎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
