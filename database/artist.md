@@ -15483,6 +15483,7 @@ example:
 | toda youchika | 戸田陽近 |  |  |
 | miyakura halt | 宮鞍ハルト |  |  |
 | zibetta | じべた |  |  |
+| yamamoto kichiko | 山本キチコ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
