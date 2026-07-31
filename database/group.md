@@ -833,7 +833,7 @@ example:
 | squeeze candy heaven | Squeeze Candy Heaven |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=8200) |
 | polinky hiroba | ポリンキー広場 |  |  |
 | v-slash | V-SLASH |  |  |
-| tanima club | 谷间俱乐部 |  |  |
+| tanima club | 谷间俱乐部 | 谷間倶楽部 |  |
 | paper hearts | PAPER HEARTS |  |  |
 | gekikara koushinryou | 激辛香辛料 |  |  |
 | pha-la-dogs | ぱらどっくす。 |  |  |
