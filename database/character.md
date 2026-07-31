@@ -9963,6 +9963,7 @@ example:
 | meliai | 墨利亚 | ![](https://static.wikia.nocookie.net/fireemblem/images/d/d1/Melíai_Heroes.png/revision/latest?cb=20250707224052)<br>所属作品:`fire emblem heroes` | [Fandom](https://fireemblem.fandom.com/wiki/Melíai) |
 | paula mccoy | 宝拉·马可伊 | ![](https://lain.bgm.tv/r/400/pic/crt/l/dd/1a/27076_crt_pG3gO.jpg?r=1429270767)<br>出自作品：`p:nisekoi` |  |
 | hiyori hiwamura | 鶸村日和 | ![](https://www.yowayowasensei-anime.com/assets/character/1c.webp?v3)<br>所属作品:`yowayowa sensei` |  |
+| seri awashima | 淡岛世理 | ![](https://ami.animecharactersdatabase.com/images%20of/Seri%20Awashima/from/K/uploads/chars/5092-511398836.png)<br>所属作品：`p:k` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
