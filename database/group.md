@@ -12652,7 +12652,7 @@ example:
 | mobumomu ntr | モブモムNTR | 作者モブ太用来画NTR作品时的社团名称 |  |
 | ice to choco | あいすとちょこ |  |  |
 | sakura suishou | 桜水晶 |  |  |
-| nekomimi to kuro mask | 猫耳と黒マスク |  |  |
+| nekomimi to kuro mask | 猫耳と黒マスク |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201991/) |
 | champion soft | Champion Soft | 「冠军软件公司」（Champion Soft，チャンピオンソフト）现在以成人游戏品牌「爱丽丝软件」（AliceSoft，有时亦作Alice Soft，アリスソフト）活动中，于1983年（昭和58年）3月成立。 | [X](https://x.com/alice_soft) [官方网站](http://www.alicesoft.com/) (\*) |
 | dojiro books | どじろーブックス |  |  |
 | alwayshp1 | いつも死にかけ | Always HP 1 |  |
