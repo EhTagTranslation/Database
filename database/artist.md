@@ -15486,6 +15486,7 @@ example:
 | yamamoto kichiko | 山本キチコ |  |  |
 | dendou monaka | 電動もなか |  |  |
 | naburokku | なぶろっく |  |  |
+| eternal tomokazu | エターナル☆トモカズ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
