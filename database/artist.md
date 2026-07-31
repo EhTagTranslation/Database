@@ -11771,7 +11771,7 @@ example:
 | yoyo | YoYo |  |  |
 | yoyoyoyou | よよよよう |  |  |
 | yozi | YoZi |  |  |
-| yozo | yozo |  |  |
+| yozo | yozo |  | [X](https://x.com/_yozo/) \| [pixiv](https://www.pixiv.net/users/26076) \| [FANBOX](https://yozo.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/4402) |
 | yts takana | YTS 鷹那 |  |  |
 | yu | YU | ![X](https://pbs.twimg.com/profile_images/1605115957554184192/FoUmoyOA_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/yu0x00) [pixiv](https://www.pixiv.net/users/2339) |
 | yu-ri | YU-RI |  |  |
