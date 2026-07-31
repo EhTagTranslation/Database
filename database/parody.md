@@ -2939,6 +2939,7 @@ example:
 | hamidashi creative | 常轨脱离Creative | ![](https://ehgt.org/w/00/846/80970-kf70axip.webp)<br>所属社团：`mado soft` |  |
 | kagura reimeiki | 神乐黎明记 |  |  |
 | astral party | 吉星派对 | ![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2622000/c265c75d6bf18ea1377c2ce2e285f34c137203e6/header_schinese.jpg?t=1785412352)<br>又名：星引擎party | [Steam](https://store.steampowered.com/app/2622000/_/) |
+| yowayowa sensei | 弱弱老师 | 《弱弱老师》（日语：よわよわ先生）是由福地神绪创作的日本漫画。自2022年第51期（11月16日发行）起在《周刊少年Magazine》（讲谈社）连载。 | [维基百科](https://zh.wikipedia.org/wiki/弱弱老師) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
