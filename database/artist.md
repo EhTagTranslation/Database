@@ -15485,6 +15485,7 @@ example:
 | zibetta | じべた |  |  |
 | yamamoto kichiko | 山本キチコ |  |  |
 | dendou monaka | 電動もなか |  |  |
+| naburokku | なぶろっく |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
