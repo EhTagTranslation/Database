@@ -15488,6 +15488,7 @@ example:
 | naburokku | なぶろっく |  |  |
 | eternal tomokazu | エターナル☆トモカズ |  |  |
 | yamada tarou | 山田太郎 |  |  |
+| sodebeam | ソデビーム |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
