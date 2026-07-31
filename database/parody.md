@@ -2938,6 +2938,7 @@ example:
 | outo no hazure no renkinjutsushi | 王都边境的炼金术师 | 全名：王都边境的炼金术师～因为是不合适的职业，所以悠闲地经营店铺～<br>日语：王都の外れの錬金術師 ～ハズレ職業だったので、のんびりお店経営します～ |  |
 | hamidashi creative | 常轨脱离Creative | ![](https://ehgt.org/w/00/846/80970-kf70axip.webp)<br>所属社团：`mado soft` |  |
 | kagura reimeiki | 神乐黎明记 |  |  |
+| astral party | 吉星派对 | ![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2622000/c265c75d6bf18ea1377c2ce2e285f34c137203e6/header_schinese.jpg?t=1785412352)<br>又名：星引擎party | [Steam](https://store.steampowered.com/app/2622000/_/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
