@@ -2941,6 +2941,7 @@ example:
 | astral party | 吉星派对 | ![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2622000/c265c75d6bf18ea1377c2ce2e285f34c137203e6/header_schinese.jpg?t=1785412352)<br>又名：星引擎party | [Steam](https://store.steampowered.com/app/2622000/_/) |
 | yowayowa sensei | 弱弱老师 | 《弱弱老师》（日语：よわよわ先生）是由福地神绪创作的日本漫画。自2022年第51期（11月16日发行）起在《周刊少年Magazine》（讲谈社）连载。 | [维基百科](https://zh.wikipedia.org/wiki/弱弱老師) |
 | ridge racer | 山脊赛车 | ![](https://upload.wikimedia.org/wikipedia/en/1/1b/RidgeRacerVCover.jpg) |  |
+| life is strange | 奇异人生 | ![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/319630/header.jpg?t=1772725755)<br>由 Dontnod 娱乐开发，史克威尔艾尼克斯发行的章节性质的视觉冒险游戏。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
