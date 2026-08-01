@@ -9968,6 +9968,7 @@ example:
 | lacrimosa | 安魂曲 | ![](https://static.wikia.nocookie.net/neverness-to-everness/images/c/c1/Lacrimosa_Portrait.png)<br>出自作品:'neverness to everness' |  |
 | reiko nagase | 永濑丽子 | ![](https://static.wikia.nocookie.net/ridgeracer/images/e/e3/RR7_Reiko.png)<br>出自作品:'ridge racer' |  |
 | ai fukami | 深水蓝 | ![](https://static.wikia.nocookie.net/ridgeracer/images/c/cd/Fukami_Ai_Render.png)<br>出自作品:'ridge racer' |  |
+| firis hagerhelm | 菲里斯·哈格赫尔姆 | ![](https://static.wikia.nocookie.net/wwc-harem-of-d/images/c/c9/Firis_Hagerhelm.webp)<br>出自作品:'youkoso sukebe elf no mori e' |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
