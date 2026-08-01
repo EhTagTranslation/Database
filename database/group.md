@@ -13964,7 +13964,7 @@ example:
 | kirikizu koh | 切傷甲 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75711/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47902.html) \| [Ci-en](https://ci-en.dlsite.com/creator/4699) \| [X](https://x.com/kirikizu1) \| [Skeb](https://skeb.jp/@kirikizu1) |
 | ruburu bon | るぶる梵 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG71765.html) |
 | calcite | Calcite | 作品大量使用AI生成的游戏社团 |  |
-| kurotanida | 黒谷田 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01052761.html) |
+| kurotanida | 黒谷田 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01052761.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=226357/) \| [FANBOX](https://kurotanida.fanbox.cc/) \| [X](https://x.com/kurotanida) \| [pixiv](https://www.pixiv.net/users/104182311) \| [Skeb](https://skeb.jp/@kurotanida) |
 | hiyoko nabe | ひよこ鍋 | `a:yogiri neo`使用的同人社团名称 | [https://www.melonbooks.co.jp/circle/index.p...circle\_id=14956](https://www.melonbooks.co.jp/circle/index.p...circle_id=14956) |
 | hirono-ke | ヒロノ家 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01015177.html) |
 | kuchita inugoya | 朽ちた犬小屋 |  |  |
