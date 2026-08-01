@@ -2050,7 +2050,7 @@ example:
 | synchroaki | synchroaki \| synchron |  |  |
 | kin no tamamushi | 金ノ玉虫 |  |  |
 | yamamoto hyugo | 山本ひゅーご |  |  |
-| lithium | Lithium |  |  |
+| lithium | Lithium |  | [FANBOX](https://lithium.fanbox.cc/) \| [Ci-en](https://ci-en.dlsite.com/creator/23181) \| [pixiv](https://www.pixiv.net/users/5178165) \| [X](https://x.com/Lithium_R__18) |
 | athu | Athu |  |  |
 | kawarajima koh | かわらじま晃 |  |  |
 | focke wolf | ほっけうるふ |  |  |
