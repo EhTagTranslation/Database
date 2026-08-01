@@ -14109,6 +14109,7 @@ example:
 | mizu no uro | みずのウロ |  |  |
 | maguro fiction | マグロ☆フィクション |  |  |
 | tsubakitei | 椿亭 |  |  |
+| morningstar rush | モニスタラッシュ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
