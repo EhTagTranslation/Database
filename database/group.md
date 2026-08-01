@@ -13256,7 +13256,7 @@ example:
 | one or eight | ワンオアエイト |  |  |
 | tonikakuushi | 兎に角牛 |  |  |
 | hiyashi makura | ひやしまくら |  |  |
-| midareuchi | 乱れ击ち |  |  |
+| midareuchi | 乱れ撃ち |  |  |
 | otogidou | オトギ堂 |  |  |
 | shirokuma dango | しろくまだんご |  |  |
 | muru no honbako | ムルの本箱 |  |  |
