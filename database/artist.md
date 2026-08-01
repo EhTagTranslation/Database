@@ -15491,6 +15491,7 @@ example:
 | sodebeam | ソデビーム |  |  |
 | katsushika | かつしか |  |  |
 | kakuume | かくうめ |  |  |
+| eisia | えいじあ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
