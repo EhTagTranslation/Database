@@ -14106,6 +14106,7 @@ example:
 | bottebote | ボッテボテ |  |  |
 | ringokai | 林檎会 |  |  |
 | asia no hiraki | あじあのひらき |  |  |
+| mizu no uro | みずのウロ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
