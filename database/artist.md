@@ -15490,6 +15490,7 @@ example:
 | yamada tarou | 山田太郎 |  |  |
 | sodebeam | ソデビーム |  |  |
 | katsushika | かつしか |  |  |
+| kakuume | かくうめ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
