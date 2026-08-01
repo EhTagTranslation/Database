@@ -14103,6 +14103,7 @@ example:
 | umebatake | ウメ畑 |  |  |
 | monmon-dou | 悶々堂 |  |  |
 | radical tenshi | ラジカル天使 |  |  |
+| bottebote | ボッテボテ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
