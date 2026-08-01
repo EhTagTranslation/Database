@@ -15500,6 +15500,7 @@ example:
 | migakeba hikaru | 御垳葉ひかる |  |  |
 | akitsu nanao | 秋津七尾 |  |  |
 | amane hayabusa | 天音はやぶさ |  |  |
+| natsumiya yuzu | 夏宫柚子 | 夏宮ゆず |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
