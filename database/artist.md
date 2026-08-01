@@ -15493,6 +15493,7 @@ example:
 | kakuume | かくうめ |  |  |
 | eisia | えいじあ |  |  |
 | akai condor | 赤井コンドル |  |  |
+| mizunozuku | ミズノズク |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
