@@ -14111,6 +14111,7 @@ example:
 | tsubakitei | 椿亭 |  |  |
 | morningstar rush | モニスタラッシュ |  |  |
 | heikou kikai gakuron | 平行奇塊学論 |  |  |
+| mitsutoge koubou | 蜜棘工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
