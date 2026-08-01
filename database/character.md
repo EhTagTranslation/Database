@@ -9965,6 +9965,7 @@ example:
 | hiyori hiwamura | 鶸村日和 | ![](https://www.yowayowasensei-anime.com/assets/character/1c.webp?v3)<br>所属作品:`yowayowa sensei` |  |
 | seri awashima | 淡岛世理 | ![](https://ami.animecharactersdatabase.com/images%20of/Seri%20Awashima/from/K/uploads/chars/5092-511398836.png)<br>所属作品：`p:k` |  |
 | liya | 莉雅 | ![](https://static.wikia.nocookie.net/dnsea/images/7/7e/Liya_movie.png)<br>出自作品:'dragon nest' |  |
+| lacrimosa | 安魂曲 | ![](https://static.wikia.nocookie.net/neverness-to-everness/images/c/c1/Lacrimosa_Portrait.png)<br>出自作品:'neverness to everness' |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
