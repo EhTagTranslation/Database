@@ -15501,6 +15501,7 @@ example:
 | akitsu nanao | 秋津七尾 |  |  |
 | amane hayabusa | 天音はやぶさ |  |  |
 | natsumiya yuzu | 夏宫柚子 | 夏宮ゆず |  |
+| azifry | あじふりゃ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
