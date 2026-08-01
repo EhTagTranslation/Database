@@ -9966,6 +9966,7 @@ example:
 | seri awashima | 淡岛世理 | ![](https://ami.animecharactersdatabase.com/images%20of/Seri%20Awashima/from/K/uploads/chars/5092-511398836.png)<br>所属作品：`p:k` |  |
 | liya | 莉雅 | ![](https://static.wikia.nocookie.net/dnsea/images/7/7e/Liya_movie.png)<br>出自作品:'dragon nest' |  |
 | lacrimosa | 安魂曲 | ![](https://static.wikia.nocookie.net/neverness-to-everness/images/c/c1/Lacrimosa_Portrait.png)<br>出自作品:'neverness to everness' |  |
+| reiko nagase | 永濑丽子 | ![](https://static.wikia.nocookie.net/ridgeracer/images/e/e3/RR7_Reiko.png)<br>出自作品:'ridge racer' |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
