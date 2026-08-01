@@ -14108,6 +14108,7 @@ example:
 | asia no hiraki | あじあのひらき |  |  |
 | mizu no uro | みずのウロ |  |  |
 | maguro fiction | マグロ☆フィクション |  |  |
+| tsubakitei | 椿亭 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
