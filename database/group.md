@@ -14107,6 +14107,7 @@ example:
 | ringokai | 林檎会 |  |  |
 | asia no hiraki | あじあのひらき |  |  |
 | mizu no uro | みずのウロ |  |  |
+| maguro fiction | マグロ☆フィクション |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
