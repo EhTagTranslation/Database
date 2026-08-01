@@ -15499,6 +15499,7 @@ example:
 | hino satoshi | 火野聡司 |  |  |
 | migakeba hikaru | 御垳葉ひかる |  |  |
 | akitsu nanao | 秋津七尾 |  |  |
+| amane hayabusa | 天音はやぶさ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
