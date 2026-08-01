@@ -13900,7 +13900,7 @@ example:
 | ferret | ふぇれっと |  |  |
 | kisene frega | キセネフレガ |  |  |
 | ourakuza | 凹楽座 |  |  |
-| morning star | モニスタラッシュ |  |  |
+| morning star | モーニングスター |  |  |
 | nekomata sanshokukan | ねこマタ三色館 |  |  |
 | chikuchiku chiichiku | ちくちくちーちく |  |  |
 | hakudaku nyannyan | 白濁娘々 |  |  |
