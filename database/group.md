@@ -13370,7 +13370,7 @@ example:
 | inazuma soft | いなずまそふと |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48610.html)<br>[DLsite](https://ci-en.dlsite.com/creator/2713)<br>[X](https://x.com/inazumasoft)<br>[BOOTH](https://inazumasoft.booth.pm/items) |
 | senmura | SENMURA | 画师 `a:senmura`使用的同人社团名 | [https://www.melonbooks.co.jp/circle/index.php?circle\_id=103311](https://www.melonbooks.co.jp/circle/index.php?circle_id=103311) |
 | yamakawaya | 山河屋 |  |  |
-| hentai mona liza | 蒙娜丽莎 | 好きなものアニメ、原神fgoアークナイツ、vチューバー。性癖、くっころ、羞恥責め、強制排泄、生意気ギャル。プライドの高い女の子を調教して快楽堕ちさせる作品すき。 | [X](https://x.com/liza45694569)<br>[pixiv](https://www.pixiv.net/users/30702008) |
+| hentai mona liza | 变态蒙娜丽莎 | 日：変態モナリザ<br>好きなものアニメ、原神fgoアークナイツ、vチューバー。性癖、くっころ、羞恥責め、強制排泄、生意気ギャル。プライドの高い女の子を調教して快楽堕ちさせる作品すき。 | [X](https://x.com/liza45694569)<br>[pixiv](https://www.pixiv.net/users/30702008) |
 | yuujintou | 宥人島 | 画师`a:doaka`使用的同人社团名义 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30793.html) |
 | saimonke | 西門家 | 西門家 |  |
 | nikuniku anmitsutei | 肉々餡蜜亭 |  |  |
