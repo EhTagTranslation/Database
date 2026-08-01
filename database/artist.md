@@ -15496,6 +15496,7 @@ example:
 | mizunozuku | ミズノズク |  |  |
 | megurogawa una | 目黒川うな |  |  |
 | nishiki ai | 錦♡愛 |  |  |
+| hino satoshi | 火野聡司 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
