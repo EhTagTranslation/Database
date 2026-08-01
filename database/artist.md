@@ -15502,6 +15502,7 @@ example:
 | amane hayabusa | 天音はやぶさ |  |  |
 | natsumiya yuzu | 夏宫柚子 | 夏宮ゆず |  |
 | azifry | あじふりゃ |  |  |
+| azihurai | あじふらい |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
