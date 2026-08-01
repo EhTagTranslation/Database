@@ -15487,7 +15487,7 @@ example:
 | dendou monaka | 電動もなか |  |  |
 | naburokku | なぶろっく |  |  |
 | eternal tomokazu | エターナル☆トモカズ |  |  |
-| yamada tarou | 山田太郎 |  |  |
+| yamada tarou | 山田太郎 |  | [X](https://x.com/tarou_tanaka00) \| [FANBOX](https://yamada-tarou.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/69886081) \| [Pawoo](https://pawoo.net/@yamada_tarou00) |
 | sodebeam | ソデビーム |  |  |
 | katsushika | かつしか |  |  |
 | kakuume | かくうめ |  |  |
