@@ -15503,6 +15503,7 @@ example:
 | natsumiya yuzu | 夏宫柚子 | 夏宮ゆず |  |
 | azifry | あじふりゃ |  |  |
 | azihurai | あじふらい |  |  |
+| kokusan moyashi | 国産もやし |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
