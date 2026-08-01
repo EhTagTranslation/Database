@@ -15495,6 +15495,7 @@ example:
 | akai condor | 赤井コンドル |  |  |
 | mizunozuku | ミズノズク |  |  |
 | megurogawa una | 目黒川うな |  |  |
+| nishiki ai | 錦♡愛 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
