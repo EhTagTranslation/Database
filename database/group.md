@@ -14110,6 +14110,7 @@ example:
 | maguro fiction | マグロ☆フィクション |  |  |
 | tsubakitei | 椿亭 |  |  |
 | morningstar rush | モニスタラッシュ |  |  |
+| heikou kikai gakuron | 平行奇塊学論 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
