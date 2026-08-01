@@ -15494,6 +15494,7 @@ example:
 | eisia | えいじあ |  |  |
 | akai condor | 赤井コンドル |  |  |
 | mizunozuku | ミズノズク |  |  |
+| megurogawa una | 目黒川うな |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
