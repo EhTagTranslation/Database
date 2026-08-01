@@ -9970,6 +9970,7 @@ example:
 | ai fukami | 深水蓝 | ![](https://static.wikia.nocookie.net/ridgeracer/images/c/cd/Fukami_Ai_Render.png)<br>出自作品:'ridge racer' |  |
 | firis hagerhelm | 菲里斯·哈格赫尔姆 | ![](https://static.wikia.nocookie.net/wwc-harem-of-d/images/c/c9/Firis_Hagerhelm.webp)<br>出自作品:'youkoso sukebe elf no mori e' |  |
 | nol | 诺尔 | ![](https://static.wikia.nocookie.net/wwc-harem-of-d/images/8/81/Nol.webp)<br>![](https://static.wikia.nocookie.net/wwc-harem-of-d/images/6/63/Nol_%28Adult_Form%29.webp)<br>出自作品:'youkoso sukebe elf no mori e' |  |
+| miao ying | 妙影 | ![](https://static.wikia.nocookie.net/warhammerfb/images/b/bd/Miao_Ying_Cathay_Total_War_Warhammer_3_illustration.jpg)<br>出自作品:'warhammer' |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
