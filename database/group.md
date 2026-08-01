@@ -9510,7 +9510,7 @@ example:
 | purple haze | PURPLE HAZE |  |  |
 | purple kiss | ぱーぷるきっす |  |  |
 | purple sky | パープルスカイ |  |  |
-| purple software | パープルソフトウェア |  |  |
+| purple software | 紫社 | ![](https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_enter.gif)<br>パープルソフトウェア | [官网](https://www.purplesoftware.jp/) |
 | purpleclover | PurpleClover |  |  |
 | purumetal | ぷるめたる |  |  |
 | purupuru finale | ぷるぷるフィナーレ!! |  |  |
