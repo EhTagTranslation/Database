@@ -15504,6 +15504,7 @@ example:
 | azifry | あじふりゃ |  |  |
 | azihurai | あじふらい |  |  |
 | kokusan moyashi | 国産もやし |  |  |
+| tang | 唐 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
