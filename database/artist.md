@@ -15492,6 +15492,7 @@ example:
 | katsushika | かつしか |  |  |
 | kakuume | かくうめ |  |  |
 | eisia | えいじあ |  |  |
+| akai condor | 赤井コンドル |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
