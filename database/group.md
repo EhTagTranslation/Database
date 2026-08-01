@@ -14104,6 +14104,7 @@ example:
 | monmon-dou | 悶々堂 |  |  |
 | radical tenshi | ラジカル天使 |  |  |
 | bottebote | ボッテボテ |  |  |
+| ringokai | 林檎会 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
