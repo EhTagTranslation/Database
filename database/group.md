@@ -14105,6 +14105,7 @@ example:
 | radical tenshi | ラジカル天使 |  |  |
 | bottebote | ボッテボテ |  |  |
 | ringokai | 林檎会 |  |  |
+| asia no hiraki | あじあのひらき |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
