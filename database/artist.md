@@ -1985,7 +1985,7 @@ example:
 | marimofu | まりもふ |  |  |
 | alison | ALISON |  |  |
 | shimajirou | 岛次郎 |  |  |
-| kazuharu kina | 和遥キナ |  |  |
+| kazuharu kina | 和遥树奈 | 和遥キナ |  |
 | ponta | PoN太 |  |  |
 | akisora | 秋穹 |  |  |
 | tanishi mitsuru | タニシミツル |  |  |
