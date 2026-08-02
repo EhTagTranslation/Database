@@ -9981,6 +9981,7 @@ example:
 | lucia konohana | 此花露西娅 | ![](https://static.wikia.nocookie.net/rewrite/images/6/6f/Konohana_Lucia_sprite.png)<br>出自作品:`rewrite`<br>日语：此花 ルチア |  |
 | akane senri | 千里朱音 | ![](https://static.wikia.nocookie.net/rewrite/images/8/85/Senri_Akane_sprite.png)<br>出自作品:`rewrite` |  |
 | chihaya ohtori | 凤千早 | ![](https://static.wikia.nocookie.net/rewrite/images/f/fd/Ohtori_Chihaya_Sprite.png)<br>出自作品:`rewrite`<br>日语：鳳 ちはや |  |
+| kotarou tennouji | 天王寺瑚太朗 | ![](https://static.wikia.nocookie.net/rewrite/images/6/6c/Kotarou_Tennouji.jpg)<br>出自作品:`rewrite` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
