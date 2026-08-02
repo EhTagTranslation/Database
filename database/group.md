@@ -14119,6 +14119,7 @@ example:
 | oshimai | おしまい |  |  |
 | buzamadera | 無様寺 |  |  |
 | forget me not | forget me not | 這個名稱是勿忘草屬的意思 |  |
+| chikyuugai seimeitai mokyu | 地球外生命体☆モキュ(ﾟ∞ﾟ) | 地球外生命体モキュ，Chikyuugai Seimeitai ☆ Mokyu (°∞°)<br>這名稱真有夠離譜的 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
