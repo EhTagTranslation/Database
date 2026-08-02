@@ -9972,7 +9972,7 @@ example:
 | nol | 诺尔 | ![](https://static.wikia.nocookie.net/wwc-harem-of-d/images/8/81/Nol.webp)<br>![](https://static.wikia.nocookie.net/wwc-harem-of-d/images/6/63/Nol_%28Adult_Form%29.webp)<br>出自作品:'youkoso sukebe elf no mori e' |  |
 | miao ying | 妙影 | ![](https://static.wikia.nocookie.net/warhammerfb/images/b/bd/Miao_Ying_Cathay_Total_War_Warhammer_3_illustration.jpg)<br>出自作品:'warhammer' |  |
 | rong huang | 黄蓉 | 出自作品:'the legend of the condor heroes' |  |
-| acid | Acid | Maimai 的 Acid（阿希德／埃希德）是 SEGA 音樂遊戲 maimai 中的一位原創角色與旅行夥伴（Tour Member）。她擁有紫色的頭髮，背景故事與劇情世界觀（如 7sref Area 與 Prism 區域）緊密相關。背景與特色初登場：最早於《maimai DX UNiVERSE》的 7sref 區域中作為角色與旅行夥伴登場。劇情設定：在故事背景中，她是另一位角色 Ris（莉茲）內心渴望離開與自由的象徵。跨界聯動：她也曾作為限定搭檔登場於知名音遊 Arcaea 與 maimai DX 的聯動活動中。-- google ai search |  |
+| acid | 阿希德 | Maimai 的 Acid（阿希德／埃希德）是 SEGA 音樂遊戲 maimai 中的一位原創角色與旅行夥伴（Tour Member）。她擁有紫色的頭髮，背景故事與劇情世界觀（如 7sref Area 與 Prism 區域）緊密相關。背景與特色初登場：最早於《maimai DX UNiVERSE》的 7sref 區域中作為角色與旅行夥伴登場。劇情設定：在故事背景中，她是另一位角色 Ris（莉茲）內心渴望離開與自由的象徵。跨界聯動：她也曾作為限定搭檔登場於知名音遊 Arcaea 與 maimai DX 的聯動活動中。-- google ai search |  |
 | mika yurisaki | 百合咲美香 | maimai中登場角色 |  |
 
 <!--TEMPLATE: 
