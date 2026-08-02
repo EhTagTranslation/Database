@@ -2944,6 +2944,7 @@ example:
 | life is strange | 奇异人生 | ![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/319630/header.jpg?t=1772725755)<br>由 Dontnod 娱乐开发，史克威尔艾尼克斯发行的章节性质的视觉冒险游戏。 |  |
 | the legend of the condor heroes | 射雕英雄传 |  |  |
 | maimai | maimai（マイマイ） | saga開發的街機音樂遊戲 |  |
+| ryoumin 0-nin start no henkyou ryoushu-sama | 从0位居民开始的边境领主大人 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a2/a1/571895_0KwUw.jpg)<br>作者：風楼 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
