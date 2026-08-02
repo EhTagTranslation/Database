@@ -14117,6 +14117,7 @@ example:
 | tsunnomeri | ツンノメリ |  |  |
 | rimiaro | りみあろ |  |  |
 | oshimai | おしまい |  |  |
+| buzamadera | 無様寺 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
