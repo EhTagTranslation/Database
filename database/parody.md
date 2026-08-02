@@ -2943,6 +2943,7 @@ example:
 | ridge racer | 山脊赛车 | ![](https://upload.wikimedia.org/wikipedia/en/1/1b/RidgeRacerVCover.jpg) |  |
 | life is strange | 奇异人生 | ![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/319630/header.jpg?t=1772725755)<br>由 Dontnod 娱乐开发，史克威尔艾尼克斯发行的章节性质的视觉冒险游戏。 |  |
 | the legend of the condor heroes | 射雕英雄传 |  |  |
+| maimai | Maimai |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
