@@ -15510,6 +15510,7 @@ example:
 | papicolo | パピコロ |  |  |
 | mashio | 真汐 |  |  |
 | kuararin | くあらりん |  |  |
+| tokito setsuna | 時任せつな |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
