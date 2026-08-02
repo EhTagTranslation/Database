@@ -45,7 +45,7 @@ example:
 | clannad | CLANNAD | ![](https://lain.bgm.tv/r/400/pic/cover/l/28/38/51_z0Ly8.jpg)<br>《CLANNAD》是日本游戏品牌Key发行的恋爱冒险游戏，并有改编动画。 |  |
 | angel beats | 天使的心跳 | 《Angel Beats!》（简称AB）是由Key主导的系列企划。包括共13话的原创TV动画，以及漫画、小说、游戏、网络广播、Guide Book等作品。<br>![](https://img.moegirl.org.cn/common/2/20/Angelbeats.jpg) | [萌娘百科](https://zh.moegirl.org.cn/Angel_Beats)! |
 | charlotte | Charlotte🌠 | 麻枝准原创动画第二部<br>![图](https://ehgt.org/85/28/8528be985e3cc839b689675d1961886ce68f03a3-1047883-2457-3542-jpg_l.jpg) |  |
-| little busters | Little Busters!⚾🐈 | 《Little Busters!》（日语：リトルバスターズ！），是由日本公司VISUAL ARTS旗下游戏子品牌`key`所制作发行的一款Galgame。 | [萌娘百科](https://zh.moegirl.org.cn/Little_Busters!) [维基百科](https://zh.wikipedia.org/wiki/Little_Busters!) |
+| little busters | Little Busters! | ![](https://ehgt.org/w/00/409/78753-cxriu2mm.webp)<br>《Little Busters!》（日语：リトルバスターズ！），是由日本公司VISUAL ARTS旗下游戏子品牌`key`所制作发行的一款Galgame。 | [萌娘百科](https://zh.moegirl.org.cn/Little_Busters!) [维基百科](https://zh.wikipedia.org/wiki/Little_Busters!) |
 | rewrite | Rewrite | 《Rewrite》（日语：リライト）是由`key`创作的一部Galgame，并有fandisk作品Rewrite Harvest festa!。<br>![](https://ehgt.org/00/ed/00ed91595e567d24f64d014ac782d58b4a4fc35d-1178102-1920-1080-jpg_l.jpg)![](https://ehgt.org/87/a2/87a24f8b94790378305d88c367ef651ab937ce8f-561091-460-652-png_l.jpg)![](https://ehgt.org/8c/3b/8c3b5c372e3a7fb8ed3df95db082e6df9c2340eb-197107-320-460-jpg_l.jpg) |  |
 |  | ▲Key社作品 |  |  |
 | ore no imouto ga konna ni kawaii wake ga nai | 我的妹妹不可能那么可爱 | [![图](https://ehgt.org/10/73/10736a8c6d3bf1952944904125e0c36b0afec16d-9438330-2970-4200-jpg_250.jpg)](https://exhentai.org/g/537341/97449f9516/)![图](# "https://ehgt.org/12/5d/125dfed1068ff20b9a4a569404d7629378d85876-1721511-1697-2400-jpg_l.jpg") | [维基百科](https://zh.wikipedia.org/wiki/我的妹妹哪有這麼可愛！) |
