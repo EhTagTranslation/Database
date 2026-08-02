@@ -6899,7 +6899,7 @@ example:
 | kirisaki mocori | 切裂モコリ |  |  |
 | kirisawa shinji | 桐沢しんじ |  |  |
 | kirisawa tokito | きりさわときと |  |  |
-| kirise | キリセ |  |  |
+| kirise | 切世（キリセ） |  |  |
 | kirise mitsuru | 霧瀬ミツル |  |  |
 | kirishima fuuki | 霧島ふうき |  |  |
 | kirishima riona | 桐島りおな |  |  |
