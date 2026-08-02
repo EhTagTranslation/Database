@@ -9977,6 +9977,7 @@ example:
 | aihan | 艾函 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8c/78/205395_crt_EAd9j.jpg)<br>出自作品:'ryoumin 0-nin start no henkyou ryoushu-sama'<br>日语：アイハン |  |
 | senai | 瑟乃 | ![](https://lain.bgm.tv/r/400/pic/crt/l/be/1b/205394_crt_a89EP.jpg)<br>出自作品:'ryoumin 0-nin start no henkyou ryoushu-sama'<br>日语：セナイ |  |
 | shizuru nakatsu | 中津静流 |  |  |
+| akaza | 猗窝座 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
