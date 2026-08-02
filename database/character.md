@@ -9978,6 +9978,7 @@ example:
 | senai | 瑟乃 | ![](https://lain.bgm.tv/r/400/pic/crt/l/be/1b/205394_crt_a89EP.jpg)<br>出自作品:`ryoumin 0-nin start no henkyou ryoushu-sama`<br>日语：セナイ |  |
 | shizuru nakatsu | 中津静流 | ![](https://static.wikia.nocookie.net/rewrite/images/2/28/Nakatsu_Shizuru_Sprite.png)<br>出自作品:`rewrite` |  |
 | akaza | 猗窝座 |  |  |
+| lucia konohana | 此花露西娅 | ![](https://static.wikia.nocookie.net/rewrite/images/6/6f/Konohana_Lucia_sprite.png)<br>出自作品:`rewrite`<br>日语：此花 ルチア |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
