@@ -9975,6 +9975,7 @@ example:
 | acid | 阿希德 | Maimai 的 Acid（阿希德／埃希德）是 SEGA 音樂遊戲 maimai 中的一位原創角色與旅行夥伴（Tour Member）。她擁有紫色的頭髮，背景故事與劇情世界觀（如 7sref Area 與 Prism 區域）緊密相關。背景與特色初登場：最早於《maimai DX UNiVERSE》的 7sref 區域中作為角色與旅行夥伴登場。劇情設定：在故事背景中，她是另一位角色 Ris（莉茲）內心渴望離開與自由的象徵。跨界聯動：她也曾作為限定搭檔登場於知名音遊 Arcaea 與 maimai DX 的聯動活動中。-- google ai search |  |
 | mika yurisaki | 百合咲美香 | maimai中登場角色 |  |
 | aihan | 艾函 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8c/78/205395_crt_EAd9j.jpg)<br>出自作品:'ryoumin 0-nin start no henkyou ryoushu-sama'<br>日语：アイハン |  |
+| senai | 瑟乃 | ![](https://lain.bgm.tv/r/400/pic/crt/l/be/1b/205394_crt_a89EP.jpg)<br>出自作品:'ryoumin 0-nin start no henkyou ryoushu-sama'<br>日语：セナイ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
