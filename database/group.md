@@ -14116,6 +14116,7 @@ example:
 | irojikake matome blog | 色仕掛けまとめブログ |  |  |
 | tsunnomeri | ツンノメリ |  |  |
 | rimiaro | りみあろ |  |  |
+| oshimai | おしまい |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
