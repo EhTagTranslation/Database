@@ -14118,6 +14118,7 @@ example:
 | rimiaro | りみあろ |  |  |
 | oshimai | おしまい |  |  |
 | buzamadera | 無様寺 |  |  |
+| forget me not | forget me not | 這個名稱是勿忘草屬的意思 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
