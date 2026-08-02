@@ -3635,7 +3635,7 @@ example:
 | random | 兰田梦 | 蘭田夢 | [pixiv](https://www.pixiv.net/users/6810171) |
 | hamadamiku | 浜田みく |  |  |
 | nanasaki | 七崎 | ハチナナ (七崎) | [FANBOX](https://nanasaki87.fanbox.cc/) [Fantia](https://fantia.jp/fanclubs/297788) [pixiv](https://www.pixiv.net/users/21007221) [X](https://x.com/nanasaki87) |
-| satsuki misuzu | 皐月深鈴 | ![Pixiv](https://ehgt.org/b2/58/b258b6eb5f07e5e734fee9be9dd109726c32c5de-50050-170-170-png_l.jpg)<br>皐月深鈴(皐月みすず) | [pixiv](https://www.pixiv.net/member_illust.php?id=1914946) [X](https://x.com/misuzu_satsuki) |
+| satsuki misuzu | 皐月深铃 | ![Pixiv](https://ehgt.org/b2/58/b258b6eb5f07e5e734fee9be9dd109726c32c5de-50050-170-170-png_l.jpg)<br>皐（gāo）月深鈴(皐月みすず) | [pixiv](https://www.pixiv.net/member_illust.php?id=1914946) [X](https://x.com/misuzu_satsuki) |
 | haneru | HaneRu | 『R-18絵師，18歳未満の方やそういった要素が苦手な方はフォローしたり不適切設定を外して閲覧したりしないで下さ』<br>『R-18画师，未满18岁及不擅长此类元素者，请勿关注或浏览无不当设置』 | [X](https://x.com/haneru253) [pixiv](https://www.pixiv.net/users/3452804/illustrations) |
 | manbo | マンボー |  |  |
 | mokuseirokku | 木星ろっく |  | [pixiv](https://www.pixiv.net/users/1994389) |
