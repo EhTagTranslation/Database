@@ -9955,7 +9955,7 @@ example:
 | kaname | 卡纳梅 | ![](https://static.wikia.nocookie.net/crossange/images/4/4d/Kaname_Front_Back.png/revision/latest?cb=20150118071103)<br>所属作品:`cross ange` | [百度百科](https://baike.baidu.com/item/卡纳梅/22066762) |
 | miranda campbell | 米兰达·坎贝尔 | ![](https://static.wikia.nocookie.net/crossange/images/0/0c/Miranda_Front_Back.png/revision/latest?cb=20141012183302)<br>所属作品:`cross ange` | [百度百科](https://baike.baidu.com/item/米兰达/20865295) |
 | riza randog | 莉莎·兰多格 | ![](https://static.wikia.nocookie.net/crossange/images/6/6a/Cross_Ange_Riza_Rundog_full_appearence.png/revision/latest?cb=20141012140232)<br>所属作品:`cross ange` | [百度百科](https://baike.baidu.com/item/莉莎·兰多格/64314449) |
-| daisy von preslaria | 黛西·冯·普雷斯拉里亚 | ![](https://ehgt.org/w/02/324/52199-iifv7zy5.webp)<br>出自作品:'outo no hazure no renkinjutsushi' |  |
+| daisy von preslaria | 黛西·冯·普雷斯拉里亚 | ![](https://ehgt.org/w/02/324/52199-iifv7zy5.webp)<br>出自作品:`outo no hazure no renkinjutsushi` |  |
 | zelgius | 塞尔吉乌斯 | ![](https://static.wikia.nocookie.net/fireemblem/images/9/97/Zelgius_FE10_Artwork.png/revision/latest?cb=20210419031130)<br>所属作品:`fire emblem path of radiance`,`fire emblem radiant dawn` | [百度百科](https://baike.baidu.com/item/漆黑骑士/58096391) |
 | ike | 艾克 | ![](https://static.wikia.nocookie.net/fireemblem/images/4/47/Ike_FE9_Artwork.png/revision/latest?cb=20191103195028)<br>所属作品:`fire emblem path of radiance`,`fire emblem radiant dawn` | [百度百科](https://baike.baidu.com/item/艾克/8298543) |
 | soleil | 索雷优 | ![](https://static.wikia.nocookie.net/fireemblem/images/6/65/Soleil_Heroes.png/revision/latest?cb=20251231074704)<br>所属作品:`fire emblem fates` | [Fandom](https://fireemblem.fandom.com/wiki/Soleil) |
