@@ -9983,6 +9983,7 @@ example:
 | chihaya ohtori | 凤千早 | ![](https://static.wikia.nocookie.net/rewrite/images/f/fd/Ohtori_Chihaya_Sprite.png)<br>出自作品:`rewrite`<br>日语：鳳 ちはや |  |
 | kotarou tennouji | 天王寺瑚太朗 | ![](https://static.wikia.nocookie.net/rewrite/images/6/6c/Kotarou_Tennouji.jpg)<br>出自作品:`rewrite` |  |
 | sakuya ohtori | 凤咲夜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/99/3e/12085_crt_Wb1Io.jpg)<br>出自作品:`rewrite`<br>日语：鳳 咲夜 |  |
+| ardelia | 艾尔黛拉 | ![](https://endfield.wiki.gg/images/thumb/Ardelia_Splash_Art.png/1024px-Ardelia_Splash_Art.png?29fb7a)<br>出自作品:`arknights endfield` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
