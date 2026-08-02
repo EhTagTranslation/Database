@@ -15508,6 +15508,7 @@ example:
 | dummy | ダミー |  | [pixiv](https://www.pixiv.net/users/95852246) \| [FANBOX](https://dummyman0707.fanbox.cc/) \| [X](https://x.com/dummy070088) \| [Fantia](https://fantia.jp/fanclubs/497498) |
 | urushibara yasuhiro | 漆原ヤスヒロ |  |  |
 | papicolo | パピコロ |  |  |
+| mashio | 真汐 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
