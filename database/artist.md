@@ -15509,6 +15509,7 @@ example:
 | urushibara yasuhiro | 漆原ヤスヒロ |  |  |
 | papicolo | パピコロ |  |  |
 | mashio | 真汐 |  |  |
+| kuararin | くあらりん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
