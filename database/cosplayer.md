@@ -187,6 +187,7 @@ example:
 | kaneko-kamiao | KANEKO\_咔喵 |  |  |
 | minazuki hikaru | 皆月ひかる |  | [X](https://x.com/hikaru_emo) |
 | ran3 | 染三 |  |  |
+| baili shirly | 白栎Shirly |  |  |
 
 <!--
 Template: 
