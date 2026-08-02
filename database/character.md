@@ -1085,7 +1085,7 @@ example:
 | imu | 忌梦 | ![](https://static.wikia.nocookie.net/kagura/images/2/2e/Imu_EV.png)<br>所属作品：`senran kagura` |  |
 | josui | 如水 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=2143ad4a379b033b2c88fcd225cf3620/f4329fa1cd11728bb2793c6ccbfcc3cec2fd2cde.jpg)<br>所属作品：`senran kagura` |  |
 | kaede | 枫 | ![](https://ehgt.org/c9/a5/c9a5392c447c50c4bc2c137168e797538c8deb5c-45265-380-479-jpg_l.jpg) |  |
-| kagari | 篝 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=b44f6eb6a486c91708035231f93c70c6/8cdeaf13632762d0d6862ef1a3ec08fa503dc6f2.jpg)<br>所属作品：`senran kagura` |  |
+| kagari | 篝 | ①出自作品:`rewrite`<br>![](https://static.wikia.nocookie.net/rewrite/images/7/7c/Chara-kagari.png)<br>②所属作品：`senran kagura`<br>![](https://static.wikia.nocookie.net/kagura/images/2/2d/P_kagari.jpg) |  |
 |  | 神乐 | 重复项 |  |
 | kanon | 花音 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=63fec5d1362ac65c6705667bcbf3b21d/f3baf13f8794a4c22467fe9a0df41bd5ac6e39e8.jpg)<br>所属作品：`senran kagura` |  |
 | kanzaki | 神咲 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=189ba4cf23a446237ecaa56aa8237246/e98d4981800a19d8c9875ab030fa828ba71e46b5.jpg)<br>所属作品：`senran kagura` |  |
