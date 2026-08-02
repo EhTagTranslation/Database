@@ -9964,7 +9964,7 @@ example:
 | paula mccoy | 宝拉·马可伊 | ![](https://lain.bgm.tv/r/400/pic/crt/l/dd/1a/27076_crt_pG3gO.jpg?r=1429270767)<br>出自作品：`p:nisekoi` |  |
 | hiyori hiwamura | 鶸村日和 | ![](https://www.yowayowasensei-anime.com/assets/character/1c.webp?v3)<br>所属作品:`yowayowa sensei` |  |
 | seri awashima | 淡岛世理 | ![](https://ami.animecharactersdatabase.com/images%20of/Seri%20Awashima/from/K/uploads/chars/5092-511398836.png)<br>所属作品：`p:k` |  |
-| liya | 莉雅 | ![](https://static.wikia.nocookie.net/dnsea/images/7/7e/Liya_movie.png)<br>出自作品:'dragon nest' |  |
+| liya | 莉雅 | ![](https://static.wikia.nocookie.net/dnsea/images/7/7e/Liya_movie.png)<br>出自作品:`dragon nest` |  |
 | lacrimosa | 安魂曲 | ![](https://static.wikia.nocookie.net/neverness-to-everness/images/c/c1/Lacrimosa_Portrait.png)<br>出自作品:'neverness to everness' |  |
 | reiko nagase | 永濑丽子 | ![](https://static.wikia.nocookie.net/ridgeracer/images/e/e3/RR7_Reiko.png)<br>出自作品:'ridge racer' |  |
 | ai fukami | 深水蓝 | ![](https://static.wikia.nocookie.net/ridgeracer/images/c/cd/Fukami_Ai_Render.png)<br>出自作品:`ridge racer` |  |
