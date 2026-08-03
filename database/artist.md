@@ -2867,7 +2867,7 @@ example:
 | hanao. | 熊尾もふもふ |  |  |
 | otokura ringo | 乙倉りんご |  |  |
 | rougetu | 胧月 |  |  |
-| ryuga syo | 龍牙翔 |  | [X](https://x.com/syoryuga) [pixiv](https://www.pixiv.net/users/478717) |
+| ryuga syo | 龙牙翔（龍牙翔） |  | [X](https://x.com/syoryuga) [pixiv](https://www.pixiv.net/users/478717) |
 | kurage modoki | くらげもどき |  | [X](https://x.com/kuragemodoki) [pixiv](https://www.pixiv.net/users/130985) |
 | oozora wakaba | 大空若叶 |  | [X](https://x.com/oozorawakaba) [pixiv](https://www.pixiv.net/users/76670) |
 | nigirimeshi | にぎりめし |  | [X](https://x.com/onigirinigirime) [pixiv](https://www.pixiv.net/users/4316232) |
