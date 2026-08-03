@@ -12099,7 +12099,7 @@ example:
 | tsukumo nikyu | 九十九弐級 |  |  |
 | uten ameka | 雨天あめか |  | [pixiv](https://www.pixiv.net/users/29614139) |
 | sakuraba rokusuke | 樱庭六辅 |  |  |
-| aoyama akira | 苍山哲 |  |  |
+| aoyama akira | 苍山哲 | 日语: 蒼山哲 | [FANBOX](https://aoyamaakira.fanbox.cc/) \| [X](https://x.com/AOYAMAAKIRA) \| [Fantia](https://fantia.jp/fanclubs/5887) \| [pixiv](https://www.pixiv.net/users/2701109) \| [Pawoo](https://pawoo.net/@aaoyama) |
 | kamitake | 鱗物 |  | [X](https://x.com/Cr72Kamitake) [pixiv](https://www.pixiv.net/users/1646523) |
 | k-ko | K子 |  |  |
 | sisyamo 2 percent | sisyamo2% | 专注嘴上功夫的画师<br>![图](# "https://ehgt.org/96/77/96773afe704296115b565e6dba8450e64cd0cc8c-151544-640-480-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/2632419) |
