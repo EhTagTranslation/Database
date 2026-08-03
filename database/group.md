@@ -951,7 +951,7 @@ example:
 | modae tei | 闷亭 |  |  |
 | oyama dennou giken | 小山电脑技研 |  |  |
 | lux soft | ルクスソフト |  |  |
-| gunsryu | GUNsRYU |  |  |
+| gunsryu | GUNsRYU |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG09980.html) |
 | happy core | HAPPY CORE |  |  |
 | dai-kotetsu dan | ダイコテツ団 |  |  |
 | tora machine | 虎マシーン |  |  |
