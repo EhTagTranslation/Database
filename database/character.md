@@ -6632,7 +6632,7 @@ example:
 | riho tsukishima | 月岛流星 | ![](https://goddess-cafe.com/2ndwp/wp-content/themes/d29b59564e24/static/character/03/main.webp)<br>所属作品：`megami no cafe terrace` | [萌娘百科](https://zh.moegirl.org.cn/月岛流星) |
 | rin onigawara | 鬼瓦轮 | ![](https://static.wikia.nocookie.net/all-worlds-alliance/images/3/3a/RinOnigawara2.png)<br>所属作品：`busou shoujo machiavellianism` | [萌娘百科](https://zh.moegirl.org.cn/鬼瓦轮) |
 | yukana yame | 八女由佳奈 | ![](https://static.wikia.nocookie.net/hajimete-no-gal/images/d/df/25a17b4cce29ff34ae2a7ff12206c28b.png)<br>所属作品：`hajimete no gal` | [萌娘百科](https://zh.moegirl.org.cn/八女由佳奈) |
-| mylene rapha holfort | 米莲努·拉法·霍尔佛特 | 日本轻小说《乙女游戏的世界对路人角色很不友好》及其衍生作品中的角色。剧中第一美女。 | ![](https://img.moegirl.org.cn/common/thumb/6/6e/Mobusekai11.jpg/150px-Mobusekai11.jpg) [百度百科](https://baike.baidu.com/item/米莲努·拉法·霍尔佛特/60243238) |
+| mylene rapha holfort | 米莲努·拉法·霍尔佛特 | ![](https://static.wikia.nocookie.net/otome-games-is-tough-for-mobs/images/6/6e/Mylene-00_Anime_2nd.png)<br>出自作品:`otome game sekai wa mob ni kibishii sekai desu` | [百度百科](https://baike.baidu.com/item/米莲努·拉法·霍尔佛特/60243238) |
 | arcana | 阿尔卡纳 | 手机游戏《重返未来：1999》中的角色，重塑之手首领，芝加哥事件、维也纳事件、阿派朗事件的罪魁祸首，第一次大决战中在遭受真空弹轰炸后一度被重塑之手各分支尊为“受苦者”，在南极事件中被成功复活。 | [百度百科](https://baike.baidu.com/item/阿尔卡纳/63393022) |
 | shushu suruga | 骏河朱朱 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/2/20/Shushu_Suruga_S2.webp)<br>所属作品：`mato seihei no slave`<br>七番组成员，好奇心旺盛的少女，能力为“玉体革命”。 | [萌娘百科](https://zh.moegirl.org.cn/骏河朱朱) |
 | yuuki wakura | 和仓优希 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/4/41/Yuuki_Wakura_S2.webp)<br>所属作品：`mato seihei no slave`<br>因魔都灾害被转移至魔都，遭丑鬼袭击时被京香解救，通过“无穷之锁”契约成为其“奴隶”加入魔防队。 | [萌娘百科](https://zh.moegirl.org.cn/和仓优希) |
