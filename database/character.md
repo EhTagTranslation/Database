@@ -3200,7 +3200,7 @@ example:
 | leaf | 叶子 | ![](https://s1.52poke.com/wiki/thumb/6/60/葉子_FRLG.png/146px-葉子_FRLG.png)<br>所属作品：`pokemon`<br>日文︰リーフ | [神奇宝贝百科](https://wiki.52poke.com/wiki/葉子) |
 | diablo | 迪亚布罗（坂本拓真） |  |  |
 | rem galleu | 蕾姆·嘉蕾邬 | 所属作品：`isekai maou to shoukan shoujo no dorei majutsu`<br>![](https://ehgt.org/w/02/033/45915-hvpykfla.webp) |  |
-| shera l. greenwood | 雪拉·L·古林伍德 | 所属作品：`isekai maou to shoukan shoujo no dorei majutsu`<br>![](https://ehgt.org/w/01/714/86567-br3b7vw5.webp) |  |
+| shera l. greenwood | 雪拉·L·古林伍德 | ![](https://static.wikia.nocookie.net/isekai-maou-to-shoukan-shoujo-dorei-majutstu/images/6/66/Shera_L._Greenwood_Anime.webp)<br>所属作品：`isekai maou to shoukan shoujo no dorei majutsu` |  |
 | alicia crystella | 艾莉西亚·库里斯特拉 |  |  |
 | edelgard | 艾德尔卡特 |  |  |
 | krebskulm | 库尔姆 |  |  |
