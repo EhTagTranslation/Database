@@ -15513,6 +15513,7 @@ example:
 | tokito setsuna | 時任せつな |  |  |
 | barukan | バルカン |  |  |
 | ujimu | うじむ |  | [pixiv](https://www.pixiv.net/users/116487967) \| [X](https://x.com/uzim_comic18) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=234195/) |
+| berg | ばーぐ |  | [pixiv](https://www.pixiv.net/users/80673528) \| [FANBOX](https://elonzuckerberg.fanbox.cc/) \| [X](https://x.com/Elon2uckerberg) \| [Lit.Link](https://lit.link/en/elonzuckerberg) |
 
 <!--TEMPLATE:
 |  |  |  |  |
