@@ -10785,7 +10785,7 @@ example:
 | ten ga | 天駕 |  |  |
 | ten no hoshi | 天ノ星 |  |  |
 | tenamaru | テナマル |  |  |
-| tenchuumaru | 天誅丸 |  |  |
+| tenchuumaru | 天誅丸 |  | [FANZA](https://book.dmm.co.jp/list/?author=25579) |
 | tenchuunan | 天誅男 |  |  |
 | tendou itsuki | 天堂樹 |  | [pixiv](https://www.pixiv.net/users/9817470) |
 | tendou kuon | 天童久遠 |  |  |
