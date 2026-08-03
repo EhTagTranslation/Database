@@ -4852,7 +4852,7 @@ example:
 | decosuke | デコスケ |  |  |
 | deego | ディーゴ |  |  |
 | deep purple 72 | 深紫'72 |  |  |
-| deep valley | ディープバレー |  |  |
+| deep valley | ディープバレー |  | [FANBOX](https://deepvalley.fanbox.cc/) \| [Skeb](https://skeb.jp/@deepvalley) \| [X](https://x.com/deepvalley) \| [pixiv](https://www.pixiv.net/users/7273) \| [Pawoo](https://pawoo.net/@deepdeep) \| [Lit.Link](https://lit.link/en/thedeepvalley) \| [Fantia](https://fantia.jp/fanclubs/12935) |
 | dei | dei |  |  |
 | deibara | 泥原 |  |  |
 | dekochin hammer | でこちんハンマー |  |  |
