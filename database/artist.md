@@ -12643,7 +12643,7 @@ example:
 | iketatsu shizuru | 池竜静留 |  |  |
 | kogara tsugumi | 小雀つぐみ |  |  |
 | papipukepo | ぱぴぷけぽ |  |  |
-| yomogi mametaro | よもぎ豆太郎 |  |  |
+| yomogi mametaro | よもぎ豆太郎 |  | [pixiv](https://www.pixiv.net/users/51304522) \| [X](https://x.com/yomogimame462) \| [FANZA](https://book.dmm.co.jp/list/?author=371002) \| [Fantia](https://fantia.jp/fanclubs/478849) \| [Skeb](https://skeb.jp/@yomogimame462) |
 | yasuda yasuhiro | 保田やすひろ |  |  |
 | minazuki miyabi | 水無月雅 |  |  |
 | okome taberu | おこめタベル |  |  |
