@@ -676,7 +676,7 @@ example:
 | molokonomi | 平屋のぼり |  |  |
 | maeshima ryou | 前岛龙 | 前島龍<br>成人向漫画家。作品主要以`lolicon`为主。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1135876547074596865/1DQd8NFJ_400x400.jpg)<br>**作者推特头像**<br>单行本《パコパコぷりんせす》<br>![图](# "https://ehgt.org/ee/87/ee870e63ee3645f729fbac6b80139277d0fbe27b-1043019-1071-1500-jpg_l.jpg") | [X](https://x.com/maeshimaryo) [Pixiv](https://x.com/maeshimaryo) |
 | yamazaki kazuma | 山崎かずま | 山崎 かずま（やまざき かずま）是日本的漫画家、插画师。<br>![图](https://pbs.twimg.com/profile_images/969388704157523968/q1DMIxju_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/e0/0d/e00dc6fa69729ddb1d4b2922fa1e6e8f04a3ac10-1808555-2163-3000-jpg_l.jpg")<br>《 H.O.M.E ~Habitant of melting ecstasy~》 | [X](https://x.com/kazmayamazaki) [pixiv](https://www.pixiv.net/users/9118) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/山崎かずま) |
-| momonosuke | 桃之助 |  |  |
+| momonosuke | 桃之助 | 日语: モモのすけ | [FANBOX](https://momonosuke.fanbox.cc/) \| [X](https://x.com/momo_nosukeee) \| [pixiv](https://www.pixiv.net/users/17738347) \| [Misskey.io](https://misskey.io/@momonosukeee) \| [Skeb](https://skeb.jp/@momo_nosukeee) \| [Fantia](https://fantia.jp/fanclubs/473761) |
 | murian | 无有利安 |  |  |
 | mutou mato | 武藤まと |  | [pixiv](https://www.pixiv.net/users/1429353) [X](https://x.com/mto_mt) |
 | kobayashi oukei | 小林王桂 |  |  |
