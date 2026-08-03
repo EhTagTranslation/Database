@@ -1272,7 +1272,7 @@ example:
 | shiramori yuse | 白森ゆせ |  |  |
 | bak hyeong jun | 朴亨濬 |  |  |
 |  | もつあき |  |  |
-| yanagihara mitsuki | 柳原ミツキ |  |  |
+| yanagihara mitsuki | 柳原ミツキ |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ008346/ana_flg/all) |
 | ponkotsu works | ぽんこつわーくす |  |  |
 | nibo | にぼ |  |  |
 | mightyhonk | MightyHonk |  |  |
