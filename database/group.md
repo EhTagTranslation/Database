@@ -14122,6 +14122,7 @@ example:
 | chikyuugai seimeitai mokyu | 地球外生命体☆モキュ(ﾟ∞ﾟ) | 地球外生命体モキュ，Chikyuugai Seimeitai ☆ Mokyu (°∞°)<br>這名稱真有夠離譜的 |  |
 | p.w. | P.W.(パスワード) |  |  |
 | bansheesoftware | BansheeSOFTWARE |  |  |
+| hyoui no jikan | 憑依の刻 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
