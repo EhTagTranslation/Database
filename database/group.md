@@ -14124,6 +14124,7 @@ example:
 | bansheesoftware | BansheeSOFTWARE |  |  |
 | hyoui no jikan | 憑依の刻 |  |  |
 | piyuku no buta | ぴゆくのぶた |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG75246.html) |
+| aoyama koubou | 蒼山工房 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=231096/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
