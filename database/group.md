@@ -350,7 +350,7 @@ example:
 | deastim | であすちーむ |  |  |
 | optworks | OPTWORKS |  |  |
 | nikujirushi | にくじるし |  |  |
-| great canyon | グレートキャニオン |  |  |
+| great canyon | グレートキャニオン |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=24820/) |
 | amp | AMP |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG69157.html) |
 | peanutsland | ピーナッツランド |  |  |
 | black fly | BLACK FLY |  |  |
