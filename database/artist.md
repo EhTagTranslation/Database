@@ -15515,6 +15515,7 @@ example:
 | ujimu | うじむ |  | [pixiv](https://www.pixiv.net/users/116487967) \| [X](https://x.com/uzim_comic18) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=234195/) |
 | berg | ばーぐ |  | [pixiv](https://www.pixiv.net/users/80673528) \| [FANBOX](https://elonzuckerberg.fanbox.cc/) \| [X](https://x.com/Elon2uckerberg) \| [Lit.Link](https://lit.link/en/elonzuckerberg) |
 | muroku | ムロク |  | [X](https://x.com/muroku669) \| [X](https://x.com/muroku669_sub) \| [Skeb](https://skeb.jp/@muroku669) \| [pixiv](https://www.pixiv.net/users/3152790) \| [BOOTH](https://muroku69.booth.pm/) |
+| jashin bakunyuu swordsman | 邪神・爆乳ソードマン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
