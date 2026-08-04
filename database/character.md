@@ -9991,6 +9991,7 @@ example:
 | kanne | 康涅 | ![](https://static.wikia.nocookie.net/frieren/images/1/18/Kanne_anime_profile.png)<br>出自作品:`sousou no frieren` |  |
 | lawine | 拉比涅 | ![](https://static.wikia.nocookie.net/frieren/images/1/14/Lawine_anime_profile.png)<br>出自作品:`sousou no frieren` |  |
 | kirika rosequartz | 绮莉卡·罗丝奎兹 | ![](https://ehgt.org/w/02/138/39958-1grs2uqm.webp)<br>出自作品:`ansatsusha de aru ore no status ga yuusha yori mo akiraka ni tsuyoi no da ga`<br>日语：キリカ・ローズクォーツ |  |
+| latticenail | 拉提斯内尔 | ![](https://static.wikia.nocookie.net/assassin-sutetasu-yuusha-akiraka-tsuyoi-nodaga/images/1/1c/Latticenail_Anime.png)<br>日语：ラティスネイル<br>出自作品:`ansatsusha de aru ore no status ga yuusha yori mo akiraka ni tsuyoi no da ga` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
