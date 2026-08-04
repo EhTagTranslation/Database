@@ -4956,7 +4956,7 @@ example:
 | cure sky | 索拉·哈雷瓦塔尔（天空天使） | ![](https://static.wikia.nocookie.net/prettycure/images/d/d5/Sky_Sora_Profile.png)<br>所属作品: `p:hirogaru sky precure`<br>日语：ソラ・ハレワタール | [Fandom](https://prettycure.fandom.com/wiki/Sora_Harewataru) [维基百科](https://zh.wikipedia.org/wiki/開闊天空！光之美少女) |
 | chiyari tenkajin | 天火人血枪 | 天火人血枪是日本的“`p:touhou project`”系列弹幕游戏及其衍生作品的登场角色之一。<br><br>首次登场于《东方兽王园》，作为可选自机与敌机登场。 | [萌娘百科](https://zh.moegirl.org.cn/天火人血枪) [THBWiki](https://thwiki.cc/天火人血枪) |
 | ai sugimoto | 杉本爱 | 画师`a:ozaki miray`创造的角色，在The Great Escape、Nearest To Real LOVE、秘密等多部作品中出场。 |  |
-| nobara kugisaki | 钉崎野蔷薇 | ![](https://ehgt.org/w/01/148/37115-qzah26cd.webp)<br>出自作品：`p:jujutsu kaisen`<br><br>钉崎野蔷薇（日语：釘崎（くぎさき） 野薔薇（のばら） ）是由芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/钉崎野蔷薇) |
+| nobara kugisaki | 钉崎野蔷薇 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/d/dd/Nobara_Kugisaki_%28Anime_2%29.png)<br>出自作品：`p:jujutsu kaisen`<br>日语：釘崎野薔薇（くぎさきのばら） | [萌娘百科](https://zh.moegirl.org.cn/钉崎野蔷薇) |
 | maki zenin | 禅院真希 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/30/Maki_Zenin.png)<br>出自作品：`p:jujutsu kaisen`<br>日语：ぜんいん まき | [萌娘百科](https://zh.moegirl.org.cn/禅院真希) |
 | usagi saionji | 西园寺兔 |  |  |
 | principal minami | 南日和子 | “南大鸟”，音乃木坂学园的理事长，南小鸟的母亲。 | [https://zhidao.baidu.com/question/812579182642737212.html](https://zhidao.baidu.com/question/812579182642737212.html) |
