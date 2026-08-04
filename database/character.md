@@ -5476,7 +5476,7 @@ example:
 | kotone fujita | 藤田言音 | ![](https://static.wikia.nocookie.net/idolmaster-gakuen/images/1/11/Kotone_Fujita.png)<br>日语：藤田ことね<br>所属作品：学园偶像大师 | [萌娘百科](https://zh.moegirl.org.cn/藤田言音) |
 | acheron | 黄泉 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/Character_Acheron_Splash_Art.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/黄泉%28星穹铁道%29#) |
 | asanagi | 朝凪(桎) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/562be2b5664fe3096ca50367ec141900262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/朝凪) |
-| toji fushiguro | 伏黑甚尔 | 伏黑甚尔（日语：伏黒（ふしぐろ） 甚爾（とうじ））是由芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/10/Fushiguro_Toji_Anime.png) | [萌娘百科](https://zh.moegirl.org.cn/伏黑甚尔) |
+| toji fushiguro | 伏黑甚尔 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/d/db/Toji_Fushiguro_%28Anime%29.png)<br>出自作品:`jujutsu kaisen` | [萌娘百科](https://zh.moegirl.org.cn/伏黑甚尔) |
 | curtana | 卡提那 | 二次元游戏《交错战线》中的一个角色 | [BILIGAME WIKI](https://wiki.biligame.com/crosscore/卡提那) |
 | alisa mikhailovna kujou | 艾莉莎·米哈伊罗夫纳·九条 | 所属作品：`tokidoki bosotto russia-go de dereru tonari no alya-san`<br>![](https://img.moegirl.org.cn/common/c/c5/Alisa_Mikhaylovna_Kujō.png)<br>以学年成绩第一为傲，担任学生会会计的优等生。<br>是学年的两大美人之一，别名“孤傲的公主大人”。<br>因为某些过往对邻座的政近抱有兴趣，不时用俄语戏弄他，自认为他听不懂。 | [萌娘百科](https://zh.moegirl.org.cn/艾莉莎·米哈伊罗夫纳·九条) |
 | lingyang | 凌阳 | ![](https://mc.appfeng.com/ui/avatar/T_IconRole_Pile_lingyang_UI.png)<br>所属作品：`wuthering waves`<br>今州瑞狮团成员，善良灵性的异族来客。 | [萌娘百科](https://zh.moegirl.org.cn/凌阳) |
