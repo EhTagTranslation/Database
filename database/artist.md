@@ -15522,6 +15522,7 @@ example:
 | shiitake taishi | しいたけたいし |  |  |
 | saikura noushu | さいくら・のうしゅ |  |  |
 | nyurunyuru splash | にゅるにゅるスプラッシュ |  |  |
+| gorani | Gorani |  | [pixiv](https://www.pixiv.net/users/70665145) |
 
 <!--TEMPLATE:
 |  |  |  |  |
