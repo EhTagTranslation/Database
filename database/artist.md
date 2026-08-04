@@ -5267,7 +5267,7 @@ example:
 | g.g. kakeru | G.G.翔 |  |  |
 | ga015 | ga015 |  |  |
 | gabagobogebe | ガバゴボゲベ |  |  |
-| gaburi | ガブリ |  |  |
+| gaburi | ガブリ |  | [Ci-en](https://ci-en.dlsite.com/creator/24873) \| [FANBOX](https://gaburi-gabugabu.fanbox.cc/) \| [X](https://x.com/gabugaburigabu) \| [Lit.Link](https://lit.link/en/V6m4sCyW6tSDCUrObgP41qBTT8q1) \| [pixiv](https://www.pixiv.net/users/29497309) \| [BOOTH](https://gabugabu.booth.pm/) \| [Fantia](https://fantia.jp/fanclubs/514412) |
 | gachonjirou | がちょん次郎 |  | [FANBOX](https://gachonjirou.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/30081) \| [Pawoo](https://pawoo.net/@anarudaiou) |
 | gaden | GADEN |  |  |
 | gagarin kichi | ガガーリン吉 |  |  |
