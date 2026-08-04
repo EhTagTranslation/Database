@@ -9985,6 +9985,7 @@ example:
 | sakuya ohtori | 凤咲夜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/99/3e/12085_crt_Wb1Io.jpg)<br>出自作品:`rewrite`<br>日语：鳳 咲夜 |  |
 | ardelia | 艾尔黛拉 | ![](https://endfield.wiki.gg/images/thumb/Ardelia_Splash_Art.png/1024px-Ardelia_Splash_Art.png?29fb7a)<br>出自作品:`arknights endfield` |  |
 | kako-hakase | 过去博士 |  | [https://www.japari-library.com/wiki/Kako](https://www.japari-library.com/wiki/Kako) |
+| rurui | 露露伊 | ![](https://static.wikia.nocookie.net/tokyo-xanadu/images/2/23/Rurui.png)<br>出自作品:`kyoto xanadu`<br>日语：ルルイ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
