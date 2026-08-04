@@ -9989,6 +9989,7 @@ example:
 | reina mito | 美都玲奈 | ![](https://static.wikia.nocookie.net/danball-senki/images/e/e1/DSW_Ep_Pic22.jpg)<br>出自作品:`danball senki` |  |
 | takako suzuki | 铃木贵子 | ![](https://static.wikia.nocookie.net/gup/images/5/55/Caesarofficial.png)<br>出自作品:`girls und panzer` |  |
 | kanne | 康涅 | ![](https://static.wikia.nocookie.net/frieren/images/1/18/Kanne_anime_profile.png)<br>出自作品:`sousou no frieren` |  |
+| lawine | 拉比涅 | ![](https://static.wikia.nocookie.net/frieren/images/1/14/Lawine_anime_profile.png)<br>出自作品:`sousou no frieren` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
