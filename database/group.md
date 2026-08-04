@@ -4924,7 +4924,7 @@ example:
 | g500 | G500 |  |  |
 | ga fake | ガ・フェーク |  |  |
 | gaball screen | GABALL SCREEN |  |  |
-| gabugabu | GABUGABU |  |  |
+| gabugabu | GABUGABU |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44526.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77386/) |
 | gabunomi tororokonbu | がぶ飲みとろろ昆布 |  |  |
 | gacha | 画チャ |  |  |
 | gachapin mukku. | がちゃぴんむっく。 |  |  |
