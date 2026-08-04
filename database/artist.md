@@ -15518,7 +15518,7 @@ example:
 | jashin bakunyuu swordsman | 邪神・爆乳ソードマン |  |  |
 | corto | CORTO |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG70837.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206090/) \|  [FANBOX](https://corto.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/83462667) \| [X](https://x.com/corto_cg) \| [X](https://x.com/corto_main) \| [Skeb](https://skeb.jp/@CORTO) |
 | izumo | izu藻 |  |  |
-| ksk | ksk |  |  |
+| ksk | ksk | [X](https://x.com/in_ksk) |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
