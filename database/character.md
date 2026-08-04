@@ -8396,7 +8396,7 @@ example:
 | medjehtiqedti | 缇缇 | ![](https://patchwiki.biligame.com/images/arknights/9/9b/lqqp7lk1tiuca9sqn60c16nzikmlntc.png)<br>所属游戏:`arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/缇缇) |
 | neru akita | 亚北音留 | ![](https://ehgt.org/w/00/248/88986-2x43c0k3.webp)<br>出自作品：`p:vocaloid`<br><br>亚北音留（亞北ネル）是初音未来的亚种之一，该角色首次发布是在2007年11月1日——作者スミス・ヒオカ（Smith Hioka）在2ch上发布了几张亚北音留的画作。2008年被官方承认，正式成为VOCALOID系列的亚种。 | [萌娘百科](https://zh.moegirl.org.cn/亚北音留) |
 | yuki tsukumo | 九十九由基 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/2/22/Yuki_Tsukumo_%28Anime_3%29.png)<br>出自作品：`p:jujutsu kaisen`<br>日语：九十九 由基（つくも ゆき） | [萌娘百科](https://zh.moegirl.org.cn/九十九由基) |
-| riko amanai | <p>天内理子</p> | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/9/94/Riko_Amanai_%28Anime%29.png)<br>出自作品:`jujutsu kaisen` | <p><a href="[萌娘百科](https://zh.moegirl.org.cn/天内理子)">萌娘百科</a></p> |
+| riko amanai | 天内理子 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/9/94/Riko_Amanai_%28Anime%29.png)<br>出自作品:`jujutsu kaisen` | [萌娘百科](https://zh.moegirl.org.cn/天内理子) |
 | francesca prelati | 弗兰切斯卡·普勒拉蒂 | ![](https://static.wikia.nocookie.net/typemoon/images/6/6d/Francesca_Fate_strange_Fake_character_sheet.png)<br>所属作品：`fate strange fake`<br>日语：フランチェスカ・プレラーティ | [萌娘百科](https://zh.moegirl.org.cn/弗朗索瓦·普勒拉蒂) |
 | ayaka sajyou | 沙条绫香 | ![](https://static.wikia.nocookie.net/typemoon/images/1/12/Ayaka_Sajyou_Fate_strange_Fake_character_sheet.png)<br>所属作品：`fate strange fake`<br>日语：アヤカ・サジョウ | [百度百科](https://baike.baidu.com/item/沙条绫香/17870256) |
 | colphne | 寇尔芙 | `p:girls frontline`<br>少女前线2：追放 | [少前2 Wiki](https://gf2.mcc.wiki/doll/ColphneSR) |
