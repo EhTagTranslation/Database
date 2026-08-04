@@ -2945,6 +2945,7 @@ example:
 | the legend of the condor heroes | 射雕英雄传 |  |  |
 | maimai | maimai（マイマイ） | saga開發的街機音樂遊戲 |  |
 | ryoumin 0-nin start no henkyou ryoushu-sama | 从0位居民开始的边境领主大人 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a2/a1/571895_0KwUw.jpg)<br>作者：風楼 |  |
+| kyoto xanadu | 亰都幻都 -樱花幻舞- | ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4449410/fbec8c34ec2afd00064aa881c6e297861369e7b0/header_schinese.jpg?t=1784185157) | [Steam](https://store.steampowered.com/app/4449410/_/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
