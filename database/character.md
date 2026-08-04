@@ -9986,6 +9986,7 @@ example:
 | ardelia | 艾尔黛拉 | ![](https://endfield.wiki.gg/images/thumb/Ardelia_Splash_Art.png/1024px-Ardelia_Splash_Art.png?29fb7a)<br>出自作品:`arknights endfield` |  |
 | kako-hakase | 过去博士 |  | [https://www.japari-library.com/wiki/Kako](https://www.japari-library.com/wiki/Kako) |
 | rurui | 露露伊 | ![](https://static.wikia.nocookie.net/tokyo-xanadu/images/2/23/Rurui.png)<br>出自作品:`kyoto xanadu`<br>日语：ルルイ |  |
+| reina mito | 美都玲奈 | ![](https://static.wikia.nocookie.net/danball-senki/images/e/e1/DSW_Ep_Pic22.jpg)<br>出自作品:`danball senki` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
