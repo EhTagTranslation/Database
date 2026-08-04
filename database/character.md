@@ -3680,7 +3680,7 @@ example:
 | hanako urawa | 浦和花子 | ![](https://patchwiki.biligame.com/images/ba/7/73/tlelaxklkkbw7ivvddivcyr6frubcjl.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Hanako) |
 | koharu shimoe | 下江小春 | ![](https://patchwiki.biligame.com/images/ba/7/77/r01t8o0nxbi8746f0luejhy4knvot4b.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/下江小春)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Koharu) |
 | sheffy | 雪菲 | ![](https://static.wikia.nocookie.net/princess-connect/images/5/58/Shifuna_Agato.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/阿贺斗紫布菜) |
-| miko yotsuya | 四谷见子 |  |  |
+| miko yotsuya | 四谷见子 | ![](https://ehgt.org/w/02/506/67375-4td1b1hk.webp)<br>出自作品:`mieruko-chan` |  |
 | hana yurikawa | 百合川华 |  |  |
 | yuria niguredou | 二暮堂尤利娅 |  |  |
 | shenhe | 申鹤 | ![](https://patchwiki.biligame.com/images/ys/d/d6/agfqre7su7eybhk05hmuj5sk7l2v22p.gif)<br>所属作品:`p:genshin impact`<br>气质出尘的仙家子弟。隐修在璃月群山之间，个性也如仙人般淡漠疏离。 | [萌娘百科](https://zh.moegirl.org.cn/申鹤) |
