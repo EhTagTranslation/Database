@@ -15520,6 +15520,7 @@ example:
 | izumo | izu藻 |  |  |
 | ksk | ksk |  | [X](https://x.com/in_ksk) |
 | shiitake taishi | しいたけたいし |  |  |
+| saikura noushu | さいくら・のうしゅ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
