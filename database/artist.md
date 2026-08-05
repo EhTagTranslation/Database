@@ -13118,7 +13118,7 @@ example:
 | luicent | るいせんと |  | [X](https://x.com/llluicent)<br>[pixiv](https://www.pixiv.net/users/4742132) |
 | dnwls3010 | ふわり |  | [X](https://x.com/dnwls3010)<br>[pixiv](https://www.pixiv.net/users/9212166) |
 | rucaco | るかこ |  | [pixiv](https://www.pixiv.net/users/9155411)<br>[X](https://x.com/_rucaco_) |
-| kazesaki furea | 風咲ふれあ |  |  |
+| kazesaki furea | 風咲ふれあ |  | [pixiv](https://www.pixiv.net/users/6246853) \| [X](https://x.com/AlephtinaKF) \| [Misskey.io](https://misskey.io/@Flame_tsukushi) \| [Skeb](https://skeb.jp/@AlephtinaKF) |
 | teritama potekora | 照玉ぽてこら |  |  |
 | akabane aomori | 赤羽アオモリ |  |  |
 | yusano | ゆさの |  | [pixiv](https://www.pixiv.net/users/126858)<br>[X](https://x.com/yusano) |
