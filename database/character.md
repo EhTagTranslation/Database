@@ -2608,7 +2608,7 @@ example:
 | fujiko mine | 峰不二子 |  |  |
 | mirai andou | 安藤美雷 |  |  |
 | himea saito | 赛托希梅亚 |  |  |
-| fuu hououji | 凤凰寺风 | ![](https://static.wikia.nocookie.net/magicknightrayearth/images/c/c6/Fuu_ova.jpeg)<br>出自作品：`p:magic knight rayearth`<br><br>凤凰寺风是日本漫画《魔法骑士》及其衍生作品中的角色。 | [百度百科](https://baike.baidu.com/item/凤凰寺风/10305854) \| [Fandom](https://magicknightrayearth.fandom.com/wiki/Fuu_Hououji) |
+| fuu hououji | 凤凰寺风 | ![](https://static.wikia.nocookie.net/magicknightrayearth/images/c/c6/Fuu_ova.jpeg)<br>出自作品：`p:magic knight rayearth`<br><br>凤凰寺风(ほうおうじふう / Hououji Fuu)是日本漫画《魔法骑士》及其衍生作品中的角色。 | [百度百科](https://baike.baidu.com/item/凤凰寺风/10305854) \| [Fandom](https://magicknightrayearth.fandom.com/wiki/Fuu_Hououji) |
 | hikaru shindo | 进藤光 \| 狮堂光 |  |  |
 | umi ryuuzaki | 龙崎海 |  |  |
 | ai asato | 麻里爱 |  |  |
