@@ -2231,7 +2231,7 @@ example:
 | gusha suumitsuin | 愚者枢密院 |  |  |
 | kotsubuan | こつぶあん |  |  |
 | gokusaishiki | 极彩色 |  |  |
-| kirintei | 木铃亭 |  |  |
+| kirintei | 木铃亭 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG20386.html) \| [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=22424) |
 | kanyou shoujo | 观用少女 | 画师 `komota`所属同人社团 | [HP](https://lit.link/en/komota) |
 | ferallemma | フィラレマ |  |  |
 | bakayaro | ばかやろう |  |  |
