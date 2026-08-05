@@ -9639,7 +9639,7 @@ example:
 | razchoco | RazChoco |  |  |
 | rbooks | rbooks |  |  |
 | re clel | Re\_Clel |  |  |
-| re cre at tors | Re:Cre@tors |  |  |
+| re cre at tors | Re:Cre@tors |  | [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=7159) |
 | re set | Re:Set |  |  |
 | re-bidou | Re-BI堂 |  |  |
 | re-fire | リファイア |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=22616/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG05721.html) |
