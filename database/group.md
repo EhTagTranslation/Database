@@ -14126,6 +14126,7 @@ example:
 | piyuku no buta | ぴゆくのぶた |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG75246.html) |
 | aoyama koubou | 蒼山工房 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=231096/) |
 | yakiniku tabetei | 焼肉たべ亭 |  |  |
+| pudding o taberu ouma-san | プリンを食べるお馬さん |  | [DLsite](https://www.dlsite.com/girls/circle/profile/=/maker_id/RG01041810.html) \| [FANZA](https://lovecul.dmm.co.jp/tl/-/list/=/article=maker/id=224094/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
