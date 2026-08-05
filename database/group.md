@@ -3982,7 +3982,7 @@ example:
 | cow lipid | Cow Lipid |  |  |
 | cozybowl | cozybowl |  |  |
 | cpi | cpi |  |  |
-| craft | CRAFT |  |  |
+| craft | CRAFT |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG22074.html) \| [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=27678) |
 | craft-gear | CRAFT-GEAR |  |  |
 | craftworks | CraftWorks |  |  |
 | crank.in | クランク・イン |  |  |
