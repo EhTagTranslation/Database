@@ -9994,6 +9994,7 @@ example:
 | latticenail | 拉提斯内尔 | ![](https://static.wikia.nocookie.net/assassin-sutetasu-yuusha-akiraka-tsuyoi-nodaga/images/1/1c/Latticenail_Anime.png)<br>日语：ラティスネイル<br>出自作品:`ansatsusha de aru ore no status ga yuusha yori mo akiraka ni tsuyoi no da ga` |  |
 | dracaene sunbringer | 德蕾琪娜·挽昼 | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/2/2f/NPC_Dracaene_Sunbringer.png)<br>出自作品:`zenless zone zero` |  |
 | aki jougamine | 城峰亚希 | 出自作品:`yuusha no kuzu` |  |
+| bird kazami | 风见巴德 | ![](https://static.wikia.nocookie.net/beyblade/images/9/9b/Beyblade_X_-_Bird_Kazami_%28Remastered_Render%29.png)<br>日语：風見バード<br>出自作品:`beyblade` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
