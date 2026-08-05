@@ -2630,7 +2630,7 @@ example:
 | akaironomahou | あかいろのまほう |  |  |
 | akamiru | Akamiru |  |  |
 | akamuni. | あかむに。 |  |  |
-| akanagi | あかなぎ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG38854.html) |
+| akanagi | あかなぎ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG38854.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75772/) |
 | akane shuuhei dou | 茜しゅうへい堂 |  |  |
 | akaneko | 赤猫 |  |  |
 | akanoiki | 赤の域 |  |  |
