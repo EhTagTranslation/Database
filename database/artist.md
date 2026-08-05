@@ -1698,7 +1698,7 @@ example:
 | katzchen | Kätzchen |  | [pixiv](https://www.pixiv.net/users/10669991) |
 | kanden sky | 感电数寄 |  |  |
 | heiqing langjun | 黑青郎君 |  |  |
-| darkmaya | Darkmaya |  |  |
+| darkmaya | Darkmaya |  | [FANBOX](https://darkmaya.fanbox.cc/) \| [Gumroad](https://gumroad.com/darkmaya) \| [pixiv](https://www.pixiv.net/users/474346) \| [X](https://x.com/darkmaya6210) \| [Patreon](https://www.patreon.com/darkmaya) |
 | unini seven | うにに☆せぶん |  |  |
 | nekometaru | ねこめたる |  |  |
 | naoya | 直哉 |  |  |
