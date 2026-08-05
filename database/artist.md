@@ -5462,7 +5462,7 @@ example:
 | hairaito | 灰雷兎 |  |  |
 | haison | ハイソン |  |  |
 | haito mitori | 灰都みとり |  |  |
-| haitukun | Haitukun |  |  |
+| haitukun | Haitukun |  | [pixiv](https://www.pixiv.net/users/144806) \| [X](https://x.com/haitukun) |
 | haizaki mejiro | 灰崎めじろ |  |  |
 | haji | ﾊｼﾞ |  |  |
 | hajime | 創 |  |  |
