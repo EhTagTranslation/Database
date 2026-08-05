@@ -9996,6 +9996,7 @@ example:
 | aki jougamine | 城峰亚希 | 出自作品:`yuusha no kuzu` |  |
 | bird kazami | 风见巴德 | ![](https://static.wikia.nocookie.net/beyblade/images/9/9b/Beyblade_X_-_Bird_Kazami_%28Remastered_Render%29.png)<br>日语：風見バード<br>出自作品:`beyblade` |  |
 | meiko meiden | 冥殿芽衣子 | ![](https://static.wikia.nocookie.net/beyblade/images/c/c0/Beyblade_X_-_Meiko_Meiden.png)<br>日语：冥殿メイコ<br>出自作品:`beyblade` |  |
+| hinano miyako | 都雏乃 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
