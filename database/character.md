@@ -6454,7 +6454,7 @@ example:
 | yixuan | 仪玄 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/05/29/15559334/503f72b51a44b54278b85390a2e30fe0_4102207195254984498.png?x-oss-process=image/format,webp)<br>![](https://act-upload.mihoyo.com/nap-obc-indep/2025/05/29/15559334/95182f9652fa505d990b73e7d739e0f9_2814763721900853401.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/仪玄) |
 | alisaie leveilleur | 阿莉塞·莱韦耶勒尔 |  | [百度百科](https://baike.baidu.com/item/阿莉塞·莱韦耶勒尔/60480914) |
 | i-no | 茵诺 | ![](https://static.wikia.nocookie.net/guilty-gear/images/9/93/I-No_Guilty_Gear_Strive.png)<br>日语：イノ<br>所属作品：`guilty gear` |  |
-| hikaru shidou | 狮堂光 |  |  |
+| hikaru shidou | 狮堂光 | ![](https://static.wikia.nocookie.net/magicknightrayearth/images/e/e4/Hikaru_Shidou.png)<br>出自作品：`p:magic knight rayearth`<br><br>狮堂光(しどうひかる / Shidou Hikaru)是CLAMP漫画《魔法骑士》及其衍生作品中的女性角色 。 | [百度百科](https://baike.baidu.com/item/狮堂光) \| [Fandom](https://magicknightrayearth.fandom.com/wiki/Hikaru_Shidou) |
 | froleytia capistrano | 芙萝蕾缇雅·卡彼斯特拉诺 | ![](https://ehgt.org/w/01/476/66718-q48cpao1.webp)<br>出自作品：`p:heavy object`<br><br>“正统王国”第37机动修护大队所属少佐。 | [百度百科](https://baike.baidu.com/item/芙萝蕾缇雅·卡彼斯特拉诺/14901057) |
 | alicia | 艾莉西亚 | ![](https://static.wikia.nocookie.net/queensblade/images/3/32/Alicia_Profile_2.png)<br>所属作品：`queens blade` | [Fandom](https://queensblade.fandom.com/wiki/Alicia) |
 | anna respighi | 安娜‧雷斯比奇 |  |  |
