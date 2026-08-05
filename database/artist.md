@@ -459,7 +459,7 @@ example:
 | kino hitoshi | 鬼ノ仁 |  |  |
 | tam-u | Tam-U |  |  |
 | lunaluku | るなるく |  |  |
-| shiokonbu | しおこんぶ |  |  |
+| shiokonbu | しおこんぶ |  | [pixiv](https://www.pixiv.net/users/920720) \| [X](https://x.com/siokonbu_lam) \| [Bluesky](https://bsky.app/profile/siokonbu.bsky.social) \| [Misskey.io](https://misskey.io/@siokonbu) |
 | mon-mon | MON-MON |  |  |
 | kohoshi moe | 小星萌 |  |  |
 | kurumiko | 胡桃子 |  |  |
