@@ -5305,7 +5305,7 @@ example:
 | genjirou | 言示弄 |  |  |
 | genjuroh | 元十郎 |  |  |
 | genka ichien | 原価壱円 |  |  |
-| genki tarou | 元気太郎 |  |  |
+| genki tarou | 元気太郎 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22元気太郎%22/ana_flg/all) \| [pixiv](https://www.pixiv.net/users/353138) \| [FANBOX](https://genkitarou.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/505523) \| [X](https://x.com/grbrtarou) \| [Skeb](https://skeb.jp/@genkitarou) |
 | genkung | Genkung |  |  |
 | gennosuke | 源之助 |  |  |
 | genshi | GENSHI |  |  |
