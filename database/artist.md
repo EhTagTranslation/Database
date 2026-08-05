@@ -6829,7 +6829,7 @@ example:
 | kikusui | 菊水 |  |  |
 | kikuta kouji | 菊田高次 |  |  |
 | kilie | 切絵 |  |  |
-| kiliu | きぃう |  |  |
+| kiliu | きぃう |  | [pixiv](https://www.pixiv.net/users/243990) \| [X](https://x.com/kiliuu) \| [Skeb](https://skeb.jp/@kiliuu) \| [Lit.Link](https://lit.link/en/kiliu) |
 | killcy | きるし |  |  |
 | kim chii | KIMちー |  |  |
 | kima azusa | 鬼魔あづさ |  |  |
