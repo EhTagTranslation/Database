@@ -12807,7 +12807,7 @@ example:
 | poipoi ramen | ぽいぽいラーメン |  |  |
 | ore no sasakure | 俺のささくれ |  |  |
 | akasa seiheki kenkyuujo | 赤佐性癖研究所 |  |  |
-| aheazif | アヘアジフ |  |  |
+| aheazif | アヘアジフ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG51953.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201818/) |
 | temperature | テンプレチャー |  |  |
 | teriniku | テリにく |  |  |
 | sesame dou | せさみ堂 |  |  |
