@@ -3844,7 +3844,7 @@ example:
 | aikawa | 愛川 |  |  |
 | aikawa ruru | 藍川琉々 |  |  |
 | aikawa ryou | 相川りょう |  |  |
-| aikawa tatsuki | 相川たつき |  |  |
+| aikawa tatsuki | 相川たつき |  | [pixiv](https://www.pixiv.net/users/8183007) \| [X](https://x.com/ab_akanagi) |
 | aikura mahiru | 藍倉真昼 |  |  |
 | aikura shuuya | 藍倉秋夜 |  |  |
 | aikuri | あいくり |  |  |
