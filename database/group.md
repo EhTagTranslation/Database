@@ -14129,6 +14129,7 @@ example:
 | pudding o taberu ouma-san | プリンを食べるお馬さん |  | [DLsite](https://www.dlsite.com/girls/circle/profile/=/maker_id/RG01041810.html) \| [FANZA](https://lovecul.dmm.co.jp/tl/-/list/=/article=maker/id=224094/) |
 | yuunagi zakkaten | 夕凪雑貨店 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG17548.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27637/) |
 | nikujiru juukou | 肉汁重工 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53343.html) \| [Ci-en](https://ci-en.dlsite.com/creator/7891) \| [X](https://x.com/NIKUJIRU_JUUKOU) \| [pixiv](https://www.pixiv.net/users/10650307) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200932/) \| [Fantia](https://fantia.jp/fanclubs/85700) |
+| ogura souko | おぐらそうこ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01016434.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=211464/) \| [FANBOX](https://oguranosouko.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/100464697) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
