@@ -12891,7 +12891,7 @@ example:
 | meifu madou | めーふまどー |  |  |
 | nani kashira no shokushu | なにかしらの触手 |  |  |
 | satsuki no usa koya | サツキのウサ小屋 |  |  |
-| jikabi baisen | 直火焙煎 |  |  |
+| jikabi baisen | 直火焙煎 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG42731.html) \| [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=49126) |
 | junk food | じゃんくふぅど |  |  |
 | jiko moratorium | 自己モラトリアム |  |  |
 | buster app | ばすたーあっぷ |  |  |
