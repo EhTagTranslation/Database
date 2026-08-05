@@ -15525,6 +15525,7 @@ example:
 | gorani | Gorani |  | [pixiv](https://www.pixiv.net/users/70665145) |
 | kamua sasori | 守或蠍 |  | [pixiv](https://www.pixiv.net/users/4227554) \| [X](https://x.com/NCC92882_C) \| [FANBOX](https://kmakyssr.fanbox.cc/) \| [Skeb](https://skeb.jp/@NCC92882_C) \| [Bluesky](https://bsky.app/profile/kamuasasori.bsky.social) \| [Pawoo](https://pawoo.net/@kmakyssr93334) |
 | pobotto | ポボット |  |  |
+| shidaidaka | 次第高 |  | [pixiv](https://www.pixiv.net/users/14609613) \| [X](https://x.com/shidaidaka) |
 
 <!--TEMPLATE:
 |  |  |  |  |
