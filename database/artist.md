@@ -7650,7 +7650,7 @@ example:
 | marugoto ringo | まるごと林檎 |  |  |
 | maruhage p | 丸禿P |  |  |
 | marui | まるい |  |  |
-| marui ryuu | まるいりゅう |  |  |
+| marui ryuu | まるいりゅう |  | [Ci-en](https://ci-en.dlsite.com/creator/3017) \| [pixiv](https://www.pixiv.net/users/157999) \| [X](https://x.com/akanako_ryu) \| [Fantia](https://fantia.jp/akanako) |
 | marukidou | まるキ堂 |  |  |
 | marukome | まるこめ |  |  |
 | maruma | まるま |  |  |
