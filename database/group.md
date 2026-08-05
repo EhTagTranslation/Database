@@ -14132,6 +14132,7 @@ example:
 | ogura souko | おぐらそうこ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01016434.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=211464/) \| [FANBOX](https://oguranosouko.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/100464697) |
 | ningen miman | 人間未満 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01024602.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=218968/) |
 | dark chocolat | Dark Chocolat |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=209298/) \| [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=44652) |
+| ero doukoukai | エロ同好会 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53759.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202634/) \| [Ci-en](https://ci-en.dlsite.com/creator/15202) \| [FANBOX](https://ero-doukoukai.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/553946) \| [X](https://x.com/erodoukoukai) \| [pixiv](https://www.pixiv.net/users/26140480) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
