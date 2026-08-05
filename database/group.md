@@ -12509,7 +12509,7 @@ example:
 | mt.sushi | Mt.Sushi |  |  |
 | milk lamp | ミルクランプ |  |  |
 | germanium detroit | ゲルマニウム・デトロイト |  |  |
-| suiren no yado | 水莲之宿 | `asakawa`的同人社团 |  |
+| suiren no yado | 水莲之宿 | 日语: 水蓮の宿<br>`asakawa`的同人社团 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203509/) \| [FANZA](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG61804.html) |
 | tariki honganji | 他力本愿寺 |  |  |
 | ebisujima misato | 戎島実里 |  | [X](https://x.com/misat_eb) |
 | jikahatsudensho | 自家发电处 | 日语: 自家発電処 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79705/) |
