@@ -2558,7 +2558,7 @@ example:
 | ai no senshi mimikaki | 愛の戦士みみかき |  |  |
 | ai no sunatokei | 藍の砂時計 |  |  |
 | ai urara | あいうらら |  |  |
-| ai wa kurayami | 愛は暗闇 |  |  |
+| ai wa kurayami | 愛は暗闇 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01893.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=20028/) |
 | ai-chan no ozashiki | あいちゃんのお座敷 |  |  |
 | aiai | あいあい |  |  |
 | aiaigasa | あいあい傘 |  |  |
