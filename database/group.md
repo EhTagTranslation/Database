@@ -1898,7 +1898,7 @@ example:
 | sanshikisumire | さんしきすみれ |  |  |
 | beruennea | ベルエンネーア |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG20140.html) |
 | orange tile | オレンジタイル |  |  |
-| laminaria | LAMINARIA |  |  |
+| laminaria | LAMINARIA |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74251/) |
 | nanbou hitogakushiki | 南方ヒトガクシキ |  |  |
 | narumiya | 成宮 |  |  |
 | circle-fiore | サークルフィオレ |  |  |
