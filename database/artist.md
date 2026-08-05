@@ -5334,7 +5334,7 @@ example:
 | gino | Gino |  |  |
 | ginseiou | 銀星王 |  |  |
 | ginta | ぎん太 |  |  |
-| ginto | 吟人 |  |  |
+| ginto | 吟人 | 銀兎 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG33189.html) \| [pixiv](https://www.pixiv.net/users/18369721) |
 | ginzake | ギンザケ |  |  |
 | giro chinko-chan | ギロ・チン子ちゃん |  |  |
 | gisyo | gisyo |  |  |
