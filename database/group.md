@@ -2378,7 +2378,7 @@ example:
 | 2p-color | 2P-Color |  |  |
 | 2stroke | 2ストローク |  |  |
 | 2tailqueen | 2tail Queen |  |  |
-| 2vs | 2vs |  |  |
+| 2vs | 2vs |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG18875.html) \| [Ci-en](https://ci-en.dlsite.com/creator/23052) \| [Patreon](https://www.patreon.com/2VS) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28411/) |
 | 2zigen | 2ZIGEN |  |  |
 | 3 colors cat | 3 colors cat |  |  |
 | 3 colors corona | 3色コロナ |  |  |
