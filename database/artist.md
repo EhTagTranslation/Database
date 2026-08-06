@@ -15531,6 +15531,7 @@ example:
 | sukezou | すけぞう |  |  |
 | tatejima kita | 縦縞キタ |  | [X](https://x.com/yokosimaq)<br>[FANBOX](https://krvu6tvq.fanbox.cc/)<br>[pixiv](https://www.pixiv.net/users/1421746) |
 | nakakazu | ナカカズ |  | [X](https://x.com/nakakazu_2001) |
+| pulpawoelbo | pulpawoelbo |  | [pixiv](https://www.pixiv.net/users/62666379) \| [FANBOX](https://pulpawoelbo.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
