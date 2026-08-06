@@ -10006,6 +10006,7 @@ example:
 | hitch dreyse | 希琪·朵丽丝 | ![](https://static.wikia.nocookie.net/shingekinokyojin/images/8/84/Hitch_Dreyse_%28Anime%29_character_image_%28850%29.png)<br>日语：ヒッチ・ドリス<br>出自作品:`shingeki no kyojin` |  |
 | marlo freudenberg | 马尔洛·桑德 | ![](https://lain.bgm.tv/r/400/pic/crt/l/87/77/28280_crt_6D46G.jpg)<br>日语：マルロ・フロイデンベルク<br>出自作品:`shingeki no kyojin` |  |
 | kaede agatsuma | 吾妻枫 | ![](https://static.wikia.nocookie.net/alicegearaegis/images/7/74/Kaede_upper.png)<br>出自作品:`alice gear aegis` |  |
+| ume matsuzaka | 松坂梅 | ![](https://static.wikia.nocookie.net/crayonshinchan/images/d/df/0c0b63e16e2fe4cb51678c0809c128de.png/revision/latest?cb=20260527192434)<br>所属作品:`crayon shin-chan` | [百度百科](https://baike.baidu.com/item/松坂梅/9345909) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
