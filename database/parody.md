@@ -2948,6 +2948,7 @@ example:
 | kyoto xanadu | 京都幻都 -樱花幻舞- | ![](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4449410/fbec8c34ec2afd00064aa881c6e297861369e7b0/header_schinese.jpg?t=1784185157) | [Steam](https://store.steampowered.com/app/4449410/_/) |
 | harukoi otome | 春恋×少女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/33/69/109766_8A58T.jpg) |  |
 | yuusha no kuzu | 勇者之渣 |  |  |
+| ts mahou shoujo nao | TS魔法少女闪 | ![](https://t.vndb.org/cv/32/20532.jpg)<br>日语：TS魔法少女なお! | [VNDB](https://vndb.org/v15223) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
