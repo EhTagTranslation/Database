@@ -4985,7 +4985,7 @@ example:
 | sera | 塞拉 | 游戏王系列的20周年动画电影《游戏王：THE DARK SIDE OF DIMENSIONS》及其衍生作品中的角色。带着某个目的在蓝神身边的少女，她的样子虽然还稚气未脱。与游戏他们有着什么关联。 |  |
 | chloe | 克洛伊 \| 小春 \| 库洛尔 | ①所属作品：`granblue fantasy`<br>库洛尔<br>![](https://huiji-public.huijistatic.com/gbf/uploads/0/08/Zoom_3040530000_01.png)<br><br>②所属作品：`kuroinu kedakaki seijo wa hakudaku ni somaru`<br>克洛伊<br>![](https://static.wikia.nocookie.net/legendsofthemultiuniverse/images/f/f2/Chloe.png)<br><br>③小春<br>日本动画《宝可梦：旅途》中登场的主要女主角。 | [萌娘百科](https://zh.moegirl.org.cn/克洛伊%28黑兽%29#) |
 | stella vermillion | 史黛菈·法米利昂 | ![](https://i.pixiv.cat/img-master/img/2025/08/04/10/23/27/133473657_p0_master1200.jpg)<br>轻小说《落第骑士英雄谭》及其改编、衍生作品的女主角。男主角<br>黑铁一辉的女朋友。是跨海前来追求强敌的、欧洲小国——法米利昂皇国的第二公主。15岁，性格活泼，举止稍嫌粗野，食量惊人。 |  |
-| ikki kurogane | 黑铁一辉 | 轻小说《落第骑士英雄谭》的改编及其衍生作品的男主角。剑术实力极端优异，但却极度缺乏魔法才华，成绩低劣，被戏称为“落第骑士”。<br>因误会与A级骑士史黛菈·法米利昂战斗并获胜，重新以“无冕剑王”的身份开始争夺魔法骑士的顶点：击败学园最强“雷切”、与世界最强剑士“比翼”交手并生还、击败上届“七星剑王”。 |  |
+| ikki kurogane | 黑铁一辉 | ![](https://static.wikia.nocookie.net/rakudai-kishi-no-eiyuutan/images/2/25/Ikki_Kurogane_Render.png)<br>出自作品:`rakudai kishi no cavalry` |  |
 | bort | 圆粒金刚石 | 漫画家市川春子创作的《宝石之国》漫画及其改编动画中的女角色。<br>硬度：10<br>韧性：特级<br>拥有最高级别的硬度与韧性，实力仅次于金刚老师的强者。<br>战斗狂人，对除了战斗以外的事情毫无兴趣。 |  |
 | cinnabar | 辰砂 | 漫画家市川春子创作的《宝石之国》漫画及其改编动画中的女角色。<br>硬度：2<br>拥有能够从体内无穷尽地流出银色毒液的特殊体质。实力强大，聪慧谨慎。<br>由于其特殊的能力，为了不伤害到其他宝石人而刻意与它们保持距离，独自一人在月人不会造访的夜里巡逻。 |  |
 | phosphophyllite | 磷叶石 | 漫画家市川春子创作的《宝石之国》漫画及其改编动画中的女主角。<br>硬度：3.5<br>韧性：最下级<br>年龄：300岁<br>宝石人中最年轻的成员。脆弱易碎，韧性极低，被认为不适合战斗，加上做事笨拙一直找不到合适的工作。在即将满三百岁时终于获得了一份编纂博物志的工作。 |  |
