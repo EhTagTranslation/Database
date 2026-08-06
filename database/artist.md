@@ -15529,6 +15529,7 @@ example:
 | sizuku | 乙桜しずく |  | [pixiv](https://www.pixiv.net/users/29813435) \| [X](https://x.com/rcos0) \| [FANBOX](https://rcos0.fanbox.cc/) |
 | heijitu | 平日 |  | [pixiv](https://www.pixiv.net/users/52724852) \| [Fantia](https://fantia.jp/fanclubs/103015) |
 | sukezou | すけぞう |  |  |
+| tatejima kita | 縦縞キタ |  | [X](https://x.com/yokosimaq)<br>[FANBOX](https://krvu6tvq.fanbox.cc/)<br>[pixiv](https://www.pixiv.net/users/1421746) |
 
 <!--TEMPLATE:
 |  |  |  |  |
