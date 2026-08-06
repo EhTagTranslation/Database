@@ -9434,7 +9434,7 @@ example:
 | remora | remora |  |  |
 | remu | れむ |  |  |
 | ren mizuha | 蓮みづは |  |  |
-| ren suru | れんする |  |  |
+| ren suru | れんする |  | [FANBOX](https://ikg92.fanbox.cc/) \| [X](https://x.com/9AH4iZDR4ZX4x4u) \| [pixiv](https://www.pixiv.net/users/8804243) |
 | rena | れな |  |  |
 | renge | れんげ |  |  |
 | rentaichou | 连队长 |  |  |
