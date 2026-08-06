@@ -15528,6 +15528,7 @@ example:
 | shidaidaka | 次第高 |  | [pixiv](https://www.pixiv.net/users/14609613) \| [X](https://x.com/shidaidaka) |
 | sizuku | 乙桜しずく |  | [pixiv](https://www.pixiv.net/users/29813435) \| [X](https://x.com/rcos0) \| [FANBOX](https://rcos0.fanbox.cc/) |
 | heijitu | 平日 |  | [pixiv](https://www.pixiv.net/users/52724852) \| [Fantia](https://fantia.jp/fanclubs/103015) |
+| sukezou | すけぞう |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
