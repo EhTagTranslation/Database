@@ -5295,7 +5295,7 @@ example:
 | maud pie | 石灰派 |  |  |
 | nurse redheart | 红心护士 |  |  |
 | pear butter | 金梨果酱 |  |  |
-| toriel | 托丽尔 |  |  |
+| toriel | 托丽尔 | 出自作品:`undertale` |  |
 | frisk | 福 |  |  |
 | lana loud | 拉娜·劳德 |  |  |
 | leni loud | 兰妮·劳德 |  |  |
