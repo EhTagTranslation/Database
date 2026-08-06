@@ -1276,7 +1276,7 @@ example:
 | toadstool factory | 有害蕈类集会所 |  |  |
 | elane workshop | エルアネ工房 |  |  |
 | fukuroutei | 福笼亭 |  |  |
-| zvizva-dan | ズビズバ団 |  |  |
+| zvizva-dan | ズビズバ団 |  | [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=12842) |
 | uruujima | うるう島 |  |  |
 | chilled house | CHILLED HOUSE |  |  |
 | jack to nicholson | ジャックとニコルソン |  |  |
