@@ -10002,6 +10002,7 @@ example:
 | anan kurose | 阿南·库罗斯 | ![](https://static.wikia.nocookie.net/bokunoheroacademia/images/0/04/Anan_Kurose_Profile.png)<br>出自作品:`my hero academia` |  |
 | harusame urame | 春雨麗女 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/f/f3/Harusame_Urame_Aogiri_icon.png)<br>日语：うらめちゃんねる<br>所属团体：青桐高校 | [YouTube](https://www.youtube.com/@urame0711) |
 | tane tenshi | 塔涅天使 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/e/e6/TaneTenshi-Top.png) | [YouTube](https://www.youtube.com/c/TaneTenshi) |
+| amir | 艾米尔 | ![](https://patchwiki.biligame.com/images/czn/8/89/n2elvd2iscddg4mw5syjme03okkqd47.png)<br>出自作品:`chaos zero nightmare` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
