@@ -10004,6 +10004,7 @@ example:
 | tane tenshi | 塔涅天使 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/e/e6/TaneTenshi-Top.png) | [YouTube](https://www.youtube.com/c/TaneTenshi) |
 | amir | 艾米尔 | ![](https://patchwiki.biligame.com/images/czn/8/89/n2elvd2iscddg4mw5syjme03okkqd47.png)<br>出自作品:`chaos zero nightmare` |  |
 | hitch dreyse | 希琪·朵丽丝 | ![](https://static.wikia.nocookie.net/shingekinokyojin/images/8/84/Hitch_Dreyse_%28Anime%29_character_image_%28850%29.png)<br>日语：ヒッチ・ドリス<br>出自作品:`shingeki no kyojin` |  |
+| marlo freudenberg | 马尔洛·桑德 | ![](https://lain.bgm.tv/r/400/pic/crt/l/87/77/28280_crt_6D46G.jpg)<br>日语：マルロ・フロイデンベルク<br>出自作品:`shingeki no kyojin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
