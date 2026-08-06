@@ -5296,7 +5296,7 @@ example:
 | nurse redheart | 红心护士 |  |  |
 | pear butter | 金梨果酱 |  |  |
 | toriel | 托丽尔 | 出自作品:`undertale` |  |
-| frisk | 福 |  |  |
+| frisk | 弗里斯克 | 出自作品:`undertale` |  |
 | lana loud | 拉娜·劳德 |  |  |
 | leni loud | 兰妮·劳德 |  |  |
 | lincoln loud | 林肯·劳德 |  |  |
