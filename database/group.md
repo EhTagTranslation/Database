@@ -5964,7 +5964,7 @@ example:
 | ikemen teikoku | イケメン帝国 |  | [pixiv](https://www.pixiv.net/users/1162167) |
 | ikennabi | イケンナビ |  |  |
 | ikibata 49ers | いきばた49ERS |  |  |
-| ikigire shoukai | いきぎれ商会 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG28880.html) |
+| ikigire shoukai | いきぎれ商会 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG28880.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71210/) |
 | ikihaji hummingbird | 生き恥ハミングバード |  |  |
 | ikite-chou-made-todoku | 生きて腸まで届く |  |  |
 | ikka risan | 一家離散 |  |  |
