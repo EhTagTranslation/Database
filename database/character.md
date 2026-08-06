@@ -9998,6 +9998,7 @@ example:
 | meiko meiden | 冥殿芽衣子 | ![](https://static.wikia.nocookie.net/beyblade/images/c/c0/Beyblade_X_-_Meiko_Meiden.png)<br>日语：冥殿メイコ<br>出自作品:`beyblade` |  |
 | hinano miyako | 都雏乃 |  |  |
 | mikumo kushinada | 栉滩美云 | ![](https://static.wikia.nocookie.net/kenichi/images/c/c7/Mikumo_Kushinada_color.jpg/revision/latest/scale-to-width-down/268?cb=20260423023321)<br>出自作品：`p:historys strongest disciple kenichi`<br><br>栉滩美云(櫛灘 美雲 / くしなだ みくも / Kushinada Mikumo)，是日本漫画《史上最强弟子兼一》及其衍生作品中的角色。 | [百度百科](https://baike.baidu.com/item/栉滩美云/9553407) \| [Fandom](https://kenichi.fandom.com/wiki/Mikumo_Kushinada) |
+| temmie | 提米 | 出自作品:`undertale` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
