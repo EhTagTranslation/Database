@@ -9033,7 +9033,7 @@ example:
 | oniben katze | 鬼遍かっつぇ | 同人社团`mauve`主笔画师<br><br>![works](https://pbs.twimg.com/media/FbZk87yVUAEaEB5?format=jpg&name=large) | [X](https://x.com/katze_oni) [pixiv](https://www.pixiv.net/users/15843119) |
 | oniku | お肉 |  |  |
 | oniku. | お肉。 |  |  |
-| onineko | 鬼猫（おにねこ） |  |  |
+| onineko | 鬼猫 | おにねこ | [pixiv](https://www.pixiv.net/users/3952) \| [X](https://x.com/onineko26) |
 | onita | 歐尼鬼 |  |  |
 | oniyama | 鬼山 |  | [pixiv](https://www.pixiv.net/users/2624258) |
 | oniyuri | オニユリ |  |  |
