@@ -10012,6 +10012,7 @@ example:
 | stainless | 白铁 | ![](https://static.wikia.nocookie.net/mrfz/images/b/b7/Stainless.png)<br>出自作品:`arknights` |  |
 | charmcaster | 邪咒魔女 | ![](https://static.wikia.nocookie.net/ben10/images/5/53/Charmcaster_Omniverse_Full.png)<br>出自作品:`ben 10` |  |
 | lucy mann | 露西·曼 | ![](https://static.wikia.nocookie.net/ben10/images/5/51/Omniverse_Lucy.png)<br>出自作品:`ben 10` |  |
+| kai green | 凯伊·格林 | ![](https://static.wikia.nocookie.net/ben10/images/b/bd/Kai_green_render.png)<br>出自作品:`ben 10` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
