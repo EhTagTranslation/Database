@@ -15537,6 +15537,7 @@ example:
 | shurinpu | 酒りんぷ |  |  |
 | totoko | 虎兎子 |  |  |
 | shiromina tarou | しろみなたろう |  |  |
+| hapirorina | はぴろり菜 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
