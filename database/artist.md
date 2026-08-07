@@ -15540,7 +15540,7 @@ example:
 | hapirorina | はぴろり菜 |  |  |
 | so-ryu | 惣流 |  | [pixiv](https://www.pixiv.net/users/719795) \| [X](https://x.com/soryuura) \| [Ci-en](https://ci-en.dlsite.com/creator/4149) \| [Fantia](https://fantia.jp/fanclubs/5462) \| [FANBOX](https://so-ryu.fanbox.cc/) |
 | reankh | りーあんく | Re:ankh | [pixiv](https://www.pixiv.net/users/68118265) \| [FANBOX](https://re-ankh.fanbox.cc/) \| [X](https://x.com/reankh2) \| [Bluesky](https://bsky.app/profile/reankh.bsky.social) \| [Lit.Link](https://lit.link/en/reankh_lit) |
-| ohba kagerou | 大场阳炎（大場陽炎） |  |  |
+| ohba kagerou | 大场阳炎 | 大場陽炎 |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
