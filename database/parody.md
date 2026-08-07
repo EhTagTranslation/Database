@@ -2952,7 +2952,7 @@ example:
 | bad thinking diary | 坏想法日记 |  |  |
 | ji pin jia ding | 极品家丁 |  |  |
 | rakudai kenja no gakuin musou | 落第贤者的学院无双 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fd/f7/630163_y1Ql1.jpg)<br>全名：《落第贤者的学院无双～第二次转生的S级开外挂魔术师冒险录～》 |  |
-| fortissimo | フォルテシモ（fortissimo） |  |  |
+| fortissimo | Fortissimo | 日文: フォルテシモ<br>《Fortissimo》是由日本开发商La’cryma制作的AVG/ADV系列游戏，2012年6月29日由神夜优、青叶大、johnny、友野健人共同开发推出，原版名称为《fortissimo EXS》。 | [百度百科](https://baike.baidu.com/item/Fortissimo/4801718) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
