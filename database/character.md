@@ -10020,6 +10020,7 @@ example:
 | yu-na kang | 姜尤娜 | ![](https://static.wikia.nocookie.net/lgbt-characters/images/b/bf/Kang_Yu-na.jpg)<br>出自作品:`bad thinking diary` |  |
 | sanghyeon kim | 金上泫（韩曜怡） | ![](https://s3.amazonaws.com/comicgeeks/characters/avatars/146542.jpg?t=1779212907)<br>出自作品:`whos that girl` |  |
 | yuruo xiao | 萧玉若 | 所属作品：`ji pin jia ding` |  |
+| qiaoqiao dong | 董巧巧 | 所属作品：`ji pin jia ding` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
