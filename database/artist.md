@@ -15536,6 +15536,7 @@ example:
 | tazune | たづね |  | [FANBOX](https://spacetazune.fanbox.cc/) \| [DLsite](https://ci-en.dlsite.com/creator/32767) \| [pixiv](https://www.pixiv.net/users/87224152) \| [X](https://x.com/_tazune_ero) \| [Skeb](https://skeb.jp/@_tazune_ero) |
 | shurinpu | 酒りんぷ |  |  |
 | totoko | 虎兎子 |  |  |
+| shiromina tarou | しろみなたろう |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
