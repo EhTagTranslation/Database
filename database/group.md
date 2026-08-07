@@ -12583,7 +12583,7 @@ example:
 | akirerushoujo | アキレルショウジョ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76962/) |
 | fuzume | ふずめ |  | [pixiv](https://www.pixiv.net/users/62756888) |
 | hitakamoya | ひたかもや |  |  |
-| kasokuiki | 过疏区域（過疎区域） |  | [X](https://x.com/in_ksk) |
+| kasokuiki | 过疏区域 | 過疎区域 | [X](https://x.com/in_ksk) |
 | khaos distance | カオス距離 |  |  |
 | tohosanhun | 徒步三分 | 茶户老师的R18用马甲 | [X](https://x.com/tohosanhun)<br>[X](https://x.com/tohoni) （本体） |
 | morunchi | モルチ |  |  |
