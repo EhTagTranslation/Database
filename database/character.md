@@ -10021,6 +10021,7 @@ example:
 | sanghyeon kim | 金上泫（韩曜怡） | ![](https://s3.amazonaws.com/comicgeeks/characters/avatars/146542.jpg?t=1779212907)<br>出自作品:`whos that girl` |  |
 | yuruo xiao | 萧玉若 | 所属作品：`ji pin jia ding` |  |
 | qiaoqiao dong | 董巧巧 | 所属作品：`ji pin jia ding` |  |
+| yushuang xiao | 萧玉霜 | 所属作品：`ji pin jia ding` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
