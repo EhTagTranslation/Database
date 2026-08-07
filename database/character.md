@@ -5200,7 +5200,7 @@ example:
 | rurino osawa | 大泽瑠璃乃 | ![大泽瑠璃乃](https://img.moegirl.org.cn/common/thumb/2/28/Rurino_img1.png/280px-Rurino_img1.png)<br>大泽瑠璃乃（日语：大沢 瑠璃乃，罗马字：Osawa Rurino）是企划《`love live hasunosora jogakuin school idol club`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/大泽瑠璃乃) [Fandom](https://love-live.fandom.com/wiki/Rurino_Osawa) |
 | giselle gewelle | 吉赛尔·茱艾尔 | ![](https://lain.bgm.tv/r/400/pic/crt/l/54/7b/119775_crt_J5sr0.jpg?r=1695494858)<br>日语：ジゼル・ジュエル<br>出自作品：`p:bleach` | [萌娘百科](https://zh.moegirl.org.cn/吉赛尔·茱艾尔) \| [Fandom](https://bleach.fandom.com/wiki/Giselle_Gewelle) |
 | jun sazanami | 涟纯 |  | [萌娘百科](https://zh.moegirl.org.cn/涟纯) |
-| ben tennyson | 田小班 | 田小班（Benjamin Kirby "Ben" Tennyson/本杰明·柯比·“本”·田尼森）是Cartoon Network Studios旗下作品《`p:ben 10`》里的角色。 | [萌娘百科](https://zh.moegirl.org.cn/田小班) |
+| ben tennyson | 田小班 | ![](https://static.wikia.nocookie.net/ben10/images/a/af/Ben_Season_4_Pose.png)<br>出自作品:`ben 10` | [萌娘百科](https://zh.moegirl.org.cn/田小班) |
 | gwen tennyson | 田小玟 | ![](https://static.wikia.nocookie.net/ben10/images/9/99/Gwen_Tennyson_%28Classic%29_Original_Series_Pose_1.png)<br>出自作品:`ben 10`<br>全名：Gwendolyn "Gwen" Tennyson/格玟多琳·“格玟”·田纳森 | [萌娘百科](https://zh.moegirl.org.cn/田小玟) |
 | virtuosa | 塑心（阿尔图罗） | ![](https://patchwiki.biligame.com/images/arknights/8/84/0d8wrsqd1gwcvxfwzu8861yh6dfm0jd.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/塑心) |
 | viviana droste | 薇薇安娜·德罗斯特 | ![](https://patchwiki.biligame.com/images/arknights/0/0c/pevwosc6z149eejmvq4a38uue7m7mau.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/薇薇安娜) |
