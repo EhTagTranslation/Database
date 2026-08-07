@@ -1430,7 +1430,7 @@ example:
 | hakueki shobou | 白液书房 |  |  |
 | iromiiro | いろみいろ |  |  |
 | uroboros | UROBOROS |  |  |
-| marked-two | Marked-two |  |  |
+| marked-two | Marked-two |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76060/) |
 | surume no oka | するめの丘 |  |  |
 | moezilla-gumi | もえじら組 |  |  |
 | hisagoya | 瓢屋 |  |  |
