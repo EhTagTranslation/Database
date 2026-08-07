@@ -10009,6 +10009,7 @@ example:
 | ume matsuzaka | 松坂梅 | ![](https://static.wikia.nocookie.net/crayonshinchan/images/d/df/0c0b63e16e2fe4cb51678c0809c128de.png/revision/latest?cb=20260527192434)<br>所属作品:`crayon shin-chan` | [百度百科](https://baike.baidu.com/item/松坂梅/9345909) |
 | miria saeki | 佐伯米莉亚 | ![](https://patchwiki.biligame.com/images/manosaba/thumb/9/97/mopt3op4ywv9w75skvoieukwjbmlm7a.png/300px-佐伯米莉亚.png)<br>所属作品:`mahou shoujo no majo saiban` | [BILIGAME WIKI](https://wiki.biligame.com/manosaba/佐伯米莉亚)<br>[萌娘百科](https://zh.moegirl.org.cn/佐伯米莉亚) |
 | yuki tsukishiro | 月代雪（月代ユキ） | 大魔女大人<br>![](https://patchwiki.biligame.com/images/manosaba/thumb/6/62/5pq10818i92osbwb0lf22akw96nw943.png/300px-月代雪.png)<br>所属作品:`mahou shoujo no majo saiban` | [BILIGAME WIKI](https://wiki.biligame.com/manosaba/月代雪)<br>[萌娘百科](https://zh.moegirl.org.cn/月代雪) |
+| stainless | 白铁 | ![](https://static.wikia.nocookie.net/mrfz/images/b/b7/Stainless.png)<br>出自作品:`arknights` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
