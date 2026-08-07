@@ -15538,6 +15538,7 @@ example:
 | totoko | 虎兎子 |  |  |
 | shiromina tarou | しろみなたろう |  |  |
 | hapirorina | はぴろり菜 |  |  |
+| so-ryu | 惣流 |  | [pixiv](https://www.pixiv.net/users/719795) \| [X](https://x.com/soryuura) \| [Ci-en](https://ci-en.dlsite.com/creator/4149) \| [Fantia](https://fantia.jp/fanclubs/5462) \| [FANBOX](https://so-ryu.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
