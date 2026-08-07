@@ -10027,6 +10027,7 @@ example:
 | qingxuan xiao | 肖青璇 | 所属作品：`ji pin jia ding` |  |
 | yuxi ning | 宁雨昔 | 所属作品：`ji pin jia ding` |  |
 | ilya | 伊莉亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/53/41/213349_crt_yy1A4.jpg)<br>日语：イリア<br>出自作品:`rakudai kenja no gakuin musou` |  |
+| osage-chan | 小辫子酱 | ![](https://ehgt.org/w/02/220/87098-fhos6gam.webp)<br>日语：おさげちゃん<br>所用音源:`vocaloid` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
