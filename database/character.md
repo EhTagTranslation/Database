@@ -10011,6 +10011,7 @@ example:
 | yuki tsukishiro | 月代雪（月代ユキ） | 大魔女大人<br>![](https://patchwiki.biligame.com/images/manosaba/thumb/6/62/5pq10818i92osbwb0lf22akw96nw943.png/300px-月代雪.png)<br>所属作品:`mahou shoujo no majo saiban` | [BILIGAME WIKI](https://wiki.biligame.com/manosaba/月代雪)<br>[萌娘百科](https://zh.moegirl.org.cn/月代雪) |
 | stainless | 白铁 | ![](https://static.wikia.nocookie.net/mrfz/images/b/b7/Stainless.png)<br>出自作品:`arknights` |  |
 | charmcaster | 邪咒魔女 | ![](https://static.wikia.nocookie.net/ben10/images/5/53/Charmcaster_Omniverse_Full.png)<br>出自作品:`ben 10` |  |
+| lucy mann | 露西·曼 | ![](https://static.wikia.nocookie.net/ben10/images/5/51/Omniverse_Lucy.png)<br>出自作品:`ben 10` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
