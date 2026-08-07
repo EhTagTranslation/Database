@@ -10014,6 +10014,7 @@ example:
 | lucy mann | 露西·曼 | ![](https://static.wikia.nocookie.net/ben10/images/5/51/Omniverse_Lucy.png)<br>出自作品:`ben 10` |  |
 | kai green | 凯伊·格林 | ![](https://static.wikia.nocookie.net/ben10/images/b/bd/Kai_green_render.png)<br>出自作品:`ben 10` |  |
 | soridormi | 索莉多米 | 出自作品:`world of warcraft` |  |
+| chizome akaguro | 赤黑血染‌（斯坦因） | ![](https://static.wikia.nocookie.net/bokunoheroacademia/images/c/c2/Stain_New_Costume_%28Anime%29.png)<br>出自作品:`my hero academia` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
