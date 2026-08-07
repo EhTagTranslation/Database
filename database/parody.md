@@ -2949,6 +2949,7 @@ example:
 | harukoi otome | 春恋×少女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/33/69/109766_8A58T.jpg) |  |
 | yuusha no kuzu | 勇者之渣 |  |  |
 | ts mahou shoujo nao | TS魔法少女闪 | ![](https://t.vndb.org/cv/32/20532.jpg)<br>日语：TS魔法少女なお! | [VNDB](https://vndb.org/v15223) |
+| bad thinking diary | 坏想法日记 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
