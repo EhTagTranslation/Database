@@ -10018,6 +10018,7 @@ example:
 | elda ballad | 艾尔达·巴尔德 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/d/dd/Elda_Ballad.png)<br>出自作品:`youkoso sukebe elf no mori e` |  |
 | alleria windrunner | 奥蕾莉亚·风行者 | ![](https://warcraft.wiki.gg/images/thumb/AlleriaWindrunner-TWW.png/200px-AlleriaWindrunner-TWW.png?4a5b76)<br>出自作品:`world of warcraft` |  |
 | yu-na kang | 姜尤娜 | ![](https://static.wikia.nocookie.net/lgbt-characters/images/b/bf/Kang_Yu-na.jpg)<br>出自作品:`bad thinking diary` |  |
+| sanghyeon kim | 金上泫 | ![](https://s3.amazonaws.com/comicgeeks/characters/avatars/146542.jpg?t=1779212907)<br>出自作品:`whos that girl` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
