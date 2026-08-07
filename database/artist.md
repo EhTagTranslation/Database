@@ -12322,7 +12322,7 @@ example:
 | hotate-chan | ほたてちゃん |  | [FANBOX](https://hotate0731.fanbox.cc/) |
 | akai same | かふぇいん中毒 |  | [pixiv](https://www.pixiv.net/users/96636899) [X](https://x.com/caffeine_0128) |
 | takano tomohiro | 高野友宏 | ![X](https://pbs.twimg.com/profile_images/1309454618124931072/sbDuTssb_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`jyuu sensya usagitai`主笔画师 | [X](https://x.com/21karaagebo) [pixiv](https://www.pixiv.net/users/23606858) |
-| ameno shigure | 雨野时雨 | ![X](https://pbs.twimg.com/profile_images/1608795805615542272/uQyEpixr_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/ame_shlv) |
+| ameno shigure | 雨野时雨 | ![X](https://pbs.twimg.com/profile_images/1608795805615542272/uQyEpixr_400x400.jpg)<br><br>**作者推特头像**<br>雨野しぐれ | [X](https://x.com/ame_shlv) |
 | ushi kousen | 牛工船 | ![X](https://pbs.twimg.com/profile_images/1468739892234448896/8YcNARy3_400x400.jpg)<br><br>**作者推特头像**<br><br>杂志《comic Anthurium》作者 | [X](https://x.com/kaninankotsu) [pixiv](https://www.pixiv.net/users/3048089) |
 | eroi-roe | エロ井ロエ | ![X](https://pbs.twimg.com/profile_images/1494340820471668736/W4JMnGLc_400x400.jpg)<br><br>**作者推特头像**<br><br>杂志《异世快乐天》作者 | [X](https://x.com/eroiroe) |
 | camekirin | かめきりん | ![X](https://pbs.twimg.com/profile_images/1617087012343009280/OsoaCymY_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/camekirin) |
