@@ -10017,6 +10017,7 @@ example:
 | chizome akaguro | 赤黑血染‌（斯坦因） | ![](https://static.wikia.nocookie.net/bokunoheroacademia/images/c/c2/Stain_New_Costume_%28Anime%29.png)<br>出自作品:`my hero academia` |  |
 | elda ballad | 艾尔达·巴尔德 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/d/dd/Elda_Ballad.png)<br>出自作品:`youkoso sukebe elf no mori e` |  |
 | alleria windrunner | 奥蕾莉亚·风行者 | ![](https://warcraft.wiki.gg/images/thumb/AlleriaWindrunner-TWW.png/200px-AlleriaWindrunner-TWW.png?4a5b76)<br>出自作品:`world of warcraft` |  |
+| yu-na kang | 姜尤娜 | ![](https://static.wikia.nocookie.net/lgbt-characters/images/b/bf/Kang_Yu-na.jpg)<br>出自作品:`bad thinking diary` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
