@@ -3461,7 +3461,7 @@ example:
 | nia teppelin | 尼娅 | ![图](https://ehgt.org/1e/1f/1e1fd2b2fdeefb963b2decf8702c5bc714227faf-310003-1046-1500-jpg_l.jpg) |  |
 | simon | 西蒙 |  |  |
 | kamina | 卡米那 |  |  |
-| merlin | 梅林 | ![图](https://ehgt.org/11/83/11830b1debc95b2e7f847b5171dcdc24f3100d0f-2342467-1024-1448-png_l.jpg) | [Mooncell](http://www.fgo.wiki/w/梅林) [萌娘百科](https://zh.moegirl.org.cn/梅林%28Fate%29#) |
+| merlin | 梅林 \| 梅琳 | ①出自作品：`fate grand order`<br>![](https://static.wikia.nocookie.net/fategrandorder/images/7/79/S150_Sprite_Ver2_Costume2.png)<br>②出自作品:`rakudai kenja no gakuin musou`<br>![](https://static.wikia.nocookie.net/from-overshadowed-to-overpowered-talentless-sage/images/a/a6/Merlin.png) | [Mooncell](http://www.fgo.wiki/w/梅林) [萌娘百科](https://zh.moegirl.org.cn/梅林%28Fate%29#) |
 | akira kogami | 小神晶 |  |  |
 | minoru shiraishi | 白石稔 | 白石みのる<br><br>白石稔（rěn）是日本的男性声优、舞台演员、主持人、唱作人、作词作曲家。<br><br>`lucky star`中角色<br>白石稔  CV：`minoru shiraishi` | [萌娘百科](https://zh.moegirl.org.cn/白石稔) |
 | ilulu | 伊露露 | ![](https://ehgt.org/w/02/197/43767-d6ht2eaq.webp)<br>出自作品：`p:kobayashi-san-chi no maid dragon`<br><br>伊露露（日语：イルル）是クール教信者创作的漫画《小林家的龙女仆》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊露露) |
