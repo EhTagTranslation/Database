@@ -86,7 +86,7 @@ example:
 | hentai ouji to warawanai neko | 变态王子与不笑猫 | ![图](https://ehgt.org/82/06/82060c2cdfdf6c01bd27b736e787820c8241ddf2-836991-2512-3600-jpg_l.jpg)![图](https://ehgt.org/c6/56/c65648abba02d253b9053ba6897355aa80f05add-1929355-2552-3600-jpg_l.jpg) |  |
 | nagi no asukara | 来自风平浪静的明天 | ![图](https://ehgt.org/4d/4f/4d4f77c66e253ade1cb7415485ab2f1b2aca94ef-2575112-2479-3507-jpg_l.jpg) |  |
 | sekai seifuku bouryaku no zvezda | 世界征服～谋略之星～ | ![图](# "https://ehgt.org/90/1f/901f92557b3009e73a5dccd3354c8776273e9537-1999681-1254-1816-jpg_l.jpg") |  |
-| no game no life | 游戏人生 | ![图](# "https://ehgt.org/ac/3e/ac3e54bcd913fb0f513e76d9b0b64cc42875942b-2532874-2138-3021-jpg_l.jpg")<br>官方逼死同人↓<br>![官逼人](# "https://ehgt.org/8c/43/8c43d8f851dc53eeee03260dbc6e49db93cb5f64-1068795-2141-3022-jpg_l.jpg") |  |
+| no game no life | 游戏人生 | ![](https://lain.bgm.tv/r/400/pic/cover/l/54/bd/79227_052R3.jpg)<br>由榎宫祐著作并负责插画的轻小说，并有改编动画。 |  |
 | barakamon | 元气囝仔 | 漫画<br>![图](# "https://ehgt.org/91/01/9101a896c63cf4ed7aec31807d55362ec1cbd79a-3065190-2463-3500-jpg_l.jpg") |  |
 | divine gate | 神圣之门 | 游戏<br>![图](# "https://ehgt.org/56/7d/567da8c0ee0c17ca1dabbab905cafb44120748d6-851499-1433-2023-jpg_l.jpg") |  |
 | sayonara zetsubou sensei | 再见！绝望先生 | 漫画<br>![图](https://ehgt.org/81/40/814081ac108eac6524b2431c7f7e2cf9eedc15d7-2120348-2845-4019-jpg_l.jpg) |  |
