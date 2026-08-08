@@ -15444,7 +15444,7 @@ example:
 | gisyuled | ギシュレッド |  | [pixiv](https://www.pixiv.net/users/1035409) \| [X](https://x.com/gisyuled) \| [Lit.Link](https://lit.link/en/gisyuled) |
 | ryo-chan | 良ちゃん\* |  | [pixiv](https://www.pixiv.net/users/44872149) \| [FANBOX](https://ryochan.fanbox.cc/) \| [X](https://x.com/orz_ryochan) \| [BOOTH](https://oujicha.booth.pm/) |
 | yugudora shiruo | ユグドラしるお |  | [pixiv](https://www.pixiv.net/users/110775417) \| [X](https://x.com/yugudora460) |
-| muutsuki | むうつき |  |  |
+| muutsuki | むうつき |  | [pixiv](https://www.pixiv.net/users/21093437) \| [X](https://x.com/mu_tsuk1) \| [FANBOX](https://mu-tsuk1.fanbox.cc/) |
 | ayul | Ayul |  |  |
 | bakatare | ばかたれ |  | [FANBOX](https://bktr.fanbox.cc/) \| [X](https://x.com/_b_k_t_r_) \| [Skeb](https://skeb.jp/@_B_K_T_R_) \| [pixiv](https://www.pixiv.net/users/19537695) |
 | eihamu | エイハム |  |  |
