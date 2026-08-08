@@ -10038,6 +10038,7 @@ example:
 | rirui | 莉露 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e1/85/175347_crt_BK1Z3.jpg?r=1746435700)<br>日语：リルイ<br>出自作品:`29-sai dokushin chuuken boukensha no nichijou` |  |
 | tamsy caines | 塔姆吉·凯恩斯 | ![](https://static.wikia.nocookie.net/gachiakuta/images/1/14/Tamsy_Caines_%28Anime%29.png)<br>日语：タムジー・ケインズ<br>出自作品:`gachiakuta` |  |
 | rubia | 露比雅 | ![](https://static.wikitide.net/browndust2wiki/thumb/f/f0/Costume_000801.png/600px-Costume_000801.png)<br>出自作品:`brave nine` |  |
+| wanyan luo | 洛绾嫣 | ![](https://orisries.wikiru.jp/attach2/E6B49BE7B6B0E5ABA3_E6B49BE7B6B0E5ABA35F302E706E67.png)<br>出自作品:`orisries` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
