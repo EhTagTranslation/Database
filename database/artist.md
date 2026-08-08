@@ -15542,6 +15542,7 @@ example:
 | reankh | りーあんく | Re:ankh | [pixiv](https://www.pixiv.net/users/68118265) \| [FANBOX](https://re-ankh.fanbox.cc/) \| [X](https://x.com/reankh2) \| [Bluesky](https://bsky.app/profile/reankh.bsky.social) \| [Lit.Link](https://lit.link/en/reankh_lit) |
 | ohba kagerou | 大场阳炎 | 大場陽炎 |  |
 | futoshi slim | ふとしSLIM |  | [pixiv](https://www.pixiv.net/users/18593162) \| [X](https://x.com/FUTOCHIMPO) |
+| spiko | すぴこ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
