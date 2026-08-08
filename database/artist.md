@@ -1283,7 +1283,7 @@ example:
 | jakou nezumi | 麝香鼠 |  |  |
 |  | HAMD |  |  |
 | nagi yuki | 凪居ユキ |  |  |
-| kusui aruta | 久水あるた |  |  |
+| kusui aruta | 久水あるた |  | [pixiv](https://www.pixiv.net/users/179874) \| [X](https://x.com/kusuiaruta) |
 | tamanosuke | たまのすけ |  |  |
 | minamihama yoriko | 南浜よりこ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=ea3b054e-64d3-11f0-ba33-0242ac160002/section=mens/) |
 |  | Pd |  |  |
