@@ -863,7 +863,7 @@ example:
 | mimoneland | ミモネランド |  |  |
 | doronko yuuyake | どろんこ夕焼 |  |  |
 | panic room | パニックルーム! |  |  |
-| studio aruta | スタジオあるた |  |  |
+| studio aruta | スタジオあるた |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG36964.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27027/) |
 | haruharudo | はるはる堂 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26856/) |
 | tamanokoshi | たまのこし |  |  |
 | minamihamaya | 南浜屋 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74005/) |
