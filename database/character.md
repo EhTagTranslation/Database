@@ -10043,6 +10043,7 @@ example:
 | oumiya emma | 大宫惠麻 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/2/22/Oumiya_Emma_2nd_model_by_Hominamia.jpg)<br>日语：大宫えま | [YouTube](https://www.youtube.com/channel/UCDdmoA79bfI8DHDnE_Yy2dg) |
 | lucia rogier | 露希亚·罗杰 | ![](https://static.wikia.nocookie.net/strange-grief-wants-to-retire/images/6/64/Lucia_Rogier.png)<br>日语：ルシア・ロジェ<br>出自作品:`nageki no bourei ha intai shitai` |  |
 | chloe welter | 可萝伊·韦尔达 | ![](https://static.wikia.nocookie.net/strange-grief-wants-to-retire/images/a/a4/Chloe_Welter_Anime_Portrait.png)<br>日语：クロエ・ヴェルター<br>出自作品:`nageki no bourei ha intai shitai` |  |
+| arisa kounokura | 鸿藏亚里沙 | ![](https://ibikona-anime.com/wp-content/uploads/2026/02/illustration-arisa.webp)<br>日语：鴻蔵ありさ<br>出自作品:`ibitte konai gibo to gishi` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
