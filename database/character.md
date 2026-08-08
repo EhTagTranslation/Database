@@ -10033,6 +10033,7 @@ example:
 | scott pilgrim | 斯科特·皮尔格林 | ![](https://static.wikia.nocookie.net/scottpilgrim/images/b/bd/Scottfistpumped.png)<br>出自作品:`scott pilgrim` |  |
 | neil nordegraf | 尼尔·诺德格拉夫 | ![](https://static.wikia.nocookie.net/scottpilgrim/images/a/ab/YoungNeilSPTO.png)<br>出自作品:`scott pilgrim` |  |
 | kaya satou | 佐藤神八 | ![](https://static.wikia.nocookie.net/kayachan-wa-kowakunai/images/d/d4/Kaya_anime.png)<br>出自作品:`kaya-chan wa kowakunai` |  |
+| silco | 希尔科 | ![](https://static.wikia.nocookie.net/leagueoflegends/images/0/06/Silco_Render.png)<br>出自作品:`league of legends` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
