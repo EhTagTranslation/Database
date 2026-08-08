@@ -11670,7 +11670,7 @@ example:
 | ugeman | うげ漫 |  |  |
 | ugokuna pharmacy theta | うごくな薬局θ |  |  |
 | ugou no shuu | 烏合ノ衆 |  |  |
-| uguisu kagura | ウグイスカグラ | 日本莺/胃痛社/纸魔社 |  |
+| uguisu kagura | 纸魔社 | 别称：日本莺/胃痛社<br>日语：ウグイスカグラ | [官网](https://kagura.rdy.jp/) |
 | uguisuya | 莺屋 |  |  |
 | uhii | うひい |  |  |
 | uirokai | ういろうかい |  |  |
