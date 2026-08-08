@@ -2876,7 +2876,7 @@ example:
 | kanade hisaishi | 久石奏 |  |  |
 | mizore yoroizuka | 铠冢霙 | ![](https://thumbsnap.com/i/Ea6AhvbC.jpg)<br>出自作品：`p:hibike euphonium`<br><br>铠冢霙（Kǎizhǒng Yīng）（日语：鎧塚（よろいづか） みぞれ）是由武田绫乃所创作的小说《吹响！上低音号》及其衍生作品中的登场角色。动画电影《莉兹与青鸟》的主要角色。 | [萌娘百科](https://zh.moegirl.org.cn/铠冢霙) |
 | nozomi kasaki | 伞木希美 |  |  |
-| yuuko yoshikawa | 吉川优子 |  |  |
+| yuuko yoshikawa | 吉川优子 | ![](https://static.wikia.nocookie.net/hibike-euphonium/images/f/f7/Yuuko_S3.jpg)<br>出自作品:`hibike euphonium` |  |
 | natsuki nakagawa | 中川夏纪 |  |  |
 | sapphire kawashima | 川岛绿辉 | ![](https://ehgt.org/w/02/218/10528-tc35t1w3.webp)<br>出自作品：`p:hibike euphonium`<br><br>川岛绿辉是武田绫乃所创作的小说《吹响！上低音号》及其衍生作品的登场角色，主人公之一。 | [萌娘百科](https://zh.moegirl.org.cn/川岛绿辉) |
 | kaori nakaseko | 中世古香织 |  |  |
