@@ -5097,7 +5097,7 @@ example:
 | final | Final |  |  |
 | fireyuki | フィレユキ |  |  |
 | fk696 | fk696 |  |  |
-| flanvia | Flanvia |  |  |
+| flanvia | flanvia |  | [X](https://x.com/flanvia) \| [pixiv](https://www.pixiv.net/users/3267576) |
 | flat | FLAT |  |  |
 | flipper | FLIPPER |  |  |
 | flowerchild | FLOWERCHILD |  |  |
