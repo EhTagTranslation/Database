@@ -8064,7 +8064,7 @@ example:
 | ena ayase | 绫濑惠那 | ![](https://ehgt.org/w/00/586/83350-rm8smwl2.webp)<br>所属作品：`yotsubato`<br>绫濑家的三女。 | [百度百科](https://baike.baidu.com/item/綾瀨惠那/4394535) |
 | jahoda | 雅珂达 | ![](https://act-upload.mihoyo.com/wiki-user-upload/2025/11/29/50494840/25a5604df0990ac20cbe5c98efacd3f8_6786704682865394796.gif?x-oss-process=image%2Fformat%2Cwebp)<br>所属作品：`genshin impact`<br>十分可靠，无所不能（自称）的「秘闻馆」员工。 | [BILIGAME WIKI](https://wiki.biligame.com/ys/雅珂达) |
 | kris argent | 库琉丝·亚尔根 | ![](https://static.wikia.nocookie.net/strange-grief-wants-to-retire/images/f/fb/Kriz_Argent_Anime_Portrait.png)<br>所属作品：`nageki no bourei ha intai shitai` |  |
-| liz smart | 莉兹·斯玛特 | ![](https://static.wikia.nocookie.net/strange-grief-wants-to-retire/images/8/89/Liz_Smart.png)<br>所属作品：`nageki no bourei ha intai shitai`<br>西朵莉的姐姐、安塞姆的妹妹、蒂诺的师傅。 |  |
+| liz smart | 莉兹·斯玛特 | ![](https://static.wikia.nocookie.net/strange-grief-wants-to-retire/images/8/89/Liz_Smart.png)<br>所属作品：`nageki no bourei ha intai shitai` |  |
 | sonoko nogi | 乃木园子 | ![](https://static.wikia.nocookie.net/yuyuyu/images/e/ee/S3_sonoko_visual_1.png)<br>所属作品：`yuuki yuuna wa yuusha de aru` |  |
 | yuuna yuuki | 结城友奈 | ![](https://storage.moegirl.org.cn/moegirl/commons/b/bb/Yukiyuna201908.jpg)<br>所属作品：`yuuki yuuna wa yuusha de aru`<br>赞州中学二年级生。平常是红色短发，在变身之后变为粉色长发。 | [萌娘百科](https://zh.moegirl.org.cn/结城友奈) |
 | wakaba nogi | 乃木若叶 | ![](https://storage.moegirl.org.cn/moegirl/commons/e/e2/Wakaba_G.png)<br>所属作品：`yuuki yuuna wa yuusha de aru`<br>西历组五人勇者的队长，与上里日向是青梅竹马。 |  |
