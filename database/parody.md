@@ -2956,6 +2956,7 @@ example:
 | kaya-chan wa kowakunai | 神八小妹不可怕 | ![](https://lain.bgm.tv/r/400/pic/cover/l/51/33/522414_4VRzA.jpg)<br>日语：カヤちゃんはコワくない<br>作者：百合太郎 |  |
 | 29-sai dokushin chuuken boukensha no nichijou | 29岁单身冒险家的日常 | ![](https://lain.bgm.tv/r/400/pic/cover/l/74/e9/556874_BhJgb.jpg)<br>日语：29歳独身中堅冒険者の日常 |  |
 | orisries | 万源圣魔录 | ![](https://res-r.hrbksd.com/image/screenshot/113/1733310914287.webp) | [游戏官网](https://www.playhorny.com/en-US/game-list/1) |
+| hiseki shinki arcana saber | 秘迹神姬Arcana Saber | ![](https://t.vndb.org/cv.t/79/130879.jpg)<br>秘蹟神姫アルカナセイバー |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
