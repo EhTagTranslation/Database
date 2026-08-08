@@ -90,7 +90,7 @@ example:
 | eufonie | eufonie | etude 的姐妹品牌 |  |
 | eushully | Eushully | 日语：エウシュリー<br>日本专注于开发RPG、SLG类游戏的厂商 | [官网](https://www.eukleia.co.jp/eushully/) |
 | waffle | Waffle |  |  |
-| navel | Navel |  |  |
+| navel | 近月社 | ![](https://project-navel.com/navel/_image/parts/nb_logo_.gif)<br>别称：橘子社 | [官网](https://project-navel.com/) |
 | tryset | TRYSET |  |  |
 | seal-tutu | seal-tutu | softhouse-seal 子品牌 |  |
 | softhouse chara | Softhouse Chara |  |  |
