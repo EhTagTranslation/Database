@@ -7791,7 +7791,7 @@ example:
 | meria | メリア |  |  |
 | meridier | Meridier |  |  |
 | meriko | めりこ |  |  |
-| merkonig | Merkonig |  |  |
+| merkonig | Merkonig |  | [pixiv](https://www.pixiv.net/users/22392525) \| [X](https://x.com/Merkonig) \| [FANBOX](https://merkonig.fanbox.cc/) \| [SUBSCRIBESTAR](https://subscribestar.adult/merkonig) \| [BOOTH](https://merkonig.booth.pm/) |
 | merry luna | めりぃるな |  |  |
 | meshi | めし |  |  |
 | mesousan | めそうさん |  |  |
