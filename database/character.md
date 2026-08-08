@@ -10037,6 +10037,7 @@ example:
 | anyango | 安扬戈 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8f/dc/181628_crt_BOOyr.jpg)<br>日语：アニャンゴ<br>出自作品:`29-sai dokushin chuuken boukensha no nichijou` |  |
 | rirui | 莉露 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e1/85/175347_crt_BK1Z3.jpg?r=1746435700)<br>日语：リルイ<br>出自作品:`29-sai dokushin chuuken boukensha no nichijou` |  |
 | tamsy caines | 塔姆吉·凯恩斯 | ![](https://static.wikia.nocookie.net/gachiakuta/images/1/14/Tamsy_Caines_%28Anime%29.png)<br>日语：タムジー・ケインズ<br>出自作品:`gachiakuta` |  |
+| rubia | 露比雅 | ![](https://static.wikitide.net/browndust2wiki/thumb/f/f0/Costume_000801.png/600px-Costume_000801.png)<br>出自作品:`brave nine` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
