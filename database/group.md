@@ -12769,7 +12769,7 @@ example:
 | harugakita | はるがきた |  |  |
 | imoimolatte | いもいもラテ |  |  |
 | kitahara koubou | 北原工房。 |  |  |
-| smile foran company | すまいるふぉらんかんぱにぃ。 |  |  |
+| smile foran company | すまいるふぉらんかんぱにぃ。 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78179/) |
 | kozuki sousaku dokoro | 甲月創作処 |  |  |
 | nezumi no haha | 鼠の母 |  |  |
 | hachihachihachi | 蜂蜂蜂 |  |  |
