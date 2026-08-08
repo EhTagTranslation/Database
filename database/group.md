@@ -43,7 +43,7 @@ example:
 | frill | Frill |  | [官方网站](https://frill.product.co.jp/) [维基百科（日语）](https://ja.wikipedia.org/wiki/Frill) |
 | triangle | Triangle |  |  |
 | mana | mana |  | [官方网站](http://mana.product.co.jp) |
-| sprite | sprite | sprite是日本成人游戏品牌，fairys是全年龄美少女游戏品牌，互为姊妹社。 |  |
+| sprite | 雪碧社 | ![](https://framerusercontent.com/images/zGuTjqkf6GAC2RoHAc5pY6IbscE.svg?width=94&height=33)<br>sprite是日本成人游戏品牌，fairys是全年龄美少女游戏品牌，互为姊妹社。 | [官网](https://sprite.net/) |
 | fairys | fairys | fairys原本也是有限会社アクセル的品牌，2012年3月以フェアリス株式会社为名独自成立为一家公司，分社化经营。 |  |
 | escude | エスクード |  |  |
 | campus | Campus |  |  |
