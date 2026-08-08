@@ -14138,6 +14138,7 @@ example:
 | yoerosun | ヨエロ寸 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=220265/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01019110.html) |
 | ryu-saikan | 流彩館 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG43736.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77093/) |
 | lacryma | La'cryma | 日文: ラクリマ | [DLsite](https://www.dlsite.com/pro/circle/profile/=/maker_id/VG01994.html) |
+| raigyo | ライギョ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201706/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
