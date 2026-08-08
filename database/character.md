@@ -10034,7 +10034,7 @@ example:
 | neil nordegraf | 尼尔·诺德格拉夫 | ![](https://static.wikia.nocookie.net/scottpilgrim/images/a/ab/YoungNeilSPTO.png)<br>出自作品:`scott pilgrim` |  |
 | kaya satou | 佐藤神八 | ![](https://static.wikia.nocookie.net/kayachan-wa-kowakunai/images/d/d4/Kaya_anime.png)<br>出自作品:`kaya-chan wa kowakunai` |  |
 | silco | 希尔科 | ![](https://static.wikia.nocookie.net/leagueoflegends/images/0/06/Silco_Render.png)<br>出自作品:`league of legends` |  |
-| anyango | 安扬戈 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8f/dc/181628_crt_BOOyr.jpg)<br>出自作品:`29-sai dokushin chuuken boukensha no nichijou` |  |
+| anyango | 安扬戈 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8f/dc/181628_crt_BOOyr.jpg)<br>日语：アニャンゴ<br>出自作品:`29-sai dokushin chuuken boukensha no nichijou` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
