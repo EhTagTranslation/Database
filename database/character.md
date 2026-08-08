@@ -10044,6 +10044,7 @@ example:
 | lucia rogier | 露希亚·罗杰 | ![](https://static.wikia.nocookie.net/strange-grief-wants-to-retire/images/6/64/Lucia_Rogier.png)<br>日语：ルシア・ロジェ<br>出自作品:`nageki no bourei ha intai shitai` |  |
 | chloe welter | 可萝伊·韦尔达 | ![](https://static.wikia.nocookie.net/strange-grief-wants-to-retire/images/a/a4/Chloe_Welter_Anime_Portrait.png)<br>日语：クロエ・ヴェルター<br>出自作品:`nageki no bourei ha intai shitai` |  |
 | arisa kounokura | 鸿藏亚里沙 | ![](https://ibikona-anime.com/wp-content/uploads/2026/02/illustration-arisa.webp)<br>日语：鴻蔵ありさ<br>出自作品:`ibitte konai gibo to gishi` |  |
+| marika kounokura | 鸿藏茉莉花 | ![](https://ibikona-anime.com/wp-content/uploads/2026/02/illustration-marika.webp)<br>日语：鴻蔵まりか<br>出自作品:`ibitte konai gibo to gishi` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
