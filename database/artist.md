@@ -3510,7 +3510,7 @@ example:
 | eshimoto | Eシモト |  |  |
 | shingo. | Shingo. |  |  |
 | nedokoro mitsuki | ねどころみつき |  |  |
-| hoshi to lucky | ほしとラッキー |  |  |
+| hoshi to lucky | ほしとラッキー |  | [FANBOX](https://hositolucky.fanbox.cc/) \| [X](https://x.com/YiBvtBG1iZSoUO8) |
 | fuzichoco | 藤原 | 藤原（日语：藤ちょこ（ふじちょこ），1990年9月30日－），日本女性插画家、漫画家。日本美术专门学校的特别讲义讲师。 | [Homepage](https://www.fuzichoco.com/)<br>[pixiv](https://www.pixiv.net/member.php?id=27517)<br>[X](https://x.com/fuzichoco) |
 | yuiga naoha | 由雅なおは |  |  |
 | tousen | 冬扇 |  |  |
