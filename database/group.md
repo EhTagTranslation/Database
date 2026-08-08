@@ -73,7 +73,7 @@ example:
 | skyfish poco | SkyFish poco |  |  |
 | chelseasoft | Chelseasoft |  |  |
 | sphere | Sphere |  |  |
-| hook | HOOKSOFT | HOOKSOFT是日本ロボプランニング公司的游戏品牌，主要发售恋爱冒险类型的成人游戏。最早原名为HOOK，于2000年4月成立，并在2008年12月2日重整后改为现名。SMEE、ASa Project与TJR(已活动休止)是其姐妹品牌。目前是Partner Brand（パートナーブランド）的加盟品牌之一。 | [维基百科](https://zh.wikipedia.org/wiki/HOOKSOFT) [官方网站](http://www.hook-net.jp/htm/index_02.htm) (\*) |
+| hook | 钩子社 | ![](https://upload.wikimedia.org/wikipedia/commons/5/56/Hook_logo.jpg)<br>HOOKSOFT是日本ロボプランニング公司的游戏品牌，主要发售恋爱冒险类型的成人游戏。 | [维基百科](https://zh.wikipedia.org/wiki/HOOKSOFT) [官方网站](http://www.hook-net.jp/htm/index_02.htm) |
 | smee | SMEE |  | [官方网站](http://www.hook-net.jp/smee/) |
 | asa project | ASa Project | ![主页徽章](https://www.asa-pro.com/img/asa_banner.png)<br>别称：颜艺社, 因作品角色拥有丰富面部表情管理系统而得名。 | [官方网站](http://www.asa-pro.com/top.html) (\*) |
 | rosebleu | Rosebleu |  |  |
