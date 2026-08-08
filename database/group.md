@@ -9087,7 +9087,7 @@ example:
 | pakupikubon | パクピクボン |  |  |
 | palace village ke | パレスヴィレッジ家 |  |  |
 | pale scarlet | Pale Scarlet |  |  |
-| palette | ぱれっと |  |  |
+| palette | 调色板社 | ![](https://palette.clearrave.co.jp/_img/logo.png)<br>日语：ぱれっと | [官网](https://palette.clearrave.co.jp/) |
 | palette enterprise | Palette Enterprise |  |  |
 | pallet box | Pallet Box |  |  |
 | palm sunday | パームサンデー |  |  |
