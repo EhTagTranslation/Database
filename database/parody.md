@@ -2955,6 +2955,7 @@ example:
 | fortissimo | Fortissimo | 日文: フォルテシモ<br>《Fortissimo》是由日本开发商La’cryma制作的AVG/ADV系列游戏，2012年6月29日由神夜优、青叶大、johnny、友野健人共同开发推出，原版名称为《fortissimo EXS》。 | [百度百科](https://baike.baidu.com/item/Fortissimo/4801718) |
 | kaya-chan wa kowakunai | 神八小妹不可怕 | ![](https://lain.bgm.tv/r/400/pic/cover/l/51/33/522414_4VRzA.jpg)<br>日语：カヤちゃんはコワくない<br>作者：百合太郎 |  |
 | 29-sai dokushin chuuken boukensha no nichijou | 29岁单身冒险家的日常 | ![](https://lain.bgm.tv/r/400/pic/cover/l/74/e9/556874_BhJgb.jpg)<br>日语：29歳独身中堅冒険者の日常 |  |
+| orisries | 万源圣魔录 | ![](https://res-r.hrbksd.com/image/screenshot/113/1733310914287.webp) | [游戏官网](https://www.playhorny.com/en-US/game-list/1) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
