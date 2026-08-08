@@ -10031,6 +10031,7 @@ example:
 | meruru hikami | 冰上梅露露 | ![](https://patchwiki.biligame.com/images/manosaba/thumb/1/10/fjf2njptag98pyvhcs8peujhfxapn7u.png/300px-冰上梅露露.png)<br>所属作品:`mahou shoujo no majo saiban` | [BILIGAME WIKI](https://wiki.biligame.com/manosaba/冰上梅露露)<br>[萌娘百科](https://zh.moegirl.org.cn/冰上梅露露) |
 | cosette | 科赛特 | ![](https://ehgt.org/w/02/021/52078-rjichozc.webp)<br>日语：コゼット<br>出自作品:`seirei gensouki` |  |
 | scott pilgrim | 斯科特·皮尔格林 | ![](https://static.wikia.nocookie.net/scottpilgrim/images/b/bd/Scottfistpumped.png)<br>出自作品:`scott pilgrim` |  |
+| neil nordegraf | 尼尔·诺德格拉夫 | ![](https://static.wikia.nocookie.net/scottpilgrim/images/a/ab/YoungNeilSPTO.png)<br>出自作品:`scott pilgrim` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
