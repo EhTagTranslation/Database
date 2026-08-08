@@ -9472,7 +9472,7 @@ example:
 | rikuto | 六兎 |  |  |
 | rimukoro | リムコロ | ![](https://pbs.twimg.com/profile_images/1816043576431894528/c7jvuu3l_400x400.jpg)<br>《贤惠幼妻仙狐小姐》漫画作者，档案上线笑面教授当天开始画涩图(笑 | [Twitter](https://x.com/uni9rimu) [Twitter](https://x.com/rimukoro?lang=ja) [pixiv](https://www.pixiv.net/users/910381) |
 | rimviolet | rimviolet |  |  |
-| rin | rin |  |  |
+| rin | Riん |  | [Ci-en](https://ci-en.dlsite.com/creator/3810) \| [FANBOX](https://circlerin.fanbox.cc/) \| [X](https://x.com/RinCircle) \| [Lit.Link](https://lit.link/en/rinn62) \| [pixiv](https://www.pixiv.net/users/17922344) |
 | rindoh | 竜瞳 |  |  |
 | rindou akira | りんどうあきら |  |  |
 | ringo | 林檎 |  |  |
