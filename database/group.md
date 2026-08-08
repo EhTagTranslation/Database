@@ -10348,7 +10348,7 @@ example:
 | shiratamarch | しらたまーち |  |  |
 | shirayuki shoujodan | 白雪少女団 |  |  |
 | shirikageru taberu | シリカゲルタベル |  |  |
-| shiritsu sakuranbo shougakkou | 私立さくらんぼ小学校 |  |  |
+| shiritsu sakuranbo shougakkou | 私立樱桃小学校 | ![](https://lain.bgm.tv/r/400/pic/crt/l/71/7d/15290_prsn_H5330.jpg)<br>日语：私立さくらんぼ小学校 |  |
 | shiro anmitsu | しろあんみつ |  |  |
 | shiro gas koujou | 白瓦斯工場 |  |  |
 | shiro kuro soft | シロクロソフト |  |  |
