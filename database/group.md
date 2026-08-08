@@ -9274,7 +9274,7 @@ example:
 | pinkbell software | PINKBELL SOFTWARE |  |  |
 | pinke | ぴんけ |  |  |
 | pinkharlem | PinkHarlem |  |  |
-| pinkjoe | pinkjoe |  |  |
+| pinkjoe | pinkjoe |  | [pixiv](https://www.pixiv.net/users/15857464) \| [X](https://x.com/pinkjoesns) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG09676.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29030/) \| [Ci-en](https://ci-en.dlsite.com/creator/3777) |
 | pinktips.info | pinktips.info |  |  |
 | pinky girl | PINKY GIRL |  |  |
 | pintsize | ぱいんとさいず |  |  |
