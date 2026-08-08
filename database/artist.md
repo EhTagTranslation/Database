@@ -1328,7 +1328,7 @@ example:
 | unagimaru | 鳗丸 |  |  |
 | decarabia | デカラビア |  |  |
 | takurou | たくろう |  |  |
-| tsukimoto kizuki | 月本筑希 |  |  |
+| tsukimoto kizuki | 月本筑希 | 日语: 月本築希 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76902/) |
 | taigiakira | タイギアキラ |  |  |
 |  | YD |  |  |
 | ishikawa naoya | 石川直哉 |  |  |
