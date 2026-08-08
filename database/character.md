@@ -10041,6 +10041,7 @@ example:
 | wanyan luo | 洛绾嫣 | ![](https://orisries.wikiru.jp/attach2/E6B49BE7B6B0E5ABA3_E6B49BE7B6B0E5ABA35F302E706E67.png)<br>出自作品:`orisries` |  |
 | andrea doria | 安德烈亚·多利亚 | ![](https://azurlane.netojuu.com/images/d/db/Andrea_Doria.png)<br>出自作品:`azur lane` |  |
 | oumiya emma | 大宫惠麻 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/2/22/Oumiya_Emma_2nd_model_by_Hominamia.jpg)<br>日语：大宫えま | [YouTube](https://www.youtube.com/channel/UCDdmoA79bfI8DHDnE_Yy2dg) |
+| lucia rogier | 露希亚·罗杰 | ![](https://static.wikia.nocookie.net/strange-grief-wants-to-retire/images/6/64/Lucia_Rogier.png)<br>日语：ルシア・ロジェ<br>出自作品:`nageki no bourei ha intai shitai` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
