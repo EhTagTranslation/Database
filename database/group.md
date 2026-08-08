@@ -621,7 +621,7 @@ example:
 | chagashi saiban | 茶菓子裁判 |  |  |
 | chesha neko no yakata | チェシャ猫の館 |  |  |
 | shokuan | 触安 |  |  |
-| aomizuan | 青水庵 |  |  |
+| aomizuan | 青水庵 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG07746.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=23058/) \| [pixiv](https://www.pixiv.net/users/473275) \| [X](https://x.com/ti_jiyuugyou) \| [Lit.Link](https://lit.link/en/aomizuan) |
 | royal mountain | ロイヤルマウンテン |  |  |
 | radical dream | Radical Dream |  |  |
 | hellabunna | へらぶな |  |  |
