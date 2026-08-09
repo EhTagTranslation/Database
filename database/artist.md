@@ -15543,7 +15543,7 @@ example:
 | ohba kagerou | 大场阳炎 | 大場陽炎 |  |
 | futoshi slim | ふとしSLIM |  | [pixiv](https://www.pixiv.net/users/18593162) \| [X](https://x.com/FUTOCHIMPO) |
 | spiko | すぴこ |  |  |
-| kosoba yui | こそば唯井 |  | [pixiv](https://www.pixiv.net/users/32027646)<br>[X](https://x.com/spc_neon)<br>[FANBOX](https://lynx.fanbox.cc/posts)<br>[Skeb](https://skeb.jp/@spc_neon)<br>[Fantia](https://fantia.jp/fanclubs/550678) |
+| kosoba yui | 小蕎麦唯井 |  | [pixiv](https://www.pixiv.net/users/32027646)<br>[X](https://x.com/spc_neon)<br>[FANBOX](https://lynx.fanbox.cc/posts)<br>[Skeb](https://skeb.jp/@spc_neon)<br>[Fantia](https://fantia.jp/fanclubs/550678) |
 
 <!--TEMPLATE:
 |  |  |  |  |
