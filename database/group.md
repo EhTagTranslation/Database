@@ -5691,7 +5691,7 @@ example:
 | hirusagari no bijutsukan | 昼下がりの美術館 |  |  |
 | hisoutan | ひそうたん |  |  |
 | hispano-suiza | Hispano-Suiza |  |  |
-| hissatsuwaza | ひっさつわざ |  |  |
+| hissatsuwaza | ひっさつわざ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79272/) |
 | hisuitei | 翡翠亭 |  |  |
 | hitobankoneko | 一晩仔猫 |  |  |
 | hitodenashi | ひとでなし |  |  |
