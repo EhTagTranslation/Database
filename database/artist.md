@@ -15544,6 +15544,7 @@ example:
 | futoshi slim | ふとしSLIM |  | [pixiv](https://www.pixiv.net/users/18593162) \| [X](https://x.com/FUTOCHIMPO) |
 | spiko | すぴこ |  |  |
 | kosoba yui | 小蕎麦唯井 |  | [pixiv](https://www.pixiv.net/users/32027646)<br>[X](https://x.com/spc_neon)<br>[FANBOX](https://lynx.fanbox.cc/posts)<br>[Skeb](https://skeb.jp/@spc_neon)<br>[Fantia](https://fantia.jp/fanclubs/550678) |
+| r-man | R-man |  | [FANZA](https://book.dmm.co.jp/list/?author=403804) \| [pixiv](https://www.pixiv.net/users/64084190) \| [X](https://x.com/Rman3108608360) \| [Skeb](https://skeb.jp/@Rman48542324) \| [FANBOX](https://kappa123.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/390033) |
 
 <!--TEMPLATE:
 |  |  |  |  |
