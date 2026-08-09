@@ -10929,7 +10929,7 @@ example:
 | sunsun lab | サンサンLAB |  |  |
 | sunyiru | すにぃる |  |  |
 | super colorful | スーパーカラフル |  |  |
-| super ichigo-chan | スーパーイチゴチャン |  |  |
+| super ichigo-chan | スーパーイチゴチャン |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49588.html) |
 | super sentou | スーパー銭湯 |  |  |
 | super usagi comic | スーパーウサギコミック |  |  |
 | superbad | スーパーバッド |  |  |
