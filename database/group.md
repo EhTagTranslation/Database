@@ -5595,7 +5595,7 @@ example:
 | hexenhaus | ヘクセンハウス |  |  |
 | hey you | hey you! |  |  |
 | heya no sumi. | 部屋の隅。 |  |  |
-| hgh | HGH |  |  |
+| hgh | HGH |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200938/) |
 | hgt labo | HGTラボ |  |  |
 | hhb | hhb |  |  |
 | hht | HHT |  |  |
