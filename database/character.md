@@ -10050,6 +10050,7 @@ example:
 | sora vinsmoke | 文斯莫克·索拉 | ![](https://lain.bgm.tv/r/400/pic/crt/l/73/71/105271_crt_922vs.jpg)<br>出自作品:`one piece` |  |
 | tao fa | 桃花 | ![](https://static.wikia.nocookie.net/jigokuraku/images/5/5b/Tao_Fa_Anime_Concept_Art.png)<br>日语别称：ラトナ大聖<br>出自作品:`jigokuraku` |  |
 | shiduka mimiduka | 耳冢志津香 | ![](https://lain.bgm.tv/r/400/pic/crt/l/19/d4/170190_crt_ZBbUC.jpg)<br>日语：耳塚シヅカ<br>出自作品:`ushiro no shoumen kamui-san` |  |
+| odette spessiva | 奥黛塔·苏佩茜娃 | ![](https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Odette_Card.png)<br>出自作品:`genshin impact` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
