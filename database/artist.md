@@ -9308,7 +9308,7 @@ example:
 | popopalt | ぽぽぱると |  |  |
 | nishi shizumu | 西しずむ | ポプラン |  |
 | poriko | ポリ子 |  |  |
-| poriuretan | ぽりうれたん |  | [pixiv](https://www.pixiv.net/users/19417472) |
+| poriuretan | ぽりうれたん | 推特介绍<br>两个孩子的母亲，身高175cm臀围100cm的人妻 | [pixiv](https://www.pixiv.net/users/19417472) \| [X](https://x.com/poriuretan_dayo) \| [FANBOX](https://poriuretandayo.fanbox.cc/) \| [Fantia](https://fantia.jp/poriuretan_dayo) |
 | poron | ぽろん |  |  |
 | poronatsu | ポロなつ |  |  |
 | porosuke | ぽろすけ |  |  |
