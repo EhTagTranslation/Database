@@ -6249,7 +6249,7 @@ example:
 | jyakonegi sarada | じゃこネギさらだ |  |  |
 | jyaraya | じゃらや |  |  |
 | jyouren kishidan | ジョウ・レン騎士団 |  |  |
-| jzargo | ジェイザルゴ |  |  |
+| jzargo | ジェイザルゴ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27975/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG18800.html) \| [X](https://x.com/JzargosExperime) \| [Lit.Link](https://lit.link/en/JzargosExperime) \| [pixiv](https://www.pixiv.net/users/2944451) \| [Ci-en](https://ci-en.dlsite.com/creator/3952) \| [FANBOX](https://jzargosexperime.fanbox.cc/) |
 | k equals k | [K=K] |  |  |
 | k h | K☆H |  |  |
 | k plus w | K+W |  |  |
