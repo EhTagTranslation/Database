@@ -10046,6 +10046,7 @@ example:
 | arisa kounokura | 鸿藏亚里沙 | ![](https://ibikona-anime.com/wp-content/uploads/2026/02/illustration-arisa.webp)<br>日语：鴻蔵ありさ<br>出自作品:`ibitte konai gibo to gishi` |  |
 | marika kounokura | 鸿藏茉莉花 | ![](https://ibikona-anime.com/wp-content/uploads/2026/02/illustration-marika.webp)<br>日语：鴻蔵まりか<br>出自作品:`ibitte konai gibo to gishi` |  |
 | sakura adachi | 安达樱 | ![](https://static.wikia.nocookie.net/adachi-to-shimamura/images/9/9d/Adachi_%28Anime_Character_Design%29.png/revision/latest?cb=20200929094817)<br>所属作品:`adachi to shimamura` | [萌娘百科](https://zh.moegirl.org.cn/安达樱) |
+| hougetsu shimamura | 岛村抱月 | ![](https://static.wikia.nocookie.net/adachi-to-shimamura/images/e/eb/Shimamura_%28Anime_Character_Design%29.png/revision/latest?cb=20200929094835)<br>所属作品:`adachi to shimamura` | [萌娘百科](https://zh.moegirl.org.cn/岛村抱月) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
