@@ -15548,6 +15548,7 @@ example:
 | gya-tei | ぎゃーてい |  | [X](https://x.com/gya_tei_r18/media) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=225511/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01048079.html) \| [FANBOX](https://gya-tei.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/57126494) |
 | creampie | くりぃむぱい |  | [pixiv](https://www.pixiv.net/users/63649862) \| [X](https://x.com/creampier18) |
 | kurauda shouta | クラウド翔太 |  |  |
+| ajisio | あじしお |  | [FANBOX](https://ajisio.fanbox.cc/) \| [X](https://x.com/ajisio_aji_NSFW) \| [pixiv](https://www.pixiv.net/users/23926752) \| [Skeb](https://skeb.jp/@ajisio_aji_NSFW) \| [Fantia](https://fantia.jp/fanclubs/64102) |
 
 <!--TEMPLATE:
 |  |  |  |  |
