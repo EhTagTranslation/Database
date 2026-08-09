@@ -15547,6 +15547,7 @@ example:
 | r-man | R-man |  | [FANZA](https://book.dmm.co.jp/list/?author=403804) \| [pixiv](https://www.pixiv.net/users/64084190) \| [X](https://x.com/Rman3108608360) \| [Skeb](https://skeb.jp/@Rman48542324) \| [FANBOX](https://kappa123.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/390033) |
 | gya-tei | ぎゃーてい |  | [X](https://x.com/gya_tei_r18/media) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=225511/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01048079.html) \| [FANBOX](https://gya-tei.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/57126494) |
 | creampie | くりぃむぱい |  | [pixiv](https://www.pixiv.net/users/63649862) \| [X](https://x.com/creampier18) |
+| kurauda shouta | クラウド翔太 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
