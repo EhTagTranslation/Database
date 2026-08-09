@@ -45,7 +45,7 @@ example:
 | mana | mana |  | [官方网站](http://mana.product.co.jp) |
 | sprite | 雪碧社 | ![](https://framerusercontent.com/images/zGuTjqkf6GAC2RoHAc5pY6IbscE.svg?width=94&height=33)<br>sprite是日本成人游戏品牌，fairys是全年龄美少女游戏品牌，互为姊妹社。 | [官网](https://sprite.net/) |
 | fairys | fairys | fairys原本也是有限会社アクセル的品牌，2012年3月以フェアリス株式会社为名独自成立为一家公司，分社化经营。 |  |
-| escude | エスクード |  |  |
+| escude | 小E社 | ![](https://www.escude.co.jp/img/escude_logo.gif)<br>日语：エスクード | [官网](https://www.escude.co.jp/escude.html) |
 | campus | Campus |  |  |
 | interheart | INTERHEART |  | [官方网站](http://www.interheart.co.jp/) |
 | darknesspot | DarknessPot | INTERHEART 旗下品牌 |  |
