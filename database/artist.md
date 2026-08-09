@@ -2357,7 +2357,7 @@ example:
 | hiyoshi hana | 日吉ハナ |  | [X](https://x.com/hma_h) [pixiv](https://www.pixiv.net/users/863509) |
 | tabigarasu | 旅乌 |  | [pixiv](https://www.pixiv.net/users/6715949) |
 | tsuge yasuna | つげ安奈 |  |  |
-| hissatsukun | ひっさつくん |  |  |
+| hissatsukun | ひっさつくん |  | [pixiv](https://www.pixiv.net/users/21577) \| [X](https://x.com/hissatsukun) |
 | ayakawa riku | あやかわりく |  |  |
 | yoshida inuhito | 吉田犬人 |  |  |
 | yuyama chika | 湯山チカ |  |  |
