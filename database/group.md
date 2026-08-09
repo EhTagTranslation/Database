@@ -2656,7 +2656,7 @@ example:
 | akitarainu | あきたらいぬ |  |  |
 | akitsuki | 秋月 |  |  |
 | akiya | 空屋 |  |  |
-| akiyama production | アキヤマ興業 |  |  |
+| akiyama production | アキヤマ興業 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG03422.html) |
 | akkan-bi project | あっかんBi～ |  |  |
 | akou kurou | アコウクロウ |  |  |
 | akoyagai to aumale ebi | あこや貝とオマールえび |  |  |
