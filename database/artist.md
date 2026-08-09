@@ -10942,7 +10942,7 @@ example:
 | tomisawa chinatsu | とみさわ千夏 |  |  |
 | tomite | とみて |  |  |
 | tomiyama akiji | 兔耳山アキジ |  |  |
-| tomiyoshi | トミヨシ |  |  |
+| tomiyoshi | トミヨシ |  | [pixiv](https://www.pixiv.net/users/2411) \| [X](https://x.com/TOMI_TIANJIN_5) \| [Fantia](https://fantia.jp/fanclubs/35034) |
 | tomneko | 吐夢猫 |  |  |
 | tomo takino | 智タキノ |  |  |
 | tomoe | 巴萌 |  |  |
