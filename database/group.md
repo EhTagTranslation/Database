@@ -6712,7 +6712,7 @@ example:
 | koboro nindan | 小幌忍団 |  |  |
 | koboshi no niwa | コボシノニワ |  |  |
 | kocher | コッヘル |  |  |
-| kocho kocho koukou | こちょこちょ高校 |  |  |
+| kocho kocho koukou | こちょこちょ高校 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206421/) |
 | kodama planet | コダマノ惑星 |  |  |
 | kodanukidou | 小狸堂 |  |  |
 | kodoh | kodoh |  |  |
