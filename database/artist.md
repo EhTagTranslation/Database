@@ -12421,7 +12421,7 @@ example:
 | usa otome | うさおとめ |  |  |
 | hatsuuni ikura | 初雲丹いくら |  |  |
 | asano yomichi | 朝野よみち |  |  |
-| fuguta-ke | フグタ家 |  |  |
+| fuguta-ke | フグタ家 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203156/) \| [FANBOX](https://oyayubi-okasan.fanbox.cc/) \| [X](https://x.com/oyayubi_chan) |
 | namahiyu | なまひゆ |  | [pixiv](https://www.pixiv.net/users/13075529) |
 | keise. | 慧瀬。 |  |  |
 | zandoro | ざんどろ |  |  |
