@@ -2053,7 +2053,7 @@ example:
 | ruinon | RUINON |  |  |
 | yamada shoukai | 山田商会 |  |  |
 | takemoto seisaku iinkai | 竹本製作委員会 |  |  |
-| umemoto seisaku iinkai | 梅本制作委员会 |  |  |
+| umemoto seisaku iinkai | 梅本制作委员会 | 日语: 梅本制作委員会 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=212741/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01030075.html) |
 | kotei gainen | 固定概念 |  |  |
 | akausagi | 赤兔 | 赤兎 |  |
 | haru koubou | 春工房 |  |  |
