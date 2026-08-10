@@ -4880,7 +4880,7 @@ example:
 | digdug | DigDug |  |  |
 | diisuke | ヂイスケ |  |  |
 | din | DIN |  |  |
-| dining | ダイニング |  |  |
+| dining | ダイニング |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG25565.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72410/) \| [Ci-en](https://ci-en.dlsite.com/creator/113) \| [X](https://x.com/dining303) \| [FANBOX](https://dining.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/8934726) |
 | diru | ぢる |  |  |
 | dit | DIT |  |  |
 | jnnkleche | じんにくれーちぇ | dkjmn |  |
