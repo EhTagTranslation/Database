@@ -15552,6 +15552,7 @@ example:
 | toga mashiro | 十河ましろ |  |  |
 | kogame futsu | 小亀ふつ |  |  |
 | a-shika | A\_鹿 |  |  |
+| kuru bushi | 来る節 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
