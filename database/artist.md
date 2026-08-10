@@ -11679,7 +11679,7 @@ example:
 | yoku | ヨク |  |  |
 | yokuran | 翼卵 |  |  |
 | yomiclone | yomiclone |  |  |
-| yomoda yomo | よもだよも |  |  |
+| yomoda yomo | よもだよも |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG38522.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75569/) \| [pixiv](https://www.pixiv.net/users/21551477) \| [X](https://x.com/yomoda_yomo) \| [FANBOX](https://miracleyomoyomo.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/181568) |
 | yomogi | よもぎ |  |  |
 | yomogi ringo | よもぎりんご |  |  |
 | yomogiya keita | よもぎや敬太 |  |  |
