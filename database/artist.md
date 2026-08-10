@@ -15550,6 +15550,7 @@ example:
 | kurauda shouta | クラウド翔太 |  |  |
 | ajisio | あじしお |  | [FANBOX](https://ajisio.fanbox.cc/) \| [X](https://x.com/ajisio_aji_NSFW) \| [pixiv](https://www.pixiv.net/users/23926752) \| [Skeb](https://skeb.jp/@ajisio_aji_NSFW) \| [Fantia](https://fantia.jp/fanclubs/64102) |
 | toga mashiro | 十河ましろ |  |  |
+| kogame futsu | 小亀ふつ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
