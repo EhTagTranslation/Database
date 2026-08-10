@@ -15557,6 +15557,7 @@ example:
 | yasashii naizou | 優しい内臓 |  |  |
 | aominomi | 青身のみ |  |  |
 | kugara | くがら |  |  |
+| dokonoko | どこの子 |  | [pixiv](https://www.pixiv.net/users/2887833) |
 
 <!--TEMPLATE:
 |  |  |  |  |
