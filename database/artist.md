@@ -15556,6 +15556,7 @@ example:
 | hanpatsu zokusei | 反発属性 |  |  |
 | yasashii naizou | 優しい内臓 |  |  |
 | aominomi | 青身のみ |  |  |
+| kugara | くがら |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
