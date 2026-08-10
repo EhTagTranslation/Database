@@ -15553,6 +15553,7 @@ example:
 | kogame futsu | 小亀ふつ |  |  |
 | a-shika | A\_鹿 |  |  |
 | kuru bushi | 来る節 |  |  |
+| hanpatsu zokusei | 反発属性 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
