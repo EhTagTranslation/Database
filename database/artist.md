@@ -3071,7 +3071,7 @@ example:
 | kaede | 枫（ゆか） | 白键社（tegurayuki，テグラユウキ）封面画师 | [pixiv](https://www.pixiv.net/users/15291956) |
 | fummy | ふみー |  | [X](https://x.com/fummyn) [pixiv](https://www.pixiv.net/users/197012) |
 | shobu | 菖蒲 |  | [pixiv](https://www.pixiv.net/users/2588103) |
-| sakayama shinta | 茶菓山しん太 |  |  |
+| sakayama shinta | 茶菓山しん太 |  | [pixiv](https://www.pixiv.net/users/303943) \| [FANBOX](https://e5lskk5v.fanbox.cc/) \| [X](https://x.com/sakayama_shinta) \| [Lit.Link](https://lit.link/en/shiny5s) |
 | takasaki keisuke | 高咲圭介 |  |  |
 | ushino naka | うしの菜夏 |  |  |
 | doskoinpo | doskoinpo |  | [X](https://x.com/doskoinpo) [pixiv](https://www.pixiv.net/users/2960920) |
