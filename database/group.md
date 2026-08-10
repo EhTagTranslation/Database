@@ -277,7 +277,7 @@ example:
 | sleeve | SLeeVe |  |  |
 | paranoia cat | PARANOIA CAT |  |  |
 | kobuta no yakata | 子豚の館 |  |  |
-| crazy9 | Crazy9 |  |  |
+| crazy9 | Crazy9 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74235/) |
 | essentia | ESSENTIA |  | [官方网站](http://www.fujimatakuya.com) |
 | redrop | ReDrop |  |  |
 | shirando | 炽鸾堂 |  |  |
