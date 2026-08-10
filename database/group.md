@@ -14143,6 +14143,7 @@ example:
 | mizutamari | みずたまり |  |  |
 | mame koubou | 豆工房 |  |  |
 | sakeru buta | さける豚 |  |  |
+| momoiro phantasmagoria | モモイロファンタズマゴリア |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
