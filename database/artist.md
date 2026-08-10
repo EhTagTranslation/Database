@@ -6025,7 +6025,7 @@ example:
 | ichinose | いちのせ | イチノセ | [FANBOX](https://ichinose.fanbox.cc/) \| [X](https://x.com/Ichinose_hw) \| [pixiv](https://www.pixiv.net/users/59476957) |
 | ichiokunen wakusei | 1亿年惑星 |  |  |
 | ichiro | 一滝 |  |  |
-| ichitaka | いちたか |  |  |
+| ichitaka | いちたか |  | [pixiv](https://www.pixiv.net/users/9880792) \| [FANBOX](https://ititaka.fanbox.cc/) \| [X](https://x.com/ititakaRe) |
 | ichiya | 一夜 |  |  |
 | ichiya koutei | いちや皇帝 |  |  |
 | icica | いちか |  |  |
