@@ -15554,6 +15554,7 @@ example:
 | a-shika | A\_鹿 |  |  |
 | kuru bushi | 来る節 |  |  |
 | hanpatsu zokusei | 反発属性 |  |  |
+| yasashii naizou | 優しい内臓 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
