@@ -4932,7 +4932,7 @@ example:
 | gachinko shobou | 我チ○コ書房 |  |  |
 | gadget | ガジェット工房 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG40369.html) |
 | gadoujuku | 我道塾 |  |  |
-| gagaga honpo | ガガガ本舗 |  |  |
+| gagaga honpo | ガガガ本舗 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78057/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG46059.html) |
 | gagaken | 画々研 |  |  |
 | gaikotsu no spare rib | 骸骨のスペアリブ |  |  |
 | gaisei dou | 凱聖堂 |  |  |
