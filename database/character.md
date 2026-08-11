@@ -10062,7 +10062,7 @@ example:
 | kurourushi | 黑沐死 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/4/48/Kurourushi_%28Anime%29.png)<br>出自作品:`jujutsu kaisen` |  |
 | takako uro | 乌鹭亨子 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/84/Takako_Uro_%28Anime%29.png)<br>出自作品:`jujutsu kaisen` |  |
 | kaiboukan no.22 | 海防舰 No.22 | ![](https://yksk.kancollewiki.net/w/images/d/da/Ship_Card_Kaiboukan_No.22_Kai_Damaged.png)<br>出自作品：`kantai collection` |  |
-| kaiboukan no.30 | 海防艦 no.30 |  |  |
+| kaiboukan no.30 | 海防舰 No.30 | ![](https://yksk.kancollewiki.net/w/images/f/f4/Ship_Card_Kaiboukan_No.30_Kai_Damaged.png)<br>出自作品：`kantai collection` |  |
 | kaiboukan no.4 | 海防舰 No.4 | ![](https://static.wikia.nocookie.net/kancolle/images/b/b5/Kaiboukan_No.4_Full.png)<br>出自作品：`kantai collection` |  |
 | ellenor ljos alf | 艾尔诺·利欧斯·阿尔弗 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/9/9d/Ellenor_Ljos_Alf_-_Anime_Design.png)<br>日语：エルノール・リヨス・アールヴ<br>出自作品:`tsue to tsurugi no wistoria` |  |
 | edward serfence | 爱德沃·赛尔芬斯 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/a/ae/Edward_Serfence_-_Anime_Design.png)<br>日语：エドワルド・セルフェンス<br>出自作品:`tsue to tsurugi no wistoria` |  |
