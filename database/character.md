@@ -10063,7 +10063,7 @@ example:
 | takako uro | 乌鹭亨子 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/84/Takako_Uro_%28Anime%29.png)<br>出自作品:`jujutsu kaisen` |  |
 | kaiboukan no.22 | 海防艦 no.22 |  |  |
 | kaiboukan no.30 | 海防艦 no.30 |  |  |
-| kaiboukan no.4 | 海防艦 no.4 |  |  |
+| kaiboukan no.4 | 海防舰 No.4 | ![](https://static.wikia.nocookie.net/kancolle/images/b/b5/Kaiboukan_No.4_Full.png)<br>出自作品：`kantai collection` |  |
 | ellenor ljos alf | 艾尔诺·利欧斯·阿尔弗 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/9/9d/Ellenor_Ljos_Alf_-_Anime_Design.png)<br>日语：エルノール・リヨス・アールヴ<br>出自作品:`tsue to tsurugi no wistoria` |  |
 | edward serfence | 爱德沃·赛尔芬斯 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/a/ae/Edward_Serfence_-_Anime_Design.png)<br>日语：エドワルド・セルフェンス<br>出自作品:`tsue to tsurugi no wistoria` |  |
 | workner norgram | 瓦克纳·诺格拉姆 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/8/8d/Workner_Norgram_-_Anime_Design.png)<br>日语：ワークナー・ノーグラム<br>出自作品:`tsue to tsurugi no wistoria` |  |
