@@ -10067,6 +10067,7 @@ example:
 | ellenor ljos alf | 艾尔诺·利欧斯·阿尔弗 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/9/9d/Ellenor_Ljos_Alf_-_Anime_Design.png)<br>日语：エルノール・リヨス・アールヴ<br>出自作品:`tsue to tsurugi no wistoria` |  |
 | edward serfence | 爱德沃·赛尔芬斯 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/a/ae/Edward_Serfence_-_Anime_Design.png)<br>日语：エドワルド・セルフェンス<br>出自作品:`tsue to tsurugi no wistoria` |  |
 | workner norgram | 瓦克纳·诺格拉姆 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/8/8d/Workner_Norgram_-_Anime_Design.png)<br>日语：ワークナー・ノーグラム<br>出自作品:`tsue to tsurugi no wistoria` |  |
+| cerridwen | 凯莉德温 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/e/ee/Cerridwen_-_Anime_Design.png)<br>日语：ケリドウェン<br>出自作品:`tsue to tsurugi no wistoria` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
