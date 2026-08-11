@@ -5621,7 +5621,7 @@ example:
 | hige to deko | Hige to deko |  |  |
 | higedaihuku | ひげ大福 |  |  |
 | higeudon | ひげうどん |  |  |
-| high fly flow | はいふらいふろう |  |  |
+| high fly flow | はいふらいふろう |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG25317.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72837/) |
 | high risk revolution | HIGH RISK REVOLUTION |  |  |
 | high star | HIGH STAR |  |  |
 | high thrust | ハイスラスト |  |  |
