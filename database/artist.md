@@ -3498,7 +3498,7 @@ example:
 | mizuno cho | みずのちょう |  |  |
 | rca | rca |  |  |
 | satotuki tiyo | 里月ちよ |  |  |
-| gar | ガー |  |  |
+| gar | ガー |  | [pixiv](https://www.pixiv.net/users/6654506) \| [X](https://x.com/memememenome) \| [Lit.Link](https://lit.link/en/memememenome) |
 | shibaken goro | 柴犬五郎 |  |  |
 | tachibana roku | タチロク（MegaPantS） |  |  |
 | tang-pong | Tang-Pong★ |  |  |
