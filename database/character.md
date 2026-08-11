@@ -10055,6 +10055,7 @@ example:
 | honoka koshino | 越野穗乃花 | ![](https://neoapo.com/images/character/49665/cdeaaa36c37ae675af87c7ece2bdae5a.webp)<br>日语：越野ほのか<br>出自作品:`komekami girls` |  |
 | mai koshino | 越野舞 | ![](https://neoapo.com/images/character/49664/535227b6fa61b3de040166464f4cb2a8.webp)<br>日语：越野まい<br>出自作品:`komekami girls` |  |
 | mei koshino | 越野芽衣 | ![](https://neoapo.com/images/character/49660/eb38e065db22a02f7dbee68fee2e0227.webp)<br>日语：越野めい<br>出自作品:`komekami girls` |  |
+| minori koshino | 越野实 | ![](https://neoapo.com/images/character/49659/2427a382732c7a65f7889516794095d5.png)<br>日语：越野みのり<br>出自作品:`komekami girls` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
