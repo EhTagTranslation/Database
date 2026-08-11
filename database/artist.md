@@ -15559,6 +15559,7 @@ example:
 | kugara | くがら |  |  |
 | dokonoko | どこの子 |  | [pixiv](https://www.pixiv.net/users/2887833) |
 | mochiume | 餅梅 |  |  |
+| datsuyuru | だつゆる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
