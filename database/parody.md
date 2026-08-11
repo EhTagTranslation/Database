@@ -2959,6 +2959,7 @@ example:
 | hiseki shinki arcana saber | 秘迹神姬Arcana Saber | ![](https://t.vndb.org/cv.t/79/130879.jpg)<br>秘蹟神姫アルカナセイバー |  |
 | ibitte konai gibo to gishi | 不虐待我的继母与继姐 | ![](https://lain.bgm.tv/r/400/pic/cover/l/04/7e/572613_v58Bn.jpg)<br>日语：いびってこない義母と義姉<br>作者：おつじ |  |
 | ushiro no shoumen kamui-san | 正后方的神威 | ![](https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg)<br>日语：うしろの正面カムイさん<br>作者：えろき |  |
+| komekami girls | 七米神物语 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7c/53/282118_iM5mP.jpg)<br>日语：こめかみっ！ガールズ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
