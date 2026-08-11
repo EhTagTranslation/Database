@@ -15560,6 +15560,7 @@ example:
 | dokonoko | どこの子 |  | [pixiv](https://www.pixiv.net/users/2887833) |
 | mochiume | 餅梅 |  |  |
 | datsuyuru | だつゆる |  |  |
+| medewoi | めでをい |  | [pixiv](https://www.pixiv.net/users/4122947) \| [X](https://x.com/medewoi3) \| [Ci-en](https://ci-en.dlsite.com/creator/4642) |
 
 <!--TEMPLATE:
 |  |  |  |  |
