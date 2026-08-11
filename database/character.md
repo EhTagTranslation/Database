@@ -10064,6 +10064,7 @@ example:
 | kaiboukan no.22 | 海防艦 no.22 |  |  |
 | kaiboukan no.30 | 海防艦 no.30 |  |  |
 | kaiboukan no.4 | 海防艦 no.4 |  |  |
+| ellenor ljos alf | 艾尔诺·利欧斯·阿尔弗 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/9/9d/Ellenor_Ljos_Alf_-_Anime_Design.png)<br>日语：エルノール・リヨス・アールヴ<br>出自作品:`tsue to tsurugi no wistoria` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
