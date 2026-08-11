@@ -15564,6 +15564,7 @@ example:
 | 610cc | 610cc. |  | [pixiv](https://www.pixiv.net/users/22044554) \| [X](https://x.com/610thirteen) \| [FANBOX](https://cc610.fanbox.cc/) \| [Misskey.io](https://misskey.io/@YUKARI1) \| [Skeb](https://skeb.jp/@610cc) |
 | oninarasu | 鬼鳴らす |  | [pixiv](https://www.pixiv.net/users/1284629) \| [FANBOX](https://ddks2923.fanbox.cc/) |
 | daruguxwa | だるぐゎ |  | [pixiv](https://www.pixiv.net/users/36527897) \| [FANBOX](https://daruguxwa.fanbox.cc/) \| [X](https://x.com/Daruguxwa) \| [Patreon](https://www.patreon.com/u84996563) \| [Skeb](https://skeb.jp/@Daruguxwa) |
+| romeku | ろめく |  | [X](https://x.com/RomeokoolJE) \| [Ci-en](https://ci-en.dlsite.com/creator/37292) \| [pixiv](https://www.pixiv.net/users/73111406) \| [Skeb](https://skeb.jp/@RomeoKoolJE) |
 
 <!--TEMPLATE:
 |  |  |  |  |
