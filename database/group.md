@@ -4159,7 +4159,7 @@ example:
 | darmax | DARMAX |  |  |
 | darumasan koronda | 達磨さん転んだ |  |  |
 | dashigara 100 | ダシガラ100% |  |  |
-| dashimakitamago | DASHIMAKITAMAGO |  |  |
+| dashimakitamago | DASHIMAKITAMAGO |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74507/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG19239.html) \| [Ci-en](https://ci-en.dlsite.com/creator/3140) |
 | dashinoko | だしの粉 |  |  |
 | dashiotto | だしおっと |  |  |
 | dass | DASS |  |  |
