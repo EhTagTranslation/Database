@@ -10068,6 +10068,7 @@ example:
 | edward serfence | 爱德沃·赛尔芬斯 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/a/ae/Edward_Serfence_-_Anime_Design.png)<br>日语：エドワルド・セルフェンス<br>出自作品:`tsue to tsurugi no wistoria` |  |
 | workner norgram | 瓦克纳·诺格拉姆 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/8/8d/Workner_Norgram_-_Anime_Design.png)<br>日语：ワークナー・ノーグラム<br>出自作品:`tsue to tsurugi no wistoria` |  |
 | cerridwen | 凯莉德温 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/e/ee/Cerridwen_-_Anime_Design.png)<br>日语：ケリドウェン<br>出自作品:`tsue to tsurugi no wistoria` |  |
+| will serfort | 威尔·赛尔佛特 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/2/28/Will_Serfort_%28Thorzeus_Fasce%29_-_Anime_Design.png)<br>日语：ウィル・セルフォルト<br>出自作品:`tsue to tsurugi no wistoria` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
