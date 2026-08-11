@@ -10062,6 +10062,7 @@ example:
 | kurourushi | 黑沐死 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/4/48/Kurourushi_%28Anime%29.png)<br>出自作品:`jujutsu kaisen` |  |
 | takako uro | 乌鹭亨子 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/84/Takako_Uro_%28Anime%29.png)<br>出自作品:`jujutsu kaisen` |  |
 | kaiboukan no.22 | 海防艦 no.22 |  |  |
+| kaiboukan no.30 | 海防艦 no.30 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
