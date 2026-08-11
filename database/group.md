@@ -14107,7 +14107,7 @@ example:
 | ringokai | 林檎会 |  |  |
 | asia no hiraki | あじあのひらき |  |  |
 | mizu no uro | みずのウロ |  |  |
-| maguro fiction | マグロ☆フィクション |  |  |
+| maguro fiction | マグロ☆フィクション |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200487/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG51855.html) |
 | tsubakitei | 椿亭 |  |  |
 | morningstar rush | モニスタラッシュ |  |  |
 | heikou kikai gakuron | 平行奇塊学論 |  |  |
