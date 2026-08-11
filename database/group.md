@@ -10669,7 +10669,7 @@ example:
 | spiral | すぱいらる |  |  |
 | spirit-edge | Spirit-Edge |  |  |
 | splush wave | SPLUSH WAVE |  |  |
-| spongehead | スポンジヘッド |  |  |
+| spongehead | スポンジヘッド |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77327/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44214.html/) |
 | spookyhouse | spookyhouse |  |  |
 | spread happiness | Spread Happiness |  |  |
 | sprechchor | シュプレヒコール |  |  |
