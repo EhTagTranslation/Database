@@ -276,7 +276,7 @@ example:
 | izumi yuujiro | 泉ゆうじろ～ |  |  |
 | itameshi | 炒饭 |  |  |
 | hiraoka ryuichi | 平冈龙一 |  |  |
-| maguro teikoku | まぐろ帝国 |  |  |
+| maguro teikoku | まぐろ帝国 |  | [pixiv](https://www.pixiv.net/users/12752460) \| [X](https://x.com/tunateisyoku) |
 | pote | ぽて |  |  |
 | karakuchi choucream | 樱井マキ |  |  |
 | mafen | マフェン |  |  |
