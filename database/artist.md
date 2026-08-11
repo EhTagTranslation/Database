@@ -15563,6 +15563,7 @@ example:
 | medewoi | めでをい |  | [pixiv](https://www.pixiv.net/users/4122947) \| [X](https://x.com/medewoi3) \| [Ci-en](https://ci-en.dlsite.com/creator/4642) |
 | 610cc | 610cc. |  | [pixiv](https://www.pixiv.net/users/22044554) \| [X](https://x.com/610thirteen) \| [FANBOX](https://cc610.fanbox.cc/) \| [Misskey.io](https://misskey.io/@YUKARI1) \| [Skeb](https://skeb.jp/@610cc) |
 | oninarasu | 鬼鳴らす |  | [pixiv](https://www.pixiv.net/users/1284629) \| [FANBOX](https://ddks2923.fanbox.cc/) |
+| daruguxwa | だるぐゎ |  | [pixiv](https://www.pixiv.net/users/36527897) \| [FANBOX](https://daruguxwa.fanbox.cc/) \| [X](https://x.com/Daruguxwa) \| [Patreon](https://www.patreon.com/u84996563) \| [Skeb](https://skeb.jp/@Daruguxwa) |
 
 <!--TEMPLATE:
 |  |  |  |  |
