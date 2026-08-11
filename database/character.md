@@ -10061,6 +10061,7 @@ example:
 | okoge oniyama | 鬼山锅巴 | ![](https://neoapo.com/images/character/49666/e5606de8891e89b56e733e5548ad709f.webp)<br>日语：鬼山おこげ<br>出自作品:`komekami girls` |  |
 | kurourushi | 黑沐死 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/4/48/Kurourushi_%28Anime%29.png)<br>出自作品:`jujutsu kaisen` |  |
 | takako uro | 乌鹭亨子 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/84/Takako_Uro_%28Anime%29.png)<br>出自作品:`jujutsu kaisen` |  |
+| kaiboukan no.22 | 海防艦 no.22 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
