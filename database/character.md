@@ -10052,6 +10052,7 @@ example:
 | shiduka mimiduka | 耳冢志津香 | ![](https://lain.bgm.tv/r/400/pic/crt/l/19/d4/170190_crt_ZBbUC.jpg)<br>日语：耳塚シヅカ<br>出自作品:`ushiro no shoumen kamui-san` |  |
 | odette spessiva | 奥黛塔·苏佩茜娃 | ![](https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Odette_Card.png)<br>出自作品:`genshin impact` |  |
 | hikari koshino | 越野光 | ![](https://neoapo.com/images/character/49661/b1165a3b590fbbb4d3e93e638c0a6e58.webp)<br>日语：越野ひかり<br>出自作品:`komekami girls` |  |
+| honoka koshino | 越野穗乃花 | ![](https://neoapo.com/images/character/49665/cdeaaa36c37ae675af87c7ece2bdae5a.webp)<br>日语：越野ほのか<br>出自作品:`komekami girls` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
