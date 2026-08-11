@@ -10059,6 +10059,7 @@ example:
 | momi koshino | 越野籾 | ![](https://neoapo.com/images/character/49663/6cc2834c4b0e08182641998d969023a5.webp)<br>日语：越野もみ<br>出自作品:`komekami girls` |  |
 | sanae koshino | 越野早苗 | ![](https://neoapo.com/images/character/49658/926df75de100fe395fcd0cbed3f43b7c.webp)<br>日语：越野さなえ<br>出自作品:`komekami girls` |  |
 | okoge oniyama | 鬼山锅巴 | ![](https://neoapo.com/images/character/49666/e5606de8891e89b56e733e5548ad709f.webp)<br>日语：鬼山おこげ<br>出自作品:`komekami girls` |  |
+| kurourushi | 黑沐死 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/4/48/Kurourushi_%28Anime%29.png)<br>出自作品:`jujutsu kaisen` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
