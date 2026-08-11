@@ -6554,7 +6554,7 @@ example:
 | kanif | Kanif |  |  |
 | kanikama | カニカマ |  |  |
 | kanikoro | KANIKORO |  |  |
-| kanimaru | かにまる |  |  |
+| kanimaru | かにまる |  | [pixiv](https://www.pixiv.net/users/781546) \| [Skeb](https://skeb.jp/@marunika) \| [Fantia](https://fantia.jp/marunika) |
 | kanimura ebio | 蟹村虾夫 |  |  |
 | kanitaro | かに太郎 |  |  |
 | kanitoon | 蟹丹 |  |  |
