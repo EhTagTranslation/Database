@@ -15565,6 +15565,7 @@ example:
 | oninarasu | 鬼鳴らす |  | [pixiv](https://www.pixiv.net/users/1284629) \| [FANBOX](https://ddks2923.fanbox.cc/) |
 | daruguxwa | だるぐゎ |  | [pixiv](https://www.pixiv.net/users/36527897) \| [FANBOX](https://daruguxwa.fanbox.cc/) \| [X](https://x.com/Daruguxwa) \| [Patreon](https://www.patreon.com/u84996563) \| [Skeb](https://skeb.jp/@Daruguxwa) |
 | romeku | ろめく |  | [X](https://x.com/RomeokoolJE) \| [Ci-en](https://ci-en.dlsite.com/creator/37292) \| [pixiv](https://www.pixiv.net/users/73111406) \| [Skeb](https://skeb.jp/@RomeoKoolJE) |
+| hinnnya | ひんにゃー |  | [X](https://x.com/HinnNya)<br>[https://hinnnya.com/](https://hinnnya.com/)<br>[pixiv](https://www.pixiv.net/users/60365301) |
 
 <!--TEMPLATE:
 |  |  |  |  |
