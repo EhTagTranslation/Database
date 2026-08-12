@@ -10071,6 +10071,7 @@ example:
 | will serfort | 威尔·赛尔佛特 | ![](https://static.wikia.nocookie.net/tsue-to-tsurugi-no-wistoria/images/2/28/Will_Serfort_%28Thorzeus_Fasce%29_-_Anime_Design.png)<br>日语：ウィル・セルフォルト<br>出自作品:`tsue to tsurugi no wistoria` |  |
 | u-47 | U-47 | ![](https://azurlane.netojuu.com/images/a/a6/U-47.png)<br>出自作品:`azur lane` |  |
 | ibuki tonami | 砺波伊吹 | ![](https://ami.animecharactersdatabase.com/images%20of/Ibuki%20Tonami/from/Kamiina%20Botan%20Yoeru%20Sugata%20wa%20Yuri%20no%20Hana/uploads/chars/67712-125500253.png)<br>日语：砺波いぶき<br>出自作品:`kamiina botan yoeru sugata wa yuri no hana` |  |
+| botan kamiina | 上伊那牡丹 | ![](https://ami.animecharactersdatabase.com/images%20of/Botan%20Kamiina/from/Kamiina%20Botan%20Yoeru%20Sugata%20wa%20Yuri%20no%20Hana/uploads/chars/67712-1383919154.png)<br>日语：上伊那ぼたん<br>出自作品:`kamiina botan yoeru sugata wa yuri no hana` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
