@@ -14152,6 +14152,7 @@ example:
 | misobolo dou | みそボーロ堂 |  |  |
 | ponpokomaru | ぽんぽこ丸 |  |  |
 | shin nankai daikessen | 真・南海大決戦 |  |  |
+| haru garden | 春garden |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
