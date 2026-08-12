@@ -15566,6 +15566,7 @@ example:
 | daruguxwa | だるぐゎ |  | [pixiv](https://www.pixiv.net/users/36527897) \| [FANBOX](https://daruguxwa.fanbox.cc/) \| [X](https://x.com/Daruguxwa) \| [Patreon](https://www.patreon.com/u84996563) \| [Skeb](https://skeb.jp/@Daruguxwa) |
 | romeku | ろめく |  | [X](https://x.com/RomeokoolJE) \| [Ci-en](https://ci-en.dlsite.com/creator/37292) \| [pixiv](https://www.pixiv.net/users/73111406) \| [Skeb](https://skeb.jp/@RomeoKoolJE) |
 | hinnnya | ひんにゃー |  | [X](https://x.com/HinnNya)<br>[https://hinnnya.com/](https://hinnnya.com/)<br>[pixiv](https://www.pixiv.net/users/60365301) |
+| takasuke | タカスケ | ![タカスケ](https://p.sda1.dev/34/9923b2f7008b4ca8139c9787aa2e65a1/e0y18n5Q_400x400.jpg) | [X](https://x.com/takasuke1192)<br>[Fantia](https://fantia.jp/fanclubs/513401)<br>[FANBOX](https://takasuke0120.fanbox.cc/)<br>[pixiv](https://www.pixiv.net/users/79379865) |
 
 <!--TEMPLATE:
 |  |  |  |  |
