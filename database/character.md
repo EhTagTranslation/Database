@@ -10073,6 +10073,7 @@ example:
 | ibuki tonami | 砺波伊吹 | ![](https://ami.animecharactersdatabase.com/images%20of/Ibuki%20Tonami/from/Kamiina%20Botan%20Yoeru%20Sugata%20wa%20Yuri%20no%20Hana/uploads/chars/67712-125500253.png)<br>日语：砺波いぶき<br>出自作品:`kamiina botan yoeru sugata wa yuri no hana` |  |
 | botan kamiina | 上伊那牡丹 | ![](https://ami.animecharactersdatabase.com/images%20of/Botan%20Kamiina/from/Kamiina%20Botan%20Yoeru%20Sugata%20wa%20Yuri%20no%20Hana/uploads/chars/67712-1383919154.png)<br>日语：上伊那ぼたん<br>出自作品:`kamiina botan yoeru sugata wa yuri no hana` |  |
 | kanami | 观阿弥 | ![](https://lain.bgm.tv/r/400/pic/crt/l/9a/ab/205400_crt_UUmKo.jpg)<br>出自作品:`the world is dancing` |  |
+| shirabyoshi | 白拍子 | ![](https://sh-anime.shochiku.co.jp/worldisdancing-anime/assets/images/character/img_illust13.webp)<br>出自作品:`the world is dancing` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
