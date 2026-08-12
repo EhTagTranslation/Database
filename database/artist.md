@@ -15570,6 +15570,7 @@ example:
 | misobolo | みそボーロ |  |  |
 | ushihashiru | ウシハシル |  |  |
 | kasuga ellie | 春日エリイ |  |  |
+| yotaka no yona | 夜鷹野ヨナ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
