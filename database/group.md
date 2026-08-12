@@ -14153,6 +14153,7 @@ example:
 | ponpokomaru | ぽんぽこ丸 |  |  |
 | shin nankai daikessen | 真・南海大決戦 |  |  |
 | haru garden | 春garden |  |  |
+| ikari no mofumofu kintama ga gekitotsu shoukai | 怒りのもふもふ金玉が激突商会 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
