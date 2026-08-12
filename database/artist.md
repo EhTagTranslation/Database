@@ -15569,6 +15569,7 @@ example:
 | takasuke | タカスケ | ![タカスケ](https://p.sda1.dev/34/9923b2f7008b4ca8139c9787aa2e65a1/e0y18n5Q_400x400.jpg) | [X](https://x.com/takasuke1192)<br>[Fantia](https://fantia.jp/fanclubs/513401)<br>[FANBOX](https://takasuke0120.fanbox.cc/)<br>[pixiv](https://www.pixiv.net/users/79379865) |
 | misobolo | みそボーロ |  |  |
 | ushihashiru | ウシハシル |  |  |
+| kasuga ellie | 春日エリイ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
