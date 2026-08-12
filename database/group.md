@@ -14155,6 +14155,7 @@ example:
 | haru garden | 春garden |  |  |
 | ikari no mofumofu kintama ga gekitotsu shoukai | 怒りのもふもふ金玉が激突商会 |  |  |
 | torigara soup | 鷹ノ目商会 |  |  |
+| seifuku monochrome | 制服モノクローム |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
