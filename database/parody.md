@@ -2961,6 +2961,7 @@ example:
 | ushiro no shoumen kamui-san | 正后方的神威 | ![](https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg)<br>日语：うしろの正面カムイさん<br>作者：えろき |  |
 | komekami girls | 七米神物语 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7c/53/282118_iM5mP.jpg)<br>日语：こめかみっ！ガールズ |  |
 | kamiina botan yoeru sugata wa yuri no hana | 上伊那牡丹，酒醉身姿似百合花般 | ![](https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_Ru78k.jpg)<br>作者：塀 |  |
+| the world is dancing | 世界在起舞 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e5/4e/622633_JNfJt.jpg)<br>日语：ワールド イズ ダンシング<br>中文名: THE WORLD IS DANCING 世界在起舞 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
