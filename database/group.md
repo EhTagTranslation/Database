@@ -14156,6 +14156,7 @@ example:
 | ikari no mofumofu kintama ga gekitotsu shoukai | 怒りのもふもふ金玉が激突商会 |  |  |
 | torigara soup | 鷹ノ目商会 |  |  |
 | seifuku monochrome | 制服モノクローム |  |  |
+| hard maniax | はーど☆まにあっくす |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
