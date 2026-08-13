@@ -8686,7 +8686,7 @@ example:
 | neo kusano | NEO草野 |  |  |
 | neon ui | 音遠うい |  |  |
 | neoneet | 寝起新人 |  |  |
-| nepuka | ネプカ |  |  |
+| nepuka | ネプカ |  | [pixiv](https://www.pixiv.net/users/21322322) \| [X](https://x.com/nepu_ka) |
 | nerima marine | ねりままりね |  |  |
 | nerio | ねりお |  |  |
 | nero | nero |  |  |
