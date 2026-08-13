@@ -14158,6 +14158,7 @@ example:
 | seifuku monochrome | 制服モノクローム |  |  |
 | hard maniax | はーど☆まにあっくす |  |  |
 | favorites | FavoriteS(同人) |  |  |
+| uniro | uniro |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG63538.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
