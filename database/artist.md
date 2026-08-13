@@ -15577,6 +15577,7 @@ example:
 | iwataki taku | 岩滝たく |  |  |
 | skyhouse | スカイハウス |  |  |
 | ponsu | ぽんす |  |  |
+| youhei | ようへい♪ |  | [pixiv](https://www.pixiv.net/users/58094413) \| [FANBOX](https://in9black.fanbox.cc/) \| [X](https://x.com/G9G94G4G) |
 
 <!--TEMPLATE:
 |  |  |  |  |
