@@ -15576,6 +15576,7 @@ example:
 | dancho | だんちょ |  |  |
 | iwataki taku | 岩滝たく |  |  |
 | skyhouse | スカイハウス |  |  |
+| ponsu | ぽんす |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
