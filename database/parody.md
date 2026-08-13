@@ -2964,6 +2964,7 @@ example:
 | the world is dancing | 世界在起舞 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e5/4e/622633_JNfJt.jpg)<br>日语：ワールド イズ ダンシング<br>中文名: THE WORLD IS DANCING 世界在起舞 |  |
 | koisome momiji | 恋染红叶 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b3/06/49593_7G03e.jpg)<br>作画: ミウラタダヒロ |  |
 | youchien wars | 幼儿园战争 | ![](https://lain.bgm.tv/r/400/pic/cover/l/be/f7/406468_OVJrP.jpg)<br>日语：幼稚園WARS<br>作者: 千葉侑生 |  |
+| the genesis order | 创世秩序 |  | [Steam](https://store.steampowered.com/app/2553870/The_Genesis_Order/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
