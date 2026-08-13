@@ -14157,6 +14157,7 @@ example:
 | torigara soup | 鷹ノ目商会 |  |  |
 | seifuku monochrome | 制服モノクローム |  |  |
 | hard maniax | はーど☆まにあっくす |  |  |
+| favorites | FavoriteS(同人) |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
