@@ -1144,7 +1144,7 @@ example:
 | kotomi ichinose | 一之濑琴美 |  |  |
 | ryou fujibayashi | 藤林椋 |  |  |
 | kyou fujibayashi | 藤林杏 | ![](https://static.wikia.nocookie.net/umineko/images/b/b2/Kyou_smile_open.png)<br>出自作品:`clannad` |  |
-| nagisa furukawa | 古河渚 |  |  |
+| nagisa furukawa | 古河渚 | ![](https://static.wikia.nocookie.net/umineko/images/c/cb/Nagisa_mei_%282%29.png)<br>出自作品:`clannad` |  |
 | tomoyo sakagami | 坂上智代 | ![](https://static.wikia.nocookie.net/umineko/images/6/6d/Tomoyo_mei_%282%29.png)<br>出自作品:`clannad` |  |
 | yukine miyazawa | 宫泽有纪宁 |  |  |
 | mei sunohara | 春原芽衣 |  |  |
