@@ -505,7 +505,7 @@ example:
 | usubeni sakurako | うすべに桜子 |  |  |
 | nori | 糊 |  |  |
 | mitsugi | ミツギ |  |  |
-| seura isago | 濑浦沙悟 |  |  |
+| seura isago | 濑浦沙悟 |  | [Ci-en](https://ci-en.dlsite.com/creator/36978) \| [pixiv](https://www.pixiv.net/users/9871) \| [X](https://x.com/isago_s) \| [Lit.Link](https://lit.link/en/isago_s) |
 | tsukudani norio | 佃煮のりお |  |  |
 | kasugano tobari | 春日野トバリ |  |  |
 | hisaka hazara | 檜坂はざら |  |  |
