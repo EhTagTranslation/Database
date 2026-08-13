@@ -14160,6 +14160,7 @@ example:
 | favorites | FavoriteS(同人) |  |  |
 | uniro | uniro |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG63538.html) |
 | nani | なに |  |  |
+| yokokuhan | 予告犯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
