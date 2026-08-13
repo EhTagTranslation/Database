@@ -10076,6 +10076,7 @@ example:
 | shirabyoshi | 白拍子 | ![](https://sh-anime.shochiku.co.jp/worldisdancing-anime/assets/images/character/img_illust13.webp)<br>出自作品:`the world is dancing` |  |
 | konoka shima | 志真木乃香 | ![](https://static.wikia.nocookie.net/blue-archive/images/9/9e/Konoka_Portrait.png)<br>日语：志真コノカ<br>出自作品:`blue archive` |  |
 | indiana | 印第安纳 | ![](https://azurlane.netojuu.com/images/thumb/9/98/IndianaWithoutBG.png/1310px-IndianaWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/4/4a/IndianaWild_WestWithoutBG.png/1797px-IndianaWild_WestWithoutBG.png)<br>出自作品:`azur lane` |  |
+| rita | 莉塔 | ![](https://static.wikia.nocookie.net/kindergarten-wars/images/a/ae/Rita_Colored_Portrait.png)<br>日语：リタ<br>出自作品:`youchien wars` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
