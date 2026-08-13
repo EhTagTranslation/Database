@@ -13264,7 +13264,7 @@ example:
 | dodeca vitamin | ドデカビタミン |  |  |
 | mochiki sengyoten | もちき鮮魚店 |  |  |
 | koromoya | 衣屋 |  |  |
-| acesulfame kei | あせするふぁむ系 |  |  |
+| acesulfame kei | あせするふぁむ系 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG60020.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203240/) |
 | sukebe hatsudenjo | すけべ发电所 | 日语：すけべ発電所 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68789.html) |
 | katakana de velokisss | 平仮名で、べろきす |  |  |
 | shinkai-kajuen | 深海果樹園 |  |  |
