@@ -15572,6 +15572,7 @@ example:
 | kasuga ellie | 春日エリイ |  |  |
 | yotaka no yona | 夜鷹野ヨナ |  |  |
 | yorarry | よらりぃ☆ |  |  |
+| tobira | 扉 |  | [FANBOX](https://tobira.fanbox.cc/) \| [Skeb](https://skeb.jp/@pix_tobira) \| [X](https://x.com/pix_tobira) \| [pixiv](https://www.pixiv.net/users/59460457) \| [DLsite](https://ci-en.dlsite.com/creator/31082) \| [BOOTH](https://tobira.booth.pm/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
