@@ -12701,7 +12701,7 @@ example:
 | elica | ELICA |  |  |
 | gojihan | 五时半 |  |  |
 | netorare no tami | ネトラレの民 |  | [DLsite](https://ci-en.dlsite.com/creator/2417) \| [X](https://x.com/netorarenotami) \| [pixiv](https://www.pixiv.net/users/37432549) |
-| 7 rensa | 7连锁 |  |  |
+| 7 rensa | 7连锁 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201375/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54542.html) |
 | citrusniper | シトラスナイパー |  |  |
 | unadon | うなどぅーむ |  |  |
 | torii-za | 鳥居座 |  |  |
