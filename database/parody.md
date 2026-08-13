@@ -2962,6 +2962,7 @@ example:
 | komekami girls | 七米神物语 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7c/53/282118_iM5mP.jpg)<br>日语：こめかみっ！ガールズ |  |
 | kamiina botan yoeru sugata wa yuri no hana | 上伊那牡丹，酒醉身姿似百合花般 | ![](https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_Ru78k.jpg)<br>作者：塀 |  |
 | the world is dancing | 世界在起舞 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e5/4e/622633_JNfJt.jpg)<br>日语：ワールド イズ ダンシング<br>中文名: THE WORLD IS DANCING 世界在起舞 |  |
+| koisome momiji | 恋染红叶 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b3/06/49593_7G03e.jpg)<br>作画: ミウラタダヒロ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
