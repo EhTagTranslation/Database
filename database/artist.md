@@ -15578,6 +15578,7 @@ example:
 | skyhouse | スカイハウス |  |  |
 | ponsu | ぽんす |  |  |
 | youhei | ようへい♪ |  | [pixiv](https://www.pixiv.net/users/58094413) \| [FANBOX](https://in9black.fanbox.cc/) \| [X](https://x.com/G9G94G4G) |
+| firolian | firolian |  | [FANBOX](https://firolian.fanbox.cc/) \| [Patreon](https://www.patreon.com/firolian) |
 
 <!--TEMPLATE:
 |  |  |  |  |
