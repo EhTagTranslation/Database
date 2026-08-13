@@ -10074,6 +10074,7 @@ example:
 | botan kamiina | 上伊那牡丹 | ![](https://ami.animecharactersdatabase.com/images%20of/Botan%20Kamiina/from/Kamiina%20Botan%20Yoeru%20Sugata%20wa%20Yuri%20no%20Hana/uploads/chars/67712-1383919154.png)<br>日语：上伊那ぼたん<br>出自作品:`kamiina botan yoeru sugata wa yuri no hana` |  |
 | kanami | 观阿弥 | ![](https://sh-anime.shochiku.co.jp/worldisdancing-anime/assets/images/character/img_illust06.webp)<br>出自作品:`the world is dancing` |  |
 | shirabyoshi | 白拍子 | ![](https://sh-anime.shochiku.co.jp/worldisdancing-anime/assets/images/character/img_illust13.webp)<br>出自作品:`the world is dancing` |  |
+| konoka shima | 志真木乃香 | ![](https://static.wikia.nocookie.net/blue-archive/images/9/9e/Konoka_Portrait.png)<br>日语：志真コノカ<br>出自作品:`blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
