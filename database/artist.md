@@ -1920,7 +1920,7 @@ example:
 | ohayou-san | 翁さい |  |  |
 | nadeneko ponia | 撫狸ぽにあ |  |  |
 | harukoubou norimaki | 春工房のりまき |  |  |
-| forester | ふぉれすた |  |  |
+| forester | ふぉれすた |  | [X](https://x.com/forester_zvizva) |
 | metal owl | Metal Owl |  |  |
 | ozaki miray | 尾崎未来 |  | [FANBOX](https://beat-pop.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/5349549) \| [X](https://x.com/beat_pop) \| [Pawoo](https://pawoo.net/@mirayozaki) \| [BOOTH](https://beat-pop.booth.pm/) |
 | madcat | Madcat |  |  |
