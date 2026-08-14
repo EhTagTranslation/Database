@@ -15582,6 +15582,7 @@ example:
 | raru. | raru。 |  |  |
 | uzura i | 鶉異 |  |  |
 | shibasaki koh | しばさきこう |  | [FANBOX](https://koh.fanbox.cc/) |
+| ikinari mojio | いきなりもじお |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
