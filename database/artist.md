@@ -11471,7 +11471,7 @@ example:
 | xii | イニ |  |  |
 | xiin | xiin |  |  |
 | xopc | XOPC |  |  |
-| xxzero | xxzero |  |  |
+| xxzero | xxzero |  | [pixiv](https://www.pixiv.net/users/248241) \| [FANBOX](https://xxzero.fanbox.cc/) \| [X](https://x.com/I0I0_0) \| [DLsite](https://ci-en.dlsite.com/creator/363) |
 | y | Y |  |  |
 | ya | ヤッ |  |  |
 | yabuki mao | 矢吹マオ \| 森下真央 |  |  |
