@@ -15581,6 +15581,7 @@ example:
 | firolian | firolian |  | [FANBOX](https://firolian.fanbox.cc/) \| [Patreon](https://www.patreon.com/firolian) |
 | raru. | raru。 |  |  |
 | uzura i | 鶉異 |  |  |
+| shibasaki koh | しばさきこう |  | [FANBOX](https://koh.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
