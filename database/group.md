@@ -13239,7 +13239,7 @@ example:
 | happy mayonnaise | ハッピーマヨネーズ |  |  |
 | echie kokufuku aka | えち絵克服アカ |  |  |
 | shirokujichu | 白九時中 |  |  |
-| kairaku | 快楽 |  |  |
+| kairaku | 快楽 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01006443.html) |
 | petra-beta | Petra-β |  |  |
 | ray-raw | Ray-Raw |  |  |
 | paiwohasa-mu | パイオハサーム |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203722/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG71066.html) |
