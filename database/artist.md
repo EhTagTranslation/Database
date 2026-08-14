@@ -9215,7 +9215,7 @@ example:
 | paruparu | ぱるぱる |  |  |
 | pasdar | pasdar |  | [pixiv](https://www.pixiv.net/users/3606870) [X](https://x.com/pasdar_mt02) |
 | pasera | ぱせら |  |  |
-| pastachin | パスタチン |  |  |
+| pastachin | パスタチン |  | [pixiv](https://www.pixiv.net/users/26926969) |
 | pato-chan | パトちゃん |  |  |
 | patori | ぱとり |  |  |
 | patricia | パトリシア |  |  |
