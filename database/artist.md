@@ -15584,6 +15584,7 @@ example:
 | shibasaki koh | しばさきこう |  | [FANBOX](https://koh.fanbox.cc/) |
 | ikinari mojio | いきなりもじお |  |  |
 | at uttakatta | @ウッタカッタ |  | [pixiv](https://www.pixiv.net/users/30509115) \| [FANBOX](https://wgyyf8h5.fanbox.cc/) \| [X](https://x.com/ooBOOK2) \| [Skeb](https://skeb.jp/@ooBOOK2) |
+| aitoka nantoka | アイトカナントカ |  | [FANBOX](https://aitoka7ntoka.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
