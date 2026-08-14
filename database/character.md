@@ -5914,7 +5914,7 @@ example:
 | lexington | 列克星敦 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/10a6899d06a5163cab5ec8cc1289f872262400697.png) |  |
 | chikagi katsuragi | 桂木千键 |  |  |
 | hibiki hibino | 日比乃响 |  |  |
-| kazuradrop | 糖果藤蔓 |  |  |
+| kazuradrop | 糖果藤蔓 | ![](https://static.wikia.nocookie.net/fategrandorder/images/8/8f/S426_Sprite_Ver1_Stage1.png)<br>出自作品:`fate grand order` |  |
 | tutankhamun | 图坦卡蒙 |  |  |
 | tony tony chopper | 多尼多尼·乔巴 | ![](https://static.wikia.nocookie.net/onepiece/images/3/3e/Tony_Tony_Chopper%27s_Wanted_Poster.png)<br>所属作品：`one piece` |  |
 | nancy lee | 南希·李 | 南希·李（日语：ナンシー・リー）是由Bradley Bond与Philip Ninj@ Morzez两人共同撰写的小说《忍者杀手》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/南希·李) |
