@@ -10082,7 +10082,7 @@ example:
 | talia yang | 塔莉亚·杨 | ![](https://static.wikia.nocookie.net/cyberpunk/images/e/e6/Talia_Yang_Infobox_CPEDGEII.png)<br>出自作品:`cyberpunk` |  |
 | lucky cyan | 幸运青 | ![](https://static.wikia.nocookie.net/to-be-herox/images/d/dd/Cyan_Casual.png)<br>出自作品:`to be hero x` |  |
 | kuroe akaishi | 赤石黑绘 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/2/2d/Kuroe_Akaishi_full_cha.png)<br>出自作品:`otome kaijuu carameliser` |  |
-| rinna milford isshiki | 一式琳奈 | ![](https://lain.bgm.tv/r/400/pic/crt/l/58/f3/103228_crt_fA5ah.jpg)<br>日语：一式リンナ・ミルフォード<br>出自作品:`isshiki-san wa koi wo shiritai.` |  |
+| rinna milford isshiki | 一式凜奈 | ![](https://lain.bgm.tv/r/400/pic/crt/l/58/f3/103228_crt_fA5ah.jpg)<br>日语：一式リンナ・ミルフォード<br>出自作品:`isshiki-san wa koi wo shiritai.` |  |
 | meishi rokutanda | 六反田明司 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e2/c6/212112_crt_e3EPh.jpg)<br>日语：六反田メイシ<br>出自作品:`isshiki-san wa koi wo shiritai.` |  |
 
 <!--TEMPLATE: 
