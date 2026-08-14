@@ -1893,7 +1893,7 @@ example:
 | protagonist | 主人公 |  |  |
 | minamoto no raikou | 源赖光 | ![](https://ehgt.org/w/00/869/62332-8erg2udh.webp)<br>出自作品：`p:fate grand order`<br><br>源赖光是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/源赖光%28Fate%29#) |
 | meltryllis | 梅尔特莉莉丝 | ![](https://static.wikia.nocookie.net/fategrandorder/images/8/82/S163_Sprite_Ver2_Stage3.png)<br>溶解莉莉丝(Meltryllis)是TYPE-MOON旗下的《Fate系列》及其衍生作品的登场角色，在游戏《Fate/EXTRA CCC》中首次登场。 | [萌娘百科](https://zh.moegirl.org.cn/溶解莉莉丝) |
-| passionlip | 帕森莉普 | 热情迷唇(Passionlip)是TYPE-MOON旗下的《Fate系列》及其衍生作品的登场角色。在游戏《Fate/EXTRA CCC》中首次登场。<br>![Passionlip](https://media.fgo.wiki/b/bf/Lip四.png) | [萌娘百科](https://zh.moegirl.org.cn/热情迷唇) |
+| passionlip | 帕森莉普 | ![](https://static.wikia.nocookie.net/fategrandorder/images/d/d8/S164_Sprite_Ver1_Costume1.png)<br>所属作品：`fate extra` | [萌娘百科](https://zh.moegirl.org.cn/热情迷唇) |
 | ushiwakamaru | 牛若丸 | ![图](https://ehgt.org/fc/57/fc57b2eb6d754dece69bdacf9d0ce14d65004321-2219263-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/牛若丸%28Fate%29) [Mooncell](http://www.fgo.wiki/w/牛若丸) |
 | jack the ripper | 开膛手杰克 | ![图](https://ehgt.org/f9/b3/f9b361b13e36d89d8f7804f98a6616299cbf3e05-2237855-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/开膛手杰克%28Fate/Apocrypha%29#) [Mooncell](http://www.fgo.wiki/w/开膛手杰克) |
 | jeanne alter | 贞德〔Alter〕 | ![](https://static.wikia.nocookie.net/typemoon/images/a/af/JeanneAltCasual.png)<br>日语：ジャンヌ・ダルク (オルタ)<br>所属作品：`fate grand order` | [Mooncell](http://www.fgo.wiki/w/贞德〔Alter〕) [萌娘百科](https://zh.moegirl.org.cn/贞德_Alter) |
