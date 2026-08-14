@@ -14163,6 +14163,7 @@ example:
 | yokokuhan | 予告犯 |  |  |
 | yosuga no su | よすがの巣 |  |  |
 | echi echi daifuku | 色色大福（えちえち大福） |  |  |
+| totomi ya | totomi屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01023221.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=221457/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
