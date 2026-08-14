@@ -10078,6 +10078,7 @@ example:
 | indiana | 印第安纳 | ![](https://azurlane.netojuu.com/images/thumb/9/98/IndianaWithoutBG.png/1310px-IndianaWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/4/4a/IndianaWild_WestWithoutBG.png/1797px-IndianaWild_WestWithoutBG.png)<br>出自作品:`azur lane` |  |
 | rita | 莉塔 | ![](https://static.wikia.nocookie.net/kindergarten-wars/images/a/ae/Rita_Colored_Portrait.png)<br>日语：リタ<br>出自作品:`youchien wars` |  |
 | logotype | 标志名驹 | ![](https://static.wikia.nocookie.net/umamusume/images/e/ed/Logotype_%28Race%29.png)<br>日语：ロゴタイプ<br>出自作品:`uma musume pretty derby` |  |
+| brera sterne | 布雷拉·斯特恩 | ![](https://lain.bgm.tv/r/400/pic/crt/l/02/7e/3396_crt_X3Vxp.jpg)<br>日语：ブレラ・スターン<br>出自作品:`macross frontier` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
