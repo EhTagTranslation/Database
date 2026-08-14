@@ -12378,7 +12378,7 @@ example:
 | zensyuui | 全周囲 |  |  |
 | zero | ゼロ |  |  |
 | zero calorie | ゼロカロリ |  |  |
-| zero-sen | zero戦 |  |  |
+| zero-sen | zero戦 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG16618.html) |
 | zero-xx | ZERO・XX |  |  |
 | zeroinfinityone | 0∞1 |  |  |
 | zeros factory | 零’sふぁくとりー |  |  |
