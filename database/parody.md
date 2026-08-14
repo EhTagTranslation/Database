@@ -2966,6 +2966,7 @@ example:
 | youchien wars | 幼儿园战争 | ![](https://lain.bgm.tv/r/400/pic/cover/l/be/f7/406468_OVJrP.jpg)<br>日语：幼稚園WARS<br>作者: 千葉侑生 |  |
 | the genesis order | 创世秩序 |  | [Steam](https://store.steampowered.com/app/2553870/The_Genesis_Order/) |
 | otome kaijuu carameliser | 少女怪兽焦糖味 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_PaMs9.jpg)<br>日语：乙女怪獣キャラメリゼ |  |
+| isshiki-san wa koi wo shiritai. | 一式警花动了恋心 | ![](https://lain.bgm.tv/r/400/pic/cover/l/03/0d/309827_DdEAS.jpg)<br>日语：一式さんは恋を知りたい |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
