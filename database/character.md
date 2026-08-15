@@ -3263,7 +3263,7 @@ example:
 | kaworu nagisa | 渚薰 | 是庵野秀明所创作的动画《新世纪福音战士》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/渚薰) |
 | hatsune kashiwazaki | 柏崎初音 | ![](https://static.wikia.nocookie.net/princess-connect/images/a/a5/Hatsune_%28game%29.png)<br>所属作品：`princess connect` |  |
 | mdr | MDR \| 卡萝 | MDR是由云母组研发、暗冬网络发行的战术策略养成类游戏《少女前线》（英：Girls' Frontline）及其衍生作品的登场角色。于2018.3.22加入游戏。`p:girls frontline`<br>![](https://www.gfwiki.org/images/7/72/Pic_MDR_HD.png)<br>`p:girls frontline neural cloud`<br>![](https://iopwiki.com/images/8/83/Kuro_base2.png) | [萌娘百科](https://zh.moegirl.org.cn/少女前线:MDR)<br>[少前百科GFwiki](https://gfwiki.org/w/MDR)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/卡萝) |
-| keqing | 刻晴 | ![](https://patchwiki.biligame.com/images/ys/e/e1/2q8rniqvsdsydnxhvemenvfz0cp6ugc.gif)<br>所属作品:`p:genshin impact`<br>璃月七星之一，玉衡星。对「帝君一言而决的璃月」颇有微词——但实际上，神挺欣赏她这样的人。 | [萌娘百科](https://zh.moegirl.org.cn/刻晴) |
+| keqing | 刻晴 | ![](https://patchwiki.biligame.com/images/ys/e/e1/2q8rniqvsdsydnxhvemenvfz0cp6ugc.gif)<br>所属作品:`p:genshin impact` | [萌娘百科](https://zh.moegirl.org.cn/刻晴) |
 | atsuko kagari | 篝敦子 | ![](https://static.wikia.nocookie.net/littlewitch/images/e/ef/Akko_final_design.png)<br>所属作品：`little witch academia` | [萌娘百科](https://zh.moegirl.org.cn/篝敦子) |
 | diana cavendish | 戴安娜·卡文迪什 | ![](https://static.wikia.nocookie.net/littlewitch/images/8/86/Diana_final_design.png)<br>所属作品：`little witch academia` | [萌娘百科](https://zh.moegirl.org.cn/戴安娜·卡文迪什) |
 | eriko kuraishi | 仓石惠理子 | ![](https://static.wikia.nocookie.net/princess-connect/images/2/2c/Eriko_%28game%29.png)<br>所属作品：`princess connect`<br>本名仓石惠理子，隶属于“暮光流星群”。 | [萌娘百科](https://zh.moegirl.org.cn/仓石惠理子) [bilibili游戏](https://wiki.biligame.com/pcr/惠理子) |
