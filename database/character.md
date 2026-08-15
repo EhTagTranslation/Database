@@ -7915,7 +7915,7 @@ example:
 | iori kitahara | 毒岛樱子 | ![](https://ehgt.org/w/02/165/64312-c05x7b31.webp)<br>所属作品：`grand blue` |  |
 | liberalio | 莉贝雷利奥 | ![](https://static.dotgg.gg/nikke/characters/c262_00.webp)<br>所属作品：`goddess of victory nikke` |  |
 | sarasa saionji | 彩园寺更纱 | ![](https://ehgt.org/w/02/127/34489-8essqjwq.webp)<br>所属作品：`liar liar` |  |
-| mine | 玛茵 | ![](https://ehgt.org/w/01/970/38375-fjmo8sh9.webp)<br>所属作品：`akame ga kill`<br>Night Raid成员，个性强势，自称射击的天才，双马尾傲娇属性。 |  |
+| mine | 玛茵 | ![](https://static.wikia.nocookie.net/all-worlds-alliance/images/1/18/6ec3bc4aef4af147c6d2ad996be96fc0.png)<br>日语：マイン<br>所属作品：`akame ga kill` |  |
 | tatsumi | 塔兹米 | ![](https://static.wikia.nocookie.net/akamegakill/images/1/1e/Tatsumi_main.png)<br>所属作品：`akame ga kill` |  |
 | tessia eralith | 提西娅·艾拉利斯 | ![](https://ehgt.org/w/01/822/76003-vdi06sum.webp)<br>所属作品：`the beginning after the end` |  |
 | michiru tojo | 都条未知留 | ![](https://static.wikia.nocookie.net/multiversal-rulers/images/f/f1/Michiru_Tojo_Cool_Pose.png)<br>所属作品：`dolphin wave` |  |
