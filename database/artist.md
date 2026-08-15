@@ -5177,7 +5177,7 @@ example:
 | fujiyama | 富士やま |  |  |
 | fujiyama takashi | フジヤマタカシ |  |  |
 | fuka | FUKA |  |  |
-| fukada takushi | 深田拓士 |  |  |
+| fukada takushi | 深田拓士 |  | [pixiv](https://www.pixiv.net/users/2905052) \| [X](https://x.com/fkd_t) |
 | fukai maro | ふかぃまろ |  |  |
 | fukai miyabi | 深井雅 |  |  |
 | fukami naoyuki | 深水直行 |  |  |
