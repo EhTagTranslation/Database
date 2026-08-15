@@ -8089,7 +8089,7 @@ example:
 | linie | 莉 | ![](https://static.wikia.nocookie.net/frieren/images/b/b7/Linie_anime_profile.png)<br>所属作品：`sousou no frieren`<br>阿乌拉麾下的“斩首吏”魔族之一，使用的魔法为模仿魔法。 |  |
 | gene | 珍妮 | ![](https://ehgt.org/w/00/973/49270-6eq3p88q.webp)<br>所属作品：`phantasy star online 2` |  |
 | ani | Grok Ani | ![](https://ehgt.org/w/01/978/30272-aj4mqwhb.webp)<br>马斯克旗下xAI公司推出的AI伴侣，作为Grok应用的3D动画角色，定位为哥特风格动漫女孩。 |  |
-| escher hannibalk | 伊夏·汉尼巴鲁库 | ![](https://static.wikia.nocookie.net/reincarnated-as-the-7th-prince/images/d/d8/Escher-FullArt2-Anime.png)<br>所属作品：`tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu`<br>侍奉沙鲁姆王国迪恩地区教会的温柔修女。 | [Fandom](https://reincarnated-as-the-7th-prince.fandom.com/wiki/Escher) |
+| escher hannibalk | 伊夏·汉尼巴鲁库 | ![](https://static.wikia.nocookie.net/reincarnated-as-the-7th-prince/images/d/d8/Escher-FullArt2-Anime.png)<br>所属作品：`tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu` | [Fandom](https://reincarnated-as-the-7th-prince.fandom.com/wiki/Escher) |
 | talia | 塔利亚 | ![](https://static.wikia.nocookie.net/reincarnated-as-the-7th-prince/images/8/82/Talia-FullArt-Anime.png)<br>所属作品：`tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu` | [Fandom](https://reincarnated-as-the-7th-prince.fandom.com/wiki/Talia) |
 | hana mutou | 梦塔花 | ![](https://static.wikia.nocookie.net/captain-earth/images/5/5d/Captain_Earth_Wiki_-_Character_-_Hana_Mutou_-_Casual.png)<br>所属作品：`captain earth`<br>有着17岁外表的少女，真实身份不明。幼时在种子岛基地的地下被真夏大地和岚彻平从沉睡中唤醒。 | [Fandom](https://captain-earth.fandom.com/wiki/Hana_Mutou) |
 | aika sumeragi | 皇蓝华 | ![](https://ehgt.org/w/01/953/23384-hv5j7v23.webp)<br>所属作品：`agent aika`<br>16岁，高中一年级生，经常会迟到。强化人，是强化人实验中唯一幸存活着的人。 |  |
