@@ -10085,6 +10085,7 @@ example:
 | rinna milford isshiki | 一式凜奈 | ![](https://lain.bgm.tv/r/400/pic/crt/l/58/f3/103228_crt_fA5ah.jpg)<br>日语：一式リンナ・ミルフォード<br>出自作品:`isshiki-san wa koi wo shiritai.` |  |
 | meishi rokutanda | 六反田明司 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e2/c6/212112_crt_e3EPh.jpg)<br>日语：六反田メイシ<br>出自作品:`isshiki-san wa koi wo shiritai.` |  |
 | kingprotea | 帝王花 | ![](https://static.wikia.nocookie.net/fategrandorder/images/5/5b/S238_Sprite_Ver1_Stage1.png)<br>出自作品:`fate grand order` |  |
+| krena | 克蕾娜 | ![](https://static.wikia.nocookie.net/hell-mode/images/9/94/Krena.png)<br>日语：クレナ<br>出自作品:`hell mode yarikomizuki no gamer wa hai settei no isekai de musou suru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
