@@ -1404,7 +1404,7 @@ example:
 | hellboy | 地狱男爵 | 地狱男爵（英语：Hellboy），是由美国黑马漫画公司的漫画家麦克·米纽拉（Mike Mignola）所创造的虚构角色。 | [维基百科](https://zh.wikipedia.org/wiki/地狱男爵) (\*) |
 | akebi no mi | 山姬之实 | 山姫の実 |  |
 | stardew valley | 星露谷物语 | 《星露谷物语》（英语：Stardew Valley）是一款由ConcernedApe开发，由呵呵鱼工作室于2016年发行的模拟类角色扮演游戏。 | [维基百科](https://zh.wikipedia.org/wiki/星露谷物语) (\*) |
-| tensei shitara slime datta ken | 关于我转生变成史莱姆这档事 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7b/d6/239816_BbNdb.jpg)<br>日语：転生したらスライムだった件）<br>作者：日本小说家伏瀬创作的。 | [维基百科](https://zh.wikipedia.org/wiki/關於我轉生變成史萊姆這檔事) (\*) |
+| tensei shitara slime datta ken | 关于我转生变成史莱姆这档事 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7b/d6/239816_BbNdb.jpg)<br>日语：転生したらスライムだった件）<br>作者：日本小说家伏瀬 | [维基百科](https://zh.wikipedia.org/wiki/關於我轉生變成史萊姆這檔事) (\*) |
 | quiz rpg mahoutsukai to kuroneko no wiz | 黑猫维兹 | 《黑猫维兹》（韩语：퀴즈RPG 위즈，日语：クイズRPG 魔法使いと黒猫のウィズ，英语：Quiz RPG: The World of Mystic Wiz，港台译作“问答RPG 魔法使与黑猫维兹”）是日本开发的奇幻主题的问答类角色扮演游戏，对应Android和iOS平台。繁体中文版由so-net于2015年开始运营。 | [维基百科](https://zh.wikipedia.org/wiki/問答RPG_魔法使與黑貓維茲) (\*) |
 | boku no dorei shoukan | 我的奴隶妓院 |  |  |
 | silent mobius | 魔法阵都市 | 《魔法阵都市》（日语：サイレントメビウス，英语：Silent Möbius）是日本漫画家麻宫骑亚在《月刊Comic Comp》（角川书店刊）从1988年开始连载 （途中移籍《月刊Comic Dragon》）的一部科幻漫画。 | [维基百科](https://zh.wikipedia.org/wiki/魔法陣都市) (\*) |
