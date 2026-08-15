@@ -3270,7 +3270,7 @@ example:
 | monkshood | 乌头 | 乌头(Aconite)是网页RPG游戏《美少女花骑士》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/美少女花骑士:乌头) |
 | makoto kowata | 木幡真琴 | 所属作品: `p:flying witch` | [萌娘百科](https://zh.moegirl.org.cn/木幡真琴) |
 | elaina | 伊蕾娜 | ![](https://ehgt.org/w/02/099/18292-8hdas413.webp)<br>所属作品：`majo no tabitabi` |  |
-| ganyu | 甘雨 | ![](https://patchwiki.biligame.com/images/ys/d/d4/3s7dc0nth0m43tv29jimts3whaz7xgl.gif)<br>所属作品：`genshin impact`<br>月海亭的秘书，体内流淌着仙兽「麒麟」的血脉。 | [萌娘百科](https://zh.moegirl.org.cn/甘雨) |
+| ganyu | 甘雨 | ![](https://patchwiki.biligame.com/images/ys/d/d4/3s7dc0nth0m43tv29jimts3whaz7xgl.gif)<br>所属作品：`genshin impact` | [萌娘百科](https://zh.moegirl.org.cn/甘雨) |
 | jean gunnhildr | 琴·古恩希尔德 | 琴·古恩希尔德（英语：jean gunnhildr）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b7/Genshin_Jean_intro.jpg) | [萌娘百科](https://zh.moegirl.org.cn/琴·古恩希尔德) |
 | jean | 琴 | ![](https://patchwiki.biligame.com/images/ys/2/27/r5wsqozq60ykxpyc29d6wc69lckrg8s.gif)<br>所属作品：`genshin impact`<br>正直严谨的蒲公英骑士，蒙德西风骑士团的代理团长。 | [BILIGAME WIKI](https://wiki.biligame.com/ys/琴) |
 | midori fuse | 布施翠 |  |  |
