@@ -15588,6 +15588,7 @@ example:
 | azusa | Azusa |  | [pixiv](https://www.pixiv.net/users/86380499) \| [Patreon](https://www.patreon.com/cw/azusa105) |
 | kurusu han | 来栖判 |  | [pixiv](https://www.pixiv.net/users/109172583) |
 | ibaten | いばてん |  | [pixiv](https://www.pixiv.net/users/83208177) |
+| blondie | Blondie |  | [X](https://x.com/blondie_nsfw) \| [Skeb](https://skeb.jp/@Blondie) \| [pixiv](https://www.pixiv.net/users/761167) \| [FANBOX](https://blondieart.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
