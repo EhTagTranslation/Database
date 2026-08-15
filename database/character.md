@@ -3425,7 +3425,7 @@ example:
 | xiao | 魈 | 魈（英语：xiao）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/4d/魈（方图）.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/魈) |
 | razor | 雷泽 | 雷泽（英语：razor）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/8/8c/奔狼领的传说_雷泽.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/雷泽) |
 | suzuran | 铃兰 | ![](https://patchwiki.biligame.com/images/arknights/0/0c/rzkrkwym37683an9wwbohinaji9xnq5.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:铃兰) |
-| hana midorikawa | 绿川花 |  |  |
+| hana midorikawa | 绿川花 | ![](https://static.wikia.nocookie.net/prison-school/images/5/57/Hana_anime.jpeg)<br>出自作品:`prison school` |  |
 | meiko shiraki | 白木芽衣子 |  |  |
 | luz noceda | 露丝·诺西达 |  |  |
 | toph bei fong | 北方拓芙 | ![](https://static.wikia.nocookie.net/avatar/images/4/46/Toph_Beifong.png)<br>所属作品：`avatar the last airbender` |  |
