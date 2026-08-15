@@ -10087,6 +10087,7 @@ example:
 | kingprotea | 帝王花 | ![](https://static.wikia.nocookie.net/fategrandorder/images/5/5b/S238_Sprite_Ver1_Stage1.png)<br>出自作品:`fate grand order` |  |
 | krena | 克蕾娜 | ![](https://static.wikia.nocookie.net/hell-mode/images/9/94/Krena.png)<br>日语：クレナ<br>出自作品:`hell mode yarikomizuki no gamer wa hai settei no isekai de musou suru` |  |
 | cecile granvelle | 萨希尔·格兰威尔 | ![](https://static.wikia.nocookie.net/hell-mode/images/5/5f/Cecil.png)<br>日语：セシル・グランヴェル<br>出自作品:`hell mode yarikomizuki no gamer wa hai settei no isekai de musou suru` |  |
+| diabellze the original sinkeeper | 原罪之迪亚贝尔泽 | ![](https://static.wikia.nocookie.net/yugioh/images/3/38/DiabellzetheOriginalSinkeeper-MP25-EN-PScR-1E.png)<br>出自作品:`yu-gi-oh` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
