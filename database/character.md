@@ -1231,7 +1231,7 @@ example:
 | mea kurosaki | 黑咲芽亚 | ![](https://static.wikia.nocookie.net/to-loveru/images/a/a7/TLRD_IR_Mea_Hard_Black_1.png)<br>所属作品：`to love-ru` | [萌娘百科](https://zh.moegirl.org.cn/黑咲芽亚) |
 | nana asta deviluke | 娜娜·阿斯塔·戴比路克 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/31/11/00/08/134536629_p5_master1200.jpg)<br>所属作品：`to love-ru`<br>菈菈的妹妹，有露出象征小恶魔的上犬齿。因为梨斗经常在不经意间对女生做出神摔而十分愤怒，一开始很讨厌梨斗，认为梨斗是“禽兽”，但后来慢慢也对梨斗开始报有好感。 | [萌娘百科](https://zh.moegirl.org.cn/娜娜·阿斯塔·戴比路克) |
 | momo velia deviluke | 梦梦·贝莉雅·戴比路克 | ![](https://i2.hdslb.com/bfs/new_dyn/6909e0618fa0b6decc29299a93abbf75262400697.png)<br>所属作品：`to love-ru`<br>日语：モモ・ベリア・デビルーク | [萌娘百科](https://zh.moegirl.org.cn/梦梦·贝莉雅·戴比路克) |
-| riko yuusaki | 夕崎梨子 | ![](https://praogxqcch.hath.network/om/170412073/874208224a1f1401e87b843d312655380c367b2c-1277043-832-1216-png/ab91efb11d2e3a9c98e88d10c95437a58d7bf592-86712-800-1169-wbp/800/322n9pwq2jnp3v1tixr/0444.webp)<br>所属作品：`to love-ru` |  |
+| riko yuusaki | 夕崎梨子 | ![](https://static.wikia.nocookie.net/to-loveru/images/c/cc/E63.jpg)<br>所属作品：`to love-ru` |  |
 | sephie michaela deviluke | 赛菲·米卡埃拉·戴比路克 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2024/11/21/14/50/59/124497875_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>戴比路克王奇多的妻子，菈菈、娜娜、梦梦的母亲。宇宙中最美貌的种族“查姆人”的最后的末裔，拥有着能让任何男性看到自己的容颜就会失去理智的能力。 | [萌娘百科](https://zh.moegirl.org.cn/赛菲·米卡埃拉·戴比路克) |
 | tearju lunatique | 提亚悠·鲁娜提克 | ![](https://static.wikia.nocookie.net/to-loveru/images/c/c7/Tearju_Render.png)<br>所属作品：`to love-ru` |  |
 | run elsie jewelria | 伦·艾尔西·裘利亚 | ![](https://i.pixiv.cat/img-master/img/2025/08/21/02/32/09/134135505_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>梅莫鲁西星人的王族，出生时男女二人两性共生，具有男女个性与肉体的转换能力。能够和连进行脑内对话。在地球时只要打个喷嚏就会性转换。（成年后两性别会分开） | [萌娘百科](https://zh.moegirl.org.cn/露恩·艾尔西·裘利亚) |
