@@ -156,7 +156,7 @@ example:
 | uq holder | 悠久持有者！ | 《UQ HOLDER！ 悠久持有者！》（UQ Holder!）是日本漫画家赤松健的漫画作品，也是《魔法老师》的衍生作品。时空背景以《魔法老师》完结80年后的近未来为主。 | [维基百科](https://zh.wikipedia.org/wiki/悠久持有者) (\*) |
 | neon genesis evangelion | 新世纪福音战士 | ![](https://ehgt.org/36/bc/36bc297b5931d32502b99f850ff7073aa77416dc-841515-1200-1719-jpg_l.jpg)<br>由GAINAX、龙之子工作室共同制作的日本动画作品，由庵野秀明担任主要编剧及总导演。<br>作品以发生了“第二次冲击”大灾害的2015年的世界为舞台，主要讲述了14岁少男少女们操控巨大泛用人形决战兵器“EVA”，与袭击第3新东京市的神秘敌人“使徒”之间的战斗故事。 | [百度百科](https://baike.baidu.com/item/新世纪福音战士/55458) |
 | hidamari sketch | 向阳素描 | ![图](https://ehgt.org/b9/70/b970463d1bbba639509e84138d41857f8047127b-2215157-2449-3000-jpg_l.jpg)![图](# "https://ehgt.org/78/96/7896d7772fc198e1a115547c30fbf86c31dbfbd9-1471000-2104-3000-jpg_l.jpg")![图](https://ehgt.org/90/aa/90aac6d23db2079890b2ff2f5f8b0798db60d1c3-1889871-2449-3000-jpg_l.jpg) |  |
-| mahou shoujo lyrical nanoha | 魔法少女奈叶 | ![图](# "https://ehgt.org/b5/0b/b50b1a2d8a7443f70f56441d2db45ce4c6ad7ee5-8618925-2104-3000-png_l.jpg")![图](# "https://ehgt.org/a0/b6/a0b6ef89c8aa99b60e9b9cc4d05073ecde8c3c32-303480-1161-1649-jpg_l.jpg") |  |
+| mahou shoujo lyrical nanoha | 魔法少女奈叶 | ![](https://lain.bgm.tv/r/400/pic/cover/l/dc/4c/1262_5ezbs.jpg)<br>作者：都築真紀／ivory |  |
 | rosario vampire | 十字架与吸血鬼 | 漫画，不了解<br>![图](# "https://ehgt.org/97/ac/97ac8a9ab8bcf27c7a09ca6eee1c335bc81ba152-330768-607-850-jpg_l.jpg")![图](# "https://ehgt.org/eb/f5/ebf5c1def8cc83506b28dc3244b6189e4aff0519-379951-1072-1500-jpg_l.jpg") |  |
 |  | ▼ 光美大军 |  |  |
 | pretty cure | 光之美少女系列 | ![](https://storage.moegirl.org.cn/moegirl/commons/2/2f/光美2025.jpg)<br><br>涵盖光之美少女系列，不确定角色属于系列哪一作时可使用此标签。<br>日语：プリキュアシリーズ，中文简称Q娃。 | [动画官网](https://anime-precure.com/) |
