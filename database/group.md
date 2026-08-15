@@ -990,7 +990,7 @@ example:
 | algolagnia | アルゴラグニア |  |  |
 | arestica | ARESTICA |  |  |
 | hapoi-dokoro | はぽい処 |  | [X](https://x.com/hapoi_dokoro) [官方网站](http://hapoi.sakura.ne.jp/index-d.html) |
-| route1 | ROUTE1 |  |  |
+| route1 | ROUTE1 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=214616/) \|  [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68790.html) |
 | chural-an | ちゅらる庵 |  |  |
 | monaka udon | もなかうどん |  |  |
 | kingyo origin | 金魚オリジン |  |  |
