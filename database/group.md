@@ -9148,7 +9148,7 @@ example:
 | particle | ぱーてぃくる |  |  |
 | party nights | パーリィナイツ |  |  |
 | parukusu | ぱるくす |  |  |
-| parupunte | ぱるぷんて |  |  |
+| parupunte | ぱるぷんて |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG09027.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=25305/) |
 | passing shower | ぱっしんぐしゃわー |  |  |
 | past | Past |  |  |
 | pastel bitch | パステルビッチ |  |  |
