@@ -1036,7 +1036,7 @@ example:
 | chell | 雪儿 | ![](https://ehgt.org/b6/f4/b6f4773175594298e196b80b9a67d418666dae41-392822-1920-1080-jpg_250.jpg) |  |
 |  | ▼ Re0 角色 |  |  |
 | emilia | 爱蜜莉雅 | ![](https://img.moegirl.org.cn/common/c/c6/57901396_p0.png)<br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>有着银色长直发和紫绀色眼瞳的美少女。露格尼卡王国第42代王位候选人，以罗兹瓦尔边境伯作为后盾参加王选。 | [萌娘百科](https://zh.moegirl.org.cn/爱蜜莉雅) |
-| rem | 雷姆 | ![](https://img.moegirl.org.cn/common/1/18/Act_egao_rem.gif)<br><br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>在罗兹瓦尔宅邸工作的双胞胎女仆妹妹。<br>把负伤的昴抬进了宅邸，前期是表面恭维内心瞧不起的毒舌担当，维持着宅邸的机能，工作上全能。 | [萌娘百科](https://zh.moegirl.org.cn/雷姆%28Re:从零开始的异世界生活%29#) |
+| rem | 雷姆 | ![](https://img.moegirl.org.cn/common/1/18/Act_egao_rem.gif)<br>所属作品：`re zero kara hajimeru isekai seikatsu` | [萌娘百科](https://zh.moegirl.org.cn/雷姆%28Re:从零开始的异世界生活%29#) |
 |  | 拉姆 | ram 重复项 |  |
 | subaru natsuki | 菜月昴 | ![](https://static.wikia.nocookie.net/rezero/images/3/35/Natsuki_Subaru_LN_character_design.png)<br>所属作品：`re zero kara hajimeru isekai seikatsu` |  |
 | beatrice | 碧翠丝 \| 贝阿朵莉切 | ①所属作品：`re zero kara hajimeru isekai seikatsu`<br>![](https://static.wikia.nocookie.net/rezero/images/c/cc/Beatrice_LN_character_design.png)<br>住在罗兹瓦尔宅邸内只有通过机遇门才能进入的隐藏房间禁书库。<br>拥有管理禁书库义务的幼女。<br><br>②所属作品：`p:blue archive`<br>![](https://static.wikia.nocookie.net/blue-archive/images/2/2c/Beatrice_Portrait.png) | [萌百-碧翠丝](https://zh.moegirl.org.cn/碧翠丝%28Re:从零开始的异世界生活%29#) \|  [萌百-贝阿朵莉切](https://zh.moegirl.org.cn/贝阿朵莉切%28蔚蓝档案%29#) |
