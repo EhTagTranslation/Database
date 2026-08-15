@@ -4971,7 +4971,7 @@ example:
 | erika | 莉佳 \| 艾莉卡 | ① 莉佳（日语：エリカ）<br>![莉佳](https://img.moegirl.org.cn/common/thumb/0/05/莉佳_LPLE.png/238px-莉佳_LPLE.png)<br>所属作品：`pokemon`<br>②艾莉卡<br>![](https://ehgt.org/w/02/154/32032-p35nf8ok.webp)<br>所属作品：`sokushi cheat ga saikyou sugite` |  |
 | juliana | 小青 | 所属作品：`pokemon`<br>![小青](https://img.moegirl.org.cn/common/thumb/c/ce/Pokemon_Scarlet_Main_Character_2.png/280px-Pokemon_Scarlet_Main_Character_2.png)<br>小青（日语：アオイ，英语：Juliana） |  |
 | ishizu ishtar | 伊西丝·伊修达尔 | 日本漫画《游戏王》及其衍生作品中的角色，来自埃及决斗者，千年项链持有者。<br>生日：4月5日<br>年龄：20岁<br>身高：167cm<br>体重：43kg<br>星座：白羊座<br>血型：O型<br>最喜欢吃：Omaari(埃及料理)<br>最讨厌吃：肉料理<br>卡组：现世与冥界的逆转卡组 |  |
-| mai valentine | 孔雀舞 | 日本漫画《游戏王》及其衍生作品中的角色，为美女职业决斗者。本来并不相信同伴，后来在与武藤游戏和城之内克也相遇后改变了自己的看法。<br>使用神鹰女郎卡组和亚马逊卡组，有着华丽而大胆的决斗风格，在决斗者中有着一流的水准。 |  |
+| mai valentine | 孔雀舞 | ![](https://static.wikia.nocookie.net/yugioh/images/4/42/MaiValentine-DULI.png)<br>出自作品:`yu-gi-oh` |  |
 | serenity wheeler | 川井静香 | 日本漫画《游戏王》及其衍生作品中的角色，城之内克也的妹妹，是和城之内最亲近的人，城之内为了她而成为决斗者。 |  |
 | aki izayoi | 十六夜秋 | 十六夜秋（十六夜アキ）<br>日本动画片《`p:yu-gi-oh 5ds`》中的女主角。<br>不动游星的重要伙伴之一，是龙印者的一员，同时是念动力决斗者。<br>结局众人分别时，疑和不动游星互生情愫，但为了各自的梦想没有在一起。最后成为了一名医生。<br>动画使用植物族卡组，王牌怪兽是“黑蔷薇龙”。漫画使用蔷薇卡组系列，王牌怪兽是“月华龙黑蔷薇”。<br>![图](https://img.moegirl.org.cn/common/7/74/Yugioh_aki.png) |  |
 | aoi zaizen | 财前葵 | 游戏王系列第7部《游戏王SEVENS》动画的女主角，16岁。游作的同级同学，财前晃的妹妹，学校里举止稳重尽可能不引人注目。对他人虽然态度冷淡，对待哥哥却是老实顺从。<br>在Link VRAINS中作为决斗偶像活跃着。实际目的只是为了得到哥哥的认同。<br>幼年时与水之伊格尼斯和其原型的美优有着奇妙因缘。 |  |
