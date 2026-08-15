@@ -450,7 +450,7 @@ example:
 | totally spies | 少女特工组 |  |  |
 | the legend of korra | 科拉传奇 |  |  |
 | kangoku senkan | 监狱战舰 |  |  |
-| prison school | 监狱学园 |  |  |
+| prison school | 监狱学园 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1c/0b/110048_JHz0j.jpg)<br>作者：平本アキラ |  |
 |  | ▼超时空要塞 系列 |  |  |
 | macross | 超时空要塞 |  |  |
 | the super dimension fortress macross | 超时空要塞Macross |  |  |
