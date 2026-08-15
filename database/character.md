@@ -52,7 +52,7 @@ example:
 | murakumo | 丛 \| 丛云 | ①从<br>![](https://static.wikia.nocookie.net/kagura/images/6/6e/Murakumo_PBS.png)<br>所属作品：`senran kagura`<br>②丛云<br>![](https://static.wikia.nocookie.net/kancolle/images/3/33/Murakumo_Kai_Ni_Full_Damaged.png)<br>所属作品：`kantai collection` | [舰队Collection:丛云](https://zh.moegirl.org.cn/舰队Collection:丛云) |
 | nachi | 那智(狏) | ①所属作品: `p:azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/a6397991a082a1c5ce36d39115ad78a4262400697.png)<br>原型为 IJN 妙高级重巡洋舰二番舰那智号<br><br>②![](https://imgsa.baidu.com/forum/w%3D580/sign=803b448f32adcbef01347e0e9cae2e0e/f13510fae6cd7b89cec847c80c2442a7d8330e82.jpg)<br>所属作品：`senran kagura` | [碧蓝航线:那智](https://zh.moegirl.org.cn/碧蓝航线:那智) [舰队Collection:那智](https://zh.moegirl.org.cn/舰队Collection:那智) |
 | kagura | 神乐 | `p:gintama`<br><br>`p:inuyasha`<br><br>`p:senran kagura`<br>![闪乱神乐](# "https://ehgt.org/12/1c/121c3b43d357b284004df683fe6750bebb1674ba-3110618-2117-3000-jpg_l.jpg") |  |
-| ram | 拉姆 | `re zero kara hajimeru isekai seikatsu`中的角色<br>![拉姆](https://ehgt.org/b7/85/b785182a5e03deeb75e84661e61f471e838cd293-190463-609-830-jpg_l.jpg)<br><br>`hyperdimension neptunia`中的角色<br>![图](https://ehgt.org/d9/30/d930d4c3a74a3650fb43e0f00a5bcf57f350be59-2269588-4877-6950-jpg_l.jpg) |  |
+| ram | 拉姆 | ![](https://static.wikia.nocookie.net/rezero/images/a/a9/Ram_Shironeko_Project_Art.png)<br>出自作品:`re zero kara hajimeru isekai seikatsu`<br>——————————<br>![](https://static.wikia.nocookie.net/neptunia/images/8/81/Ram_V2.png)<br>出自作品:`hyperdimension neptunia` |  |
 |  | ▲ 重复项合并 |  |  |
 |  | ▼ 萌单 人物 | 👓我已经钦定了，茵可酱只能我来改 |  |
 | ink nijihara | 虹原茵可 | 《`moetan`》最萌的高中生<br>![图](https://ehgt.org/36/b3/36b3430eccf8fb301c3f3bcd6950b69753daeb43-249981-1293-1735-jpg_l.jpg) |  |
