@@ -2416,7 +2416,7 @@ example:
 | fourth raikage | 四代目雷影 | ![](https://static.wikia.nocookie.net/glad-you-came/images/d/de/A_%28Fourth_Raikage%29.png)<br>出自作品：`p:naruto`<br><br>四代雷影（四代目雷影）是由岸本齐史所创作的漫画《火影忍者》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/四代雷影) |
 | sakura haruno | 春野樱 | ![](https://static.wikia.nocookie.net/naruto/images/3/30/Sakura_Part_I.png)<br>春野櫻（春野サクラ，Haruno Sakura）又名宇智波櫻（Uchiha Sakura）<br>所属作品：`naruto` | [萌娘百科](https://zh.moegirl.org.cn/春野樱) \| [Fandom](https://naruto.fandom.com/zh/wiki/春野櫻) |
 | sasuke uchiha | 宇智波佐助 | ![](https://thumbsnap.com/i/cJaNQvy5.jpg)<br>宇智波佐助（日语：うちは サスケ）是岸本齐史创作的漫画《火影忍者》及其衍生作品的登场角色。<br>港译为“內輪佐助”。 | [萌娘百科](https://zh.moegirl.org.cn/宇智波佐助) |
-| tsunade | 纲手 | ![](https://img.moegirl.org.cn/common/4/48/Tsunade.jpg)<br>本名:	綱手（つなで）(Tsunade)<br>別號:	綱手公主、綱手婆婆、蛞蝓公主、綱手姬、第五代火影<br>髮色:	黃髮<br>瞳色:	褐瞳<br>身高:	163.1cm<br>體重:	48.9kg<br>三圍:	B:106W:62H:90 |  |
+| tsunade | 纲手 | ![](https://static.wikia.nocookie.net/all-worlds-alliance/images/5/5a/8-83829_senju-tsunade-random-pinterest-boruto-and-naruto-png.png)<br>日语：綱手（つなで）<br>出自作品:`naruto` |  |
 | anko mitarashi | 御手洗红豆 | ![](https://static.wikia.nocookie.net/vsbattles/images/8/86/Anko_mitarashi_render_ultimate_ninja_3_4_5_by_maxiuchiha22_dcxfgkz.png)<br>所属作品：`naruto` |  |
 | ino yamanaka | 山中井野 | ![](https://ehgt.org/w/02/191/97019-40996tm1.webp)<br>出自作品：`p:naruto`<br><br>山中井野是岸本齐史所创作的漫画《火影忍者》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/山中井野) |
 | kurotsuchi | 黑土 | ![](https://ehgt.org/w/02/095/64807-k837jwyv.webp)<br>黑土是岸本齐史所创作的漫画《火影忍者》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/黑土%28火影忍者%29) |
