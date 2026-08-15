@@ -1495,7 +1495,7 @@ example:
 | mikazuki akira | みかづきあきら! |  |  |
 | mikoshiro honnin | みこしろ本人 | 巫代凪遠 |  |
 | ariko youichi | 有子瑶一 |  |  |
-| taira tsukune | 平つくね |  |  |
+| taira tsukune | 平つくね |  | [pixiv](https://www.pixiv.net/users/2418953) \| [X](https://x.com/tsuuuuukunesan/) \| [FANBOX](https://tairatsukune.fanbox.cc/) |
 | monikano | モニカノ |  |  |
 | kayama rim | 香山リム |  |  |
 | tomokichi | 友吉 |  |  |
