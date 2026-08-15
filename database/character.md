@@ -2558,7 +2558,7 @@ example:
 | shirogane noel | 白银诺艾尔 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/d3/Shirogane_Noel_3D_Model_3.png)<br>所属社团：`p:hololive` | [萌娘百科](https://zh.moegirl.org.cn/白银诺艾尔) |
 | houshou marine | 宝钟玛琳 | ![](https://ehgt.org/w/02/130/82353-cywwx7ra.webp)<br>所属社团：Hololive |  |
 |  |  | 4期 |  |
-| amane kanata | 天音彼方 | 天音彼方 （ 天音かなた / Amane Kanata）是一名从2019年12月27日在YouTube开始活动的VTuber，所属业界团体hololive的成员。<br>![](https://img.moegirl.org.cn/common/e/ec/AmaneKanata_01_Full.jpg) | [萌娘百科](https://zh.moegirl.org.cn/天音彼方) |
+| amane kanata | 天音彼方 | ![](https://hololive.hololivepro.com/wp-content/uploads/2024/07/Amane-Kanata_pr-img_02.png)<br>日语：天音かなた<br>所属团体：`hololive` | [YouTube](https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg) \| [萌娘百科](https://zh.moegirl.org.cn/天音彼方) |
 | kiryu coco | 桐生可可 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/0/09/Kiryu_Coco_-_Portrait.png) |  |
 | tsunomaki watame | 角卷绵芽 | ![](https://static.miraheze.org/hololivewiki/0/05/Tsunomaki_Watame_-_Portrait_01.png) | [Fandom](https://virtualyoutuber.fandom.com/wiki/Tsunomaki_Watame) [hololive wiki](https://hololive.wiki/wiki/Tsunomaki_Watame) [萌娘百科](https://zh.moegirl.org.cn/角卷绵芽) |
 | tokoyami towa | 常暗永远 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/1/16/Tokoyami_Towa_3D_Model_2.png)<br>所属社团：`hololive` | [维基百科](https://ja.wikipedia.org/wiki/常闇トワ)<br>[Towa Ch. 常闇トワ - youtube](https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw) |
