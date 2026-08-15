@@ -2967,6 +2967,7 @@ example:
 | the genesis order | 创世秩序 |  | [Steam](https://store.steampowered.com/app/2553870/The_Genesis_Order/) |
 | otome kaijuu carameliser | 少女怪兽焦糖味 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e3/74/617123_PaMs9.jpg)<br>日语：乙女怪獣キャラメリゼ |  |
 | isshiki-san wa koi wo shiritai. | 一式警花动了恋心 | ![](https://lain.bgm.tv/r/400/pic/cover/l/03/0d/309827_DdEAS.jpg)<br>日语：一式さんは恋を知りたい |  |
+| hell mode yarikomizuki no gamer wa hai settei no isekai de musou suru | 地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～ | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/52/526979_R83u1.jpg)<br>日语：ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
