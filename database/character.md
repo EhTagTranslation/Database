@@ -7597,7 +7597,7 @@ example:
 | fantasque | 空想 | ![](https://ehgt.org/w/02/126/20988-7hge4ipf.webp)<br>所属作品：`warship girls` |  |
 | himari kino | 木野日鞠 | ![](https://lain.bgm.tv/r/400/pic/crt/l/c2/c8/76964_crt_UO9S4.jpg?r=1712667310)<br>所属作品：`sasayaku you ni koi wo utau`<br>高中入学后因观看乐队“SSGIRLS”的演出而对主唱朝凪依产生特殊情感。 |  |
 | maha | 玛荷 | ![](https://img.moegirl.org.cn/common/5/56/Maha_anime.png)<br>所属作品：`sekai saikou no ansatsusha isekai kizoku ni tensei suru` |  |
-| mira | 椿原米拉 \| 米菈 | ①椿原米拉<br>![](https://ehgt.org/w/02/112/94053-3be8vrnh.webp)<br>所属作品：《Master Piece》<br>长女椿原由那（Yuna）和次女椿原妮娜（Nina）的母亲。<br><br>②米菈<br>![](https://ehgt.org/w/01/742/11962-2a3uezt0.webp)<br>所属作品：`kenja no deshi o nanoru kenja` |  |
+| mira | 椿原米拉 \| 米菈 | ①椿原米拉<br>![](https://ehgt.org/w/02/112/94053-3be8vrnh.webp)<br>所属作品：《Master Piece》<br>——————————<br>②米菈<br>![](https://ehgt.org/w/01/742/11962-2a3uezt0.webp)<br>所属作品：`kenja no deshi o nanoru kenja` |  |
 | takatora toudou | 藤堂高虎 | 所属作品：`sengoku bushouki muramasa` |  |
 | shirayuki himeji | 姬路白雪 | 所属作品：`liar liar`<br>![](https://img.moegirl.org.cn/common/c/c9/Himeji_Shirayuki_Ikasama_Maid.jpg)<br>篠原绯吕斗的辅佐班底“Company”的领袖。为了在决斗（Game）中的胜利而进行专攻欺诈的战术指导。作为照料起居的女仆也同住在家中。 |  |
 | zhao | 照 | 照是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a6/Agent_Zhao_Portrait.png?format=original) | [萌娘百科](https://zh.moegirl.org.cn/照)<br>[绝区零 Fandom Wiki](https://zenless-zone-zero.fandom.com/wiki/Zhao)<br>绝区零官方 Wiki: [米游社](https://baike.mihoyo.com/zzz/wiki/content/1686/detail) [HoYoLAB](https://wiki.hoyolab.com/pc/zzz/entry/960) |
