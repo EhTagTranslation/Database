@@ -1856,7 +1856,7 @@ example:
 | kiken shisou | 危险思想 |  |  |
 | dokokano aitsu | 何処乃アイツ |  |  |
 | ginyoku screw | 銀欲スクリュー |  |  |
-| hg chagawa | HG茶川 |  |  |
+| hg chagawa | HG茶川 |  | [pixiv](https://www.pixiv.net/users/277615) \| [X](https://x.com/hgchagawa) |
 | john sitch-oh | ジョン湿地王 |  |  |
 | kamitani | カミタニ |  |  |
 | nico pun nise | 笑花伪 |  |  |
