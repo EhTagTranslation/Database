@@ -377,7 +377,7 @@ example:
 | aihara shouta | 相原翔太 |  |  |
 | mimofu | みもふ |  |  |
 | takatuki nato | 鷹月ナト |  |  |
-| shiratama | 白玉 | 白玉老师画超级可爱的萝莉 | [pixiv](https://www.pixiv.net/users/705370) [X](https://x.com/shiratamacaron) [个人主页](http://shiratamaco.com/) |
+| shiratama | 白玉 \| 白珠 | 白玉老师画超级可爱的萝莉 | 白玉：[pixiv](https://www.pixiv.net/users/705370) [X](https://x.com/shiratamacaron) [个人主页](http://shiratamaco.com/)<br>白珠：[pixiv](https://www.pixiv.net/users/1085859) \| [X](https://x.com/flying_watagash) |
 | nohara hiromi | 野原ひろみ |  |  |
 | higashino mikan | 东野蜜柑 |  |  |
 | dr.bug | Dr.阿虫 | 中国台湾地区右翼漫画家 |  |
