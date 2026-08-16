@@ -15594,6 +15594,7 @@ example:
 | kouin n | 工員N |  |  |
 | otome chinko | オトメチンコ |  |  |
 | uno makoto | うのまこと | まるみや |  |
+| jingai | 仁外 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
