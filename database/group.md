@@ -7196,7 +7196,7 @@ example:
 | lobatt | LOBATT |  |  |
 | lobelia | Lobelia |  |  |
 | local kintas | Local Kintas |  |  |
-| locomocodon | ろこもこどん |  |  |
+| locomocodon | ろこもこどん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01053419.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=227897/) |
 | locus | Locus |  |  |
 | log | LOG |  |  |
 | log house | Log House |  |  |
