@@ -15598,6 +15598,7 @@ example:
 | chaamii | チャーミー |  |  |
 | mg kurino | Mg栗野 |  |  |
 | uraha | 裏葉 |  |  |
+| fuyushiki | 冬識 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
