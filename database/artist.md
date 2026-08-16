@@ -15611,6 +15611,7 @@ example:
 | lftn | LFTN |  | [pixiv](https://www.pixiv.net/users/23980562) \| [X](https://x.com/NTFL520785) \| [FANBOX](https://i7bqryh4.fanbox.cc/) \| [Skeb](https://skeb.jp/@LUFUtyan) |
 | tsukasa yuuki | 司由纪(司ゆうき) |  |  |
 | sonora | ソノラ |  |  |
+| ichihi | イチヒ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
