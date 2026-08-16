@@ -9250,7 +9250,7 @@ example:
 | pin-13 | ピンのワンスリー |  |  |
 | pin-point | ピンポイント |  |  |
 | pinacotheca | Pinacotheca |  |  |
-| pine | ぱいん |  |  |
+| pine | ぱいん |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71508/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG29382.html) |
 | pine candy | PINE CANDY |  |  |
 | pineapple candy | パイナップルキャンディ |  |  |
 | pinpoint | ピンポイント |  |  |
