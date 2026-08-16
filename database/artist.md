@@ -15592,6 +15592,7 @@ example:
 | yamada kuro | 山田くろ |  |  |
 | asakura yuu | 浅倉優 |  |  |
 | kouin n | 工員N |  |  |
+| otome chinko | オトメチンコ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
