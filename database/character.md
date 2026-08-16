@@ -2991,7 +2991,7 @@ example:
 | shitara kaneshiya | 兼志谷星 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/5/5d/e52ovesfh6llfq8jvixmb3a445plwwf.png) | [アリス・ギア・アイギス 攻略 Wiki](https://wikiwiki.jp/alicegear/兼志谷シタラ)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/兼志谷_星) |
 | rin himukai | 日向铃 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/b/b4/otdewt15qf2t9naay7kkcqz1fhq6dyn.png) | [アリス・ギア・アイギス 攻略 Wiki](https://wikiwiki.jp/alicegear/日向リン)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/日向_リン) |
 | giorno giovanna | 乔鲁诺·乔巴拿 | 漫画JOJO的奇妙冒险第五部黄金之风的主角。<br>第一部和第三部的反派BOSS迪奥·布兰度的儿子。 | [萌娘百科](https://zh.moegirl.org.cn/乔鲁诺·乔巴拿) |
-| belzerg stylish sword iris | 贝尔泽古·斯黛莉休·索德·爱丽丝 | ![](https://ehgt.org/w/01/989/03951-co88u0m3.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o` |  |
+| belzerg stylish sword iris | 贝尔泽古·斯黛莉休·索德·爱丽丝 | ![](https://static.wikia.nocookie.net/konosuba/images/8/8b/Iris_Season_3.png)<br>所属作品：`kono subarashii sekai ni syukufuku o` |  |
 | hibiki tsukahara | 冢原响 |  |  |
 | junichi tachibana | 橘纯一 |  |  |
 | mafuyu kirisu | 桐须真冬 | ![](https://static.wikia.nocookie.net/bokutachi-study/images/0/06/20190803_194047.png)<br>所属作品：`bokutachi wa benkyou ga dekinai` | [萌娘百科](https://zh.moegirl.org.cn/桐须真冬) |
