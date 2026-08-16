@@ -14172,6 +14172,7 @@ example:
 | takatsuki koujou | 高槻工場 |  |  |
 | jingai | 仁外 |  |  |
 | nanboku megochi | 南北めごち |  |  |
+| ichirinsha de neko rush | 一輪車でねこらっしゅ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
