@@ -5822,7 +5822,7 @@ example:
 | marika | marika |  |  |
 | eien no joou marika | 永恒女王玛莉卡 | ![](https://static.wikia.nocookie.net/eldenring/images/5/5b/Marika_the_Eternal_cutscene_art.webp)<br>所属作品：`elden ring` |  |
 | rennala | 蕾娜拉 |  |  |
-| fire keeper | 防火女 |  |  |
+| fire keeper | 防火女 | ![](https://ehgt.org/w/02/206/61183-obi5dyy0.webp)<br>出自作品:`demons souls` |  |
 | gwynevere | 葛温艾薇雅 |  |  |
 | solaire of astora | 太阳战士索拉尔 |  |  |
 | emerald herald | 朝圣绿袍妹 夏娜罗特 |  |  |
