@@ -385,7 +385,7 @@ example:
 | koutetsujou no kabaneri | 甲铁城的卡巴内利 |  |  |
 | yu-gi-oh | 游戏王 | 日本漫画家高桥和希所创作的漫画，有动画、游戏等衍生作品。<br>![图](https://img.moegirl.org.cn/common/a/a2/游戏王1-6代主角同堂.png) |  |
 | yu-gi-oh 5ds | 游戏王5D's | ![](https://lain.bgm.tv/r/400/pic/cover/l/a2/cc/1609_g4R4R.jpg) |  |
-| yu-gi-oh zexal | 游戏王ZEXAL |  |  |
+| yu-gi-oh zexal | 游戏王ZEXAL | ![](https://lain.bgm.tv/r/400/pic/cover/l/c7/06/48670_oBVzG.jpg)<br>游戏王动画系列第四部 |  |
 | yu-gi-oh arc-v | 游戏王ARC-V | ![](https://lain.bgm.tv/r/400/pic/cover/l/c1/75/92161_R2GYo.jpg) |  |
 | yu-gi-oh gx | 游戏王－怪兽之决斗GX |  |  |
 | yu-gi-oh vrains | 游戏王VRAINS | 《游戏王VRAINS》（日语：遊☆戯☆王VRAINS）是一部于2017年开播的日本电视动画，为《游戏王》系列的第六部作品。 | [维基百科](https://zh.wikipedia.org/wiki/遊戲王VRAINS) (\*) |
