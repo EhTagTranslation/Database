@@ -5239,7 +5239,7 @@ example:
 | nozomi tachibana | 橘希望 | ![](https://static.wikia.nocookie.net/blue-archive/images/9/9a/Nozomi_Portrait.png)<br>所属作品：`blue archive` | [萌娘百科](https://zh.moegirl.org.cn/橘希望) |
 | mary saotome | 早乙女芽亚里 |  |  |
 | ririka momobami | 桃喰莉莉香 | 漫画《狂赌之渊》及其衍生作品中的女角色。<br>　　私立百花王学园学生会副会长，一直戴着面具，身份神秘。实为桃喰绮罗莉的双胞胎姐妹，但性格与绮罗莉截然相反。<br>　　银色长发，自幼时起一直带着藏有变声器的银色假面。缺乏自我，一直听从桃喰绮罗莉的命令行事，并以面具掩饰自己的柔弱与自卑，戴上假面后态度会变得强硬。<br>　　平时总跟随在绮罗莉身边，基本保持沉默。赌技高超，但一直隐藏实力。因为身份神秘的缘故，跟绮罗莉对调身份也不会被人发现。 |  |
-| midari ikishima | 生志摩妄 | 私立百花王学园学生会的一员，美化委员长。<br>　　齐肩长发，头上戴着大蝴蝶结，特征是左眼带有眼罩，脸上和舌头都有穿环。<br>　　变态般的性格，对普通的赌博已经享受不到快感，于是追求以死相博。曾经因为输给桃喰会长，而自己挑出左眼来抵债，也因此加入学生会。<br>　　对梦子非常执着，称她为“最棒的女人”，并和梦子进行了生死游戏。 |  |
+| midari ikishima | 生志摩妄 | ![](https://static.wikia.nocookie.net/mahjongsoul/images/4/47/Full_416.png)<br>出自作品:`kakegurui` |  |
 | leonora nakiri | 薙切蕾欧诺拉 | ![](https://static.wikia.nocookie.net/shokugekinosoma/images/a/a7/Leonora_Nakiri.png)<br>所属作品：`shokugeki no soma`<br>日文：薙切レオノーラ |  |
 | ibuki tanga | 丹花伊吹 | ![](https://static.wikia.nocookie.net/blue-archive/images/c/ce/Ibuki_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/丹花伊吹) |
 | shinobu kudo | 工藤忍 | ![](https://patchwiki.biligame.com/images/imascg/thumb/f/f1/ehfviwtlf5pxd3hrkhpkajte0tcmwyr.png/960px-CGSS-Shinobu-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
