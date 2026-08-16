@@ -7477,7 +7477,7 @@ example:
 | manzokudou | 満足堂 |  |  |
 | maple-go | maple号 |  |  |
 | marabians | マラビアンズ |  |  |
-| marakkuma | マラックマ |  | [Ci-en](https://ci-en.dlsite.com/creator/66) |
+| marakkuma | マラックマ | 名称更改为: めななもりん | [Ci-en](https://ci-en.dlsite.com/creator/66) \| [pixiv](https://www.pixiv.net/users/14698674) \| [X](https://x.com/Techno4545Break) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30171.html) |
 | maraparte | まらぱるて |  |  |
 | marasca no oni | マラスカの鬼 |  |  |
 | maraschino | MARASCHINO |  |  |
