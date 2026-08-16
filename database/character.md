@@ -10088,7 +10088,7 @@ example:
 | krena | 克蕾娜 | ![](https://static.wikia.nocookie.net/hell-mode/images/9/94/Krena.png)<br>日语：クレナ<br>出自作品:`hell mode yarikomizuki no gamer wa hai settei no isekai de musou suru` |  |
 | cecile granvelle | 萨希尔·格兰威尔 | ![](https://static.wikia.nocookie.net/hell-mode/images/5/5f/Cecil.png)<br>日语：セシル・グランヴェル<br>出自作品:`hell mode yarikomizuki no gamer wa hai settei no isekai de musou suru` |  |
 | diabellze the original sinkeeper | 原罪之迪亚贝尔泽 | ![](https://static.wikia.nocookie.net/yugioh/images/3/38/DiabellzetheOriginalSinkeeper-MP25-EN-PScR-1E.png)<br>出自作品:`yu-gi-oh` |  |
-| urd | 乌尔德 |  |  |
+| urd | 乌尔德 | ![](https://ehgt.org/w/02/090/60862-37j13xoa.webp)<br>出自作品:`ah my goddess` |  |
 | imari agano | 吾野伊万里 | ![](https://nxsnjqfqtwiaoedulnpr.supabase.co/storage/v1/object/public/tag-images/characters/d930f757-9409-4b39-b308-1cf75812c50d/1783420349734.png?width=3840&quality=75)<br>出自作品:`grow up show` |  |
 
 <!--TEMPLATE: 
