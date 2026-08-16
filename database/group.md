@@ -7477,7 +7477,7 @@ example:
 | manzokudou | 満足堂 |  |  |
 | maple-go | maple号 |  |  |
 | marabians | マラビアンズ |  |  |
-| marakkuma | マラックマ |  |  |
+| marakkuma | マラックマ |  | [Ci-en](https://ci-en.dlsite.com/creator/66) |
 | maraparte | まらぱるて |  |  |
 | marasca no oni | マラスカの鬼 |  |  |
 | maraschino | MARASCHINO |  |  |
