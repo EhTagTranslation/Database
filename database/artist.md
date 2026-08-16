@@ -11210,7 +11210,7 @@ example:
 | uku | uku |  |  |
 | ukyo rst | ukyo\_rst |  |  |
 | ukyochu | うきょちゅう |  |  |
-| ulrich | うるりひ |  |  |
+| ulrich | うるりひ |  | [pixiv](https://www.pixiv.net/users/706963) \| [X](https://x.com/Ulrich_46) \| [FANBOX](https://ulrich46.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/6064) |
 | ultone | うるとん |  |  |
 | ultrabuster | ウルトラバスター |  |  |
 | uma | UMA |  |  |
