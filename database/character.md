@@ -4981,7 +4981,7 @@ example:
 | sherry leblanc | 雪莉·卢布朗 | ![](https://ms.yugipedia.com//3/36/Sherry-TFSP.png)<br>日语：シェリー・ルブラン<br>出自作品：`p:yu-gi-oh 5ds` |  |
 | mina simington | 狭雾深影 | 游戏王系列的第3部动画《游戏王5D's》及其衍生作品中的角色。治安警察（セキュリティ）特别搜查科长。牛尾哲的上司。对杰克·阿特拉斯怀恋慕之情。 |  |
 | romin kirishima | 雾岛露明 | 游戏王系列的第7部作品《游戏王SEVENS》的女主角，游我的同班同学。成绩优秀、体育万能，也是小学生乐队「露亚露明（ロアロミン）」的人气吉他手。但本人不唱歌，因为其实是个音痴。<br>在肚子饿到极限的情况下决斗的时候眼睛会发红，战斗力会暴涨。实际上，只要露明在忍耐某种东西达到极限时都会进入这种状态。<br>使用以乐队为主题的念动力族怪兽组成的卡组，特点是依靠基本分发挥效果，王牌怪兽是「彩光之首席女吉他手」等。<br>崇拜偶像“公主G”，对男二号上城龙久暗生情愫。<br>![](https://img.moegirl.org.cn/common/a/a0/S雾岛露明.png) |  |
-| yuzu hiiragi | 柊柚子 | 游戏王系列的第5部作品《游戏王ARC-V》的女主角。<br>对童年玩伴游矢大声激励，强大有力很靠得住的女孩，14岁。<br>基础次元，在父亲柊修造开设的私塾决斗学院「游胜塾」里，与游矢一同学习着动作决斗。拿手好戏是「纸扇吐槽」。使用幻奏卡组。<br>![图](https://img.moegirl.org.cn/common/6/65/ZuzuBoyle-DULI.png) |  |
+| yuzu hiiragi | 柊柚子 | ![](https://static.wikia.nocookie.net/yugioh/images/a/aa/FullZuzuBoyle.png)<br>所属作品：`yu-gi-oh arc-v` |  |
 | sera | 塞拉 | 游戏王系列的20周年动画电影《游戏王：THE DARK SIDE OF DIMENSIONS》及其衍生作品中的角色。带着某个目的在蓝神身边的少女，她的样子虽然还稚气未脱。与游戏他们有着什么关联。 |  |
 | chloe | 克洛伊 \| 小春 \| 库洛尔 | ①所属作品：`granblue fantasy`<br>库洛尔<br>![](https://huiji-public.huijistatic.com/gbf/uploads/0/08/Zoom_3040530000_01.png)<br><br>②所属作品：`kuroinu kedakaki seijo wa hakudaku ni somaru`<br>克洛伊<br>![](https://static.wikia.nocookie.net/legendsofthemultiuniverse/images/f/f2/Chloe.png)<br><br>③小春<br>日本动画《宝可梦：旅途》中登场的主要女主角。 | [萌娘百科](https://zh.moegirl.org.cn/克洛伊%28黑兽%29#) |
 | stella vermillion | 史黛菈·法米利昂 | ![](https://i.pixiv.cat/img-master/img/2025/08/04/10/23/27/133473657_p0_master1200.jpg)<br>轻小说《落第骑士英雄谭》及其改编、衍生作品的女主角。男主角<br>黑铁一辉的女朋友。是跨海前来追求强敌的、欧洲小国——法米利昂皇国的第二公主。15岁，性格活泼，举止稍嫌粗野，食量惊人。 |  |
