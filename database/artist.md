@@ -15597,6 +15597,7 @@ example:
 | jingai | 仁外 |  |  |
 | chaamii | チャーミー |  |  |
 | mg kurino | Mg栗野 |  |  |
+| uraha | 裏葉 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
