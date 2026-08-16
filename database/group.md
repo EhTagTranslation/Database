@@ -2739,7 +2739,7 @@ example:
 | amakura89gou ten | 天倉89号店 |  |  |
 | amakuro okami | あまくろ狼 |  |  |
 | amakurodou | 甘黒堂 |  |  |
-| amam | AMAM |  |  |
+| amam | AMAM |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77302/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44268.html) |
 | amamin koubou | あまみん工房 |  |  |
 | amanatsu mix | あまなつミックス |  |  |
 | amanatsu quality | 甘夏クオリテ |  |  |
