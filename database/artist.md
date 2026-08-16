@@ -12907,7 +12907,7 @@ example:
 | shiranai hitoshi | しらないひとし |  |  |
 | setagaya 45rou | せたがや四五郎 |  |  |
 | fujisaki | ふじさき |  |  |
-| shinraku kogome | 聖 コゴメ |  |  |
+| shinraku kogome | 聖 コゴメ |  | [FANBOX](https://kgm-euphrasia.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/34646322) \| [X](https://x.com/KGM_Euphrasia) \| [Skeb](https://skeb.jp/@KGM_Euphrasia) \| [Fantia](https://fantia.jp/fanclubs/14808) \| [Patreon](https://www.patreon.com/kogome_euphrasia) |
 | consome | 紺そめ |  |  |
 | fuuzasa | ウラザサ |  |  |
 | yukinpo dida | ゆきんぽでぃだ |  |  |
