@@ -15596,6 +15596,7 @@ example:
 | uno makoto | うのまこと | まるみや |  |
 | jingai | 仁外 |  |  |
 | chaamii | チャーミー |  |  |
+| mg kurino | Mg栗野 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
