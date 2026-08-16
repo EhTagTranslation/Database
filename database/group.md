@@ -10666,7 +10666,7 @@ example:
 | spika07 | spika07 |  |  |
 | spinergy | SPINERGY |  |  |
 | spira mirabilis | スピラ・ミラビリス |  |  |
-| spiral | すぱいらる |  |  |
+| spiral | すぱいらる |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75553/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG39759.html) |
 | spirit-edge | Spirit-Edge |  |  |
 | splush wave | SPLUSH WAVE |  |  |
 | spongehead | スポンジヘッド |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77327/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44214.html/) |
