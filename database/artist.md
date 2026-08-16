@@ -7702,7 +7702,7 @@ example:
 | matrix one | ロジャー・マンゴー | メイトリックス |  |
 | matsubara kanabun | 松原かなぶん |  |  |
 | matsubayashi nagana | 松林ながな |  |  |
-| matsubayashi satoru | 松林悟 |  |  |
+| matsubayashi satoru | 松林悟 |  | [pixiv](https://www.pixiv.net/users/483865) \| [Ci-en](https://ci-en.dlsite.com/creator/22746) \| [X](https://x.com/Matubayashi) \| [FANBOX](https://matubayashi.fanbox.cc/) |
 | matsuda eine | 松田えいね |  |  |
 | matsue | まつえー |  |  |
 | matsuka | 松果 |  |  |
