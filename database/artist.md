@@ -2398,7 +2398,7 @@ example:
 | ono no imoko | 小野妹子 | Alicesoft原画师魚介，又名小野妹子 | [pixiv](https://www.pixiv.net/member_illust.php?id=165192) [X](https://x.com/_himehajime) [个人博客](http://himehajime69.blog112.fc2.com/) |
 | nishieda | 西E田 | 著名插画、原画师，画风色气 | [pixiv](https://www.pixiv.net/users/4015) [X](https://x.com/nisiedas) [个人博客](http://www.nisieda.com/wp/) |
 | gomennasai | 御免なさい | 成人漫画家，插画师。作品以`lolicon`系为主。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1344554808825397248/NpOzEj6g_400x400.jpg)<br>**作者推特头像**<br>代表作品：《おませで御免》<br>![图](# "https://ehgt.org/84/dd/84dd53c0778ba768648f6396eb378dd19a6ea662-1563649-1114-1600-png_l.jpg") | [X](https://x.com/0721gomen1919) [pixiv](https://www.pixiv.net/users/444675) |
-| ame arare | 雨あられ |  |  |
+| ame arare | 雨あられ |  | [pixiv](https://www.pixiv.net/users/737479) \| [X](https://x.com/eraraema) \| [FANBOX](https://amearare.fanbox.cc/) |
 | abi kamesennin | 俺正读 |  |  |
 | futayami | 双暗 |  |  |
 | deadflow | Deadflow（Б） | ![画师头像](https://pbs.twimg.com/profile_images/1204295049606905857/41d-pk2B_200x200.png)<br>画师推特头像 | [X](https://x.com/11saicastle) [pixiv](https://www.pixiv.net/users/182552) |
