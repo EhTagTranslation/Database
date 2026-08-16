@@ -14175,6 +14175,7 @@ example:
 | ichirinsha de neko rush | 一輪車でねこらっしゅ |  |  |
 | okubyou yagi | 臆病山羊 |  |  |
 | uzura collection | うずらこれくしょん |  |  |
+| cotton software | 棉花社(コットンソフト) |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
