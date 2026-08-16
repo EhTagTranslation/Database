@@ -14173,6 +14173,7 @@ example:
 | jingai | 仁外 |  |  |
 | nanboku megochi | 南北めごち |  |  |
 | ichirinsha de neko rush | 一輪車でねこらっしゅ |  |  |
+| okubyou yagi | 臆病山羊 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
