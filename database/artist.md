@@ -15593,6 +15593,7 @@ example:
 | asakura yuu | 浅倉優 |  |  |
 | kouin n | 工員N |  |  |
 | otome chinko | オトメチンコ |  |  |
+| uno makoto | うのまこと | まるみや |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
