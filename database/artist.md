@@ -15595,6 +15595,7 @@ example:
 | otome chinko | オトメチンコ |  |  |
 | uno makoto | うのまこと | まるみや |  |
 | jingai | 仁外 |  |  |
+| chaamii | チャーミー |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
