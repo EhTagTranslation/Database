@@ -10092,6 +10092,7 @@ example:
 | imari agano | 吾野伊万里 | ![](https://nxsnjqfqtwiaoedulnpr.supabase.co/storage/v1/object/public/tag-images/characters/d930f757-9409-4b39-b308-1cf75812c50d/1783420349734.png?width=3840&quality=75)<br>出自作品:`grow up show` |  |
 | imoko satou | 佐藤妹子 | ![](https://static.wikia.nocookie.net/chainsmoker-cat/images/9/91/403.webp/revision/latest?cb=20260725021743)<br>所属作品:`yanineko`<br>尼古喵喵的妹妹，绝世好猫 | [Fandom](https://chainsmoker-cat.fandom.com/wiki/Imoko_Satou) |
 | carly nagisa | 卡莉渚 | ![](https://i.namu.wiki/i/nzcdHf536g0qcQNbL4NfxnLX6rTl8Tuj_mOJa5rLaHqZy5huHlxkVx4URd_-Cyxk-K_uXw4MZz7MO3L74DjuMcHZTiB_w7_kMq1c6CGYLC-UfWiC3EsY8_NjPKpxYZ5EARJnrueUnfiYcf4HzU9RaQ.webp)<br>日语：カーリー渚<br>出自作品：`p:yu-gi-oh 5ds` |  |
+| jack atlas | 杰克・亚特拉斯 | ![](https://static.wikia.nocookie.net/yugioh/images/e/ef/JackAtlas-DULI.png)<br>日语：ジャック・アトラス<br>出自作品:`yu-gi-oh 5ds` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
