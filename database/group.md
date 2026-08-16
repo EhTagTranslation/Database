@@ -3311,7 +3311,7 @@ example:
 | black cyc | ブラックサイク |  |  |
 | black doctor | BLACK DOCTOR |  |  |
 | black factory | Black Factory |  |  |
-| black force | BLACK FORCE |  |  |
+| black force | BLACK FORCE |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG16602.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27199/) |
 | black light | ブラックライト |  |  |
 | black list | Black List |  |  |
 | black maria | ブラックマリア |  |  |
