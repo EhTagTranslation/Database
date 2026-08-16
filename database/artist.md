@@ -15600,6 +15600,7 @@ example:
 | uraha | 裏葉 |  |  |
 | fuyushiki | 冬識 |  |  |
 | nikujaga | にくじゃが |  |  |
+| tateishi nana | 舘石奈々 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
