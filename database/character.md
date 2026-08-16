@@ -4510,7 +4510,7 @@ example:
 | deadpool | 死侍 |  |  |
 | lady | 蕾蒂 | 卡普空出品的动作游戏鬼泣系列的女性角色。 |  |
 | trish | 翠西 | 卡普空出品的动作游戏鬼泣系列的女性角色。 |  |
-| alexis rhodes | 天上院明日香 | 《游戏王GX》中的主要角色之一，天上院吹雪的妹妹。<br>![](https://ehgt.org/w/01/965/72400-ue3lm1c0.webp) | [萌娘百科](https://zh.moegirl.org.cn/天上院明日香) |
+| alexis rhodes | 天上院明日香 | ![](https://ms.yugipedia.com//thumb/3/34/AlexisRhodes-DULI.png/386px-AlexisRhodes-DULI.png)<br>日语：てんじょういんあすか<br>出自作品:`yu-gi-oh gx` | [萌娘百科](https://zh.moegirl.org.cn/天上院明日香) |
 | cyno | 赛诺 | ![](https://patchwiki.biligame.com/images/ys/a/a2/l27pv9gl7pm7mx4l0s7zwb8us90p11k.gif)<br>所属作品:`p:genshin impact`<br>教令院内负责监管学者们的「大风纪官」。工作时比刹诃伐罗学院制作的「大风机关」更有效率。 | [萌娘百科](https://zh.moegirl.org.cn/赛诺) |
 | alexia midgar | 阿莱克西亚·米德嘉尔 | ![](https://lain.bgm.tv/pic/crt/l/57/4a/103288_crt_MwrjM.jpg?r=1675248297&_gl=1*9cf1ib*_ga*Nzg4MzExMjk0LjE3MjQ1NzQ0NDM.*_ga_1109JLGMHN*czE3NTcyODk1NDIkbzE1JGcxJHQxNzU3Mjg5ODUyJGo1NCRsMCRoMA)..<br>所属作品: `p:kage no jitsuryokusha ni naritakute`<br>米德加尔王国的第二王女。 |  |
 | wednesday addams | 星期三·亚当斯 | ![](https://upload.wikimedia.org/wikipedia/zh/9/9d/Wednesday_Addams.jpg)<br>出自作品：`p:the addams family`<br><br>星期三·亚当斯（英语：Wednesday Addams），全名星期三·星期五·亚当斯（英语：Wednesday Friday Addams），是《亚当斯一家》系列的虚构角色，由美国漫画家查尔斯·亚当斯创作。 | [维基百科](https://zh.wikipedia.org/wiki/星期三·阿達) |
