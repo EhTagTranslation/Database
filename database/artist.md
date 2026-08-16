@@ -7458,7 +7458,7 @@ example:
 | liveis watanabe | リーバイス渡辺 |  |  |
 | llm | LLM |  |  |
 | locon | locon |  |  |
-| locos | ろこす |  |  |
+| locos | ろこす |  | [FANBOX](https://ip5c8o6x.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/7264857) \| [X](https://x.com/locos_dawn) \| [Skeb](https://skeb.jp/@locos_dawn) |
 | lod | Lod |  |  |
 | logie | 路地 |  |  |
 | lolee | 炉LEE |  |  |
