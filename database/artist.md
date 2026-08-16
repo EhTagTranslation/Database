@@ -15590,6 +15590,7 @@ example:
 | ibaten | いばてん |  | [pixiv](https://www.pixiv.net/users/83208177) |
 | blondie | Blondie |  | [X](https://x.com/blondie_nsfw) \| [Skeb](https://skeb.jp/@Blondie) \| [pixiv](https://www.pixiv.net/users/761167) \| [FANBOX](https://blondieart.fanbox.cc/) |
 | yamada kuro | 山田くろ |  |  |
+| asakura yuu | 浅倉優 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
