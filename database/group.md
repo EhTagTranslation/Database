@@ -14170,6 +14170,7 @@ example:
 | akairo koubou | 赤色工房 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=221750/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01033511.html) \| [FANBOX](https://mushs.fanbox.cc/) |
 | biganki | 美顔器 |  |  |
 | takatsuki koujou | 高槻工場 |  |  |
+| jingai | 仁外 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
