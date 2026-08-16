@@ -15601,6 +15601,7 @@ example:
 | fuyushiki | 冬識 |  |  |
 | nikujaga | にくじゃが |  |  |
 | tateishi nana | 舘石奈々 |  |  |
+| nishibi mitsuba | 西陽ミツバ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
