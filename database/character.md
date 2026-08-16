@@ -6417,7 +6417,7 @@ example:
 | ishigami nozomi | 石神望 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/2/21/Ishigami_Nozomi_Portrait.png)<br>所属团体`nijisanji` | [YouTube](https://www.youtube.com/@IshigamiNozomi) [萌娘百科](https://zh.moegirl.org.cn/石神望) |
 | alpha | 阿尔法 | ![](https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/a/a5/Alpha_Game.png)<br>所属作品: `p:kage no jitsuryokusha ni naritakute` | [Fandom](https://the-eminence-in-shadow.fandom.com/wiki/Alpha) |
 | red shoes | 红舞鞋 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/ee/Red_Shoes_FB.png)<br>所属作品：`goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Red_Shoes) |
-| suisui | 水水 | ![](https://img.exloli.org/559bfb4423.webp) |  |
+| suisui | 穗穗 \| 水水 | ①<br>![](https://static.wikia.nocookie.net/wutheringwaves/images/8/84/Suisui_Full_Sprite.png)<br>出自作品:`wuthering waves`<br>——————————<br>②<br>![](https://img.exloli.org/559bfb4423.webp)<br>出自作品:`bomber girl` |  |
 | arshes nei | 安雪丝·奈伊 | 所属作品: `p:bastard`<br><br>黑暗妖精与人类的混血儿，四天王唯一的女性。自小被妖精族抛弃后被达克·休奈达收为养女，称号是“雷帝”。昵称达克·休奈达“达休”，既是他的女儿，又是他的情人。只有达克·休奈达才能直呼她“安雪”。 | [Fandom](https://bastard.fandom.com/wiki/Arshes_Nei) [维基百科](https://zh.wikipedia.org/wiki/BASTARD!!_－暗黑的破坏神－#四天王) |
 | cardigan | 卡缇 | ![](https://patchwiki.biligame.com/images/arknights/1/11/icfe7thgmcnk7b4375ujfrq3rwx134r.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/卡缇) |
 | shiron the windragon | 斯朗（风龙） | 所属作品：`legendz`<br>斯朗（シロン/Shiron）是作品《苏生龙王传说》的角色。风龙，平时看起来像只小仓鼠，变身后成为传说中的风龙（Windragon）。 |  |
