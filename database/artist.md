@@ -15599,6 +15599,7 @@ example:
 | mg kurino | Mg栗野 |  |  |
 | uraha | 裏葉 |  |  |
 | fuyushiki | 冬識 |  |  |
+| nikujaga | にくじゃが |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
