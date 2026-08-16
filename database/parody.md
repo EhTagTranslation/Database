@@ -2234,7 +2234,7 @@ example:
 | taimadou gakuen 35 shiken shoutai | 对魔导学园35试验小队 |  |  |
 | ongeki | 音击Ongeki | Sega于2018年7月26日推出的街机音乐游戏<br>![](https://img.moegirl.org.cn/common/thumb/7/77/Ongekibright.jpg/560px-Ongekibright.jpg) | [萌娘百科](https://zh.moegirl.org.cn/音击#游戏信息) |
 | yamada-kun to lv999 no koi o suru | 和山田进行LV.999的恋爱 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c7/25/395684_Ojam4.jpg)<br>作者: ましろ |  |
-| yu-gi-oh sevens | 游戏王SEVENS | 游戏王系列的第7部作品 |  |
+| yu-gi-oh sevens | 游戏王 七星 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c6/98/286967_ufdS3.jpg)<br>遊☆戯☆王SEVENS |  |
 | ore no shikabane wo koeteyuke | 跨越我的尸体 |  | [维基百科](https://zh.wikipedia.org/wiki/降鬼一族) |
 | puss in boots the last wish | 穿靴子的猫:最后的愿望 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Puss_in_Boots:_The_Last_Wish) [维基百科](https://zh.wikipedia.org/wiki/鞋貓劍客2) |
 | fatal frame | 零系列 | 零为日本厂商特库摩开发的恐怖游戏系列，自2001年问世以来，已推出了五部正传作品：《零～zero～》、《零～红蝶～》、《零～刺青之声～》、《零～月蚀的假面～》和《零～濡鸦之巫女～》，一部外传作品《心灵照相机～被附身的笔记本～》。 |  |
