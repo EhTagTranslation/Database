@@ -10005,7 +10005,7 @@ example:
 | amir | 艾米尔 | ![](https://patchwiki.biligame.com/images/czn/8/89/n2elvd2iscddg4mw5syjme03okkqd47.png)<br>出自作品:`chaos zero nightmare` |  |
 | hitch dreyse | 希琪·朵丽丝 | ![](https://static.wikia.nocookie.net/shingekinokyojin/images/8/84/Hitch_Dreyse_%28Anime%29_character_image_%28850%29.png)<br>日语：ヒッチ・ドリス<br>出自作品:`shingeki no kyojin` |  |
 | marlo freudenberg | 马尔洛·桑德 | ![](https://lain.bgm.tv/r/400/pic/crt/l/87/77/28280_crt_6D46G.jpg)<br>日语：マルロ・フロイデンベルク<br>出自作品:`shingeki no kyojin` |  |
-| kaede agatsuma | 吾妻枫 | ![](https://static.wikia.nocookie.net/alicegearaegis/images/7/74/Kaede_upper.png)<br>出自作品:`alice gear aegis` |  |
+| kaede agatsuma | 吾妻枫 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/f/fe/c0lyc7elu31hkyqtpd2usf9zt4h0589.png) | [https://wikiwiki.jp/alicegear/吾妻楓](https://wikiwiki.jp/alicegear/吾妻楓)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/吾妻_枫) |
 | ume matsuzaka | 松坂梅 | ![](https://static.wikia.nocookie.net/crayonshinchan/images/d/df/0c0b63e16e2fe4cb51678c0809c128de.png/revision/latest?cb=20260527192434)<br>所属作品:`crayon shin-chan` | [百度百科](https://baike.baidu.com/item/松坂梅/9345909) |
 | miria saeki | 佐伯米莉亚 | ![](https://patchwiki.biligame.com/images/manosaba/thumb/9/97/mopt3op4ywv9w75skvoieukwjbmlm7a.png/300px-佐伯米莉亚.png)<br>所属作品:`mahou shoujo no majo saiban` | [BILIGAME WIKI](https://wiki.biligame.com/manosaba/佐伯米莉亚)<br>[萌娘百科](https://zh.moegirl.org.cn/佐伯米莉亚) |
 | yuki tsukishiro | 月代雪 | ![](https://patchwiki.biligame.com/images/manosaba/thumb/6/62/5pq10818i92osbwb0lf22akw96nw943.png/300px-月代雪.png)<br>所属作品:`mahou shoujo no majo saiban`<br>日文：月代ユキ<br>大魔女大人 | [BILIGAME WIKI](https://wiki.biligame.com/manosaba/月代雪)<br>[萌娘百科](https://zh.moegirl.org.cn/月代雪) |
