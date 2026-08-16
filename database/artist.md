@@ -2574,7 +2574,7 @@ example:
 | hinohara fuki | 檜原フキ |  | [X](https://x.com/hinoharaf) |
 | kobayashi kina | 小林キナ |  | [pixiv](https://www.pixiv.net/users/12513117) [X](https://x.com/udonkimuchikaki) |
 | takemitsu | たけみつ |  | [pixiv](https://www.pixiv.net/users/2757818) [X](https://x.com/take_samurai1) |
-| shiki | 色 \| しき | 日语：しき | しき：[FANBOX](https://www.fanbox.cc/@psyg2) \| [X](https://x.com/psyg2) \| [pixiv](https://www.pixiv.net/users/13922)<br>色： [X](https://x.com/ShikisokuZeku76) |
+| shiki | 色 \| しき \| 四季 | 注：这三位都是相同读音，但都是不同的艺术家。 | しき：[FANBOX](https://www.fanbox.cc/@psyg2) \| [X](https://x.com/psyg2) \| [pixiv](https://www.pixiv.net/users/13922)<br>色： [X](https://x.com/ShikisokuZeku76)<br>四季：[pixiv](https://www.pixiv.net/users/945404) \| [X](https://x.com/catbox230123) |
 | deyuyama | でゆ山 |  |  |
 | namidame | 泪目 |  |  |
 | higata akatsuki | 阳方晶月 |  |  |
