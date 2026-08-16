@@ -14171,6 +14171,7 @@ example:
 | biganki | 美顔器 |  |  |
 | takatsuki koujou | 高槻工場 |  |  |
 | jingai | 仁外 |  |  |
+| nanboku megochi | 南北めごち |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
