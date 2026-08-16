@@ -3578,7 +3578,7 @@ example:
 | carnage engine | カルネージエンジン |  |  |
 | carnelian | CARNELIAN |  |  |
 | carnevale9 | CARNEVALE9 |  |  |
-| carol works | Carol Works |  |  |
+| carol works | Carol Works | 日语：キャロルワークス | [官网](http://www.carolworks.com/) |
 | carpaccio | カルパッチョ |  |  |
 | carrot | きゃろっと |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27127/) |
 | carrot academy | キャロットアカデミー |  |  |
