@@ -10109,6 +10109,7 @@ example:
 | poem kohinata | 小日向微笑 | ![](https://static.wikia.nocookie.net/ponsuka/images/5/59/Poemu_Kohinata.png)<br>出自作品:`ponkotsu fuuki iin to skirt-take ga futekisetsu na jk no hanashi` |  |
 | neo nakano | 中埜音绪 | ![](https://lain.bgm.tv/r/400/pic/crt/l/4b/c6/183949_crt_ODdXw.jpg)<br>出自作品:`ichijyoma mankitsu gurashi` |  |
 | hana haruyama | 春山花奈 | ![](https://static.wikia.nocookie.net/hana-wa-saku-shura-no-gotoku/images/6/6e/Hana_Haruyama_Anime.png)<br>日语：はるやま はな<br>出自作品:`hana wa saku shura no gotoku` |  |
+| anna aveiro | 杏那·阿维罗 | ![](https://static.wikia.nocookie.net/yuripedia/images/7/71/Anna_Aveiro.png)<br>日语：杏那・アヴェイロ<br>出自作品:`na-nare hana-nare` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
