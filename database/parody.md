@@ -2977,6 +2977,7 @@ example:
 | haibara-kun no tsuyokute seishun new game | 灰原同学重返过去 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d5/a9/567418_LTStp.jpg)<br>全名：灰原同学重返过去，开启所向无敌的第二轮青春游戏<br>日语：灰原くんの強くて青春ニューゲーム<br>作者：雨宮和希 |  |
 | ponkotsu fuuki iin to skirt-take ga futekisetsu na jk no hanashi | 木头风纪委员和迷你裙JK的故事 | ![](https://lain.bgm.tv/r/400/pic/cover/l/68/ba/551123_IkXfk.jpg)<br>日语：ポンコツ風紀委員とスカート丈が不適切なJKの話<br>作者：横田卓馬 |  |
 | hana wa saku shura no gotoku | 群花绽放，彷如修罗 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b8/26/498934_KffF9.jpg)<br>日语：花は咲く、修羅の如く<br>作者： 武田綾乃・むっしゅ |  |
+| na-nare hana-nare | 亦叶亦花 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d5/89/464561_DRdV0.jpg)<br>日语：菜なれ花なれ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
