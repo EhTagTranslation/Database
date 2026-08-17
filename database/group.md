@@ -1283,7 +1283,7 @@ example:
 | shoujo kakei | 少女架刑 |  |  |
 | looptheloop | LOOPTHELOOP! |  |  |
 | tsukimi dango | 月见团子 |  |  |
-| paradiddle | パラディドル |  |  |
+| paradiddle | パラディドル |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG12779.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26639/) |
 | mousouzoku no soukutsu | 妄想族の巣窟 |  |  |
 | fuji sengendou | 富士浅间堂 |  |  |
 | negative gang | ネガティブギャング |  |  |
