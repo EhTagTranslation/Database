@@ -1977,7 +1977,7 @@ example:
 | herurun | へるるん |  |  |
 | hoshino | ホシノ |  |  |
 | zyugoya | 十五夜 |  |  |
-| yamaoka koutetsurou | 山冈钢铁郎 |  |  |
+| yamaoka koutetsurou | 山冈钢铁郎 | 日语: 山岡鋼鉄郎 | [Ci-en](https://ci-en.dlsite.com/creator/26254) \| [Skeb](https://skeb.jp/@steel_yamyam) \| [X](https://x.com/steel_yamyam) \| [pixiv](https://www.pixiv.net/users/217138) |
 | henreader | へんりいだ | 单行本《もっと! はつこいりぼん。》<br>![图](# "https://ehgt.org/15/b5/15b53ac3d21261728f4d40be233bbb61dabf8fcf-3732048-3351-4948-jpg_l.jpg") | [X](https://x.com/henreaderh_) [pixiv](https://www.pixiv.net/users/2278911) |
 | 47agdragon | 47AgDragon |  |  |
 | josho isamu | 城所委佐武 |  |  |
