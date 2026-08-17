@@ -3843,7 +3843,7 @@ example:
 | aika | Aika |  |  |
 | aikawa | 愛川 |  |  |
 | aikawa ruru | 藍川琉々 |  |  |
-| aikawa ryou | 相川りょう |  |  |
+| aikawa ryou | 相川りょう |  | [DLsite](https://ci-en.dlsite.com/creator/28328) \| [X](https://x.com/AikawaRyou_12) \| [FANBOX](https://aikawaryou.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/473759) \| [pixiv](https://www.pixiv.net/users/1466825) |
 | aikawa tatsuki | 相川たつき |  | [pixiv](https://www.pixiv.net/users/8183007) \| [X](https://x.com/ab_akanagi) |
 | aikura mahiru | 藍倉真昼 |  |  |
 | aikura shuuya | 藍倉秋夜 |  |  |
