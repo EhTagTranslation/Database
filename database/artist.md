@@ -15618,6 +15618,7 @@ example:
 | poopy | ぷーぴぃ |  |  |
 | stew | しつー |  | [Fantia](https://fantia.jp/fanclubs/485895) \| [pixiv](https://www.pixiv.net/users/22533685) \| [X](https://x.com/stew_pkmn) |
 | dori | dori |  | [pixiv](https://www.pixiv.net/users/1373298) \| [Ci-en](https://ci-en.dlsite.com/creator/15619) |
+| kurosawa r | 黒澤R |  | [FANZA](https://book.dmm.co.jp/list/?author=246445) |
 
 <!--TEMPLATE:
 |  |  |  |  |
