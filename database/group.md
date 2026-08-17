@@ -4144,7 +4144,7 @@ example:
 | danshaku ryou | 男爵領 |  |  |
 | dantyo neko | だんちょねこ |  |  |
 | danzi engine | ダンジエンジン |  |  |
-| darabuchidou | だらぶち堂 |  |  |
+| darabuchidou | だらぶち堂 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01023832.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200049/) |
 | daradara no kiheitai | だらだらの騎兵隊 |  |  |
 | dark battery | Dark battery |  |  |
 | dark buta gorilla | ダーク・ブタゴリラ |  |  |
