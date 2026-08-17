@@ -835,7 +835,7 @@ example:
 | v-slash | V-SLASH |  |  |
 | tanima club | 谷间俱乐部 | 谷間倶楽部 |  |
 | paper hearts | PAPER HEARTS |  |  |
-| gekikara koushinryou | 激辛香辛料 |  |  |
+| gekikara koushinryou | 激辛香辛料 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG12126.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26526/) |
 | pha-la-dogs | ぱらどっくす。 |  |  |
 | yojouhan shobou | 四叠半书房 |  | [pixiv](https://www.pixiv.net/users/2431234) \| [X](https://x.com/yojouhanshobou/media) \| [Fantia](https://fantia.jp/fanclubs/526784) |
 | maron maron | まろん☆まろん |  |  |
