@@ -4826,7 +4826,7 @@ example:
 | dantou | 暖冬 |  |  |
 | dantyo neko | だんちょねこ |  |  |
 | dara | だら |  |  |
-| darabuchi | だらぶち |  |  |
+| darabuchi | だらぶち |  | [pixiv](https://www.pixiv.net/users/1209836) \| [X](https://x.com/darabuchi0) |
 | darius-kun | ダライアスくん |  |  |
 | darkilow | DarkⅠlow |  |  |
 | darkside-g | DARKSIDE-G |  |  |
