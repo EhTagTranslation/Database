@@ -15613,6 +15613,7 @@ example:
 | sonora | ソノラ |  |  |
 | ichihi | イチヒ |  |  |
 | minchi | みんち |  |  |
+| tel-o | TEL-O |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
