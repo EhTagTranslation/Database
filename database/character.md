@@ -9891,7 +9891,7 @@ example:
 | nana hoshi | 星奈奈 | ![](https://static.wikia.nocookie.net/food-for-the-soul/images/c/c4/Nana_Hoshi_Anime.png)<br>出自作品:`hibi wa sugiredo meshi umashi`<br>日语：星なな |  |
 | claire furutachi | 古馆红怜亚 | ![](https://static.wikia.nocookie.net/food-for-the-soul/images/4/4d/Kurea_Furutachi_Anime.png)<br>出自作品:`hibi wa sugiredo meshi umashi`<br>日语：古館くれあ |  |
 | noel izumi | 和泉乃爱琉 | ![](https://static.wikia.nocookie.net/tenshitsuki/images/6/67/Noel_Izumi.png)<br>出自作品:`one room hiatari futsuu tenshi-tsuki`<br>日语：和泉 のえる |  |
-| pai kawahigashi | 河东派 | ![](https://static.wikia.nocookie.net/ponnomichi/images/8/86/Pai_Kawahigashi_Character_Design.png)<br>出自作品:`pon no michi`<br>日语：河東ぱい |  |
+| pai kawahigashi | 河东派 | ![](https://static.wikia.nocookie.net/ponnomichi/images/8/86/Pai_Kawahigashi_Character_Design.png)<br>日语：河東ぱい<br>出自作品:`pon no michi` |  |
 | mari louise amasaka | 天坂·露易丝·真璃 | ![](https://patchwiki.biligame.com/images/pcr/thumb/5/50/l2ytkdohjzhoj7az4e0e6ugqvhs0p1n.png/447px-露易丝玛丽.png)<br>出自作品:`princess connect` |  |
 | nagomi | 和 | ![](https://static.wikia.nocookie.net/25-dimensional-seduction/images/6/6a/753♡_Anime.png)<br>出自作品:`2.5-jigen no yuuwaku` |  |
 | arisa izayoi | 十六夜亚理沙 | ![](https://static.wikia.nocookie.net/sono-bisque-doll-wa-koi-wo-suru/images/d/d0/ArishaLingerie.webp)<br>`marin kitagawa`COS的角色。<br>出自作品:`sono bisque doll wa koi o suru` |  |
