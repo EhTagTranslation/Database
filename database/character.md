@@ -1815,7 +1815,7 @@ example:
 | honoka mitsui | 光井穗乃香 | ![](https://mahouka-yuutousei.jp/assets/img/character/img_honoka.png)<br>所属作品：`mahouka koukou no rettousei` | [萌娘百科](https://zh.moegirl.org.cn/光井穗乃香) |
 | mari watanabe | 渡边摩利 | ![](https://static.wikia.nocookie.net/mahouka-koukou-no-rettousei/images/9/92/Watanabe-Mari-GM-RM-Fullbody.png)<br>日语：わたなべ まり<br>出自作品：`mahouka koukou no rettousei` | [萌娘百科](https://zh.moegirl.org.cn/渡边摩利) |
 | mayumi saegusa | 七草真由美 | ![](https://static.wikia.nocookie.net/mahouka-koukou-no-rettousei/images/5/54/Saegusa-Mayumi-GM-RM-Fullbody.png)<br>出自作品：`mahouka koukou no rettousei` | [萌娘百科](https://zh.moegirl.org.cn/七草真由美) |
-| miyuki shiba | 司波深雪 | ![](https://mahouka-yuutousei.jp/assets/img/character/img_miyuki.png)<br>所属作品：`mahouka koukou no rettousei`<br>魔法师家族四叶家秘密的候选继任者，司波龙郎与司波深夜（四叶深夜）之女，司波达也的妹妹。魔法实力、实绩成绩都是最好的新生代表。 | [萌娘百科](https://zh.moegirl.org.cn/司波深雪) |
+| miyuki shiba | 司波深雪 | ![](https://mahouka-yuutousei.jp/assets/img/character/img_miyuki.png)<br>所属作品：`mahouka koukou no rettousei` | [萌娘百科](https://zh.moegirl.org.cn/司波深雪) |
 | mizuki shibata | 柴田美月 | ![](https://static.wikia.nocookie.net/mahouka-koukou-no-rettousei/images/5/5f/Shibata-Mizuki-GM-RM-Fullbody.png)<br>出自作品：`mahouka koukou no rettousei` | [萌娘百科](https://zh.moegirl.org.cn/柴田美月) |
 | sayaka mibu | 壬生纱耶香 |  |  |
 | shizuku kitayama | 北山雫 | ![](https://mahouka-yuutousei.jp/assets/img/character/img_shizuku.png)<br>所属作品：`mahouka koukou no rettousei` | [萌娘百科](https://zh.moegirl.org.cn/北山雫) |
