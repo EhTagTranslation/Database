@@ -15616,6 +15616,7 @@ example:
 | tel-o | TEL-O |  |  |
 | orio neji | 折尾ねじ |  | [X](https://x.com/neji_vuldarak2) |
 | poopy | ぷーぴぃ |  |  |
+| stew | しつー |  | [Fantia](https://fantia.jp/fanclubs/485895) \| [pixiv](https://www.pixiv.net/users/22533685) \| [X](https://x.com/stew_pkmn) |
 
 <!--TEMPLATE:
 |  |  |  |  |
