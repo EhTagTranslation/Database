@@ -15612,6 +15612,7 @@ example:
 | tsukasa yuuki | 司由纪(司ゆうき) |  |  |
 | sonora | ソノラ |  |  |
 | ichihi | イチヒ |  |  |
+| minchi | みんち |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
