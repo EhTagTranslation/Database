@@ -10111,6 +10111,7 @@ example:
 | hana haruyama | 春山花奈 | ![](https://static.wikia.nocookie.net/hana-wa-saku-shura-no-gotoku/images/6/6e/Hana_Haruyama_Anime.png)<br>日语：はるやま はな<br>出自作品:`hana wa saku shura no gotoku` |  |
 | anna aveiro | 杏那·阿维罗 | ![](https://static.wikia.nocookie.net/yuripedia/images/7/71/Anna_Aveiro.png)<br>日语：杏那・アヴェイロ<br>出自作品:`na-nare hana-nare` |  |
 | kanata misora | 美空彼方 | ![](https://static.wikia.nocookie.net/yuripedia/images/0/05/Kanata_Misora.png)<br>日语：美空かなた<br>出自作品:`na-nare hana-nare` |  |
+| megumi kaionji | 海音寺惠深 | ![](https://static.wikia.nocookie.net/yuripedia/images/0/05/Megumi_Kaionji.png)<br>日语：かいおんじ めぐみ<br>出自作品:`na-nare hana-nare` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
