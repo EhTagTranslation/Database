@@ -182,7 +182,7 @@ example:
 | animachine | アニマルマシーン |  |  |
 | ailail | あいるあいる |  |  |
 | moe hime rengou | 萌姬连合 |  |  |
-| digital lover | Digital Lover |  | [官方网站](http://www.digitallover.net) |
+| digital lover | Digital Lover |  | [官方网站](http://www.digitallover.net) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG10833.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73946/) |
 | mone keshi gum | MONEけしごむ |  |  |
 | nama cream biyori | 生クリームびより |  |  |
 | clesta | クレスタ |  | [官方网站](http://clesta.net) |
