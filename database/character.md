@@ -10098,6 +10098,7 @@ example:
 | kyosuke kiryu | 鬼柳京介 | ![](https://ms.yugipedia.com//thumb/f/f5/KalinKessler-DULI.png/386px-KalinKessler-DULI.png)<br>出自作品:`yu-gi-oh 5ds` |  |
 | lag seeing | 拉格·辛谷 | ![](https://static.wikia.nocookie.net/tegamibachi/images/d/da/Lag_Seeing_Character_Design.gif)<br>日语：ラグ・シーイング<br>出自作品:`letter bee` |  |
 | riche hayashi | 林莉榭 | ![](https://static.wikia.nocookie.net/ponnomichi/images/2/20/Riche_Hayashi_Character_Design.png)<br>日语：林リーチェ<br>出自作品:`pon no michi` |  |
+| nashiko jippensha | 十返舍梨子 | ![](https://static.wikia.nocookie.net/ponnomichi/images/c/c5/Nashiko_Jippensha_Character_Design.png)<br>日语：十返舎なしこ<br>出自作品:`pon no michi` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
