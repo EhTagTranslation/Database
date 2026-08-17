@@ -1816,7 +1816,7 @@ example:
 | mari watanabe | 渡边摩利 | ![](https://ehgt.org/w/01/831/37733-ixgbb497.webp)<br>日文拼写：わたなべ まり<br>所属作品：`mahouka koukou no rettousei` | [萌娘百科](https://zh.moegirl.org.cn/渡边摩利) |
 | mayumi saegusa | 七草真由美 | ![](https://static.wikia.nocookie.net/mahouka-koukou-no-rettousei/images/5/54/Saegusa-Mayumi-GM-RM-Fullbody.png)<br>出自作品：`mahouka koukou no rettousei` | [萌娘百科](https://zh.moegirl.org.cn/七草真由美) |
 | miyuki shiba | 司波深雪 | ![](https://mahouka-yuutousei.jp/assets/img/character/img_miyuki.png)<br>所属作品：`mahouka koukou no rettousei`<br>魔法师家族四叶家秘密的候选继任者，司波龙郎与司波深夜（四叶深夜）之女，司波达也的妹妹。魔法实力、实绩成绩都是最好的新生代表。 | [萌娘百科](https://zh.moegirl.org.cn/司波深雪) |
-| mizuki shibata | 柴田美月 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/13/15/27/33/129261496_p3_master1200.jpg)<br><br>所属作品：`mahouka koukou no rettousei` | [萌娘百科](https://zh.moegirl.org.cn/柴田美月) |
+| mizuki shibata | 柴田美月 | ![](https://static.wikia.nocookie.net/mahouka-koukou-no-rettousei/images/5/5f/Shibata-Mizuki-GM-RM-Fullbody.png)<br>出自作品：`mahouka koukou no rettousei` | [萌娘百科](https://zh.moegirl.org.cn/柴田美月) |
 | sayaka mibu | 壬生纱耶香 |  |  |
 | shizuku kitayama | 北山雫 | ![](https://mahouka-yuutousei.jp/assets/img/character/img_shizuku.png)<br>所属作品：`mahouka koukou no rettousei`<br>大财阀北山家族的千金。平时很少发表自己的主张，但是却是言辞犀利并且十分聪敏的角色。是剧中的吐槽役担当。 | [萌娘百科](https://zh.moegirl.org.cn/北山雫) |
 | suzune ichihara | 市原铃音 |  |  |
