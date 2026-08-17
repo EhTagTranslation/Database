@@ -2570,7 +2570,7 @@ example:
 | aihara otome | 相原乙女 |  |  |
 | aiiro paradox | 藍色パラドックス |  |  |
 | aiirojikan | 藍色時間 |  |  |
-| aiirosakura | あいいろさくら |  |  |
+| aiirosakura | あいいろさくら |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG18503.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28669/) |
 | aik sole | アイクソール |  |  |
 | aikokusha | 愛国者 |  |  |
 | aikotobako | アイコトバコ |  |  |
