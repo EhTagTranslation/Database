@@ -10106,6 +10106,7 @@ example:
 | yamamoto | 山本 | ![](https://lain.bgm.tv/r/400/pic/crt/l/f4/7e/77401_crt_Wupvm.jpg?r=1749824602)<br>出自作品:`food court de mata ashita.` |  |
 | sakura uta | 佐仓诗 | ![](https://static.wikia.nocookie.net/haibaras-teenage-new-game/images/e/e9/Sakura_Shi.webp)<br>出自作品:`haibara-kun no tsuyokute seishun new game` |  |
 | vereesa windrunner | 温蕾萨·风行者 | ![](https://static.wikia.nocookie.net/wowpedia/images/e/e4/Vereesa_Windrunner_HS.jpg)<br>出自作品:`world of warcraft` |  |
+| poem kohinata | 小日向微笑 | ![](https://static.wikia.nocookie.net/ponsuka/images/5/59/Poemu_Kohinata.png)<br>出自作品:`ponkotsu fuuki iin to skirt-take ga futekisetsu na jk no hanashi` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
