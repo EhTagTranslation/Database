@@ -2972,6 +2972,7 @@ example:
 | black souls | 黑暗之魂 | ![](https://upload.wikimedia.org/wikipedia/en/9/95/Blacksouls_promotion_art.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled) | [Steam](https://store.steampowered.com/app/3755860/BLACK_SOULS/) |
 | hanairo heptagram | 花色七芒星 | ![](https://t.vndb.org/cv.t/44/98644.jpg)<br>日语：花色ヘプタグラム<br>制作社团：Lump of Sugar | [VNDB](https://vndb.org/v10415/chars) |
 | letter bee | 信蜂 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c8/06/2476_PGVrR.jpg)<br>日语：テガミバチ<br>作者：浅田弘幸 |  |
+| busa-men gachi-fighter | 肥宅勇者 | ![](https://lain.bgm.tv/r/400/pic/cover/l/69/01/524593_yyLxl.jpg)<br>日语：ブサメンガチファイター<br>作者： 弘松涼・上月ヲサム |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
