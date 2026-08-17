@@ -2974,6 +2974,7 @@ example:
 | letter bee | 信蜂 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c8/06/2476_PGVrR.jpg)<br>日语：テガミバチ<br>作者：浅田弘幸 |  |
 | busa-men gachi-fighter | 肥宅勇者 | ![](https://lain.bgm.tv/r/400/pic/cover/l/69/01/524593_yyLxl.jpg)<br>日语：ブサメンガチファイター<br>作者： 弘松涼・上月ヲサム |  |
 | food court de mata ashita. | 明天，美食广场见 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0d/5b/528438_cyCPQ.jpg)<br>日语：フードコートで、また明日<br>作者：成家慎一郎 |  |
+| haibara-kun no tsuyokute seishun new game | 灰原同学重返过去 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d5/a9/567418_LTStp.jpg)<br>全名：灰原同学重返过去，开启所向无敌的第二轮青春游戏<br>日语：灰原くんの強くて青春ニューゲーム<br>作者：雨宮和希 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
