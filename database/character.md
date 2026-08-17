@@ -10104,6 +10104,7 @@ example:
 | seika | 圣华 | ![](https://ami.animecharactersdatabase.com/images%20of/Seika/from/Busamen%20Gachi%20Fighter/uploads/chars/67712-1074649385.png)<br>出自作品:`busa-men gachi-fighter` |  |
 | wada | 和田 | ![](https://lain.bgm.tv/r/400/pic/crt/l/29/cb/77400_crt_w4H33.jpg?r=1753888054)<br>出自作品:`food court de mata ashita.` |  |
 | yamamoto | 山本 | ![](https://lain.bgm.tv/r/400/pic/crt/l/f4/7e/77401_crt_Wupvm.jpg?r=1749824602)<br>出自作品:`food court de mata ashita.` |  |
+| sakura uta | 佐仓诗 | ![](https://static.wikia.nocookie.net/haibaras-teenage-new-game/images/e/e9/Sakura_Shi.webp)<br>出自作品:`haibara-kun no tsuyokute seishun new game` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
