@@ -4674,7 +4674,7 @@ example:
 | fat | FAT |  |  |
 | fatboy | ふぁっとぼ～い |  |  |
 | fatima cigarette | Fatima Cigarette |  |  |
-| favorite | FAVORITE |  | [萌娘百科](https://zh.moegirl.org.cn/FAVORITE) |
+| favorite | 真红社 | 别称：F社<br>日语：フェイバリット | [萌娘百科](https://zh.moegirl.org.cn/FAVORITE) |
 | fclg | フクラグ |  |  |
 | fechisupi | ふぇちすぴ |  |  |
 | feeld hern halle | FEELD HERN HALLE |  |  |
