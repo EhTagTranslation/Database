@@ -10096,6 +10096,7 @@ example:
 | lucciano | 卢奇亚诺 | ![](https://i.namu.wiki/i/r_PTAOMdi0HOzc7HBrBa_fxtjfoI68JxecrDHyP0z7JH1ZLUm7D7AdXWNDc6tlU6ErQFZ4217CTa5Tx-qUZtz4hBdH7OyiA1wQjvHGce4ubYm4-hIj4EdH-cjcXButkSzyp9hWIBskXxGjYVvO-OFw.webp)<br>日语：ルチアーノ<br>出自作品:`yu-gi-oh 5ds` |  |
 | primo | 普拉西多 | ![](https://static.wikia.nocookie.net/yugioh/images/a/aa/Primo-DULI.png)<br>日文版名为 Placido<br>日语：プラシド<br>出自作品:`yu-gi-oh 5ds` |  |
 | kyosuke kiryu | 鬼柳京介 | ![](https://ms.yugipedia.com//thumb/f/f5/KalinKessler-DULI.png/386px-KalinKessler-DULI.png)<br>出自作品:`yu-gi-oh 5ds` |  |
+| lag seeing | 拉格·辛谷 | ![](https://static.wikia.nocookie.net/tegamibachi/images/d/da/Lag_Seeing_Character_Design.gif)<br>日语：ラグ・シーイング<br>出自作品:`letter bee` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
