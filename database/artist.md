@@ -15614,6 +15614,7 @@ example:
 | ichihi | イチヒ |  |  |
 | minchi | みんち |  |  |
 | tel-o | TEL-O |  |  |
+| orio neji | 折尾ねじ |  | [X](https://x.com/neji_vuldarak2) |
 
 <!--TEMPLATE:
 |  |  |  |  |
