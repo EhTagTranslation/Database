@@ -13987,7 +13987,7 @@ example:
 | yurinyurin | ゆりんゆりん | Yurin Yurin |  |
 | st. michael girls school | 圣迈克尔女子学院 | 聖ミカエル女子学園，St. Michael Girls' School |  |
 | 8 percent milk. | 8%milk. |  |  |
-| onigiri to okazu | おにぎりとおかず |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01048471.html) |
+| onigiri to okazu | おにぎりとおかず |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01048471.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=216656/) \| [BOOTH](https://echigooriman.booth.pm/) |
 | seiheki times | 性癖タイムズ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56875.html) \| [Ci-en](https://ci-en.dlsite.com/creator/14065) \| [X](https://x.com/Seiheki_Times) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206746/) |
 | armjaw | Armjaw |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=233479/) |
 | dusuya-san | づす屋さん |  |  |
