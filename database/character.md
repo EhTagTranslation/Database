@@ -10113,6 +10113,7 @@ example:
 | kanata misora | 美空彼方 | ![](https://static.wikia.nocookie.net/yuripedia/images/0/05/Kanata_Misora.png)<br>日语：美空かなた<br>出自作品:`na-nare hana-nare` |  |
 | megumi kaionji | 海音寺惠深 | ![](https://static.wikia.nocookie.net/yuripedia/images/0/05/Megumi_Kaionji.png)<br>日语：かいおんじ めぐみ<br>出自作品:`na-nare hana-nare` |  |
 | nodoka ootani | 大谷稳花 | ![](https://static.wikia.nocookie.net/yuripedia/images/b/bd/Nodoka_Ootani.png)<br>日语：おおたに のどか<br>出自作品:`na-nare hana-nare` |  |
+| shion tanizaki | 谷崎诗音 | ![](https://static.wikia.nocookie.net/yuripedia/images/b/be/Shion_Tanizaki.png)<br>日语：たにざき しおん<br>出自作品:`na-nare hana-nare` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
