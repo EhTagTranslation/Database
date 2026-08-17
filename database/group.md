@@ -14178,6 +14178,7 @@ example:
 | cotton software | 棉花社 | ![](https://pbs.twimg.com/profile_images/1292544821/___________400x400.jpg)<br>日语：コットンソフト | [X](https://x.com/cotton_software) |
 | yaritsu | やりつ |  |  |
 | tomo | ともー |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ052991) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=0e3ca0f1-64d4-11f0-ba33-0242ac160002/) |
+| nowloading | ■■■□□ NOWLOADING |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30633.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
