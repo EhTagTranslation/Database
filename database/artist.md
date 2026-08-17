@@ -15615,6 +15615,7 @@ example:
 | minchi | みんち |  |  |
 | tel-o | TEL-O |  |  |
 | orio neji | 折尾ねじ |  | [X](https://x.com/neji_vuldarak2) |
+| poopy | ぷーぴぃ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
