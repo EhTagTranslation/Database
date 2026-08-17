@@ -10101,6 +10101,7 @@ example:
 | nashiko jippensha | 十返舍梨子 | ![](https://static.wikia.nocookie.net/ponnomichi/images/c/c5/Nashiko_Jippensha_Character_Design.png)<br>日语：十返舎なしこ<br>出自作品:`pon no michi` |  |
 | haneru emi | 江见跳 | ![](https://static.wikia.nocookie.net/ponnomichi/images/4/47/Haneru_Emi_Character_Design.png)<br>出自作品:`pon no michi` |  |
 | izumi tokutomi | 德富泉 | ![](https://static.wikia.nocookie.net/ponnomichi/images/c/c5/Izumi_Tokutomi_Character_Design.png)<br>出自作品:`pon no michi` |  |
+| seika | 圣华 | ![](https://ami.animecharactersdatabase.com/images%20of/Seika/from/Busamen%20Gachi%20Fighter/uploads/chars/67712-1074649385.png)<br>出自作品:`busa-men gachi-fighter` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
