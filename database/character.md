@@ -2951,7 +2951,7 @@ example:
 | ai hayasaka | 早坂爱 | ![](https://mahjongsoul.wiki.gg/images/thumb/Full_463.png/600px-Full_463.png?4ccd13)<br>出自作品：`kaguya-sama wa kokurasetai` | [萌娘百科](https://zh.moegirl.org.cn/早坂爱) |
 | kaguya shinomiya | 四宫辉夜 | ![](https://mahjongsoul.wiki.gg/images/Full_456.png?c84173)<br>出自作品：`kaguya-sama wa kokurasetai` | [萌娘百科](https://zh.moegirl.org.cn/四宫辉夜) |
 | miyuki shirogane | 白银御行 | ![](https://mahjongsoul.wiki.gg/images/Full_461.png?24d4b8)<br>出自作品：`kaguya-sama wa kokurasetai` | [萌娘百科](https://zh.moegirl.org.cn/白银御行) |
-| chika fujiwara | 藤原千花 | ![](https://img.moegirl.org.cn/common/a/a8/Fujiwara_Chika.png)<br>所属作品：`kaguya-sama wa kokurasetai`<br>出生于政治世家的千金，曾祖父是原总理大臣，叔父担任现任的省大臣，拥有相当优秀的血统。由于母亲是外交官，所以会5种语言。但是难以应付国语。三姐妹的次女。 | [萌娘百科](https://zh.moegirl.org.cn/藤原千花) |
+| chika fujiwara | 藤原千花 | ![](https://img.moegirl.org.cn/common/a/a8/Fujiwara_Chika.png)<br>出自作品：`kaguya-sama wa kokurasetai` | [萌娘百科](https://zh.moegirl.org.cn/藤原千花) |
 | soushi miketsukami | 御狐神双炽 |  |  |
 | maya tendo | 天堂真矢 | ![](https://static.wikia.nocookie.net/revuestarlight/images/5/52/Maya_Tendo_Revue_Outfit.png)<br>所属作品：`shoujo kageki revue starlight` | [萌娘百科](https://zh.moegirl.org.cn/天堂真矢) |
 | seto miyako | 濑户美夜子 |  |  |
