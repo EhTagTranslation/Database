@@ -1135,7 +1135,7 @@ example:
 | eba | EBA |  |  |
 | kutibue | 口VE | くちぶえ | [pixiv](https://www.pixiv.net/users/10405291) \| [X](https://x.com/KutibueVe) |
 | aoi shou | 葵抄 |  |  |
-| myougi kulaganosuke | 妙義倉賀ノ助 |  |  |
+| myougi kulaganosuke | 妙義倉賀ノ助 |  | [Ci-en](https://ci-en.dlsite.com/creator/2680) \| [FANBOX](https://myougi.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/304990) \| [X](https://x.com/myougi_kula) \| [Skeb](https://skeb.jp/@myougi_kula) |
 | karatakewari | からたけわり |  |  |
 | mifune seijirou | 三船诚二郎 |  |  |
 | natsu no oyatsu | 夏のおやつ |  |  |
