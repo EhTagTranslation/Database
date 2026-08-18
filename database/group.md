@@ -14188,6 +14188,7 @@ example:
 | gokuraku mikaduki | 極楽三日月 |  |  |
 | maita keikaku | まいた計画 |  |  |
 | anmitsu studio | アンミツスタジオ |  |  |
+| sangorodou | サンゴロ堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
