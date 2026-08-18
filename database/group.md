@@ -8429,7 +8429,7 @@ example:
 | neko no te koubou | 猫の手工房 |  |  |
 | neko no yurikago | 猫のゆりかご |  |  |
 | neko pantsu | ネコぱんつ |  |  |
-| neko pockle | ねこぽっくる |  |  |
+| neko pockle | ねこぽっくる |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG10108.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76210/) |
 | neko rop | ねころっぷ |  |  |
 | neko rush | ねこらっしゅ |  |  |
 | neko saffron | ネコサフラン |  |  |
