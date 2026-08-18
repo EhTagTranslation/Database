@@ -14186,6 +14186,7 @@ example:
 | ikiruta many many | 生田めにめに |  |  |
 | kinnikutei | 筋肉亭 |  |  |
 | gokuraku mikaduki | 極楽三日月 |  |  |
+| maita keikaku | まいた計画 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
