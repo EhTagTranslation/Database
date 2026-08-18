@@ -15626,6 +15626,7 @@ example:
 | akiboshigai | 秋星貝 |  | [pixiv](https://www.pixiv.net/users/126550302) |
 | panyakawa | ぱんやかわ |  | [FANBOX](https://www.fanbox.cc/@panyakawa) \| [pixiv](https://www.pixiv.net/users/93076597) |
 | yasuda suzuhito | 安田铃人 |  |  |
+| yanagi masashi | 矢凪まさし |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
