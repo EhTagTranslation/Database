@@ -13437,7 +13437,7 @@ example:
 | graphic l | グラフィックL |  |  |
 | ntrocket | NTRocket |  |  |
 | yomogimogi | よもぎもぎ |  |  |
-| pinochika | ピノチカ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53567.html) \| [Ci-en](https://ci-en.dlsite.com/creator/7884) \| [X](https://x.com/pinochika_ekaki) |
+| pinochika | ピノチカ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53567.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201040/) \| [Ci-en](https://ci-en.dlsite.com/creator/7884) \| [X](https://x.com/pinochika_ekaki) |
 | pakomucchi | ぱこむっち |  |  |
 | petapetapeta | ぺたぺたぺた |  |  |
 | r koubou | あ～る工房 |  |  |
