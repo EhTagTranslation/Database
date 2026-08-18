@@ -15621,6 +15621,7 @@ example:
 | kurosawa r | 黒澤R |  | [FANZA](https://book.dmm.co.jp/list/?author=246445) |
 | onamae | おなまえ |  |  |
 | bossan | ぼっさん |  |  |
+| kuroki ichiro | 黒木一郎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
