@@ -14185,6 +14185,7 @@ example:
 | gemuodou | げむお堂 |  |  |
 | ikiruta many many | 生田めにめに |  |  |
 | kinnikutei | 筋肉亭 |  |  |
+| gokuraku mikaduki | 極楽三日月 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
