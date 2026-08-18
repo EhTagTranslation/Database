@@ -10118,6 +10118,7 @@ example:
 | nobuko izumi | 泉信子 | 出自作品:`parasyte` |  |
 | konomi suzue | 铃江好实 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/6/66/Konomi_Suzue.png)<br>出自作品:`triage x` |  |
 | goryuu | 护龙 | ![](https://static.wikia.nocookie.net/triagex/images/d/de/Goryu.jpeg)<br>出自作品：`triage x` |  |
+| youko komine | 狭雾阳子 | ![](https://static.wikia.nocookie.net/triagex/images/6/63/Yoko1.jpg)<br>出自作品：`triage x` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
