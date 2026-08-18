@@ -2978,6 +2978,7 @@ example:
 | ponkotsu fuuki iin to skirt-take ga futekisetsu na jk no hanashi | 木头风纪委员和迷你裙JK的故事 | ![](https://lain.bgm.tv/r/400/pic/cover/l/68/ba/551123_IkXfk.jpg)<br>日语：ポンコツ風紀委員とスカート丈が不適切なJKの話<br>作者：横田卓馬 |  |
 | hana wa saku shura no gotoku | 群花绽放，彷如修罗 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b8/26/498934_KffF9.jpg)<br>日语：花は咲く、修羅の如く<br>作者： 武田綾乃・むっしゅ |  |
 | na-nare hana-nare | 亦叶亦花 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d5/89/464561_DRdV0.jpg)<br>日语：菜なれ花なれ |  |
+| the citadel | The Citadel | ![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1378290/header.jpg?t=1597695900) | [Steam](https://store.steampowered.com/app/1378290/The_Citadel/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
