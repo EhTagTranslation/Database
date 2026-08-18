@@ -13259,7 +13259,7 @@ example:
 | midareuchi | 乱れ撃ち |  |  |
 | otogidou | オトギ堂 |  |  |
 | shirokuma dango | しろくまだんご |  |  |
-| muru no honbako | ムルの本箱 |  |  |
+| muru no honbako | ムルの本箱 |  | ムルの本箱: [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01038050.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=222750/)<br>ムル@@: [FANBOX](https://muru024.fanbox.cc/) \| [Ci-en](https://ci-en.dlsite.com/creator/32659) \| [pixiv](https://www.pixiv.net/users/102192090) \| [X](https://x.com/Muru024) \| [Fantia](https://fantia.jp/fanclubs/528905) |
 | lose | Lose |  | [X](https://x.com/news_lose)<br>[http://www.lose.jp/official/](http://www.lose.jp/official/) |
 | dodeca vitamin | ドデカビタミン |  |  |
 | mochiki sengyoten | もちき鮮魚店 |  |  |
