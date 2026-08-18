@@ -14189,6 +14189,7 @@ example:
 | maita keikaku | まいた計画 |  |  |
 | anmitsu studio | アンミツスタジオ |  |  |
 | sangorodou | サンゴロ堂 |  |  |
+| shishudou | 屍孕堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
