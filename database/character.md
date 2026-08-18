@@ -10116,6 +10116,7 @@ example:
 | shion tanizaki | 谷崎诗音 | ![](https://static.wikia.nocookie.net/yuripedia/images/b/be/Shion_Tanizaki.png)<br>日语：たにざき しおん<br>出自作品:`na-nare hana-nare` |  |
 | suzuha obunai | 小父内凉叶 | ![](https://static.wikia.nocookie.net/yuripedia/images/7/7e/Suzuha_Obunai.png)<br>日语：おぶない すずは<br>出自作品:`na-nare hana-nare` |  |
 | nobuko izumi | 泉信子 | 出自作品:`parasyte` |  |
+| konomi suzue | 铃江好实 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/6/66/Konomi_Suzue.png)<br>出自作品:`triage x` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
