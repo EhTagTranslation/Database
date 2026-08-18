@@ -14122,7 +14122,7 @@ example:
 | chikyuugai seimeitai mokyu | 地球外生命体☆モキュ(ﾟ∞ﾟ) | 地球外生命体モキュ，Chikyuugai Seimeitai ☆ Mokyu (°∞°)<br>這名稱真有夠離譜的 |  |
 | p.w. | P.W.(パスワード) |  |  |
 | bansheesoftware | BansheeSOFTWARE |  |  |
-| hyoui no jikan | 憑依の刻 |  |  |
+| hyoui no jikan | 憑依の刻 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45421.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77769/) |
 | piyuku no buta | ぴゆくのぶた |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG75246.html) |
 | aoyama koubou | 蒼山工房 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=231096/) |
 | yakiniku tabetei | 焼肉たべ亭 |  |  |
