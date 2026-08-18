@@ -7033,7 +7033,7 @@ example:
 | folkwang | 富克旺 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8f/Folkwang_%28Moist_Rabbit%29_cover_idle.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/tj/170847.html) |
 | dolla | 朵拉 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/ff/Dolla_%28Dark_Rose%29_FB.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/tj/170853.html) |
 | professor sada | Sada博士 | ![](https://www.nintendo.com/sg/news/assets/article/HmM1KLiX8S0P4l0Q7jxq2/13-1.png)<br>《宝可梦：宝可梦传说 朱紫》中的角色，她是帕尔迪亚地区的宝可梦学者，致力于通过时空研究实现过去与现在的和谐共存。 ‌ |  |
-| sayo hitsugi | 柩小夜 | ![](https://ehgt.org/w/01/947/03327-86b2bter.webp)<br>所属作品：`triage x` |  |
+| sayo hitsugi | 柩小夜 | ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cc9ae86d-ff16-49b4-a004-091ac3dc3cb0/anim=false,width=450,optimized=true/185770e0-3b17-4510-95cd-d83ba2ae41e6.jpeg)<br>所属作品：`triage x` |  |
 | kirio hikifune | 桐月贵里奥 | ![](https://ehgt.org/w/01/847/39848-ggtry8un.webp)<br>所属作品：`bleach`<br>桐月贵里奥是皇家护卫队（零番队）的第二长官，负责保护灵王的宫殿。 |  |
 | kairi | 凯丽 | ![](https://ehgt.org/w/01/971/79179-aj3ze77p.webp)<br>所属作品：`kingdom hearts` |  |
 | makiko oriotorai | 参水·真喜子 |  |  |
