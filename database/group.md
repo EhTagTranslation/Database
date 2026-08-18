@@ -14183,6 +14183,7 @@ example:
 | shimono cable | 霜野ケーブル |  |  |
 | kokoro no mama | ココロのまま |  |  |
 | gemuodou | げむお堂 |  |  |
+| ikiruta many many | 生田めにめに |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
