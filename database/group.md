@@ -14192,6 +14192,7 @@ example:
 | shishudou | 屍孕堂 |  |  |
 | kairaku amnesia | 快楽アムネジア |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=220329/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01023777.html) |
 | dachou no umou | ダチョウの羽毛 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG32838.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73930/) \| [Ci-en](https://ci-en.dlsite.com/creator/1107) |
+| bokoman | ボコまん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01072801.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=234976/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
