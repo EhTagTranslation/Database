@@ -7475,7 +7475,7 @@ example:
 | many b | Many B |  |  |
 | manymanyrain | manymanyrain |  | [pixiv](https://www.pixiv.net/users/27932472) |
 | manzokudou | 満足堂 |  |  |
-| maple-go | maple号 |  |  |
+| maple-go | maple号 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG35274.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73439/) |
 | marabians | マラビアンズ |  |  |
 | marakkuma | マラックマ | 名称更改为: めななもりん | [Ci-en](https://ci-en.dlsite.com/creator/66) \| [pixiv](https://www.pixiv.net/users/14698674) \| [X](https://x.com/Techno4545Break) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30171.html) |
 | maraparte | まらぱるて |  |  |
