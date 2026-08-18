@@ -13506,7 +13506,7 @@ example:
 | na shacho | 无八千代 |  |  |
 | sasaki musashi | 佐佐木武藏 |  |  |
 | monaka curl | 最中かーる |  |  |
-| saishow | 最小 |  |  |
+| saishow | 最小 |  | [pixiv](https://www.pixiv.net/users/182890) \| [Fantia](https://fantia.jp/fanclubs/1904) \| [FANBOX](https://saishow.fanbox.cc/) \| [Skeb](https://skeb.jp/@saishow) \| [Misskey.io](https://misskey.io/@saishow) \| |
 | henbor | HenBor |  |  |
 | shiori shii | 栞しい |  | [pixiv](https://www.pixiv.net/users/12450448) [X](https://x.com/4ori_41) |
 | slash-ex | SlashEX |  |  |
