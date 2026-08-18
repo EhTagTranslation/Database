@@ -3207,7 +3207,7 @@ example:
 | chocola | 巧克力 | ![](https://static.wikia.nocookie.net/charactah-account/images/3/3a/Chocola_%28Nekopara%29_Render_02.png)<br>所属作品：`p:nekopara` | [萌娘百科](https://zh.moegirl.org.cn/巧克力%28NEKO_WORKs%29) |
 | cinnamon | 桂 |  | [萌娘百科](https://zh.moegirl.org.cn/桂%28NEKO_WORKs%29) |
 | coconut | 椰子 |  | [萌娘百科](https://zh.moegirl.org.cn/椰子%28NEKO_WORKs%29) |
-| vanilla | 香草 \| 香子兰 | ①香子兰<br><br>②香草<br>![](https://patchwiki.biligame.com/images/arknights/c/c4/fabw1tw980sb0z59cc19g44lp45wl9r.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/香草%28NEKO_WORKs%29) |
+| vanilla | 香草 \| 香子兰 | ①香子兰<br>![](https://nekopara.com/img/character/van/pc/character_a.png)<br>出自作品：`nekopara`<br>——————————<br>②香草<br>![](https://patchwiki.biligame.com/images/arknights/c/c4/fabw1tw980sb0z59cc19g44lp45wl9r.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/香草%28NEKO_WORKs%29) |
 | shinku nikaidou | 二阶堂真红 |  | [萌娘百科](https://zh.moegirl.org.cn/二阶堂真红) |
 | shiori kashiwazaki | 柏崎栞 | ![](https://static.wikia.nocookie.net/princess-connect/images/7/7c/Shiori_%28game%29.png)<br>![](https://static.wikia.nocookie.net/princess-connect/images/b/b9/Shiori-magicalgirl-sprite-normal.png)<br>所属作品：`princess connect`<br>本属于自卫团，跟铃一样也是被派往伊丽莎白牧场驻守的成员。 | [萌娘百科](https://zh.moegirl.org.cn/柏崎栞) |
 | link | 林克 | ![](https://thumbsnap.com/i/DoWT8jvR.jpg)<br>林克是任天堂旗下作品《塞尔达传说》系列的主要角色，在任天堂旗下的其他系列如《马力欧卡丁车系列》《任天堂明星大乱斗》等亦有出场。 | [萌娘百科](https://zh.moegirl.org.cn/林克) |
