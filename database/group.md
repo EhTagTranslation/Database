@@ -14184,6 +14184,7 @@ example:
 | kokoro no mama | ココロのまま |  |  |
 | gemuodou | げむお堂 |  |  |
 | ikiruta many many | 生田めにめに |  |  |
+| kinnikutei | 筋肉亭 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
