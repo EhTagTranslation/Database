@@ -1802,7 +1802,7 @@ example:
 | hoyoyo | ほよよ |  |  |
 | aoi tiduru | 葵井ちづる |  |  |
 | agawa ryo | 阿川椋 |  |  |
-| nise kurosaki | 偽くろさき |  |  |
+| nise kurosaki | 偽くろさき |  | [FANBOX](https://nise96.fanbox.cc/) \| [DLsite](https://ci-en.dlsite.com/creator/583) \| [pixiv](https://www.pixiv.net/users/47759) \| [X](https://x.com/nise96saki) \| [Skeb](https://skeb.jp/@nise96) |
 | catapult | かたぱると |  |  |
 | kizuki akizuki | きづきあきづき |  |  |
 | low | Low |  |  |
