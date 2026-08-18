@@ -14190,6 +14190,7 @@ example:
 | anmitsu studio | アンミツスタジオ |  |  |
 | sangorodou | サンゴロ堂 |  |  |
 | shishudou | 屍孕堂 |  |  |
+| kairaku amnesia | 快楽アムネジア |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=220329/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01023777.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
