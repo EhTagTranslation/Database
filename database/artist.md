@@ -15623,6 +15623,7 @@ example:
 | bossan | ぼっさん |  |  |
 | kuroki ichiro | 黒木一郎 |  |  |
 | kinuo | キヌオ |  | [pixiv](https://www.pixiv.net/users/110388216) |
+| akiboshigai | 秋星貝 |  | [pixiv](https://www.pixiv.net/users/126550302) |
 
 <!--TEMPLATE:
 |  |  |  |  |
