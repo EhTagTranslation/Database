@@ -11276,7 +11276,7 @@ example:
 | tetrascope | TetraScope |  |  |
 | tetratech | テトラテック |  |  |
 | tetravortex | テトラボルテックス |  |  |
-| tetrodotoxin | TETRODOTOXIN |  |  |
+| tetrodotoxin | TETRODOTOXIN |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG03905.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28608/) |
 | tetsu no otoshigo | てつのおとしご |  |  |
 | tetsugakuteki zombie | 哲学的ゾンビ |  |  |
 | tetsukazuno ao. | 手つかずの青。 |  |  |
