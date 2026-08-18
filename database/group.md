@@ -14180,6 +14180,7 @@ example:
 | tomo | ともー |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ052991) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=0e3ca0f1-64d4-11f0-ba33-0242ac160002/) |
 | nowloading | ■■■□□ NOWLOADING |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30633.html) |
 | gefu enpitsu | ゲフえんぴつ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG42568.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74940/) |
+| shimono cable | 霜野ケーブル |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
