@@ -14338,7 +14338,7 @@ example:
 | shamidou maichimonji | しゃみどーまいちもんじ |  |  |
 | shikorisasu | シコリサス |  |  |
 | shimagon | 嶋艮 |  |  |
-| shimakawa | しまかわ |  | [pixiv](https://www.pixiv.net/users/31454456) |
+| shimakawa | しまかわ |  | [pixiv](https://www.pixiv.net/users/31454456) \| [Ci-en](https://ci-en.dlsite.com/creator/2946) \| [X](https://x.com/shimakawa19) |
 | shimashima rissu | しましまリッス |  |  |
 | silver radish | 銀ダイコン |  |  |
 | smash daisaku | スマッシュ代作 |  |  |
