@@ -14187,6 +14187,7 @@ example:
 | kinnikutei | 筋肉亭 |  |  |
 | gokuraku mikaduki | 極楽三日月 |  |  |
 | maita keikaku | まいた計画 |  |  |
+| anmitsu studio | アンミツスタジオ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
