@@ -10119,6 +10119,7 @@ example:
 | konomi suzue | 铃江好实 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/6/66/Konomi_Suzue.png)<br>出自作品:`triage x` |  |
 | goryuu | 护龙 | ![](https://static.wikia.nocookie.net/triagex/images/d/de/Goryu.jpeg)<br>出自作品：`triage x` |  |
 | youko komine | 狭雾阳子 | ![](https://static.wikia.nocookie.net/triagex/images/6/63/Yoko1.jpg)<br>出自作品：`triage x` |  |
+| suzu harashima | 原岛铃 | ![](https://denkimokuroku.jp/_assets_official/images/character/chara-suzu.webp)<br>日语：原島すず<br>出自作品:`nijuuseiki denki mokuroku` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
