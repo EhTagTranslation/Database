@@ -10132,6 +10132,7 @@ example:
 | nene himekawa | 日芽川宁宁 | ![](https://static.wikia.nocookie.net/mayonaka-heart-tune/images/0/0a/Nene_Himekawa_Anime.png)<br>日语：日芽川寧々<br>出自作品:`mayonaka heart tune` |  |
 | shinobu uzuki | 雨月忍 | ![](https://static.wikia.nocookie.net/mayonaka-heart-tune/images/3/33/Shinobu_Uzuki_Anime.png)<br>日语：雨月しのぶ<br>出自作品:`mayonaka heart tune` |  |
 | lanz | 兰兹 | ![](https://static.wikia.nocookie.net/xenoblade/images/b/be/XC3_Lanz_Artwork.png)<br>日语：ランツ<br>出自作品:`xenoblade chronicles 3` |  |
+| eida | 艾达（博人传） | 请勿使用 c:ada |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
