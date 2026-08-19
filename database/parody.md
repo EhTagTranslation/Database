@@ -2981,6 +2981,7 @@ example:
 | the citadel | The Citadel | ![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1378290/header.jpg?t=1597695900) | [Steam](https://store.steampowered.com/app/1378290/The_Citadel/) |
 | nijuuseiki denki mokuroku | 二十世纪电气目录 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg)<br>日语：二十世紀電氣目録-ユーレカ・エヴリカ- |  |
 | huhuan shaonu | 呼唤少女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/db/4a/512361_K53ZI.jpg) |  |
+| tsuihou sareta tensei juukishi wa game chishiki de musou suru | 遭到流放的转生重骑士凭借游戏知识大开无双 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8f/47/511177_EP43p.jpg)<br>日语：追放された転生重騎士はゲーム知識で無双する |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
