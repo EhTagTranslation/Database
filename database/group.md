@@ -2775,7 +2775,7 @@ example:
 | ameno oukan | 雨の王冠 |  |  |
 | amenyan-tai | あめにゃん隊 |  |  |
 | ameyama telegraph | 雨山電信社 |  |  |
-| ami-dabutsu | ami-だぶつ |  |  |
+| ami-dabutsu | ami-だぶつ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG29740.html) |
 | aminendo | あみねんど |  |  |
 | ammolite | アンモライト |  |  |
 | amorphous innocent fiction | AMORPHOUS innocent fiction |  |  |
