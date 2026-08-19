@@ -2980,6 +2980,7 @@ example:
 | na-nare hana-nare | 亦叶亦花 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d5/89/464561_DRdV0.jpg)<br>日语：菜なれ花なれ |  |
 | the citadel | The Citadel | ![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1378290/header.jpg?t=1597695900) | [Steam](https://store.steampowered.com/app/1378290/The_Citadel/) |
 | nijuuseiki denki mokuroku | 二十世纪电气目录 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg)<br>日语：二十世紀電氣目録-ユーレカ・エヴリカ- |  |
+| huhuan shaonu | 呼唤少女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/db/4a/512361_K53ZI.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
