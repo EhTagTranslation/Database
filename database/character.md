@@ -10126,6 +10126,7 @@ example:
 | z11 | Z11 | ![](https://azurlane.netojuu.com/images/thumb/a/a7/Z11WithoutBG.png/1164px-Z11WithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/1/14/Z11HospitalWithoutBG.png/615px-Z11HospitalWithoutBG.png)<br>出自作品:`azur lane` |  |
 | luce rubis | 露切‧鲁比斯 | ![](https://static.wikia.nocookie.net/isekai/images/0/09/Luce_Rubis_-_CH_Anime.png)<br>日语：ルーチェ・ルービス<br>出自作品:`tsuihou sareta tensei juukishi wa game chishiki de musou suru` |  |
 | david mason | 大卫·梅森 | 出自作品:`call of duty` |  |
+| emma kagan | 艾玛·卡根 | 出自作品:`call of duty` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
