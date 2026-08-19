@@ -10128,6 +10128,7 @@ example:
 | david mason | 大卫·梅森 | 出自作品:`call of duty` |  |
 | emma kagan | 艾玛·卡根 | 出自作品:`call of duty` |  |
 | victoria atwood | 维多利亚·阿特伍德 | 出自作品:`call of duty` |  |
+| erina makina | Erina Makina | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/1/1d/Makina_Erina_-_Key_Visual.png)<br>日语：エリナ・マキナ<br>海外虚拟主播团体“Phase-Connect”二期生“PhaseALIAS”的英语系VTuber。 | [YouTube](https://www.youtube.com/@ErinaMakina) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
