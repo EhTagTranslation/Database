@@ -10127,6 +10127,7 @@ example:
 | luce rubis | 露切‧鲁比斯 | ![](https://static.wikia.nocookie.net/isekai/images/0/09/Luce_Rubis_-_CH_Anime.png)<br>日语：ルーチェ・ルービス<br>出自作品:`tsuihou sareta tensei juukishi wa game chishiki de musou suru` |  |
 | david mason | 大卫·梅森 | 出自作品:`call of duty` |  |
 | emma kagan | 艾玛·卡根 | 出自作品:`call of duty` |  |
+| victoria atwood | 维多利亚·阿特伍德 | 出自作品:`call of duty` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
