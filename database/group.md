@@ -5335,7 +5335,7 @@ example:
 | hakkakyou | 八卦鏡 |  |  |
 | hakkekkyuu sekkekkyuu | 白血球赤血球 |  |  |
 | hakkindo | 白金堂 |  |  |
-| hakobune | 箱舟 |  |  |
+| hakobune | 箱舟 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28059/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG17438.html) \| [Ci-en](https://ci-en.dlsite.com/creator/3582) \| [FANBOX](https://taku4541.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/3211313) |
 | hakkou kimuti | 発光きむち |  |  |
 | hakoniwa toshokan | ハコニワトショカン |  |  |
 | hakonyan. | はこにゃん。 |  |  |
