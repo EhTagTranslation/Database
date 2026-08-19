@@ -188,6 +188,7 @@ example:
 | minazuki hikaru | 皆月ひかる |  | [X](https://x.com/hikaru_emo) |
 | ran3 | 染三 |  |  |
 | baili shirly | 白栎Shirly |  |  |
+| etsu ko | 纸悦Etsu\_ko |  | [X](https://x.com/Etsuko827) |
 
 <!--
 Template: 
