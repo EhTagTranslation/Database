@@ -725,7 +725,7 @@ example:
 | inoue nanaki | 井上七树 |  |  |
 | macaroni and cheese | マカロニandチーズ |  |  |
 | mozu k | もずK |  |  |
-| natsuka q-ya | 奈塚Q弥 |  |  |
+| natsuka q-ya | 奈塚Q弥 |  | [FANZA](https://book.dmm.co.jp/list/?author=20205) |
 | sakaki utamaru | 榊歌丸 |  |  |
 | yontarou | よんたろう |  |  |
 | hamada yoshikadu | 浜田よしかづ |  |  |
