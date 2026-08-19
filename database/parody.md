@@ -2979,6 +2979,7 @@ example:
 | hana wa saku shura no gotoku | 群花绽放，彷如修罗 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b8/26/498934_KffF9.jpg)<br>日语：花は咲く、修羅の如く<br>作者： 武田綾乃・むっしゅ |  |
 | na-nare hana-nare | 亦叶亦花 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d5/89/464561_DRdV0.jpg)<br>日语：菜なれ花なれ |  |
 | the citadel | The Citadel | ![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1378290/header.jpg?t=1597695900) | [Steam](https://store.steampowered.com/app/1378290/The_Citadel/) |
+| nijuuseiki denki mokuroku | 二十世纪电气目录 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg)<br>日语：二十世紀電氣目録-ユーレカ・エヴリカ- |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
