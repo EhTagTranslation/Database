@@ -15627,7 +15627,7 @@ example:
 | panyakawa | ぱんやかわ |  | [FANBOX](https://www.fanbox.cc/@panyakawa) \| [pixiv](https://www.pixiv.net/users/93076597) |
 | yasuda suzuhito | 安田铃人 |  |  |
 | yanagi masashi | 矢凪まさし |  |  |
-| cream pan | くりぃむぱん |  |  |
+| cream pan | くりぃむぱん |  | [pixiv](https://www.pixiv.net/users/89287467) |
 
 <!--TEMPLATE:
 |  |  |  |  |
