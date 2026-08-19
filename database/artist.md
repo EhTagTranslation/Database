@@ -4088,7 +4088,7 @@ example:
 | amesawa yagi | 飴沢やぎ |  |  |
 | ameya kyo | 雨矢恭 |  |  |
 | amhoo | amhoo!! |  |  |
-| ami | 阿見 |  |  |
+| ami | 阿見 |  | [pixiv](https://www.pixiv.net/users/215708) \| [X](https://x.com/judasnumata/media) \| [Skeb](https://skeb.jp/@judasnumata) |
 | ami hideto | 弥舞秀人 |  |  |
 | ami2 | ami2 |  |  |
 | amida murasaki | あみだむらさき |  |  |
