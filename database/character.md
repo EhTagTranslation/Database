@@ -427,7 +427,7 @@ example:
 | ryuuhou | 龙凤 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/d36f9db52c961d5cff7e9c0c76aa4241262400697.png) | [碧蓝航线:龙凤](https://zh.moegirl.org.cn/碧蓝航线:龙凤) [舰队Collection:龙凤](https://zh.moegirl.org.cn/舰队Collection:龙凤) |
 | tokitsukaze | 时津风 |  | [舰队Collection:时津风](https://zh.moegirl.org.cn/舰队Collection:时津风) |
 | unryuu | 云龙 |  | [舰队Collection:云龙](https://zh.moegirl.org.cn/舰队Collection:云龙) |
-| amagi | 天城 \| 鳐 | ①鳐<br>![](https://azurlane.netojuu.com/images/thumb/c/c8/Amagi.png/1137px-Amagi.png)<br>所属作品：`azur lane`<br>——————————<br>②天城<br>![](https://img.moegirl.org.cn/common/e/e3/天城.png)<br>出自作品:`ore wa seikan kokka no akutoku ryoushu` | [碧蓝航线:天城](https://zh.moegirl.org.cn/碧蓝航线:天城) [舰队Collection:天城](https://zh.moegirl.org.cn/舰队Collection:天城) |
+| amagi | 天城 \| 鳐 | ①鳐<br>![](https://azurlane.netojuu.com/images/thumb/c/c8/Amagi.png/1137px-Amagi.png)<br>所属作品：`azur lane`<br>——————————<br>②天城<br>![](https://seikankokka-anime.com/_astro/body.B9SQ6utK_1Rr05p.webp)<br>出自作品:`ore wa seikan kokka no akutoku ryoushu` | [碧蓝航线:天城](https://zh.moegirl.org.cn/碧蓝航线:天城) [舰队Collection:天城](https://zh.moegirl.org.cn/舰队Collection:天城) |
 |  | 葛城 |  | [舰队Collection:葛城](https://zh.moegirl.org.cn/舰队Collection:葛城) |
 | harusame | 春雨 |  | [舰队Collection:春雨](https://zh.moegirl.org.cn/舰队Collection:春雨) |
 | hayashimo | 早霜 |  | [舰队Collection:早霜](https://zh.moegirl.org.cn/舰队Collection:早霜) |
