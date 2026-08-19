@@ -12887,7 +12887,7 @@ example:
 | yotsuba no suisou | 四ツ葉ノ水槽 |  |  |
 | gamanuntaka | がまぬんたか |  |  |
 | kisei toukyoku | 規制当局 |  |  |
-| houkago highball land | 放課後ハイボールランド |  |  |
+| houkago highball land | 放課後ハイボールランド |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=208590/) |
 | meifu madou | めーふまどー |  |  |
 | nani kashira no shokushu | なにかしらの触手 |  |  |
 | satsuki no usa koya | サツキのウサ小屋 |  |  |
