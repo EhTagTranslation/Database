@@ -9636,7 +9636,7 @@ example:
 | lucy platini | 露西·普拉蒂尼 | ![](https://static.wikia.nocookie.net/closers/images/2/23/Lucy_Platini.jpg)<br>所属作品：`closers`<br>韩语：루시 플라티니 |  |
 | dina | 迪娜 | ![](https://static.wikia.nocookie.net/yasei-no-last-boss-arawareta/images/7/7e/Dina_Anime_CD.png)<br>所属作品：`yasei no last boss ga arawareta`<br>日语：ディーナ |  |
 | beast boy | 野兽男孩 | ![](https://static.wikia.nocookie.net/teentitans/images/c/c1/Beast_Boy.png)<br>出自作品：`p:teen titans`<br><br>野兽男孩（Beast Boy）是美国DC漫画旗下超级英雄，初次登场于《末日巡逻队》（Doom Patrol）第99期（1965年11月）。 | [百度百科](https://baike.baidu.com/item/野兽男孩/19957891) \| [Fandom](https://teentitans.fandom.com/wiki/Beast_Boy) |
-| kawaki | 川木 | ![](https://static.wikia.nocookie.net/naruto/images/3/33/Kawaki_Part_II.png)<br>出自作品：`p:boruto`<br><br>川木（カワキ、Kawaki），别名漩涡川木、乾等，男，是日本漫画《BORUTO -火影新世代-》及其衍生作品中的角色。 | [百度百科](https://baike.baidu.com/item/川木/20604722) \| [Fandom](https://naruto.fandom.com/wiki/Kawaki) |
+| kawaki | 川木 | ![](https://static.wikia.nocookie.net/naruto/images/b/bd/Kawashiki_Storm.png)<br>日语：カワキ<br>出自作品：`p:boruto` | [百度百科](https://baike.baidu.com/item/川木/20604722) \| [Fandom](https://naruto.fandom.com/wiki/Kawaki) |
 | mitachurl | 丘丘暴徒 | ![](https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Mitachurl.png)<br>出自作品：`p:genshin impact` | [百度百科](https://baike.baidu.com/item/丘丘暴徒/60384635) \| [Fandom](https://genshin-impact.fandom.com/wiki/Mitachurl) |
 | noboru kodou | 虎堂升 | ![](https://static.wikia.nocookie.net/buddyfight/images/a/aa/Noboru_body.png)<br>所属作品：`future card buddyfight`<br>日语：虎堂ノボル | [Bangumi](https://bgm.tv/character/63610) |
 | magoroku shidou | 祠堂孙六 | ![](https://static.wikia.nocookie.net/buddyfight/images/b/b8/Magoroku_full.png)<br>所属作品：`future card buddyfight`<br>日语：祠堂孫六 |  |
