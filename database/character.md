@@ -8892,7 +8892,7 @@ example:
 | sara anvilen | 赛菈·安比连 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b0/0c/95789_crt_q2rg5.jpg)<br>所属作品：`omae gotoki ga maou ni kateru to omouna` |  |
 | marisbury animusphere | 马里斯比利·阿尼姆斯菲亚 | ![](https://static.wikia.nocookie.net/fategrandorder/images/4/44/Marisbury_Animusphere_Portrait.webp)<br>所属作品：`fate grand order`<br>日语：マリスビリー・アニムスフィア |  |
 | kirschtaria wodime | 基尔什塔利亚·沃戴姆 | ![](https://static.wikia.nocookie.net/fategrandorder/images/a/a9/Wodime_Portrait.png)<br>所属作品：`fate grand order`<br>日语：キリシュタリア・ヴォーダイム |  |
-| christiana leta rosebreyer | 克莉丝蒂亚娜·雷塔·罗兹布雷亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/37/b2/169757_crt_Z4P8J.jpg)<br>所属作品：`ore wa seikan kokka no akutoku ryoushu` |  |
+| christiana leta rosebreyer | 克莉丝蒂亚娜·雷塔·罗兹布雷亚 | ![](https://seikankokka-anime.com/_astro/body.DlhoDWBK_1YW0am.webp)<br>所属作品：`ore wa seikan kokka no akutoku ryoushu` |  |
 | nias carlin | 妮雅丝·卡琳 | ![](https://seikankokka-anime.com/_astro/body.DktHo7ws_Z2kbiLf.webp)<br>日语：ニアス・カーリン<br>出自作品：`ore wa seikan kokka no akutoku ryoushu` |  |
 | fuyume hanamura | 花群冬芽 | ![](https://static.wikia.nocookie.net/ensemble-stars/images/2/23/Yume_5.png)<br>所属作品：`ensemble stars` |  |
 | esu sagiri | 冴雾笑主 | ![](https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/Esu_5.png)<br>所属作品：`ensemble stars` |  |
