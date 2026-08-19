@@ -10121,6 +10121,7 @@ example:
 | youko komine | 狭雾阳子 | ![](https://static.wikia.nocookie.net/triagex/images/6/63/Yoko1.jpg)<br>出自作品：`triage x` |  |
 | suzu harashima | 原岛铃 | ![](https://denkimokuroku.jp/_assets_official/images/character/chara-suzu.webp)<br>日语：原島すず<br>出自作品:`nijuuseiki denki mokuroku` |  |
 | kate okura | 大仓凯特 | ![](https://denkimokuroku.jp/_assets_official/images/character/chara-kate.webp)<br>日语：大倉ケイト<br>出自作品:`nijuuseiki denki mokuroku` |  |
+| zhiya sun | 孙芝雅 | ![](https://lain.bgm.tv/r/400/pic/crt/l/fc/45/164310_crt_R98N1.jpg)<br>出自作品:`huhuan shaonu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
