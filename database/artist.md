@@ -8570,7 +8570,7 @@ example:
 | nasu hanahana | 那須花花 |  |  |
 | nasukichi | 茄子吉 |  |  |
 | nasuo | なすお |  |  |
-| natin | なてぃん |  |  |
+| natin | なてぃん |  | [FANBOX](https://natinpo.fanbox.cc/) \| [Misskey.io](https://misskey.io/@natinsan) \| [X](https://x.com/cool_natinsan) \| [pixiv](https://www.pixiv.net/users/11598494) \| [Lit.Link](https://lit.link/en/vKtqLq6TSNbqi4wODKoMmaHVeLY2) |
 | nato | NATO |  |  |
 | natsu | 捺 |  |  |
 | natsu kirin | ナツキリン |  |  |
