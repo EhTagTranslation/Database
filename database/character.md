@@ -10130,6 +10130,7 @@ example:
 | victoria atwood | 维多利亚·阿特伍德 | 出自作品:`call of duty` |  |
 | erina makina | Erina Makina | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/1/1d/Makina_Erina_-_Key_Visual.png)<br>日语：エリナ・マキナ<br>海外虚拟主播团体“Phase-Connect”二期生“PhaseALIAS”的英语系VTuber。 | [YouTube](https://www.youtube.com/@ErinaMakina) |
 | nene himekawa | 日芽川宁宁 | ![](https://static.wikia.nocookie.net/mayonaka-heart-tune/images/0/0a/Nene_Himekawa_Anime.png)<br>日语：日芽川寧々<br>出自作品:`mayonaka heart tune` |  |
+| shinobu uzuki | 雨月忍 | ![](https://static.wikia.nocookie.net/mayonaka-heart-tune/images/3/33/Shinobu_Uzuki_Anime.png)<br>日语：雨月しのぶ<br>出自作品:`mayonaka heart tune` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
