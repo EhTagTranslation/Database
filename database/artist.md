@@ -15628,6 +15628,7 @@ example:
 | yasuda suzuhito | 安田铃人 |  |  |
 | yanagi masashi | 矢凪まさし |  |  |
 | cream pan | くりぃむぱん |  | [pixiv](https://www.pixiv.net/users/89287467) |
+| samuwo | さむを |  | [pixiv](https://www.pixiv.net/users/83784440) \| [FANBOX](https://samuwo.fanbox.cc/) \| [X](https://x.com/samwo00) \| [Skeb](https://skeb.jp/@samwo00) \| [Fantia](https://fantia.jp/fanclubs/500103) |
 
 <!--TEMPLATE:
 |  |  |  |  |
