@@ -10122,6 +10122,7 @@ example:
 | suzu harashima | 原岛铃 | ![](https://denkimokuroku.jp/_assets_official/images/character/chara-suzu.webp)<br>日语：原島すず<br>出自作品:`nijuuseiki denki mokuroku` |  |
 | kate okura | 大仓凯特 | ![](https://denkimokuroku.jp/_assets_official/images/character/chara-kate.webp)<br>日语：大倉ケイト<br>出自作品:`nijuuseiki denki mokuroku` |  |
 | zhiya sun | 孙芝雅 | ![](https://lain.bgm.tv/r/400/pic/crt/l/fc/45/164310_crt_R98N1.jpg)<br>出自作品:`huhuan shaonu` |  |
+| sumika komori | 小森斯米卡 | ![](https://static.wikia.nocookie.net/blue-archive/images/8/83/Sumika_Portrait.png)<br>日语：小森スミカ<br>出自作品:`blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
