@@ -10120,6 +10120,7 @@ example:
 | goryuu | 护龙 | ![](https://static.wikia.nocookie.net/triagex/images/d/de/Goryu.jpeg)<br>出自作品：`triage x` |  |
 | youko komine | 狭雾阳子 | ![](https://static.wikia.nocookie.net/triagex/images/6/63/Yoko1.jpg)<br>出自作品：`triage x` |  |
 | suzu harashima | 原岛铃 | ![](https://denkimokuroku.jp/_assets_official/images/character/chara-suzu.webp)<br>日语：原島すず<br>出自作品:`nijuuseiki denki mokuroku` |  |
+| kate okura | 大仓凯特 | ![](https://denkimokuroku.jp/_assets_official/images/character/chara-kate.webp)<br>日语：大倉ケイト<br>出自作品:`nijuuseiki denki mokuroku` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
