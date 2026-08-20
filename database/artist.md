@@ -205,7 +205,7 @@ example:
 | ryokucha | 绿茶 |  |  |
 | niimaru yuu | ニイマルユウ |  |  |
 | simon | さいもん |  | [X](https://x.com/simon_ns) [pixiv](https://www.pixiv.net/users/476815) |
-| tanaka aji | 田中あじ |  |  |
+| tanaka aji | 田中あじ |  | [pixiv](https://www.pixiv.net/users/13562) \| [X](https://x.com/tanakaaji2) \| [Fantia](https://fantia.jp/fanclubs/17595) \| [FANBOX](https://tanakaazi.fanbox.cc/) |
 | unadon | うな井 |  |  |
 | otakumin | オタクミン |  |  |
 | muneshiro | むねしろ |  |  |
