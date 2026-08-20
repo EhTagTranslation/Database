@@ -9409,7 +9409,7 @@ example:
 | power of maca | power of maca |  |  |
 | power skill | パワースキル |  |  |
 | power slide | パワースライド |  |  |
-| power step | Power Step |  |  |
+| power step | Power Step |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28244/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG19256.html) |
 | powerful soft | ぱわふるソフト |  |  |
 | powerplay | POWERPLAY |  |  |
 | praetorium-somnus | プラエトーリウム=ソムヌス |  |  |
