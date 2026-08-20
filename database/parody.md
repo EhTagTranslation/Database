@@ -2982,6 +2982,7 @@ example:
 | nijuuseiki denki mokuroku | 二十世纪电气目录 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg)<br>日语：二十世紀電氣目録-ユーレカ・エヴリカ- |  |
 | huhuan shaonu | 呼唤少女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/db/4a/512361_K53ZI.jpg) |  |
 | tsuihou sareta tensei juukishi wa game chishiki de musou suru | 遭到流放的转生重骑士凭借游戏知识大开无双 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8f/47/511177_EP43p.jpg)<br>日语：追放された転生重騎士はゲーム知識で無双する |  |
+| kimi ga shinu made koi wo shitai | 与你相恋到生命尽头 | ![](https://lain.bgm.tv/r/400/pic/cover/l/49/28/254437_V0nL4.jpg)<br>日语：きみが死ぬまで恋をしたい |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
