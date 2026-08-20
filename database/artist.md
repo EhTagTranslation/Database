@@ -1425,7 +1425,7 @@ example:
 | misaki kaho. | ミサキカホ。 |  |  |
 | ogura shuuichi | 小仓修一 |  |  |
 | yuuki homura | 结城焰 |  |  |
-| yamamoto | 山本 |  |  |
+| yamamoto | 山本 | 日语: やまもと | [pixiv](https://www.pixiv.net/users/40526715) \| [FANBOX](https://yamamoto9027.fanbox.cc/) \| [X](https://x.com/yamamoto_7027) \| [Skeb](https://skeb.jp/@yamamoto_9027) |
 | yamamoto yammy | 山本やみー |  |  |
 | murakami maki | 村上真纪 | BL漫画《万有引力》的作者 |  |
 | ditama bow | ぢたま(某) | 《亲吻姐姐》的作者<br>很多成功的漫画家都是从画本子开始的 |  |
