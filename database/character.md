@@ -10135,7 +10135,7 @@ example:
 | eida | 艾达（博人传） | 请勿使用 c:ada |  |
 | chloe lynch | 克洛伊·林奇 | 出自作品:`call of duty` |  |
 | sarissa alfeld | 萨莉莎·阿费尔德 | ![](https://ehgt.org/w/02/566/99722-lgawh9k5.webp)<br>日语：サリサ・アルフェルト<br>出自作品:`tsue to tsurugi no wistoria` |  |
-| mimi kagari | 加贺里·美美 | ![](https://static.zerochan.net/Kagari.Mimi.1024.4697625.webp)<br>出自作品:`kimi ga shinu made koi wo shitai` |  |
+| mimi kagari | 加贺里·美美 | ![](https://static.zerochan.net/Kagari.Mimi.1024.4697625.webp)<br>日语：カガリ・ミミ<br>出自作品:`kimi ga shinu made koi wo shitai` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
