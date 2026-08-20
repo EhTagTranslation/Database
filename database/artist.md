@@ -15633,6 +15633,7 @@ example:
 | dull | ダル |  | [pixiv](https://www.pixiv.net/users/18218726) \| [X](https://x.com/deka_kimo4) \| [Misskey.io](https://misskey.io/@dekakimo) |
 | goroutame | ゴロウタメ |  | [pixiv](https://www.pixiv.net/users/255647) \| [X](https://x.com/goro_tame) \| [Pawoo](https://pawoo.net/@goroutame) |
 | pinky | NTR/BSS/pinky |  | [pixiv](https://www.pixiv.net/users/19102596) \| [FANBOX](https://ntsbss.fanbox.cc/) \| [X](https://x.com/dada74887415) |
+| afrobull | Afrobull |  | [pixiv](https://www.pixiv.net/users/7858873) |
 
 <!--TEMPLATE:
 |  |  |  |  |
