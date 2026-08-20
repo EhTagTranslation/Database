@@ -2947,7 +2947,7 @@ example:
 | are. | あれ。 |  |  |
 | area-048 | Area-048 |  |  |
 | area-s | Area-S |  |  |
-| area188 | エリア188 |  |  |
+| area188 | AREA188 | エリア188 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71384/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG29389.html) |
 | area50 | Area50 |  |  |
 | area7 | えりあ7 |  |  |
 | arearee | あれあれえ |  |  |
