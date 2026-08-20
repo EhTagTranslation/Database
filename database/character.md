@@ -10134,6 +10134,7 @@ example:
 | lanz | 兰兹 | ![](https://static.wikia.nocookie.net/xenoblade/images/b/be/XC3_Lanz_Artwork.png)<br>日语：ランツ<br>出自作品:`xenoblade chronicles 3` |  |
 | eida | 艾达（博人传） | 请勿使用 c:ada |  |
 | chloe lynch | 克洛伊·林奇 | 出自作品:`call of duty` |  |
+| sarissa alfeld | 萨莉莎·阿费尔德 | ![](https://ehgt.org/w/02/566/99722-lgawh9k5.webp)<br>日语：サリサ・アルフェルト<br>出自作品:`tsue to tsurugi no wistoria` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
