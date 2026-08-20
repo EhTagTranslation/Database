@@ -3557,7 +3557,7 @@ example:
 | campanula | campanula |  |  |
 | campers | きゃんぱーず |  |  |
 | camrism | カムリズム |  |  |
-| can do now | キャンドゥーなう! |  |  |
+| can do now | キャンドゥーなう! |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78759/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47877.html) |
 | canaria | canaria |  |  |
 | canary and swallow | カナリアとつばめ |  |  |
 | candy pop | Candy Pop |  |  |
