@@ -15631,6 +15631,7 @@ example:
 | samuwo | さむを |  | [pixiv](https://www.pixiv.net/users/83784440) \| [FANBOX](https://samuwo.fanbox.cc/) \| [X](https://x.com/samwo00) \| [Skeb](https://skeb.jp/@samwo00) \| [Fantia](https://fantia.jp/fanclubs/500103) |
 | omari | OMARI |  | [pixiv](https://www.pixiv.net/users/65207049) \| [FANBOX](https://jesusgang.fanbox.cc/) |
 | dull | ダル |  | [pixiv](https://www.pixiv.net/users/18218726) \| [X](https://x.com/deka_kimo4) \| [Misskey.io](https://misskey.io/@dekakimo) |
+| goroutame | ゴロウタメ |  | [pixiv](https://www.pixiv.net/users/255647) \| [X](https://x.com/goro_tame) \| [Pawoo](https://pawoo.net/@goroutame) |
 
 <!--TEMPLATE:
 |  |  |  |  |
