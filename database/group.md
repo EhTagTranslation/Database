@@ -13067,7 +13067,7 @@ example:
 | shunga tarou | 春画太郎 |  |  |
 | turuturuodeco | つるつるおでこ |  |  |
 | funmatsu maccha | 粉末抹茶 |  |  |
-| mentaipark | めんたいぱぁく |  |  |
+| mentaipark | めんたいぱぁく |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=222173/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01035964.html) |
 | muchi muchi museum | ムチムチ美術館 |  |  |
 | hakuhoukoubou | 白凤工房 |  |  |
 | ishiyaki imo | いしやきいも |  |  |
