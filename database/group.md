@@ -14196,6 +14196,7 @@ example:
 | hentai tokyo | 変態東京 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204151/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG64204.html) |
 | shinigami koubou | しにがみ工房 |  |  |
 | goroutame noujou | ゴロウタメ農場 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44858.html) |
+| k.y.hiro | K.Y.Hiro |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01000848.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=234993/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
