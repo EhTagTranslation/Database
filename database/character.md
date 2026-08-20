@@ -10133,6 +10133,7 @@ example:
 | shinobu uzuki | 雨月忍 | ![](https://static.wikia.nocookie.net/mayonaka-heart-tune/images/3/33/Shinobu_Uzuki_Anime.png)<br>日语：雨月しのぶ<br>出自作品:`mayonaka heart tune` |  |
 | lanz | 兰兹 | ![](https://static.wikia.nocookie.net/xenoblade/images/b/be/XC3_Lanz_Artwork.png)<br>日语：ランツ<br>出自作品:`xenoblade chronicles 3` |  |
 | eida | 艾达（博人传） | 请勿使用 c:ada |  |
+| chloe lynch | 克洛伊·林奇 | 出自作品:`call of duty` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
