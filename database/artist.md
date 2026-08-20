@@ -13723,7 +13723,7 @@ example:
 | cothswoller | Cothswoller |  |  |
 | linda sejic | Linda Šejic |  |  |
 | linda | LINDA |  |  |
-| asanine luno | 朝仁寝ルノ |  |  |
+| asanine luno | 朝仁寝ルノ |  | [pixiv](https://www.pixiv.net/users/56730695) \| [X](https://x.com/pro_lunon) \| [FANBOX](https://lunon.fanbox.cc/) \| [Bluesky](https://bsky.app/profile/asanine-luno.bsky.social) |
 | yasuhiro | ヤスヒロ |  |  |
 | katsura yoshihiro | 桂よしひろ |  |  |
 | hibari hina | 雲雀ひな |  |  |
