@@ -12896,7 +12896,7 @@ example:
 | jiko moratorium | 自己モラトリアム |  |  |
 | buster app | ばすたーあっぷ |  |  |
 | ofuro haitta erai | お風呂入ったえらい |  |  |
-| 187 seibutsu | 187生物 |  |  |
+| 187 seibutsu | 187生物 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73907/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG35745.html) |
 | futari bocchi no solitude | ふたりぼっちのSolitude |  |  |
 | sarukome | サルコメ |  |  |
 | unidentified flying baumkuchen | 未確認飛行ばーむくーへん |  |  |
