@@ -10137,7 +10137,7 @@ example:
 | sarissa alfeld | 萨莉莎·阿费尔德 | ![](https://ehgt.org/w/02/566/99722-lgawh9k5.webp)<br>日语：サリサ・アルフェルト<br>出自作品:`tsue to tsurugi no wistoria` |  |
 | mimi kagari | 加贺里·美美 | ![](https://static.zerochan.net/Kagari.Mimi.1024.4697625.webp)<br>日语：カガリ・ミミ<br>出自作品:`kimi ga shinu made koi wo shitai` |  |
 | sheena totsuki | 都筑·椎名 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8d/f9/86958_crt_PKPgB.jpg)<br>日语：トツキ・シーナ<br>出自作品:`kimi ga shinu made koi wo shitai` |  |
-| kyouko mochino | 模型娘·糯子 | ![](https://static.wikia.nocookie.net/vocalsynth/images/5/50/Mochizora.png)<br>日语：モチノ・キョウコ，别名：もち子 |  |
+| kyouko mochino | 模型娘·糯子 | ![](https://static.wikia.nocookie.net/vocalsynth/images/5/50/Mochizora.png)<br>日语：モチノ・キョウコ，别名：もち子 | [YouTube](https://www.youtube.com/channel/UCbF5xOeqwFJuiV5YIBohqtw) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
