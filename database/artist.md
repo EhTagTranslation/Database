@@ -14235,7 +14235,7 @@ example:
 | dozaemon | 土座衛門 |  |  |
 | devildance | デビルダンス |  |  |
 | datenshi namako | 堕天使なまこ |  |  |
-| eda | 江田 |  |  |
+| eda | 江田 | 日语: えだ | [Ci-en](https://ci-en.dlsite.com/creator/38750) \| [X](https://x.com/prsy3) \| |
 | freedom nakai | フリーダム中井 |  |  |
 | fuji okayu | ふじおかゆ |  |  |
 | fujisaki chiro | 藤崎チロ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203409/) |
