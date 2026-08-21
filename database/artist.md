@@ -15635,6 +15635,7 @@ example:
 | pinky | NTR/BSS/pinky |  | [pixiv](https://www.pixiv.net/users/19102596) \| [FANBOX](https://ntsbss.fanbox.cc/) \| [X](https://x.com/dada74887415) |
 | afrobull | Afrobull |  | [pixiv](https://www.pixiv.net/users/7858873) |
 | retoposy | retoposy |  | [pixiv](https://www.pixiv.net/users/115077565) \| [Patreon](https://www.patreon.com/Retoposy) \| [X](https://x.com/retoposy) \| [FANBOX](https://retoposy.fanbox.cc/) |
+| yue tashimi | 夕江たしみ |  | [pixiv](https://www.pixiv.net/users/70911915) \| [X](https://x.com/yue_tashimi1001) |
 
 <!--TEMPLATE:
 |  |  |  |  |
