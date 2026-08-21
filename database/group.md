@@ -10480,7 +10480,7 @@ example:
 | simple house | SIMPLE HOUSE |  |  |
 | sin-maniax | sin-maniax |  |  |
 | singleton | Singleton |  |  |
-| sinistra | シニストラ |  |  |
+| sinistra | シニストラ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56278.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73573/) |
 | sinizon | SINIZON |  |  |
 | sinkirou | 心輝楼 |  |  |
 | sinonome | シノノメ |  |  |
