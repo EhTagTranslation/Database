@@ -1129,7 +1129,7 @@ example:
 | marimo | MARIMO |  |  |
 | alem-gakan | アレム画館 |  |  |
 | re.lay | 莉零 |  |  |
-| milk force | ミルクフォース |  |  |
+| milk force | ミルクフォース |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27692/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG17914.html) \| [Ci-en](https://ci-en.dlsite.com/creator/35908) \| [BOOTH](https://milkforce.booth.pm/) |
 | kuureishiki zunou | 空冷式头脑 |  |  |
 | matsurija | 祭社 |  |  |
 | asgo | ASGO |  |  |
