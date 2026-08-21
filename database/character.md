@@ -1462,7 +1462,7 @@ example:
 | raika oda | 织田莱香 |  |  |
 |  | ▼ 魔物娘的相伴日常 |  |  |
 | miia | 米亚 |  |  |
-| centorea shianus | 赛尔特蕾娅 | ![](https://static.wikia.nocookie.net/dailylifewithamonstergirl/images/0/02/Feild_Centorea.jpg)<br>出自作品：`p:monster musume no iru nichijou`<br><br>赛尔特蕾娅(Centorea / セントレア)，日本漫画《魔物娘的同居日常》及其衍生作品中的角色，半人马娘。 | [百度百科](https://baike.baidu.com/item/赛尔特蕾娅/18693548) \| [Fandom](https://dailylifewithamonstergirl.fandom.com/wiki/Centorea_Shianus) |
+| centorea shianus | 赛尔特蕾娅 | ![](https://static.wikia.nocookie.net/vsbattles/images/5/5e/Centorea_image.png)<br>日语：セントレア・シアヌス<br>出自作品：`p:monster musume no iru nichijou` | [百度百科](https://baike.baidu.com/item/赛尔特蕾娅/18693548) \| [Fandom](https://dailylifewithamonstergirl.fandom.com/wiki/Centorea_Shianus) |
 | papi | 帕皮 |  |  |
 | suu | 丝 |  |  |
 | lala | 拉拉 |  |  |
