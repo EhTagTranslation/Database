@@ -5250,7 +5250,7 @@ example:
 | guybase | GUY基地 |  |  |
 | gyara cter | ギャラ☆クター |  |  |
 | gyarandoh | 逆乱堂 |  |  |
-| gyarandou | ぎゃらん堂 |  |  |
+| gyarandou | ぎゃらん堂 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76219/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41595.html) |
 | gyf-107 | GYF-107 |  |  |
 | gymno | gymno |  |  |
 | gyogyou rengou | 漁業連合 |  |  |
