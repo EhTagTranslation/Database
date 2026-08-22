@@ -10139,6 +10139,7 @@ example:
 | sheena totsuki | 都筑·椎名 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8d/f9/86958_crt_PKPgB.jpg)<br>日语：トツキ・シーナ<br>出自作品:`kimi ga shinu made koi wo shitai` |  |
 | kyouko mochino | 模型娘·糯子 | ![](https://static.wikia.nocookie.net/vocalsynth/images/5/50/Mochizora.png)<br>日语：モチノ・キョウコ，别名：もち子 | [YouTube](https://www.youtube.com/channel/UCbF5xOeqwFJuiV5YIBohqtw) |
 | poltergeist | 吵闹鬼 | ![](https://static.wikia.nocookie.net/reverse1999/images/b/bb/Poltergeist.png)<br>出自作品:`reverse 1999` |  |
+| tsugumi kuchinashi | 栀子鸫 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b7/a3/184091_crt_sq31F.jpg)<br>日语：くちなし つぐみ<br>出自作品:`pen to wappa to jijitsu-kon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
