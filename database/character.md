@@ -10143,6 +10143,7 @@ example:
 | vodyanitsa | 沃雅妮莎 | ![](https://static.wikia.nocookie.net/gensin-impact/images/6/69/Vodyanitsa_Card.png)<br>出自作品:`genshin impact` |  |
 | nekota tsuna | 猫汰月奈 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/90/VSPO_Nekota_Tsuna_eSport_Uniform_Key_Visual.png)<br>日语：猫汰つな<br>所属团体：VSPO | [YouTube](https://www.youtube.com/@tsuna_nekota) |
 | yakumo beni | 八云红 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/7/72/Yakumo_Beni_Full_Body.png)<br>日语：八雲べに<br>所属团体：VSPO |  |
+| tokiko mima | 巳真兔季子 | 出自作品:`key the metal idol` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
