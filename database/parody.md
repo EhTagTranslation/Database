@@ -2984,6 +2984,7 @@ example:
 | tsuihou sareta tensei juukishi wa game chishiki de musou suru | 遭到流放的转生重骑士凭借游戏知识大开无双 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8f/47/511177_EP43p.jpg)<br>日语：追放された転生重騎士はゲーム知識で無双する |  |
 | kimi ga shinu made koi wo shitai | 与你相恋到生命尽头 | ![](https://lain.bgm.tv/r/400/pic/cover/l/49/28/254437_V0nL4.jpg)<br>日语：きみが死ぬまで恋をしたい |  |
 | arafoo otoko no isekai tsuuhan seikatsu | 中年男的异世界网购生活 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a9/4b/508588_qGDNZ.jpg)<br>日语：アラフォー男の異世界通販 |  |
+| pen to wappa to jijitsu-kon | 笔、手铐和事实婚 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a1/87/642052_y3z2b.jpg)<br>日语：ペンと手錠と事実婚 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
