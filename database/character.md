@@ -10141,6 +10141,7 @@ example:
 | poltergeist | 吵闹鬼 | ![](https://static.wikia.nocookie.net/reverse1999/images/b/bb/Poltergeist.png)<br>出自作品:`reverse 1999` |  |
 | tsugumi kuchinashi | 栀子鸫 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b7/a3/184091_crt_sq31F.jpg)<br>日语：くちなし つぐみ<br>出自作品:`pen to wappa to jijitsu-kon` |  |
 | vodyanitsa | 沃雅妮莎 | ![](https://static.wikia.nocookie.net/gensin-impact/images/6/69/Vodyanitsa_Card.png)<br>出自作品:`genshin impact` |  |
+| nekota tsuna | 猫汰月奈 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/90/VSPO_Nekota_Tsuna_eSport_Uniform_Key_Visual.png)<br>日语：猫汰つな<br>所属团体：VSPO | [YouTube](https://www.youtube.com/@tsuna_nekota) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
