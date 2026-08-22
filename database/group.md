@@ -14199,6 +14199,7 @@ example:
 | k.y.hiro | K.Y.Hiro |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01000848.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=234993/) |
 | oncidium | オンシジウム |  |  |
 | aitoheiwa | AITOHEIWA |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01001672.html) |
+| pz yatai | pz屋台 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG72969.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
