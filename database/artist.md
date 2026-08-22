@@ -15637,6 +15637,7 @@ example:
 | retoposy | retoposy |  | [pixiv](https://www.pixiv.net/users/115077565) \| [Patreon](https://www.patreon.com/Retoposy) \| [X](https://x.com/retoposy) \| [FANBOX](https://retoposy.fanbox.cc/) |
 | yue tashimi | 夕江たしみ |  | [pixiv](https://www.pixiv.net/users/70911915) \| [X](https://x.com/yue_tashimi1001) |
 | o33 | O33 |  |  |
+| pz-x | pz-x |  | [pixiv](https://www.pixiv.net/users/63740951) \| [FANBOX](https://pz-x.fanbox.cc/) \| [X](https://x.com/pz_1010) \| [Patreon](https://www.patreon.com/cw/u84878282) |
 
 <!--TEMPLATE:
 |  |  |  |  |
