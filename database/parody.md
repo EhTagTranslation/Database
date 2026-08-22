@@ -2987,6 +2987,7 @@ example:
 | pen to wappa to jijitsu-kon | 笔、手铐和事实婚 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a1/87/642052_y3z2b.jpg)<br>日语：ペンと手錠と事実婚 |  |
 | a court of thorns and roses | 荆棘与玫瑰庭院 | 美国作家莎拉·J·马斯创作的成人奇幻小说系列 |  |
 | key the metal idol | 非常偶像Key | ![](https://lain.bgm.tv/r/400/pic/cover/l/fb/a9/1002_omzWs.jpg) |  |
+| kuroneko to majo no kyoushitsu | 黑猫与魔女的教室 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2f/1b/576351_3yf4O.jpg)<br>日语：黒猫と魔女の教室 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
