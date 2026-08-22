@@ -13340,7 +13340,7 @@ example:
 | aoba no kisetsu | 青羽の季節 |  |  |
 | koisiya | 恋紙屋 |  |  |
 | solosimeji | ソロシメジ |  |  |
-| mauboumen | 舞う棒メン |  |  |
+| mauboumen | 舞う棒メン |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=208163/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01008119.html) |
 | nanaoya | なな百屋 |  |  |
 | taratamago | たらたまご |  |  |
 | bambi | 花森バンビ |  |  |
