@@ -13715,7 +13715,7 @@ example:
 | fujinum seven | フジナムセブン |  | [pixiv](https://www.pixiv.net/users/6386654) |
 | shiromonya | 白門屋 |  |  |
 | tanaka no miso | 田中の味噌 |  |  |
-| ai to namida | 愛と涙 |  |  |
+| ai to namida | 愛と涙 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22愛と涙%22/ana_flg/all) |
 | rat | ラット |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206878/) \| [FANBOX](https://rat-2024.fanbox.cc/) \| [bsky.app](https://bsky.app/profile/rat-rat.bsky.social) \| [pixiv](https://www.pixiv.net/users/91357618) \| [lit.link](https://lit.link/en/ratatatata) \| [X](https://x.com/rat155002890512) \| [misskey](https://misskey.io/@rattttt) |
 | hegechiya | へげち屋 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=211374/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01009786.html) |
 | fat cat | FAT CAT |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG55023.html) |
