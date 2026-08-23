@@ -10078,7 +10078,7 @@ example:
 | satooya | さとうや |  |  |
 | satori gozen | 悟リ御膳 |  |  |
 | satou furo | 砂糖風呂 |  |  |
-| satou to shio | 砂糖と塩 |  |  |
+| satou to shio | 砂糖と塩 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=223845/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01028204.html) |
 | satouseika | サトウ製菓 |  |  |
 | satsukiimonet | satsukiimonet |  |  |
 | satsukinchi | サツキん家 |  |  |
