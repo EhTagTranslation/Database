@@ -6868,7 +6868,7 @@ example:
 | koutetsu rengou | 鋼鉄連合 |  |  |
 | koutetsuryoku kikaku | 鋼鉄力企画 |  |  |
 | kouya ni sakebu aitsu no heya | 荒野に叫ぶアイツの部屋 |  |  |
-| kouyadou | こうや堂 |  |  |
+| kouyadou | こうや堂 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29289/) |
 | kouzaka-san to makino jimusho | 神坂さんとマキノ事務所 |  |  |
 | kouzukitei | 香月亭 |  |  |
 | kouzuya | 興津屋 |  |  |
