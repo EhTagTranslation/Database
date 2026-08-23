@@ -15638,6 +15638,7 @@ example:
 | yue tashimi | 夕江たしみ |  | [pixiv](https://www.pixiv.net/users/70911915) \| [X](https://x.com/yue_tashimi1001) |
 | o33 | O33 |  |  |
 | pz-x | pz-x |  | [pixiv](https://www.pixiv.net/users/63740951) \| [FANBOX](https://pz-x.fanbox.cc/) \| [X](https://x.com/pz_1010) \| [Patreon](https://www.patreon.com/cw/u84878282) |
+| teddy jack | Teddy\_Jack |  | [pixiv](https://www.pixiv.net/users/6301845) \| [X](https://x.com/Teddy_jack_) \| [FANBOX](https://teddy-jack.fanbox.cc/) \| [BOOTH](https://teddyjack.booth.pm/) \| [SUBSCRIBESTAR](https://subscribestar.adult/teddy_jack) |
 
 <!--TEMPLATE:
 |  |  |  |  |
