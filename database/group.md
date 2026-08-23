@@ -1537,7 +1537,7 @@ example:
 | dessert time | Dessert Time |  |  |
 | fuka fuka | 不可不可 |  |  |
 | suzuki dogezaemon | 铃木土下座卫门 |  |  |
-| anrakugai | 安乐街 |  |  |
+| anrakugai | 安乐街 | 日语: 安楽街 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72863/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG33389.html) |
 | nurumayu | ぬるま湯 |  |  |
 | urasekai 2 | 里世界2 |  |  |
 | yanyanyo | やんやんよ |  |  |
