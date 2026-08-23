@@ -14200,6 +14200,7 @@ example:
 | oncidium | オンシジウム |  |  |
 | aitoheiwa | AITOHEIWA |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01001672.html) |
 | pz yatai | pz屋台 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG72969.html) |
+| glasses | 眼镜社 | GLASSES |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
