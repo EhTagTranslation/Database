@@ -15640,6 +15640,7 @@ example:
 | pz-x | pz-x |  | [pixiv](https://www.pixiv.net/users/63740951) \| [FANBOX](https://pz-x.fanbox.cc/) \| [X](https://x.com/pz_1010) \| [Patreon](https://www.patreon.com/cw/u84878282) |
 | teddy jack | Teddy\_Jack |  | [pixiv](https://www.pixiv.net/users/6301845) \| [X](https://x.com/Teddy_jack_) \| [FANBOX](https://teddy-jack.fanbox.cc/) \| [BOOTH](https://teddyjack.booth.pm/) \| [SUBSCRIBESTAR](https://subscribestar.adult/teddy_jack) |
 | tatteinu | たってぃぬ |  | [pixiv](https://www.pixiv.net/users/7262728) \| [X](https://x.com/tattuuy) |
+| koshiwo | こしを |  | [pixiv](https://www.pixiv.net/users/14613011) \| [Lit.Link](https://lit.link/en/koshiwo-dl-doojin) \| [X](https://x.com/K_02industrial) \| [Skeb](https://skeb.jp/@K_02industrial) |
 
 <!--TEMPLATE:
 |  |  |  |  |
