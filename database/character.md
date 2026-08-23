@@ -10146,6 +10146,7 @@ example:
 | tokiko mima | 巳真兔季子 | 出自作品:`key the metal idol` |  |
 | spica virgo | 丝碧卡·瓦戈 | ![](https://static.wikia.nocookie.net/the-black-cat-and-the-witch-classroom/images/a/aa/Spica_Virgo_-_anime_design.png)<br>日语：スピカ・ヴァルゴ<br>出自作品:`kuroneko to majo no kyoushitsu` |  |
 | constance grail | 康斯坦丝·葛莱尔 | ![](https://ami.animecharactersdatabase.com/images%20of/Constance%20Grail/from/Eris%20no%20Seihai/uploads/chars/36226-963071197.png)<br>所属作品:`eris no seihai` | [百度百科](https://baike.baidu.com/item/康斯坦丝·葛莱尔/67196548) |
+| ouya ootani | 大谷应也 | ![](https://static.wikia.nocookie.net/chainsmoker-cat/images/a/a4/6969.webp/revision/latest?cb=20260727153457)<br>所属作品:`yanineko`<br>日文: 大谷おう也<br>善良的房东，但是是福瑞控 | [Fandom](https://chainsmoker-cat.fandom.com/wiki/Landlord) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
