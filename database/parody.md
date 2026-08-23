@@ -2988,6 +2988,7 @@ example:
 | a court of thorns and roses | 荆棘与玫瑰庭院 | 美国作家莎拉·J·马斯创作的成人奇幻小说系列 |  |
 | key the metal idol | 非常偶像Key | ![](https://lain.bgm.tv/r/400/pic/cover/l/fb/a9/1002_omzWs.jpg) |  |
 | kuroneko to majo no kyoushitsu | 黑猫与魔女的教室 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2f/1b/576351_3yf4O.jpg)<br>日语：黒猫と魔女の教室 |  |
+| eris no seihai | 厄里斯的圣杯 | 《厄里斯的圣杯》是由常磐くじら创作的一部悬疑题材轻小说，连载于GA文库。故事以子爵千金康斯坦丝·葛莱尔（康妮）与十年前被处刑的绝代恶女史嘉蕾·卡斯提奥的亡灵相遇为起点，两人因利害关系结成搭档，共同揭露贵族社会的阴谋与陷害，逐渐建立起真正的羁绊并直面过去遗留的巨大阴谋 。该作品于2024年10月20日宣布动画化，动画由苇Production负责制作，并于2026年1月8日首播 。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
