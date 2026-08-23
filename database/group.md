@@ -14201,6 +14201,7 @@ example:
 | aitoheiwa | AITOHEIWA |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01001672.html) |
 | pz yatai | pz屋台 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG72969.html) |
 | glasses | 眼镜社 | GLASSES |  |
+| tatteinu koubou | たってぃぬ工房 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG40679.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79826/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
