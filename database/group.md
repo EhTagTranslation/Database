@@ -4203,7 +4203,7 @@ example:
 | delica | Delica |  |  |
 | delta | DELTA |  |  |
 | delta blade | デルタブレード |  |  |
-| delta box | DELTA BOX |  |  |
+| delta box | DELTA BOX |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG02530.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71775/) \| [Ci-en](https://ci-en.dlsite.com/creator/4733) |
 | deltaforce | DELTAFORCE |  |  |
 | delusion | でるしおん |  |  |
 | dende | でんで |  |  |
