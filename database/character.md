@@ -10145,6 +10145,7 @@ example:
 | yakumo beni | 八云红 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/7/72/Yakumo_Beni_Full_Body.png)<br>日语：八雲べに<br>所属团体：VSPO |  |
 | tokiko mima | 巳真兔季子 | 出自作品:`key the metal idol` |  |
 | spica virgo | 丝碧卡·瓦戈 | ![](https://static.wikia.nocookie.net/the-black-cat-and-the-witch-classroom/images/a/aa/Spica_Virgo_-_anime_design.png)<br>日语：スピカ・ヴァルゴ<br>出自作品:`kuroneko to majo no kyoushitsu` |  |
+| constance grail | 康斯坦丝·葛莱尔 | ![](https://ami.animecharactersdatabase.com/images%20of/Constance%20Grail/from/Eris%20no%20Seihai/uploads/chars/36226-963071197.png)<br>所属作品:`eris no seihai` | [百度百科](https://baike.baidu.com/item/康斯坦丝·葛莱尔/67196548) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
