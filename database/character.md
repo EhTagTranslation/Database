@@ -10158,6 +10158,7 @@ example:
 | koharu fuyutsuki | 冬月小春 | ![](https://ami.animecharactersdatabase.com/images%20of/Koharu%20Fuyutsuki/from/Love%20Unseen%20Beneath%20the%20Clear%20Night%20Sky/uploads/chars/67712-373489.png)<br>出自作品:`toumei na yoru ni kakeru kimi to me ni mienai koi wo shita.` |  |
 | yakuko etsushimaru | 越司丸益子 | ![](https://static.wikia.nocookie.net/chainsmoker-cat/images/f/fc/Yakuko.webp/revision/latest?cb=20260715230514)<br>所属作品:`yanineko`<br>嗑药猫猫 | [Fandom](https://chainsmoker-cat.fandom.com/wiki/Yakuko_Etsushimaru) |
 | toshiko tatsuno | 辰野俊子 | ![](https://static.wikia.nocookie.net/soremachi/images/c/c9/Tatsuno.png/revision/latest?cb=20110507105809)<br>所属作品:`soredemo machi wa mawatteiru` | [百度百科](https://baike.baidu.com/item/辰野俊子/10710760) |
+| saori tatsuno | 辰野沙织 | ![](https://static.wikia.nocookie.net/chainsmoker-cat/images/a/af/320.webp/revision/latest?cb=20260725020208)<br>所属作品:`yanineko`<br>漫画家，笔名小鸡鸡达郎 | [Fandom](https://chainsmoker-cat.fandom.com/wiki/Ochinpotaro_/_Saori_Tatsuno) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
