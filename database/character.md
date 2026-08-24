@@ -10154,7 +10154,7 @@ example:
 | hiyori kashiwada | 柏田日和 | ![](https://static.wikia.nocookie.net/expressionless-kashiwadasan-and-emotional-ootakun/images/5/57/Kashiwada-san.png/revision/latest?cb=20200727211335)<br>所属作品:`kao ni denai kashiwada-san to kao ni deru oota-kun` | [Fandom](https://expressionless-kashiwadasan-and-emotional-ootakun.fandom.com/wiki/Kashiwada) |
 | dolly dalmatian | 多莉·达尔马提亚 | 出自作品:`101 dalmatians` |  |
 | dylan dalmatian | 迪伦·达尔马提亚 | 出自作品:`101 dalmatians` |  |
-| scarlet castiel | 斯卡蕾特·卡斯蒂尔 | ![](https://ehgt.org/w/02/538/68795-njmo6xlq.webp)<br>日语：スカーレット・カスティエル<br>出自作品:`eris no seihai` |  |
+| scarlet castiel | 斯卡蕾特·卡斯蒂尔 | ![](https://ami.animecharactersdatabase.com/images%20of/Scarlett%20Castiel/from/Eris%20no%20Seihai/uploads/chars/36226-1406364280.png)<br>日语：スカーレット・カスティエル<br>出自作品:`eris no seihai` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
