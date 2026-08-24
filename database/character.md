@@ -10156,6 +10156,7 @@ example:
 | dylan dalmatian | 迪伦·达尔马提亚 | 出自作品:`101 dalmatians` |  |
 | scarlet castiel | 斯卡蕾特·卡斯蒂尔 | ![](https://ami.animecharactersdatabase.com/images%20of/Scarlett%20Castiel/from/Eris%20no%20Seihai/uploads/chars/36226-1406364280.png)<br>日语：スカーレット・カスティエル<br>出自作品:`eris no seihai` |  |
 | koharu fuyutsuki | 冬月小春 | ![](https://ami.animecharactersdatabase.com/images%20of/Koharu%20Fuyutsuki/from/Love%20Unseen%20Beneath%20the%20Clear%20Night%20Sky/uploads/chars/67712-373489.png)<br>出自作品:`toumei na yoru ni kakeru kimi to me ni mienai koi wo shita.` |  |
+| yakuko etsushimaru | 越司丸益子 | ![](https://static.wikia.nocookie.net/chainsmoker-cat/images/f/fc/Yakuko.webp/revision/latest?cb=20260715230514)<br>所属作品:`yanineko`<br>嗑药猫猫 | [Fandom](https://chainsmoker-cat.fandom.com/wiki/Yakuko_Etsushimaru) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
