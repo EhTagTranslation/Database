@@ -1730,7 +1730,7 @@ example:
 | betemius | BETEMIUS |  |  |
 | nihon kemomimi suishou iinkai | 日本ケモ耳推奨委員会 |  |  |
 | ayakase-ke no neko | 綾枷家の猫 |  |  |
-| mignon works | MIGNON WORKS |  |  |
+| mignon works | MIGNON WORKS |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=212754/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01005719.html) |
 | ichijiku yogurt | 无花果酸奶 | いちじくよーぐると |  |
 | egoistic honey | Egoistic Honey |  |  |
 | amamiya | 甘味屋 |  |  |
