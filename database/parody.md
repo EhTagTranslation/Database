@@ -2988,7 +2988,7 @@ example:
 | a court of thorns and roses | 荆棘与玫瑰庭院 | 美国作家莎拉·J·马斯创作的成人奇幻小说系列 |  |
 | key the metal idol | 非常偶像Key | ![](https://lain.bgm.tv/r/400/pic/cover/l/fb/a9/1002_omzWs.jpg) |  |
 | kuroneko to majo no kyoushitsu | 黑猫与魔女的教室 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2f/1b/576351_3yf4O.jpg)<br>日语：黒猫と魔女の教室 |  |
-| eris no seihai | 厄里斯的圣杯 | ![](https://lain.bgm.tv/r/400/pic/cover/l/db/7c/520642_65rzc.jpg)<br>作者：常磐くじら | [Bangumi](https://bgm.tv/subject/520642) |
+| eris no seihai | 厄里斯的圣杯 | ![](https://lain.bgm.tv/r/400/pic/cover/l/db/7c/520642_65rzc.jpg)<br>日语：エリスの聖杯<br>作者：常磐くじら | [Bangumi](https://bgm.tv/subject/520642) |
 | kao ni denai kashiwada-san to kao ni deru oota-kun | 不动声色的柏田与喜形于色的太田 | 《不动声色的柏田与喜形于色的太田》(日语：顔に出ない柏田さんと顔に出る太田君) 是由日本漫画家東ふゆ创作的一部漫画，并有动画等衍生作品。 |  |
 
 <!--TEMPLATE: 
