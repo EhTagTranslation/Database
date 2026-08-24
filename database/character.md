@@ -10151,6 +10151,7 @@ example:
 | nazuna kujou | 九条荠 | ![](https://static.wikia.nocookie.net/chainsmoker-cat/images/1/14/Penpen.png/revision/latest?cb=20260815214446)<br>所属作品:`yanineko`<br>漂漂猫猫 | [Fandom](https://chainsmoker-cat.fandom.com/wiki/Nazuna_Kujou) |
 | shizue satou | 佐藤静江 | ![](https://static.wikia.nocookie.net/chainsmoker-cat/images/7/74/Chizue_satou.png/revision/latest?cb=20260815043012)<br>所属作品:`yanineko`<br>尼古喵喵的妈妈 | [Fandom](https://chainsmoker-cat.fandom.com/wiki/Chizue_Satou) |
 | nemo anemo | 姊母娞摩 | ![](https://static.wikia.nocookie.net/mahou-shoujo-ni-akogarete/images/f/f2/Leberblume_casual.png/revision/latest?cb=20231204191901)<br>![](https://static.wikia.nocookie.net/mahou-shoujo-ni-akogarete/images/9/9c/Leberblume_costume.png/revision/latest?cb=20240302102213)<br>所属作品:`mahou shoujo ni akogarete` | [萌娘百科](https://zh.moegirl.org.cn/姊母娞摩) |
+| hiyori kashiwada | 柏田日和 | ![](https://static.wikia.nocookie.net/expressionless-kashiwadasan-and-emotional-ootakun/images/5/57/Kashiwada-san.png/revision/latest?cb=20200727211335)<br>所属作品:`kao ni denai kashiwada-san to kao ni deru oota-kun` | [Fandom](https://expressionless-kashiwadasan-and-emotional-ootakun.fandom.com/wiki/Kashiwada) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
