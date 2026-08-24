@@ -2990,6 +2990,7 @@ example:
 | kuroneko to majo no kyoushitsu | 黑猫与魔女的教室 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2f/1b/576351_3yf4O.jpg)<br>日语：黒猫と魔女の教室 |  |
 | eris no seihai | 厄里斯的圣杯 | ![](https://lain.bgm.tv/r/400/pic/cover/l/db/7c/520642_65rzc.jpg)<br>日语：エリスの聖杯<br>作者：常磐くじら | [Bangumi](https://bgm.tv/subject/520642) |
 | kao ni denai kashiwada-san to kao ni deru oota-kun | 不动声色的柏田与喜形于色的太田 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3e/62/544104_z9082.jpg)<br>日语：顔に出ない柏田さんと顔に出る太田君<br>作者： 東ふゆ | [Bangumi](https://bgm.tv/subject/544104) |
+| toumei na yoru ni kakeru kimi to me ni mienai koi wo shita. | 与奔驰于透明之夜的你，谈一场看不见的恋爱 | ![](https://lain.bgm.tv/r/400/pic/cover/l/71/44/607340_n8Rrl.jpg)<br>日语：透明な夜に駆ける君と、目に見えない恋をした<br>作者: 志馬なにがし |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
