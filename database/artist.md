@@ -15642,6 +15642,7 @@ example:
 | tatteinu | たってぃぬ |  | [pixiv](https://www.pixiv.net/users/7262728) \| [X](https://x.com/tattuuy) |
 | koshiwo | こしを |  | [pixiv](https://www.pixiv.net/users/14613011) \| [Lit.Link](https://lit.link/en/koshiwo-dl-doojin) \| [X](https://x.com/K_02industrial) \| [Skeb](https://skeb.jp/@K_02industrial) |
 | rinks | RINKS |  |  |
+| takeya masami | たけやまさみ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
