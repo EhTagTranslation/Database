@@ -10148,6 +10148,7 @@ example:
 | constance grail | 康斯坦丝·葛莱尔 | ![](https://ami.animecharactersdatabase.com/images%20of/Constance%20Grail/from/Eris%20no%20Seihai/uploads/chars/36226-963071197.png)<br>所属作品:`eris no seihai` | [百度百科](https://baike.baidu.com/item/康斯坦丝·葛莱尔/67196548) |
 | ouya ootani | 大谷应也 | ![](https://static.wikia.nocookie.net/chainsmoker-cat/images/a/a4/6969.webp/revision/latest?cb=20260727153457)<br>所属作品:`yanineko`<br>日文: 大谷おう也<br>善良的房东，但是是福瑞控 | [Fandom](https://chainsmoker-cat.fandom.com/wiki/Landlord) |
 | kako yomuko | 贺来咏子 | ![](https://ehgt.org/w/02/572/32574-1e2qwtsn.webp)<br>所属作品:`yanineko`<br>写文喵喵 |  |
+| nazuna kujou | 九条荠 | ![](https://static.wikia.nocookie.net/chainsmoker-cat/images/1/14/Penpen.png/revision/latest?cb=20260815214446)<br>所属作品:`yanineko`<br>漂漂猫猫 | [Fandom](https://chainsmoker-cat.fandom.com/wiki/Nazuna_Kujou) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
