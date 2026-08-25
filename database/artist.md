@@ -15645,6 +15645,7 @@ example:
 | takeya masami | たけやまさみ |  |  |
 | alshuish | アルシュイッシュ |  |  |
 | konenohi | 子子日 |  | [pixiv](https://www.pixiv.net/users/42285474) \| [Skeb](https://skeb.jp/@konenohi) \| [Misskey.io](https://misskey.io/@konenohi) \| [X](https://x.com/konenohixx) \| [Fantia](https://fantia.jp/fanclubs/20797) |
+| nurie | ぬりえ |  | [pixiv](https://www.pixiv.net/users/7952581) \| [X](https://x.com/nurie_kaito) \| [FANBOX](https://nurie.fanbox.cc/) \| [BOOTH](https://borokuso.booth.pm/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
