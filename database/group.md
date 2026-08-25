@@ -14205,6 +14205,7 @@ example:
 | konekone rou | こねこね楼 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200897/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54230.html) |
 | crepe crepe | くれーぷくれーぷ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45931.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78809/) |
 | nobutorakai | 信虎会 |  |  |
+| jitsuyou shugi company | 実用主義カンパニー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
