@@ -12646,7 +12646,7 @@ example:
 | yomogi mametaro | よもぎ豆太郎 |  | [pixiv](https://www.pixiv.net/users/51304522) \| [X](https://x.com/yomogimame462) \| [FANZA](https://book.dmm.co.jp/list/?author=371002) \| [Fantia](https://fantia.jp/fanclubs/478849) \| [Skeb](https://skeb.jp/@yomogimame462) |
 | yasuda yasuhiro | 保田やすひろ |  |  |
 | minazuki miyabi | 水無月雅 |  |  |
-| okome taberu | おこめタベル |  |  |
+| okome taberu | おこめタベル |  | [X](https://x.com/okome_taberuyo2) \| [Lit.Link](https://lit.link/en/okometaberu) \| [Skeb](https://skeb.jp/@okome_taberuyo2) \| [FANBOX](https://okome-taberuyo2.fanbox.cc/) |
 | nagase tooru | 长濑彻 | ![X](https://pbs.twimg.com/profile_images/1450021655766466560/pz1Klcvk_400x400.jpg)<br><br>**作者X头像** | [X](https://x.com/naganagase0114) [pixiv](https://www.pixiv.net/users/54396773) |
 | az slash hybrid | をん（AZ/HYBRID） |  | [pixiv](https://www.pixiv.net/users/23821) [X](https://x.com/wonashybrid) |
 | shirabii | しらび |  | [pixiv](https://www.pixiv.net/users/216403) [X](https://x.com/shirabii) |
