@@ -4601,7 +4601,7 @@ example:
 | chabin | 茶瓶 |  |  |
 | chabo | 茶鳥 |  |  |
 | chaccu | chaccu |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ001205/ana_flg/all) |
-| chado | 茶户 |  |  |
+| chado | 茶户 | 日语: チャダ | [pixiv](https://www.pixiv.net/users/43718238) \| [X](https://x.com/tohosanhun) |
 | chagata | ちゃがた |  |  |
 | chagu | ちゃぐ |  |  |
 | chaigidhiell | カイギディエル |  |  |
