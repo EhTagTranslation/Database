@@ -11744,7 +11744,7 @@ example:
 | unreal | UNreal |  |  |
 | unshuu sakuramochi | 温州桜餅 |  |  |
 | unyarara daihanten | うにゃらら大飯店 |  |  |
-| uohaman | 魚歯満 |  |  |
+| uohaman | 魚歯満 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG26501.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70514/) |
 | uotatsu18kinshiten | 魚辰一八金支店 |  |  |
 | uozanoko | うお座の子 |  |  |
 | upsp | UPSP |  |  |
