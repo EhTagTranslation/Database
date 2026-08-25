@@ -336,7 +336,7 @@ example:
 | komorikiri. | こもりきり。 |  |  |
 | circle eden | Circle Eden |  |  |
 | fukutsuu okosu | 腹痛起こす |  |  |
-| aodouhu | 青豆腐 |  |  |
+| aodouhu | 青豆腐 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG21326.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28658/) |
 | team lucky | チーム☆ラッキー |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70433/) |
 | deep rising | DEEP RISING |  |  |
 | past gadget | Past Gadget | 日：ぱすとG | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=25525/) |
