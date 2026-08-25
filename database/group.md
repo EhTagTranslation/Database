@@ -12841,7 +12841,7 @@ example:
 | shoujo rakugakichuu | 少女落描中 |  |  |
 | ikebukuro distillery | 池袋蒸留所 |  |  |
 | honeyroad | HoneyRoad |  |  |
-| golden bazooka | ゴールデンバズーカ |  |  |
+| golden bazooka | ゴールデンバズーカ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56966.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202559/) |
 | nature carute | 天然养殖 |  |  |
 | crazy brain pulse | くれいじーぶれいんぱるす |  |  |
 | nuts koumuten | ナッツ工務店 |  |  |
