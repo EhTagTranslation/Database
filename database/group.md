@@ -3146,7 +3146,7 @@ example:
 | b-crews | Bクルーズ |  |  |
 | b-dash jump | B-Dash Jump |  |  |
 | b-kyuu kasen | B級河川 |  |  |
-| b-kyuu site | B級サイト |  |  |
+| b-kyuu site | B級サイト |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=21750/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG03653.html) |
 | b-led | B-LED |  |  |
 | b-wa | B-wa |  |  |
 | b.s.k | B.S.K |  |  |
