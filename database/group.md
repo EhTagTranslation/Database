@@ -506,7 +506,7 @@ example:
 | naragyogyo kumiai | なら漁業組合 |  |  |
 | shichiten battou | 七天罚讨 |  |  |
 | drop dead | DROP DEAD!! |  |  |
-| erect touch | ERECT TOUCH |  |  |
+| erect touch | ERECT TOUCH |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG25171.html) |
 | melanchol | メランコル |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG23930.html) |
 | meisho hanten | めーしょー飯店 |  |  |
 | rushe museum | Rushe Museum |  |  |
