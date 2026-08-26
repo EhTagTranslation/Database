@@ -15650,6 +15650,7 @@ example:
 | tokumei kitsutsuki | 匿名きつつき |  | [pixiv](https://www.pixiv.net/users/110681833) \| [FANBOX](https://p59maz.fanbox.cc/) \| [X](https://x.com/p59maz) \| [Bluesky](https://bsky.app/profile/domanoura.bsky.social) |
 | rong hui | 绒灰 |  |  |
 | sakaito | 逆糸 |  |  |
+| chiruru | ちるる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
