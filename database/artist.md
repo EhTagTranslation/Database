@@ -1461,7 +1461,7 @@ example:
 | shimazu isami | 島津いさみ |  |  |
 | arumajiki | 或真じき |  |  |
 | uru | Uru |  | [pixiv](https://www.pixiv.net/users/9659570) |
-| higashitotsuka raisuta | 東戸塚らいすた |  |  |
+| higashitotsuka raisuta | 東戸塚らいすた |  | [FANBOX](https://raisuta.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/269427) \| [X](https://x.com/raisuta) |
 | nizimoto hirok | 虹元ひろk |  |  |
 | kinnikku | キンニック |  |  |
 | takepen | タケペン |  |  |
