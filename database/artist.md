@@ -8521,7 +8521,7 @@ example:
 | nankai no sizimi | 南海のしぢみ |  |  |
 | nankakureman | なんかくれまん |  |  |
 | nankin maachan | 南京まーちゃん |  |  |
-| nannal | なんなる |  |  |
+| nannal | なんなる |  | [pixiv](https://www.pixiv.net/users/24571) \| [FANBOX](https://nananana.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/3691) \| [Pawoo](https://pawoo.net/@nannnal) \| [X](https://x.com/circle_nananana) |
 | nano | nano |  |  |
 | nanotaro | なのたろ |  |  |
 | nantetsu | 軟鉄 |  |  |
