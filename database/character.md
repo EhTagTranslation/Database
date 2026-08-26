@@ -10161,6 +10161,7 @@ example:
 | saori tatsuno | 辰野沙织 | ![](https://static.wikia.nocookie.net/chainsmoker-cat/images/a/af/320.webp/revision/latest?cb=20260725020208)<br>所属作品:`yanineko`<br>漫画家，笔名小鸡鸡达郎 | [Fandom](https://chainsmoker-cat.fandom.com/wiki/Ochinpotaro_/_Saori_Tatsuno) |
 | homare azuma | 东誉 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/7/7d/Homare_Azuma_S2.webp)<br>出自作品:`mato seihei no slave` |  |
 | roshan | 肉山 | 出自作品:`defense of the ancients` |  |
+| kotone fuchigami | 渊上琴音 | ![](https://static.wikia.nocookie.net/blue-archive/images/d/d2/Kotone_Intro.png)<br>日语：淵上 コトネ<br>出自作品:`blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
