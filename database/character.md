@@ -10167,6 +10167,7 @@ example:
 | anna doll | 安娜·多尔 | ![](https://ami.animecharactersdatabase.com/images%20of/Anna%20Dole/from/From%20Bureaucrat%20to%20Villainess/uploads/chars/36226-44181675.png)<br>日语：アンナ・ドール<br>出自作品:`akuyaku reijou tensei oji-san` |  |
 | ai narata | 奈良田爱 | ![](https://static.wikia.nocookie.net/kageki-shojo/images/4/41/67712-1853426146.png)<br>日语：ならた あい<br>出自作品:`kageki shojo` |  |
 | sarasa watanabe | 渡边更纱 | ![](https://static.wikia.nocookie.net/kageki-shojo/images/a/ae/67712-245431534.png)<br>日语：渡辺さらさ<br>出自作品:`kageki shojo` |  |
+| kitakoji hisui | 北小路翡翠 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/91/Kitakoji_Hisui_Portrait_2.png)<br>所属社团：`p:nijisanji`<br><br>北小路翡翠（ 北小路ヒスイ / きたこうじひすい / Kitakoji Hisui ）是一名从2020年8月9日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [Fandom](https://virtualyoutuber.fandom.com/wiki/Kitakoji_Hisui) \| [萌娘百科](https://zh.moegirl.org.cn/北小路翡翠) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
