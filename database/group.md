@@ -419,7 +419,7 @@ example:
 | avalanche | あばらんち |  |  |
 | suzu no oka | 鈴の丘 |  |  |
 | gegera standard | GEGERA STANDARD |  |  |
-| studio mizuyokan | スタジオみずよーかん |  |  |
+| studio mizuyokan | スタジオみずよーかん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG06155.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26934/) |
 | a ashgrey mix | A AshGrey Mix |  |  |
 | m.o seisakujo | M.O制作所 |  |  |
 | orange bullet | ORANGE BULLET |  |  |
