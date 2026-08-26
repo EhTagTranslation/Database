@@ -10166,6 +10166,7 @@ example:
 | red desire | 红色梦想 | ![](https://static.wikia.nocookie.net/umamusume/images/3/3d/Red_Desire_%28Race%29.png)<br>出自作品:`uma musume pretty derby` |  |
 | anna doll | 安娜·多尔 | ![](https://ami.animecharactersdatabase.com/images%20of/Anna%20Dole/from/From%20Bureaucrat%20to%20Villainess/uploads/chars/36226-44181675.png)<br>日语：アンナ・ドール<br>出自作品:`akuyaku reijou tensei oji-san` |  |
 | ai narata | 奈良田爱 | ![](https://static.wikia.nocookie.net/kageki-shojo/images/4/41/67712-1853426146.png)<br>日语：ならた あい<br>出自作品:`kageki shojo` |  |
+| sarasa watanabe | 渡边更纱 | ![](https://static.wikia.nocookie.net/kageki-shojo/images/a/ae/67712-245431534.png)<br>日语：渡辺さらさ<br>出自作品:`kageki shojo` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
