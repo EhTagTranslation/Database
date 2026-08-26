@@ -10163,6 +10163,7 @@ example:
 | roshan | 肉山 | 出自作品:`defense of the ancients` |  |
 | kotone fuchigami | 渊上琴音 | ![](https://static.wikia.nocookie.net/blue-archive/images/d/d2/Kotone_Intro.png)<br>日语：淵上 コトネ<br>出自作品:`blue archive` |  |
 | yorha eisenz | 悠尔哈·艾森兹 | ![](https://static.wikia.nocookie.net/hojomaho/images/4/45/Yorha_Eisentz.png)<br>日语：ヨルハ・アイゼンツ<br>出自作品:`mikata ga yowasugite hojo mahou ni tesshiteita kyuutei mahoushi` |  |
+| red desire | 红色梦想 | ![](https://static.wikia.nocookie.net/umamusume/images/3/3d/Red_Desire_%28Race%29.png)<br>出自作品:`uma musume pretty derby` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
