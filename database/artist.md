@@ -2245,7 +2245,7 @@ example:
 | fujita yukihisa | 藤田幸久 |  |  |
 | l axe | L Axe |  |  |
 | s.m.o.k.e. | S.M.O.K.E. |  |  |
-| samurai | さむらい |  |  |
+| samurai | さむらい |  | [pixiv](https://www.pixiv.net/users/4342160) \| [X](https://x.com/ih4tshar) \| [Fantia](https://fantia.jp/fanclubs/147453) |
 | kureyon | くれよん |  |  |
 | broccoli takeda | ブロッコリーたけだ |  |  |
 | maatsu | ま～つ |  |  |
