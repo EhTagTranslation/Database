@@ -10162,6 +10162,7 @@ example:
 | homare azuma | 东誉 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/7/7d/Homare_Azuma_S2.webp)<br>出自作品:`mato seihei no slave` |  |
 | roshan | 肉山 | 出自作品:`defense of the ancients` |  |
 | kotone fuchigami | 渊上琴音 | ![](https://static.wikia.nocookie.net/blue-archive/images/d/d2/Kotone_Intro.png)<br>日语：淵上 コトネ<br>出自作品:`blue archive` |  |
+| yorha eisenz | 悠尔哈·艾森兹 | ![](https://static.wikia.nocookie.net/hojomaho/images/4/45/Yorha_Eisentz.png)<br>日语：ヨルハ・アイゼンツ<br>出自作品:`mikata ga yowasugite hojo mahou ni tesshiteita kyuutei mahoushi` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
