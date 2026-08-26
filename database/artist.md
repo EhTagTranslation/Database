@@ -15651,6 +15651,7 @@ example:
 | rong hui | 绒灰 |  |  |
 | sakaito | 逆糸 |  |  |
 | chiruru | ちるる |  |  |
+| anulita | アヌリタ |  | [pixiv](https://www.pixiv.net/users/32135175) \| [X](https://x.com/anulita100) \| [Skeb](https://skeb.jp/@anulita100) |
 
 <!--TEMPLATE:
 |  |  |  |  |
