@@ -2035,7 +2035,7 @@ example:
 | blackshirtboy | Blackshirtboy |  |  |
 | xpray | Xpray |  |  |
 | shika yuno | 椎架ゆの |  |  |
-| azarashi | アザラシ |  |  |
+| azarashi | アザラシ |  | [pixiv](https://www.pixiv.net/users/1373445) \| [X](https://x.com/azarashidrawing) |
 | syamonabe | シャモナベ |  | [pixiv](https://www.pixiv.net/users/5928132) |
 | tyagama | 茶釜 |  |  |
 | tkp | TKP |  | [pixiv](https://www.pixiv.net/users/134671) |
