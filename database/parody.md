@@ -2992,6 +2992,7 @@ example:
 | kao ni denai kashiwada-san to kao ni deru oota-kun | 不动声色的柏田与喜形于色的太田 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3e/62/544104_z9082.jpg)<br>日语：顔に出ない柏田さんと顔に出る太田君<br>作者： 東ふゆ | [Bangumi](https://bgm.tv/subject/544104) |
 | toumei na yoru ni kakeru kimi to me ni mienai koi wo shita. | 与奔驰于透明之夜的你，谈一场看不见的恋爱 | ![](https://lain.bgm.tv/r/400/pic/cover/l/71/44/607340_n8Rrl.jpg)<br>日语：透明な夜に駆ける君と、目に見えない恋をした<br>作者: 志馬なにがし |  |
 | concrete revolutio | Concrete Revolutio 超人幻想 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e7/8c/139022_DygC6.jpg)<br>日语：コンクリート・レボルティオ～超人幻想～ |  |
+| mikata ga yowasugite hojo mahou ni tesshiteita kyuutei mahoushi | 队友太弱所以贯彻辅助的宫廷魔法师 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ea/df/545842_AxVDu.jpg)<br>全名：队友太弱所以贯彻辅助的宫廷魔法师，惨遭流放目标却是最强<br>日语：味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
