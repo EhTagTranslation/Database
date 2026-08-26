@@ -8316,7 +8316,7 @@ example:
 | nanamigumi | 七海組 |  |  |
 | nanamiya | 奈波屋 |  |  |
 | nanamoya | ななも屋 |  |  |
-| nananana | なななな |  |  |
+| nananana | なななな |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26510/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG14823.html) |
 | nanashi inflation | ななしいんふれーしょん |  |  |
 | nanashi shounen | ナナシ少年 |  |  |
 | nanashiki | 七式 |  |  |
