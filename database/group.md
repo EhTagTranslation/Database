@@ -11127,7 +11127,7 @@ example:
 | tanuki no takarabako | たぬきの宝箱 |  |  |
 | tanuki riot | たぬき・らいおっと |  |  |
 | tanukian | たぬき庵 |  |  |
-| tanuking sleep | たぬきんぐすりーぷ |  |  |
+| tanuking sleep | たぬきんぐすりーぷ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70359/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG22784.html) |
 | taob | TAOB |  |  |
 | tapioca box | タピオカボックス |  |  |
 | tarako cream | たらこクリーム |  |  |
