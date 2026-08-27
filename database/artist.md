@@ -2363,7 +2363,7 @@ example:
 | yuyama chika | 湯山チカ |  |  |
 | kumakiti | 隈吉 |  |  |
 | umakuchi syouyu | 甘口酱油 | ![X](https://pbs.twimg.com/profile_images/1416959332244025347/8r5hCo2b_400x400.jpg)<br><br>**作者推特头像**<br><br>同人社团`amakuchi syoujo`主笔画师。 | [X](https://x.com/umakuchu) [pixiv](https://www.pixiv.net/users/809099) |
-| tokie hirohito | 刻江寻人 |  |  |
+| tokie hirohito | 刻江寻人 | 日语: 刻江尋人 | [FANBOX](https://euo9tsm5.fanbox.cc/)  \| [X](https://x.com/tokiehirohito) \| [pixiv](https://www.pixiv.net/users/7572119) |
 | yuzuki n dash | 柚木N’ |  | [X](https://x.com/yuzukin_) [pixiv](https://www.pixiv.net/users/691882) |
 | itou nanami | 井藤ななみ |  |  |
 | porutan | ぽるたん |  |  |
