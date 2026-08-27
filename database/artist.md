@@ -15652,6 +15652,7 @@ example:
 | sakaito | 逆糸 |  |  |
 | chiruru | ちるる |  |  |
 | anulita | アヌリタ |  | [pixiv](https://www.pixiv.net/users/32135175) \| [X](https://x.com/anulita100) \| [Skeb](https://skeb.jp/@anulita100) |
+| zawashi | ざわし |  | [FANBOX](https://zawasey3040.fanbox.cc/) \| [X](https://x.com/zawashio1013) \| [pixiv](https://www.pixiv.net/users/63826698) \| [Skeb](https://skeb.jp/@zawashio1013) |
 
 <!--TEMPLATE:
 |  |  |  |  |
