@@ -189,6 +189,7 @@ example:
 | ran3 | 染三 |  |  |
 | baili shirly | 白栎Shirly |  |  |
 | etsu ko | 纸悦Etsu\_ko |  | [X](https://x.com/Etsuko827) |
+| upminaa | Upminaa |  |  |
 
 <!--
 Template: 
