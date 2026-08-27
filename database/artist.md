@@ -617,7 +617,7 @@ example:
 | alpine | あるぴーぬ |  |  |
 | yuuka nonoko | 夕華ののこ |  |  |
 | hakuho | 白凤 |  |  |
-| ooshima ryou | 大嶋亮 |  |  |
+| ooshima ryou | 大嶋亮 |  | [pixiv](https://www.pixiv.net/users/64605) \| [X](https://x.com/domoson) \| [Pawoo](https://pawoo.net/@RYO_OHSHIMA) |
 | aeba fuchi | 飨庭渊 |  | [X](https://x.com/aebafuti) \| [note](https://note.com/aebafuti) \| [pixiv](https://www.pixiv.net/users/20046) \| [DLsite](https://ci-en.dlsite.com/creator/11400) |
 | hakka yuki | 薄荷ゆき |  |  |
 | derauea | でらうえあ |  | [pixiv](https://www.pixiv.net/users/5037991) |
