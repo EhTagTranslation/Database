@@ -13462,7 +13462,7 @@ example:
 | miura koudai | 三浦鋼大 |  |  |
 | doron | どろん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01033136.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=218947/) |
 | emuo koubou | えむお工房 |  |  |
-| kuishinbou | くいしん房 |  |  |
+| kuishinbou | くいしん房 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77236/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44126.html) |
 | sanman sanzen koiking | 三万三千こいきんぐ |  |  |
 | kitsunetsuki | きつねつき |  |  |
 | chiyori koubou | ちより工房 |  |  |
