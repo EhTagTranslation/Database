@@ -331,7 +331,7 @@ example:
 | yadokugaeru | ヤドクガエル |  |  |
 | butagoya | ぶた小屋 |  |  |
 | momo ego | ももエゴ |  |  |
-| wada mountain | 和田マウンテン |  |  |
+| wada mountain | 和田マウンテン |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG19702.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72452/) |
 | area14 | エリア14 |  |  |
 | komorikiri. | こもりきり。 |  |  |
 | circle eden | Circle Eden |  |  |
