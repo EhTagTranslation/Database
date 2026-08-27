@@ -13298,7 +13298,7 @@ example:
 | suzune mia | すずねみあ |  |  |
 | yuduka | ゆーづか |  |  |
 | tina | ティナ |  |  |
-| takurowo | タクロヲ |  |  |
+| takurowo | タクロヲ |  | [Ci-en](https://ci-en.dlsite.com/creator/5167) \| [FANBOX](https://takurowo.fanbox.cc/) \| [X](https://x.com/takurowo) \| [pixiv](https://www.pixiv.net/users/1098889) \| [Fantia](https://fantia.jp/fanclubs/30133) |
 | tabun | たぶん |  |  |
 | matsuri juro | 祭十郎 |  |  |
 | guro tsuki | グロツキ |  |  |
