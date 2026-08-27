@@ -3791,7 +3791,7 @@ example:
 | chroma of wall | 壁の彩度 |  |  |
 | chromaticclip | ChromaticClip |  |  |
 | chronicle | くろにくる |  |  |
-| chrono mail | クロノ・メール |  |  |
+| chrono mail | クロノ・メール |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG28540.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74397/) |
 | chrronix | Chrronix |  |  |
 | chukara coffee | 中辛珈琲 |  |  |
 | chunhaikan | 中海館 |  |  |
