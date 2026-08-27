@@ -411,7 +411,7 @@ example:
 | kokatsubatake | こかつ畑 |  |  |
 | nise-jyuusyofutei | 伪住所不定 |  |  |
 | rpg company 2 | RPGカンパニー2 |  |  |
-| royal bitch | ろいやるびっち |  |  |
+| royal bitch | ろいやるびっち |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG22138.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29003/) |
 | einsatz | Einsatz |  |  |
 | majimeya | 真面目屋 |  |  |
 | almarosso | アルマロッソ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG17378.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27662/sort=date/) |
