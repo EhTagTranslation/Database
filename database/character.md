@@ -1943,7 +1943,7 @@ example:
 | mochizuki chiyome | 望月千代女 |  |  |
 | osakabehime | 刑部姬 | 刑部姬是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。<br><br>![刑部姬](https://img.moegirl.org.cn/common/7/7e/Osakabehime_swimsuit.jpg) | [萌娘百科](https://zh.moegirl.org.cn/刑部姬%28Fate%29#) |
 | sakata kintoki | 坂田金时 |  |  |
-| scheherazade | 山鲁佐德 |  |  |
+| scheherazade | 山鲁佐德 | ![](https://static.wikia.nocookie.net/typemoon/images/1/15/CasterScheherazadeStage1.png)<br>出自作品：`p:fate grand order`<br><br>不夜城的Caster (シェヘラザード / Scheherazade) 是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/山鲁佐德) \| [Fandom](https://typemoon.fandom.com/wiki/Scheherazade) |
 | suzuka gozen | 铃鹿御前 |  |  |
 | tomoe gozen | 巴御前 |  |  |
 | xuanzang | 玄奘 |  |  |
