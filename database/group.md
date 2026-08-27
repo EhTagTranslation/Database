@@ -13466,7 +13466,7 @@ example:
 | sanman sanzen koiking | 三万三千こいきんぐ |  |  |
 | kitsunetsuki | きつねつき |  |  |
 | chiyori koubou | ちより工房 |  |  |
-| amanoshima | 雨乃島 |  |  |
+| amanoshima | 雨乃島 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01057995.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=229828/) \| [pixiv](https://www.pixiv.net/users/120810642) \| [X](https://x.com/amanoshima9920) |
 | plateau soft | ぷらとぉそふと |  |  |
 | shikisoku zeku | 色即絶句 |  |  |
 | peimond | ペイモンド |  |  |
