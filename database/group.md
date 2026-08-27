@@ -12999,7 +12999,7 @@ example:
 | kochunoten | こちゅうのてん |  |  |
 | raspberry doll | ラズベリー☆ドール |  |  |
 | itonouri | いとのうり |  |  |
-| takurowo-dou | タクロヲ堂 |  |  |
+| takurowo-dou | タクロヲ堂 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54472.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201924/) |
 | osoracu | おそら区 |  |  |
 | maikage | 舞影 |  |  |
 | banana style | ばななすたいる |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG60805.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203397/) \| [FANBOX](https://wwcx4872.fanbox.cc/) \| [X](https://x.com/BANANASUTAIRU) \| [pixiv](https://www.pixiv.net/users/48084405) |
