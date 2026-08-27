@@ -14208,6 +14208,7 @@ example:
 | jitsuyou shugi company | 実用主義カンパニー |  |  |
 | mitomitokonkon | むなや家 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57916.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204169/) \| [Ci-en](https://ci-en.dlsite.com/creator/12785) \| [pixiv](https://www.pixiv.net/users/9695124) |
 | sol seeker | Sol seeker |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52793.html) |
+| banana senbei | ばななせんべい |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01015465.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=227813/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
