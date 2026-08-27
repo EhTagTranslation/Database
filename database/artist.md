@@ -8417,7 +8417,7 @@ example:
 | naisho | 内緒 |  |  |
 | naito loveca | 内藤らぶか |  |  |
 | naitou gura | 内東ぐら |  |  |
-| naitou haruto | 内藤春人 |  |  |
+| naitou haruto | 内藤春人 | 日语: ないとう春人 | [FANBOX](https://naitouharuto8610.fanbox.cc/) \| [X](https://x.com/naitouharuto810) \| [pixiv](https://www.pixiv.net/users/14194747) \| [Fantia](https://fantia.jp/fanclubs/516511) \| [Skeb](https://skeb.jp/@naitouharuto810) |
 | naitou ryuu | 内藤隆 |  |  |
 | naizou chimuko | 内蔵チムコ |  |  |
 | nakabe e | なかべ江 |  |  |
