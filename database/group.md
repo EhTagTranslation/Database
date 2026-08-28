@@ -8401,7 +8401,7 @@ example:
 | negapoji-bu | ネガぽじーぶ |  |  |
 | negibouzu | ねぎ坊主 |  |  |
 | negimaers | ねぎまーず |  |  |
-| neginegio | ネギネギ夫 |  |  |
+| neginegio | ネギネギ夫 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG34234.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73265/) \| [Ci-en](https://ci-en.dlsite.com/creator/2749) \| [FANBOX](https://neginegio.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/14581629) \| [X](https://x.com/neginegio1) |
 | negi to takenoko | ねぎとたけのこ |  |  |
 | negoro teppou tai | 根来鉄砲隊 |  |  |
 | negoto | negoto |  |  |
