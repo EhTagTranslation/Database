@@ -6743,7 +6743,7 @@ example:
 | kokesimuken | こけしム軒 |  |  |
 | kokikko | KOKIKKO |  |  |
 | kokkei-nagaya | 滑稽長屋 |  |  |
-| kokkishin | こっき心 |  |  |
+| kokkishin | こっき心 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73989/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG36745.html) |
 | kokochikyuu | 心地球 |  |  |
 | kokonokiya | ここのき屋 |  |  |
 | kokoro metro | ココロメトロ |  |  |
