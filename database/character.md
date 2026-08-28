@@ -10168,6 +10168,7 @@ example:
 | ai narata | 奈良田爱 | ![](https://static.wikia.nocookie.net/kageki-shojo/images/4/41/67712-1853426146.png)<br>日语：ならた あい<br>出自作品:`kageki shojo` |  |
 | sarasa watanabe | 渡边更纱 | ![](https://static.wikia.nocookie.net/kageki-shojo/images/a/ae/67712-245431534.png)<br>日语：渡辺さらさ<br>出自作品:`kageki shojo` |  |
 | kitakoji hisui | 北小路翡翠 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/91/Kitakoji_Hisui_Portrait_2.png)<br>所属社团：`p:nijisanji`<br><br>北小路翡翠（ 北小路ヒスイ / きたこうじひすい / Kitakoji Hisui ）是一名从2020年8月9日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [Fandom](https://virtualyoutuber.fandom.com/wiki/Kitakoji_Hisui) \| [萌娘百科](https://zh.moegirl.org.cn/北小路翡翠) |
+| cure eclair | 帆羽来爱 | ![](https://static.wikia.nocookie.net/prettycure/images/9/9b/Kurea_Cure_Eclair_Profile.png)<br>出自作品：`p:meitantei precure`<br><br>帆羽来爱（日语：帆羽くれあ / ほわくれあ）是魔法少女动画《名侦探光之美少女！》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/帆羽来爱) \| [Fandom](https://prettycure.fandom.com/wiki/Howa_Kurea) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
