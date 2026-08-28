@@ -10609,7 +10609,7 @@ example:
 | takeda | たけだ |  |  |
 | takeda sora | 武田空 |  |  |
 | takedake | 信州タケダケ |  |  |
-| takei tsukasa | タケイツカサ | 水野猛之 |  |
+| takei tsukasa | タケイツカサ | 水野猛之 | [pixiv](https://www.pixiv.net/users/1509836) \| [X](https://x.com/mizutake_27) \| [Pawoo](https://pawoo.net/@mizutake27) |
 | takemaru | タケマル |  |  |
 | takemitz | たけみつ |  |  |
 | takemori shintarou | 竹森真太郎 |  |  |
