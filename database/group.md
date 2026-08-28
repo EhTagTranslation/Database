@@ -4867,7 +4867,7 @@ example:
 | furuhonya | 古本屋 |  |  |
 | furuike | furuike |  |  |
 | furuya | ふる屋 |  |  |
-| fushigi dou | フシギ堂 |  |  |
+| fushigi dou | フシギ堂 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG37242.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77416/) \| [Ci-en](https://ci-en.dlsite.com/creator/905) \| [X](https://x.com/wack_na_mc) |
 | fushinsya guilty | 不审者罪 |  |  |
 | fushizen doubutsu hogodantai | 不自然動物保護団体 |  |  |
 | fusions | Fusions |  |  |
