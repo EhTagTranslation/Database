@@ -14670,7 +14670,7 @@ example:
 | sigma | SigMa |  | [Fantia](https://fantia.jp/fanclubs/328959) \| [X](https://x.com/sigmart03) |
 | baketsuya | バケツ屋 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22バケツ屋%22) |
 | waryu | わりゅう |  | [pixiv](https://www.pixiv.net/users/77769028) |
-| uraaka 18 | うらあか18 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22うらあか18%22) |
+| uraaka 18 | うらあか18 |  | [Ci-en](https://ci-en.dlsite.com/creator/24516) \| [pixiv](https://www.pixiv.net/users/17247289) \| [X](https://x.com/uraaka_illust) |
 | kotaro otn | 狐太郎OTN |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22狐太郎OTN%22) |
 | incogneato | Incogneato |  | [ewgrounds](https://incogneatoart.newgrounds.com/) |
 | rorimuti | ろりむち |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57748.html) |
