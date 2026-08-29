@@ -1616,7 +1616,7 @@ example:
 | z-ton | Zトン |  | [pixiv](https://www.pixiv.net/users/14168) [X](https://x.com/Ztn0555) |
 | hanpera | はんぺら |  |  |
 | hirono azuma | 広乃あずま |  |  |
-| ikeda matamune | 池田又心 |  |  |
+| ikeda matamune | 池田又心 |  | [pixiv](https://www.pixiv.net/users/7043195) \| [X](https://x.com/matakokoro) \| [FANZA](https://book.dmm.co.jp/list/?author=298205) |
 | kon-kit | 蒟吉人 |  |  |
 | ohsaka minami | 逢坂ミナミ |  |  |
 | raymon | RAYMON |  |  |
