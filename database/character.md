@@ -10171,6 +10171,7 @@ example:
 | cure eclair | 帆羽来爱 | ![](https://static.wikia.nocookie.net/prettycure/images/9/9b/Kurea_Cure_Eclair_Profile.png)<br>出自作品：`p:meitantei precure`<br><br>帆羽来爱（日语：帆羽くれあ / ほわくれあ）是魔法少女动画《名侦探光之美少女！》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/帆羽来爱) \| [Fandom](https://prettycure.fandom.com/wiki/Howa_Kurea) |
 | claret flint | 克拉蕾·弗林特 | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/7/7c/Agent_Claret_Flint_Portrait.png)<br>出自作品:`zenless zone zero` |  |
 | qingxiao | 清霄 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/2/26/Qingxiao_Full_Sprite.png)<br>出自作品:`wuthering waves` |  |
+| red rose | 红蔷薇 | ![](https://static.wikia.nocookie.net/silverpalace/images/4/47/Red_Rose_Splash_Art.png)<br>出自作品:`silver palace` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
