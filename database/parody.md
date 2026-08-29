@@ -2996,6 +2996,7 @@ example:
 | kageki shojo | 歌剧少女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5f/55/317680_Qw1WR.jpg)<br>日语：かげきしょうじょ |  |
 | silver palace | 白银之城 | ![](https://static.wikia.nocookie.net/silverpalace/images/3/3f/SPlogo.png)<br>![](https://static.wikia.nocookie.net/silverpalace/images/3/3c/Silver_Palace_Cover_Art.jpg)<br>《白银之城》是由乐元素研发的一款开放世界动作类游戏。 |  |
 | futsutsuka na akujo dewa gozaimasu ga | 雏宫蝶鼠换身传 | ![](https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg)<br>全名：恶女不才，请多关照 ～雏宫蝶鼠换身传～<br>日语：ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～<br>作者：中村颯希 |  |
+| legend of mortal | 活侠传 | ![](https://lain.bgm.tv/r/400/pic/cover/l/85/d8/385177_zOIk7.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
