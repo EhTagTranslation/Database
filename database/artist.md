@@ -15660,6 +15660,7 @@ example:
 | hadukinton | はづきんとん |  | [X](https://x.com/Haduki_As) \| [pixiv](https://www.pixiv.net/users/27310337) \| [Skeb](https://skeb.jp/@Haduki_As) |
 | nagumo naruse | 南雲なるせ |  | [X](https://x.com/naltal3) \| [pixiv](https://www.pixiv.net/users/12358712) \| [Lit.Link](https://lit.link/en/naltal) |
 | parapara | ぱらぱら |  | [pixiv](https://www.pixiv.net/users/51841726) |
+| shachou | 社長 |  | [pixiv](https://www.pixiv.net/users/4455022) \| [X](https://x.com/mr_mr_pr_pr) |
 
 <!--TEMPLATE:
 |  |  |  |  |
