@@ -10176,6 +10176,7 @@ example:
 | keigetsu shu | 朱慧月 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b2/a3/172977_crt_qFlft.jpg?r=1755866180)<br>出自作品:`futsutsuka na akujo dewa gozaimasu ga` |  |
 | reirin kou | 黃玲琳 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d5/8d/172978_crt_181pI.jpg?r=1755866160)<br>出自作品:`futsutsuka na akujo dewa gozaimasu ga` |  |
 | nia liston | 倪亚‧利斯顿 | ![](https://lain.bgm.tv/r/400/pic/crt/l/7f/0c/200891_crt_o6qzy.jpg)<br>出自作品:`kyouran reijou nia liston` |  |
+| chin-lan chang | 张景岚 | ![](https://ami.animecharactersdatabase.com/images%20of/Zhang%20Jinglan/from/Kamiina%20Botan%20Yoeru%20Sugata%20wa%20Yuri%20no%20Hana/uploads/chars/67712-620243596.png)<br>出自作品:`kamiina botan yoeru sugata wa yuri no hana` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
