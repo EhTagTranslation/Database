@@ -15656,6 +15656,7 @@ example:
 | ajisawa aji | 鯵沢あじ |  | [X](https://x.com/aji_1053) \| [Skeb](https://skeb.jp/@ajisawa1053) \| [Misskey.io](https://misskey.io/@aji_1332) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01054971.html) |
 | aki hirame | 秋ひらめ |  | [Lit.Link](https://lit.link/en/akihirame) \| [FANBOX](https://akihila.fanbox.cc/) \| [X](https://x.com/pieces_4ll) \| [pixiv](https://www.pixiv.net/users/55811) \| [Skeb](https://skeb.jp/@pieces_4ll) |
 | asaka | 安佐川 |  | [pixiv](https://www.pixiv.net/users/630462) \| [X](https://x.com/asaka142) \| [Skeb](https://skeb.jp/@asaka142) |
+| epi | えぴ |  | [pixiv](https://www.pixiv.net/users/2849686) \| [X](https://x.com/epi_zero) \| [Skeb](https://skeb.jp/@epi_zero) \| [Lit.Link](https://lit.link/en/epi0) |
 
 <!--TEMPLATE:
 |  |  |  |  |
