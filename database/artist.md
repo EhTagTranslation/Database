@@ -15657,6 +15657,7 @@ example:
 | aki hirame | 秋ひらめ |  | [Lit.Link](https://lit.link/en/akihirame) \| [FANBOX](https://akihila.fanbox.cc/) \| [X](https://x.com/pieces_4ll) \| [pixiv](https://www.pixiv.net/users/55811) \| [Skeb](https://skeb.jp/@pieces_4ll) |
 | asaka | 安佐川 |  | [pixiv](https://www.pixiv.net/users/630462) \| [X](https://x.com/asaka142) \| [Skeb](https://skeb.jp/@asaka142) |
 | epi | えぴ |  | [pixiv](https://www.pixiv.net/users/2849686) \| [X](https://x.com/epi_zero) \| [Skeb](https://skeb.jp/@epi_zero) \| [Lit.Link](https://lit.link/en/epi0) |
+| hadukinton | はづきんとん |  | [X](https://x.com/Haduki_As) \| [pixiv](https://www.pixiv.net/users/27310337) \| [Skeb](https://skeb.jp/@Haduki_As) |
 
 <!--TEMPLATE:
 |  |  |  |  |
