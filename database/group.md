@@ -12612,7 +12612,7 @@ example:
 | hoyhoy colo | ホイホイこーろ |  |  |
 | higashinodou | 東ノ堂 |  |  |
 | imagescript | イメージscript |  |  |
-| kawaiso nanoha nukeru | かわいそうなのは抜ける |  |  |
+| kawaiso nanoha nukeru | かわいそうなのは抜ける |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG62433.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=205118/) \| [Ci-en](https://ci-en.dlsite.com/creator/14622) |
 | jinsei saboribu | 人生サボり部 |  |  |
 | mori no michi | 森の道 |  |  |
 | studio yama roman | スタジオ山ロマン |  | [pixiv](https://www.pixiv.net/users/48779474) [X](https://x.com/yamaroman_CG) |
