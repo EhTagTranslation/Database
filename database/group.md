@@ -11984,7 +11984,7 @@ example:
 | whitecheese | ほわいとちぃず |  |  |
 | whitecute | WhiteCute |  |  |
 | whitemoor | WhiteMoor |  |  |
-| whitepink | ホワイトピンク |  |  |
+| whitepink | ホワイトピンク |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29066/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG22409.html) |
 | whitewill | WHITEWILL |  |  |
 | wi-fe hacker | Wi-Fe hacker |  |  |
 | wild duck | WILD DUCK |  |  |
