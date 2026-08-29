@@ -10186,6 +10186,7 @@ example:
 | shiroji | 白司 | 出自作品:`honogurashi no niwa` |  |
 | kuukyo no sylvaril | 空虚的希尔瓦莉尔 | ![](https://static.wikia.nocookie.net/mushokutensei/images/e/ee/Sylvaril-Anime-FullBody.png)<br>日语：空虚のシルヴァリル<br>出自作品:`mushoku tensei` |  |
 | perugius dola | 佩尔基乌斯・朵拉 | ![](https://static.wikia.nocookie.net/mushokutensei/images/7/7c/Perugius-Anime-FullBody.png)<br>日语：ペルギウス・ドーラ<br>出自作品:`mushoku tensei` |  |
+| tsaritsa | 安娜丝塔夏·费奥多罗夫娜·雪奈茨娜娅 | ![](https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Tsaritsa_Illustration.png)<br>出自作品:`genshin impact` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
