@@ -10175,6 +10175,7 @@ example:
 | marian andreotti | 茉莉安·安德烈奥蒂 | ![](https://static.wikia.nocookie.net/snowbreak/images/e/ef/Mariansprite.png)<br>![](https://static.wikia.nocookie.net/snowbreak/images/9/9d/Aquila.gif)<br>出自作品:`snowbreak containment zone` |  |
 | keigetsu shu | 朱慧月 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b2/a3/172977_crt_qFlft.jpg?r=1755866180)<br>出自作品:`futsutsuka na akujo dewa gozaimasu ga` |  |
 | reirin kou | 黃玲琳 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d5/8d/172978_crt_181pI.jpg?r=1755866160)<br>出自作品:`futsutsuka na akujo dewa gozaimasu ga` |  |
+| nia liston | 倪亚‧利斯顿 | ![](https://lain.bgm.tv/r/400/pic/crt/l/7f/0c/200891_crt_o6qzy.jpg)<br>出自作品:`kyouran reijou nia liston` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
