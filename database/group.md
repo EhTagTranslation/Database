@@ -13737,7 +13737,7 @@ example:
 | nyarisu | にゃりす |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200204/) |
 | fusha fusha kingdom | ふしゃふしゃ王国 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01025190.html) |
 | kokkyou oudan | くろすかんとりい。 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG55620.html) |
-| warabi mochi seisakujo | わらび餅製作所 |  |  |
+| warabi mochi seisakujo | わらび餅製作所 | 日语: わらびもち製作所 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01065496.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=228940/) |
 | namaitati teishoku | 生イタチ定食 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01008778.html) |
 | center field | センターフィールド |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48576.html) |
 | grande melone | grande melone |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57529.html) |
