@@ -14212,6 +14212,7 @@ example:
 | shimimaru seisakusho | 紙魚丸製作所 |  |  |
 | shichishinkan | 七心馆 |  |  |
 | hatsui tsumo | 初井つも |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77015/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53047.html) \| [FANBOX](https://hatsuitsumo.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/11379577) \| [X](https://x.com/hatsuitsumo) \| [BOOTH](https://hatsuitsumo.booth.pm/) |
+| nigatsu no santousei | 二月の三等星 |  | [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=28567) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
