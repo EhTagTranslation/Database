@@ -14620,7 +14620,7 @@ example:
 | nobeji kazuwo | ノベジカズヲ |  |  |
 | si-man | しーまん |  |  |
 | nini no yobikata | 任意の呼び方 |  |  |
-| omurice | オムライス |  |  |
+| omurice | オムライス | 推特名: Omu\_らいす | [X](https://x.com/omurice1216) \| [pixiv](https://www.pixiv.net/users/28091583) \| [Pawoo](https://pawoo.net/@omuris1216) |
 | 5t | 5T |  | [FANBOX](https://ttttt.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/66753557) \| [X](https://x.com/5t_000) |
 | frozen spider lily | Frozenspiderlily |  |  |
 | kazenami | かぜなみ |  | [FANBOX](https://kazenami.fanbox.cc/) \| [X](https://x.com/ka_ze_na_mi) \| [pixiv](https://www.pixiv.net/users/91993794) \| [Skeb](https://skeb.jp/@ka_ze_na_mi) |
