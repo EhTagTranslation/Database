@@ -2998,6 +2998,7 @@ example:
 | futsutsuka na akujo dewa gozaimasu ga | 雏宫蝶鼠换身传 | ![](https://lain.bgm.tv/r/400/pic/cover/l/14/a1/545008_pNnzQ.jpg)<br>全名：恶女不才，请多关照 ～雏宫蝶鼠换身传～<br>日语：ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～<br>作者：中村颯希 |  |
 | legend of mortal | 活侠传 | ![](https://lain.bgm.tv/r/400/pic/cover/l/85/d8/385177_zOIk7.jpg) |  |
 | kyouran reijou nia liston | 乱世千金倪亚‧利斯顿 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f8/13/398182_QaI8x.jpg)<br>全名：乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录<br>日语：凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録 |  |
+| pukey goddess shot trick | 酒鬼女神的酒诡 | ![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4150720/20a0f0a6f33f028e6879ac73efccc9cd506e0589/header_schinese.jpg?t=1778427552) | [Steam](https://steamcommunity.com/app/4150720) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
