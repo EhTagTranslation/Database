@@ -7533,7 +7533,7 @@ example:
 | marutori no chazuke | 丸鳥の茶漬け |  |  |
 | marvelous zents | Marvelous Zents |  |  |
 | mary no yamai | メリィの病 |  |  |
-| mashimin koubou | ましみん工房 |  |  |
+| mashimin koubou | ましみん工房 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79870/) |
 | mashiro no hihoukan | 真城の秘宝館 |  |  |
 | mashomaro | マショ麻呂 |  |  |
 | masmenos | マスメノス |  |  |
