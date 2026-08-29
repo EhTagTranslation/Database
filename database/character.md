@@ -10174,6 +10174,7 @@ example:
 | red rose | 红蔷薇 | ![](https://static.wikia.nocookie.net/silverpalace/images/4/47/Red_Rose_Splash_Art.png)<br>出自作品:`silver palace` |  |
 | marian andreotti | 茉莉安·安德烈奥蒂 | ![](https://static.wikia.nocookie.net/snowbreak/images/e/ef/Mariansprite.png)<br>![](https://static.wikia.nocookie.net/snowbreak/images/9/9d/Aquila.gif)<br>出自作品:`snowbreak containment zone` |  |
 | keigetsu shu | 朱慧月 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b2/a3/172977_crt_qFlft.jpg?r=1755866180)<br>出自作品:`futsutsuka na akujo dewa gozaimasu ga` |  |
+| reirin kou | 黃玲琳 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d5/8d/172978_crt_181pI.jpg?r=1755866160)<br>出自作品:`futsutsuka na akujo dewa gozaimasu ga` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
