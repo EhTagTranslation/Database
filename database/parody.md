@@ -2994,6 +2994,7 @@ example:
 | concrete revolutio | Concrete Revolutio 超人幻想 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e7/8c/139022_DygC6.jpg)<br>日语：コンクリート・レボルティオ～超人幻想～ |  |
 | mikata ga yowasugite hojo mahou ni tesshiteita kyuutei mahoushi | 队友太弱所以贯彻辅助的宫廷魔法师 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ea/df/545842_AxVDu.jpg)<br>全名：队友太弱所以贯彻辅助的宫廷魔法师，惨遭流放目标却是最强<br>日语：味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す |  |
 | kageki shojo | 歌剧少女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5f/55/317680_Qw1WR.jpg)<br>日语：かげきしょうじょ |  |
+| silver palace | 白银之城 | ![](https://static.wikia.nocookie.net/silverpalace/images/3/3f/SPlogo.png)<br>![](https://static.wikia.nocookie.net/silverpalace/images/3/3c/Silver_Palace_Cover_Art.jpg)<br>《白银之城》是由乐元素研发的一款开放世界动作类游戏。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
