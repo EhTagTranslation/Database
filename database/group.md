@@ -14216,6 +14216,7 @@ example:
 | epi nyuugyou | えぴ乳業 |  | [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=116299) |
 | hadukitto | はづきっと！ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78449/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01012607.html) |
 | hoikuen | ほいくえん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01062728.html) |
+| yuchiberurin | ゆちべるりん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01052793.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
