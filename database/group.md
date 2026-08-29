@@ -13575,7 +13575,7 @@ example:
 | nf-freak | NFフリーク |  |  |
 | pomi sword | ぽみソード |  |  |
 | elemental erogenous zone | エレメンタル性感帯 |  |  |
-| green solenoid | グリーンソレノイド |  |  |
+| green solenoid | グリーンソレノイド |  | [BOOTH](https://omuraice.booth.pm/) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=207827/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG61400.html) |
 | circle kagemusya | サークル影武者 |  |  |
 | kogomekai | 小米堂 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47672.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79058/) |
 | surface tremble | surface tremble |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01008336.html) |
