@@ -15654,6 +15654,7 @@ example:
 | anulita | アヌリタ |  | [pixiv](https://www.pixiv.net/users/32135175) \| [X](https://x.com/anulita100) \| [Skeb](https://skeb.jp/@anulita100) |
 | zawashi | ざわし |  | [FANBOX](https://zawasey3040.fanbox.cc/) \| [X](https://x.com/zawashio1013) \| [pixiv](https://www.pixiv.net/users/63826698) \| [Skeb](https://skeb.jp/@zawashio1013) |
 | ajisawa aji | 鯵沢あじ |  | [X](https://x.com/aji_1053) \| [Skeb](https://skeb.jp/@ajisawa1053) \| [Misskey.io](https://misskey.io/@aji_1332) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01054971.html) |
+| aki hirame | 秋ひらめ |  | [Lit.Link](https://lit.link/en/akihirame) \| [FANBOX](https://akihila.fanbox.cc/) \| [X](https://x.com/pieces_4ll) \| [pixiv](https://www.pixiv.net/users/55811) \| [Skeb](https://skeb.jp/@pieces_4ll) |
 
 <!--TEMPLATE:
 |  |  |  |  |
