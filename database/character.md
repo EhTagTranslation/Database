@@ -10181,6 +10181,7 @@ example:
 | connie | 康妮 | ![](https://static.wikia.nocookie.net/spy-x-family9171/images/9/98/Connie_Anime_Infobox.png)<br>日语：コニー<br>出自作品:`spy x family` |  |
 | twinkle girl | 闪亮少女 | ![](https://static.wikia.nocookie.net/megaman/images/2/20/Twinkle_Girl_-_MM_Dual_Override_artwork.png)<br>出自作品:`megaman`<br>首次登场于《洛克人：双重覆盖》（Mega Man: Dual Override） |  |
 | ilia coral | 伊莉雅·克拉尔 | ![](https://static.wikia.nocookie.net/tenten-kakumei/images/8/80/Ilia_anime_design_%28v2%29.png)<br>日语：イリア・コーラル<br>出自作品:`tensei oujo to tensai reijou no mahou kakumei` |  |
+| femme soule | 梵·醺儿 | 出自作品:`pukey goddess shot trick` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
