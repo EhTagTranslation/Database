@@ -13547,7 +13547,7 @@ example:
 | meganeya honpo | 眼镜屋本铺 | 眼鏡屋本舗 |  |
 | papyrus | ぱぴるす |  |  |
 | tarobaumu | たろバウム |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76196/) |
-| uraaka | 裏垢 |  |  |
+| uraaka | 裏垢 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG50776.html) |
 | ikenosoko | イケノソコ |  |  |
 | binbin honpo | ビンビン本舗 |  |  |
 | dekai tsuno | でかいツノ |  |  |
