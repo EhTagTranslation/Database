@@ -6614,7 +6614,7 @@ example:
 | lu shaotang | 陆少糖 | 所属作品：`sakamoto days`<br>![](https://ehgt.org/w/01/916/23284-l8uq0bn9.webp)<br>坂本商店的成员。双亲被敌对组织杀害后被坂本太郎救出，有着过人的拳法。 |  |
 | boise | 博伊西（树城） | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/2b965597a75bf0791c618baec63a535d262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/7fac71d120a6c0c0bb6bf76a19e9e04b262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:博伊西) |
 | sussex | 苏塞克斯 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/0bf34249185ca3ef4249e78fe60d65e9262400697.png)<br>其原型为英国皇家海军苏塞克斯号重巡洋舰（HMS Sussex(96)）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:苏塞克斯) |
-| angelica rapha redgrave | 安洁莉卡·拉法·雷德格里夫 | 所属作品：`otome game sekai wa mob ni kibishii sekai desu`<br>![](https://ehgt.org/w/02/094/41354-8tmy6tcb.webp) |  |
+| angelica rapha redgrave | 安洁莉卡·拉法·雷德格里夫 | ![](https://static.wikia.nocookie.net/otome-games-is-tough-for-mobs/images/6/6b/Angie-01_Anime.png)<br>所属作品：`otome game sekai wa mob ni kibishii sekai desu` |  |
 | nonoa miyamae | 宫前乃乃亚 | ![](https://static.wikia.nocookie.net/roshidere/images/a/a2/Nonoa_Design_S2.png)<br>所属作品：`tokidoki bosotto russia-go de dereru tonari no alya-san`<br>谷山沙也加的儿时玩伴。 | [Fandom](https://roshidere.fandom.com/wiki/Nonoa_Miyamae) |
 | miharu ayase | 绫濑美春 | ![](https://seireigensouki.com/1st/wp-content/themes/seirei_honban/assets/img/page/chara-pic05.png)<br>所属作品: `p:seirei gensouki` |  |
 | miuna shiodome | 潮留美海 | ![](https://static.wikia.nocookie.net/naginoasukara/images/7/79/Miunacharacter_16.png)<br>所属作品：`nagi no asukara` |  |
