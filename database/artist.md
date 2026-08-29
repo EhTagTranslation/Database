@@ -450,7 +450,7 @@ example:
 | shimuu | しゃむ |  |  |
 | rie-chan 14-sai | りえちゃん14歳 |  |  |
 | fukori | フコリ |  |  |
-| shinyashiki | 新屋敷 |  |  |
+| shinyashiki | 新屋敷 |  | [pixiv](https://www.pixiv.net/users/2067821) \| [FANBOX](https://kaokuba00.fanbox.cc/) \| [X](https://x.com/7ked) \| [Fantia](https://fantia.jp/fanclubs/1960) \| [Skeb](https://skeb.jp/@7ked) \| [Lit.Link](https://lit.link/en/shinyashiki) |
 | kanzume | KANZUME |  | [piixiv](https://www.pixiv.net/users/29981) |
 | kishimen | きしめん |  | [pixiv](https://www.pixiv.net/users/7492722) |
 | ken-1 | Ken-1 |  | [X](https://x.com/clowns_ken1) [pixiv](https://www.pixiv.net/users/32288) |
