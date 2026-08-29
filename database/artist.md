@@ -11397,7 +11397,7 @@ example:
 | wanie digital | ワニデジタル |  |  |
 | wanriky | 腕力 |  |  |
 | wantaro | ワン夕口 |  |  |
-| wap | WaP |  |  |
+| wap | WaP |  | [Ci-en](https://ci-en.dlsite.com/creator/702) \| [Skeb](https://skeb.jp/@white_and_pink) \| [X](https://x.com/white_and_pink) \| [Misskey.io](https://misskey.io/@whiteandpink_wap) |
 | wapokichi | わぽ吉 |  |  |
 | warabi yuuzou | わらびゆうぞう |  |  |
 | warashibe | わらしべ |  |  |
