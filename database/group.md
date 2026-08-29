@@ -13270,7 +13270,7 @@ example:
 | shinkai-kajuen | 深海果樹園 |  |  |
 | aparachiya | アパラチ屋 |  |  |
 | himonoya | 干物屋 | 飛者的同人社团，主要作品为东方Project二次创作 | [https://www.melonbooks.co.jp/circle/index.php?circle\_id=112486](https://www.melonbooks.co.jp/circle/index.php?circle_id=112486) |
-| tokyo ereki studio | 東京電気スタジオ |  |  |
+| tokyo ereki studio | 東京電気スタジオ | 東京エレキスタジオ | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=219288/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01012584.html) |
 | maid-tou | めいど党 |  |  |
 | haitoku no mori | はいとくのもり |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG58872.html) |
 | shibaiinu nisei | シバイーヌ二世 |  |  |
