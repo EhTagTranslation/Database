@@ -15661,6 +15661,7 @@ example:
 | nagumo naruse | 南雲なるせ |  | [X](https://x.com/naltal3) \| [pixiv](https://www.pixiv.net/users/12358712) \| [Lit.Link](https://lit.link/en/naltal) |
 | parapara | ぱらぱら |  | [pixiv](https://www.pixiv.net/users/51841726) |
 | shachou | 社長 |  | [pixiv](https://www.pixiv.net/users/4455022) \| [X](https://x.com/mr_mr_pr_pr) |
+| simejitake | しめじたけ |  | [pixiv](https://www.pixiv.net/users/37656328) \| [X](https://x.com/motunabe_umauma) \| [Skeb](https://skeb.jp/@motunabe_umauma) \| [FANBOX](https://simeji-0624.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
