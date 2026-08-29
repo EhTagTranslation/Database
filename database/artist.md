@@ -15658,6 +15658,7 @@ example:
 | asaka | 安佐川 |  | [pixiv](https://www.pixiv.net/users/630462) \| [X](https://x.com/asaka142) \| [Skeb](https://skeb.jp/@asaka142) |
 | epi | えぴ |  | [pixiv](https://www.pixiv.net/users/2849686) \| [X](https://x.com/epi_zero) \| [Skeb](https://skeb.jp/@epi_zero) \| [Lit.Link](https://lit.link/en/epi0) |
 | hadukinton | はづきんとん |  | [X](https://x.com/Haduki_As) \| [pixiv](https://www.pixiv.net/users/27310337) \| [Skeb](https://skeb.jp/@Haduki_As) |
+| nagumo naruse | 南雲なるせ |  | [X](https://x.com/naltal3) \| [pixiv](https://www.pixiv.net/users/12358712) \| [Lit.Link](https://lit.link/en/naltal) |
 
 <!--TEMPLATE:
 |  |  |  |  |
