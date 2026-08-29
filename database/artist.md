@@ -15662,6 +15662,7 @@ example:
 | parapara | ぱらぱら |  | [pixiv](https://www.pixiv.net/users/51841726) |
 | shachou | 社長 |  | [pixiv](https://www.pixiv.net/users/4455022) \| [X](https://x.com/mr_mr_pr_pr) |
 | simejitake | しめじたけ |  | [pixiv](https://www.pixiv.net/users/37656328) \| [X](https://x.com/motunabe_umauma) \| [Skeb](https://skeb.jp/@motunabe_umauma) \| [FANBOX](https://simeji-0624.fanbox.cc/) |
+| yuchiberu | ユチberu |  | [FANBOX](https://yuchiberu.fanbox.cc/) \| [X](https://x.com/aronadaisuki) \| [Skeb](https://skeb.jp/@yuchiberu) \| [pixiv](https://www.pixiv.net/users/43816469) \| [Misskey.io](https://misskey.io/@yuchiberu) |
 
 <!--TEMPLATE:
 |  |  |  |  |
