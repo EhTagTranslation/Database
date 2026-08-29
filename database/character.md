@@ -10179,7 +10179,7 @@ example:
 | chin-lan chang | 张景岚 | ![](https://ami.animecharactersdatabase.com/images%20of/Zhang%20Jinglan/from/Kamiina%20Botan%20Yoeru%20Sugata%20wa%20Yuri%20no%20Hana/uploads/chars/67712-620243596.png)<br>日语：チャン・ジンラン<br>出自作品:`kamiina botan yoeru sugata wa yuri no hana` |  |
 | kanade gujou | 郡上奏 | ![](https://ami.animecharactersdatabase.com/images%20of/Kanade%20Gujou/from/Kamiina%20Botan%20Yoeru%20Sugata%20wa%20Yuri%20no%20Hana/uploads/chars/67712-2122183204.png)<br>日语：郡上かなで<br>出自作品:`kamiina botan yoeru sugata wa yuri no hana` |  |
 | connie | 康妮 | ![](https://static.wikia.nocookie.net/spy-x-family9171/images/9/98/Connie_Anime_Infobox.png)<br>日语：コニー<br>出自作品:`spy x family` |  |
-| twinkle girl | 闪亮女孩 | ![](https://static.wikia.nocookie.net/megaman/images/2/20/Twinkle_Girl_-_MM_Dual_Override_artwork.png)<br>出自作品:`megaman`<br>首次登场于《洛克人：双重覆盖》（Mega Man: Dual Override） |  |
+| twinkle girl | 闪亮少女 | ![](https://static.wikia.nocookie.net/megaman/images/2/20/Twinkle_Girl_-_MM_Dual_Override_artwork.png)<br>出自作品:`megaman`<br>首次登场于《洛克人：双重覆盖》（Mega Man: Dual Override） |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
