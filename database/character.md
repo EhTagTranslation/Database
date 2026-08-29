@@ -10184,6 +10184,7 @@ example:
 | femme soule | 梵·醺儿 | 出自作品:`pukey goddess shot trick` |  |
 | komako | 驹子 | 出自作品:`honogurashi no niwa` |  |
 | shiroji | 白司 | 出自作品:`honogurashi no niwa` |  |
+| kuukyo no sylvaril | 空虚的希尔瓦莉尔 | ![](https://static.wikia.nocookie.net/mushokutensei/images/e/ee/Sylvaril-Anime-FullBody.png)<br>日语：空虚のシルヴァリル<br>出自作品:`mushoku tensei` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
