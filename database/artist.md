@@ -2969,7 +2969,7 @@ example:
 | kazawa | かざわ |  | [X](https://x.com/kazawa_second) [pixiv](https://www.pixiv.net/users/155237) |
 | nukaji | ぬかじ | 曾用笔名：wizakun | [X](https://x.com/nukaji234011) [pixiv](https://www.pixiv.net/users/662861) |
 | negresco | Negresco |  | [X](https://x.com/Negrescore0) [pixiv](https://www.pixiv.net/users/1657068) |
-| navia | なびあ |  | [X](https://x.com/2015chaosgroup) [pixiv](https://www.pixiv.net/users/4306147) |
+| navia | 上村なびあ |  | [X](https://x.com/2015chaosgroup) [pixiv](https://www.pixiv.net/users/4306147) |
 | sagaraten | 纱柄天 |  |  |
 | naoto | naoto |  | [X](https://x.com/naoto_moni) [pixiv](https://www.pixiv.net/users/246106) |
 | green | GreeN |  | [X](https://x.com/greeen_jp) [pixiv](https://www.pixiv.net/users/5134892) |
