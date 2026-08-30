@@ -3001,6 +3001,7 @@ example:
 | pukey goddess shot trick | 酒鬼女神的酒诡 | ![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4150720/20a0f0a6f33f028e6879ac73efccc9cd506e0589/header_schinese.jpg?t=1778427552) | [Steam](https://steamcommunity.com/app/4150720) |
 | honogurashi no niwa | 静谧田园 | ![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3934250/d7c9d58e22ebd7ed3f9e70d1e25f730f3959a324/header_schinese.jpg?t=1785440016) | [Steam](https://store.steampowered.com/app/3934250/_/) |
 | domestic na kanojo | 家有女友 | ![](https://lain.bgm.tv/r/400/pic/cover/l/33/f9/253628_F42y2.jpg)<br>日语：ドメスティックな彼女 |  |
+| barb wire | 越空追击 | 1996年美国科幻动作片 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
