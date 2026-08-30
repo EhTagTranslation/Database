@@ -81,8 +81,8 @@ example:
 |  | === 上下文 > 亲属 === |  |  |
 | incest | 乱伦 | 亲属之间的性行为，包括无血缘关系的人。将发送图库到思念峡湾。 |  |
 | inseki | 姻亲 | 无血缘关系的亲属之间的性行为。需要`incest`标签。 |  |
-|  | == Low Presence == | == 低存在 == |  |
-| low incest | 低存在乱伦 | 表示`incest`的情况没有通过存在规则(presence rule)。需要`incest`标签。 |  |
+|  | == Low Presence == | == 低比例 == |  |
+| low incest | 低比例乱伦 | 表示`incest`的情况没有通过存在规则(presence rule)。需要`incest`标签。 |  |
 
 <!--
 Template: 

@@ -669,17 +669,17 @@ example:
 | hidden sex | 隐蔽性交 | 性行为发生在第三方的面前，但不被看见。 |  |
 | humiliation | 屈辱 | 在未参与的观众面前，以性方式非正当地侮辱人。 |  |
 | voyeurism | 偷窥 | 对从事性行为（也包括脱衣和如厕）的人进行偷窥。 |  |
-|  | == Low Presence == | == 低存在 == |  |
-| low bestiality | 低存在兽交 | 表示`bestiality`的情况没有通过存在规则(presence rule)。需要`bestiality`标签。 |  |
-| low guro | 低存在猎奇 | 表示`guro`的情况没有通过存在规则(presence rule)。需要`guro`标签。 |  |
-| low incest | 低存在乱伦 | 表示`incest`的情况没有通过存在规则(presence rule)。需要`incest`标签。 |  |
-| low scat | 低存在排便 | 表示`scat`的情况没有通过存在规则(presence rule)。需要`scat`标签。 |  |
-| low shotacon | 低存在正太 | 表示`shotacon`的情况没有通过存在规则(presence rule)。需要`shotacon`标签。 |  |
-| low smegma | 低存在阴垢 | 表示`smegma`的情况没有通过存在规则(presence rule)。需要`smegma`标签。 |  |
-|  | == High Presence == | == 高存在 == |  |
-| focus anal | 高存在肛交 | 图库超过 50% 的内容为`anal`。需要`anal`标签。 |  |
-| focus blowjob | 高存在口交 | 图库超过 50% 的内容为`blowjob`。需要`blowjob`标签。 |  |
-|  | focus cunnilingus高存在舔阴 | 图库超过 50% 的内容为`cunnilingus`。需要`cunnilingus`标签。 |  |
-| focus handjob | 高存在手交 | 图库超过50%的图片为`handjob`，需要`handjob`标签。 |  |
-| focus paizuri | 高存在乳交 | 图库超过 50% 的内容为`paizuri`。需要`paizuri`标签。 |  |
-| focus rimjob | 高存在舔肛 | 图库超过 50% 的内容为`rimjob`。需要`rimjob`标签。 |  |
+|  | == Low Presence == | == 低比例 == |  |
+| low bestiality | 低比例兽交 | 表示`bestiality`的情况没有通过存在规则(presence rule)。需要`bestiality`标签。 |  |
+| low guro | 低比例猎奇 | 表示`guro`的情况没有通过存在规则(presence rule)。需要`guro`标签。 |  |
+| low incest | 低比例乱伦 | 表示`incest`的情况没有通过存在规则(presence rule)。需要`incest`标签。 |  |
+| low scat | 低比例排便 | 表示`scat`的情况没有通过存在规则(presence rule)。需要`scat`标签。 |  |
+| low shotacon | 低比例正太 | 表示`shotacon`的情况没有通过存在规则(presence rule)。需要`shotacon`标签。 |  |
+| low smegma | 低比例阴垢 | 表示`smegma`的情况没有通过存在规则(presence rule)。需要`smegma`标签。 |  |
+|  | == High Presence == | == 高比例 == |  |
+| focus anal | 高比例肛交 | 图库超过 50% 的内容为`anal`。需要`anal`标签。 |  |
+| focus blowjob | 高比例口交 | 图库超过 50% 的内容为`blowjob`。需要`blowjob`标签。 |  |
+|  | focus cunnilingus高比例舔阴 | 图库超过 50% 的内容为`cunnilingus`。需要`cunnilingus`标签。 |  |
+| focus handjob | 高比例手交 | 图库超过50%的图片为`handjob`，需要`handjob`标签。 |  |
+| focus paizuri | 高比例乳交 | 图库超过 50% 的内容为`paizuri`。需要`paizuri`标签。 |  |
+| focus rimjob | 高比例舔肛 | 图库超过 50% 的内容为`rimjob`。需要`rimjob`标签。 |  |
