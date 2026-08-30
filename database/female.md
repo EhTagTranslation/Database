@@ -645,7 +645,7 @@ example:
 |  | == Disability == | == 残疾 == |  |
 | blind | 失明 | 眼睛根本不能发挥作用的人。不应与`blindfold`混淆。 |  |
 | handicapped | 残疾 | 一个不能依靠自己的力量移动自己的一个或多个肢体的人。不应与`amputee`或`bondage`混淆。 |  |
-| mute | 哑巴 | 一个不能说话的人。不应用于不愿说话的人或戴`gag`的人。不用于`speechless`图库。 |  |
+| mute | 哑巴 | 一个不能说话的人。不应用于不愿说话的人或戴`gag`的人。不用于`textless narrative`图库。 |  |
 |  | == Consumption == | == 消费 == |  |
 | full tour | 消化道游览 | 一个角色被另一个角色整个吞下，穿过其消化系统，然后从肛门活着出来。只计算出现角色穿过消化系统的页面。可能援引`vore`标签。不应与`all the way through`混淆。 |  |
 |  | == Gender == | == 性别 == |  |
