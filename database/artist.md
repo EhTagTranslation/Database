@@ -1505,7 +1505,6 @@ example:
 | akasa ai | あかさあい |  |  |
 | mizu umi | 瑞海 |  | [pixiv](https://www.pixiv.net/users/10385328) |
 | hisato | ひさと |  |  |
-| gyuunyuu nomio | 牛乳乃澪 | 牛乳のみお<br>日本漫画家<br>牛乳乃澪出身自北海道，2012年12月2日起在《NicoNico静画》上连载作品《`joshi shougakusei hajimemashita`》，浏览人数达400万，受到萝莉控漫画读者欢迎。<br>[今天开始当女子小学生 - 维基百科](https://zh.wikipedia.org/wiki/今天開始當小學女生P！)<br><br>[[ニコニコ静画]女子小学生はじめました ](https://seiga.nicovideo.jp/comic/3770)<br>![图](# "https://ehgt.org/b7/8d/b78da5440c2e3871bb1d59e3602170f4c168e560-934221-1600-2265-jpg_l.jpg")<br><br>原创同人本《ちじょじょじょ》痴女小学生系列<br>![图](# "https://ehgt.org/41/a1/41a13723f5a6f92827485e657090afec67b3c655-1169474-2110-3000-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/10431460) [维基百科](https://zh.wikipedia.org/wiki/牛乳乃澪) |
 | konkichi | 绀吉 |  |  |
 | butcherboy | ButcherBOY |  | [pixiv](https://www.pixiv.net/users/2367927) |
 | aim | AIM |  |  |
@@ -3698,7 +3697,6 @@ example:
 | sazaemu | さざえむ |  | [pixiv](https://www.pixiv.net/users/29680821) [X](https://x.com/sazaemu) |
 | gunjou | 群青 |  | [pixiv](https://www.pixiv.net/users/5359885) |
 | takaman | 高馒 | ![X](https://pbs.twimg.com/profile_images/1445279404095991816/HnKxMZOU_400x400.jpg)<br><br>**作者推特头像**<br><br>同人社团`solo play`主笔画师 | [X](https://x.com/vakan12) [pixiv](https://www.pixiv.net/users/2722726) |
-| xiaoxi | 小西0619 |  | [X](https://x.com/xiaoxi_0619) [pixiv](https://www.pixiv.net/users/12218414) [微博](https://weibo.com/u/5241210893) |
 | arimura daikon | 有村大根 | ![X](https://pbs.twimg.com/profile_images/1419196015110807553/yVoxJh3z_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/daikon_am) [pixiv](https://www.pixiv.net/users/15583732) |
 | toyama burin | 遠山ブリン |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG55925.html) |
 | tsukai you | 塚井ヨウ | 似乎已封笔<br>![X](https://ehgt.org/4d/07/4d0716b7c1c09632df5366a121d85f92c4f8ea06-56060-373-373-jpg_l.jpg) | [X](https://x.com/bktohs3) [pixiv](https://www.pixiv.net/users/351549) |
@@ -4494,7 +4492,7 @@ example:
 | blue impulse | ブルーインパルス |  |  |
 | blz | BLZ |  |  |
 | bmg | bmg |  |  |
-| bnr | BNR |  |  |
+| b.n.r. | B.N.R. |  |  |
 | bob jr | ボブJr |  |  |
 | bob kosugi | ボブ小杉 |  |  |
 | bob r | 暴武R |  |  |
@@ -8883,7 +8881,6 @@ example:
 | nuu | ヌゥ |  |  |
 | nuyakana | ぬャカな |  |  |
 | nwonyo | んをんよ |  |  |
-| ny-o-ph | NY-O-PH |  |  |
 | nyagomaru | にゃご丸 |  |  |
 | nyahu | 睦月にゃふ |  |  |
 | nyakaaki | にゃかあき |  |  |
@@ -11670,7 +11667,6 @@ example:
 | yoko juusuke | 横十輔 |  |  |
 | yoko mawatari | 馬渡ようこ |  |  |
 | yokohachi | よこはち |  |  |
-| yokosima | 縦縞キタ |  |  |
 | yokota mamoru | 横田守 |  |  |
 | yokoyama kouji | 横山コウジ |  |  |
 | yokoyama michiru | 横山ミチル |  |  |
@@ -11751,7 +11747,6 @@ example:
 | yositama | ヨシタマ |  |  |
 | yosomono | よそ者 |  |  |
 | yosuke | ヨースケ |  |  |
-| yosyo- | いきなりもじお | ※自2021年6月19日起，名称已从「ヨショー」变更为「いきなりもじお」 | [X](https://x.com/iknrmjo) \| [pixiv](https://www.pixiv.net/users/8850034) |
 | yotaka | 夜鷹 \| よたか |  |  |
 | yotarou | 夜太弄 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22夜太弄%22/ana_flg/all) |
 | yotsuba yuiko | 四葉ゆいこ |  |  |
@@ -12512,7 +12507,6 @@ example:
 | musui ethanol | 無水エタノール |  | [pixiv](https://www.pixiv.net/users/41280283) [X](https://x.com/GorillArtist) |
 | mori sinrisk | 森シンリスク |  | [pixiv](https://www.pixiv.net/users/3433) [X](https://x.com/sinrisk) |
 | moegi | 萌葱 |  |  |
-| kikomuhito | 着込む人 |  |  |
 | elegant | えれがんと |  | [pixiv](https://www.pixiv.net/users/16333896) [X](https://x.com/Elegant1266) |
 | tonyman plus | トニーマン+ |  | [pixiv](https://www.pixiv.net/users/1262834) [X](https://x.com/Tonyman_Sister) [HP](http://deadassembly.blog133.fc2.com/) |
 | shimetsuki tanki | 湿月タンキ |  | [pixiv](https://www.pixiv.net/users/43542154) [X](https://x.com/simetuki_tanki) |
@@ -13417,7 +13411,7 @@ example:
 | arayuki | 沐雪Arayuki |  |  |
 | mashiko | ましこ |  |  |
 | nanahara mitsuru | 七原みつる |  | [pixiv](https://www.pixiv.net/users/65531566) \| [X](https://x.com/nanaharamitsuru) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202946/) |
-| osanai nii | 小山内にい |  | [pixiv](https://www.pixiv.net/users/86060353) |
+| osanai nii | 小山内にい | 牛乳乃澪 | [pixiv](https://www.pixiv.net/users/86060353) |
 | evan yang | Evan☆揚 |  |  |
 | evanyi | EVANYI |  |  |
 | utsunomiya tsumire | 宇都宮つみれ |  |  |
@@ -15386,7 +15380,6 @@ example:
 | sakanaya | sakanaya |  | [pixiv](https://www.pixiv.net/users/89663352) \| [FANBOX](https://sakanaya.fanbox.cc/) \| [X](https://x.com/sakanaya952) \| [Skeb](https://skeb.jp/@sakanaya952) |
 | jimpu6 | JimPu6 |  | [Patreon](https://www.patreon.com/u31202903) \| [FANBOX](https://jimpu6.fanbox.cc/) |
 | nyarome | にゃろメ |  | [FANBOX](https://z3c407ot.fanbox.cc/) \| [X](https://x.com/nya6ome) \| [pixiv](https://www.pixiv.net/users/16051451) \| [Lit.Link](https://lit.link/en/nya6ome) |
-| koi kakeru shinai kanojo | 想要传达给你的爱恋 |  |  |
 | nunemaru | ぬね丸 |  |  |
 | thikiso takeda | ティキソー竹田 |  |  |
 | mochinabe | もち鍋 |  |  |
@@ -15403,7 +15396,6 @@ example:
 | kisarazu yuu | 木更津侑 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=eb684b79-64d3-11f0-ba33-0242ac160002/section=mens/) |
 | momo irone | ももいろね |  |  |
 | kazumasa | カズマサ |  |  |
-| yuzu-soft | 柚子社 |  |  |
 | yuri nayuta | 悠理なゆた |  |  |
 | gurasion | ぐらしおん |  |  |
 | osushi 961 | おすし961 |  |  |
