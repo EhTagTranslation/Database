@@ -315,8 +315,8 @@ example:
 |  | === 手臂 > 手 === |  |  |
 | fisting | 拳交💪 | 将拳头插入阴道或肛门。<br>![图](# "https://ehgt.org/6e/34/6e348febf1e485d8187f60ef373c70e378de9f6e-907460-2024-1239-jpg_l.jpg")![图](# "https://ehgt.org/2d/7c/2d7c584f2d8dd98efe2ecdd77e83bff63c54a19e-197747-595-841-png_l.jpg") |  |
 | gloves | 手套 | 覆盖手和手指的衣服。可以向肩部延伸至手臂。 |  |
-| handjob | 打手枪 | 为其他人手淫。不应与`masturbation`混淆。<br>![图](# "https://ehgt.org/02/e7/02e79607efae17120115dafd18be129fd575d165-638605-1024-576-png_l.jpg") |  |
-| multiple handjob | 多重打手枪 | 多人为另一人人手淫。需要`handjob`标签。 |  |
+| handjob | 手交 | 为其他人手淫。不应与`masturbation`混淆。<br>![图](# "https://ehgt.org/02/e7/02e79607efae17120115dafd18be129fd575d165-638605-1024-576-png_l.jpg") |  |
+| multiple handjob | 多重手交 | 多人为另一人人手淫。需要`handjob`标签。 |  |
 |  | == 胸部 == |  |  |
 |  | === 胸部 > 乳房 === |  |  |
 | big areolae | 大乳晕 | 应至少达到乳房表面积的1/3。 |  |
@@ -680,5 +680,6 @@ example:
 | focus anal | 高存在肛交 | 图库超过 50% 的内容为`anal`。需要`anal`标签。 |  |
 | focus blowjob | 高存在口交 | 图库超过 50% 的内容为`blowjob`。需要`blowjob`标签。 |  |
 |  | focus cunnilingus高存在舔阴 | 图库超过 50% 的内容为`cunnilingus`。需要`cunnilingus`标签。 |  |
+| focus handjob | 高存在手交 | 图库超过50%的图片为`handjob`，需要`handjob`标签。 |  |
 | focus paizuri | 高存在乳交 | 图库超过 50% 的内容为`paizuri`。需要`paizuri`标签。 |  |
 | focus rimjob | 高存在舔肛 | 图库超过 50% 的内容为`rimjob`。需要`rimjob`标签。 |  |

@@ -54,7 +54,7 @@ example:
 | multimouth blowjob | 多口口交 | 涉及一个阴茎和两个或多个嘴的性行为。需要`blowjob`标签。不应与`double blowjob`混淆。 |  |
 |  | == 手臂 == |  |  |
 |  | === 手臂 > 手 === |  |  |
-| multiple handjob | 多重打手枪 | 多人为另一人人手淫。需要`handjob`标签。 |  |
+| multiple handjob | 多重手交 | 多人为另一人人手淫。需要`handjob`标签。 |  |
 |  | == 下半身 == |  |  |
 |  | === 下半身 > 阴部 === |  |  |
 |  | ==== 下半身 > 阴部 > 阴茎 ==== |  |  |
