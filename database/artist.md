@@ -2469,7 +2469,7 @@ example:
 | yoshida iyo | 吉田 依世 |  | [X](https://x.com/yoshida_iyo) [pixiv](https://www.pixiv.net/users/15584578) |
 | sakura oriko | 佐倉おりこ | ![佐倉おりこ头像](https://i.loli.net/2020/05/13/gwz9o8nyZBUDi7k.jpg)<br>佐倉おりこ是日本的自由插画家、漫画家，现居栃木县，以幻想童话风格世界观为主要描绘题材。活跃于各种书籍中，例如儿童读物，角色设计，绘图，插图技术书籍和漫画。 | [pixiv](https://www.pixiv.net/users/1616936) [X](https://x.com/sakura_oriko) [个人主页](https://www.sakuraoriko.com/) |
 | hinata yuu | ひなた悠 |  | [pixiv](https://www.pixiv.net/users/2067502) [X](https://x.com/hinatan_) |
-| odawara hakone | オダワラハコネ |  | [pixiv](https://www.pixiv.net/users/227274) [X](https://x.com/odawarahakone) |
+| odawara hakone | 小田原箱根(オダワラハコネ) |  | [pixiv](https://www.pixiv.net/users/227274) [X](https://x.com/odawarahakone) |
 | ikari | いかり |  | [pixiv](https://www.pixiv.net/users/9394640) [X](https://x.com/13_ikari) |
 | humuyun | ふむゆん |  | [pixiv](https://www.pixiv.net/users/1680108) [X](https://x.com/hmyn_) |
 | watagashi yui | わたがしゆい |  | [pixiv](https://www.pixiv.net/users/3338926) [X](https://x.com/yui_watagashi) |
