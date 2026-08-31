@@ -489,7 +489,7 @@ example:
 | oreteki18kin | 俺的十八禁 |  |  |
 | dl mate | DLメイト |  |  |
 | kaminagi-tei | 神凪邸 |  |  |
-| execio | エクセシオ |  |  |
+| execio | エクセシオ | ｉｆ （いふ） | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29276/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG20728.html) |
 | seza team | せざちーむ |  |  |
 | shihachirou | 四八楼 |  |  |
 | maccha aji | 抹茶味 |  |  |
