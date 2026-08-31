@@ -13129,7 +13129,7 @@ example:
 | mugimeshiya | むぎめしや |  |  |
 | melt syndrome | メルトシンドローム |  |  |
 | fkrfactory | FKRfactory |  | [X](https://x.com/FKR763) [pixiv](https://www.pixiv.net/users/18072703) |
-| kurosumi yakousho | イタリ屋×黒墨夜行書 |  |  |
+| kurosumi yakousho | イタリ屋×黒墨夜行書 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG22217.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29060/) |
 | nedia region | えぬりーじょん |  |  |
 | hayaku jk ni naritai | はやくJKになりたい |  |  |
 | aihara workshop | 和原工房 |  |  |
