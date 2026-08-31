@@ -1904,7 +1904,7 @@ example:
 | circle-fiore | サークルフィオレ |  |  |
 | popopo | ぽぽぽ |  |  |
 | toushitu catapult | 糖质过多ぱると | 日语: 糖質過多ぱると | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76411/) |
-| ojopie sentimental | おじょぱいセンチメンタル |  |  |
+| ojopie sentimental | おじょぱいセンチメンタル |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75744/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41042.html) |
 | dokutoku no m | 独特のM |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45521.html) |
 | watari laboratory | 渡里laboratory |  |  |
 | wappururun | わっぷるるん |  |  |
