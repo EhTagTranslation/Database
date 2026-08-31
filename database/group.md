@@ -10370,7 +10370,7 @@ example:
 | shirokyuuketsuki | 白吸血鬼 |  |  |
 | shiromitsu nyuugyou | 白蜜乳業 |  |  |
 | shiromitsuya | しろみつ屋 |  |  |
-| shironegiya | 白ネギ屋 |  |  |
+| shironegiya | 白ネギ屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG08295.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=24584/) |
 | shironeko ichizoku | 白猫一族 |  |  |
 | shirorika | シロリカ |  |  |
 | shirotsumekusa | シロツメクサ |  |  |
