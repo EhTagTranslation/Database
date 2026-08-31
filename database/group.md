@@ -381,7 +381,7 @@ example:
 | iriomote | IRIOMOTE |  |  |
 | kamogawaya | 鸭川屋 |  | [社团博客](http://www.kamogawaya.com/main_Frame.html) |
 | 23.4do | 23.4ド |  |  |
-| doza village | DOZA Village |  |  |
+| doza village | DOZA Village |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG16211.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27089/) |
 | p.d.creations | P.D.creations |  |  |
 | tear drop | Tear Drop |  |  |
 | 434notfound | 434 Not Found |  |  |
