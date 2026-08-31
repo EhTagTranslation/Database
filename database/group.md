@@ -14219,6 +14219,7 @@ example:
 | yuchiberurin | ゆちべるりん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01052793.html) |
 | mama no nioi | ママの匂い |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74970/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG03313.html) |
 | bonnouji yura | 煩悩寺ゆら |  |  |
+| guozhishe | 果汁社 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
