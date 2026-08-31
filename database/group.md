@@ -5152,7 +5152,7 @@ example:
 | gomix | GOMIX! |  |  |
 | gomiyashiki | 五三八式 |  |  |
 | gomoku gohan | 五目ごはん |  |  |
-| gomuhachi | ごむはち |  |  |
+| gomuhachi | ごむはち |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56589.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202106/) |
 | goo-paaa | goo-paaa |  |  |
 | good bye life | Good Bye Life |  |  |
 | goodluck | Goodluck |  |  |
