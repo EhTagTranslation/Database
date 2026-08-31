@@ -1533,7 +1533,7 @@ example:
 | dsmile | DSマイル |  | [X](https://x.com/DSmile9) [pixiv](https://www.pixiv.net/users/795196) |
 | monoto | ものと |  |  |
 | snowmi | すのみ |  |  |
-| dozamura | どざむら |  |  |
+| dozamura | どざむら |  | [X](https://x.com/dozamura_) \| [Fantia](https://fantia.jp/fanclubs/302736) \| [FAKKU!](https://www.fakku.net/artists/dozamura) \| [pixiv](https://www.pixiv.net/users/3551773) |
 | kiryu | Kiryu |  |  |
 | kozakura nanane | 小桜菜々音 |  |  |
 | hazakura momo | 葉桜もも |  |  |
