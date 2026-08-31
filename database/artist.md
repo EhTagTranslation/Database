@@ -8023,7 +8023,7 @@ example:
 | miura | miura |  |  |
 | miura jota | 三浦いお太 | GTワンコ |  |
 | miya | みや |  |  |
-| miya9 | miya9 |  |  |
+| miya9 | miya9 |  | [FANBOX](https://miyakyu.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/110090) \| [X](https://x.com/_miyakyu) \| [BOOTH](https://miya9.booth.pm/) |
 | miyabe makoto | みやべまこと |  |  |
 | miyabi tsuzuru | みやびつづる |  |  |
 | miyabi yutaka | ミヤビユタカ |  |  |
