@@ -2469,7 +2469,7 @@ example:
 | a.la.mode | ア・ラ・モード |  |  |
 | a.p. retriever | A.P.レトリバー |  |  |
 | a.p.yamamoh | A.P.YAMAMOH |  |  |
-| a.s.g group | A・S・Gグループ |  |  |
+| a.s.g group | A・S・Gグループ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203870/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG63143.html) |
 | a.s.s | A.S.S |  |  |
 | a.u.forest | A.U.FOREST |  |  |
 | a.v. tokkoutai | A.V.特攻隊 |  |  |
