@@ -15656,6 +15656,7 @@ example:
 | simejitake | しめじたけ |  | [pixiv](https://www.pixiv.net/users/37656328) \| [X](https://x.com/motunabe_umauma) \| [Skeb](https://skeb.jp/@motunabe_umauma) \| [FANBOX](https://simeji-0624.fanbox.cc/) |
 | yuchiberu | ユチberu |  | [FANBOX](https://yuchiberu.fanbox.cc/) \| [X](https://x.com/aronadaisuki) \| [Skeb](https://skeb.jp/@yuchiberu) \| [pixiv](https://www.pixiv.net/users/43816469) \| [Misskey.io](https://misskey.io/@yuchiberu) |
 | ao paco | まるかな正麺 | 现用名まるかな正麺，可能曾经有あおパコ的名字。社团名为シラログ屋，但是eh好像把marukana seimen（まるかな正麺）误以为是社团名，把ao paco（あおパコ）误以为是现用名了 | [X](https://x.com/MARUKANA_seimen) |
+| oworanger | 沐浴橙汁兒OwOranger | 沐浴橙汁儿OwOranger | [X] ([X](https://x.com/ColinHugo3)) |
 
 <!--TEMPLATE:
 |  |  |  |  |
