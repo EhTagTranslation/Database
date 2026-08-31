@@ -4129,7 +4129,7 @@ example:
 | anohito | あのひと |  |  |
 | anoshabu | アノシャブ |  |  |
 | anparu98 | anparu98/4nparu |  |  |
-| anshin mama | あんしんママ |  |  |
+| anshin mama | あんしんママ |  | [pixiv](https://www.pixiv.net/users/13654) \| [X](https://x.com/anshinmama) \| [Skeb](https://skeb.jp/@anshinmama) \| [FANBOX](https://anshinmama.fanbox.cc/) |
 | anyakunin | 暗躍人 |  |  |
 | anyama takemi | 案山たけみ |  |  |
 | anzu hime | あんず姫 |  |  |
