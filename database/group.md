@@ -14222,6 +14222,7 @@ example:
 | guozhishe | 果汁社 |  |  |
 | nanda sono pantsu wa... | なんだそのパンツは… |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=220431/) |
 | nonki na roten | 吞気な露店 |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ067042) \| [FANZA](https://book.dmm.co.jp/list/?author=389287) \| [BOOTH](https://ikuzonomiki12.booth.pm/) |
+| kamatsukatei | 一尺八寸 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203801/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
