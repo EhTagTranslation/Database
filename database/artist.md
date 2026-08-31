@@ -15660,6 +15660,7 @@ example:
 | out type | out type |  | [FANBOX](https://outtypeex.fanbox.cc/) \| [X](https://x.com/outtypeex) \| [pixiv](https://www.pixiv.net/users/21866315) \| [Lit.Link](https://lit.link/en/outtype) |
 | nomiki | 呑み気 |  | [pixiv](https://www.pixiv.net/users/20645313) \| [FANBOX](https://ikuzonomiki12.fanbox.cc/) \| [X](https://x.com/ikuzonomiki12) \| [BOOTH](https://ikuzonomiki12.booth.pm/) |
 | hinanagusa | ひななぐさ |  | [pixiv](https://www.pixiv.net/users/63399836) \| [FANBOX](https://hinanagusa.fanbox.cc/) \| [X](https://x.com/sagunagusa) \| [Skeb](https://skeb.jp/@hinanagusa) \| [Fantia](https://fantia.jp/fanclubs/444891) |
+| men teru | めんテル |  | [pixiv](https://www.pixiv.net/users/12821364) \| [X](https://x.com/men_teru00) \| [FANBOX](https://ktrwest8122.fanbox.cc/) \| [Skeb](https://skeb.jp/@men_teru00) \| [Fantia](https://fantia.jp/fanclubs/79854) |
 
 <!--TEMPLATE:
 |  |  |  |  |
