@@ -2618,7 +2618,7 @@ example:
 | matsuriuta | 祭唄（松竜太） | ![祭唄头像](https://i.jpg.dog/file/jpg-dog/c7a2ace5d40ee241390fc23d0b067bff.jpg) 祭唄名义主要用于东方二次创作，松竜太用于其他作品。 | [Twitter1](https://x.com/maturiuta) [pixiv1](https://www.pixiv.net/users/70822) [Twitter2](https://x.com/matu_ryuta) [pixiv2](https://pixiv.me/matu_ryuta) |
 | momizi-kei | 紅葉-K |  |  |
 | nagayori | 长赖 | ![X](https://pbs.twimg.com/profile_images/378800000460092544/4b86924dfdb6c43cb11d1ac339c09ab9_400x400.jpeg)<br><br>**作者推特头像** | [X](https://x.com/nagayori000) [pixiv](https://www.pixiv.net/users/71617) |
-| toosaka asagi | 远坂朝雾(遠坂あさぎ) | ![遠坂あさぎ头像](https://i.loli.net/2020/05/15/L3lKV6HkTIpPFeu.jpg) | [pixiv](https://www.pixiv.net/users/3302692) [X](https://x.com/asagi_0398) |
+| toosaka asagi | 远坂朝雾(遠坂あさぎ) | ![遠坂あさぎ头像](https://i.loli.net/2020/05/15/L3lKV6HkTIpPFeu.jpg) | [pixiv](https://www.pixiv.net/users/3302692) [X](https://x.com/asagi_0398)<br>[维基百科](https://zh.wikipedia.org/wiki/遠坂朝霧) |
 | momoco | ももこ | ![ももこ头像](https://i.loli.net/2020/11/05/ZikrTLwYuFPS8Ey.jpg) | [pixiv](https://www.pixiv.net/users/1113943) [X](https://x.com/momoco_haru) |
 | ashima | アシマ | ![アシマ头像](https://i.loli.net/2020/05/15/ufZNSmM9btLaYCX.jpg) | [pixiv](https://www.pixiv.net/users/2642047) [X](https://x.com/roro046) [个人主页](https://ashima-flourish.tumblr.com/) |
 | suzumori | 铃森 |  |  |
