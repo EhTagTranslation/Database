@@ -2670,7 +2670,7 @@ example:
 | akuochisukii kyoushitsu | アクオチスキー教室 |  |  |
 | akuta space | あくたスペース |  |  |
 | akuyukai | 悪遊怪 |  |  |
-| akys honpo | AKYS本舗 |  |  |
+| akys honpo | AKYS本舗 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG14418.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29680/) |
 | al dente | あるでんて |  |  |
 | albatross | あるばとろす |  |  |
 | albercorp. | あるばーCorp. |  |  |
