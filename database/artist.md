@@ -7986,7 +7986,7 @@ example:
 | miso poteto | みそぽてと |  |  |
 | misoiri | 味噌入り |  |  |
 | misono denpachi | みそのデンパ |  |  |
-| misonou | みそのう |  |  |
+| misonou | みそのう |  | [pixiv](https://www.pixiv.net/users/26459) \| [X](https://x.com/misohiro) \| [Skeb](https://skeb.jp/@misohiro) |
 | misooden | みそおでん |  |  |
 | misril | Misril |  |  |
 | miss black | MISS BLACK |  |  |
