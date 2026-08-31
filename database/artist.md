@@ -15129,7 +15129,7 @@ example:
 | aizuchi | あいヅチ |  |  |
 | marsa | marsa |  | [pixiv](https://www.pixiv.net/users/375450) \| [livedoor](https://marsax.livedoor.blog/) \| [Pawoo](https://pawoo.net/@marsax) \| [FANBOX](https://www.fanbox.cc/@marsa) |
 | watashiki | わたしき |  |  |
-| akire | アキレ |  |  |
+| akire | アキレ |  | [pixiv](https://www.pixiv.net/users/2303672) \| [X](https://x.com/akire_zz) |
 | kasa | かさ |  |  |
 | hanana | はなな |  |  |
 | hiji chaba | ひじ茶葉 |  | [X](https://x.com/hiji_chaba/media) [pixiv](https://www.pixiv.net/users/86862564) |
