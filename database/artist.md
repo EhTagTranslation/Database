@@ -1617,7 +1617,7 @@ example:
 | hirono azuma | 広乃あずま |  |  |
 | ikeda matamune | 池田又心 |  | [pixiv](https://www.pixiv.net/users/7043195) \| [X](https://x.com/matakokoro) \| [FANZA](https://book.dmm.co.jp/list/?author=298205) |
 | kon-kit | 蒟吉人 |  |  |
-| ohsaka minami | 逢坂ミナミ |  |  |
+| ohsaka minami | 逢坂ミナミ |  | [pixiv](https://www.pixiv.net/users/9905047) \| [X](https://x.com/Ohsaka373minami) \| [FANBOX](https://ohsakaminami.fanbox.cc/) \| [Pawoo](https://pawoo.net/@ohsakaminami) \| [Fantia](https://fantia.jp/fanclubs/107816) \| [Ci-en](https://ci-en.dlsite.com/creator/610) |
 | raymon | RAYMON |  |  |
 | shiroie mika | 白家ミカ |  |  |
 | tes-mel | tes\_mel |  |  |
