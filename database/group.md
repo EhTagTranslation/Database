@@ -14221,6 +14221,7 @@ example:
 | bonnouji yura | 煩悩寺ゆら |  |  |
 | guozhishe | 果汁社 |  |  |
 | nanda sono pantsu wa... | なんだそのパンツは… |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=220431/) |
+| nonki na roten | 吞気な露店 |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ067042) \| [FANZA](https://book.dmm.co.jp/list/?author=389287) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
