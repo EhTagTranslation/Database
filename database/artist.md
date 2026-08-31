@@ -4051,7 +4051,7 @@ example:
 | amane mari | 天音真理 |  |  |
 | amane shirou | あまね紫狼 |  |  |
 | amaniji | 天虹 |  |  |
-| amano ameno | 天野雨乃 |  |  |
+| amano ameno | 天野雨乃 |  | [pixiv](https://www.pixiv.net/users/5912749) \| [X](https://x.com/amanoameno) |
 | amano chiharu | 天乃ちはる |  |  |
 | amano hidemi | 天野英美 |  |  |
 | amano jack | 尼野じゃっく |  |  |
