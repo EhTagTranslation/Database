@@ -6038,7 +6038,7 @@ example:
 | inu system | 犬システム |  |  |
 | inu to kotatsu | 犬とコタツ |  |  |
 | inubaka | いぬばか |  |  |
-| inudamashi | いぬだまし |  |  |
+| inudamashi | いぬだまし |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG42477.html) |
 | inudrill lolita engine | イヌドリルロリータエンジン |  |  |
 | inudrill. | イヌドリル。 |  |  |
 | inuduya | いぬづや |  |  |
