@@ -13192,7 +13192,7 @@ example:
 | fusen | ふせん |  |  |
 | kaiten kikan | 回転キカン |  |  |
 | morigami no yashiro | 森神的社 | 森神の社 |  |
-| line out | ラインアウト |  |  |
+| line out | ラインアウト |  | [Ci-en](https://ci-en.dlsite.com/creator/6993) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01008583.html) \| [pixiv](https://www.pixiv.net/users/98504555) \| [X](https://x.com/circle_lineout3) |
 | tamazushi | 珠寿司 |  |  |
 | haizuriya | はいずり屋 |  |  |
 | tetsuyashiki | 铁屋敷 | 画师`kontetsu`所属社团 |  |
