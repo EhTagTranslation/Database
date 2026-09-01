@@ -15665,6 +15665,7 @@ example:
 | ahedtra | aHedtra |  | [pixiv](https://www.pixiv.net/users/53025594) \| [X](https://x.com/AHedtra) \| [Skeb](https://skeb.jp/@AHedtra) \| [Patreon](https://www.patreon.com/aHedtra) \| [FANBOX](https://ahedtra.fanbox.cc/) |
 | yorumaguro | 夜マグロ Yorumaguro |  | [pixiv](https://www.pixiv.net/users/111799732) \| [FANBOX](https://maguro123.fanbox.cc/) |
 | sasaki hiromi | 沙岬宙海 |  |  |
+| shinen | 天聖 |  | [pixiv](https://www.pixiv.net/users/82567563) \| [FANBOX](https://shinen4693.fanbox.cc/) \| [X](https://x.com/SHINEN469313) \| [Skeb](https://skeb.jp/@SHINEN469313?s=09) |
 
 <!--TEMPLATE:
 |  |  |  |  |
