@@ -12261,7 +12261,7 @@ example:
 | unosero | うのせろ | ![X](https://pbs.twimg.com/profile_images/1083229542603358208/P6TQZShF_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/marble_nnn) [pixiv](https://www.pixiv.net/users/27406422) |
 | murasaki shingou | 紫信号 |  | [FANBOX](https://www.fanbox.cc/@signalviolet) \| [Skeb](https://skeb.jp/@SignalViolet) \| [pixiv](https://www.pixiv.net/users/60356242) \| [X](https://x.com/signalviolet_) \| [Lit.Link](https://lit.link/en/signalviolet) |
 | meriibe | めりーべ |  |  |
-| hoshina mimiwo | 星奈みみヲ |  |  |
+| hoshina mimiwo | 星奈みみヲ |  | [X](https://x.com/mimiwo_pi) \| [pixiv](https://www.pixiv.net/users/75588735) |
 | sakauchi waka | 坂内若 |  | [X](https://x.com/sakauchi0) |
 | sagami yuki | さがみゆき | ![](https://i.pixiv.cat/user-profile/img/2021/09/17/19/15/20/21427264_1f29219b434a246b7b176af3a16b9b6e_170.jpg) | [pixiv](https://www.pixiv.net/users/2838601)<br>[X](https://x.com/sagamiokiva) |
 | miyanose you | 宮ノ瀬陽 |  | [X](https://x.com/miyanose) [pixiv](https://www.pixiv.net/users/25847) |
