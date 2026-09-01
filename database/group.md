@@ -12029,7 +12029,7 @@ example:
 | wrench studio | WRENCH STUDIO |  |  |
 | wriggle souzeme tomonokai | リグル総攻め友の会 |  |  |
 | ws. | WS. |  |  |
-| wxy comics | WXY COMICS |  |  |
+| wxy comics | WXY COMICS |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72935/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG33411.html) |
 | x model | X∞MODEL |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73503/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG35097.html) \| [FANBOX](https://x-model888.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/13395652) \| [X](https://x.com/x_model888) \| [Fantia](https://fantia.jp/fanclubs/4010) \| [BOOTH](https://x-model8998.booth.pm/) |
 | x-10sion | X-10SION |  |  |
 | x-bangbang | X-bangbang |  |  |
