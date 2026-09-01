@@ -7903,7 +7903,7 @@ example:
 | minai | ミナイ |  |  |
 | minakami hiroki | 水上広樹 |  |  |
 | minakami kurena | 水上暮菜 |  |  |
-| minakami riku | ミナカミ理久 |  |  |
+| minakami riku | ミナカミ理久 |  | [pixiv](https://www.pixiv.net/users/6096279) \| [Ci-en](https://ci-en.dlsite.com/creator/5322) \| [Misskey.io](https://misskey.io/@lightcoral) |
 | minakawa haruhisa | 皆川晴久 |  |  |
 | minako nami | みなこなみ |  |  |
 | minakuchi takashi | 水口鷹志 |  |  |
