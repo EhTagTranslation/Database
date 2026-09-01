@@ -12515,7 +12515,7 @@ example:
 | jikahatsudensho | 自家发电处 | 日语: 自家発電処 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79705/) |
 | signal violet | Signal:Violet |  |  |
 | me no sato | 芽の里 |  |  |
-| shuukyuu 8-ka | 周休八日 |  |  |
+| shuukyuu 8-ka | 周休八日 | 週休8日 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=209433/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG63775.html)<br><br>[FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204183/) \| [DLsite](https://www.dlsite.com/girls/circle/profile/=/maker_id/RG63775.html) |
 | sagamiokiva | さがみおきば |  | [DLsite](https://www.dlsite.com/maniax-touch/circle/profile/=/from/work.maker/maker_id/RG45062.html) |
 | bochi bochi no ki | ぼちぼちの木 |  |  |
 | pham | PHAM! |  | [http://www.blue-ruby.com/pham/top.html](http://www.blue-ruby.com/pham/top.html) |
