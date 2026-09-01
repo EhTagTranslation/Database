@@ -3895,7 +3895,7 @@ example:
 | akai kagerou | あかいかげろう |  |  |
 | akai mato | 紅唯まと |  |  |
 | akaiken | あかいけん |  |  |
-| akainu pochi | 赤犬ポチ |  |  |
+| akainu pochi | 赤犬ポチ |  | [Ci-en](https://ci-en.dlsite.com/creator/16586) \| [pixiv](https://www.pixiv.net/users/626629) \| [Pawoo](https://pawoo.net/@pochisangou) \| [X](https://x.com/akainupochi) \| [Misskey.io](https://misskey.io/@akainupochi) \| [Skeb](https://skeb.jp/@akainupochi) |
 | akairo | あかゐろ |  |  |
 | akaishi shiroishi | あかいししろいし |  |  |
 | akame | あかめ |  |  |
