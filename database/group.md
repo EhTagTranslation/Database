@@ -13330,7 +13330,7 @@ example:
 | urushibara koubou | 漆原工房 |  |  |
 | onizukachris | 鬼塚クリス |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201077/) |
 | uchi no yoko | ウチの横 |  |  |
-| lemon drop | れもんどろっぷ |  |  |
+| lemon drop | れもんどろっぷ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=225332/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01036340.html) |
 | shishimusha | 猪武者 |  |  |
 | amenohimogamo | あめのひもがも |  |  |
 | azabumi | 麻布味 |  |  |
