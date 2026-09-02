@@ -2306,7 +2306,7 @@ example:
 | hanakawa sugar | 花川シュガー |  |  |
 | urabi | 紅吊うらび |  | [pixiv](https://www.pixiv.net/users/306673) [X](https://x.com/urabiyori) |
 | kichirock | キチロク |  |  |
-| wes heartland smith | ウェス·ハートランド·スミス |  |  |
+| wes heartland smith | ウェス·ハートランド·スミス |  | [Ci-en](https://ci-en.dlsite.com/creator/12196) \| [FANBOX](https://wes-hertland.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/905308) \| [X](https://x.com/kafeore1059) \| [Fantia](https://fantia.jp/fanclubs/23728) |
 | pochincoff | ポチンコフ |  |  |
 | shimeji nameko | しめじなめこ |  |  |
 | sakibashiri jiru | 先走汁 |  |  |
