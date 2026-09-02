@@ -11752,7 +11752,7 @@ example:
 | ura kent no himitsu kichi | 裏KENTの秘密基地 |  |  |
 | ura makura | 裏まくら |  |  |
 | ura meshiya | 裏飯屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48490.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78055/) |
-| urano hikidashi | うらのひきだし | フェチフェチサン |  |
+| urano hikidashi | うらのひきだし | フェチフェチサン | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75356/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG39111.html) |
 | ura no kami | 裏のカミ |  |  |
 | ura urethan | 裏ウレタン |  |  |
 | ura. | URA. |  |  |
