@@ -10191,7 +10191,7 @@ example:
 | u-31 | U-31 | ![](https://azurlane.netojuu.com/images/thumb/4/4d/U-31SchoolWithoutBG.png/1498px-U-31SchoolWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/9/96/U-31WithoutBG.png/1455px-U-31WithoutBG.png)<br>出自作品:`azur lane` |  |
 | olivier | 奥利维耶 | ![](https://static.wikitide.net/browndust2wiki/thumb/9/9f/Costume_003601.png/599px-Costume_003601.png)<br>![](https://static.wikitide.net/browndust2wiki/thumb/b/bb/Costume_003603.png/599px-Costume_003603.png)<br>出自作品:`brave nine` |  |
 | kon the knight | 骑士孔 | ![](https://static.wikia.nocookie.net/dragonquest/images/2/27/DQVDS_-_Kon.png)<br>出自作品：`p:dragon quest v`<br><br>骑士孔（贾米）是 2019 年日本动画电影《勇者斗恶龙：你的故事》中的角色。 | [Fandom](https://dragonquest.fandom.com/wiki/Kon_the_Knight) |
-| alisa shitou | 紫藤 | ![](https://patchwiki.biligame.com/images/manosaba/7/72/3pq7nxy749o2grwmve8o5bontu4fv4f.png)<br>所属作品:`mahou shoujo no majo saiban` | [BILIGAME WIKI](https://wiki.biligame.com/manosaba/紫藤亚里沙)<br>[萌娘百科](https://zh.moegirl.org.cn/紫藤亚里沙) |
+| alisa shitou | 紫藤亚里沙 | ![](https://patchwiki.biligame.com/images/manosaba/7/72/3pq7nxy749o2grwmve8o5bontu4fv4f.png)<br>所属作品:`mahou shoujo no majo saiban` | [BILIGAME WIKI](https://wiki.biligame.com/manosaba/紫藤亚里沙)<br>[萌娘百科](https://zh.moegirl.org.cn/紫藤亚里沙) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
