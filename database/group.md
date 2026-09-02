@@ -14226,6 +14226,7 @@ example:
 | innocent grey | Innocent Grey |  |  |
 | uchuu misaki | 宇宙岬 |  |  |
 | more prity | More☆プリティ |  |  |
+| tegomental | てごめんたる |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52766.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79167/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
