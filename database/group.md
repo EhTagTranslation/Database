@@ -14225,6 +14225,7 @@ example:
 | kamatsukatei | 一尺八寸 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203801/) |
 | innocent grey | Innocent Grey |  |  |
 | uchuu misaki | 宇宙岬 |  |  |
+| more prity | More☆プリティ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
