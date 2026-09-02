@@ -6577,7 +6577,7 @@ example:
 | kfc | KFC |  |  |
 | kgb | KGB |  |  |
 | ki no nekko | 木のねっこ |  |  |
-| ki-software | KI-SofTWarE |  |  |
+| ki-software | KI-SofTWarE |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG07203.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26707/) |
 | kibawomuku | 牙を剥く |  |  |
 | kichiku bansankai | きちくばんさんかい |  |  |
 | kichinemu | キチネム |  |  |
