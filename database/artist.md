@@ -4355,7 +4355,7 @@ example:
 | autumm | 秋 |  |  |
 | awa | AwA \| 阿波 \| アワ | AwA 画重口的<br>阿波 画纯爱的<br>アワ 画女性向的 | 阿波 [X](https://x.com/awa_artist) |
 | awamori ichitarou | 泡盛一太郎 |  | [pixiv](https://www.pixiv.net/users/2349379) |
-| awata mokane | 粟田もかね |  |  |
+| awata mokane | 粟田もかね |  | [pixiv](https://www.pixiv.net/users/765661) \| [X](https://x.com/awata_zuwa104) \| [X](https://x.com/awkssrn) |
 | aweida | アウェイ田 |  |  |
 | aya shiina | 彩しーな |  |  |
 | aya-cis | AYA-cis |  |  |
