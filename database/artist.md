@@ -15668,6 +15668,7 @@ example:
 | shinen | 天聖 |  | [pixiv](https://www.pixiv.net/users/82567563) \| [FANBOX](https://shinen4693.fanbox.cc/) \| [X](https://x.com/SHINEN469313) \| [Skeb](https://skeb.jp/@SHINEN469313?s=09) |
 | nishikida keishi | 西木田景志 |  | [X](https://x.com/nishikidakeishi) \| [Bluesky](https://bsky.app/profile/nishikida-keishi.bsky.social) |
 | garuruu | がるるぅ |  | [X](https://x.com/garumux) \| [pixiv](https://www.pixiv.net/artworks/148351888) |
+| r-one | ろん（うな義） |  | [pixiv](https://www.pixiv.net/users/1106965) \| [X](https://x.com/R_oneno_R) |
 
 <!--TEMPLATE:
 |  |  |  |  |
