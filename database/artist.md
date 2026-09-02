@@ -8703,7 +8703,7 @@ example:
 | nf4 | nf4 |  |  |
 | ngng | ngng |  |  |
 | nibi | nibi |  |  |
-| nicchi sangyou | ニッチサンギョウ |  |  |
+| nicchi sangyou | ニッチサンギョウ |  | [X](https://x.com/BxOTmz9QCylUur4) \| [Skeb](https://skeb.jp/@BxOTmz9QCylUur4) |
 | nice tack | ナイスタック |  |  |
 | niche | ニッチ |  |  |
 | nichii | ニチヰ |  |  |
