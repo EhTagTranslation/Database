@@ -708,7 +708,7 @@ example:
 | bifidus | ビフィダス |  | [pixiv](https://www.pixiv.net/users/1446203) |
 | ice | ICE |  | [pixiv](https://www.pixiv.net/users/27612) |
 | kumoemon | くもえもん |  |  |
-| kuro fn | クロFn |  |  |
+| kuro fn | クロFn |  | [pixiv](https://www.pixiv.net/users/463664) \| [X](https://x.com/fishneak) \| [Skeb](https://skeb.jp/@fishneak) \| [Lit.Link](https://lit.link/en/fishneak) |
 | lorica | Lorica |  |  |
 | nakayama tetsugaku | 中山哲学 |  |  |
 | nisepakuman-san | 偽パクマンさん |  |  |
