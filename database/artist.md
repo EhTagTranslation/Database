@@ -15671,6 +15671,7 @@ example:
 | r-one | ろん（うな義） |  | [pixiv](https://www.pixiv.net/users/1106965) \| [X](https://x.com/R_oneno_R) |
 | izui | いずい |  | [FANBOX](https://izui.fanbox.cc/) |
 | primil | 仁村有志(PRIMIL) |  |  |
+| murabito c | 村民c |  | [pixiv](https://www.pixiv.net/users/754636) |
 
 <!--TEMPLATE:
 |  |  |  |  |
