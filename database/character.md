@@ -10194,6 +10194,7 @@ example:
 | alisa shitou | 紫藤亚里沙 | ![](https://patchwiki.biligame.com/images/manosaba/7/72/3pq7nxy749o2grwmve8o5bontu4fv4f.png)<br>所属作品:`mahou shoujo no majo saiban` | [BILIGAME WIKI](https://wiki.biligame.com/manosaba/紫藤亚里沙)<br>[萌娘百科](https://zh.moegirl.org.cn/紫藤亚里沙) |
 | meili portroute | 梅莉·波特鲁特 | ![](https://static.wikia.nocookie.net/rezero/images/2/20/Meili_Portroute_LN_character_design.png/revision/latest?cb=20230626222902)<br>所属作品:`re zero kara hajimeru isekai seikatsu` | [萌娘百科](https://zh.moegirl.org.cn/梅莉·波特鲁特)<br>[Fandom](https://rezero.fandom.com/zh/wiki/角色:梅莉·波多尔德) |
 | maria theresa | 玛利亚·特蕾莎 | ![](https://static.wikia.nocookie.net/yuripedia/images/0/06/Maria_Theresa.png)<br>出自作品：`p:granblue fantasy` | [Fandom](https://yuripedia.fandom.com/wiki/Maria_Theresa) \| [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3040160000) |
+| yuugao uzuki | 卯月夕颜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
