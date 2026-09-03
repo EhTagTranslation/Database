@@ -4713,7 +4713,7 @@ example:
 | fish | FISH |  |  |
 | fish and chicken | 魚肉と鳥肉 |  |  |
 | fishbone | fish bone |  |  |
-| fishneak | Fishneak |  |  |
+| fishneak | Fishneak |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201611/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG13983.html) |
 | five | five |  |  |
 | fivecoa. | Fivecoa. |  |  |
 | fiyorudou | ふぃよる堂 |  |  |
