@@ -4400,7 +4400,7 @@ example:
 | drizzly rain | drizzly rain |  |  |
 | dro-ya | 泥屋 |  |  |
 | drop | DROP |  |  |
-| drops | どろっぷす! |  |  |
+| drops | どろっぷす! |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG20312.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28375/) |
 | drum-kan | ドラム缶 |  |  |
 | dryr | DryR |  |  |
 | dsb style | DSB Style |  |  |
