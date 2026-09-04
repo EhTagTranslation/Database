@@ -10197,6 +10197,7 @@ example:
 | yuugao uzuki | 卯月夕颜 |  |  |
 | lorraine vivie | 诺蕾奴·薇薇艾 | ![](https://ehgt.org/w/01/902/11255-rmlq81q0.webp)<br>日语：ロレーヌ・ヴィヴィエ<br>出自作品:`nozomanu fushi no boukensha` |  |
 | urasaka hikume | 里坂久女 | 日语：裏坂ひくめ | [YouTube](https://www.youtube.com/@hikume_urasaka) |
+| atoferatofe rybak | 阿托菲拉托菲·雷白克 | ![](https://static.wikia.nocookie.net/mushokutensei/images/1/1d/Atofe-Anime-Fullbody.png)<br>日语：アトーフェラトーフェ・ライバック<br>出自作品:`mushoku tensei` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
