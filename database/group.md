@@ -14229,6 +14229,7 @@ example:
 | tegomental | てごめんたる |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52766.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79167/) |
 | kenbunya | けんぶん屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01049759.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=226305/) |
 | anchorbell | アンカーベル |  |  |
+| whitesoft | Whitesoft |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
