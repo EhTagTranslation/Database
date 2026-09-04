@@ -10196,6 +10196,7 @@ example:
 | maria theresa | 玛利亚·特蕾莎 | ![](https://static.wikia.nocookie.net/yuripedia/images/0/06/Maria_Theresa.png)<br>出自作品：`p:granblue fantasy` | [Fandom](https://yuripedia.fandom.com/wiki/Maria_Theresa) \| [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3040160000) |
 | yuugao uzuki | 卯月夕颜 |  |  |
 | lorraine vivie | 诺蕾奴·薇薇艾 | ![](https://ehgt.org/w/01/902/11255-rmlq81q0.webp)<br>日语：ロレーヌ・ヴィヴィエ<br>出自作品:`nozomanu fushi no boukensha` |  |
+| urasaka hikume | 里坂久女 | 日语：裏坂ひくめ | [YouTube](https://www.youtube.com/@hikume_urasaka) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
