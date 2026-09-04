@@ -15675,6 +15675,7 @@ example:
 | pody | ポディ |  | [pixiv](https://www.pixiv.net/users/83597119) \| [FANBOX](https://podi.fanbox.cc/) \| [X](https://x.com/podi_r18_2) |
 | hosimiya aki | 星宮あき |  |  |
 | torororo | とろだく |  | [X](https://x.com/torororo738) \| [pixiv](https://www.pixiv.net/users/90682456) \| [FANBOX](https://torororo.fanbox.cc/) \| [Skeb](https://skeb.jp/@torororo738) \| [Lit.Link](https://lit.link/torororo738) |
+| kuutamo | KUUTAMO | クウタモ | [pixiv](https://www.pixiv.net/users/5160504) \| [X](https://x.com/Quutam0) \| [Patreon](https://www.patreon.com/Kuutamo19) \| [FANBOX](https://kuutamo00.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
