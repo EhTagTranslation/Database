@@ -3003,7 +3003,7 @@ example:
 | domestic na kanojo | 家有女友 | ![](https://lain.bgm.tv/r/400/pic/cover/l/33/f9/253628_F42y2.jpg)<br>日语：ドメスティックな彼女 |  |
 | barb wire | 越空追击 | 1996年美国科幻动作片 |  |
 | natsuiro no kowaremono | 夏色的易碎品 | ![](https://t.vndb.org/cv.t/75/97675.jpg)<br>日语：夏色のコワレモノ |  |
-| clover days | Clover Day’s(四叶草的约定) |  |  |
+| clover days | 四叶草的约定 | ![](https://t.vndb.org/cv.t/49/94749.jpg)<br>Clover Day's |  |
 | wet | 终极女猎人 |  |  |
 | uchi no shishou wa shippo ga nai | 我家师傅没有尾巴 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0e/c7/344874_qS88b.jpg)<br>日语：うちの師匠はしっぽがない |  |
 
