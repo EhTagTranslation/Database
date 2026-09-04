@@ -3005,6 +3005,7 @@ example:
 | natsuiro no kowaremono | 夏色的易碎品 | ![](https://t.vndb.org/cv.t/75/97675.jpg)<br>日语：夏色のコワレモノ |  |
 | clover days | Clover Day’s(四叶草的约定) |  |  |
 | wet | 终极女猎人 |  |  |
+| uchi no shishou wa shippo ga nai | 我家师傅没有尾巴 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0e/c7/344874_qS88b.jpg)<br>日语：うちの師匠はしっぽがない |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
