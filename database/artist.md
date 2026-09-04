@@ -15673,6 +15673,7 @@ example:
 | primil | 仁村有志(PRIMIL) |  |  |
 | murabito c | 村民c |  | [pixiv](https://www.pixiv.net/users/754636) |
 | pody | ポディ |  | [pixiv](https://www.pixiv.net/users/83597119) \| [FANBOX](https://podi.fanbox.cc/) \| [X](https://x.com/podi_r18_2) |
+| hosimiya aki | 星宮あき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
