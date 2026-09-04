@@ -10202,6 +10202,7 @@ example:
 | jason duval | 杰森·杜瓦 | 出自作品:`grand theft auto`VI |  |
 | tai lung | 泰龙 | 出自作品:`kung fu panda` |  |
 | li shan | 李山 | 出自作品:`kung fu panda` |  |
+| kai | 天煞 | 出自作品:`kung fu panda` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
