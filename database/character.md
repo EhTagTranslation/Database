@@ -10200,6 +10200,7 @@ example:
 | atoferatofe rybak | 阿托菲拉托菲·雷白克 | ![](https://static.wikia.nocookie.net/mushokutensei/images/1/1d/Atofe-Anime-Fullbody.png)<br>日语：アトーフェラトーフェ・ライバック<br>出自作品:`mushoku tensei` |  |
 | lucia caminos | 露西亚·卡米诺 | 出自作品:`grand theft auto`VI |  |
 | jason duval | 杰森·杜瓦 | 出自作品:`grand theft auto`VI |  |
+| tai lung | 泰龙 | 出自作品:`kung fu panda` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
