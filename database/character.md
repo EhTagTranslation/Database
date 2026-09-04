@@ -10205,6 +10205,7 @@ example:
 | kai | 天煞 | 出自作品:`kung fu panda` |  |
 | matsunaga hisahide | 松永久秀 | ![](https://static.wikia.nocookie.net/typemoon/images/2/23/MatsunagaGO.png)<br>日语：松永弾正<br>出自作品:`fate grand order` |  |
 | rubi malone | 鲁比·马龙 | 出自作品:`wet` |  |
+| no reason | 莫名其妙 | ![](https://static.wikia.nocookie.net/umamusume/images/4/45/No_Reason_%28Race%29.png)<br>出自作品:`uma musume pretty derby` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
