@@ -6779,7 +6779,7 @@ example:
 | konagona biscuit | こなごなビスケット |  |  |
 | konagona makki shoujou | 粉々末期症状 |  |  |
 | konapoka01 | こなぽか01 |  |  |
-| konatuiro | 来夏色 |  |  |
+| konatuiro | 来夏色 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=214713/) |
 | konbu-maru | こんぶ丸 |  |  |
 | konbuni | こんぶに |  |  |
 | koneko dorobou | 子猫泥棒 |  |  |
