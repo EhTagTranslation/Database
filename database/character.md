@@ -10204,6 +10204,7 @@ example:
 | li shan | 李山 | 出自作品:`kung fu panda` |  |
 | kai | 天煞 | 出自作品:`kung fu panda` |  |
 | matsunaga hisahide | 松永久秀 | ![](https://static.wikia.nocookie.net/typemoon/images/2/23/MatsunagaGO.png)<br>日语：松永弾正<br>出自作品:`fate grand order` |  |
+| rubi malone | 鲁比·马龙 | 出自作品:`wet` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
