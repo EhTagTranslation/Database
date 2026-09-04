@@ -10207,6 +10207,7 @@ example:
 | rubi malone | 鲁比·马龙 | 出自作品:`wet` |  |
 | no reason | 莫名其妙 | ![](https://static.wikia.nocookie.net/umamusume/images/4/45/No_Reason_%28Race%29.png)<br>出自作品:`uma musume pretty derby` |  |
 | daring heart | 勇敢之心 | ![](https://static.wikia.nocookie.net/umamusume/images/4/46/Daring_Heart_%28Race%29.png)<br>日语：デアリングハート<br>出自作品:`uma musume pretty derby` |  |
+| orchidea | 兰 | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/0/04/NPC_Orchidea_Icon.png)<br>出自作品:`zenless zone zero` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
