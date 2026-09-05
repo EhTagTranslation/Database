@@ -10211,6 +10211,7 @@ example:
 | bunko daikokutei | 大黑亭文狐 | ![](https://static.wikia.nocookie.net/my-master-has-no-tail/images/b/b2/Bunko_Render.png)<br>出自作品:`uchi no shishou wa shippo ga nai` |  |
 | arcane | 诀 | 诀，本名李织烟，是游戏《明日方舟：终末地》及其衍生作品的登场角色。 | [诀 - 萌娘百科](https://zh.moegirl.org.cn/诀) |
 | schlain zagan analeit | 山田后辅 | ![](https://static.wikia.nocookie.net/kumo-desu-ga-nani-ka/images/a/a4/C2.png)<br>出自作品:`kumo desu ga nani ka` |  |
+| testarossa | 泰丝塔罗莎 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/2/2b/Testarossa_Anime.png)<br>别名原初之白<br>日语：テスタロッサ<br>出自作品:`tensei shitara slime datta ken` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
