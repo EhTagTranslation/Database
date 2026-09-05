@@ -10210,6 +10210,7 @@ example:
 | orchidea | 兰 | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/0/04/NPC_Orchidea_Icon.png)<br>出自作品:`zenless zone zero` |  |
 | bunko daikokutei | 大黑亭文狐 | ![](https://static.wikia.nocookie.net/my-master-has-no-tail/images/b/b2/Bunko_Render.png)<br>出自作品:`uchi no shishou wa shippo ga nai` |  |
 | arcane | 诀 | 诀，本名李织烟，是游戏《明日方舟：终末地》及其衍生作品的登场角色。 | [诀 - 萌娘百科](https://zh.moegirl.org.cn/诀) |
+| schlain zagan analeit | 山田后辅 | ![](https://static.wikia.nocookie.net/kumo-desu-ga-nani-ka/images/a/a4/C2.png)<br>出自作品:`kumo desu ga nani ka` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
