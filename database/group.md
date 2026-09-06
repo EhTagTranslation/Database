@@ -14236,6 +14236,7 @@ example:
 | space monkey butai | スペースモンキー部隊 |  |  |
 | kiiroi pink | きいろいぴんく |  |  |
 | agemomiji | あげもみじ |  |  |
+| crd | CRD |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=234048/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01009210.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
