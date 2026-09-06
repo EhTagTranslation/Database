@@ -6978,7 +6978,7 @@ example:
 | kuronekodou | 黒猫堂 |  |  |
 | kuronekokan-monpetit | 黒猫館モンプチ |  |  |
 | kuronekotei | 黑猫亭 | 黒猫亭 |  |
-| kurono taitsu | 黒野タイツ |  |  |
+| kurono taitsu | 黒野タイツ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72488/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG32472.html) |
 | kuropoplar | くろぽぷら |  |  |
 | kurosawa pict | 黒澤pict |  |  |
 | kuroshikatei | 黒鹿亭 |  |  |
