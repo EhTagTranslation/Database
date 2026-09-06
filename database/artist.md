@@ -15691,6 +15691,7 @@ example:
 | ogawa shuusuke | 紺あかね |  |  |
 | shiibara tetsu | シイバラ・テツ |  |  |
 | yosohuta | 伍拾四 |  |  |
+| warumono tomy | わるもの とみい |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
