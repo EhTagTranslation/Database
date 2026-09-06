@@ -13352,7 +13352,7 @@ example:
 | momico-san | もみ子さん |  |  |
 | jaryuu kyoudan | 邪竜教団 |  |  |
 | milk sausage | みるくそーせーじ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=214667/) |
-| tatsuwa no sato | たつわの里 |  |  |
+| tatsuwa no sato | たつわの里 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206923/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01001676.html) |
 | picapica suppa | picapicaすっぱ |  |  |
 | kibayashimori | 木林森 |  |  |
 | wakabatei | わかば帝 |  |  |
