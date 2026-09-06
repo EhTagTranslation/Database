@@ -15679,6 +15679,7 @@ example:
 | cygnus | キグナス |  |  |
 | hamita | ハミタ |  |  |
 | koshimizu yo | 小清水阳 | 小清水陽 |  |
+| kawabuta | かわぶた |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
