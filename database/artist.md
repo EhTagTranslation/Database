@@ -15694,6 +15694,7 @@ example:
 | warumono tomy | わるもの とみい |  |  |
 | wachio | わちを |  |  |
 | urukio | ウルキオ |  |  |
+| tetsuwan woopie | 鉄腕うーぴー |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
