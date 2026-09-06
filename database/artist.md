@@ -15699,6 +15699,7 @@ example:
 | merumeru | めるめる |  |  |
 | ettone | えっとね |  |  |
 | he ye nan hai | 禾野男孩 |  |  |
+| shiofuki akume | 汐吹あくめ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
