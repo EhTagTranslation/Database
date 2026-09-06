@@ -329,7 +329,7 @@ example:
 | kurawanya | くろわん屋 |  |  |
 | 54burger | 54BURGER |  |  |
 | yadokugaeru | ヤドクガエル |  |  |
-| butagoya | ぶた小屋 |  |  |
+| butagoya | ぶた小屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG38425.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28978/) |
 | momo ego | ももエゴ |  |  |
 | wada mountain | 和田マウンテン |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG19702.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72452/) |
 | area14 | エリア14 |  |  |
