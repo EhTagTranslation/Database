@@ -15692,6 +15692,7 @@ example:
 | shiibara tetsu | シイバラ・テツ |  |  |
 | yosohuta | 伍拾四 |  |  |
 | warumono tomy | わるもの とみい |  |  |
+| wachio | わちを |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
