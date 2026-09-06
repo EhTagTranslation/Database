@@ -15685,6 +15685,7 @@ example:
 | jin-jin | 仁－じん－ |  |  |
 | nikohada fuguri | 和肌ふぐり |  |  |
 | delta9 | デルタナイン |  |  |
+| dummy kaiko | ダミィ蚕 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
