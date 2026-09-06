@@ -15682,6 +15682,7 @@ example:
 | kawabuta | かわぶた | 又名河豚或涸魨 |  |
 | hashimoto seigi | 桥本正义 | 橋本正義或橋本セイギ |  |
 | miyama kendoh | みやま犬童 |  |  |
+| jin-jin | 仁－じん－ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
