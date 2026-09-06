@@ -15678,7 +15678,7 @@ example:
 | kuutamo | KUUTAMO | クウタモ | [pixiv](https://www.pixiv.net/users/5160504) \| [X](https://x.com/Quutam0) \| [Patreon](https://www.patreon.com/Kuutamo19) \| [FANBOX](https://kuutamo00.fanbox.cc/) |
 | cygnus | キグナス |  |  |
 | hamita | ハミタ |  |  |
-| koshimizu yo | 小清水阳 |  |  |
+| koshimizu yo | 小清水阳 | 小清水陽 |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
