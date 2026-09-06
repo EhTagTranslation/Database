@@ -539,7 +539,7 @@ example:
 | hitsuji takako | ひつじたかこ |  |  |
 | mizoro tadashi | 深泥正 |  |  |
 | q-gaku | Q-Gaku |  |  |
-| kemigawa mondo | 検見川もんど |  |  |
+| kemigawa mondo | 検見川もんど |  | [pixiv](https://www.pixiv.net/users/51047) \| [X](https://x.com/kem1gawa) |
 | tadano akira | 只野あきら |  |  |
 | kaisen chuui | 开栓注意 |  | [pixiv](https://www.pixiv.net/users/172636) |
 | ozy | オジィ |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ008379/ana_flg/all) |
