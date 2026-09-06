@@ -14235,6 +14235,7 @@ example:
 | mamaldasia | ママルダシア |  |  |
 | space monkey butai | スペースモンキー部隊 |  |  |
 | kiiroi pink | きいろいぴんく |  |  |
+| agemomiji | あげもみじ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
