@@ -13586,7 +13586,7 @@ example:
 | nikomic ramen | NikomiC Ramen |  |  |
 | mint-nium | Mint-nium\* |  |  |
 | moe push | もえぷっしゅ |  |  |
-| ogon shinshi club | 黄金紳士倶楽部 |  |  |
+| ogon shinshi club | 黄金紳士倶楽部 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=211420/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01010838.html) |
 | silk scarf | シルクスカーフ |  |  |
 | pikapika hallucinate | ぴかぴかハルシネイト |  |  |
 | boin-do | 母印堂 |  |  |
