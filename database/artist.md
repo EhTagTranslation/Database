@@ -1088,7 +1088,7 @@ example:
 | sasachinn | ささちん |  |  |
 | soushamoku | 桑柘木 |  |  |
 | suzuki akoni | 鈴月あこに |  |  |
-| tachibana yuu | 橘由宇 |  |  |
+| tachibana yuu | 橘由宇 |  | [pixiv](https://www.pixiv.net/users/484160) \| [X](https://x.com/tatibanayu) \|  [FANBOX](https://tatibanau.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/52641) \| [BOOTH](https://tatibanau.booth.pm/) \| [Pawoo](https://pawoo.net/@tatibanau) |
 | takeda aranobu | 武田あらのぶ |  |  |
 | jinnai | ジンナイ |  |  |
 | dhibi | ディビ |  |  |
