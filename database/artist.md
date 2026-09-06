@@ -15693,6 +15693,7 @@ example:
 | yosohuta | 伍拾四 |  |  |
 | warumono tomy | わるもの とみい |  |  |
 | wachio | わちを |  |  |
+| urukio | ウルキオ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
