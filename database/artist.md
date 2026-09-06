@@ -15689,6 +15689,7 @@ example:
 | haracock | 原胡来 |  |  |
 | nbo | んぼ |  |  |
 | ogawa shuusuke | 紺あかね |  |  |
+| shiibara tetsu | シイバラ・テツ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
