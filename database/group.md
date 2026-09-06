@@ -14234,6 +14234,7 @@ example:
 | moonpie factory | MOONPIE FACTORY |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01023267.html) |
 | mamaldasia | ママルダシア |  |  |
 | space monkey butai | スペースモンキー部隊 |  |  |
+| kiiroi pink | きいろいぴんく |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
