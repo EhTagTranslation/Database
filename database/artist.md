@@ -15690,6 +15690,7 @@ example:
 | nbo | んぼ |  |  |
 | ogawa shuusuke | 紺あかね |  |  |
 | shiibara tetsu | シイバラ・テツ |  |  |
+| yosohuta | 伍拾四 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
