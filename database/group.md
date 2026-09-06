@@ -14232,6 +14232,7 @@ example:
 | whitesoft | Whitesoft |  |  |
 | whitesoft-albino | Whitesoft Albino |  |  |
 | moonpie factory | MOONPIE FACTORY |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01023267.html) |
+| mamaldasia | ママルダシア |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
