@@ -15701,6 +15701,7 @@ example:
 | he ye nan hai | 禾野男孩 |  |  |
 | shiofuki akume | 汐吹あくめ |  |  |
 | suke | すけ |  |  |
+| akano tobira | 赤野とびら |  | [pixiv](https://www.pixiv.net/users/87460012) \| [X](https://x.com/tobiraakano) \| [FANBOX](https://akanotobira.fanbox.cc/) \| [Skeb](https://skeb.jp/@tobiraakano) |
 
 <!--TEMPLATE:
 |  |  |  |  |
