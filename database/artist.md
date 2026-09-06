@@ -15695,6 +15695,7 @@ example:
 | wachio | わちを |  |  |
 | urukio | ウルキオ |  |  |
 | tetsuwan woopie | 鉄腕うーぴー |  |  |
+| koshiitai | 越井たい |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
