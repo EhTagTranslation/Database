@@ -14267,7 +14267,7 @@ example:
 | kasama shirou | 笠間しろう |  |  |
 | katsuyoshi | かつよし |  |  |
 | kawasaki | かわさき |  |  |
-| kaniguruma | かにぐるま |  |  |
+| kaniguruma | かにぐるま |  | [pixiv](https://www.pixiv.net/users/56072812) \| [X](https://x.com/kaniguruma) |
 | keibou | ケイボウ |  |  |
 | ken sogen | 研そうげん |  |  |
 | kanamono | かなもの |  |  |
