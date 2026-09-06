@@ -15680,6 +15680,7 @@ example:
 | hamita | ハミタ |  |  |
 | koshimizu yo | 小清水阳 | 小清水陽 |  |
 | kawabuta | かわぶた | 又名河豚或涸魨 |  |
+| hashimoto seigi | 桥本正义 | 橋本正義或橋本セイギ |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
