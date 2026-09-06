@@ -15698,6 +15698,7 @@ example:
 | koshiitai | 越井たい |  |  |
 | merumeru | めるめる |  |  |
 | ettone | えっとね |  |  |
+| he ye nan hai | 禾野男孩 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
