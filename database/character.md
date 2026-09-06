@@ -10212,7 +10212,7 @@ example:
 | arcane | 诀 | ![](https://endfield.wiki.gg/images/thumb/Arcane_Splash_Art.png/512px-Arcane_Splash_Art.png?38a492)<br>本名李织烟<br>出自作品:`arknights endfield` | [萌娘百科](https://zh.moegirl.org.cn/诀) |
 | schlain zagan analeit | 山田后辅 | ![](https://static.wikia.nocookie.net/kumo-desu-ga-nani-ka/images/a/a4/C2.png)<br>出自作品:`kumo desu ga nani ka` |  |
 | testarossa | 泰丝塔罗莎 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/2/2b/Testarossa_Anime.png)<br>别名原初之白<br>日语：テスタロッサ<br>出自作品:`tensei shitara slime datta ken` |  |
-| arale nakamachi | 仲町阿拉蕾 |  |  |
+| arale nakamachi | 仲町阿拉蕾 | ![](https://static.wikia.nocookie.net/bandori/images/2/22/Nakamachi_Arale.jpg)<br>日语：仲町 あられ<br>出自作品：`bang dream` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
