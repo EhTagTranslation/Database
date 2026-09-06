@@ -15679,7 +15679,7 @@ example:
 | cygnus | キグナス |  |  |
 | hamita | ハミタ |  |  |
 | koshimizu yo | 小清水阳 | 小清水陽 |  |
-| kawabuta | かわぶた |  |  |
+| kawabuta | かわぶた | 又名河豚或涸魨 |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
