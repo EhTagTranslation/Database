@@ -15688,6 +15688,7 @@ example:
 | dummy kaiko | ダミィ蚕 |  |  |
 | haracock | 原胡来 |  |  |
 | nbo | んぼ |  |  |
+| ogawa shuusuke | 紺あかね |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
