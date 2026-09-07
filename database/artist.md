@@ -15704,7 +15704,7 @@ example:
 | akano tobira | 赤野とびら |  | [pixiv](https://www.pixiv.net/users/87460012) \| [X](https://x.com/tobiraakano) \| [FANBOX](https://akanotobira.fanbox.cc/) \| [Skeb](https://skeb.jp/@tobiraakano) |
 | miira | みいら |  | [FANBOX](https://miira319.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/61790149) \| [X](https://x.com/miira753) \| [Skeb](https://skeb.jp/@miira753) |
 | sori | かまつか | そり | [X](https://x.com/kmtkmatuka) \| [Fantia](https://fantia.jp/fanclubs/314848) \| [FANBOX](https://kmtkamatuka.fanbox.cc/) |
-| mad | 葉月軒 | 隶属同名社团葉月軒（hazukiken），曾用名MaD， | [pixiv](https://www.pixiv.net/users/115600) [X](https://x.com/hazukiken) |
+| mad | 葉月軒 | 隶属同名社团葉月軒（hazukiken），曾用名MaD | [pixiv](https://www.pixiv.net/users/115600) [X](https://x.com/hazukiken) |
 
 <!--TEMPLATE:
 |  |  |  |  |
