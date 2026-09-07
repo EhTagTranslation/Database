@@ -8595,7 +8595,7 @@ example:
 | nininini | にににに |  |  |
 | ninjinpasta | にんじんパスタ |  |  |
 | ninniku batake | にんにく畑 |  |  |
-| ninnindo | にんにん堂 |  |  |
+| ninnindo | にんにん堂 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71490/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG27879.html) |
 | nino-kan | にのカン |  |  |
 | niponipo | にぽにぽ |  |  |
 | nipopo crisis | ニポポクライシス |  |  |
