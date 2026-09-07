@@ -6086,7 +6086,7 @@ example:
 | z9 | Z9 | 游戏碧蓝航线中的Z9，原型为Z-9沃尔夫冈·岑克尔号驱逐舰（KMS Z-9 Wolfgang Zenker） | [维基百科](https://zh.wikipedia.org/wiki/Z-9沃尔夫冈·岑克尔号驱逐舰)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/Z9) |
 | blucher | 布吕歇尔 | ![](https://azurlane.netojuu.com/images/thumb/3/35/BlücherWithoutBG.png/1169px-BlücherWithoutBG.png)<br>所属作品：`azur lane`，`warship girls` | [战舰少女百科](https://www.zjsnrwiki.com/wiki/布吕歇尔%28重巡洋舰%29)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/布吕歇尔) |
 | shiroha naruse | 鸣濑白羽 | 鸣濑白羽（日语：鳴瀬（なるせ） しろは）是由Key制作的游戏《Summer Pockets》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/a/a7/Gallery_cg_01_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鸣濑白羽) |
-| ao sorakado | 空门苍 | 空门苍（日语：空門（そらかど） 蒼（あお））是由Key制作的游戏《Summer Pockets》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/8/89/Sorakado_Ao1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/空门苍) |
+| ao sorakado | 空门苍 | ![](https://static.wikia.nocookie.net/summerpockets/images/8/86/Ao01.jpg)<br>出自作品:`summer pockets` | [萌娘百科](https://zh.moegirl.org.cn/空门苍) |
 | kamome kushima | 久岛鸥 | 久岛鸥（日语：久島（くしま） 鴎（かもめ））是由Key制作的游戏《Summer Pockets》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/48/Kushima_Kamome1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/久岛鸥) |
 | mizuho kazami | 风见瑞穗 |  | [Bangumi](https://bgm.tv/character/13901) |
 | izumo kamiki | 神木出云 |  | [Bangumi](https://bgm.tv/character/13461) |
