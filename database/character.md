@@ -6085,7 +6085,7 @@ example:
 | pennsylvania | 宾夕法尼亚 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/634c0d85e0ae08975f9d21d28e5a0482262400697.png) | [维基百科](https://zh.wikipedia.org/wiki/賓夕法尼亞號戰艦)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/USS_Pennsylvania_%28BB-38%29)<br>[https://www.zjsnrwiki.com/wiki/宾夕法尼亚](https://www.zjsnrwiki.com/wiki/宾夕法尼亚)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/宾夕法尼亚) |
 | z9 | Z9 | 游戏碧蓝航线中的Z9，原型为Z-9沃尔夫冈·岑克尔号驱逐舰（KMS Z-9 Wolfgang Zenker） | [维基百科](https://zh.wikipedia.org/wiki/Z-9沃尔夫冈·岑克尔号驱逐舰)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/Z9) |
 | blucher | 布吕歇尔 | ![](https://azurlane.netojuu.com/images/thumb/3/35/BlücherWithoutBG.png/1169px-BlücherWithoutBG.png)<br>所属作品：`azur lane`，`warship girls` | [战舰少女百科](https://www.zjsnrwiki.com/wiki/布吕歇尔%28重巡洋舰%29)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/布吕歇尔) |
-| shiroha naruse | 鸣濑白羽 | 鸣濑白羽（日语：鳴瀬（なるせ） しろは）是由Key制作的游戏《Summer Pockets》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/a/a7/Gallery_cg_01_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鸣濑白羽) |
+| shiroha naruse | 鸣濑白羽 | ![](https://static.wikia.nocookie.net/summerpockets/images/6/64/Shiroha01.jpg)<br>出自作品:`summer pockets` | [萌娘百科](https://zh.moegirl.org.cn/鸣濑白羽) |
 | ao sorakado | 空门苍 | ![](https://static.wikia.nocookie.net/summerpockets/images/8/86/Ao01.jpg)<br>出自作品:`summer pockets` | [萌娘百科](https://zh.moegirl.org.cn/空门苍) |
 | kamome kushima | 久岛鸥 | 久岛鸥（日语：久島（くしま） 鴎（かもめ））是由Key制作的游戏《Summer Pockets》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/48/Kushima_Kamome1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/久岛鸥) |
 | mizuho kazami | 风见瑞穗 |  | [Bangumi](https://bgm.tv/character/13901) |
