@@ -15705,6 +15705,7 @@ example:
 | miira | みいら |  | [FANBOX](https://miira319.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/61790149) \| [X](https://x.com/miira753) \| [Skeb](https://skeb.jp/@miira753) |
 | sori | かまつか | そり | [X](https://x.com/kmtkmatuka) \| [Fantia](https://fantia.jp/fanclubs/314848) \| [FANBOX](https://kmtkamatuka.fanbox.cc/) |
 | mad | mad |  |  |
+| ya-ki | ya-ki |  | [FANBOX](https://y1a2k0i.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/104806490) \| [X](https://x.com/y1a2k0i) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/exclude_ai=0/id=237231/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
