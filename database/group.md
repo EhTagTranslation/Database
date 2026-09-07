@@ -10438,7 +10438,7 @@ example:
 | shumisen jiru | シュミセンジル |  |  |
 | shun shun shouten | しゅん々商店 |  |  |
 | shungabu | 春画部 |  |  |
-| shuniku 2 | しゅにく2 |  |  |
+| shuniku 2 | しゅにく2 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG27641.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70849/) \| [Ci-en](https://ci-en.dlsite.com/creator/1521) \| [FANBOX](https://syuniku2.fanbox.cc/) \| [X](https://x.com/syuniku2) \| [pixiv](https://www.pixiv.net/users/11910604) \| [Pawoo](https://pawoo.net/@syuniku2) |
 | shunran | 春蘭 |  |  |
 | shuraba keikaku | 修羅場計画 |  |  |
 | shuuchuugouu keihou | 集中豪雨警報 |  |  |
