@@ -1879,7 +1879,7 @@ example:
 | satofuji masato | 了藤诚仁 |  |  |
 | yoshi hyuuma | 吉飞雄马 |  |  |
 | yuri ai | 悠理爱 |  |  |
-| yamakumo | 山云 | 山雲 | [pixiv](https://www.pixiv.net/users/16416719) |
+| yamakumo | 山云 | 山雲 | [pixiv](https://www.pixiv.net/users/16416719) \| [FANBOX](https://ymkm-r18.fanbox.cc/) \| [X](https://x.com/ymkm_r18) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72333/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG31526.html) \| [IRODORI](https://irodoricomics.com/yamakumo) |
 | purin purin | プリンプリン |  |  |
 | aoki ume | 蒼樹うめ |  |  |
 | nekosawaritai | 猫泽鲤鲷 |  |  |
