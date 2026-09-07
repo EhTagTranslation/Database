@@ -10964,7 +10964,7 @@ example:
 | tonnosuke | とんのすけ |  |  |
 | tonotani | とのたに |  |  |
 | tonpu | とんぷ |  |  |
-| tonsuke | とんすけ |  |  |
+| tonsuke | とんすけ | 助 | [FANBOX](https://ninnindo.fanbox.cc/) \| [Skeb](https://skeb.jp/@ninnindo_) \| [X](https://x.com/ninnindo_) \| [pixiv](https://www.pixiv.net/users/9392065) \| [BOOTH](https://sukesuke.booth.pm/) \| [Fantia](https://fantia.jp/fanclubs/492446) |
 | tonten | トンテン |  |  |
 | tooco | Tooco |  |  |
 | tooda shunkei | 遠田春景 |  |  |
