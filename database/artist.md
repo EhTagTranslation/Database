@@ -1879,7 +1879,7 @@ example:
 | satofuji masato | 了藤诚仁 |  |  |
 | yoshi hyuuma | 吉飞雄马 |  |  |
 | yuri ai | 悠理爱 |  |  |
-| yamakumo | 山云 |  |  |
+| yamakumo | 山云 | 山雲 | [pixiv](https://www.pixiv.net/users/16416719) |
 | purin purin | プリンプリン |  |  |
 | aoki ume | 蒼樹うめ |  |  |
 | nekosawaritai | 猫泽鲤鲷 |  |  |
