@@ -10219,6 +10219,7 @@ example:
 | dizzy dokuro | Dizzy Dokuro | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/f/f0/Dizzy_Dokuro_Portrait.png)<br>日语：髑髏ディズィー<br>所属团体： Phase-Connect ，二期生“Phase Invaders”的成员之一 |  |
 | valeriy | 瓦列里 | ![](https://static.wikia.nocookie.net/gensin-impact/images/6/60/NPC_Valeriy.png)<br>出自作品:`genshin impact` |  |
 | mitya | 米提亚 | ![](https://static.wikia.nocookie.net/gensin-impact/images/f/f3/NPC_Mitya.png)<br>出自作品:`genshin impact` |  |
+| tilty claret | 缇尔蒂·克拉雷特 | ![](https://static.wikia.nocookie.net/tenten-kakumei/images/b/b2/Tilty_anime_design_%28v2%29.png)<br>日语：ティルティ・クラーレット<br>出自作品:`tensei oujo to tensai reijou no mahou kakumei` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
