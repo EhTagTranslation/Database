@@ -14241,6 +14241,7 @@ example:
 | hazukiken | 葉月軒 | 由同名画师葉月軒创建，画师早期曾用名MaD，因此早期作品可能有a:mad的标签，但重名画师较多，建议以g:hazukiken搜索 | [pixiv](https://www.pixiv.net/users/115600) [X](https://x.com/hazukiken) |
 | pencil rocket | ぺんしるろけっと |  |  |
 | nazunasoft | ナズナソフト |  |  |
+| studio sitomi | スタジオシトミ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
