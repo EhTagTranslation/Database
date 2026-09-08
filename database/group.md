@@ -14243,6 +14243,7 @@ example:
 | nazunasoft | ナズナソフト |  |  |
 | studio sitomi | スタジオシトミ |  |  |
 | lost heart | ろすとはーと |  |  |
+| jei c1on-ri | じぇいC1ON-り |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
