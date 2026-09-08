@@ -14242,6 +14242,7 @@ example:
 | pencil rocket | ぺんしるろけっと |  |  |
 | nazunasoft | ナズナソフト |  |  |
 | studio sitomi | スタジオシトミ |  |  |
+| lost heart | ろすとはーと |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
