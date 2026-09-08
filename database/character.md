@@ -10214,6 +10214,7 @@ example:
 | testarossa | 泰丝塔罗莎 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/2/2b/Testarossa_Anime.png)<br>别名原初之白<br>日语：テスタロッサ<br>出自作品:`tensei shitara slime datta ken` |  |
 | arale nakamachi | 仲町阿拉蕾 | ![](https://static.wikia.nocookie.net/bandori/images/2/22/Nakamachi_Arale.jpg)<br>日语：仲町 あられ<br>出自作品：`bang dream` |  |
 | hsin | 心月狐 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/d/d6/Hsin_Card.jpg)<br>出自作品:`wuthering waves` |  |
+| kokoro toumi | 渡海心 | ![](https://static.wikia.nocookie.net/blue-archive/images/3/39/Kokoro_Portrait.png)<br>日语：渡海とうみ<br>出自作品:`blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
