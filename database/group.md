@@ -14245,6 +14245,7 @@ example:
 | lost heart | ろすとはーと |  |  |
 | jei c1on-ri | じぇいC1ON-り |  |  |
 | kyaradain | きゃらだいん |  |  |
+| sweet and tea | 甜茶社(Sweet & Tea) |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
