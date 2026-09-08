@@ -10220,6 +10220,7 @@ example:
 | valeriy | 瓦列里 | ![](https://static.wikia.nocookie.net/gensin-impact/images/6/60/NPC_Valeriy.png)<br>出自作品:`genshin impact` |  |
 | mitya | 米提亚 | ![](https://static.wikia.nocookie.net/gensin-impact/images/f/f3/NPC_Mitya.png)<br>出自作品:`genshin impact` |  |
 | tilty claret | 缇尔蒂·克拉雷特 | ![](https://static.wikia.nocookie.net/tenten-kakumei/images/b/b2/Tilty_anime_design_%28v2%29.png)<br>日语：ティルティ・クラーレット<br>出自作品:`tensei oujo to tensai reijou no mahou kakumei` |  |
+| fumino kotoyose | 琴寄文乃 | ![](https://i.namu.wiki/i/9VVDYSwWQ36hj0XTaQ8BlNPxK-aU5g5DIOCMkGI17O0SG9YKTFrgN7n2C_JOkN40tRL6pPwpJOUyiWWmdgJMmS9UUXcXrdRxIpiWWterwwbWgci6c5D4VjkKsvn8Fb9tMZvdKiq1SHgVFTH1qSj-Rw.webp)<br>出自作品:`nukige mitai na shima ni sunderu watashi wa dou surya ii desu ka` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
