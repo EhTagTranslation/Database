@@ -14244,6 +14244,7 @@ example:
 | studio sitomi | スタジオシトミ |  |  |
 | lost heart | ろすとはーと |  |  |
 | jei c1on-ri | じぇいC1ON-り |  |  |
+| kyaradain | きゃらだいん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
