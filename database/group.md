@@ -3478,7 +3478,7 @@ example:
 | bunchindoh | ぶんちん堂 |  |  |
 | bungalow | バンガロゥ |  |  |
 | bunmei kaika | 文明快化 |  |  |
-| buppa studio | ブッパスタジオ |  |  |
+| buppa studio | ブッパスタジオ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76949/) |
 | burakuradou | ブラクラ堂 |  |  |
 | buranko shinshi | ブランコ紳士 |  |  |
 | buri daikon | ぶり大根 |  |  |
