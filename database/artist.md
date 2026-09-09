@@ -15708,6 +15708,7 @@ example:
 | ya-ki | ya-ki |  | [FANBOX](https://y1a2k0i.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/104806490) \| [X](https://x.com/y1a2k0i) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/exclude_ai=0/id=237231/) |
 | lassie art | ラッシーアート |  |  |
 | samuimo | 寒芋 |  | [FANBOX](https://samuimo21.fanbox.cc/)<br>[pixiv](https://www.pixiv.net/users/54300954)<br>[X](https://x.com/samuimo21) |
+| zhi yitiaomiao | 质yitiaomiao | asuna saki | [pixiv](https://www.pixiv.net/users/16848580) \| [Patreon](https://www.patreon.com/cw/asunasaki) |
 
 <!--TEMPLATE:
 |  |  |  |  |
