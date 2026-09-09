@@ -11090,7 +11090,7 @@ example:
 | tamafull | tamaFull |  |  |
 | tamafuwa | たまふわ |  |  |
 | tamagawa enema | 多摩川エネマ |  |  |
-| tamagobou | 玉子房 |  |  |
+| tamagobou | 玉子房 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77144/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01047964.html) |
 | tamagomura | タマゴ村 |  |  |
 | tamakakeya | たまかけ屋 |  |  |
 | tamakiya | 環屋 |  |  |
