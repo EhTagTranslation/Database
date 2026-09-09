@@ -11495,7 +11495,7 @@ example:
 | toxic love | ときしっくらぶ |  |  |
 | toxic store | Toxic Store |  |  |
 | toybox | といぼっくす |  |  |
-| tozan bu | TOZAN:BU |  |  |
+| tozan bu | TOZAN:BU |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204271/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49366.html) |
 | tp | tp! |  |  |
 | tra-tama ry | トラたま(略) |  |  |
 | tracklisko | とらっくりすこ |  |  |
