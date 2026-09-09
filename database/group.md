@@ -8281,7 +8281,7 @@ example:
 | namaco | NAMACO |  |  |
 | namae kinyuuran | 名前記入欄 |  |  |
 | namaikichibi | なまいきちび |  |  |
-| namakemono kishidan | なまけもの騎士団 |  |  |
+| namakemono kishidan | なまけもの騎士団 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG24078.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29523/) |
 | namakoya | なまこ屋 |  |  |
 | namakura dou | なまくら堂 |  |  |
 | namakura na kura | なまくらな鞍 |  |  |
