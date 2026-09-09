@@ -1848,7 +1848,7 @@ example:
 | neko tanteidan peach | ネコ☆探偵団 |  |  |
 | water drop | うぉーたーどろっぷ |  |  |
 | honey butter3g | はちみつバター3g |  |  |
-| ichibocchi | ゐちぼっち |  |  |
+| ichibocchi | ゐちぼっち |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71957/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG40420.html) |
 | low temp | low\*temp |  |  |
 | against | against |  |  |
 | jigizagi | ジギザギ |  |  |
