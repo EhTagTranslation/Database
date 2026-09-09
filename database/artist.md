@@ -12484,7 +12484,7 @@ example:
 | waka mochi ta | わかもち太 |  |  |
 | mmchair | MM |  | [pixiv](https://www.pixiv.net/users/1815304) \| [X](https://x.com/Muuchansan18) \| [FANBOX](https://mmchair.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/93083) \| [misskey](https://misskey.io/@muuchansan) |
 | arisugawa kotone | 有栖川琴音 |  |  |
-| hitonitati | ひとにたち |  |  |
+| hitonitati | ひとにたち |  | [pixiv](https://www.pixiv.net/users/52342549) \| [Skeb](https://skeb.jp/@Hitonitati1) \| [X](https://x.com/Hitonitati1) |
 | ryou | 涼 | レッド松 | [FANBOX](https://www.fanbox.cc/@ryou9999) \| [pixiv](https://www.pixiv.net/users/18756684) \| [X](https://x.com/AbcM2jih) |
 | ono elle | える |  |  |
 | usitora tatumi | 牛虎たつみ |  |  |
