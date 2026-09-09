@@ -5172,7 +5172,7 @@ example:
 | fujiwara yumi | 藤原結実 |  |  |
 | fujiya | ふじや |  |  |
 | fujiya apota | 不二家あぽ太 |  |  |
-| fujiyama | 富士やま |  |  |
+| fujiyama | 富士やま |  | [FANBOX](https://fjym.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/9343974) \| [X](https://x.com/fujiyamatzn) \| [IRODORI](https://irodoricomics.com/Fujiyama) |
 | fujiyama takashi | フジヤマタカシ |  |  |
 | fuka | FUKA |  |  |
 | fukada takushi | 深田拓士 |  | [pixiv](https://www.pixiv.net/users/2905052) \| [X](https://x.com/fkd_t) |
