@@ -755,7 +755,7 @@ example:
 | musashi daichi | 武蔵ダイチ |  |  |
 | nukunuku orange | ヌクヌクオレンジ |  |  |
 | onikubo hirohisa | 鬼窪浩久 |  | [FANZA](https://book.dmm.co.jp/list/?author=25037) |
-| sagattoru | サカッとる |  |  |
+| sagattoru | サカッとる |  | [pixiv](https://www.pixiv.net/users/1263210) \| [X](https://x.com/sagatto_ru) \| [Skeb](https://skeb.jp/@sagatto_ru) \| [Fantia](https://fantia.jp/fanclubs/505918) \| [FANBOX](https://www.fanbox.cc/@sagat-r) |
 | tamaki | TAMAKI \| 環 |  |  |
 | ahemaru | アヘ丸 |  | [pixiv](https://www.pixiv.net/users/287671) |
 | akikusa peperon | 秋草ぺぺろん |  | [pixiv](https://www.pixiv.net/users/207241) |
