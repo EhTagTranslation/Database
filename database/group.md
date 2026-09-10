@@ -14248,6 +14248,7 @@ example:
 | sweet and tea | 甜茶社(Sweet & Tea) |  |  |
 | manguard | マンガード |  |  |
 | smiling dog | Smiling Dog |  | [Patreon](https://www.patreon.com/smilingdog) \| [Patreon](https://www.patreon.com/doggosdoujins) |
+| wakanuman | わかぬマン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
