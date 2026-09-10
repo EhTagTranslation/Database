@@ -3006,6 +3006,7 @@ example:
 | clover days | 四叶草的约定 | ![](https://t.vndb.org/cv.t/49/94749.jpg)<br>Clover Day's |  |
 | wet | 终极女猎人 |  |  |
 | uchi no shishou wa shippo ga nai | 我家师傅没有尾巴 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0e/c7/344874_qS88b.jpg)<br>日语：うちの師匠はしっぽがない |  |
+| energy kyouka | えなじぃキョーカ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
