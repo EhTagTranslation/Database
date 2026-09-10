@@ -14250,6 +14250,7 @@ example:
 | smiling dog | Smiling Dog |  | [Patreon](https://www.patreon.com/smilingdog) \| [Patreon](https://www.patreon.com/doggosdoujins) |
 | wakanuman | わかぬマン |  |  |
 | hamens | はめんず |  |  |
+| egg milk. | えっぐみるく。 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
