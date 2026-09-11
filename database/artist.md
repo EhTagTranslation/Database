@@ -15711,6 +15711,7 @@ example:
 | zhi yitiaomiao | 质yitiaomiao | asuna saki | [pixiv](https://www.pixiv.net/users/16848580) \| [Patreon](https://www.patreon.com/cw/asunasaki) |
 | daroon5 | DaRoon5 |  | [pixiv](https://www.pixiv.net/users/52640474) \| [X](https://x.com/bydaroon5) \| [FANBOX](https://daroon5.fanbox.cc/) |
 | tawa | たわ | たわし | [pixiv](https://www.pixiv.net/users/17341937) \| [X](https://x.com/tawashi3240) |
+| akubine kokoro | 阿久美寝心 | 阿久美寝心🔞あくびね こころ | [pixiv](https://www.pixiv.net/users/60483960) \| [X](https://x.com/QNZomVYg3Hedkyg) \| [FANBOX](https://akubinekokoro.fanbox.cc/) \| [Skeb](https://skeb.jp/@QNZomVYg3Hedkyg) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201751/) \| [BOOTH](https://akubine.booth.pm/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01002643.html) |
 
 <!--TEMPLATE:
 |  |  |  |  |
