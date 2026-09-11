@@ -13306,7 +13306,7 @@ example:
 | akaneya gu-tara ten | 茜屋ぐーたら店 |  |  |
 | erorhythm | EroRhythm |  |  |
 | izumi no miyako | 和泉都 |  |  |
-| keisei yuan | 傾世遊庵 |  |  |
+| keisei yuan | 傾世遊庵 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79824/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG50046.html) |
 | yukidoke hachinosu | 雪解けハチノス |  |  |
 | urahara doll | うらはらドール |  |  |
 | bloody mary | 血腥玛丽 |  |  |
