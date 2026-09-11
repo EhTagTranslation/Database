@@ -10229,6 +10229,7 @@ example:
 | kiabit | 基亚比茨特 | ![](https://static.wikia.nocookie.net/isekai-nonbiri-nouka-manga-wiki/images/3/3c/1706626096674.png)<br>日语：キアービツト<br>出自作品:`isekai nonbiri nouka` |  |
 | akira asai | 朝井明 | ![](https://static.wikia.nocookie.net/yofukashi-no-uta/images/e/e6/Akira_Asai_Anime.png)<br>日语：朝井アキラ<br>出自作品:`yofukashi no uta` |  |
 | ushi gozen | 丑御前 |  |  |
+| nagomi iojaku | 五百雀和美 | ![](https://static.wikia.nocookie.net/blue-archive/images/a/ab/Nagomi_Portrait.png)<br>日语：五百雀ナゴミ<br>出自作品:`blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
