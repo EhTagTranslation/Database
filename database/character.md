@@ -10226,6 +10226,7 @@ example:
 | luxanna crownguard | 拉克丝（光辉女郎） | ![](https://patchwiki.biligame.com/images/lol/2/2b/ibb5t1ww3z02lihzmml2yrsupt1vazk.jpg)<br>全名：拉克丝·克朗加德/拉克珊娜·冕卫<br>出自作品:`league of legends` |  |
 | vera levitt | 薇拉·莱维特 | ![](https://static.wikia.nocookie.net/typemoon/images/0/02/VeraL.png)<br>日语：ヴェラ・レヴィット<br>出自作品:`fate strange fake` |  |
 | kanae hiwatari | 冰渡香名江 | 出自作品:`the idolmaster` |  |
+| kiabit | 基亚比茨特 | ![](https://static.wikia.nocookie.net/isekai-nonbiri-nouka-manga-wiki/images/3/3c/1706626096674.png)<br>日语：キアービツト<br>出自作品:`isekai nonbiri nouka` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
