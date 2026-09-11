@@ -12467,7 +12467,7 @@ example:
 | mudoochi | むどおち |  |  |
 | mori manpei | 森万平 |  |  |
 | frogsnake | 蛙记 |  | [pixiv](https://www.pixiv.net/users/8121890) |
-| tearontaron | てぃーろんたろん |  |  |
+| tearontaron | てぃーろんたろん |  | [pixiv](https://www.pixiv.net/users/7314141) \| [X](https://x.com/tearontaron) \| [FANBOX](https://tearontaron.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/14056) |
 | tonee | Tonee |  | [pixiv](https://www.pixiv.net/users/1583918) [Patreon](https://www.patreon.com/toneeartwork) [FANBOX](https://tonee.fanbox.cc/) |
 | rangu | らんぐ |  | [pixiv](https://www.pixiv.net/users/33844486) [X](https://x.com/ran9u) |
 | icomochi | イコモチ |  | [X](https://x.com/rswxx) [pixiv](https://www.pixiv.net/users/801146) |
