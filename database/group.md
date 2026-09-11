@@ -14251,6 +14251,7 @@ example:
 | wakanuman | わかぬマン |  |  |
 | hamens | はめんず |  |  |
 | egg milk. | えっぐみるく。 |  |  |
+| pushmine | プッシュマイン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
