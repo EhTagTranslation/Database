@@ -700,7 +700,7 @@ example:
 | smac | SMAC | SMAC 成人向同人志作者，以社团`activa`进行创作。作品是主要内容以`exhibitionism`为题材的`full color`同人本。<br>![图](https://pbs.twimg.com/profile_images/1424401863718313988/YgpeBUwS_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/2f/e4/2fe482537d29a3b0c0b0c0ab010d779dff6af581-1178260-1072-1500-jpg_l.jpg")<br>露出オトメLO「ひとりでハダカ…できるもんっ!〜藤田明日香〜」 | [X](https://x.com/ACTIVA_web) [pixiv](https://www.pixiv.net/users/91048) |
 | hie himiko | 日枝御子 |  |  |
 | hisakawa tinn | 久川ちん |  |  |
-| mizuhara yuu | 水原优 |  |  |
+| mizuhara yuu | 水原优 | 水原優 | [FANBOX](https://mizuharayuu.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/2683956) \| [X](https://x.com/yuumizuhara) \| [Fantia](https://fantia.jp/fanclubs/4787) \| [Pawoo](https://pawoo.net/@rip_a_lip) |
 | hasumi milk | はすみみるく |  |  |
 | karasu | 空巢 |  |  |
 | akiha at | あきは@ |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ006977/ana_flg/all) |
