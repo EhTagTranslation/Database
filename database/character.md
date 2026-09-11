@@ -10228,6 +10228,7 @@ example:
 | kanae hiwatari | 冰渡香名江 | 出自作品:`the idolmaster` |  |
 | kiabit | 基亚比茨特 | ![](https://static.wikia.nocookie.net/isekai-nonbiri-nouka-manga-wiki/images/3/3c/1706626096674.png)<br>日语：キアービツト<br>出自作品:`isekai nonbiri nouka` |  |
 | akira asai | 朝井明 | ![](https://static.wikia.nocookie.net/yofukashi-no-uta/images/e/e6/Akira_Asai_Anime.png)<br>日语：朝井アキラ<br>出自作品:`yofukashi no uta` |  |
+| ushi gozen | 丑御前 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
