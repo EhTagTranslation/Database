@@ -14225,7 +14225,7 @@ example:
 | chawanmushi | 茶碗蒸し |  |  |
 | cinnamon | しなもん |  | [X](https://x.com/mon_moncinnamo) |
 | cross k | クロスk |  |  |
-| dramus | ドラムス |  |  |
+| dramus | ドラムス |  | [pixiv](https://www.pixiv.net/users/1148140) \| [FANBOX](https://doramusu.fanbox.cc/) \| [X](https://x.com/Flavius_dramus) \| [Pawoo](https://pawoo.net/@zyotaro) \| [Fantia](https://fantia.jp/fanclubs/18069) |
 | dozaemon | 土座衛門 |  |  |
 | devildance | デビルダンス |  |  |
 | datenshi namako | 堕天使なまこ |  |  |
