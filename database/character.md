@@ -10223,6 +10223,7 @@ example:
 | fumino kotoyose | 琴寄文乃 | ![](https://i.namu.wiki/i/9VVDYSwWQ36hj0XTaQ8BlNPxK-aU5g5DIOCMkGI17O0SG9YKTFrgN7n2C_JOkN40tRL6pPwpJOUyiWWmdgJMmS9UUXcXrdRxIpiWWterwwbWgci6c5D4VjkKsvn8Fb9tMZvdKiq1SHgVFTH1qSj-Rw.webp)<br>出自作品:`nukige mitai na shima ni sunderu watashi wa dou surya ii desu ka` |  |
 | hazuki sendai | 仙台叶月 | ![](https://lain.bgm.tv/r/400/pic/crt/l/0d/64/125879_crt_h0nnz.jpg?r=1685105861)<br>出自作品:`shuu ni ichido classmate o kau hanashi` |  |
 | ushio okazaki | 冈崎汐 |  |  |
+| luxanna crownguard | 拉克丝（光辉女郎） | ![](https://patchwiki.biligame.com/images/lol/2/2b/ibb5t1ww3z02lihzmml2yrsupt1vazk.jpg)<br>全名：拉克丝·克朗加德/拉克珊娜·冕卫<br>出自作品:`league of legends` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
