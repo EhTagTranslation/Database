@@ -15713,6 +15713,7 @@ example:
 | tawa | たわ | たわし | [pixiv](https://www.pixiv.net/users/17341937) \| [X](https://x.com/tawashi3240) |
 | akubine kokoro | 阿久美寝心 | 阿久美寝心🔞あくびね こころ | [pixiv](https://www.pixiv.net/users/60483960) \| [X](https://x.com/QNZomVYg3Hedkyg) \| [FANBOX](https://akubinekokoro.fanbox.cc/) \| [Skeb](https://skeb.jp/@QNZomVYg3Hedkyg) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201751/) \| [BOOTH](https://akubine.booth.pm/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01002643.html) |
 | ozuma | 大東 |  | [X](https://x.com/One1Ozuma) \| [FANBOX](https://ozuma.fanbox.cc/) \| [プロフリ](https://profu.link/u/ozumaone) \| [pixiv](https://www.pixiv.net/users/75305185) |
+| tamio | tamio |  | [pixiv](https://www.pixiv.net/users/74927898) \| [Skeb](https://skeb.jp/@tamio25576257) \| [X](https://x.com/tamio25576257) \| [FANBOX](https://tmolog.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
