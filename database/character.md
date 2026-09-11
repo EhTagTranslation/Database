@@ -10228,7 +10228,7 @@ example:
 | kanae hiwatari | 冰渡香名江 | 出自作品:`the idolmaster` |  |
 | kiabit | 基亚比茨特 | ![](https://static.wikia.nocookie.net/isekai-nonbiri-nouka-manga-wiki/images/3/3c/1706626096674.png)<br>日语：キアービツト<br>出自作品:`isekai nonbiri nouka` |  |
 | akira asai | 朝井明 | ![](https://static.wikia.nocookie.net/yofukashi-no-uta/images/e/e6/Akira_Asai_Anime.png)<br>日语：朝井アキラ<br>出自作品:`yofukashi no uta` |  |
-| ushi gozen | 丑御前 |  |  |
+| ushi gozen | 丑御前 | ![](https://static.wikia.nocookie.net/fategrandorder/images/1/1b/S403_Sprite_Ver1_Stage1.png)<br><br>出自作品:`fate grand order` |  |
 | nagomi iojaku | 五百雀和美 | ![](https://static.wikia.nocookie.net/blue-archive/images/a/ab/Nagomi_Portrait.png)<br>日语：五百雀ナゴミ<br>出自作品:`blue archive` |  |
 | suiko takanosu | 鹰野主翠子 | ![](https://static.wikia.nocookie.net/blue-archive/images/6/64/Suiko_Portrait.png)<br>日语：鷹野主スイコ<br>出自作品:`blue archive` |  |
 | youko utou | 乌头尾阳子 | ![](https://static.wikia.nocookie.net/blue-archive/images/b/ba/Youko_Portrait.png)<br>日语：烏頭尾ヨウコ<br>出自作品:`blue archive` |  |
