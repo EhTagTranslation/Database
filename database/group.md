@@ -676,7 +676,7 @@ example:
 | activa | ACTIVA |  |  |
 | atsuatsu muchimuchi | アツアツムチムチ |  |  |
 | kuro lili no heya | 黒りりの部屋 |  |  |
-| rip at lip | Rip@Lip |  |  |
+| rip at lip | Rip@Lip |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG06868.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=22753/) |
 | marinesapphire | 海苍玉 |  |  |
 | liche | Liche |  |  |
 | seven deadly sins | Seven deadly sins |  |  |
