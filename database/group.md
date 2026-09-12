@@ -14255,6 +14255,7 @@ example:
 | happy fall | ハッピーフォール |  |  |
 | airy socks en | エアリーソックス・艶 |  |  |
 | lovelytes | ラブリテス |  |  |
+| amorphous | アモルファス |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
