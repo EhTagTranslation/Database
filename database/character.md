@@ -10244,6 +10244,7 @@ example:
 | sheena fujibayashi | 藤林椎名 | ![](https://static.wikia.nocookie.net/charactah-account/images/e/eb/Sheena_Fujibayashi_Render_01.png)<br>日语：藤林 しいな<br>出自作品:`tales of symphonia` |  |
 | xiang yu | 项羽 |  |  |
 | presea combatir | 布雷塞娅·康巴提尔 | ![](https://static.wikia.nocookie.net/all-worlds-alliance/images/b/bd/%28Lumberjill%29_Presea.png)<br>日语 :レセア・コンバティール<br>出自作品:`tales of symphonia` |  |
+| colette brunel | 柯蕾特·布鲁内尔 | ![](https://static.wikia.nocookie.net/all-worlds-alliance/images/d/dd/Colette_Brunel_%28ToLink%29.png)<br>日语：コレット・ブルーネル<br>出自作品:`tales of symphonia` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
