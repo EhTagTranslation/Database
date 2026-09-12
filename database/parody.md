@@ -417,7 +417,7 @@ example:
 | sekirei | 鹡鸰女神 |  |  |
 | yuuki yuuna wa yuusha de aru | 结城友奈是勇者 | ![](https://storage.moegirl.org.cn/moegirl/commons/7/70/Yuyuyu_Daimankai_KV2.png)<br>《结城友奈是勇者》（日语：結城友奈（ゆうきゆうな）は勇者（ゆうしゃ）である）是由タカヒロ企划、Studio五组制作的动画系列，并有漫画、游戏等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/结城友奈是勇者) |
 | blazblue | 苍翼默示录 | 《苍翼默示录》系列（日语：ブレイブルー）是由日本亚克系统制作的一款2D格斗游戏，并有《XBlaze》、《Blazblue Bloodedge Experience》等衍生作品。英文标题名「BLAZBLUE」，是将「Brave（勇者）」「Blaze（炎）」「Blue（青）」的意思相互融合的造语，是本作的故事剧情中的核心词语。 | [萌娘百科](https://zh.moegirl.org.cn/苍翼默示录系列) |
-| frame arms girl | 机甲少女 |  |  |
+| frame arms girl | 机甲少女 | 寿屋（Kotubukya）基于旗下科幻机器人IP 骨装机兵（Frame Arms）美少女化的新产品线 ，并衍生出小说，漫画，TV动画等同世界观作品。<br>在FA Girl世界观中，以FA社（Factory Advance）最新开发的搭载 AS（Artificial Self）的FA Girl为起始，发生的各种故事 | [萌娘百科](https://zh.moegirl.org.cn/FRAME_ARMS_GIRL)<br>[维基百科](https://zh.wikipedia.org/wiki/機甲少女_Frame_Arms_Girl) |
 | busou shinki | 武装神姬 |  |  |
 | bayonetta | 猎天使魔女 | 三大ACT之一，任天堂独占系列。 |  |
 | devil may cry | 鬼泣 | 制作生化危机时走错方向的意外作品。 |  |
