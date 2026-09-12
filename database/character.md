@@ -10232,6 +10232,7 @@ example:
 | nagomi iojaku | 五百雀和美 | ![](https://static.wikia.nocookie.net/blue-archive/images/a/ab/Nagomi_Portrait.png)<br>日语：五百雀ナゴミ<br>出自作品:`blue archive` |  |
 | suiko takanosu | 鹰野主翠子 | ![](https://static.wikia.nocookie.net/blue-archive/images/6/64/Suiko_Portrait.png)<br>日语：鷹野主スイコ<br>出自作品:`blue archive` |  |
 | youko utou | 乌头尾阳子 | ![](https://static.wikia.nocookie.net/blue-archive/images/b/ba/Youko_Portrait.png)<br>日语：烏頭尾ヨウコ<br>出自作品:`blue archive` |  |
+| togawa nonoha | 十河野乃花 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/d4/Togawa_Nonoha_Portrait.png)<br>日语：十河ののは<br>所属社团:`nijisanji` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
