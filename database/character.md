@@ -10237,6 +10237,7 @@ example:
 | lastismoon | 拉丝蒂丝姆 | ![](https://static.wikia.nocookie.net/isekai-nonbiri-nouka-manga-wiki/images/2/28/Lastismum_Anime_Full.png)<br>日语：ラスティスムー<br>出自作品:`isekai nonbiri nouka` |  |
 | typhoeus | 堤丰 | ![](https://endfield.wiki.gg/images/thumb/Typhoeus_Splash_Art.png/1280px-Typhoeus_Splash_Art.png?6d0283)<br>出自作品:`arknights endfield` |  |
 | lindverne sunbringer | 林德薇恩·挽昼 | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/5/50/NPC_Lindverne_Sunbringer.png)<br>出自作品:`zenless zone zero` |  |
+| finne von kleinert | 菲妮·冯·克莱纳特 | ![](https://static.wikia.nocookie.net/dull-prince/images/2/27/Finne_no_bg.png)<br>日语：フィーネ・フォン・クライネルト<br>出自作品:`saikyou degarashi ouji no anyaku teii arasoi` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
