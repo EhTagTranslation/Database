@@ -1124,7 +1124,7 @@ example:
 | airy socks | エアリーソックス |  |  |
 | sheepfold | 羊小屋 |  |  |
 | aroma gaeru | あろまガエル |  |  |
-| arion canvas | Arion Canvas |  |  |
+| arion canvas | アリオンキャンバス |  |  |
 | a color summoner | アカラサマナ |  |  |
 | marimo | MARIMO |  |  |
 | alem-gakan | アレム画館 |  |  |
