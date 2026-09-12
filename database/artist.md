@@ -3630,7 +3630,7 @@ example:
 | kyuusuikei | 給水係 |  |  |
 | sr | SR |  | [pixiv](https://www.pixiv.net/users/20714093) |
 | azure | あずーる |  | [X](https://x.com/azure_0608_sub) [pixiv](https://www.pixiv.net/users/5838770) |
-| ishimura | 石村 |  |  |
+| ishimura | 石村 |  | [pixiv](https://www.pixiv.net/users/1276620) |
 | random | 兰田梦 | 蘭田夢 | [pixiv](https://www.pixiv.net/users/6810171) |
 | hamadamiku | 浜田みく |  |  |
 | nanasaki | 七崎 | ハチナナ (七崎) | [FANBOX](https://nanasaki87.fanbox.cc/) [Fantia](https://fantia.jp/fanclubs/297788) [pixiv](https://www.pixiv.net/users/21007221) [X](https://x.com/nanasaki87) |
