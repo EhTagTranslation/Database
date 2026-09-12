@@ -10243,6 +10243,7 @@ example:
 | chloe aubert | 克萝耶·欧贝尔 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/8/87/Adult_Chloe_Anime.png)<br>日语：クロエ・オベール<br>出自作品:`tensei shitara slime datta ken` |  |
 | sheena fujibayashi | 藤林椎名 | ![](https://static.wikia.nocookie.net/charactah-account/images/e/eb/Sheena_Fujibayashi_Render_01.png)<br>日语：藤林 しいな<br>出自作品:`tales of symphonia` |  |
 | xiang yu | 项羽 |  |  |
+| presea combatir | 雷塞娅·康巴提尔 | ![](https://static.wikia.nocookie.net/all-worlds-alliance/images/b/bd/%28Lumberjill%29_Presea.png)<br>日语 :レセア・コンバティール<br>出自作品:`tales of symphonia` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
