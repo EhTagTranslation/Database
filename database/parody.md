@@ -1656,7 +1656,7 @@ example:
 | tsumamigui | 妻中蜜系列 | ![](https://t.vndb.org/cv.t/89/95789.jpg)<br>![](https://t.vndb.org/cv.t/98/91098.jpg)<br>![](https://t.vndb.org/cv.t/92/91092.jpg)<br>日语：妻みぐい | [VNDB](https://vndb.org/v18486?) |
 | senpai ga uzai kouhai no hanashi | 关于前辈很烦人的事 |  | [萌娘百科](https://zh.moegirl.org.cn/前辈有够烦) [维基百科](https://zh.wikipedia.org/wiki/前輩有夠煩) [pixiv](https://www.pixiv.net/user/10509347/series/21859) |
 | neko no otera no chion-san | 猫之寺的知恩姐 |  |  |
-| spy x family | 间谍过家家 | ![](https://tongliebookpic.blob.core.windows.net/bookcover/a737312a6f1d481c4f6708de3ea89387.jpg)<br>《SPY×FAMILY间谍家家酒》（日语：SPY×FAMILY）是由日本漫画家远藤达哉所创作的漫画。本作叙述一名身为间谍的男性、实际工作是杀手的女性，以及一个能读心的超能力者女孩，三人互相隐瞒真实身分所组成的虚假家庭间的家庭喜剧。 | [萌娘百科](https://zh.moegirl.org.cn/间谍过家家) [维基百科](https://zh.wikipedia.org/wiki/SPY×FAMILY間諜家家酒) |
+| spy x family | 间谍过家家 | ![](https://tongliebookpic.blob.core.windows.net/bookcover/a737312a6f1d481c4f6708de3ea89387.jpg)<br>《SPY×FAMILY间谍家家酒》<br>作者：远藤达哉 | [萌娘百科](https://zh.moegirl.org.cn/间谍过家家) [维基百科](https://zh.wikipedia.org/wiki/SPY×FAMILY間諜家家酒) |
 | kawaikereba hentai demo suki ni natte kuremasu ka | 只要长得可爱，即使是变态你也喜欢吗? |  | [萌娘百科](https://zh.moegirl.org.cn/只要长得可爱，即使是变态你也喜欢吗) |
 | dorohedoro | 异兽魔都 |  | [萌娘百科](https://zh.moegirl.org.cn/异兽魔都) [维基百科](https://en.wikipedia.org/wiki/Dorohedoro) |
 | bokura wa minna kawaisou | 我们大家的河合庄 | en: The Kawai Complex Guide to Manors and Hostel Behavior | [维基百科](https://zh.wikipedia.org/wiki/我們大家的河合莊) |
