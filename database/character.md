@@ -10241,6 +10241,7 @@ example:
 | kyoka kitahara | 北原镜华 | ![](https://static.wikia.nocookie.net/maebashi-witches/images/4/4b/Kyoka_Kitahara_Design_3.png)<br>日语：北原キョウカ<br>出自作品:`maebashi witches` |  |
 | choco mitsumata | 三俣巧可 | ![](https://static.wikia.nocookie.net/maebashi-witches/images/e/ee/Choco_Mitsumata_Design_3.png)<br>日语：三俣チョコ<br>出自作品:`maebashi witches` |  |
 | chloe aubert | 克萝耶·欧贝尔 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/8/87/Adult_Chloe_Anime.png)<br>日语：クロエ・オベール<br>出自作品:`tensei shitara slime datta ken` |  |
+| sheena fujibayashi | 藤林椎名 | ![](https://static.wikia.nocookie.net/charactah-account/images/e/eb/Sheena_Fujibayashi_Render_01.png)<br>日语：藤林 しいな<br>出自作品:`tales of symphonia` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
