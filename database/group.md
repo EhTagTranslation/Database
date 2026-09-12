@@ -2800,7 +2800,7 @@ example:
 | andante | あんだんて |  |  |
 | anegaoka sanchoume | 姉ヶ丘三丁目 |  |  |
 | anemitsu | あねみつ |  |  |
-| anemone | Anemone |  |  |
+| anemone | アネモネ\* |  |  |
 | aneurysm. | あにゅうりずむ。 |  |  |
 | anfini | ANFINI |  |  |
 | ange | アンジェ |  |  |
