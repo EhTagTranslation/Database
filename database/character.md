@@ -4752,7 +4752,7 @@ example:
 | sawako kuronuma | 黑沼爽子 | 所属作品: `p:kimi ni todoke` | [萌娘百科](https://zh.moegirl.org.cn/黑沼爽子) |
 | izumi shishidou | 狮子堂泉 | 格黑娜学园所属，美食研究会的一员，什么都吃得多的贪吃少女。![](https://patchwiki.biligame.com/images/ba/5/54/g0vbu5unk3sqd8gmodfnrcklojd7z51.png)<br>![](https://patchwiki.biligame.com/images/ba/d/df/3knnpy2285qy4gq65qnud6w372g3qrb.png) | [Fandom](https://bluearchive.fandom.com/wiki/Shishidou_Izumi?so=search)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Izumi) |
 | lynette | 琳妮特·雪奈茨芙娜 | ![](https://patchwiki.biligame.com/images/ys/2/29/61w5wxzp3a91s23g8ab7h9j6w9ionrw.gif)<br>所属作品:`p:genshin impact`<br>寡言少语，罕有表情的魔术助手，性情像猫一样难以猜测。 | [萌娘百科](https://zh.moegirl.org.cn/琳妮特) |
-| focalors | 芙宁娜·德·枫丹 | ![](https://patchwiki.biligame.com/images/ys/1/11/0csgdv4vehvyvdw3o2prmcc979vxfnz.gif)<br>所属作品:`p:genshin impact`<br>审判舞台上的绝对焦点，直至谢幕的掌声响起。 | [萌娘百科](https://zh.moegirl.org.cn/芙宁娜) |
+| focalors | 芙宁娜·德·枫丹 | ![](https://patchwiki.biligame.com/images/ys/1/11/0csgdv4vehvyvdw3o2prmcc979vxfnz.gif)<br>所属作品:`p:genshin impact` | [萌娘百科](https://zh.moegirl.org.cn/芙宁娜) |
 | mizuki | 水月 | ![](https://patchwiki.biligame.com/images/arknights/9/9e/5a377x9s3ihb1q7rhnfuuapl3uh90wc.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:水月) |
 | ayame kajou | 华城绫女 |  |  |
 | kirche augusta frederica von anhalt zerbst | 丘鲁克·奥古斯都·菲列特利加·封·安哈尔特·泽鲁普斯特 |  | [萌娘百科](https://zh.moegirl.org.cn/丘鲁克·奥古斯都·菲列特利加·封·安哈尔特·泽鲁普斯特) |
