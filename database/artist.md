@@ -9163,7 +9163,7 @@ example:
 | owa | 尾和 |  |  |
 | owahu | おわふ |  |  |
 | owal | おわる |  |  |
-| oxideengine | OXIDEENGINE |  |  |
+| oxideengine | おきえん | 沖津えんじ(OXIDEENGINE)是发布全年龄时用的ID，在fanza、DLsite和X(推特)上发布同人志时通常用的是おきえん这个ID | [X全年龄](https://x.com/OXIDEENGINE)<br>[X成人向](https://x.com/oxide_rated)<br>[Fanza](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76680)<br>[DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG42643.html) |
 | oxxo | OXXO |  |  |
 | oxy | おきし |  |  |
 | oyaji | オヤジ |  |  |
