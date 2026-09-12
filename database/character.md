@@ -10239,6 +10239,7 @@ example:
 | lindverne sunbringer | 林德薇恩·挽昼 | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/5/50/NPC_Lindverne_Sunbringer.png)<br>出自作品:`zenless zone zero` |  |
 | finne von kleinert | 菲妮·冯·克莱纳特 | ![](https://static.wikia.nocookie.net/dull-prince/images/2/27/Finne_no_bg.png)<br>日语：フィーネ・フォン・クライネルト<br>出自作品:`saikyou degarashi ouji no anyaku teii arasoi` |  |
 | kyoka kitahara | 北原镜华 | ![](https://static.wikia.nocookie.net/maebashi-witches/images/4/4b/Kyoka_Kitahara_Design_3.png)<br>日语：北原キョウカ<br>出自作品:`maebashi witches` |  |
+| choco mitsumata | 三俣巧可 | ![](https://static.wikia.nocookie.net/maebashi-witches/images/e/ee/Choco_Mitsumata_Design_3.png)<br>日语：三俣チョコ<br>出自作品:`maebashi witches` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
