@@ -3009,6 +3009,7 @@ example:
 | energy kyouka | えなじぃキョーカ |  |  |
 | isekai shikkaku | 异世界失格 | ![](https://lain.bgm.tv/r/400/pic/cover/l/51/3f/391496_5G4nn.jpg)<br>作者: 野田宏 |  |
 | saikyou degarashi ouji no anyaku teii arasoi | 最强废渣皇子暗中活跃于帝位之争 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a7/a6/456081_Bs2nE.jpg)<br>日语：最強出涸らし皇子の暗躍帝位争い<br>作者：タンバ |  |
+| maebashi witches | 前桥魔女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a8/e1/511207_gAoK3.jpg)<br>日语：前橋ウィッチーズ<br>作者： サンライズ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
