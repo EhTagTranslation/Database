@@ -10236,6 +10236,7 @@ example:
 | flora sakutou | 芙萝拉·萨克多 | ![](https://static.wikia.nocookie.net/isekai-nonbiri-nouka-manga-wiki/images/7/77/Flora_Sakutou_Anime_Full.png)<br>日语：フローラ＝サクトゥ<br>出自作品:`isekai nonbiri nouka` |  |
 | lastismoon | 拉丝蒂丝姆 | ![](https://static.wikia.nocookie.net/isekai-nonbiri-nouka-manga-wiki/images/2/28/Lastismum_Anime_Full.png)<br>日语：ラスティスムー<br>出自作品:`isekai nonbiri nouka` |  |
 | typhoeus | 堤丰 | ![](https://endfield.wiki.gg/images/thumb/Typhoeus_Splash_Art.png/1280px-Typhoeus_Splash_Art.png?6d0283)<br>出自作品:`arknights endfield` |  |
+| lindverne sunbringer | 林德薇恩·挽昼 | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/5/50/NPC_Lindverne_Sunbringer.png)<br>出自作品:`zenless zone zero` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
