@@ -3007,6 +3007,7 @@ example:
 | wet | 终极女猎人 |  |  |
 | uchi no shishou wa shippo ga nai | 我家师傅没有尾巴 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0e/c7/344874_qS88b.jpg)<br>日语：うちの師匠はしっぽがない |  |
 | energy kyouka | えなじぃキョーカ |  |  |
+| isekai shikkaku | 异世界失格 | ![](https://lain.bgm.tv/r/400/pic/cover/l/51/3f/391496_5G4nn.jpg)<br>作者: 野田宏 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
