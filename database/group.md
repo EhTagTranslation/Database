@@ -14260,6 +14260,7 @@ example:
 | ichigo dressing | 苺ドレッシング |  |  |
 | ijou nouryoku kenkyuukaihatsu kikou | 異常能力研究開発機構 |  |  |
 | neko nyoubou | 猫女房 |  |  |
+| danbooru | ダンボール |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
