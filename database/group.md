@@ -14257,6 +14257,7 @@ example:
 | lovelytes | ラブリテス |  |  |
 | amorphous | アモルファス |  |  |
 | gossa-tei | ごっさ亭 |  |  |
+| ichigo dressing | 苺ドレッシング |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
