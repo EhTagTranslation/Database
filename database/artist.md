@@ -15718,6 +15718,7 @@ example:
 | mantendoh | 漫天堂 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=229424/) \| [X](https://x.com/MANTENDOH) |
 | chikuwabuta | ちくわぶ汰 |  |  |
 | maroyaka sakichi | まろやか叉吉 |  |  |
+| tsutaya honmirin | 蔦屋ほんみりん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
