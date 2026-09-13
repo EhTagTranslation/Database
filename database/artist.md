@@ -15721,6 +15721,7 @@ example:
 | tsutaya honmirin | 蔦屋ほんみりん |  |  |
 | amagai yukino | 天海雪乃 |  |  |
 | sagamiya takafumi | さがみやたかふみ |  |  |
+| hanazono rose | 花園ろぉず |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
