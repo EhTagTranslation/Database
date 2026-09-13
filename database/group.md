@@ -14263,6 +14263,7 @@ example:
 | danbooru | ダンボール |  |  |
 | seiheki chousadan | 性癖調査団 |  |  |
 | ushiro no shimu | 後ろの志群 |  |  |
+| nyoudou summit | 尿道サミット |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
