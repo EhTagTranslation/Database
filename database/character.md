@@ -10248,6 +10248,7 @@ example:
 | dong-soo hwang | 黄东秀 | ![](https://static.wikia.nocookie.net/solo-leveling/images/d/d1/Dongsoo_Ragnarok.png)<br>韩语：황동수<br>出自作品:`solo leveling` |  |
 | svetlana rosen yamada | 斯韦特兰娜·罗森·山田 | ![](https://ami.animecharactersdatabase.com/images%20of/スヴェトラーナ・ローゼン・山田/from/グロウアップショウ%20～ひまわりのサーカス団～/uploads/chars/36226-1254255003.png)<br>日语：スヴェトラーナ・ローゼン・山田<br>出自作品:`grow up show` |  |
 | rain | 蕾茵 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/3/38/Rain_Anime.png)<br>出自作品:`tensei shitara slime datta ken` |  |
+| velzard | 维鲁萨德 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/2/26/Velzard_Anime.png)<br>日语：ヴェルザード<br>出自作品:`tensei shitara slime datta ken` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
