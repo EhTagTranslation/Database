@@ -15719,6 +15719,7 @@ example:
 | chikuwabuta | ちくわぶ汰 |  |  |
 | maroyaka sakichi | まろやか叉吉 |  |  |
 | tsutaya honmirin | 蔦屋ほんみりん |  |  |
+| amagai yukino | 天海雪乃 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
