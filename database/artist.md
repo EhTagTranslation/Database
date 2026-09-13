@@ -15722,6 +15722,7 @@ example:
 | amagai yukino | 天海雪乃 |  |  |
 | sagamiya takafumi | さがみやたかふみ |  |  |
 | hanazono rose | 花園ろぉず |  |  |
+| sasami rise | ささみりせ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
