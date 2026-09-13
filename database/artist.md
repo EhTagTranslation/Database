@@ -15720,6 +15720,7 @@ example:
 | maroyaka sakichi | まろやか叉吉 |  |  |
 | tsutaya honmirin | 蔦屋ほんみりん |  |  |
 | amagai yukino | 天海雪乃 |  |  |
+| sagamiya takafumi | さがみやたかふみ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
