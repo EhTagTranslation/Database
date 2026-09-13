@@ -3900,7 +3900,7 @@ example:
 | icarus | 伊卡洛斯 |  |  |
 | palutena | 帕露蒂娜 | ![](https://ehgt.org/w/02/049/94952-uspvp6n6.webp)<br>所属作品：`kid icarus` |  |
 | pit | 皮特 |  |  |
-| bozes co palesti | 波赛斯·戈·芭蕾丝蒂 |  |  |
+| bozes co palesti | 波赛斯·戈·芭蕾丝蒂 | ![](https://lain.bgm.tv/r/400/pic/crt/l/4f/92/39420_crt_EsJ7e.jpg?r=1752077298)<br>日语：ボーゼス・コ・パレスティー<br>出自作品:`gate - jieitai kano chi nite kaku tatakaeri` |  |
 | noi | 能井 |  |  |
 | scirocco | 东南风 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:东南风) |
 | miyuki kujou | 九条美雪 |  |  |
