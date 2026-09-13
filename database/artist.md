@@ -15717,6 +15717,7 @@ example:
 | hudak | 덕호 |  | [pixiv](https://www.pixiv.net/users/38819785) \| [Pawoo](https://pawoo.net/@liujinzy) \| [FANBOX](https://hfw8k9t9.fanbox.cc/) |
 | mantendoh | 漫天堂 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=229424/) \| [X](https://x.com/MANTENDOH) |
 | chikuwabuta | ちくわぶ汰 |  |  |
+| maroyaka sakichi | まろやか叉吉 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
