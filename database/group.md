@@ -14261,6 +14261,7 @@ example:
 | ijou nouryoku kenkyuukaihatsu kikou | 異常能力研究開発機構 |  |  |
 | neko nyoubou | 猫女房 |  |  |
 | danbooru | ダンボール |  |  |
+| seiheki chousadan | 性癖調査団 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
