@@ -3778,7 +3778,7 @@ example:
 | violet evergarden | 薇尔莉特·伊芙加登 | ![图](https://ehgt.org/81/9b/819b78fa5ef854117d2e9c5ef3da71432a5c6c71-1178735-2048-2646-jpg_l.jpg)<br><br>C·H邮递公司所属的自动手记人偶（Auto Memories Doll）少女。<br>幼年时被吉尔伯特捡到，有过从军的过去。<br>拥有着与那份美貌不相称的罕见战斗力。<br>由于只知道战斗，而不会理解别人的心情以及表达自己的心情。<br>被交给莱顿的伊芙加登家监护，但是由于种种原因，现实质上由C·H邮递公司的社长霍金斯监护。<br>在战斗中失去双手，后接入机械义手。 | [萌娘百科](https://zh.moegirl.org.cn/薇尔莉特·伊芙加登) |
 | lelei la lelena | 蕾莱·拉·列娜 | ![](https://static.wikia.nocookie.net/gate-thus-the-jsdf-fought-there/images/3/3f/Lelei_la_lalena_anime.jpg)<br>所属作品：`gate - jieitai kano chi nite kaku tatakaeri`<br>向住在哥塔村的加图老师学习魔法的15岁少女。 | [萌娘百科](https://zh.moegirl.org.cn/蕾莱·拉·列娜) |
 | youji itami | 伊丹耀司 | ![](https://static.wikia.nocookie.net/gate-thus-the-jsdf-fought-there/images/5/57/Youji_Itami_Anime.jpg)<br>所属作品：`gate - jieitai kano chi nite kaku tatakaeri`<br>军阶为二等陆尉（中尉），第三侦查队队长，后调任「特区」资源调查负责人。 | [萌娘百科](https://zh.moegirl.org.cn/伊丹耀司) |
-| pina co lada | 平娜·戈·兰达 |  |  |
+| pina co lada | 平娜·戈·兰达 | ![](https://lain.bgm.tv/r/400/pic/crt/l/18/f8/33413_crt_5LBgp.jpg?r=1752077075)<br>日语：ピニャ・コ・ラーダ<br>出自作品:`gate - jieitai kano chi nite kaku tatakaeri` |  |
 | rory mercury | 萝莉·麦丘利 | ![](https://static.wikia.nocookie.net/gate-thus-the-jsdf-fought-there/images/7/75/1437403170_317187711.png)<br>所属作品：`gate - jieitai kano chi nite kaku tatakaeri` | [萌娘百科](https://zh.moegirl.org.cn/萝莉·麦丘利) |
 | yao haa dushi | 姚·汉·蒂修 |  |  |
 | tuka luna marceau | 杜嘉·露娜·马尔席 | ![](https://ehgt.org/w/02/010/63735-60l6ccqr.webp)<br>所属作品：`gate - jieitai kano chi nite kaku tatakaeri`<br>她的村庄被炎龙袭击时，因父亲将其藏匿于水井中而成为唯一幸存者。 | [百度百科](https://baike.baidu.com/item/杜嘉·露娜·马尔席/17824487) |
