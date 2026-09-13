@@ -14258,6 +14258,7 @@ example:
 | amorphous | アモルファス |  |  |
 | gossa-tei | ごっさ亭 |  |  |
 | ichigo dressing | 苺ドレッシング |  |  |
+| ijou nouryoku kenkyuukaihatsu kikou | 異常能力研究開発機構 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
