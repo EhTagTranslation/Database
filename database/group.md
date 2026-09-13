@@ -14256,6 +14256,7 @@ example:
 | airy socks en | エアリーソックス・艶 |  |  |
 | lovelytes | ラブリテス |  |  |
 | amorphous | アモルファス |  |  |
+| gossa-tei | ごっさ亭 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
