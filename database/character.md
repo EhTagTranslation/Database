@@ -10246,6 +10246,7 @@ example:
 | presea combatir | 布雷塞娅·康巴提尔 | ![](https://static.wikia.nocookie.net/all-worlds-alliance/images/b/bd/%28Lumberjill%29_Presea.png)<br>日语 :レセア・コンバティール<br>出自作品:`tales of symphonia` |  |
 | colette brunel | 柯蕾特·布鲁内尔 | ![](https://static.wikia.nocookie.net/all-worlds-alliance/images/d/dd/Colette_Brunel_%28ToLink%29.png)<br>日语：コレット・ブルーネル<br>出自作品:`tales of symphonia` |  |
 | dong-soo hwang | 黄东秀 | ![](https://static.wikia.nocookie.net/solo-leveling/images/d/d1/Dongsoo_Ragnarok.png)<br>韩语：황동수<br>出自作品:`solo leveling` |  |
+| svetlana rosen yamada | 斯韦特兰娜·罗森·山田 | ![](https://ami.animecharactersdatabase.com/images%20of/スヴェトラーナ・ローゼン・山田/from/グロウアップショウ%20～ひまわりのサーカス団～/uploads/chars/36226-1254255003.png)<br>日语：スヴェトラーナ・ローゼン・山田<br>出自作品:`grow up show` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
