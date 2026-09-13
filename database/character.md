@@ -3781,7 +3781,7 @@ example:
 | pina co lada | 平娜·戈·兰达 | ![](https://lain.bgm.tv/r/400/pic/crt/l/18/f8/33413_crt_5LBgp.jpg?r=1752077075)<br>日语：ピニャ・コ・ラーダ<br>出自作品:`gate - jieitai kano chi nite kaku tatakaeri` |  |
 | rory mercury | 萝莉·麦丘利 | ![](https://static.wikia.nocookie.net/gate-thus-the-jsdf-fought-there/images/7/75/1437403170_317187711.png)<br>所属作品：`gate - jieitai kano chi nite kaku tatakaeri` | [萌娘百科](https://zh.moegirl.org.cn/萝莉·麦丘利) |
 | yao haa dushi | 姚·汉·蒂修 |  |  |
-| tuka luna marceau | 杜嘉·露娜·马尔席 | ![](https://ehgt.org/w/02/010/63735-60l6ccqr.webp)<br>所属作品：`gate - jieitai kano chi nite kaku tatakaeri`<br>她的村庄被炎龙袭击时，因父亲将其藏匿于水井中而成为唯一幸存者。 | [百度百科](https://baike.baidu.com/item/杜嘉·露娜·马尔席/17824487) |
+| tuka luna marceau | 杜嘉·露娜·马尔席 | ![](https://lain.bgm.tv/r/400/pic/crt/l/10/fa/33407_crt_ozjSj.jpg?r=1752073674)<br>日语：テュカ・ルナ・マルソー<br>所属作品：`gate - jieitai kano chi nite kaku tatakaeri` | [百度百科](https://baike.baidu.com/item/杜嘉·露娜·马尔席/17824487) |
 | jeanne | 贞德 | ![](https://huiji-public.huijistatic.com/gbf/uploads/4/44/Zoom_3040245000_81.png)<br>所属作品：`granblue fantasy` |  |
 | bayonetta | 贝优妮塔 | ![](https://ehgt.org/w/02/015/43871-1tfibsv0.webp)<br>所属作品：`p:bayonetta` |  |
 | elinalise dragonroad | 艾莉娜丽洁·杜拉冈罗德 | ![](https://static.wikia.nocookie.net/mushokutensei/images/3/36/Elinalise_Anime.png)<br>所属作品：`mushoku tensei` | [萌娘百科](https://zh.moegirl.org.cn/艾莉娜丽洁·杜拉冈罗德) |
