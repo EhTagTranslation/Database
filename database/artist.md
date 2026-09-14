@@ -14557,7 +14557,7 @@ example:
 | sabakan | 佐波缶 \| さばかん |  | 佐波缶 [pixiv](https://www.pixiv.net/users/31291526)<br>さばかん [pixiv](https://www.pixiv.net/users/9857265) |
 | ozi8 | おじ８ \| ｴｲﾄﾋﾟｰｴﾑ |  |  |
 | yamashima chihane | 山島ちはね |  |  |
-| tsubonuma | 壺ぬま |  | [pixiv](https://www.pixiv.net/users/62336937) \| [X](https://x.com/tsubonu_ma) \| |
+| tsubonuma | 壺ぬま |  | [pixiv](https://www.pixiv.net/users/62336937) \| [X](https://x.com/tsubonu_ma) |
 | tebin | てびん |  |  |
 | kechin | けちん |  |  |
 | satomuch | さとまち |  |  |
