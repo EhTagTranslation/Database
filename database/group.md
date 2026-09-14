@@ -9907,7 +9907,7 @@ example:
 | saberfish | セイバーフィッシュ |  |  |
 | sabo-p | SABO-P |  |  |
 | saboriguse syndrome | サボリ癖症候群 |  |  |
-| saboten | サボテン |  |  |
+| saboten | 仙人掌社 | 日语名：サボテン | [官网](http://saboten.cc/) |
 | saboten binta | サボテンビンタ |  |  |
 | saboten sankaku | サボテンさんかく |  |  |
 | saboten-dou honpo | 仙人掌堂本舗 |  |  |
