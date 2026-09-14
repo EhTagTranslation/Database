@@ -9131,7 +9131,7 @@ example:
 | paradise d products | PARADISED PRODUCTS |  |  |
 | paradise jack | パラダイスジャック |  |  |
 | paradise lost | パラダイス・ロスト |  |  |
-| paradisegom | ParadiseGom |  |  |
+| paradisegom | ParadiseGom |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76664/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG21571.html) |
 | paraiso | ぱらいそ |  |  |
 | paraiso saigu | ぱらゐそ祭具 |  |  |
 | paraiso shugi | パライソ主義 |  |  |
