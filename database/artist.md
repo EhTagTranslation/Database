@@ -5371,7 +5371,7 @@ example:
 | gonza | gonza |  |  |
 | gonzaburo- | ゴンざぶろー |  |  |
 | gorgon | ゴルゴン |  |  |
-| golgonzola | ごるごんぞーら |  |  |
+| golgonzola | ごるごんぞーら |  | [Ci-en](https://ci-en.dlsite.com/creator/37034) \| [FANBOX](https://golgonzola.fanbox.cc/) \| [Lit.Link](https://lit.link/en/golgonz) \| [pixiv](https://www.pixiv.net/users/23169) \| [X](https://x.com/golgonz) \| [プロフリ](https://profu.link/u/golgonz) |
 | goriyaku | ごりやく |  |  |
 | goro | ごろ |  |  |
 | gorogoro | ゴロごろ |  |  |
