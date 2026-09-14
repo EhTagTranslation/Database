@@ -6399,7 +6399,7 @@ example:
 | kagehara hanzou | 影原半蔵 |  |  |
 | kageira | カゲイラ |  |  |
 | daigaijin | Daigaijin | Kagemusha |  |
-| kagemusya | 影武者 |  |  |
+| kagemusya | 影武者 |  | [FANBOX](https://kagemusya.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/11654351) \| [X](https://x.com/kagemusya555) \| [Pawoo](https://pawoo.net/@kagemusya555) \| [Lit.Link](https://lit.link/en/kagemusya) |
 | kagerou1991 | 陽炎1991 |  |  |
 | kagesaki yuna | 影崎由那 |  |  |
 | kageshio | カゲシオ |  |  |
