@@ -15723,6 +15723,7 @@ example:
 | sagamiya takafumi | さがみやたかふみ |  |  |
 | hanazono rose | 花園ろぉず |  |  |
 | sasami rise | ささみりせ |  |  |
+| subete yameta | すべてやめた |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
