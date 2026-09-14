@@ -5263,7 +5263,7 @@ example:
 | wien margarete | 维恩·玛格丽特 | ![](https://storage.moegirl.org.cn/moegirl/commons/a/ab/薇恩·玛格丽特_立绘.png)<br>所属作品: `p:love live superstar`<br><br>结丘女子高等学校第三届学生，学园偶像组合Liella!成员。以对手身份初登场于电视动画第二季。2023年4月28日，宣布为新加入Liella!的两名三期生成员之一。 | [萌娘百科](https://zh.moegirl.org.cn/薇恩·玛格丽特) [Fandom](https://love-live.fandom.com/wiki/Wien_Margarete) |
 | shellin burgundy | 谢林·勃艮第 |  |  |
 | levi ackerman | 利威尔·阿克曼 | 日本漫画《进击的巨人》及其衍生作品中的角色。 |  |
-| belldandy | 贝露丹蒂 | 日本漫画《我的女神》及其衍生作品中的女主角。 |  |
+| belldandy | 贝露丹蒂 | ![](https://static.wikia.nocookie.net/ohmygoddess/images/1/1c/Amgbelldandymanga.jpg)<br>出自作品：`p:ah my goddess`<br><br>贝露丹蒂（ベルダンディー、Belldandy），日本漫画《我的女神》及其衍生作品中的角色之一。 | [Fandom](https://ohmygoddess.fandom.com/wiki/Belldandy) \| [百度百科](https://baike.baidu.com/item/贝露丹蒂/6812950) |
 | karamatsu matsuno | 松野空松 |  |  |
 | onpu segawa | 濑川音符 | ![](https://static.wikia.nocookie.net/ojamajowitchling/images/6/6c/Onpurender.PNG/revision/latest?cb=20260310121905)<br>所属作品:`ojamajo doremi` | [萌娘百科](https://zh.moegirl.org.cn/濑川音符) |
 | doremi harukaze | 春风DoReMi | ![](https://static.wikia.nocookie.net/ojamajowitchling/images/d/d2/Doremi_S1_Ojamajo_Outfit.png/revision/latest?cb=20260310121216)<br>所属作品:`ojamajo doremi` | [萌娘百科](https://zh.moegirl.org.cn/春风DoReMi)<br>[Fandom](https://majopedia.fandom.com/wiki/Doremi_Harukaze) |
