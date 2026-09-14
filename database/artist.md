@@ -15724,6 +15724,7 @@ example:
 | hanazono rose | 花園ろぉず |  |  |
 | sasami rise | ささみりせ |  |  |
 | subete yameta | すべてやめた |  |  |
+| taka-co | taka-co |  | [pixiv](https://www.pixiv.net/users/16293363) \| [X](https://x.com/Rr232Taka) \| [FANBOX](https://taka-co.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
