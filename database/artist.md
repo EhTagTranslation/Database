@@ -2256,7 +2256,7 @@ example:
 | akabashi | アカバシ |  |  |
 | mataro | 魔太郎 |  |  |
 | kekocha | けこちゃ |  |  |
-| mogiki hayami | 十はやみ |  |  |
+| mogiki hayami | 十はやみ |  | [pixiv](https://www.pixiv.net/users/35513527) |
 | the amanoja9 | The Amanoja9 |  |  |
 | fumitsuki sou | 二三月そう |  |  |
 | fuji hyorone | 藤ひょろね |  |  |
