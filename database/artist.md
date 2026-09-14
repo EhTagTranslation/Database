@@ -15726,6 +15726,7 @@ example:
 | subete yameta | すべてやめた |  |  |
 | taka-co | taka-co |  | [pixiv](https://www.pixiv.net/users/16293363) \| [X](https://x.com/Rr232Taka) \| [FANBOX](https://taka-co.fanbox.cc/) |
 | cammy | Cammy |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG59442.html) \| [Ci-en](https://ci-en.dlsite.com/creator/14902) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203148/) |
+| hiro. | 浅葱ヒろ |  | [FANBOX](https://hiropaint.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/14380893) \| [Pawoo](https://pawoo.net/@herorainbowpaint) \| [X](https://x.com/herorainbowpai2) \| [Skeb](https://skeb.jp/@herorainbowpai2) \| [Fantia](https://fantia.jp/fanclubs/18658) |
 
 <!--TEMPLATE:
 |  |  |  |  |
