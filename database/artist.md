@@ -7948,7 +7948,7 @@ example:
 | minomushi | みのむし |  |  |
 | minor boy | まいなぁぼぉい |  |  |
 | minori | みのり |  |  |
-| minority | マイノリティ |  |  |
+| minority | マイノリティ |  | [pixiv](https://www.pixiv.net/users/557349) \| [X](https://x.com/minoritymannga) |
 | minpei ichigo | 民兵一号 |  |  |
 | mintice | みんとあいす |  |  |
 | minto | みんと |  |  |
