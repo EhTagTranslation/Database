@@ -10255,6 +10255,7 @@ example:
 | mitsuki fujino | 藤野深月 | ![](https://ami.animecharactersdatabase.com/images%20of/Mitsuki%20Fujino/from/I%20am%20the%20only%20one%20who%20is%20not%20attacked%20in%20the%20world%20filled%20with%20zombies/uploads/chars/39134-39849282.png)<br>出自作品:`zombie no afureta sekai de ore dake ga osowarenai` |  |
 | fine cavendish | 菲涅·卡文迪什 | ![](https://static.wikia.nocookie.net/once-upon-a-witchs-death/images/d/de/Fine_Cavendish_Design.png)<br>日语：フィーネ・キャベンディッシュ<br>出自作品:`aru majo ga shinu made` |  |
 | meg raspberry | 梅格·罗兹贝蒂 | ![](https://static.wikia.nocookie.net/once-upon-a-witchs-death/images/0/0f/Meg_Raspberry_Design.png)<br>日语：メグ・ラズベリー<br>出自作品:`aru majo ga shinu made` |  |
+| hinako konohana | 此花雏子 | ![](https://static.wikia.nocookie.net/rich-girl-caretaker/images/3/30/Konohana_Hinako.webp)<br>出自作品:`saijo no osewa` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
