@@ -10252,6 +10252,7 @@ example:
 | mari kurokawa | 黑川茉莉 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e6/5a/39776_crt_maRwf.jpg?r=1752074513)<br>出自作品:`gate - jieitai kano chi nite kaku tatakaeri` |  |
 | akane nanao | 七尾茜 | ![](https://ehgt.org/w/02/642/86864-2waa6djt.webp)<br>出自作品:`akane wa tsumare somerareru` |  |
 | charlotte evans | 夏洛特·埃文丝 | ![](https://static.wikia.nocookie.net/konyakuhaki-sareta-reijou-o-hirotta-ore-ga/images/e/e3/Charlotte_Evans.png)<br>日语：シャーロット・エヴァンズ<br>出自作品:`konyaku haki sareta reijou wo hirotta ore ga ikenai koto wo oshiekomu` |  |
+| mitsuki fujino | 藤野深月 | ![](https://ami.animecharactersdatabase.com/images%20of/Mitsuki%20Fujino/from/I%20am%20the%20only%20one%20who%20is%20not%20attacked%20in%20the%20world%20filled%20with%20zombies/uploads/chars/39134-39849282.png)<br>出自作品:`zombie no afureta sekai de ore dake ga osowarenai` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
