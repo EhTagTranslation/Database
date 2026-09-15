@@ -3011,6 +3011,7 @@ example:
 | saikyou degarashi ouji no anyaku teii arasoi | 最强废渣皇子暗中活跃于帝位之争 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a7/a6/456081_Bs2nE.jpg)<br>日语：最強出涸らし皇子の暗躍帝位争い<br>作者：タンバ |  |
 | maebashi witches | 前桥魔女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a8/e1/511207_gAoK3.jpg)<br>日语：前橋ウィッチーズ<br>作者： サンライズ |  |
 | akane wa tsumare somerareru | 被采摘污染的茜 | ![](https://ehgt.org/w/00/661/61576-hjpjv2ig.webp)<br>茜ハ摘マレ染メラレル |  |
+| konyaku haki sareta reijou wo hirotta ore ga ikenai koto wo oshiekomu | 捡走被人悔婚的千金 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/a9/318140_OE806.jpg)<br>全名：捡走被人悔婚的千金，教会她坏坏的幸福生活 ～让她享受美食精心打扮，打造世上最幸福的少女！<br>日语：婚約破棄された令嬢を拾った俺が、イケナイことを教え込む〜美味しいものを食べさせておしゃれをさせて、世界一幸せな少女にプロデュース！〜 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
