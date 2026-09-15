@@ -10254,6 +10254,7 @@ example:
 | charlotte evans | 夏洛特·埃文丝 | ![](https://static.wikia.nocookie.net/konyakuhaki-sareta-reijou-o-hirotta-ore-ga/images/e/e3/Charlotte_Evans.png)<br>日语：シャーロット・エヴァンズ<br>出自作品:`konyaku haki sareta reijou wo hirotta ore ga ikenai koto wo oshiekomu` |  |
 | mitsuki fujino | 藤野深月 | ![](https://ami.animecharactersdatabase.com/images%20of/Mitsuki%20Fujino/from/I%20am%20the%20only%20one%20who%20is%20not%20attacked%20in%20the%20world%20filled%20with%20zombies/uploads/chars/39134-39849282.png)<br>出自作品:`zombie no afureta sekai de ore dake ga osowarenai` |  |
 | fine cavendish | 菲涅·卡文迪什 | ![](https://static.wikia.nocookie.net/once-upon-a-witchs-death/images/d/de/Fine_Cavendish_Design.png)<br>日语：フィーネ・キャベンディッシュ<br>出自作品:`aru majo ga shinu made` |  |
+| meg raspberry | 梅格·罗兹贝蒂 | ![](https://static.wikia.nocookie.net/once-upon-a-witchs-death/images/0/0f/Meg_Raspberry_Design.png)<br>日语：メグ・ラズベリー<br>出自作品:`aru majo ga shinu made` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
