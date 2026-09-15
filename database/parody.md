@@ -3015,6 +3015,7 @@ example:
 | zombie no afureta sekai de ore dake ga osowarenai | 末世孤雄 | ![](https://lain.bgm.tv/r/400/pic/cover/l/81/62/478555_jv4OZ.jpg)<br>全名：在遍地都是丧尸的世界里唯独我不被袭击<br>日语：ゾンビのあふれた世界で俺だけが襲われない |  |
 | aru majo ga shinu made | 直至魔女消逝 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e1/b7/501702_VXrd2.jpg)<br>日语：ある魔女が死ぬまで |  |
 | saijo no osewa | 才女的侍从 | ![](https://lain.bgm.tv/r/400/pic/cover/l/bd/74/602733_X0NNo.jpg)<br>全名：才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐<br>日语：才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様（生活能力皆無）を陰ながらお世話することになりました |  |
+| kokoore | 你们先走我断后 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2c/93/590786_48D8M.jpg)<br>全名：『你们先走我断后』，于是10年后我成为了传说<br>日语：ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
