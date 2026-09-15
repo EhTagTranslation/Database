@@ -10251,6 +10251,7 @@ example:
 | velzard | 维鲁萨德 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/2/26/Velzard_Anime.png)<br>日语：ヴェルザード<br>出自作品:`tensei shitara slime datta ken` |  |
 | mari kurokawa | 黑川茉莉 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e6/5a/39776_crt_maRwf.jpg?r=1752074513)<br>出自作品:`gate - jieitai kano chi nite kaku tatakaeri` |  |
 | akane nanao | 七尾茜 | ![](https://ehgt.org/w/02/642/86864-2waa6djt.webp)<br>出自作品:`akane wa tsumare somerareru` |  |
+| charlotte evans | 夏洛特·埃文丝 | ![](https://static.wikia.nocookie.net/konyakuhaki-sareta-reijou-o-hirotta-ore-ga/images/e/e3/Charlotte_Evans.png)<br>日语：シャーロット・エヴァンズ<br>出自作品:`konyaku haki sareta reijou wo hirotta ore ga ikenai koto wo oshiekomu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
