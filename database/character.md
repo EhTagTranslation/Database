@@ -10257,6 +10257,7 @@ example:
 | meg raspberry | 梅格·罗兹贝蒂 | ![](https://static.wikia.nocookie.net/once-upon-a-witchs-death/images/0/0f/Meg_Raspberry_Design.png)<br>日语：メグ・ラズベリー<br>出自作品:`aru majo ga shinu made` |  |
 | hinako konohana | 此花雏子 | ![](https://static.wikia.nocookie.net/rich-girl-caretaker/images/3/30/Konohana_Hinako.webp)<br>出自作品:`saijo no osewa` |  |
 | rin koyama | 幸山厘 | 出自作品:`futsu no keionbu` |  |
+| hakushika iori | 白鹿伊织 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/2/23/Hakushika_Iori_-_Key_Visual.png)<br>日语：白鹿いおり | [YouTube](https://www.youtube.com/@HakushikaIori) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
