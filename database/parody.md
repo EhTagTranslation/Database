@@ -3014,6 +3014,7 @@ example:
 | konyaku haki sareta reijou wo hirotta ore ga ikenai koto wo oshiekomu | 捡走被人悔婚的千金 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/a9/318140_OE806.jpg)<br>全名：捡走被人悔婚的千金，教会她坏坏的幸福生活 ～让她享受美食精心打扮，打造世上最幸福的少女！<br>日语：婚約破棄された令嬢を拾った俺が、イケナイことを教え込む〜美味しいものを食べさせておしゃれをさせて、世界一幸せな少女にプロデュース！〜 |  |
 | zombie no afureta sekai de ore dake ga osowarenai | 末世孤雄 | ![](https://lain.bgm.tv/r/400/pic/cover/l/81/62/478555_jv4OZ.jpg)<br>全名：在遍地都是丧尸的世界里唯独我不被袭击<br>日语：ゾンビのあふれた世界で俺だけが襲われない |  |
 | aru majo ga shinu made | 直至魔女消逝 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e1/b7/501702_VXrd2.jpg)<br>日语：ある魔女が死ぬまで |  |
+| saijo no osewa | 才女的侍从 | ![](https://lain.bgm.tv/r/400/pic/cover/l/bd/74/602733_X0NNo.jpg)<br>全名：才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐<br>日语：才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様（生活能力皆無）を陰ながらお世話することになりました |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
