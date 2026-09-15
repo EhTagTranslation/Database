@@ -3013,6 +3013,7 @@ example:
 | akane wa tsumare somerareru | 被采摘污染的茜 | ![](https://ehgt.org/w/00/661/61576-hjpjv2ig.webp)<br>茜ハ摘マレ染メラレル |  |
 | konyaku haki sareta reijou wo hirotta ore ga ikenai koto wo oshiekomu | 捡走被人悔婚的千金 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/a9/318140_OE806.jpg)<br>全名：捡走被人悔婚的千金，教会她坏坏的幸福生活 ～让她享受美食精心打扮，打造世上最幸福的少女！<br>日语：婚約破棄された令嬢を拾った俺が、イケナイことを教え込む〜美味しいものを食べさせておしゃれをさせて、世界一幸せな少女にプロデュース！〜 |  |
 | zombie no afureta sekai de ore dake ga osowarenai | 末世孤雄 | ![](https://lain.bgm.tv/r/400/pic/cover/l/81/62/478555_jv4OZ.jpg)<br>全名：在遍地都是丧尸的世界里唯独我不被袭击<br>日语：ゾンビのあふれた世界で俺だけが襲われない |  |
+| aru majo ga shinu made | 直至魔女消逝 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e1/b7/501702_VXrd2.jpg)<br>日语：ある魔女が死ぬまで |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
