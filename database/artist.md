@@ -6695,7 +6695,7 @@ example:
 | kawana | かわな |  |  |
 | kawanakajima | 河中島 |  |  |
 | kawanishi yuuji | かわにしゆうじ |  |  |
-| kawano masatoshi | 川乃雅慧 |  |  |
+| kawano masatoshi | 川乃雅慧 |  | [pixiv](https://www.pixiv.net/users/1885773) |
 | kawanuma uotsuri | 川沼魚釣 |  |  |
 | kawase marimo | 川瀬まりも |  |  |
 | kawase seiki | カワセセイキ |  |  |
