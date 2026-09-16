@@ -185,7 +185,7 @@ example:
 | kazabuki poni | 风吹ぽに |  |  |
 | ouma tokiichi | 逢魔刻壹 | 逢魔刻壱 | [X](https://x.com/touma00) [pixiv](https://www.pixiv.net/users/23239) |
 | momonoki fum | 百乃木富梦 |  |  |
-| miito shido | 三糸シド |  |  |
+| miito shido | 三糸シド |  | [pixiv](https://www.pixiv.net/users/90267) \| [X](https://x.com/syd_meat00) |
 | motomiya mitsuki | もとみやみつき |  |  |
 | interstellar | Interstellar |  |  |
 | mikeou | みけおう |  |  |
