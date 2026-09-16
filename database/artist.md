@@ -12427,7 +12427,7 @@ example:
 | cham22 | cham22 |  | [pixiv](https://www.pixiv.net/users/16456081) |
 | ie | ie |  | [pixiv](https://www.pixiv.net/users/24164271) |
 | kokushi | 黑司 |  |  |
-| matsuri seishiro | マツリセイシロウ |  |  |
+| matsuri seishiro | マツリセイシロウ |  | [pixiv](https://www.pixiv.net/users/131588) \| [X](https://x.com/maturibooo) \| [Pawoo](https://pawoo.net/@matsuritch) |
 | mameroku | 豆六 |  |  |
 | chigusa minori | 千種みのり |  | [X](https://x.com/minori_chigusa) [pixiv](https://www.pixiv.net/users/41106591) |
 | xiaomu | 筱牧 |  | [pixiv](https://www.pixiv.net/users/49984557)<br>[FANBOX](https://xiaomu314.fanbox.cc/) |
