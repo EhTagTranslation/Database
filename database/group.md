@@ -441,7 +441,7 @@ example:
 | meshikutteneru. | 飯食って寝る。 |  |  |
 | little hamlet | りとる☆はむれっと |  |  |
 | tarehamu | たれハム |  |  |
-| black dog | BLACK DOG |  |  |
+| black dog | BLACK DOG |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG39160.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75330/) |
 | shimesaba | しめさば |  |  |
 | forestrest | ForestRest |  |  |
 | norioikeru | のりおいける! |  |  |
