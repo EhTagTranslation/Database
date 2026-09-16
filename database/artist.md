@@ -1005,7 +1005,7 @@ example:
 | ooba nii | 大庭新 |  |  |
 | yuuki sei | 结城成 |  |  |
 | natsume eri | なつめえり |  |  |
-| kuroinu juu | 黑犬兽 |  |  |
+| kuroinu juu | 黑犬兽 |  | [pixiv](https://www.pixiv.net/users/938134) |
 | bakutaso | 爆タソ |  |  |
 | mda starou | MだSたろう |  | [pixiv](https://www.pixiv.net/users/3316400) [X](https://x.com/MsMspc) |
 | tsuchigayu | 土粥 |  | [pixiv](https://www.pixiv.net/users/4700924) |
