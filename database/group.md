@@ -242,7 +242,7 @@ example:
 | s-size | Sサイズ |  |  |
 | mugen at works | むげん@WORKS |  |  |
 | hyogetsu | 冰月 |  |  |
-| garakuta shoujo | がらくた少女 |  |  |
+| garakuta shoujo | がらくた少女 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG02370.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=20899/) |
 | mosquito man | モスキートマン |  |  |
 | metal | METAL |  |  |
 | watanabe tou | 渡边党 |  |  |
