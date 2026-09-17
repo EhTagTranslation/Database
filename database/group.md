@@ -6005,7 +6005,7 @@ example:
 | inai uchi ni | いないうちに |  |  |
 | inakagurashi | イナカグラシ |  |  |
 | inaridou shoten | 稲荷堂書店 |  |  |
-| inarimochi. | いなり餅。 |  |  |
+| inarimochi. | いなり餅。 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=214515/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG72233.html) |
 | inarizushi | いなりずし |  |  |
 | inasaku | 稲作 |  |  |
 | inayama shrine | 稲山神社 |  |  |
