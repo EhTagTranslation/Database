@@ -13278,7 +13278,7 @@ example:
 | arurumo | あるるも |  |  |
 | yukitora | ゆきトラ |  |  |
 | kurisaki king | 栗崎きんぐ |  |  |
-| utsumi iota | 内海ι |  | [pixiv](https://www.pixiv.net/users/69500280) |
+| utsumi iota | 内海ι |  | [pixiv](https://www.pixiv.net/users/69500280) \| [X](https://x.com/utm_iota_main) \| [FANBOX](https://utm-iota.fanbox.cc/) \| [Misskey.io](https://misskey.io/@utm_iota) \| [Skeb](https://skeb.jp/@utm_iota) \| [BOOTH](https://iotaworks.booth.pm/) |
 | onesota shuu | オネソタ州 |  |  |
 | fuumin | ふーみん |  |  |
 | yukiru | ユキル |  |  |
