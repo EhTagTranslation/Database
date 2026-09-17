@@ -14609,7 +14609,7 @@ example:
 | kakuri kairi | 隔離カイリ |  |  |
 | mame paitan | まめぱいたん |  |  |
 | yugure | ゆぐれ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ゆぐれ%22) |
-| suriring | すりりんぐ |  |  |
+| suriring | すりりんぐ |  | [pixiv](https://www.pixiv.net/users/44971405) \| [X](https://x.com/suriring_0426) \| [FANBOX](https://suriring.fanbox.cc) \| [Skeb](https://skeb.jp/@suriring_0426) \| [Fantia](https://fantia.jp/fanclubs/356884) |
 | kanaguri | かなぐり |  |  |
 | nobeji kazuwo | ノベジカズヲ |  |  |
 | si-man | しーまん |  |  |
