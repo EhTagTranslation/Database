@@ -15729,6 +15729,7 @@ example:
 | hiro. | 浅葱ヒろ |  | [FANBOX](https://hiropaint.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/14380893) \| [Pawoo](https://pawoo.net/@herorainbowpaint) \| [X](https://x.com/herorainbowpai2) \| [Skeb](https://skeb.jp/@herorainbowpai2) \| [Fantia](https://fantia.jp/fanclubs/18658) |
 | junji ito | 伊藤润二 |  |  |
 | omochi. | おもち。 |  | [pixiv](https://www.pixiv.net/users/13340340) \| [X](https://x.com/omochi_201) \| [FANBOX](https://omochi201.fanbox.cc/) \| [Skeb](https://skeb.jp/@omochi_201) |
+| paio | ぱいお |  | [pixiv](https://www.pixiv.net/users/31940812) \| [X](https://x.com/Opi_1111111111) \| [Pawoo](https://pawoo.net/@furaido_potato) \| [Skeb](https://skeb.jp/@Opi_1111111111) \| [FANBOX](https://paio.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
