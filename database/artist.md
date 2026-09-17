@@ -12738,7 +12738,7 @@ example:
 | aratani | あらたに |  |  |
 | tsuruki | ツルキ |  |  |
 | incognitymous | Incognitymous |  | [个人主页](https://incognitymous.com/) |
-| matsuzawa muni | 松沢夢丹 |  |  |
+| matsuzawa muni | 松沢夢丹 |  | [pixiv](https://www.pixiv.net/users/87454907) \| [X](https://x.com/M_MatsuMuni) |
 | tsuki no senninno | 月之仙人丿 |  | [pixiv](https://www.pixiv.net/users/5745007) [X](https://x.com/hIwmkiXMxCRi6BK) |
 | hellap | hellaP |  | [pixiv](https://www.pixiv.net/users/3329134) |
 | mamaloni | mamaloni |  | [pixiv](https://www.pixiv.net/users/36226075) |
