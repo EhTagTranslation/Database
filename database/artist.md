@@ -15728,6 +15728,7 @@ example:
 | cammy | Cammy |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG59442.html) \| [Ci-en](https://ci-en.dlsite.com/creator/14902) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203148/) |
 | hiro. | 浅葱ヒろ |  | [FANBOX](https://hiropaint.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/14380893) \| [Pawoo](https://pawoo.net/@herorainbowpaint) \| [X](https://x.com/herorainbowpai2) \| [Skeb](https://skeb.jp/@herorainbowpai2) \| [Fantia](https://fantia.jp/fanclubs/18658) |
 | junji ito | 伊藤润二 |  |  |
+| omochi. | おもち。 |  | [pixiv](https://www.pixiv.net/users/13340340) \| [X](https://x.com/omochi_201) \| [FANBOX](https://omochi201.fanbox.cc/) \| [Skeb](https://skeb.jp/@omochi_201) |
 
 <!--TEMPLATE:
 |  |  |  |  |
