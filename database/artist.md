@@ -1364,7 +1364,7 @@ example:
 | shinoda sanjuurou | 篠田参重郎 |  |  |
 | mimi mimizu | 実々みみず |  |  |
 | takemura sesshu | 竹村雪秀 |  |  |
-| ishigami hajime | 石纸一 |  |  |
+| ishigami hajime | 石纸一 | 日语: 石紙一 | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ007512/ana_flg/all) |
 | kawamori misaki | かわもりみさき |  |  |
 | nagashima chosuke | ながしま超助 |  |  |
 | ozaki akira | 尾崎晶 |  |  |
