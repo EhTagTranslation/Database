@@ -3473,7 +3473,7 @@ example:
 | buki to bougu no mise | ぶきとぼうぐのみせ |  |  |
 | bullet ballet | Bullet Ballet |  |  |
 | bumsign | BUMSIGN |  |  |
-| bunbonian | ぶんぼにあん |  |  |
+| bunbonian | ぶんぼにあん |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77722/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45472.html) |
 | bunbukudou | ぶんぶく堂 |  |  |
 | bunchindoh | ぶんちん堂 |  |  |
 | bungalow | バンガロゥ |  |  |
