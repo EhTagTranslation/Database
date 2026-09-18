@@ -3012,7 +3012,7 @@ example:
 | asanegi shouten | 麻根木商店 |  |  |
 | asapi-keikaku. | あさぴ計画。 |  |  |
 | asatsukimint | アサツキミント |  |  |
-| asg-project | ASG-Project |  |  |
+| asg-project | ASG-Project |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG27571.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203374/) |
 | ashanti | アシャンティ |  |  |
 | ashi zanmai | あしざんまい |  |  |
 | ashibububu | あしぶぶぶ |  |  |
