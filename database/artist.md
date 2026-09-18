@@ -9405,7 +9405,7 @@ example:
 | rannero | RanneRo |  |  |
 | rarana | ららな |  |  |
 | rasahan | ラサハン |  |  |
-| rasson | らっそん |  |  |
+| rasson | らっそん |  | [pixiv](https://www.pixiv.net/users/2582178) \| [X](https://x.com/sobabu000) \| [FANBOX](https://sobabu000rasson.fanbox.cc/) |
 | rasukaru | らすかる |  |  |
 | rate | RaTe |  |  |
 | rati | ラティ |  |  |
