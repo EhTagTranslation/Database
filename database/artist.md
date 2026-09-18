@@ -9925,7 +9925,7 @@ example:
 | senor daietsu | セニョール大悦 |  |  |
 | senpuyaro | 旋風野郎 |  |  |
 | senrabanshou | 千羅万象 |  |  |
-| senwa | センワ |  |  |
+| senwa | センワ |  | [FANBOX](https://senwamu.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/3156003) \| [X](https://x.com/senwamu) \| [Skeb](https://skeb.jp/@senwamu) |
 | senya yomi | 千夜詠 |  |  |
 | seo haruto | 瀬尾春人 |  |  |
 | seo tatsuya | 瀬尾辰也 |  |  |
