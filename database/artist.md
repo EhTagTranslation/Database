@@ -12346,7 +12346,7 @@ example:
 | kitakawa touta | 北河トウタ | ![X](https://pbs.twimg.com/profile_images/1417287463630897153/V4c9EQ8V_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/kitakawat) |
 | okiha | 冲叶 | 日语：沖葉 | [FANBOX](https://okiha.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/27905945) \| [Skeb](https://skeb.jp/@skeb55363148) \| [X](https://x.com/okiha55363148) |
 | uekura eku | 上倉エク |  | [X](https://x.com/ekureea) [pixiv](https://www.pixiv.net/users/299299) |
-| dendoro kakariya | 澱泥カカリヤ |  |  |
+| dendoro kakariya | 澱泥カカリヤ |  | [pixiv](https://www.pixiv.net/users/1738424) \| [X](https://x.com/mozuniechang2) \| [Skeb](https://skeb.jp/@mozuniechang2) \| [Fantia](https://fantia.jp/fanclubs/432279) |
 | cucchiore | くっきおーれ |  | [pixiv](https://www.pixiv.net/users/15224722) |
 | konbu wakame | 昆布わかめ |  | [X](https://x.com/aconbwakame) [pixiv](https://www.pixiv.net/users/1076594) |
 | omusubi korori | 緒結ころり |  |  |
