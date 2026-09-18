@@ -15735,6 +15735,7 @@ example:
 | seto ryouko | 瀬戸涼子 |  |  |
 | seitoedaha | 生徒えだは |  | [pixiv](https://www.pixiv.net/users/70693825) |
 | kechadon | けちゃどん |  | [pixiv](https://www.pixiv.net/users/24632747) \| [X](https://x.com/ketyadonn) \| [Skeb](https://skeb.jp/@ketyadonn) |
+| amanoha asagi | 天乃羽浅戯 | あまのは浅戯 | [pixiv](https://www.pixiv.net/users/462200) \| [X](https://x.com/asagi_D_trooper) \| [Skeb](https://skeb.jp/@asagi_D_trooper) |
 
 <!--TEMPLATE:
 |  |  |  |  |
