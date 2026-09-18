@@ -10261,6 +10261,7 @@ example:
 | yonro | 四郎 | ![](https://static.wikia.nocookie.net/crayonshinchan/images/f/fc/Yonro.jpg)<br>日语：よんろう<br>出自作品：`p:crayon shin-chan` | [百度百科](https://baike.baidu.com/item/四郎/22044113) \| [Fandom](https://crayonshinchan.fandom.com/wiki/Yonro) |
 | honoka hara | 原穗乃香 | ![](https://static.wikia.nocookie.net/bokuyaba/images/b/bb/Hara_Honoka_Anime.png)<br>出自作品：`p:boku no kokoro no yabai yatsu` | [Fandom](https://bokuyaba.fandom.com/wiki/Hara_Honoka) \| [百度百科](https://baike.baidu.com/item/原穗乃香/63779693) |
 | kenta kanzaki | 神崎健太 | ![](https://static.wikia.nocookie.net/bokuyaba/images/e/e2/Kanzaki_Kenta_Anime.png)<br>出自作品：`p:boku no kokoro no yabai yatsu` | [Fandom](https://bokuyaba.fandom.com/wiki/Kanzaki_Kenta) |
+| ema mochinaga | 望永艾玛 | ![](https://static.wikia.nocookie.net/prettyallfriends/images/d/d1/Ema_Mochinaga.png)<br>日语：望永エマ<br>出自作品:`onegai aipri` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
