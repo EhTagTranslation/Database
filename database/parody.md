@@ -1542,7 +1542,7 @@ example:
 | coraline | 鬼妈妈 |  |  |
 | dororo | 多罗罗 |  |  |
 | sekiro shadows die twice | 只狼：影逝二度 |  |  |
-| kamihime project | 神姬计划 | 神姬计划（Kamihime Project，神姫PROJECT）<br>游戏开发商：テクロス（Techcross）<br>![](https://media.games.dmm.com/freegame/app/753201/200.gif)<br>游玩平台：<br>[https://games.dmm.com/detail/kamipro](https://games.dmm.com/detail/kamipro)<br>[https://www.johren.net/games/kamihime-zh-g/](https://www.johren.net/games/kamihime-zh-g/) | [萌娘百科](https://zh.moegirl.org.cn/神姬PROJECT) [维基百科](https://zh.wikipedia.org/wiki/神姬计划) |
+| kamihime project | 神姬计划 | ![](https://static.wikia.nocookie.net/ragnaly-brave/images/e/e6/Site-logo.png)<br>神姫PROJECT<br>游戏开发商：テクロス（Techcross） | [DMM](https://games.dmm.com/detail/kamipro)<br>[繁中服](https://www.nutaku.com/zh/games/kamihime/) |
 | merc storia | 梅露可物语 |  |  |
 | twelve forever | 永远12岁 |  | [萌娘百科](https://zh.moegirl.org.cn/永远12岁) |
 | warriors orochi | 无双大蛇 |  |  |
