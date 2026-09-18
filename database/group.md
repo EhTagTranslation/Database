@@ -10561,7 +10561,7 @@ example:
 | soar | Soar |  |  |
 | soba to mayo | 蕎麦とマヨ |  |  |
 | soba udon | そばうどん |  |  |
-| sobabu | 蕎麦部 |  |  |
+| sobabu | 蕎麦部 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29111/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG13868.html) |
 | sobakara | そばから |  |  |
 | sobalabo | sobalabo |  |  |
 | sobaworks | sobaworks |  |  |
