@@ -10258,7 +10258,7 @@ example:
 | hinako konohana | 此花雏子 | ![](https://static.wikia.nocookie.net/rich-girl-caretaker/images/3/30/Konohana_Hinako.webp)<br>出自作品:`saijo no osewa` |  |
 | rin koyama | 幸山厘 | 出自作品:`futsu no keionbu` |  |
 | hakushika iori | 白鹿伊织 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/2/23/Hakushika_Iori_-_Key_Visual.png)<br>所属团体： Phase-Connect<br>日语：白鹿いおり | [YouTube](https://www.youtube.com/@HakushikaIori) |
-| yonro | 四郎 | ![](https://static.wikia.nocookie.net/crayonshinchan/images/f/fc/Yonro.jpg)<br>出自作品：`p:crayon shin-chan`<br><br>四郎（よんろう）是日本漫画《蜡笔小新》及其衍生作品中的角色。 | [百度百科](https://baike.baidu.com/item/四郎/22044113) \| [Fandom](https://crayonshinchan.fandom.com/wiki/Yonro) |
+| yonro | 四郎 | ![](https://static.wikia.nocookie.net/crayonshinchan/images/f/fc/Yonro.jpg)<br>日语：よんろう<br>出自作品：`p:crayon shin-chan` | [百度百科](https://baike.baidu.com/item/四郎/22044113) \| [Fandom](https://crayonshinchan.fandom.com/wiki/Yonro) |
 | honoka hara | 原穗乃香 | ![](https://static.wikia.nocookie.net/bokuyaba/images/b/bb/Hara_Honoka_Anime.png)<br>出自作品：`p:boku no kokoro no yabai yatsu` | [Fandom](https://bokuyaba.fandom.com/wiki/Hara_Honoka) \| [百度百科](https://baike.baidu.com/item/原穗乃香/63779693) |
 | kenta kanzaki | 神崎健太 | ![](https://static.wikia.nocookie.net/bokuyaba/images/e/e2/Kanzaki_Kenta_Anime.png)<br>出自作品：`p:boku no kokoro no yabai yatsu` | [Fandom](https://bokuyaba.fandom.com/wiki/Kanzaki_Kenta) |
 
