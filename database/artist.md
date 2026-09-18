@@ -15732,6 +15732,7 @@ example:
 | paio | ぱいお |  | [pixiv](https://www.pixiv.net/users/31940812) \| [X](https://x.com/Opi_1111111111) \| [Pawoo](https://pawoo.net/@furaido_potato) \| [Skeb](https://skeb.jp/@Opi_1111111111) \| [FANBOX](https://paio.fanbox.cc/) |
 | kurosaka iria | 黒坂イリア |  | [pixiv](https://www.pixiv.net/users/1907248) \| [X](https://x.com/Kurosaka_Oekaki) \| [Skeb](https://skeb.jp/@Kurosaka_Oekaki) |
 | veryhardloco | べりーはーどろこ |  | [pixiv](https://www.pixiv.net/users/63540722) \| [X](https://x.com/VH_loco) \| [Skeb](https://skeb.jp/@VH_loco) \| [Fantia](https://fantia.jp/VeryhardLoco) \| [FANBOX](https://veryhardloco.fanbox.cc/) |
+| seto ryouko | 瀬戸涼子 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
