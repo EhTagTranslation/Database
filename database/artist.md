@@ -15734,6 +15734,7 @@ example:
 | veryhardloco | べりーはーどろこ |  | [pixiv](https://www.pixiv.net/users/63540722) \| [X](https://x.com/VH_loco) \| [Skeb](https://skeb.jp/@VH_loco) \| [Fantia](https://fantia.jp/VeryhardLoco) \| [FANBOX](https://veryhardloco.fanbox.cc/) |
 | seto ryouko | 瀬戸涼子 |  |  |
 | seitoedaha | 生徒えだは |  | [pixiv](https://www.pixiv.net/users/70693825) |
+| kechadon | けちゃどん |  | [pixiv](https://www.pixiv.net/users/24632747) \| [X](https://x.com/ketyadonn) \| [Skeb](https://skeb.jp/@ketyadonn) |
 
 <!--TEMPLATE:
 |  |  |  |  |
