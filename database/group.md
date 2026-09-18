@@ -14271,6 +14271,7 @@ example:
 | central field | セントラルフィールド |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203455/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG66153.html) |
 | iota works | イオタワークス |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=214648/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01012077.html) |
 | kamejirouya-san | 亀次郎屋さん |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=230578/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01064261.html) |
+| weather report | 天気予報 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
