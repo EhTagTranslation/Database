@@ -13297,7 +13297,7 @@ example:
 | yofukashi no heya | よふかしのへや |  |  |
 | rokugo sha | ろくご社 |  |  |
 | hipcomix | HIPCOMIX |  |  |
-| alps1mando | アルプス一万堂 |  |  |
+| alps1mando | アルプス一万堂 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73882/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52301.html) |
 | yudepopo | 茹でぽぽ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01006807.html) |
 | yowatoro | よわトロ |  |  |
 | ahoderasouryo | アホ寺僧侶 |  |  |
