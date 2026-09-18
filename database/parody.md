@@ -3017,6 +3017,7 @@ example:
 | saijo no osewa | 才女的侍从 | ![](https://lain.bgm.tv/r/400/pic/cover/l/bd/74/602733_X0NNo.jpg)<br>全名：才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐<br>日语：才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様（生活能力皆無）を陰ながらお世話することになりました |  |
 | kokoore | 你们先走我断后 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2c/93/590786_48D8M.jpg)<br>全名：『你们先走我断后』，于是10年后我成为了传说<br>日语：ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた |  |
 | futsu no keionbu | 普普通通轻音部 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b7/10/473405_mFgZz.jpg)<br>别译：普通轻音社<br>日语：ふつうの軽音部 |  |
+| onegai aipri | 拜托了偶像公主 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9b/c4/622634_8e00L.jpg)<br>日语：おねがいアイプリ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
