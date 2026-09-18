@@ -3018,6 +3018,7 @@ example:
 | kokoore | 你们先走我断后 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2c/93/590786_48D8M.jpg)<br>全名：『你们先走我断后』，于是10年后我成为了传说<br>日语：ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた |  |
 | futsu no keionbu | 普普通通轻音部 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b7/10/473405_mFgZz.jpg)<br>别译：普通轻音社<br>日语：ふつうの軽音部 |  |
 | onegai aipri | 拜托了偶像公主 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9b/c4/622634_8e00L.jpg)<br>日语：おねがいアイプリ |  |
+| ragna crimson | 狩龙人拉格纳 | ![](https://lain.bgm.tv/r/400/pic/cover/l/12/9a/374648_GOxE2.jpg)<br>日语：ラグナクリムゾン |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
