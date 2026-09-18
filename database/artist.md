@@ -7574,7 +7574,7 @@ example:
 | makoushi | 魔公子 |  |  |
 | makpower | Makpower |  |  |
 | makui | 幕井 |  |  |
-| makuma ikeru | マ熊イケル |  |  |
+| makuma ikeru | マ熊イケル |  | [pixiv](https://www.pixiv.net/users/291169) \| [X](https://x.com/makumaikeru) \| [Lit.Link](https://lit.link/en/makumaikeru) |
 | makunouchi | 幕野内 |  |  |
 | makunouchi isami | 幕の内勇 |  |  |
 | makura cover | 枕河馬亜 |  |  |
