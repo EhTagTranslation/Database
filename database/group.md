@@ -504,7 +504,7 @@ example:
 | mizuchirimen | ミズチリメン |  |  |
 | happy water | HAPPY WATER |  |  |
 | naragyogyo kumiai | なら漁業組合 |  |  |
-| shichiten battou | 七天罚讨 |  |  |
+| shichiten battou | 七天罚讨 | 社团名: 七天罰討 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG32009.html) |
 | drop dead | DROP DEAD!! |  |  |
 | erect touch | ERECT TOUCH |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG25171.html) |
 | melanchol | メランコル |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG23930.html) |
