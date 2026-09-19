@@ -13091,7 +13091,7 @@ example:
 | kyou majo | 京まじょ！ |  |  |
 | yokaranu yakara | よからヌ夜空 |  |  |
 | yamaneko box | 山猫BOX |  |  |
-| chirimen naoyuki | ちりめんなおゆき |  |  |
+| chirimen naoyuki | ちりめんなおゆき |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG72042.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206430/) |
 | haru tanuki-ya | 春狸屋 |  | [pixiv](https://www.pixiv.net/users/68049177) |
 | taihen na hentai | たいへんなへんたい |  |  |
 | ebiharami | エビハラミ |  |  |
