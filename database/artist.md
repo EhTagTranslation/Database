@@ -8477,7 +8477,7 @@ example:
 | namusan | 南無三 |  |  |
 | nana | 奈々 |  |  |
 | nana shinshi | 七紳士 |  |  |
-| nanaca mai | ななかまい |  |  |
+| nanaca mai | ななかまい |  | [pixiv](https://www.pixiv.net/users/2399229) \| [X](https://x.com/nanaca_box) \| [babymilk.jp](https://nanacan.babymilk.jp/) \| [FANBOX](https://nanacan.fanbox.cc/) \| [Pawoo](https://pawoo.net/@nanaca_box) |
 | nanae | Nanae |  |  |
 | nanae juu | 七影愁 |  |  |
 | nanagami you | 七神優 |  |  |
