@@ -1107,7 +1107,7 @@ example:
 | lambda | Lambda | Lambda 插画师，游戏原画师。<br>![图](https://pbs.twimg.com/profile_images/1265289370916929548/PV7Jon5F_400x400.jpg)<br>**推特头像** | [X](https://x.com/lambda9696) [pixiv](https://www.pixiv.net/users/871625) |
 | pon takahanada | ポン貴花田 |  |  |
 | kazakura | 夏樱 |  |  |
-| rikka kai | リッカー改 |  |  |
+| rikka kai | リッカー改 |  | [pixiv](https://www.pixiv.net/users/31100) \| [X](https://x.com/rika573) \| [FANBOX](https://rikkakai.fanbox.cc/) |
 | matsuryu | 松龙 | 松竜（まつりゅう）为日本插画作家、原画作家。<br>![图](https://pbs.twimg.com/profile_images/757184398273880064/vvpEd3YN_400x400.jpg)<br>**作者推特头像**<br>`fate grand order`的官方画师，人物设计之一。`helena blavatsky`的本家。<br>![图](https://ehgt.org/0b/fd/0bfdc0936becff5388a1406f0b0dff2bcef70d45-19095537-2550-3506-png_l.jpg) | [X](https://x.com/matsuryun) [pixiv](https://www.pixiv.net/users/2159670) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/松竜) (\*) |
 | suzutsuki kurara | 涼月くらら |  | [pixiv](https://www.pixiv.net/users/403279) |
 | naruhodo | なるほど |  |  |
