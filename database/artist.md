@@ -15736,6 +15736,7 @@ example:
 | seitoedaha | 生徒えだは |  | [pixiv](https://www.pixiv.net/users/70693825) |
 | kechadon | けちゃどん |  | [pixiv](https://www.pixiv.net/users/24632747) \| [X](https://x.com/ketyadonn) \| [Skeb](https://skeb.jp/@ketyadonn) |
 | amanoha asagi | 天乃羽浅戯 | あまのは浅戯 | [pixiv](https://www.pixiv.net/users/462200) \| [X](https://x.com/asagi_D_trooper) \| [Skeb](https://skeb.jp/@asagi_D_trooper) |
+| nakata gorori | 中田ゴロリ |  | [pixiv](https://www.pixiv.net/users/67326894) \| [X](https://x.com/nakatagorori2) \| [Pawoo](https://pawoo.net/@nakatagorori) \| [FANBOX](https://kappanoasi2.fanbox.cc/) \| [Ci-en](https://ci-en.dlsite.com/creator/9854) |
 
 <!--TEMPLATE:
 |  |  |  |  |
