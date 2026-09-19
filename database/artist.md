@@ -13587,7 +13587,7 @@ example:
 | norisuke | 乃莉助 |  |  |
 | kontetsu | こんてつ |  |  |
 | accter | accter |  | [pixiv](https://www.pixiv.net/users/11325572) [X](https://x.com/ccvaccter) |
-| naoyuki | なおゆき |  |  |
+| naoyuki | なおゆき |  | [pixiv](https://www.pixiv.net/users/87997594) \| [X](https://x.com/onayuki_3) |
 | gin-chan | 銀ちゃん |  | [pixiv](https://www.pixiv.net/users/3793447) |
 | iren | iren |  | [X](https://x.com/iren_lovel) [pixiv](https://www.pixiv.net/users/34209175) [HP](https://linktr.ee/iren_lovel) |
 | mizuse noa | 水聖のあ |  |  |
