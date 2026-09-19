@@ -8300,7 +8300,7 @@ example:
 | namiroji | 波路地 |  |  |
 | namitaitei | 並大抵 |  |  |
 | nanaban chamaru dou | 七番茶○堂 |  |  |
-| nanacan | NANACAN |  |  |
+| nanacan | NANACAN |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27098/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG15568.html) |
 | nanafundou | 七分堂 |  |  |
 | nanairo batake | なないろ畑 |  |  |
 | nanairo koubou | なないろ工房 |  |  |
