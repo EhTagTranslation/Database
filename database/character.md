@@ -10264,6 +10264,7 @@ example:
 | ema mochinaga | 望永艾玛 | ![](https://static.wikia.nocookie.net/prettyallfriends/images/d/d1/Ema_Mochinaga.png)<br>日语：望永エマ<br>出自作品:`onegai aipri` |  |
 | ultimatia | 阿尔蒂玛媞娅 | ![](https://static.wikia.nocookie.net/ragnacrimson/images/c/cd/Ultimatia_anime_design.png)<br>日语：アルテマティア<br>出自作品:`ragna crimson` |  |
 | chi an | 济安 | ![](https://azurlane.netojuu.com/images/thumb/3/3c/Chi_AnWithoutBG.png/1175px-Chi_AnWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/b/b0/Chi_AnNile_ColorsWithoutBG.png/1457px-Chi_AnNile_ColorsWithoutBG.png)<br>出自作品:`azur lane` |  |
+| eleonore bonnefoi | 艾兰诺·博纳富瓦 | ![](https://static.wikia.nocookie.net/isekai-pharmacy/images/9/92/Eléonore-FullDesign_%28Anime%29.png)<br>日语：エレオノール・ボヌフォワ<br>出自作品:`isekai yakkyoku` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
