@@ -195,7 +195,7 @@ example:
 | koihime musou | 恋姬†无双 | ![图](https://ehgt.org/ce/4f/ce4f54f0a3ad3bc41e5ef8ec37affc68abec1d81-371409-1240-680-png_l.jpg) |  |
 | senran kagura | 闪乱神乐 | ![](https://img.moegirl.org.cn/common/8/89/闪乱神乐.png)<br>《闪乱神乐》系列（日语：閃乱カグラ）是由TAMSOFT等开发，由Marvelous发行的游戏系列，并曾改编为TV动画等衍生作品。 |  |
 | kobayashi-san-chi no maid dragon | 小林家的龙女仆 | ![](https://static.wikia.nocookie.net/maid-dragon/images/3/3d/CzFE3UvUsAAylK1.jpg) |  |
-| new game | NEW GAME! | ![](https://ehgt.org/8a/b2/8ab2a1de7970ecbf55fcd2dc9c9c75f7998cac08-2053002-4085-5972-jpg_l.jpg)![](https://ehgt.org/0d/9c/0d9c2c32234f7fdb784209cbd99d646dd81a12f3-1537330-5709-3890-jpg_l.jpg) |  |
+| new game | NEW GAME! | ![](https://lain.bgm.tv/r/400/pic/cover/l/0f/79/150775_rRSAT.jpg) |  |
 | shirobako | 白箱 | ![](https://ehgt.org/8d/b7/8db7b86abf6e6b25c65c7f09fc715be284a27afb-1664386-2887-4089-jpg_l.jpg) |  |
 | girlish number | 少女编号 | ![](https://ehgt.org/be/17/be17508226eff3cc6da1031a9772ac1bb5b098b7-1214127-1447-2039-jpg_l.jpg) |  |
 | gabriel dropout | 珈百璃的堕落 | ![](https://ehgt.org/74/d9/74d9c6ba5b5def00d61be5e9b796b84d20463434-1720223-1280-720-png_l.jpg)![珈百璃的堕落](https://ehgt.org/91/23/9123b88a8dbd40759f5329915feade721bc168eb-1737901-1280-720-png_l.jpg) |  |
