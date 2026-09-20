@@ -9086,7 +9086,7 @@ example:
 | pakupaku | ぱくぱく |  |  |
 | pakupikubon | パクピクボン |  |  |
 | palace village ke | パレスヴィレッジ家 |  |  |
-| pale scarlet | Pale Scarlet |  |  |
+| pale scarlet | Pale Scarlet |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74722/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41683.html) |
 | palette | 调色板社 | ![](https://palette.clearrave.co.jp/_img/logo.png)<br>日语：ぱれっと | [官网](https://palette.clearrave.co.jp/) |
 | palette enterprise | Palette Enterprise |  |  |
 | pallet box | Pallet Box |  |  |
