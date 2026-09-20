@@ -13508,7 +13508,7 @@ example:
 | chikashitsu project | 地下室プロジェクト |  |  |
 | spanteikoku | すぱん帝国 |  |  |
 | hyoui lover | 憑依ラヴァー |  |  |
-| date roku | 伊達ろく |  |  |
+| date roku | 伊達ろく |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203863/) |
 | magical kagechousukashi | マジカル影蝶透 |  |  |
 | nopperi usagi | のっぺりうさぎ |  |  |
 | sei no syokunin | せいの職人 |  |  |
