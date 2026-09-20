@@ -3019,6 +3019,7 @@ example:
 | futsu no keionbu | 普普通通轻音部 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b7/10/473405_mFgZz.jpg)<br>别译：普通轻音社<br>日语：ふつうの軽音部 |  |
 | onegai aipri | 拜托了偶像公主 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9b/c4/622634_8e00L.jpg)<br>日语：おねがいアイプリ |  |
 | ragna crimson | 狩龙人拉格纳 | ![](https://lain.bgm.tv/r/400/pic/cover/l/12/9a/374648_GOxE2.jpg)<br>日语：ラグナクリムゾン |  |
+| isekai yakkyoku | 异世界药局 | ![](https://lain.bgm.tv/r/400/pic/cover/l/05/43/342200_2hdHa.jpg)<br>日语：異世界薬局 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
