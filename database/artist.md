@@ -15738,6 +15738,7 @@ example:
 | amanoha asagi | 天乃羽浅戯 | あまのは浅戯 | [pixiv](https://www.pixiv.net/users/462200) \| [X](https://x.com/asagi_D_trooper) \| [Skeb](https://skeb.jp/@asagi_D_trooper) |
 | nakata gorori | 中田ゴロリ |  | [pixiv](https://www.pixiv.net/users/67326894) \| [X](https://x.com/nakatagorori2) \| [Pawoo](https://pawoo.net/@nakatagorori) \| [FANBOX](https://kappanoasi2.fanbox.cc/) \| [Ci-en](https://ci-en.dlsite.com/creator/9854) |
 | atomb | ATomB |  | [FANBOX](https://www.fanbox.cc/@atomb) \| [pixiv](https://www.pixiv.net/users/9650629) \| [X](https://x.com/atombbAA) \| [Gumroad](https://atomb.gumroad.com/) \| [Patreon](https://www.patreon.com/ATomB) |
+| ruga ossan | るがお |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
