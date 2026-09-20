@@ -10263,6 +10263,7 @@ example:
 | kenta kanzaki | 神崎健太 | ![](https://static.wikia.nocookie.net/bokuyaba/images/e/e2/Kanzaki_Kenta_Anime.png)<br>出自作品：`p:boku no kokoro no yabai yatsu` | [Fandom](https://bokuyaba.fandom.com/wiki/Kanzaki_Kenta) |
 | ema mochinaga | 望永艾玛 | ![](https://static.wikia.nocookie.net/prettyallfriends/images/d/d1/Ema_Mochinaga.png)<br>日语：望永エマ<br>出自作品:`onegai aipri` |  |
 | ultimatia | 阿尔蒂玛媞娅 | ![](https://static.wikia.nocookie.net/ragnacrimson/images/c/cd/Ultimatia_anime_design.png)<br>日语：アルテマティア<br>出自作品:`ragna crimson` |  |
+| chi an | 济安 | ![](https://azurlane.netojuu.com/images/thumb/3/3c/Chi_AnWithoutBG.png/1175px-Chi_AnWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/b/b0/Chi_AnNile_ColorsWithoutBG.png/1457px-Chi_AnNile_ColorsWithoutBG.png)<br>出自作品:`azur lane` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
