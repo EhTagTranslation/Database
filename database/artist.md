@@ -7271,7 +7271,7 @@ example:
 | kuroda | 黒田 |  |  |
 | kuroda akimi | 黒田晶見 |  |  |
 | kurodou katana | 黒堂カタナ |  |  |
-| kurogane | くろがね |  |  |
+| kurogane | くろがね |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ013892/ana_flg/all) |
 | kurogane riku | 鐵陸 |  |  |
 | kurogane satsuki | 黒金さつき |  |  |
 | kuroha nue | クロハぬえ |  |  |
