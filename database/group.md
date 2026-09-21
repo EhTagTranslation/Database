@@ -2137,7 +2137,7 @@ example:
 | sashichigai-dan | 挿し違い団 |  | [官方网站](http://sashitigai-dan.la.coocan.jp/) |
 | yasai batake | 諏訪やさい |  | [pixiv](https://www.pixiv.net/users/13477002) [X](https://x.com/yasai_023) |
 | ichimi-zanmai | 一味三昧 |  |  |
-| sugar berry syrup | Sugar＊Berry＊Syrup |  |  |
+| sugar berry syrup | Sugar＊Berry＊Syrup |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71118/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG51191.html) |
 | kousei | コウセイ |  |  |
 | sugarringo | SUGARRINGO |  |  |
 | hajimeryu | はじめりゅう |  |  |
