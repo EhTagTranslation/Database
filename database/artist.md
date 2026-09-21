@@ -15739,6 +15739,7 @@ example:
 | nakata gorori | 中田ゴロリ |  | [pixiv](https://www.pixiv.net/users/67326894) \| [X](https://x.com/nakatagorori2) \| [Pawoo](https://pawoo.net/@nakatagorori) \| [FANBOX](https://kappanoasi2.fanbox.cc/) \| [Ci-en](https://ci-en.dlsite.com/creator/9854) |
 | atomb | ATomB |  | [FANBOX](https://www.fanbox.cc/@atomb) \| [pixiv](https://www.pixiv.net/users/9650629) \| [X](https://x.com/atombbAA) \| [Gumroad](https://atomb.gumroad.com/) \| [Patreon](https://www.patreon.com/ATomB) |
 | ruga ossan | るがお |  | [pixiv](https://www.pixiv.net/users/1450320) |
+| amane sou | 雨音响 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
