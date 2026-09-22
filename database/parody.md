@@ -3024,6 +3024,7 @@ example:
 | kizoku tensei | 贵族转生 ～得天眷顾～ | ![](https://lain.bgm.tv/r/400/pic/cover/l/08/c8/531724_U8Ti8.jpg)<br>全名：贵族转生 ～得天眷顾一出生就获得最强力量～<br>日语：貴族転生 ～恵まれた生まれから最強の力を得る～ |  |
 | mata korosarete shimatta no desu ne tantei-sama | 又被杀掉了呢，侦探大人 | ![](https://lain.bgm.tv/r/400/pic/cover/l/2e/f4/608227_44kWb.jpg)<br>日语：また殺されてしまったのですね、探偵様 |  |
 | seiken tsukai no world break | 圣剑使的禁咒咏唱 | ![](https://lain.bgm.tv/r/400/pic/cover/l/99/37/96600_Iiv53.jpg)<br>日语：聖剣使いの禁呪詠唱 |  |
+| heroine seijo iie all works maid desu hokori | 女主角？圣女？不，我是杂役女仆！ | ![](https://lain.bgm.tv/r/400/pic/cover/l/04/e4/558064_ApStA.jpg)<br>全名：女主角？圣女？不，我是杂役女仆（自豪）！<br>日语：ヒロイン？聖女？いいえ、オールワークスメイドです（誇）！ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
