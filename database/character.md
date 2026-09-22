@@ -10277,6 +10277,7 @@ example:
 | vesna strivozha | 薇斯纳·丝翠维莎 | ![](https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Vesna_Profile.png)<br>出自作品:`genshin impact` |  |
 | alichey | 艾莉洁 | ![](https://static.wikia.nocookie.net/isekai/images/7/70/Alichey_-_Anime_CH.png)<br>日语：アリーチェ<br>出自作品:`kizoku tensei` |  |
 | verdandi | ‌薇儿丹蒂 | ![](https://static.wikia.nocookie.net/typemoon/images/5/5c/VerdandiGO.png)<br>日语：ヴェルザンディ<br>出自作品:`fate grand order` |  |
+| lilithea | 莉莉忒雅 | ![](https://ami.animecharactersdatabase.com/images%20of/Lilithea/from/Killed%20Again%20Mr%20Detective/uploads/chars/67712-535314881.png)<br>日语：リリテア<br>出自作品:`mata korosarete shimatta no desu ne tantei-sama` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
