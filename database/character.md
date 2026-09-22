@@ -10279,6 +10279,7 @@ example:
 | verdandi | ‌薇儿丹蒂 | ![](https://static.wikia.nocookie.net/typemoon/images/5/5c/VerdandiGO.png)<br>日语：ヴェルザンディ<br>出自作品:`fate grand order` |  |
 | lilithea | 莉莉忒雅 | ![](https://ami.animecharactersdatabase.com/images%20of/Lilithea/from/Killed%20Again%20Mr%20Detective/uploads/chars/67712-535314881.png)<br>日语：リリテア<br>出自作品:`mata korosarete shimatta no desu ne tantei-sama` |  |
 | hisako kotobuki | 古都吹寿子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/17/36/133202_crt_SMEgm.jpg)<br>出自作品:`seitokai ni mo ana wa aru` |  |
+| tsubaki shinra | 真罗椿姬 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e6/bc/75162_crt_y3AZo.jpg)<br>出自作品:`highschool dxd` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
