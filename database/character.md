@@ -6212,7 +6212,7 @@ example:
 | helen parr | 巴荷莉 |  |  |
 | princess anna | 安娜公主 |  |  |
 | mimikyu | 谜拟丘 |  |  |
-| nurse joy | 乔伊 |  |  |
+| nurse joy | 乔伊小姐 | ![](https://ehgt.org/w/02/382/84408-fkypai34.webp)<br>出自作品:`pokemon` |  |
 | officer jenny | 君莎 | ![](https://s1.52poke.com/wiki/thumb/e/e0/君莎_神奥_DP.png/365px-君莎_神奥_DP.png?20180511115448)<br>所属作品：`pokemon`<br>日文︰ジュンサー |  |
 | james | 小次郎 |  |  |
 | jessie | 武藏 | ![](https://s1.52poke.com/wiki/thumb/a/a9/武藏_SS.png/220px-武藏_SS.png)<br>所属作品：`pokemon`<br>日文︰ムサシ |  |
