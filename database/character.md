@@ -10282,6 +10282,7 @@ example:
 | tsubaki shinra | 真罗椿姬 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e6/bc/75162_crt_y3AZo.jpg)<br>出自作品:`highschool dxd` |  |
 | kaburaki roco | 镝木露恋 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/b/b2/Kaburaki_Roco_Full_Body.png)<br>日语：鏑木ろこ<br>所属社团:`nijisanji` |  |
 | shizuno urushibara | 漆原静乃 | ![](https://static.wikia.nocookie.net/warubure/images/0/0a/Shizuno.png)<br>出自作品:`seiken tsukai no world break` |  |
+| melody wave | 美洛蒂·维芙 | ![](https://ami.animecharactersdatabase.com/images%20of/セレスティ・マクマーデン/from/ヒロイン？聖女？いいえ、オールワークスメイドです（誇）！/uploads/chars/67712-1421517838.png)<br>日语：メロディ・ウェーブ<br>出自作品:`heroine seijo iie all works maid desu hokori` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
