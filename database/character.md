@@ -4373,7 +4373,7 @@ example:
 | rinne byakuya | 白夜凛音 | 白夜凛音是`clockup`旗下游戏《`euphoria`》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/clockupeuphoria/images/6/69/Rinne_Portrait.jpg) | [萌娘百科](https://zh.moegirl.org.cn/白夜凛音) [Fandom](https://clockup.fandom.com/wiki/Rinne_Byakuya) |
 | hanabi yasuraoka | 安乐冈花火 | 安乐冈花火是由横槍メンゴ所创作的漫画《`p:kuzu no honkai`<br>》及其衍生作品的登场角色，女主角。 | [萌娘百科](https://zh.moegirl.org.cn/安乐冈花火) |
 | nayuta kani | 可儿那由多 | 可儿那由多是由平坂读创作、カントク负责插画的轻小说《`p:imouto sae ireba ii.`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/可儿那由多) |
-| maou | 魔王（红玉之瞳） | 红玉之瞳（魔王）是橙乃真希创作的小说《`p:maoyuu maou yuusha`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/红玉之瞳) |
+| maou | 魔王（红玉之瞳） | ![](https://lain.bgm.tv/r/400/pic/crt/l/de/4d/17203_crt_SwRiz.jpg?r=1675138305)<br>出自作品:`maoyuu maou yuusha` | [萌娘百科](https://zh.moegirl.org.cn/红玉之瞳) |
 | tabitha helene orleans de gallia | 塔巴萨 | 塔巴萨是由山口升所创作/制作的《`p:zero no tsukaima`》和《塔巴萨的冒险》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/thefamiliarofzero/images/9/9e/Tabitha.png) | [萌娘百科](https://zh.moegirl.org.cn/塔巴萨) [Fandom](https://thefamiliarofzero.fandom.com/wiki/Charlotte_de_Gallia) |
 | suguru geto | 夏油杰 |  |  |
 | selvaria bles | 塞贝莉雅·布雷斯 | ![](https://ehgt.org/w/01/906/67175-agvbynyb.webp)<br>所属作品：`valkyria chronicles` | [萌娘百科](https://zh.moegirl.org.cn/塞贝莉雅·布雷斯) |
