@@ -10265,6 +10265,7 @@ example:
 | ultimatia | 阿尔蒂玛媞娅 | ![](https://static.wikia.nocookie.net/ragnacrimson/images/c/cd/Ultimatia_anime_design.png)<br>日语：アルテマティア<br>出自作品:`ragna crimson` |  |
 | chi an | 济安 | ![](https://azurlane.netojuu.com/images/thumb/3/3c/Chi_AnWithoutBG.png/1175px-Chi_AnWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/b/b0/Chi_AnNile_ColorsWithoutBG.png/1457px-Chi_AnNile_ColorsWithoutBG.png)<br>出自作品:`azur lane` |  |
 | eleonore bonnefoi | 艾兰诺·博纳富瓦 | ![](https://static.wikia.nocookie.net/isekai-pharmacy/images/9/92/Eléonore-FullDesign_%28Anime%29.png)<br>日语：エレオノール・ボヌフォワ<br>出自作品:`isekai yakkyoku` |  |
+| alice baruneshio | 艾莉丝·巴尔涅西奥 | ![](https://lain.bgm.tv/r/400/pic/crt/l/10/3b/182606_crt_aM8w6.jpg?r=1755746162)<br>日语：アリス・バルネシオ<br>出自作品:`lv999 no murabito` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
