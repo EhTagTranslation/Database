@@ -1117,7 +1117,7 @@ example:
 | xin | xin |  | [pixiv](https://www.pixiv.net/users/3216075) |
 | aratamaru | 改多丸 |  |  |
 | 7zu7 | 7zu7 |  | [X](https://x.com/miku7zu7) [pixiv](https://www.pixiv.net/users/2405344) |
-| atage | あたげ |  |  |
+| atage | あたげ |  | [pixiv](https://www.pixiv.net/users/68525) \| [X](https://x.com/mojamojango) \| [Pawoo](https://pawoo.net/@atage) |
 | ebina ebi | 海老名えび |  |  |
 | kisen | 奇仙 |  |  |
 | kyockcho | 局长 | きょくちょ | [X](https://x.com/kyockcho) [pixiv](https://www.pixiv.net/users/22782) |
