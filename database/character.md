@@ -3288,7 +3288,7 @@ example:
 | mifuyu ogami | 大神美冬 | ![](https://storage.moegirl.org.cn/moegirl/commons/d/d7/Mifuyu.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/大神美冬) |
 | tamaki miyasaka | 宫坂珠希 | ![](https://storage.moegirl.org.cn/moegirl/commons/e/e1/Tamaki_prin_cone.png)<br>所属作品：`princess connect` | [萌娘百科](Dhttps://zh.moegirl.org.cn/宫坂珠希) |
 | yuuki | 佑树 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/42/Yuuki_shadowverse.jpg)<br>所属作品：`princess connect`<br>游戏男主角，外号骑士君。 | [萌娘百科](https://zh.moegirl.org.cn/佑树) |
-| yaya | 夜夜 |  | [萌娘百科](https://zh.moegirl.org.cn/夜夜) |
+| yaya | 夜夜 | ![](https://static.wikia.nocookie.net/unbreakable-machine-doll/images/3/37/Yaya%27s_Full_Appearance.png)<br>出自作品:`machine-doll wa kizutsukanai` | [萌娘百科](https://zh.moegirl.org.cn/夜夜) |
 | parvati | 帕尔瓦蒂 |  |  |
 | okada izou | 冈田以藏 |  |  |
 | scathach skadi | 斯卡哈·斯卡蒂 |  |  |
