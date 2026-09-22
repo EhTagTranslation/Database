@@ -10271,6 +10271,7 @@ example:
 | hisuian typhlosion | 洗翠 火暴兽 | 出自作品:`pokemon` |  |
 | sandile | 流氓鳄 | 出自作品:`pokemon` |  |
 | squid baron | 鱿鱼男爵 | ![](https://static.wikia.nocookie.net/shantae/images/c/c8/Squid_baron_SS.png)<br>出自作品:`shantae` |  |
+| katherine warren | 凯瑟琳·沃伦 | 日语：キャサリン・ウォーレン<br>出自作品:`resident evil` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
