@@ -4552,7 +4552,7 @@ example:
 | march 7th | 三月七 | ![](https://patchwiki.biligame.com/images/sr/thumb/e/ec/0nrtu7s6jqlq00wzcqqoyjl1doukder.png/1050px-三月七立绘.png)<br>所属作品：`honkai star rail`<br>精灵古怪的少女，自认热衷于这个年纪的女孩子「应当热衷」的所有事，比如照相。 | [萌娘百科](https://zh.moegirl.org.cn/三月七) |
 | himari akeboshi | 明星日鞠 | ![](https://patchwiki.biligame.com/images/ba/8/89/pd0ih0rnng2q0ms3aonh5pps55peofz.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/明星日鞠)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Himari) |
 | asta | 艾丝妲 \| 亚斯塔 | ![](https://patchwiki.biligame.com/images/sr/thumb/e/e0/btg14pkk2n5ft4slf5n83kyicxt16a9.png/1050px-艾丝妲立绘.png)<br>所属作品：`honkai star rail`<br>好奇心与精力都很旺盛的少女，空间站「黑塔」的名义站长。 | [萌娘百科](https://zh.moegirl.org.cn/艾丝妲) |
-| garou | 饿狼 | 饿狼（英语:garou）所属作品: `p:one punch man`<br>![](https://img.moegirl.org.cn/common/b/b8/Garou.png) | [萌娘百科](https://zh.moegirl.org.cn/饿狼) |
+| garou | 饿狼 | ![](https://static.wikia.nocookie.net/onepunchman/images/3/3d/Early_Garou_Hunt_Manga_Art.png)<br>出自作品:`one punch man` | [萌娘百科](https://zh.moegirl.org.cn/饿狼) |
 | himeko | 姬子 | ![](https://patchwiki.biligame.com/images/sr/thumb/e/ed/7fihsuzw7se69ls7p341128sbzg2vgj.png/1050px-姬子立绘.png)<br>所属作品：`honkai star rail`<br>充满冒险精神的科学家，少女时代在故乡遭遇了搁浅的星穹列车。 | [萌娘百科](https://zh.moegirl.org.cn/姬子%28星穹铁道%29) |
 | herta | 黑塔 | ![](https://patchwiki.biligame.com/images/sr/thumb/7/70/r1e1jyqs1e3kn8qqjdh5s79wribucec.png/1050px-黑塔立绘.png)<br>所属作品：`honkai star rail`<br>游戏中出现的`c:herta`是`c:the herta`的人偶形态<br>大黑塔请使用(The Herta)标签 | [BILIGAME WIKI](https://wiki.biligame.com/sr/黑塔) |
 | stelle | 星（开拓者） | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/Character_Trailblazer_%28F%29_Destruction_Splash_Art.png)<br>出自作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/开拓者) |
