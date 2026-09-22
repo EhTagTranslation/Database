@@ -3020,6 +3020,7 @@ example:
 | onegai aipri | 拜托了偶像公主 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9b/c4/622634_8e00L.jpg)<br>日语：おねがいアイプリ |  |
 | ragna crimson | 狩龙人拉格纳 | ![](https://lain.bgm.tv/r/400/pic/cover/l/12/9a/374648_GOxE2.jpg)<br>日语：ラグナクリムゾン |  |
 | isekai yakkyoku | 异世界药局 | ![](https://lain.bgm.tv/r/400/pic/cover/l/05/43/342200_2hdHa.jpg)<br>日语：異世界薬局 |  |
+| lv999 no murabito | LV999的村民 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e4/57/579787_9aHqE.jpg)<br>日语：LV999の村人 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
