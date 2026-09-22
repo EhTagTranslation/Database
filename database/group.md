@@ -11896,7 +11896,7 @@ example:
 | voltcompany. | VOLTCOMPANY. |  |  |
 | volutes | VOLUTES |  |  |
 | volvox | VOLVOX |  |  |
-| vpans extasy | Vパン'sエクスタシー |  |  |
+| vpans extasy | Vパン'sエクスタシー |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76853/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG43198.html) |
 | vulcannu | ヴぁるかん濡 |  |  |
 | vulgar bull | VULGAR BULL |  |  |
 | vyowolf | vyowolf |  |  |
