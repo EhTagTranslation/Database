@@ -3021,6 +3021,7 @@ example:
 | ragna crimson | 狩龙人拉格纳 | ![](https://lain.bgm.tv/r/400/pic/cover/l/12/9a/374648_GOxE2.jpg)<br>日语：ラグナクリムゾン |  |
 | isekai yakkyoku | 异世界药局 | ![](https://lain.bgm.tv/r/400/pic/cover/l/05/43/342200_2hdHa.jpg)<br>日语：異世界薬局 |  |
 | lv999 no murabito | LV999的村民 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e4/57/579787_9aHqE.jpg)<br>日语：LV999の村人 |  |
+| kizoku tensei | 贵族转生 ～得天眷顾～ | ![](https://lain.bgm.tv/r/400/pic/cover/l/08/c8/531724_U8Ti8.jpg)<br>全名：贵族转生 ～得天眷顾一出生就获得最强力量～<br>日语：貴族転生 ～恵まれた生まれから最強の力を得る～ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
