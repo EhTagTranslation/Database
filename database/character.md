@@ -10276,6 +10276,7 @@ example:
 | rock howard | 洛克·霍华德 | ![](https://static.wikia.nocookie.net/snk/images/0/01/FFCOTW-rock.png)<br>出自作品:`fatal fury` |  |
 | vesna strivozha | 薇斯纳·丝翠维莎 | ![](https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Vesna_Profile.png)<br>出自作品:`genshin impact` |  |
 | alichey | 艾莉洁 | ![](https://static.wikia.nocookie.net/isekai/images/7/70/Alichey_-_Anime_CH.png)<br>日语：アリーチェ<br>出自作品:`kizoku tensei` |  |
+| verdandi | ‌薇儿丹蒂 | ![](https://static.wikia.nocookie.net/typemoon/images/5/5c/VerdandiGO.png)<br>日语：ヴェルザンディ<br>出自作品:`fate grand order` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
