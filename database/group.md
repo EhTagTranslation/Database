@@ -14277,6 +14277,7 @@ example:
 | tombhouse | tombhouse |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG66789.html) |
 | humihako | ふみはこ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204814/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG63904.html) |
 | risu no rakuen | リスの楽園 |  |  |
+| tarte | タルト |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
