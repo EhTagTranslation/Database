@@ -662,7 +662,7 @@ example:
 | mai-otome | 舞-乙HiME | 《舞-乙HiME》是由日本日昇动画制作的动画作品。虽然这是《舞-HiME》第二个系列，但《舞-乙HiME》发生在一个新的时空背景，除了角色相同以外，其余皆不相同。 | [维基百科](https://zh.wikipedia.org/wiki/舞-乙HiME) (\*) |
 | hyouka | 冰菓 | ![](https://static.wikia.nocookie.net/hyouka/images/a/af/Hyouka_en.jpg)<br>由推理作家米泽穗信所著校园推理小说系列。<br>其第一卷为《冰菓（guǒ）》（日语：氷菓），故又称〈冰菓〉系列。<br>有电视动画、漫画、真人电影等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/冰菓) |
 | ookami-san to shichinin no nakama-tachi | 大神与七位伙伴 | 大神与七位伙伴，又译野狼大神（日语：オオカミさんと七人の仲間たち）是冲田雅轻小说作品《大神与…系列》的第一部，并有动画等衍生作品。 |  |
-| machine-doll wa kizutsukanai | 机巧少女不会受伤 |  | [萌娘百科](https://zh.moegirl.org.cn/机巧少女不会受伤) |
+| machine-doll wa kizutsukanai | 机巧少女不会受伤 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f7/c8/61962_Xheqi.jpg)<br>日语：機巧少女は傷つかない | [萌娘百科](https://zh.moegirl.org.cn/机巧少女不会受伤) |
 | its not my fault that im not popular | 我不受欢迎，怎么想都是你们的错！ | ![](https://lain.bgm.tv/r/400/pic/cover/l/05/6c/69214_qB7Wi.jpg)<br>日语：私がモテないのはどう考えてもお前らが悪い!，又译《丧女》，是由谷川ニコ创作的一部漫画，并有改编动画。 |  |
 | mouretsu pirates | 迷你裙宇宙海贼 |  |  |
 | gantz | 杀戮都市 |  |  |
