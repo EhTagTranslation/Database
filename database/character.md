@@ -10275,6 +10275,7 @@ example:
 | preecha | 普莉查 | ![](https://www.snk-corp.co.jp/zh/games/fatalfury-cotw/characters/img/character_main_preecha.png)<br>出自作品:`fatal fury` |  |
 | rock howard | 洛克·霍华德 | ![](https://static.wikia.nocookie.net/snk/images/0/01/FFCOTW-rock.png)<br>出自作品:`fatal fury` |  |
 | vesna strivozha | 薇斯纳·丝翠维莎 | ![](https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Vesna_Profile.png)<br>出自作品:`genshin impact` |  |
+| alichey | 艾莉洁 | ![](https://static.wikia.nocookie.net/isekai/images/7/70/Alichey_-_Anime_CH.png)<br>日语：アリーチェ<br>出自作品:`kizoku tensei` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
