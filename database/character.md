@@ -10267,6 +10267,7 @@ example:
 | eleonore bonnefoi | 艾兰诺·博纳富瓦 | ![](https://static.wikia.nocookie.net/isekai-pharmacy/images/9/92/Eléonore-FullDesign_%28Anime%29.png)<br>日语：エレオノール・ボヌフォワ<br>出自作品:`isekai yakkyoku` |  |
 | alice baruneshio | 艾莉丝·巴尔涅西奥 | ![](https://lain.bgm.tv/r/400/pic/crt/l/10/3b/182606_crt_aM8w6.jpg?r=1755746162)<br>日语：アリス・バルネシオ<br>出自作品:`lv999 no murabito` |  |
 | sheldon plankton | 痞老板 | 全名：谢尔顿·詹姆斯·普朗克顿二世<br>英文：Sheldon J. Plankton<br>出自作品:`spongebob squarepants` |  |
+| asa kinjou | 阿萨 | ![](https://static.wikia.nocookie.net/yomi-no-tsugai/images/4/4b/Asa_-_anime_design.png)<br>日语：アサ<br>出自作品:`yomi no tsugai` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
