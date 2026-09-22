@@ -438,7 +438,7 @@ example:
 | niku ringo | 肉りんご |  |  |
 | wareme | 割れ目 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48517.html) |
 | hakuginmokusei | 白銀木犀 |  |  |
-| meshikutteneru. | 飯食って寝る。 |  |  |
+| meshikutteneru. | 飯食って寝る。 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45307.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79336/) |
 | little hamlet | りとる☆はむれっと |  |  |
 | tarehamu | たれハム |  |  |
 | black dog | BLACK DOG |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG39160.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75330/) |
