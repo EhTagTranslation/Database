@@ -10274,6 +10274,7 @@ example:
 | katherine warren | 凯瑟琳·沃伦 | 日语：キャサリン・ウォーレン<br>出自作品:`resident evil` |  |
 | preecha | 普莉查 | ![](https://www.snk-corp.co.jp/zh/games/fatalfury-cotw/characters/img/character_main_preecha.png)<br>出自作品:`fatal fury` |  |
 | rock howard | 洛克·霍华德 | ![](https://static.wikia.nocookie.net/snk/images/0/01/FFCOTW-rock.png)<br>出自作品:`fatal fury` |  |
+| vesna strivozha | 薇斯纳·丝翠维莎 | ![](https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Vesna_Card.png)<br>出自作品:`genshin impact` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
