@@ -12081,7 +12081,7 @@ example:
 | yakisaba teishoku | 焼鯖定食 |  |  |
 | yakisaketeishoku | 焼鮭定食 |  |  |
 | yakisoba rengo | やきそば連合 |  |  |
-| yakitate jamaica | 焼きたてジャマイカ |  |  |
+| yakitate jamaica | 焼きたてジャマイカ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200842/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG40719.html) |
 | yakou chaofan | 夜光チャーハン |  |  |
 | yakousei fan club | 夜行性ファンクラブ |  |  |
 | yakouyousei | 夜光幼性 |  |  |
