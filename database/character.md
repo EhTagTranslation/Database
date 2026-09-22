@@ -6642,7 +6642,7 @@ example:
 | rei miyamoto | 宫本丽 | ![](https://ehgt.org/w/02/114/59002-8c0bs1s7.webp)<br>所属作品：`highschool of the dead` | [萌娘百科](https://zh.moegirl.org.cn/宫本丽) |
 | yukino mifuyu | 雪乃深冬 | ![](https://ehgt.org/w/02/115/45267-5y29tzzg.webp) |  |
 | iuno | 尤诺 | ![](https://pic.cangku.moe/images/2025/09/04/1y1vM.md.webp)<br>所属作品：`wuthering waves`<br>她被命运以怎样的名义青睐，就被命运以怎样的方式裹挟。但她从未被打败，也不肯罢休。 | [百度百科](https://baike.baidu.com/item/尤诺/65734292) \| [萌娘百科](https://zh.moegirl.org.cn/尤诺%28鸣潮%29#)<br>[BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/尤诺) |
-| tino shade | 蒂诺·薛德 | ![](https://static.wikia.nocookie.net/strange-grief-wants-to-retire/images/0/0b/Tino_Shade_Anime_ver.png)<br>所属作品：`nageki no bourei ha intai shitai`<br>隶属“初始的足迹”，但独自行动、是克莱后辈的宝藏猎人。 |  |
+| tino shade | 蒂诺·薛德 | ![](https://static.wikia.nocookie.net/strange-grief-wants-to-retire/images/0/0b/Tino_Shade_Anime_ver.png)<br>所属作品：`nageki no bourei ha intai shitai` |  |
 | ninym ralei | 妮妮姆·拉雷 | ![](https://static.wikia.nocookie.net/tensai-ouji-no-akaji/images/7/76/Ninym_Character_Design_-_Anime.png)<br>所属作品：`tensai ouji no akaji kokka saisei jutsu` | [萌娘百科](https://zh.moegirl.org.cn/妮妮姆·拉雷) |
 | mariabelle | 玛莉亚贝尔 | ①<br>![](https://static.wikia.nocookie.net/welcome-to-japan-ms-elf/images/f/f0/Mary-02_MG.png)<br>所属作品：`nihon e youkoso elf-san.`<br>②<br>![](https://sevenseasentertainment.com/wp-content/uploads/2024/06/yandereDarkElfM1_site.jpg)<br>所属作品：《爱有些沉重的黑暗精灵从异世界追过来了》 | [萌娘百科](https://zh.moegirl.org.cn/欢迎来到日本，妖精小姐。) |
 | kaguya | 辉夜 | ![](https://static.wikia.nocookie.net/legendsofthemultiuniverse/images/c/c5/Kaguya_Kuroinu.png)<br>所属作品：`kuroinu kedakaki seijo wa hakudaku ni somaru` | [萌娘百科](https://zh.moegirl.org.cn/辉夜%28黑兽%29#) |
