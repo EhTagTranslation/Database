@@ -7901,7 +7901,7 @@ example:
 | lishu | 里树 | ![](https://ehgt.org/w/01/759/38434-phtcoxp4.webp)<br>所属作品：`kusuriya no hitorigoto` |  |
 | bois belleau | 贝劳森林 | ![](https://patchwiki.biligame.com/images/blhx/thumb/0/03/1ri9p8p0751wv0szt5jvw5ivbc6vfe9.jpg/525px-贝劳森林立绘.jpg)<br>![](https://patchwiki.biligame.com/images/blhx/thumb/d/d7/t3bd73vci3bq1aa4spvflqu5flnlkt4.jpg/525px-贝劳森林换装.jpg)<br>所属作品：`azur lane` |  |
 | allucia citrus | 艾露西亚·西特拉斯 | ![](https://ossan-kensei.com/core_sys/images/main/cont/chara/allucia.png)<br>所属作品：`katainaka no ossan kensei ni naru`<br>莱贝里奥骑士团的团长。 |  |
-| rose marbleheart | 萝丝·玛波哈特 | ![](https://ossan-kensei.com/core_sys/images/main/cont/chara/rose.png)<br>所属作品：`katainaka no ossan kensei ni naru`<br>斯芬多雅德瓦尼亚教会骑士团副团长。 |  |
+| rose marbleheart | 萝丝·玛波哈特 | ![](https://static.wikia.nocookie.net/from-old-country-bumpkin-to-master-swordsman/images/7/7b/Rose_Marblehart_Anime_Render.png)<br>所属作品：`katainaka no ossan kensei ni naru` |  |
 | surena lysandra | 斯蕾娜·利桑德拉 | ![](https://ossan-kensei.com/core_sys/images/main/cont/chara/surena.png)<br>所属作品：`katainaka no ossan kensei ni naru`<br>拥有“龙双剑的利桑德拉”称号的双剑使用者。 |  |
 | lucy diamond | 露西·戴亚蒙德 | ![](https://ossan-kensei.com/core_sys/images/main/cont/chara/lucy.png)<br>所属作品：`katainaka no ossan kensei ni naru`<br>莱贝里斯王国魔法师团的团长，外表看起来不过像个小孩，实际上年龄远远超过贝利尔。 |  |
 | mewi freya | 缪伊·芙蕾雅 | ![](https://ossan-kensei.com/core_sys/images/main/cont/chara/mewi.png)<br>所属作品：`katainaka no ossan kensei ni naru`<br>与唯一的血亲——姐姐相依为命，在贫民街中艰难度日。 |  |
