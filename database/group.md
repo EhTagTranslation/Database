@@ -1647,7 +1647,7 @@ example:
 | watagashi | わた菓子 |  |  |
 | morphine | モルピネ |  |  |
 | amahara teikoku | 天原帝国 |  |  |
-| rocket chousashitsu | ロケット調査室 |  |  |
+| rocket chousashitsu | ロケット調査室 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200781/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52854.html) |
 | esora note | エソラnote |  |  |
 | ozitan yasan | おじたん屋さん |  |  |
 | nechorapoddo | ねちょらぽっど |  |  |
