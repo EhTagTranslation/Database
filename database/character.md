@@ -10269,6 +10269,7 @@ example:
 | sheldon plankton | 痞老板 | 全名：谢尔顿·詹姆斯·普朗克顿二世<br>英文：Sheldon J. Plankton<br>出自作品:`spongebob squarepants` |  |
 | asa kinjou | 阿萨 | ![](https://static.wikia.nocookie.net/yomi-no-tsugai/images/4/4b/Asa_-_anime_design.png)<br>日语：アサ<br>出自作品:`yomi no tsugai` |  |
 | hisuian typhlosion | 洗翠 火暴兽 | 出自作品:`pokemon` |  |
+| sandile | 流氓鳄 | 出自作品:`pokemon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
