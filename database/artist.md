@@ -14868,7 +14868,7 @@ example:
 | odoru london | 踊るロンドン |  |  |
 | fusu | ふす |  | [pixiv](https://www.pixiv.net/users/30675161) |
 | sonoshiki | 園色 |  | [X](https://x.com/sonoshiki25) |
-| shuiro | 周一色 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22周一色%22/ana_flg/all) |
+| shuiro | 周一色 | シュイロ | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22周一色%22/ana_flg/all) \| [pixiv](https://www.pixiv.net/users/159133) \| [X](https://x.com/ykttJAM) \| [Pawoo](https://pawoo.net/@Shiro_yakiyaki) \| [Bluesky](https://bsky.app/profile/shuiro.bsky.social) |
 | 4terabyte | 4terabyte |  | [FANBOX](https://fourterabyte.fanbox.cc/) \| [X](https://x.com/4tera_byte) \| [pixiv](https://www.pixiv.net/users/3538015) |
 | botamochi | ぼたもち |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28941/) |
 | cunqian mai nvpengyou | 存钱买女朋友 |  | [FANBOX](https://www.fanbox.cc/@maxapple) \| [Patreon](https://www.patreon.com/maxapple) \| [爱发电](https://afdian.net/a/maxapple) \| [pixiv](https://www.pixiv.net/users/15790437) |
