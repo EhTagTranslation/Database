@@ -5562,7 +5562,7 @@ example:
 | hemelopa | HeMeLoPa |  |  |
 | henderson | HENDERSON |  |  |
 | hending | Hending |  |  |
-| hentai emblem | へんたいゑむぶれむ |  |  |
+| hentai emblem | へんたいゑむぶれむ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78456/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG42276.html) |
 | hentai maker tomo no kai | Hentai Maker 友の会 |  |  |
 | hentai musume | へんたい娘 |  |  |
 | hentai ojisan | ヘンタイオジサン |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30970.html) \| [pixiv](https://www.pixiv.net/users/15214729) \| [DLsite](https://ci-en.dlsite.com/creator/1166) \| [Pawoo](https://pawoo.net/@CircleHO) \| [X](https://x.com/OjisanHentai) |
