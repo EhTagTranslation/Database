@@ -10896,7 +10896,7 @@ example:
 | suiren | 翠憐 |  |  |
 | suishoku sendan | 翠色戦団 |  |  |
 | suiteibuin | 推定部員 |  |  |
-| suitekiya | 水滴屋 |  |  |
+| suitekiya | 水滴屋 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=22489/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01301.html/?locale=zh_TW) |
 | suizokukan | 睡族館 |  |  |
 | sukapon-do | スカポン堂 |  |  |
 | sukaradog | SUKARADOG |  |  |
