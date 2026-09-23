@@ -807,7 +807,7 @@ example:
 | kokudakaya | こくだかや |  | [FANZA](https://book.dmm.co.jp/list/?author=294649) |
 | kuroishi ringo | 黒石りんご |  |  |
 | mokuzou | 杢臓 |  |  |
-| suitekiya yuumin | 水滴家悠民 |  |  |
+| suitekiya yuumin | 水滴家悠民 |  | [pixiv](https://www.pixiv.net/users/49318) \| [X](https://x.com/inuyama1914422) \| [Skeb](https://skeb.jp/@suitekiya) \| [Bluesky](https://bsky.app/profile/keninuyama.bsky.social) |
 | takasugi kou | タカスギコウ |  |  |
 | uramac | うらまっく |  |  |
 | isawa nohri | いさわのーり |  |  |
