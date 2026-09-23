@@ -15740,6 +15740,7 @@ example:
 | atomb | ATomB |  | [FANBOX](https://www.fanbox.cc/@atomb) \| [pixiv](https://www.pixiv.net/users/9650629) \| [X](https://x.com/atombbAA) \| [Gumroad](https://atomb.gumroad.com/) \| [Patreon](https://www.patreon.com/ATomB) |
 | ruga ossan | るがお |  | [pixiv](https://www.pixiv.net/users/1450320) |
 | amane sou | 雨音响 |  |  |
+| gyotoukotsu | OKASIRA |  | [pixiv](https://www.pixiv.net/users/2500918) \| [X](https://x.com/okasira4545) \| [Misskey.io](https://misskey.io/@OKASIRA4545) \| [Bluesky](https://bsky.app/profile/okasira4545.bsky.social) \| [Skeb](https://skeb.jp/@okasira4545) |
 
 <!--TEMPLATE:
 |  |  |  |  |
