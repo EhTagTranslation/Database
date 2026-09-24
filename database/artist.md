@@ -4944,7 +4944,7 @@ example:
 | drossel | 泥っせる |  |  |
 | dry | DRY |  |  |
 | dt hone | DT骨 |  |  |
-| dulce-q | ダルシー研Q所 |  |  |
+| dulce-q | ダルシー研Q所 |  | [pixiv](https://www.pixiv.net/users/176964) |
 | dune | でゅーん |  |  |
 | dura | でゅら |  |  |
 | dy | Dy |  |  |
