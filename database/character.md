@@ -10283,6 +10283,7 @@ example:
 | kaburaki roco | 镝木露恋 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/b/b2/Kaburaki_Roco_Full_Body.png)<br>日语：鏑木ろこ<br>所属社团:`nijisanji` |  |
 | shizuno urushibara | 漆原静乃 | ![](https://static.wikia.nocookie.net/warubure/images/0/0a/Shizuno.png)<br>出自作品:`seiken tsukai no world break` |  |
 | melody wave | 美洛蒂·维芙 | ![](https://ami.animecharactersdatabase.com/images%20of/セレスティ・マクマーデン/from/ヒロイン？聖女？いいえ、オールワークスメイドです（誇）！/uploads/chars/67712-1421517838.png)<br>日语：メロディ・ウェーブ<br>出自作品:`heroine seijo iie all works maid desu hokori` |  |
+| victoire pisa | 比萨胜驹 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/7/7c/cvlb3bm79lz1wphuu29u3yevk8e74zk.png/600px-Jsf_114301.png)<br>日语：ヴィクトワールピサ<br>出自作品:`uma musume pretty derby` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
