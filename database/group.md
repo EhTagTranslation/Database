@@ -14282,6 +14282,7 @@ example:
 | starcup | StarCup |  |  |
 | hosizukiyo | 星月夜 |  |  |
 | hemoglovitamin | ヘモグロビタミン |  |  |
+| banibani | バニバニ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
