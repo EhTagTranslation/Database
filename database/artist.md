@@ -3742,7 +3742,7 @@ example:
 | 1103 | 1103 |  |  |
 | 3104 | 3104 |  |  |
 | 7010 | 7010 |  |  |
-| 8000 | 8000 | はっせん |  |
+| 8000 | 8000 | はっせん | [pixiv](https://www.pixiv.net/users/127897) \| [X](https://x.com/yamanote8000) \| [Skeb](https://skeb.jp/@yamanote8000) \| [Pawoo](https://pawoo.net/@yamanote8000) \| [Misskey.io](https://misskey.io/@yamanote8000) |
 | 33297 | 33297 |  |  |
 | 0-g | 0-G |  |  |
 | 0bake | 0BAKE |  |  |
