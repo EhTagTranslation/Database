@@ -6120,7 +6120,7 @@ example:
 | iyou | iYou |  |  |
 | izakaya yocchan | 居酒屋よっちゃん |  |  |
 | izayoi no tsuki | 十六夜の月 |  |  |
-| izumi gakuen | いずみ学園 |  |  |
+| izumi gakuen | いずみ学園 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01782.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=24683/) |
 | izumi shoseki | いづみ書籍 |  |  |
 | izumiyu | イズミユ |  |  |
 | izumnizm | イズムニズム |  |  |
