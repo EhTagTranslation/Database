@@ -8522,7 +8522,7 @@ example:
 | nexumi no sumika | ねずみの住家 |  |  |
 | nexus koubou | ネクサス工房 |  |  |
 | nezumitori | ねズみ砦 |  |  |
-| nf121 | NF121 |  |  |
+| nf121 | NF121 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01061099.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=205098/) |
 | ngamura-san | んがむらさん |  |  |
 | ngl | NGL |  |  |
 | nguppu do m hakushaku | んぐっぷ・ド・M伯爵 |  |  |
