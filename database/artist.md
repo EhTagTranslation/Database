@@ -5041,7 +5041,7 @@ example:
 | enoshima iki | 江ノ島行き |  |  |
 | enotou | えのとう |  |  |
 | enoughmin | イナフミン |  |  |
-| enu | エヌ |  |  |
+| enu | エヌ \| ゑぬ |  |  |
 | enu-yamayama | えぬーやまやま |  |  |
 | epuko | えぷ子 |  |  |
 | era | Era |  | [pixiv](https://www.pixiv.net/users/3368013) |
