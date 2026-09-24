@@ -15742,6 +15742,7 @@ example:
 | amane sou | 雨音响 |  |  |
 | gyotoukotsu | OKASIRA |  | [pixiv](https://www.pixiv.net/users/2500918) \| [X](https://x.com/okasira4545) \| [Misskey.io](https://misskey.io/@OKASIRA4545) \| [Bluesky](https://bsky.app/profile/okasira4545.bsky.social) \| [Skeb](https://skeb.jp/@okasira4545) |
 | himugane | 柚月ひむか |  |  |
+| oritsuki fumio | 折月フミオ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
