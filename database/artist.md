@@ -9874,7 +9874,7 @@ example:
 | sazanami mio | さざなみみぉ |  |  |
 | scarlet | スカーレット |  |  |
 | sch-mit | シューミット |  |  |
-| school izumi | すくーるいずみ |  |  |
+| school izumi | すくーるいずみ |  | [pixiv](https://www.pixiv.net/users/727930) \| [Skeb](https://skeb.jp/@school_izumi) \| [Pawoo](https://pawoo.net/@schoolizumi) \| [Lit.Link](https://lit.link/en/izumigakuen) \| [Misskey.io](https://misskey.io/@school_izumi) \| [Fantia](https://fantia.jp/fanclubs/488577) |
 | scope cat | すこぉぷCAT |  |  |
 | scotch | スコチ |  |  |
 | sdwing | SDwing |  |  |
