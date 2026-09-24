@@ -10285,6 +10285,7 @@ example:
 | melody wave | 美洛蒂·维芙 | ![](https://ami.animecharactersdatabase.com/images%20of/セレスティ・マクマーデン/from/ヒロイン？聖女？いいえ、オールワークスメイドです（誇）！/uploads/chars/67712-1421517838.png)<br>日语：メロディ・ウェーブ<br>出自作品:`heroine seijo iie all works maid desu hokori` |  |
 | victoire pisa | 比萨胜驹 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/7/7c/cvlb3bm79lz1wphuu29u3yevk8e74zk.png/600px-Jsf_114301.png)<br>日语：ヴィクトワールピサ<br>出自作品:`uma musume pretty derby` |  |
 | roxy ifrita pryce | 洛克茜·伊芙莉塔·普莱斯 | ![](https://lain.bgm.tv/r/400/pic/crt/l/a6/ad/210065_crt_zwjMa.jpg)<br>出自作品:`zenless zone zero` |  |
+| isolde | 伊索尔德 | 出自作品:`zenless zone zero` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
