@@ -770,7 +770,7 @@ example:
 | amahara | 天原 |  |  |
 | arino hiroshi | ありのひろし |  | [FANBOX](https://arinohiroshi.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/25612) \| [Pawoo](https://pawoo.net/@arinohiroshi) \| [X](https://x.com/arinohiroshi) |
 | cheewts | ちいうつ |  |  |
-| katsura airi | 桂あいり |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/detail/=/cid=d_746537/) |
+| katsura airi | 桂あいり |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76895/) \| [pixiv](https://www.pixiv.net/users/2078750) \| [X](https://x.com/airikatsura) |
 | koori | 粉织 |  |  |
 | red-rum | RED-RUM |  |  |
 | ryoh-zoh | 椋蔵 |  |  |
