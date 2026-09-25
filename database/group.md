@@ -13433,7 +13433,7 @@ example:
 | zonebell market | ゾンベルマーケット |  |  |
 | byururun youkeijou | びゅるるん★養鶏場 |  |  |
 | sokuseki maou | 即席魔王 |  |  |
-| wide na nomikuchi | ワイドな飲み口 |  |  |
+| wide na nomikuchi | ワイドな飲み口 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=209742/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01007397.html) |
 | graphic l | グラフィックL |  |  |
 | ntrocket | NTRocket |  |  |
 | yomogimogi | よもぎもぎ |  |  |
