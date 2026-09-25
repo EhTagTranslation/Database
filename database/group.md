@@ -14283,6 +14283,7 @@ example:
 | hosizukiyo | 星月夜 |  |  |
 | hemoglovitamin | ヘモグロビタミン |  |  |
 | banibani | バニバニ |  |  |
+| shirumamire teishoku | 汁まみれ定食 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01039814.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=213633/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
