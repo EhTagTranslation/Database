@@ -14284,6 +14284,7 @@ example:
 | hemoglovitamin | ヘモグロビタミン |  |  |
 | banibani | バニバニ |  |  |
 | shirumamire teishoku | 汁まみれ定食 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01039814.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=213633/) |
+| sushi spark | Sushi Spark |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203069/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54277.html) \| [Ci-en](https://ci-en.dlsite.com/creator/11223) \| [FANBOX](https://shmtnpp.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/13823073) \| [BOOTH](https://shmtnpp.booth.pm/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
