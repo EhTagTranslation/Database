@@ -10287,6 +10287,7 @@ example:
 | roxy ifrita pryce | 洛克茜·伊芙莉塔·普莱斯 | ![](https://lain.bgm.tv/r/400/pic/crt/l/a6/ad/210065_crt_zwjMa.jpg)<br>出自作品:`zenless zone zero` |  |
 | isolde | 伊瑟尔德 | ![](https://lain.bgm.tv/r/400/pic/crt/l/2f/c2/179652_crt_xd7Zr.jpg)<br>出自作品:`zenless zone zero` |  |
 | danica postelnitskaya | 达妮卡·别捷尼茨卡娅 | 出自作品:`genshin impact` |  |
+| mecha eli-chan | 机械伊丽亲 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
