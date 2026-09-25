@@ -13525,7 +13525,7 @@ example:
 | tanioku no kaeru | 谷奥の蛙 |  |  |
 | seisui bar | 圣水BAR |  |  |
 | samurai banana | サムライバナナ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=212807/) \| [DLsite](https://www.dlsite.com/maniax-touch/circle/profile/=/from/work.maker/maker_id/RG01007764.html) |
-| popotto denki ichigouten | ぽぽっと電機1号店 |  |  |
+| popotto denki ichigouten | ぽぽっと電機1号店 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53555.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201081/) |
 | studio washitsu | Studio和室 |  |  |
 | butajiru | 豚汁 |  |  |
 | yagen nankotsu | YAGENなんこつ |  |  |
