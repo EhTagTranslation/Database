@@ -14289,6 +14289,7 @@ example:
 | onanism | オナニズム |  |  |
 | espoir no okashi | エスポワールのおかし |  |  |
 | arujima | アルジマ |  |  |
+| wakuwaku yotonjo. | わくわく養豚所。 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
