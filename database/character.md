@@ -5810,7 +5810,7 @@ example:
 | midnight | 午夜 | ![](https://static.wikia.nocookie.net/p__/images/e/e8/Screenshot_2025-06-11_223948-Photoroom.png/revision/latest/scale-to-width-down/238?cb=20250611104223&path-prefix=protagonist)<br>出自作品：`p:my hero academia`<br><br>午夜是日本漫画《我的英雄学院》及其衍生作品中的角色。 | [百度百科](https://baike.baidu.com/item/午夜/19691316) \| [Fandom](https://hero.fandom.com/wiki/Midnight_%28My_Hero_Academia%29) |
 | sumire otohana | 乙花堇 | 千年科学学校所属，锻炼部的部长。![](https://patchwiki.biligame.com/images/ba/9/9d/db4dyt0yrqig7l0gw05pihz7qszqzrv.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Sumire) |
 | marina | 饭田 |  |  |
-| cecile croomy | 塞希尔·柯尔米 | ![](https://ehgt.org/w/01/893/77455-30mbiqpv.webp)<br>所属作品：`code geass`<br>日语名：セシル・クルーミー<br>兰斯洛特开发群成员，中尉军衔，兼具同情心与坚韧。 |  |
+| cecile croomy | 塞希尔·柯尔米 | ![](https://patchwiki.biligame.com/images/loststories/thumb/1/10/ocpj1p5zst3yvp2evgwss3ldx7wds0t.png/642px-塞西尔·柯尔米-特别派遣向导技术部卡面2.png)<br>![](https://patchwiki.biligame.com/images/loststories/thumb/4/48/2uqfkxh0qkc234ocmqx9rx0ikxugona.png/1802px-塞西尔·柯尔米-感谢的欢欣鼓舞的技术人员卡面2.png)<br>日语：セシル・クルーミー<br>所属作品：`code geass` |  |
 | jeremiah gottwald | 杰雷米亚·哥特瓦尔德 | 所属作品：`code geass`<br>杰雷米亚·哥特瓦尔德 Jeremiah Gottwald。<br>名门出身，原是不列颠纯血主义者纯血派头头的男军官。 |  |
 | nina einstein | 妮娜·爱因斯坦 | ![](https://patchwiki.biligame.com/images/loststories/4/4f/gxmm4sx62w0ioe38fy3w1zuusm9hd8i.png)<br>![](https://patchwiki.biligame.com/images/loststories/a/ad/n006p1d079lnuy1ln7qnb16x1mpeq7g.png)<br>所属作品：`code geass`<br>布里塔尼亚人，精通物理学，原是阿什弗德学园高中部二年级学生、学生会所属人员。 |  |
 | mao | 毛 | 所属作品：`code geass`<br>六岁的时候被C.C.赐予了Geass能力，能够看穿人的思想，但同时也给他带来了巨大的痛苦。 |  |
