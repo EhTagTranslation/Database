@@ -1228,7 +1228,7 @@ example:
 | pinvise | pinvise |  | [博客](http://pinvise.x.fc2.com/) |
 | cobanzame | こばんざめ |  |  |
 | p shoukai | P商会 |  |  |
-| indexacg | IndexACG |  |  |
+| indexacg | インデックスACG |  |  |
 | yuriai kojinshi kai | 悠理爱个人志会 |  |  |
 | lachenalia | Lachenalia |  |  |
 | apricot plus | apricot+ |  |  |
