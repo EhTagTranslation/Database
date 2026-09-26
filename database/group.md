@@ -14288,6 +14288,7 @@ example:
 | tomarigitei | とまりぎ亭 |  |  |
 | onanism | オナニズム |  |  |
 | espoir no okashi | エスポワールのおかし |  |  |
+| arujima | アルジマ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
