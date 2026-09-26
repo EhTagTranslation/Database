@@ -14290,6 +14290,7 @@ example:
 | espoir no okashi | エスポワールのおかし |  |  |
 | arujima | アルジマ |  |  |
 | wakuwaku yotonjo. | わくわく養豚所。 |  |  |
+| lip | りっぷ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
