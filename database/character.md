@@ -10289,6 +10289,7 @@ example:
 | danica postelnitskaya | 达妮卡·别捷尼茨卡娅 | 出自作品:`genshin impact` |  |
 | mecha eli-chan | 机械伊丽亲 |  |  |
 | rin takanashi | 小鸟游伦 | ![](https://lain.bgm.tv/r/400/pic/crt/l/74/e0/205506_crt_OTBUf.jpg)<br>出自作品:`suterare seijo no isekai gohantabi` |  |
+| catherine sabathra | 凯瑟琳・萨巴斯拉 | ![](https://patchwiki.biligame.com/images/loststories/thumb/6/62/qxry7sieve13c3p5pxmjtaunyyszwj6.png/1738px-凯瑟琳·萨巴士拉-在平安夜用甜点治愈卡面2.png)<br>日语：キャサリン・サバスラ<br>出自作品:`code geass` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
