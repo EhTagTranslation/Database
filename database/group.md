@@ -14291,6 +14291,7 @@ example:
 | arujima | アルジマ |  |  |
 | wakuwaku yotonjo. | わくわく養豚所。 |  |  |
 | lip | りっぷ |  |  |
+| okeyu tei | おけゆ亭 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
