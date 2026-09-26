@@ -5317,7 +5317,7 @@ example:
 | iori miyamoto | 宫本伊织 |  |  |
 | kirara yozakura | 夜樱绮罗罗 | ![](https://static.wikia.nocookie.net/blue-archive/images/3/3f/Kirara_Portrait.png/revision/latest?cb=20221116150608)<br>![](https://static.kivo.wiki/images/students/夜樱%20绮良/sd_model.png)<br>所属游戏:`blue archive` | [萌娘百科](https://zh.moegirl.org.cn/夜樱绮罗罗)<br>[Fandom](https://bluearchive.fandom.com/wiki/Yozakura_Kirara) |
 | britomart | 布里托玛特 | ![](https://ehgt.org/w/02/085/49431-ich3ns9j.webp) |  |
-| rex | 莱克斯 | ![](https://static.wikia.nocookie.net/xenoblade/images/b/b7/Rex_pic.png)<br>出自作品：`p:xenoblade chronicles 2`<br><br>莱克斯（日语：レックス）是游戏《异度神剑2》的登场角色，男主角。 | [萌娘百科](https://zh.moegirl.org.cn/莱克斯) \| [Fandom](https://xenoblade.fandom.com/wiki/Rex) |
+| rex | 莱克斯 | ![](https://static.wikia.nocookie.net/xenoblade/images/b/b7/Rex_pic.png)<br>日语：レックス<br>出自作品：`p:xenoblade chronicles 2` | [萌娘百科](https://zh.moegirl.org.cn/莱克斯) \| [Fandom](https://xenoblade.fandom.com/wiki/Rex) |
 | shizuka mikazuki | 三日月闲 | ![](https://ehgt.org/w/02/301/28083-7djop9d6.webp)<br>所属作品：`zom 100 zombie ni naru made ni shitai 100 no koto`<br>日语：三日月閑 |  |
 | la pluma | 羽毛笔 | ![](https://patchwiki.biligame.com/images/arknights/2/2a/o16ec9h9uiu0js1te7pji6gtkfcifs4.png)<br>所属作品`p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/羽毛笔) |
 | if | 爱耶芙 | 爱耶芙(IDEA FACTORY/アイエフ)，是游戏《超次元游戏海王星》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/爱耶芙) |
