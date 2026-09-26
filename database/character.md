@@ -10287,7 +10287,7 @@ example:
 | roxy ifrita pryce | 洛克茜·伊芙莉塔·普莱斯 | ![](https://lain.bgm.tv/r/400/pic/crt/l/a6/ad/210065_crt_zwjMa.jpg)<br>出自作品:`zenless zone zero` |  |
 | isolde | 伊瑟尔德 | ![](https://lain.bgm.tv/r/400/pic/crt/l/2f/c2/179652_crt_xd7Zr.jpg)<br>出自作品:`zenless zone zero` |  |
 | danica postelnitskaya | 达妮卡·别捷尼茨卡娅 | 出自作品:`genshin impact` |  |
-| mecha eli-chan | 机械伊丽亲 |  |  |
+| mecha eli-chan | 机械伊丽亲 | ![](https://static.wikia.nocookie.net/typemoon/images/9/93/MechaEliMk1.png)<br>出自作品:`fate grand order` |  |
 | rin takanashi | 小鸟游伦 | ![](https://lain.bgm.tv/r/400/pic/crt/l/74/e0/205506_crt_OTBUf.jpg)<br>出自作品:`suterare seijo no isekai gohantabi` |  |
 | catherine sabathra | 凯瑟琳・萨巴斯拉 | ![](https://static.wikitide.net/geasswiki/thumb/a/a0/Catherine_sabathra_xmas_2_lost_stories_live_2d_model.png/599px-Catherine_sabathra_xmas_2_lost_stories_live_2d_model.png)<br>![](https://patchwiki.biligame.com/images/loststories/thumb/6/62/qxry7sieve13c3p5pxmjtaunyyszwj6.png/1738px-凯瑟琳·萨巴士拉-在平安夜用甜点治愈卡面2.png)<br>日语：キャサリン・サバスラ<br>出自作品:`code geass` |  |
 | liino | 梨诺 | ![](https://assets.fz.wiki/upload/be/55/be5599e7b7023f65a55a1d86ab418a43544c6647b23959b8d2c4fcd8e3523faa.png)<br>出自作品:`arknights endfield` |  |
