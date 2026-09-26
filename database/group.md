@@ -14292,6 +14292,7 @@ example:
 | wakuwaku yotonjo. | わくわく養豚所。 |  |  |
 | lip | りっぷ |  |  |
 | okeyu tei | おけゆ亭 |  |  |
+| doubles core | だぶるす\*こあ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
