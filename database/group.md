@@ -14287,6 +14287,7 @@ example:
 | sushi spark | Sushi Spark |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203069/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54277.html) \| [Ci-en](https://ci-en.dlsite.com/creator/11223) \| [FANBOX](https://shmtnpp.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/13823073) \| [BOOTH](https://shmtnpp.booth.pm/) |
 | tomarigitei | とまりぎ亭 |  |  |
 | onanism | オナニズム |  |  |
+| espoir no okashi | エスポワールのおかし |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
