@@ -14294,6 +14294,7 @@ example:
 | okeyu tei | おけゆ亭 |  |  |
 | doubles core | だぶるす\*こあ |  |  |
 | mametsubu shouten | まめつぶ商店 |  |  |
+| puranpuman | ぷらんぷまん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
