@@ -10288,6 +10288,7 @@ example:
 | isolde | 伊瑟尔德 | ![](https://lain.bgm.tv/r/400/pic/crt/l/2f/c2/179652_crt_xd7Zr.jpg)<br>出自作品:`zenless zone zero` |  |
 | danica postelnitskaya | 达妮卡·别捷尼茨卡娅 | 出自作品:`genshin impact` |  |
 | mecha eli-chan | 机械伊丽亲 |  |  |
+| rin takanashi | 小鸟游伦 | ![](https://lain.bgm.tv/r/400/pic/crt/l/74/e0/205506_crt_OTBUf.jpg)<br>出自作品:`suterare seijo no isekai gohantabi` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
