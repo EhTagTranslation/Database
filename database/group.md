@@ -14308,6 +14308,7 @@ example:
 | aburi paseri | 炙りパセリ |  |  |
 | gishian | 技師アン |  |  |
 | 3d live | 3Dライブ |  |  |
+| aoiya | 葵家 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
