@@ -969,7 +969,7 @@ example:
 | muskel bild | Muskel☆Bild |  |  |
 | takebouzu | 竹坊主 |  |  |
 | egyptsobaya | エジプトそば屋 |  |  |
-| dm-fc | DM-FC |  |  |
+| dm-fc | DM-FC |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG25897.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70326/) |
 | awareness | Awareness |  |  |
 | peromex | ぺろめっくす |  |  |
 | jouji mujoh | 常时无常 |  |  |
