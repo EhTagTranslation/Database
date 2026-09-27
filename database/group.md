@@ -14310,6 +14310,7 @@ example:
 | 3d live | 3Dライブ |  |  |
 | aoiya | 葵家 |  |  |
 | beauty salon b and s | ビューティサロンB &S |  |  |
+| credo sophia | クレドソフィア |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
