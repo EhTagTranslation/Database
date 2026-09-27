@@ -14304,6 +14304,7 @@ example:
 | furiten no ryuu | フリテンの竜 |  |  |
 | pen to mahou | ペンと魔法 |  |  |
 | nukunuku nijouhan | 二畳半 |  |  |
+| toubu rengou daigaku | 東部連合大学 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
