@@ -14327,6 +14327,7 @@ example:
 | taiyaki pan | るぷすどっとこむ |  |  |
 | ringo gakuen | りんご学園 |  |  |
 | reversible panda | Re:versibleパンダ |  |  |
+| ran paku studio | らんぱく工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
