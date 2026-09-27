@@ -14302,6 +14302,7 @@ example:
 | shiritsu sakuranbo nyuu gakkou | 私立さくらんぼ乳学校 |  |  |
 | kadouhaniha hiroihoudesu | 可動範囲は広い方です |  |  |
 | furiten no ryuu | フリテンの竜 |  |  |
+| pen to mahou | ペンと魔法 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
