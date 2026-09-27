@@ -14297,6 +14297,7 @@ example:
 | puranpuman | ぷらんぷまん |  |  |
 | hamashima saketen | はましま酒店 |  |  |
 | pine melon | ぱいんめろん |  |  |
+| keoya | けお屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
