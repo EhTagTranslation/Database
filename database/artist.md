@@ -6414,7 +6414,7 @@ example:
 | kagura nisiki | 神乐贰式 |  |  |
 | kagura takeshi | 神乐武志 |  |  |
 | kagura tsukune | 神乐つくね |  |  |
-| kagura yutakamaru | 神乐雄隆丸 |  |  |
+| kagura yutakamaru | 神乐雄隆丸 | 神楽雄隆丸 (かぐらゆたかまる) | [FANZA](https://book.dmm.co.jp/list/?author=50393) |
 | kagura yuuki | かぐらゆうき |  |  |
 | kagura yuuto | 神乐优人 |  |  |
 | kagurazaka nagu | 神乐坂なぐ |  |  |
