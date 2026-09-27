@@ -5596,7 +5596,7 @@ example:
 | hey you | hey you! |  |  |
 | heya no sumi. | 部屋の隅。 |  |  |
 | hgh | HGH |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200938/) |
-| hgt labo | HGTラボ |  |  |
+| hgt labo | HGTラボ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49851.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77239/) |
 | hhb | hhb |  |  |
 | hht | HHT |  |  |
 | hi-cal | Hi-CAL |  |  |
