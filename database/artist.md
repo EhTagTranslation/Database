@@ -15750,6 +15750,7 @@ example:
 | kujira | くじら |  |  |
 | karas oshigata | KARAS押形 |  |  |
 | tarenagashi | 垂れ流し |  | [pixiv](https://www.pixiv.net/users/2402253) \| [X](https://x.com/tarenagashi_07) \| [Skeb](https://skeb.jp/@tarenagashi_07) \| [FANBOX](https://tarenagashi07.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/485395) |
+| lumilcus | ルミルカス |  | [pixiv](https://www.pixiv.net/users/76151513) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204470/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68423.html) |
 
 <!--TEMPLATE:
 |  |  |  |  |
