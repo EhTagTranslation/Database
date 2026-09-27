@@ -14332,6 +14332,7 @@ example:
 | shiawase o sagashite | しあわせをさがして |  |  |
 | yokohaba futosugi | 横幅太杉 |  |  |
 | yawamitsu | 柔蜜 |  |  |
+| doku pepper | 毒ペッパー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
