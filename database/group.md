@@ -12445,7 +12445,7 @@ example:
 | akatukiya | 赤月屋 |  |  |
 | metacorapusu | めたこらぷす |  |  |
 | hana q studio | 花Qスタジオ |  |  |
-| shinsen shiboritate nama gyuunyuu. | 新鮮、搾りたて生牛乳。 |  |  |
+| shinsen shiboritate nama gyuunyuu. | 新鮮、搾りたて生牛乳。 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202895/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG58818.html) |
 | shota mangaya-san | ショタ漫画屋さん | 另一名义：AOQLO |  |
 | kana note | Kana Note |  |  |
 | pirio destruction | ピリオデストラクション |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47485.html) |
