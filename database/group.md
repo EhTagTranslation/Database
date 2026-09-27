@@ -14303,6 +14303,7 @@ example:
 | kadouhaniha hiroihoudesu | 可動範囲は広い方です |  |  |
 | furiten no ryuu | フリテンの竜 |  |  |
 | pen to mahou | ペンと魔法 |  |  |
+| nukunuku nijouhan | 二畳半 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
