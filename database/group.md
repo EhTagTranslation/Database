@@ -14298,6 +14298,7 @@ example:
 | hamashima saketen | はましま酒店 |  |  |
 | pine melon | ぱいんめろん |  |  |
 | keoya | けお屋 |  |  |
+| eagle land | い〜ぐるらんど |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
