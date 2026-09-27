@@ -14311,6 +14311,7 @@ example:
 | aoiya | 葵家 |  |  |
 | beauty salon b and s | ビューティサロンB &S |  |  |
 | credo sophia | クレドソフィア |  |  |
+| horieros no ouchi | ほりえろすのおうち |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
