@@ -14322,6 +14322,7 @@ example:
 | oyako donburi tei | おやこ丼亭 |  |  |
 | nimurock | にむろっく |  |  |
 | tsurumiya | つるみ屋 |  |  |
+| skip beat studio | スキップビートスタジオ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
