@@ -14313,6 +14313,7 @@ example:
 | credo sophia | クレドソフィア |  |  |
 | horieros no ouchi | ほりえろすのおうち |  |  |
 | kiritanpo | 桐たん舗 |  |  |
+| jirouan | 次朗庵 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
