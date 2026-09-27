@@ -14316,6 +14316,7 @@ example:
 | jirouan | 次朗庵 |  |  |
 | miyakojima onsen | 都島温泉 |  |  |
 | monmonkon | もんもんこん |  |  |
+| moedotei | 萌度亭 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
