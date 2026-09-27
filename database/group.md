@@ -14325,6 +14325,7 @@ example:
 | skip beat studio | スキップビートスタジオ |  |  |
 | sutorobokonbu | とろぼこんぶ |  |  |
 | taiyaki pan | るぷすどっとこむ |  |  |
+| ringo gakuen | りんご学園 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
