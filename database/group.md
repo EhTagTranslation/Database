@@ -14317,6 +14317,7 @@ example:
 | miyakojima onsen | 都島温泉 |  |  |
 | monmonkon | もんもんこん |  |  |
 | moedotei | 萌度亭 |  |  |
+| osuichi coffee-ten | オスイチ珈琲店 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
