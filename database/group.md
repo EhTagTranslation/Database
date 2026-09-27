@@ -14319,6 +14319,7 @@ example:
 | moedotei | 萌度亭 |  |  |
 | osuichi coffee-ten | オスイチ珈琲店 |  |  |
 | pakuchi | パクチー |  |  |
+| oyako donburi tei | おやこ丼亭 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
