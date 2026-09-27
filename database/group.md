@@ -9080,7 +9080,7 @@ example:
 | pag-pag-magu | ぱぐぱぐまぐぅ |  |  |
 | pagumiee | パグミィ |  |  |
 | paintingbird | PaintingBird |  |  |
-| pairesshu | Paiれっしゅ |  |  |
+| pairesshu | Paiれっしゅ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG37416.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74708/) |
 | pajamas ex | ぱじゃまエクスタシー |  |  |
 | pajamas soft | ぱじゃまソフト |  |  |
 | pakupaku | ぱくぱく |  |  |
