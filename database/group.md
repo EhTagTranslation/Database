@@ -14299,6 +14299,7 @@ example:
 | pine melon | ぱいんめろん |  |  |
 | keoya | けお屋 |  |  |
 | eagle land | い〜ぐるらんど |  |  |
+| shiritsu sakuranbo nyuu gakkou | 私立さくらんぼ乳学校 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
