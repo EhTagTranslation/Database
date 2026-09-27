@@ -14312,6 +14312,7 @@ example:
 | beauty salon b and s | ビューティサロンB &S |  |  |
 | credo sophia | クレドソフィア |  |  |
 | horieros no ouchi | ほりえろすのおうち |  |  |
+| kiritanpo | 桐たん舗 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
