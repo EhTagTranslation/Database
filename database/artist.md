@@ -12074,7 +12074,7 @@ example:
 | shirai bebe | 白井べべ |  |  |
 | nekosaki aoi | 猫崎葵 |  |  |
 | kakuchou no okina | 拡張の翁 |  | [pixiv](https://www.pixiv.net/users/5273099) [X](https://x.com/Wabiko1126) |
-| shiawase na choshoku. | 幸せな朝食。 |  |  |
+| shiawase na choshoku. | 幸せな朝食。 |  | [pixiv](https://www.pixiv.net/users/30625784) \| [X](https://x.com/Breakfast_Happy) \| [Pawoo](https://pawoo.net/@Breakfast_Happy) \| [Lit.Link](https://lit.link/en/BreakfastHappy) \| [Fantia](https://fantia.jp/fanclubs/472819) \| [Skeb](https://skeb.jp/@Breakfast_Happy) |
 | cenangam | CeNanGam |  | [pixiv](https://www.pixiv.net/users/4089680) [X](https://x.com/CeNanGam) |
 | tabasco pasta | タバスコパスタ |  | [pixiv](https://www.pixiv.net/users/415179) |
 | gin eiji | 銀エイジ |  | [pixiv](https://www.pixiv.net/users/49322001) [X](https://x.com/silver_neet210) |
