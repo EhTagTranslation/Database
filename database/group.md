@@ -7297,7 +7297,7 @@ example:
 | lyricbox | リリックボックス |  |  |
 | m | M |  |  |
 | m de pink | M de PINK |  |  |
-| m no violet | エム・ヴァイオレット |  |  |
+| m no violet | エム・ヴァイオレット | M no VIOLET | [FANZA](https://book.dmm.co.jp/list/?author=210870) \| [DLsite](https://www.dlsite.com/pro/circle/profile/=/maker_id/VG01368.html) |
 | m shousetsu doumei | M小説同盟 |  |  |
 | m-10 | M-10 |  |  |
 | m-free | M-FREE |  |  |
