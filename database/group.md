@@ -4361,7 +4361,7 @@ example:
 | doudantsutsujitomonokai | 満天星友乃会 |  |  |
 | douganebuibui | ドウガネブイブイ |  |  |
 | doujin kappa | 同人河童 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70563/) |
-| doujin mukashibanashi | 同人昔話 |  |  |
+| doujin mukashibanashi | 同人昔話 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG26587.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70830/) |
 | doumou | DOUMOU |  |  |
 | doushia | ドーシア |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=40718) |
 | doushin chaya | 童心茶屋 |  |  |
