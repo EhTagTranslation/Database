@@ -14324,6 +14324,7 @@ example:
 | tsurumiya | つるみ屋 |  |  |
 | skip beat studio | スキップビートスタジオ |  |  |
 | sutorobokonbu | とろぼこんぶ |  |  |
+| taiyaki pan | るぷすどっとこむ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
