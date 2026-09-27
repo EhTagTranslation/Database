@@ -14333,6 +14333,7 @@ example:
 | yokohaba futosugi | 横幅太杉 |  |  |
 | yawamitsu | 柔蜜 |  |  |
 | doku pepper | 毒ペッパー |  |  |
+| yume no tsuzuki | ゆめのつづき |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=209427/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44085.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
