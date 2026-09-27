@@ -15747,6 +15747,7 @@ example:
 | shirusuke | 汁助 |  | [X](https://x.com/ks_ks_k_) \| [pixiv](https://www.pixiv.net/users/30437247) \| [Lit.Link](https://lit.link/en/ks_ks_) \| [Misskey.io](https://misskey.io/@ks_ks_k_) |
 | noshimurin | ノシムリン |  | [X](https://x.com/R23NhwynX7lCRtC) |
 | muimui | ムイムイ |  |  |
+| kujira | くじら |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
