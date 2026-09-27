@@ -14330,6 +14330,7 @@ example:
 | ran paku studio | らんぱく工房 |  |  |
 | sapurinsesu | さぷりんせす |  |  |
 | shiawase o sagashite | しあわせをさがして |  |  |
+| yokohaba futosugi | 横幅太杉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
