@@ -14315,6 +14315,7 @@ example:
 | kiritanpo | 桐たん舗 |  |  |
 | jirouan | 次朗庵 |  |  |
 | miyakojima onsen | 都島温泉 |  |  |
+| monmonkon | もんもんこん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
