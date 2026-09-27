@@ -14296,6 +14296,7 @@ example:
 | mametsubu shouten | まめつぶ商店 |  |  |
 | puranpuman | ぷらんぷまん |  |  |
 | hamashima saketen | はましま酒店 |  |  |
+| pine melon | ぱいんめろん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
