@@ -14326,6 +14326,7 @@ example:
 | sutorobokonbu | とろぼこんぶ |  |  |
 | taiyaki pan | るぷすどっとこむ |  |  |
 | ringo gakuen | りんご学園 |  |  |
+| reversible panda | Re:versibleパンダ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
