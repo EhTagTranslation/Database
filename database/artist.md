@@ -15748,6 +15748,7 @@ example:
 | noshimurin | ノシムリン |  | [X](https://x.com/R23NhwynX7lCRtC) |
 | muimui | ムイムイ |  |  |
 | kujira | くじら |  |  |
+| karas oshigata | KARAS押形 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
