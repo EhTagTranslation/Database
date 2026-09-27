@@ -14307,6 +14307,7 @@ example:
 | toubu rengou daigaku | 東部連合大学 |  |  |
 | aburi paseri | 炙りパセリ |  |  |
 | gishian | 技師アン |  |  |
+| 3d live | 3Dライブ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
