@@ -14973,7 +14973,7 @@ example:
 | katsuiro yuuki | 褐色ユウキ |  | [pixiv](https://www.pixiv.net/users/10575407) |
 | oberon | オベロン |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72194/) |
 | madbull | MadBull |  | [FANBOX](https://madbull.fanbox.cc/) \| [X](https://x.com/MadBull022400) \| [pixiv](https://www.pixiv.net/users/28794936) |
-| kuroyui | 黒結 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=f6874c79-64d3-11f0-ba33-0242ac160002/section=mens/) |
+| kuroyui | 黒結 |  | [pixiv](https://www.pixiv.net/users/43403) \| [X](https://x.com/linlinlindo_) \| [Fantia](https://fantia.jp/fanclubs/30293) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=f6874c79-64d3-11f0-ba33-0242ac160002/section=mens/) |
 | tamakichi. jirou | たまきち。次郎 |  |  |
 | haruno | ハルノ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=221925/) |
 | maskwolf | KeinV |  | [X](https://x.com/KeinV1245) \| [pixiv](https://www.pixiv.net/users/17870444) \| [FANBOX](https://keinv1245.fanbox.cc/) |
