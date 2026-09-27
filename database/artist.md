@@ -3936,7 +3936,7 @@ example:
 | akenotsuki renya | 朱乃月蓮夜 |  |  |
 | aki | あき |  |  |
 | aki eda | 秋★枝 |  |  |
-| aki kyouma | 秋恭摩 |  |  |
+| aki kyouma | 秋恭摩 |  | [pixiv](https://www.pixiv.net/users/4021947) \| [X](https://x.com/akikyouma) \| [X](https://x.com/AKIKYOUMA_FJ) |
 | aki matsuri | 亜木・祭 |  |  |
 | aki suzuki | 秋鈴木 |  |  |
 | aki yuuto | 秋遊兎 |  |  |
