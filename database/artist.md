@@ -12645,7 +12645,7 @@ example:
 | az slash hybrid | をん（AZ/HYBRID） |  | [pixiv](https://www.pixiv.net/users/23821) [X](https://x.com/wonashybrid) |
 | shirabii | しらび |  | [pixiv](https://www.pixiv.net/users/216403) [X](https://x.com/shirabii) |
 | ushio kiyoshi | 潮汐きよし |  |  |
-| yumemi teer | 夢見てぇる |  |  |
+| yumemi teer | 夢見てぇる |  | [pixiv](https://www.pixiv.net/users/90843671) \| [FANBOX](https://yumemiteer.fanbox.cc/) \| [X](https://x.com/yumemi_teer2) \| [Misskey.io](https://misskey.io/@yumemi_teer) |
 | kisaragi sonami | 生肉 |  | [pixiv](https://www.pixiv.net/users/49283008) |
 | nishi yasuaki | 西ヤスアキ | 西康晃 | [X](https://x.com/nishi_ak1) [pixiv](https://www.pixiv.net/users/15129224) |
 | higashi taishi | 東太子 | 转生成为 [コソコソ丸](https://www.pixiv.net/users/30446632) |  |
