@@ -5887,7 +5887,7 @@ example:
 | honda negi | 本田ねぎ |  |  |
 | honda opon | 本田おぽん |  |  |
 | hone | ホネ |  |  |
-| honebuto danshaku | 骨太男爵 |  |  |
+| honebuto danshaku | 骨太男爵 |  | [X](https://x.com/honebu_dansyaku) \| [pixiv](https://www.pixiv.net/users/2906433) \| [Pawoo](https://pawoo.net/@nikochin) |
 | honewo arukemita | ホネヲ・アルケミタ |  |  |
 | honey-usako | はにいうさこ |  |  |
 | honjou masato | 本庄マサト |  |  |
