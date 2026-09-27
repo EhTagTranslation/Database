@@ -14323,6 +14323,7 @@ example:
 | nimurock | にむろっく |  |  |
 | tsurumiya | つるみ屋 |  |  |
 | skip beat studio | スキップビートスタジオ |  |  |
+| sutorobokonbu | とろぼこんぶ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
