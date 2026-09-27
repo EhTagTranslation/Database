@@ -14331,6 +14331,7 @@ example:
 | sapurinsesu | さぷりんせす |  |  |
 | shiawase o sagashite | しあわせをさがして |  |  |
 | yokohaba futosugi | 横幅太杉 |  |  |
+| yawamitsu | 柔蜜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
