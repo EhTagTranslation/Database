@@ -14329,6 +14329,7 @@ example:
 | reversible panda | Re:versibleパンダ |  |  |
 | ran paku studio | らんぱく工房 |  |  |
 | sapurinsesu | さぷりんせす |  |  |
+| shiawase o sagashite | しあわせをさがして |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
