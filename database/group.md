@@ -14300,6 +14300,7 @@ example:
 | keoya | けお屋 |  |  |
 | eagle land | い〜ぐるらんど |  |  |
 | shiritsu sakuranbo nyuu gakkou | 私立さくらんぼ乳学校 |  |  |
+| kadouhaniha hiroihoudesu | 可動範囲は広い方です |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
