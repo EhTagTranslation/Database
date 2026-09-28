@@ -1218,7 +1218,7 @@ example:
 | sylvie | 希尔薇 | ![](https://ehgt.org/f6/c1/f6c1f9496abd2fb24c4708552cb23444f267938c-1164819-1240-1754-jpg_l.jpg) |  |
 |  | ▼ To Love-Ru 角色 |  |  |
 | rito yuuki | 结城梨斗 | ![](https://static.wikia.nocookie.net/to-loveru/images/5/53/Rito_-_GGN.png)<br>所属作品：`to love-ru` | [萌娘百科](https://zh.moegirl.org.cn/结城梨斗) |
-| ryouko mikado | 御门凉子 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/06/05/12/21/50/131198965_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>表面上是彩南高中的保健室老师，但真实身份是外星人。<br>“御门医生”是全宇宙远近闻名的厉害地下医生（但一开始是个无证医生）。治疗技术是全宇宙第一，只要没有死掉，都能够救得回来。 | [萌娘百科](https://zh.moegirl.org.cn/御门凉子) |
+| ryouko mikado | 御门凉子 | ![](https://static.wikia.nocookie.net/to-loveru/images/8/81/4240a7bf4ff7d20799229bd5e83dac0e.png)<br>所属作品：`to love-ru` | [萌娘百科](https://zh.moegirl.org.cn/御门凉子) |
 | lala satalin deviluke | 菈菈·萨塔琳·戴比路克 | ![](https://i2.hdslb.com/bfs/new_dyn/093d0ae7e7799bbfc786886891dc9d27262400697.png)<br>所属作品：`to love-ru` | [萌娘百科](https://zh.moegirl.org.cn/菈菈·萨塔琳·戴比路克) |
 | haruna sairenji | 西连寺春菜 | ![](https://i2.hdslb.com/bfs/new_dyn/fa6a36e2e7b0c824132f4f19e078b34e262400697.png)<br>所属作品：`to love-ru` | [萌娘百科](https://zh.moegirl.org.cn/西连寺春菜) |
 | golden darkness | 金色暗影 | ![](https://i2.hdslb.com/bfs/new_dyn/bc2d960273fde9e2c44e4a92cebae21d262400697.png)<br>所属作品：`to love-ru` | [萌娘百科](https://zh.moegirl.org.cn/金色暗影) |
