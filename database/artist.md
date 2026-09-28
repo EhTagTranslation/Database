@@ -7845,7 +7845,7 @@ example:
 | mikage nao | みかげ尚 |  |  |
 | mikage sekizai | 御影石材 |  |  |
 | mikagura | みかぐら |  |  |
-| mikami cannon | 三上キャノン |  |  |
+| mikami cannon | 三上キャノン |  | [pixiv](https://www.pixiv.net/users/19413323) \| [X](https://x.com/cannon1206) |
 | mikami hokuto | 箕神北都 |  |  |
 | mikami sasara | みかみ沙更 |  |  |
 | mikamikan | みかみかん |  |  |
