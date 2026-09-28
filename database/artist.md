@@ -413,7 +413,7 @@ example:
 | mitsumi misato | みつみ美里 |  |  |
 | nakamura takeshi | なかむらたけし |  |  |
 | minase syu | 水濑修 |  |  |
-| yoshiura kazuya | 由浦カズヤ |  |  |
+| yoshiura kazuya | 由浦カズヤ |  | [FANZA](https://book.dmm.co.jp/list/?author=245066) \| [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ005708) |
 | erect sawaru | エレクトさわる |  | [pixiv](https://www.pixiv.net/users/374953) [X](https://x.com/erectman) |
 | katsurai yoshiaki | 桂井よしあき |  |  |
 | sanazura hiroyuki | さなづらひろゆき |  |  |
