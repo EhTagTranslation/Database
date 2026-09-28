@@ -1235,7 +1235,7 @@ example:
 | sephie michaela deviluke | 赛菲·米卡埃拉·戴比路克 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2024/11/21/14/50/59/124497875_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>戴比路克王奇多的妻子，菈菈、娜娜、梦梦的母亲。宇宙中最美貌的种族“查姆人”的最后的末裔，拥有着能让任何男性看到自己的容颜就会失去理智的能力。 | [萌娘百科](https://zh.moegirl.org.cn/赛菲·米卡埃拉·戴比路克) |
 | tearju lunatique | 提亚悠·鲁娜提克 | ![](https://static.wikia.nocookie.net/to-loveru/images/c/c7/Tearju_Render.png)<br>所属作品：`to love-ru` |  |
 | run elsie jewelria | 伦·艾尔西·裘利亚 | ![](https://static.wikia.nocookie.net/to-loveru/images/8/81/Run_Elsie_Jewelria_-_Anime.png)<br>所属作品：`to love-ru` | [萌娘百科](https://zh.moegirl.org.cn/露恩·艾尔西·裘利亚) |
-| risa momioka | 籾冈里纱 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/07/16/23/28/33/132774906_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>爱好猥亵的话语和动作，是平凡而又自由散漫的高中女生。 | [萌娘百科](https://zh.moegirl.org.cn/籾冈里纱) |
+| risa momioka | 籾冈里纱 | ![](https://static.wikia.nocookie.net/to-loveru/images/6/6b/022bffcf513f29b547313afc674bb510849.png)<br>所属作品：`to love-ru` | [萌娘百科](https://zh.moegirl.org.cn/籾冈里纱) |
 | mio sawada | 泽田未央 | ![](https://static.wikia.nocookie.net/to-loveru/images/1/10/Mio_TLRD_EP8_01.png)<br>所属作品：`to love-ru` |  |
 | oshizu murasame | 村雨静 | ![](https://static.wikia.nocookie.net/to-loveru/images/b/b3/Oshizu.jpg)<br>所属作品：`to love-ru` |  |
 | kyouko kirisaki | 雾崎恭子 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/10/00/10/35/134914417_p1_master1200.jpg)<br>所属作品：`to love-ru`<br>高中三年级学生，是当红偶像，活跃于演艺界第一线，主打清纯形象，并以唱歌及演戏领域为主轴发展。 | [萌娘百科](https://zh.moegirl.org.cn/雾崎恭子%28出包王女%29#) |
