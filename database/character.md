@@ -1219,7 +1219,7 @@ example:
 |  | ▼ To Love-Ru 角色 |  |  |
 | rito yuuki | 结城梨斗 | ![](https://static.wikia.nocookie.net/to-loveru/images/5/53/Rito_-_GGN.png)<br>所属作品：`to love-ru` | [萌娘百科](https://zh.moegirl.org.cn/结城梨斗) |
 | ryouko mikado | 御门凉子 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/06/05/12/21/50/131198965_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>表面上是彩南高中的保健室老师，但真实身份是外星人。<br>“御门医生”是全宇宙远近闻名的厉害地下医生（但一开始是个无证医生）。治疗技术是全宇宙第一，只要没有死掉，都能够救得回来。 | [萌娘百科](https://zh.moegirl.org.cn/御门凉子) |
-| lala satalin deviluke | 菈菈·萨塔琳·戴比路克 | ![](https://i2.hdslb.com/bfs/new_dyn/093d0ae7e7799bbfc786886891dc9d27262400697.png)<br>所属作品：`to love-ru`<br>戴比路克星来的外星人，也是戴比路克银河系的第一公主。父亲是戴比路克星王，母亲是宇宙公认的拥有第一美貌的戴比路克王妃，有两个妹妹——娜娜和梦梦。 | [萌娘百科](https://zh.moegirl.org.cn/菈菈·萨塔琳·戴比路克) |
+| lala satalin deviluke | 菈菈·萨塔琳·戴比路克 | ![](https://i2.hdslb.com/bfs/new_dyn/093d0ae7e7799bbfc786886891dc9d27262400697.png)<br>所属作品：`to love-ru` | [萌娘百科](https://zh.moegirl.org.cn/菈菈·萨塔琳·戴比路克) |
 | haruna sairenji | 西连寺春菜 | ![](https://i2.hdslb.com/bfs/new_dyn/fa6a36e2e7b0c824132f4f19e078b34e262400697.png)<br>所属作品：`to love-ru`<br>高中二年级学生。结城梨斗以及菈菈等人的同学。2-A班的班长，网球社的成员之一。 留有紫发，谦虚，性格稳重、冷静的美少女。 | [萌娘百科](https://zh.moegirl.org.cn/西连寺春菜) |
 | golden darkness | 金色暗影 | ![](https://i2.hdslb.com/bfs/new_dyn/bc2d960273fde9e2c44e4a92cebae21d262400697.png)<br>所属作品：`to love-ru` | [萌娘百科](https://zh.moegirl.org.cn/金色暗影) |
 | yui kotegawa | 古手川唯 | ![](https://i2.hdslb.com/bfs/new_dyn/1733d9b25028c2bb5a7e0a8dee63dbc0262400697.png)<br>所属作品：`to love-ru`<br>作为风纪委员长风纪委员长是最扰乱风纪的(笑)，在学期的一开始，将菈菈和梨斗列为密切注意的人物，但是在冲绳星上意外被梨斗看到裸体，而且之后又曾在不良少年的手中被梨斗救出，开始对梨斗产生淡淡的爱意。 | [萌娘百科](https://zh.moegirl.org.cn/古手川唯) |
