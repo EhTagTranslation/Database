@@ -1222,7 +1222,7 @@ example:
 | lala satalin deviluke | 菈菈·萨塔琳·戴比路克 | ![](https://i2.hdslb.com/bfs/new_dyn/093d0ae7e7799bbfc786886891dc9d27262400697.png)<br>所属作品：`to love-ru` | [萌娘百科](https://zh.moegirl.org.cn/菈菈·萨塔琳·戴比路克) |
 | haruna sairenji | 西连寺春菜 | ![](https://i2.hdslb.com/bfs/new_dyn/fa6a36e2e7b0c824132f4f19e078b34e262400697.png)<br>所属作品：`to love-ru` | [萌娘百科](https://zh.moegirl.org.cn/西连寺春菜) |
 | golden darkness | 金色暗影 | ![](https://i2.hdslb.com/bfs/new_dyn/bc2d960273fde9e2c44e4a92cebae21d262400697.png)<br>所属作品：`to love-ru` | [萌娘百科](https://zh.moegirl.org.cn/金色暗影) |
-| yui kotegawa | 古手川唯 | ![](https://i2.hdslb.com/bfs/new_dyn/1733d9b25028c2bb5a7e0a8dee63dbc0262400697.png)<br>所属作品：`to love-ru`<br>作为风纪委员长风纪委员长是最扰乱风纪的(笑)，在学期的一开始，将菈菈和梨斗列为密切注意的人物，但是在冲绳星上意外被梨斗看到裸体，而且之后又曾在不良少年的手中被梨斗救出，开始对梨斗产生淡淡的爱意。 | [萌娘百科](https://zh.moegirl.org.cn/古手川唯) |
+| yui kotegawa | 古手川唯 | ![](https://i2.hdslb.com/bfs/new_dyn/1733d9b25028c2bb5a7e0a8dee63dbc0262400697.png)<br>所属作品：`to love-ru` | [萌娘百科](https://zh.moegirl.org.cn/古手川唯) |
 | mikan yuuki | 结城美柑 | ![](https://static.wikia.nocookie.net/to-loveru/images/5/51/Mikan_-_GGN.png)<br>所属作品：`to love-ru` | [萌娘百科](https://zh.moegirl.org.cn/结城美柑) |
 | nemesis | 涅墨西斯 | ![](https://img.moegirl.org.cn/common/5/54/Character_14_04.png)<br>所属作品：`to love-ru`<br>芽亚的「主人」。与金色暗影和芽亚同为变身兵器，诞生于两者不同的“涅墨西斯计划”。 | [萌娘百科](https://zh.moegirl.org.cn/涅墨西斯%28出包王女%29#) |
 | saki tenjouin | 天条院沙姬 | ![](https://i.pixiv.cat/img-master/img/2024/03/02/01/30/02/116538343_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>天条院集团总帅的掌上明珠，超级有钱人，比梨斗等人高一个年级的美少女学姐。<br>自尊心极高，经常自称是女王，对自己非常自信，常因自己如果不是第一就觉得不舒服。 | [萌娘百科](https://zh.moegirl.org.cn/天条院沙姬) |
