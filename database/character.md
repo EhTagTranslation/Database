@@ -1238,7 +1238,7 @@ example:
 | risa momioka | 籾冈里纱 | ![](https://static.wikia.nocookie.net/to-loveru/images/6/6b/022bffcf513f29b547313afc674bb510849.png)<br>所属作品：`to love-ru` | [萌娘百科](https://zh.moegirl.org.cn/籾冈里纱) |
 | mio sawada | 泽田未央 | ![](https://static.wikia.nocookie.net/to-loveru/images/1/10/Mio_TLRD_EP8_01.png)<br>所属作品：`to love-ru` |  |
 | oshizu murasame | 村雨静 | ![](https://static.wikia.nocookie.net/to-loveru/images/b/b3/Oshizu.jpg)<br>所属作品：`to love-ru` |  |
-| kyouko kirisaki | 雾崎恭子 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/10/00/10/35/134914417_p1_master1200.jpg)<br>所属作品：`to love-ru`<br>高中三年级学生，是当红偶像，活跃于演艺界第一线，主打清纯形象，并以唱歌及演戏领域为主轴发展。 | [萌娘百科](https://zh.moegirl.org.cn/雾崎恭子%28出包王女%29#) |
+| kyouko kirisaki | 雾崎恭子 | ![](https://static.wikia.nocookie.net/to-loveru/images/d/de/Kyoko.jpg)<br>所属作品：`to love-ru` | [萌娘百科](https://zh.moegirl.org.cn/雾崎恭子%28出包王女%29#) |
 | kenichi saruyama | 猿山健一 | ![](https://www.tbs.co.jp/anime/to-love-ru/04chara/images/chara_img07.jpg)<br>所属作品：`to love-ru` | [萌娘百科](https://zh.moegirl.org.cn/猿山健一) |
 | shizu murasame | 村雨静 | 所属作品：`to love-ru` |  |
 |  | ▼ 食戟之灵 角色 |  |  |
