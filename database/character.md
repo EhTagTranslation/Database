@@ -6398,7 +6398,7 @@ example:
 | shio koube | 神户盐 |  |  |
 | satou matsuzaka | 松板砂糖 |  |  |
 | lemuen | 蕾缪安 | ![](https://patchwiki.biligame.com/images/arknights/5/5e/fk6207iumwrkw0da7mukqhzt1gga3ac.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/蕾缪安) |
-| aoba utsumi | 内海青叶 |  |  |
+| aoba utsumi | 内海青叶 | ![](https://static.wikia.nocookie.net/blue-archive/images/1/1c/Aoba_Portrait.png/revision/latest?cb=20250424135713)<br>所属作品:`blue archive` | [萌娘百科](https://zh.moegirl.org.cn/内海青叶) |
 | sylvia van hossen | 希尔薇娅·范·霍森 | ![](https://ehgt.org/w/01/977/82969-qo92438g.webp)<br>所属作品：`princess lover` | [vndb](https://vndb.org/v765) |
 | kabru | 卡布尔 |  |  |
 | cattleya | 卡特蕾娅 | ![](https://static.wikia.nocookie.net/queensblade/images/0/0a/Img_chara%28catl%29.png)<br>所属作品：`queens blade` | [Fandom](https://queensblade.fandom.com/wiki/Cattleya) |
