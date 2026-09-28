@@ -14947,7 +14947,7 @@ example:
 | souka dadasu | 左右加だだす |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=213782/) \| [FANBOX](https://dadasudasudadasu.fanbox.cc/) \| [X](https://x.com/dadasudasusu) \| [pixiv](https://www.pixiv.net/users/95750303) |
 | denden taiko | デンデン太鼓 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22デンデン太鼓%22/ana_flg/all) |
 | gakeo | 崖お |  | [pixiv](https://www.pixiv.net/users/85407627) \| [X](https://x.com/gbfhruaeilgh) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=ebc54bb7-eb9e-48f9-893b-0e7300b8a5fb/section=mens/) |
-| sironora | Sironora |  |  |
+| sironora | Sironora |  | [pixiv](https://www.pixiv.net/users/13000627) \| [X](https://x.com/sironora_nyan) \| [FANBOX](https://www.fanbox.cc/@sironora) \| [Fantia](https://fantia.jp/sironora/) \| [Pawoo](https://pawoo.net/@sironora) \| [Misskey.io](https://misskey.io/@sironora) |
 | reoenl | Reoenl |  |  |
 | materia | マテリア |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=81fcccbb-64d4-11f0-ba33-0242ac160002/section=mens/) \| [pixiv](https://www.pixiv.net/users/106738879) \| [X](https://x.com/material_engine) |
 | nanahamu | ななはむ |  | [pixiv](https://www.pixiv.net/users/351442) \| [lit.link](https://lit.link/en/nanahamu) \| [X](https://x.com/pphmKo98) |
