@@ -15757,6 +15757,7 @@ example:
 | hayashi cherry | 林チェリー |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22林チェリー%22/ana_flg/all) |
 | okosama lunch | お子様ランチ |  |  |
 | kaniyama yusuke | 蟹山ゆうすけ |  |  |
+| shiruko | しるこ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
