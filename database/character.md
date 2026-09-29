@@ -10294,6 +10294,7 @@ example:
 | kumbhira | 库碧拉 |  |  |
 | sakuya enjou | 円城咲耶 |  |  |
 | godsworn alexiel | 神域守护·布洛蒂亚 |  |  |
+| lida | 玳萝 | 游戏《宝可梦传说 Z-A》中登场的女性角色，隶属于超Z队组织 | [百度百科](https://baike.baidu.com/item/玳萝/66974891) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
