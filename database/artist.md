@@ -15759,6 +15759,7 @@ example:
 | kaniyama yusuke | 蟹山ゆうすけ |  |  |
 | shiruko | しるこ |  |  |
 | chiruko | 汁子 |  |  |
+| tenpura komoro | てんぷらこもろ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
