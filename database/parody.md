@@ -3028,6 +3028,7 @@ example:
 | suterare seijo no isekai gohantabi | 无用圣女的异世界美食之旅 | ![](https://lain.bgm.tv/r/400/pic/cover/l/75/fd/636067_0uuym.jpg)<br>全名：无用圣女的异世界美食之旅 凭借隐藏技能召唤露营车<br>日语：捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました |  |
 | shojo no shimobe-kun | 処女のシモベくん |  |  |
 | matai toshi | 魔胎都市 |  |  |
+| the exit 8 | 8号出口 |  | [萌娘百科](https://zh.moegirl.org.cn/8号出口) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
