@@ -9737,7 +9737,7 @@ example:
 | rikudoukan | 六道館 |  |  |
 | rikudouya | 六道屋 |  |  |
 | rima cafe | Rima Cafe |  |  |
-| rin | Riん。 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG33444.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72890/) |
+| rin | Riん。 \| RIN |  | Riん。：[DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG33444.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72890/)<br>RIN：[DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG15607.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=23007/) |
 | rinarina | RINARINA |  |  |
 | rinfin | りんふぃん |  |  |
 | ring a bell | リングアベル |  |  |
