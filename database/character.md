@@ -10293,6 +10293,7 @@ example:
 | liino | 梨诺 | ![](https://assets.fz.wiki/upload/be/55/be5599e7b7023f65a55a1d86ab418a43544c6647b23959b8d2c4fcd8e3523faa.png)<br>出自作品:`arknights endfield` |  |
 | kumbhira | 库碧拉 |  |  |
 | sakuya enjou | 円城咲耶 |  |  |
+| godsworn alexiel | 神域守护·布洛蒂亚 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
