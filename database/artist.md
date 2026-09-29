@@ -15758,6 +15758,7 @@ example:
 | okosama lunch | お子様ランチ |  |  |
 | kaniyama yusuke | 蟹山ゆうすけ |  |  |
 | shiruko | しるこ |  |  |
+| chiruko | 汁子 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
