@@ -14338,6 +14338,7 @@ example:
 | chiruiru | ちるイル |  | [pixiv](https://www.pixiv.net/users/56913118) \| [X](https://x.com/chillillcreate) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78383/) |
 | eyechil works | アイチルワークス |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202872/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG58817.html) |
 | tairan | たいらん! |  |  |
+| kinzoku tanchiki | 金属探知機 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
