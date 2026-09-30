@@ -14353,6 +14353,7 @@ example:
 | kuma qm | くまQM |  |  |
 | gekikara-naporitan-tou | 激辛ナポリタン党 |  |  |
 | naruchikukai | なるちく会 |  |  |
+| meido no miyage | 冥途のみやげ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
