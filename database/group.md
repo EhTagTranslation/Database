@@ -14343,6 +14343,7 @@ example:
 | kisetsuhazure no ofuton | 季節外れのお布団 |  |  |
 | senaka | せなか |  |  |
 | setouchi mao no yamiichi | 瀬戸内マオの闇市 |  |  |
+| tama land | たまランド |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
