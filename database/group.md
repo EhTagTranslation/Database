@@ -14339,6 +14339,7 @@ example:
 | eyechil works | アイチルワークス |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202872/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG58817.html) |
 | tairan | たいらん! |  |  |
 | kinzoku tanchiki | 金属探知機 |  |  |
+| okamoto nyohei | 岡本女平 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
