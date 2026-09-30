@@ -14355,6 +14355,7 @@ example:
 | naruchikukai | なるちく会 |  |  |
 | meido no miyage | 冥途のみやげ |  |  |
 | yobieki seisakusho | 予備役製作所 | 予備役製作所 （よびえきせいさくしょ） | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=208551/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01004412.html) |
+| kubo lion no heya | 窪リオンの部屋 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202696/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68947.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
