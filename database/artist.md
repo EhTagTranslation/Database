@@ -15766,6 +15766,7 @@ example:
 | omori pelta | 大森ペル太 |  |  |
 | sume | すめ |  |  |
 | uranai | Uraナイ |  |  |
+| chirisiya kouetsu | 塵紙屋こうえつ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
