@@ -14350,6 +14350,7 @@ example:
 | chirisiya | 塵紙屋 |  |  |
 | tokumori animal | とくもりあにまる |  |  |
 | wakarase seisaku iinkai | わからせ製作委員会 |  |  |
+| kuma qm | くまQM |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
