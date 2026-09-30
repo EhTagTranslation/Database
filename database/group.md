@@ -14346,6 +14346,7 @@ example:
 | tama land | たまランド |  |  |
 | manzoku suru doumei | 満足する同盟 |  |  |
 | pell doukoukai | ペル同好会 |  |  |
+| scarlet maple | スカーレットメープル |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
