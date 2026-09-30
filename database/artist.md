@@ -15772,6 +15772,7 @@ example:
 | syuugetu saccharin | 秋月サッカリン |  |  |
 | narumi amiya | 鳴海アミヤ |  | [X](https://x.com/NarumiAmiya) \| [pixiv](https://www.pixiv.net/users/17779162) |
 | fushimi poko | 伏見ぽこ |  |  |
+| bs3 | BS3 |  | [pixiv](https://www.pixiv.net/users/70876418) \| [X](https://x.com/sphincter_mito) \| [Skeb](https://skeb.jp/@sphincter_mito) \| [Fantia](https://fantia.jp/fanclubs/338668) |
 
 <!--TEMPLATE:
 |  |  |  |  |
