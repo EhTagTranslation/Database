@@ -10319,6 +10319,7 @@ example:
 | dot | 小点 | ![](https://archives.bulbagarden.net/media/upload/thumb/9/95/Dot_anime_11.png/225px-Dot_anime_11.png)<br>出自作品:`pokemon` |  |
 | ult | 乌尔特 | ![](https://archives.bulbagarden.net/media/upload/thumb/1/1a/Ult_anime.png/195px-Ult_anime.png)<br>出自作品:`pokemon` |  |
 | hassel | 八朔 | ![](https://archives.bulbagarden.net/media/upload/thumb/e/ee/Scarlet_Violet_Hassel.png/225px-Scarlet_Violet_Hassel.png)<br>出自作品:`pokemon` |  |
+| angelica rogner | 安洁莉卡·罗格纳 | ![](https://static.wikia.nocookie.net/kiseki/images/7/7a/Angelica_Rogner_%28Sen_II%29.png/revision/latest?cb=20210402062420)<br>所属作品:`the legend of heroes` | [Fandom](https://kiseki.fandom.com/wiki/Angelica_Rogner)<br>[萌娘百科](https://zh.moegirl.org.cn/安洁莉卡·罗格纳) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
