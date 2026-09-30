@@ -15762,6 +15762,7 @@ example:
 | tenpura komoro | てんぷらこもろ |  |  |
 | wonma | をんまあ |  |  |
 | setouchi mao | 瀬戸内マオ |  |  |
+| tama no chichi | たまの父 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
