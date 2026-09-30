@@ -5467,7 +5467,7 @@ example:
 | harugumo. | はるぐも。 |  |  |
 | haruiro fudepen | はルいろ筆ペン |  |  |
 | haruiro no sora | 春色の空 |  |  |
-| harukaze | HARUKAZE |  |  |
+| harukaze | 春风社 | ![](https://harukaze-soft.com/cms/wp-content/themes/harukaze/img/brand_logo_small.png) | [官网](https://harukaze-soft.com/) |
 | harukomachikan. | はるこまちかん。 |  |  |
 | harumachi tsurara | 春待冰柱 |  |  |
 | harumankai | はるまん会 |  |  |
