@@ -3026,7 +3026,7 @@ example:
 | seiken tsukai no world break | 圣剑使的禁咒咏唱 | ![](https://lain.bgm.tv/r/400/pic/cover/l/99/37/96600_Iiv53.jpg)<br>日语：聖剣使いの禁呪詠唱 |  |
 | heroine seijo iie all works maid desu hokori | 女主角？圣女？不，我是杂役女仆！ | ![](https://lain.bgm.tv/r/400/pic/cover/l/04/e4/558064_ApStA.jpg)<br>全名：女主角？圣女？不，我是杂役女仆（自豪）！<br>日语：ヒロイン？聖女？いいえ、オールワークスメイドです（誇）！ |  |
 | suterare seijo no isekai gohantabi | 无用圣女的异世界美食之旅 | ![](https://lain.bgm.tv/r/400/pic/cover/l/75/fd/636067_0uuym.jpg)<br>全名：无用圣女的异世界美食之旅 凭借隐藏技能召唤露营车<br>日语：捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました |  |
-| shojo no shimobe-kun | 処女のシモベくん |  |  |
+| shojo no shimobe-kun | 处女的仆从君♪ | ![](https://t.vndb.org/cv.t/22/141622.jpg)<br>日语：処女のシモベくん♪ |  |
 | matai toshi | 魔胎都市 | ![](https://t.vndb.org/cv/66/26866.jpg) |  |
 | the exit 8 | 8号出口 |  | [萌娘百科](https://zh.moegirl.org.cn/8号出口) |
 | kabushiki gaisha majirumie | 魔法光源股份有限公司 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9f/fd/467641_q40fo.jpg)<br>日语：株式会社マジルミエ |  |
