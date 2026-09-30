@@ -10318,6 +10318,7 @@ example:
 | jupiter | 岁星 | ![](https://archives.bulbagarden.net/media/upload/thumb/e/e5/Brilliant_Diamond_Shining_Pearl_Jupiter.png/225px-Brilliant_Diamond_Shining_Pearl_Jupiter.png)<br>出自作品:`pokemon` |  |
 | dot | 小点 | ![](https://archives.bulbagarden.net/media/upload/thumb/9/95/Dot_anime_11.png/225px-Dot_anime_11.png)<br>出自作品:`pokemon` |  |
 | ult | 乌尔特 | ![](https://archives.bulbagarden.net/media/upload/thumb/1/1a/Ult_anime.png/195px-Ult_anime.png)<br>出自作品:`pokemon` |  |
+| hassel | 八朔 | ![](https://archives.bulbagarden.net/media/upload/thumb/e/ee/Scarlet_Violet_Hassel.png/225px-Scarlet_Violet_Hassel.png)<br>出自作品:`pokemon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
