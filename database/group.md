@@ -10828,7 +10828,7 @@ example:
 | studio rakkyou | スタジオらっきょう |  |  |
 | studio retake | スタジオリテイク |  |  |
 | studio runaway wolf | STUDIO RUNAWAY WOLF |  |  |
-| studio ryokucha | すたじお緑茶 |  |  |
+| studio ryokucha | 绿茶社 | 日语：すたじお緑茶 |  |
 | studio-sakura | Studio-Sakura |  |  |
 | studio sample | Studio SAMPLE |  |  |
 | studio sepia | スタジオセピア |  |  |
