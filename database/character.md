@@ -10310,6 +10310,7 @@ example:
 | human torch | 霹雳火 | ![](https://static.wikia.nocookie.net/marveldatabase/images/8/88/Fantastic_Four_Vol_6_1_Human_Torch_Variant_Textless.jpg)<br>出自作品:`fantastic four` |  |
 | daredevil | 夜魔侠 |  |  |
 | punisher | 惩罚者 |  |  |
+| cyclops | 镭射眼 | 出自作品:`x-men` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
