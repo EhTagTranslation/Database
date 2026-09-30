@@ -10306,6 +10306,7 @@ example:
 | revenge | 复仇 | ![](https://azurlane.netojuu.com/images/5/5f/Revenge.png)<br>出自作品:`azur lane` |  |
 | benjamin grimm | 本杰明·格瑞姆 | ![](https://static.wikia.nocookie.net/marveldatabase/images/a/a4/Fantastic_Four_Vol_6_1_The_Thing_Variant_Textless.jpg)<br>出自作品:`fantastic four` |  |
 | hikaru kagemori | 影森光 | ![](https://static.wikia.nocookie.net/yomi-no-tsugai/images/0/0b/Hikaru_Kagemori_-_anime_design.png)<br>出自作品:`yomi no tsugai` |  |
+| mister fantastic | 里德·理查兹（神奇先生） | ![](https://static.wikia.nocookie.net/marveldatabase/images/b/b5/Fantastic_Four_Vol_6_24_Mister_Fantastic_Timeless_Variant.jpg)<br>出自作品:`fantastic four` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
