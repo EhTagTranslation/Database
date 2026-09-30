@@ -15777,6 +15777,7 @@ example:
 | donaught | Jujunaught |  | [pixiv](https://www.pixiv.net/users/50833100) \| [X](https://x.com/jujunaught) \| [Lit.Link](https://linktr.ee/jujunaught) |
 | okano hajime | おかのはじめ |  | [pixiv](https://www.pixiv.net/users/915532) \| [X](https://x.com/okahaji1) \| [FANBOX](https://okahaji.fanbox.cc/) \| [BOOTH](https://okahaji.booth.pm/) |
 | piwawa | ピワワ |  | [pixiv](https://www.pixiv.net/users/67602612) \| [X](https://x.com/pivvavva) \| [Skeb](https://skeb.jp/@pivvavva) |
+| r-wade | 70B(旧R.C.W.D) |  | [pixiv](https://www.pixiv.net/users/2301660) \| [X](https://x.com/RCforWD) \| [Pawoo](https://pawoo.net/@rock310x) \| [Patreon](https://www.patreon.com/rock310x) \| [FANBOX](https://rock310x.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
