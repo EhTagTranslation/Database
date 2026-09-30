@@ -7124,7 +7124,7 @@ example:
 | level1 | level1 |  |  |
 | lewd angels | Lewd Angels |  |  |
 | leymei | LEYMEI |  |  |
-| lhezi | LHEZI |  |  |
+| lhezi | LHEZI |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202109/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG39147.html) |
 | liar-soft | Liar-soft | ライアーソフト |  |
 | libertaria | リバタリア |  |  |
 | libido | リビドー |  |  |
