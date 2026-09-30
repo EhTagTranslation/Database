@@ -10309,6 +10309,7 @@ example:
 | mister fantastic | 里德·理查兹（神奇先生） | ![](https://static.wikia.nocookie.net/marveldatabase/images/b/b5/Fantastic_Four_Vol_6_24_Mister_Fantastic_Timeless_Variant.jpg)<br>出自作品:`fantastic four` |  |
 | human torch | 霹雳火 | ![](https://static.wikia.nocookie.net/marveldatabase/images/8/88/Fantastic_Four_Vol_6_1_Human_Torch_Variant_Textless.jpg)<br>出自作品:`fantastic four` |  |
 | daredevil | 夜魔侠 |  |  |
+| punisher | 惩罚者 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
