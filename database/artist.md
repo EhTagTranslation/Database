@@ -15775,7 +15775,7 @@ example:
 | bs3 | BS3 |  | [pixiv](https://www.pixiv.net/users/70876418) \| [X](https://x.com/sphincter_mito) \| [Skeb](https://skeb.jp/@sphincter_mito) \| [Fantia](https://fantia.jp/fanclubs/338668) |
 | iksm pasta | 極太さんぽ |  | [pixiv](https://www.pixiv.net/users/2097163) \| [X](https://x.com/GKBT_sanpo_M) \| [Fantia](https://fantia.jp/fanclubs/487573) \| [Skeb](https://skeb.jp/@GKBT_sanpo) |
 | donaught | Jujunaught |  | [pixiv](https://www.pixiv.net/users/50833100) \| [X](https://x.com/jujunaught) \| [Lit.Link](https://linktr.ee/jujunaught) |
-| okano hajime | おかのはじめ |  | [pixiv](https://www.pixiv.net/users/915532) \| [X](https://x.com/okahaji1) \| [FANBOX](https://okahaji.fanbox.cc/) \| [BOOTH](https://okahaji.booth.pm/) \| [Bluesky](https://bsky.app/profile/okanohajime) |
+| okano hajime | おかのはじめ |  | [pixiv](https://www.pixiv.net/users/915532) \| [X](https://x.com/okahaji1) \| [FANBOX](https://okahaji.fanbox.cc/) \| [BOOTH](https://okahaji.booth.pm/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
