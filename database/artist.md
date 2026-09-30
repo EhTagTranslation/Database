@@ -15760,6 +15760,7 @@ example:
 | shiruko | しるこ |  |  |
 | chiruko | 汁子 |  |  |
 | tenpura komoro | てんぷらこもろ |  |  |
+| wonma | をんまあ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
