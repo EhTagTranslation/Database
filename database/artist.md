@@ -15770,6 +15770,7 @@ example:
 | naruchiku | なるちく |  |  |
 | showjou | しょうじょう |  |  |
 | syuugetu saccharin | 秋月サッカリン |  |  |
+| narumi amiya | 鳴海アミヤ |  | [X](https://x.com/NarumiAmiya) \| [pixiv](https://www.pixiv.net/users/17779162) |
 
 <!--TEMPLATE:
 |  |  |  |  |
