@@ -15767,6 +15767,7 @@ example:
 | sume | すめ |  |  |
 | uranai | Uraナイ |  |  |
 | chirisiya kouetsu | 塵紙屋こうえつ |  |  |
+| naruchiku | なるちく |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
