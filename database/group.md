@@ -14352,6 +14352,7 @@ example:
 | wakarase seisaku iinkai | わからせ製作委員会 |  |  |
 | kuma qm | くまQM |  |  |
 | gekikara-naporitan-tou | 激辛ナポリタン党 |  |  |
+| naruchikukai | なるちく会 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
