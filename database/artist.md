@@ -15765,6 +15765,7 @@ example:
 | tama no chichi | たまの父 |  |  |
 | omori pelta | 大森ペル太 |  |  |
 | sume | すめ |  |  |
+| uranai | Uraナイ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
