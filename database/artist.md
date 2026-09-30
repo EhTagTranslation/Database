@@ -569,7 +569,7 @@ example:
 | menea the dog | メネア・ザ・ドッグ |  |  |
 | makibe kataru | 牧部かたる \| 牧村あかり |  |  |
 | ikeshita maue | 池下真上 |  |  |
-| ikuhana niro | 几花にいろ | ![X](https://pbs.twimg.com/profile_images/989343713368334338/QnyounDQ_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/ikuhananiro) |
+| ikuhana niro | 幾花にいろ | ![X](https://pbs.twimg.com/profile_images/989343713368334338/QnyounDQ_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/ikuhananiro) |
 | c.r | しーあーる |  | [pixiv](https://www.pixiv.net/users/125757) |
 | chimosaku | ちもさく |  |  |
 | otoo | ぉとぉ |  | [Skeb](https://skeb.jp/@izanagi_oto) \| [X](https://x.com/izanagi_oto) \| [pixiv](https://www.pixiv.net/users/882387) \| [Misskey.io](https://misskey.io/@otoo) |
