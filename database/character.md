@@ -10299,6 +10299,7 @@ example:
 | anna niki | 仁木安娜 | ![](https://static.wikitide.net/bluearchivewiki/thumb/6/65/Anna_00.png/225px-Anna_00.png)<br>日语：仁木アンナ<br>出自作品:`blue archive` |  |
 | kana sakuragi | 樱木加奈 | ![](https://static.wikia.nocookie.net/master-takeshi/images/e/e4/Kana_main.webp)<br>![](https://static.wikia.nocookie.net/master-takeshi/images/0/05/Kana_main-changed.webp)<br>日语：桜木カナ<br>出自作品:`kabushiki gaisha majirumie` |  |
 | maki maehara | 前原真树 | ![](https://static.wikia.nocookie.net/class-de-2banmeni-kawaii-onnanoko-to-tomodachi/images/8/87/Maki_Maehara_Anime.png)<br>日语：前原 真樹<br>出自作品:`class de 2-banme ni kawaii onnanoko to tomodachi ni natta` |  |
+| tristina purplehorse | 特里丝蒂娜·紫马 | ![](https://static.wikia.nocookie.net/mushokutensei/images/b/bd/Tristina-Purplehorse-AN-S3-EP13.png)<br>日语：トリスティーナ・パープルホース<br>出自作品:`mushoku tensei` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
