@@ -14341,6 +14341,7 @@ example:
 | kinzoku tanchiki | 金属探知機 |  |  |
 | okamoto nyohei | 岡本女平 |  |  |
 | kisetsuhazure no ofuton | 季節外れのお布団 |  |  |
+| senaka | せなか |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
