@@ -9191,7 +9191,7 @@ example:
 | scavenger | 清道夫 | 所属作品：《明日方舟》 | [萌娘百科](https://zh.moegirl.org.cn/清道夫) |
 | katheryne | 凯瑟琳（原神） | 凯瑟琳是游戏《原神》及其衍生作品的登场角色。<br>![凯瑟琳](https://storage.moegirl.org.cn/moegirl/commons/2/23/Genshin_Katheryne_PV.jpg) | [萌娘百科](https://zh.moegirl.org.cn/凯瑟琳%28原神%29) |
 | winry rockbell | 温莉·洛克贝尔 | ![](https://static.wikia.nocookie.net/bishojodate/images/6/62/12086.jpg/revision/latest?cb=20190602033637&path-prefix=zh)<br>出自作品：`p:fullmetal alchemist`<br><br>溫莉·洛克貝爾（Winry Rockbell）是荒川弘漫畫《鋼之鍊金術師》及其改編動畫中的主要女性角色。 | [Fandom](https://bishojodata.fandom.com/zh/wiki/溫莉·洛克貝爾) \| [百度百科](https://baike.baidu.com/item/温莉·洛克贝尔/3554637) |
-| subaru kakehashi | 梯 昴 |  |  |
+| subaru kakehashi | 梯昴 | ![](https://static.wikia.nocookie.net/blue-archive/images/2/20/Subaru_Portrait.png/revision/latest?cb=20250919051238)<br>所属作品:`blue archive` | [萌娘百科](https://zh.moegirl.org.cn/梯昴)<br>[Fandom](https://bluearchive.fandom.com/wiki/Kakehashi_Subaru) |
 | nicole reeyn | 尼可·莱恩 | ![](https://static.wikia.nocookie.net/gensin-impact/images/7/70/Nicole_Portrait.png)<br>所属作品：`genshin impact` |  |
 | ichika amasawa | 天泽一夏 | ![](https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/a/a6/Tomoseshunsaku_-_Ichika_Amasawa_Swimsuit_%28No_Background%29.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e` |  |
 | sousuke sagara | 相良宗介 | ![](https://static.wikia.nocookie.net/fullmetalpanic/images/2/23/Fantasia_Re-Build_Sagara_Sousuke_1.png)<br>所属作品：`full metal panic` |  |
