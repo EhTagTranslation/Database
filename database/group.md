@@ -14347,6 +14347,7 @@ example:
 | manzoku suru doumei | 満足する同盟 |  |  |
 | pell doukoukai | ペル同好会 |  |  |
 | scarlet maple | スカーレットメープル |  |  |
+| chirisiya | 塵紙屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
