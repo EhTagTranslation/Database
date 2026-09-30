@@ -15776,6 +15776,7 @@ example:
 | iksm pasta | 極太さんぽ |  | [pixiv](https://www.pixiv.net/users/2097163) \| [X](https://x.com/GKBT_sanpo_M) \| [Fantia](https://fantia.jp/fanclubs/487573) \| [Skeb](https://skeb.jp/@GKBT_sanpo) |
 | donaught | Jujunaught |  | [pixiv](https://www.pixiv.net/users/50833100) \| [X](https://x.com/jujunaught) \| [Lit.Link](https://linktr.ee/jujunaught) |
 | okano hajime | おかのはじめ |  | [pixiv](https://www.pixiv.net/users/915532) \| [X](https://x.com/okahaji1) \| [FANBOX](https://okahaji.fanbox.cc/) \| [BOOTH](https://okahaji.booth.pm/) |
+| piwawa | ピワワ |  | [pixiv](https://www.pixiv.net/users/67602612) \| [X](https://x.com/pivvavva) \| [Skeb](https://skeb.jp/@pivvavva) |
 
 <!--TEMPLATE:
 |  |  |  |  |
