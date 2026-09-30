@@ -15761,6 +15761,7 @@ example:
 | chiruko | 汁子 |  |  |
 | tenpura komoro | てんぷらこもろ |  |  |
 | wonma | をんまあ |  |  |
+| setouchi mao | 瀬戸内マオ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
