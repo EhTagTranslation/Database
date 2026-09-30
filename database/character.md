@@ -10314,6 +10314,7 @@ example:
 | wolverine | 金刚狼 | 出自作品:`x-men` |  |
 | lt. surge | 马志士 | ![](https://archives.bulbagarden.net/media/upload/thumb/b/bc/Lets_Go_Pikachu_Eevee_Lt_Surge.png/325px-Lets_Go_Pikachu_Eevee_Lt_Surge.png)<br>出自作品:`pokemon` |  |
 | serperior | 君主蛇 | ![](https://archives.bulbagarden.net/media/upload/thumb/a/a7/0497Serperior.png/375px-0497Serperior.png)<br>出自作品:`pokemon` |  |
+| team plasma grunt | 等离子队手下 | ![](https://archives.bulbagarden.net/media/upload/thumb/3/34/Black_2_White_2_Team_Plasma_Grunts.png/300px-Black_2_White_2_Team_Plasma_Grunts.png)<br>出自作品:`pokemon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
