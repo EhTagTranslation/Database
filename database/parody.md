@@ -3029,6 +3029,7 @@ example:
 | shojo no shimobe-kun | 処女のシモベくん |  |  |
 | matai toshi | 魔胎都市 |  |  |
 | the exit 8 | 8号出口 |  | [萌娘百科](https://zh.moegirl.org.cn/8号出口) |
+| kabushiki gaisha majirumie | 魔法光源股份有限公司 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9f/fd/467641_q40fo.jpg)<br>日语：株式会社マジルミエ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
