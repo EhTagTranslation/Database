@@ -7835,7 +7835,7 @@ example:
 | minobu gentle | 身延ジェントル |  |  |
 | minobuya | みのぶ屋 |  |  |
 | minomushitei | みのむし亭 |  |  |
-| minori | Minori | ![Xitter头像](https://pbs.twimg.com/profile_images/524210042002612226/9DlFhKKl_400x400.jpeg)<br>别称中二社, 巨乳社。<br>本社(已倒闭: 02/18/2019) | [官网(现MangaGamer)](http://www.minori.ph/)  [维基百科](https://zh.wikipedia.org/wiki/Minori)  [wikidata](https://www.wikidata.org/wiki/Q307403) [Xitter](https://x.com/nekoten_yuuna) [MobyGames](https://www.mobygames.com/company/22502/minori/) |
+| minori | 中二社 | ![Xitter头像](https://pbs.twimg.com/profile_images/524210042002612226/9DlFhKKl_400x400.jpeg)<br>别称中二社, 巨乳社。<br>本社(已倒闭: 02/18/2019) | [官网(现MangaGamer)](http://www.minori.ph/)  [维基百科](https://zh.wikipedia.org/wiki/Minori) [Xitter](https://x.com/nekoten_yuuna) [MobyGames](https://www.mobygames.com/company/22502/minori/) |
 | minori kenkyuujo | みのり研究所 |  |  |
 | minors escort | マイナーズエスコート |  |  |
 | minpee | みんペー |  |  |
