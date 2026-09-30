@@ -10303,6 +10303,7 @@ example:
 | achichi mela | 热千玫拉 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/3/35/Achichi_Mela_Full_Body_Alt.png)<br>日语：熱千めら<br>所属社团:`hololive` |  |
 | senna abaru | 赛娜（涤魂圣枪） | ![](https://static.wikia.nocookie.net/doblaje/images/1/18/Senna.jpg)<br>出自作品:`league of legends` |  |
 | caitlyn kiramman | ‌凯特琳（皮城女警） | ![](https://static.wikia.nocookie.net/doblaje/images/2/23/Caitlyn_LoL.jpg)<br>全名：‌凯特琳·吉拉曼恩<br>出自作品:`league of legends` |  |
+| revenge | 复仇 | ![](https://azurlane.netojuu.com/images/5/5f/Revenge.png)<br>出自作品:`azur lane` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
