@@ -4325,7 +4325,7 @@ example:
 | maho himemiya | 姬宫真步 | ![](https://patchwiki.biligame.com/images/pcr/thumb/7/7a/3aqzjj6o4ksqo3mp5p4t33hars34lsh.png/409px-真步.png)<br>所属作品：`princess connect`<br>外号咕噜灵波。 | [BILIGAME WIKI](https://wiki.biligame.com/pcr/真步) |
 | ahri | 阿狸（九尾妖狐） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/9/91/juh2d2gmf8urksg7486c3ngwbulpq1s.jpg)<br>![](https://patchwiki.biligame.com/images/lol/f/fc/1jsfnots1ju8ixbhwmy7t8kqsst4sm7.jpg)<br>星之守护者皮肤 | [萌娘百科](https://zh.moegirl.org.cn/阿狸%28英雄联盟%29#) |
 | lillia | 莉莉娅（含羞蓓蕾） | 所属作品：`league of legends`<br>![](https://wiki.leagueoflegends.com/en-us/images/Lillia_OriginalSkin.jpg?ababd) |  |
-| thresh | 锤石 |  |  |
+| thresh | 锤石（魂锁典狱长） | ![](https://static.wikia.nocookie.net/doblaje/images/5/56/Thresh.jpg)<br>出自作品:`league of legends` |  |
 | sophia nishikinomiya | 苏菲亚·锦之宫 | `anna nishikinomiya`的母亲，时冈学园家长会会长。 |  |
 | anna nishikinomiya | 安娜·锦之宫 | ![](https://lain.bgm.tv/r/400/pic/crt/l/1e/b7/32286_crt_CLbcl.jpg)<br>所属作品：`shimoneta to iu gainen ga sonzai shinai taikutsu na sekai` |  |
 | moona hoshinova | 暮娜·惑星诺瓦 | Moona Hoshinova（日语：ムーナ・ホシノヴァ），是Hololive印度尼西亚（Hololive ID）一期生虚拟UP主中的一员，于2020年4月开始活动。 | [维基百科](https://zh.wikipedia.org/wiki/Moona_Hoshinova) [萌娘百科](https://zh.moegirl.org.cn/Moona_Hoshinova) |
