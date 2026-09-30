@@ -74,7 +74,7 @@ example:
 | chelseasoft | Chelseasoft |  |  |
 | sphere | Sphere |  |  |
 | hook | 钩子社 | ![](https://upload.wikimedia.org/wikipedia/commons/5/56/Hook_logo.jpg)<br>HOOKSOFT是日本ロボプランニング公司的游戏品牌，主要发售恋爱冒险类型的成人游戏。 | [维基百科](https://zh.wikipedia.org/wiki/HOOKSOFT) [官方网站](http://www.hook-net.jp/htm/index_02.htm) |
-| smee | SMEE |  | [官方网站](http://www.hook-net.jp/smee/) |
+| smee | 似蜜社 |  | [官方网站](http://www.hook-net.jp/smee/) |
 | asa project | 颜艺社 | ![主页徽章](https://www.asa-pro.com/img/asa_banner.png)<br>全称：ASa Project<br>别称：颜艺社, 因作品角色拥有丰富面部表情管理系统而得名。 | [官方网站](http://www.asa-pro.com/top.html) (\*) |
 | rosebleu | Rosebleu |  |  |
 | clochette | Clochette | Clochette（日语：クロシェット）社位于东京都台东区浅草，为日本公司ブランエール（BLANC AILE）旗下的成人游戏品牌。自2007年开始活跃，开发浪漫喜剧性质的校园风格的游戏。 | [维基百科](https://zh.wikipedia.org/wiki/Clochette) [官方网站](http://www.clochette-soft.jp/) (\*) |
