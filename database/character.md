@@ -10311,6 +10311,7 @@ example:
 | daredevil | 夜魔侠 |  |  |
 | punisher | 惩罚者 |  |  |
 | cyclops | 镭射眼 | 出自作品:`x-men` |  |
+| wolverine | 金刚狼 | 出自作品:`x-men` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
