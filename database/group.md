@@ -14344,6 +14344,7 @@ example:
 | senaka | せなか |  |  |
 | setouchi mao no yamiichi | 瀬戸内マオの闇市 |  |  |
 | tama land | たまランド |  |  |
+| manzoku suru doumei | 満足する同盟 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
