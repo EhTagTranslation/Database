@@ -14354,6 +14354,7 @@ example:
 | gekikara-naporitan-tou | 激辛ナポリタン党 |  |  |
 | naruchikukai | なるちく会 |  |  |
 | meido no miyage | 冥途のみやげ |  |  |
+| yobieki seisakusho | 予備役製作所 | 予備役製作所 （よびえきせいさくしょ） | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=208551/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01004412.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
