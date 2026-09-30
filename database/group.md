@@ -10094,7 +10094,7 @@ example:
 | sayuu-hanten | サユウハンテン |  |  |
 | sazameki dori | さざめき通り |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77040/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG35914.html) |
 | sazanka no yado | 山茶花の宿 |  |  |
-| sazareito | さざれいと |  |  |
+| sazareito | さざれいと |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200143/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41823.html) |
 | sbd | SBD |  |  |
 | sbi | SBI |  |  |
 | scale garden | スケイルガーデン |  |  |
