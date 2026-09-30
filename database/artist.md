@@ -15768,6 +15768,7 @@ example:
 | uranai | Uraナイ |  |  |
 | chirisiya kouetsu | 塵紙屋こうえつ |  |  |
 | naruchiku | なるちく |  |  |
+| showjou | しょうじょう |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
