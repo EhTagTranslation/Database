@@ -10293,7 +10293,7 @@ example:
 | liino | 梨诺 | ![](https://assets.fz.wiki/upload/be/55/be5599e7b7023f65a55a1d86ab418a43544c6647b23959b8d2c4fcd8e3523faa.png)<br>出自作品:`arknights endfield` |  |
 | kumbhira | 库碧拉 |  |  |
 | sakuya enjou | 円城咲耶 |  |  |
-| godsworn alexiel | 神域守护·布洛蒂亚 |  |  |
+| godsworn alexiel | 布洛蒂亚 | ![](https://huiji-public.huijistatic.com/gbf/uploads/7/78/Profile_3040158000_01.png)<br>全名：神域守护·布洛蒂亚<br>出自作品:`granblue fantasy` |  |
 | lida | 玳萝 | ![](https://archives.bulbagarden.net/media/upload/thumb/4/4c/ZA_Lida.png/315px-ZA_Lida.png)<br>出自作品:`pokemon`-ZA | [百度百科](https://baike.baidu.com/item/玳萝/66974891) |
 | shunran nishi | 西春兰 | ![](https://static.wikia.nocookie.net/chainsmoker-cat/images/2/2f/Shunran2.png/revision/latest?cb=20260725225550)<br>所属作品:`yanineko`<br>关西喵喵的弟弟 | [Fandom](https://chainsmoker-cat.fandom.com/wiki/Shunran_Nishi) |
 | anna niki | 仁木安娜 | ![](https://static.wikitide.net/bluearchivewiki/thumb/6/65/Anna_00.png/225px-Anna_00.png)<br>日语：仁木アンナ<br>出自作品:`blue archive` |  |
