@@ -4969,7 +4969,7 @@ example:
 | scylla | 斯库拉 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/ae7c65bbf221f49cbbe3e5ff6bb98205262400697.png)<br>其原型是英国海军的英雄号驱逐舰（HMS\_Scylla\_(98)）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:斯库拉) |
 | algerie | 阿尔及利亚 |  |  |
 | erika | 莉佳 \| 艾莉卡 | ① 莉佳（日语：エリカ）<br>![莉佳](https://img.moegirl.org.cn/common/thumb/0/05/莉佳_LPLE.png/238px-莉佳_LPLE.png)<br>所属作品：`pokemon`<br>②艾莉卡<br>![](https://ehgt.org/w/02/154/32032-p35nf8ok.webp)<br>所属作品：`sokushi cheat ga saikyou sugite` |  |
-| juliana | 小青 | 所属作品：`pokemon`<br>![小青](https://img.moegirl.org.cn/common/thumb/c/ce/Pokemon_Scarlet_Main_Character_2.png/280px-Pokemon_Scarlet_Main_Character_2.png)<br>小青（日语：アオイ，英语：Juliana） |  |
+| juliana | 小青 | ![小青](https://img.moegirl.org.cn/common/thumb/c/ce/Pokemon_Scarlet_Main_Character_2.png/280px-Pokemon_Scarlet_Main_Character_2.png)<br>日语：アオイ<br>所属作品：`pokemon` |  |
 | ishizu ishtar | 伊西丝·伊修达尔 | 日本漫画《游戏王》及其衍生作品中的角色，来自埃及决斗者，千年项链持有者。<br>生日：4月5日<br>年龄：20岁<br>身高：167cm<br>体重：43kg<br>星座：白羊座<br>血型：O型<br>最喜欢吃：Omaari(埃及料理)<br>最讨厌吃：肉料理<br>卡组：现世与冥界的逆转卡组 |  |
 | mai valentine | 孔雀舞 | ![](https://static.wikia.nocookie.net/yugioh/images/4/42/MaiValentine-DULI.png)<br>出自作品:`yu-gi-oh` |  |
 | serenity wheeler | 川井静香 | 日本漫画《游戏王》及其衍生作品中的角色，城之内克也的妹妹，是和城之内最亲近的人，城之内为了她而成为决斗者。 |  |
