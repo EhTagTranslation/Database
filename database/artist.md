@@ -15778,6 +15778,7 @@ example:
 | okano hajime | おかのはじめ |  | [pixiv](https://www.pixiv.net/users/915532) \| [X](https://x.com/okahaji1) \| [FANBOX](https://okahaji.fanbox.cc/) \| [BOOTH](https://okahaji.booth.pm/) |
 | piwawa | ピワワ |  | [pixiv](https://www.pixiv.net/users/67602612) \| [X](https://x.com/pivvavva) \| [Skeb](https://skeb.jp/@pivvavva) |
 | r-wade | 70B(旧R.C.W.D) |  | [pixiv](https://www.pixiv.net/users/2301660) \| [X](https://x.com/RCforWD) \| [Pawoo](https://pawoo.net/@rock310x) \| [Patreon](https://www.patreon.com/rock310x) \| [FANBOX](https://rock310x.fanbox.cc/) |
+| hamado qunjiro | 浜土キュン治郎 |  | [pixiv](https://www.pixiv.net/users/125137477) \| [X](https://x.com/hamadoqunjiro) \| [Lit.Link](https://lit.link/en/hamadoqunjiro) \| [Ci-en](https://ci-en.dlsite.com/creator/32318) |
 
 <!--TEMPLATE:
 |  |  |  |  |
