@@ -2685,7 +2685,7 @@ example:
 | amazon | 亚马逊 | 所属作品：`dragons crown` |  |
 | sorceress | 女巫 | 游戏《`dragons crown`》中的角色。<br>![图](https://ehgt.org/d4/9b/d49b2c756d3c7b929a8b3005a8bf7c4649cec001-127531-850-1050-jpg_l.jpg)<br>![图](https://ehgt.org/db/85/db857a5ee857ec6ba6c27ff7f2995140dc3259a6-118637-800-1260-jpg_l.jpg) |  |
 | serena | 莎莉娜 \| 瑟妮娅 \| 塞瑞娜 | ①莎莉娜<br>![图](https://img.moegirl.org.cn/common/0/06/莎莉娜_动画版设定图1.png)<br>日语：セレナ<br>出自作品：`pokemon`X／Y<br>——————————<br>② 塞瑞娜<br>![图](https://img.moegirl.org.cn/common/thumb/9/99/Celina-LOD.png/420px-Celina-LOD.png)<br>出自作品:`yu-gi-oh arc-v`<br>——————————<br>③瑟妮娅<br>![图](https://www.dq11.jp/s/pf/characters/_img/senya/chara_2d_sp.png)<br>出自作品：`dragon quest`XI |  |
-| shauna | 莎娜 |  |  |
+| shauna | 莎娜 | ![](https://archives.bulbagarden.net/media/upload/thumb/7/73/XY_Shauna.png/225px-XY_Shauna.png)<br>出自作品:`pokemon` |  |
 | kiruko otonashi | 音无斩子 |  |  |
 | boa hancock | 波雅·汉库克 | ![](https://static.wikia.nocookie.net/onepiece/images/7/76/Hancock_%26_Salome_Anime_Concept_Art.png)<br>所属作品：`one piece` |  |
 | monkey d. luffy | 蒙奇·D·路飞 | ![](https://static.wikia.nocookie.net/onepiece/images/6/62/Luffy_Wanted_Poster.png)<br>所属作品：`one piece` |  |
