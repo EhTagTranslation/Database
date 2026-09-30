@@ -10304,6 +10304,7 @@ example:
 | senna abaru | 赛娜（涤魂圣枪） | ![](https://static.wikia.nocookie.net/doblaje/images/1/18/Senna.jpg)<br>出自作品:`league of legends` |  |
 | caitlyn kiramman | ‌凯特琳（皮城女警） | ![](https://static.wikia.nocookie.net/doblaje/images/2/23/Caitlyn_LoL.jpg)<br>全名：‌凯特琳·吉拉曼恩<br>出自作品:`league of legends` |  |
 | revenge | 复仇 | ![](https://azurlane.netojuu.com/images/5/5f/Revenge.png)<br>出自作品:`azur lane` |  |
+| benjamin grimm | 本杰明·格瑞姆 | ![](https://static.wikia.nocookie.net/marveldatabase/images/a/a4/Fantastic_Four_Vol_6_1_The_Thing_Variant_Textless.jpg)<br>出自作品:`fantastic four` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
