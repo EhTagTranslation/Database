@@ -14349,6 +14349,7 @@ example:
 | scarlet maple | スカーレットメープル |  |  |
 | chirisiya | 塵紙屋 |  |  |
 | tokumori animal | とくもりあにまる |  |  |
+| wakarase seisaku iinkai | わからせ製作委員会 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
