@@ -10316,6 +10316,7 @@ example:
 | serperior | 君主蛇 | ![](https://archives.bulbagarden.net/media/upload/thumb/a/a7/0497Serperior.png/375px-0497Serperior.png)<br>出自作品:`pokemon` |  |
 | team plasma grunt | 等离子队手下 | ![](https://archives.bulbagarden.net/media/upload/thumb/3/34/Black_2_White_2_Team_Plasma_Grunts.png/300px-Black_2_White_2_Team_Plasma_Grunts.png)<br>出自作品:`pokemon` |  |
 | jupiter | 岁星 | ![](https://archives.bulbagarden.net/media/upload/thumb/e/e5/Brilliant_Diamond_Shining_Pearl_Jupiter.png/225px-Brilliant_Diamond_Shining_Pearl_Jupiter.png)<br>出自作品:`pokemon` |  |
+| dot | 小点 | ![](https://archives.bulbagarden.net/media/upload/thumb/9/95/Dot_anime_11.png/225px-Dot_anime_11.png)<br>出自作品:`pokemon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
