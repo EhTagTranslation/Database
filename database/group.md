@@ -14348,6 +14348,7 @@ example:
 | pell doukoukai | ペル同好会 |  |  |
 | scarlet maple | スカーレットメープル |  |  |
 | chirisiya | 塵紙屋 |  |  |
+| tokumori animal | とくもりあにまる |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
