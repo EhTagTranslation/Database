@@ -10295,6 +10295,7 @@ example:
 | sakuya enjou | 円城咲耶 |  |  |
 | godsworn alexiel | 神域守护·布洛蒂亚 |  |  |
 | lida | 玳萝 | 游戏《宝可梦传说 Z-A》中登场的女性角色，隶属于超Z队组织 | [百度百科](https://baike.baidu.com/item/玳萝/66974891) |
+| shunran nishi | 西春兰 | ![](https://static.wikia.nocookie.net/chainsmoker-cat/images/2/2f/Shunran2.png/revision/latest?cb=20260725225550)<br>所属作品:`yanineko`<br>关西喵喵的弟弟 | [Fandom](https://chainsmoker-cat.fandom.com/wiki/Shunran_Nishi) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
