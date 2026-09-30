@@ -10312,6 +10312,7 @@ example:
 | punisher | 惩罚者 |  |  |
 | cyclops | 镭射眼 | 出自作品:`x-men` |  |
 | wolverine | 金刚狼 | 出自作品:`x-men` |  |
+| lt. surge | 马志士 | ![](https://archives.bulbagarden.net/media/upload/thumb/b/bc/Lets_Go_Pikachu_Eevee_Lt_Surge.png/325px-Lets_Go_Pikachu_Eevee_Lt_Surge.png)<br>出自作品:`pokemon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
