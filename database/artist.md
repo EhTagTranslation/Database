@@ -15769,6 +15769,7 @@ example:
 | chirisiya kouetsu | 塵紙屋こうえつ |  |  |
 | naruchiku | なるちく |  |  |
 | showjou | しょうじょう |  |  |
+| syuugetu saccharin | 秋月サッカリン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
