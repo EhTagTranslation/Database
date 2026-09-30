@@ -10298,6 +10298,7 @@ example:
 | shunran nishi | 西春兰 | ![](https://static.wikia.nocookie.net/chainsmoker-cat/images/2/2f/Shunran2.png/revision/latest?cb=20260725225550)<br>所属作品:`yanineko`<br>关西喵喵的弟弟 | [Fandom](https://chainsmoker-cat.fandom.com/wiki/Shunran_Nishi) |
 | anna niki | 仁木安娜 | ![](https://static.wikitide.net/bluearchivewiki/thumb/6/65/Anna_00.png/225px-Anna_00.png)<br>日语：仁木アンナ<br>出自作品:`blue archive` |  |
 | kana sakuragi | 樱木加奈 | ![](https://static.wikia.nocookie.net/master-takeshi/images/e/e4/Kana_main.webp)<br>![](https://static.wikia.nocookie.net/master-takeshi/images/0/05/Kana_main-changed.webp)<br>日语：桜木カナ<br>出自作品:`kabushiki gaisha majirumie` |  |
+| maki maehara | 前原真树 | ![](https://static.wikia.nocookie.net/class-de-2banmeni-kawaii-onnanoko-to-tomodachi/images/8/87/Maki_Maehara_Anime.png)<br>日语：前原 真樹<br>出自作品:`class de 2-banme ni kawaii onnanoko to tomodachi ni natta` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
