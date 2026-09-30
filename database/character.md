@@ -10313,6 +10313,7 @@ example:
 | cyclops | 镭射眼 | 出自作品:`x-men` |  |
 | wolverine | 金刚狼 | 出自作品:`x-men` |  |
 | lt. surge | 马志士 | ![](https://archives.bulbagarden.net/media/upload/thumb/b/bc/Lets_Go_Pikachu_Eevee_Lt_Surge.png/325px-Lets_Go_Pikachu_Eevee_Lt_Surge.png)<br>出自作品:`pokemon` |  |
+| serperior | 君主蛇 | ![](https://archives.bulbagarden.net/media/upload/thumb/a/a7/0497Serperior.png/375px-0497Serperior.png)<br>出自作品:`pokemon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
