@@ -6684,7 +6684,7 @@ example:
 | kawagishi keitarou | カワギシケイタロウ |  |  |
 | kawahara | カワハラ |  |  |
 | kawahara shin | かわはらしん |  |  |
-| kawai | カワイ |  | [pixiv](https://www.pixiv.net/users/12913304) \| [X](https://x.com/purplrpouni) |
+| kawai | カワイ \| 川井 \| かわい | 系三位重名<br>一位是河胃（カワイ）シュン<br>一位是以purplrpouni活动的かわい<br>一位是2023年才开始活动的川井 | purplrpouni的かわい：[pixiv](https://www.pixiv.net/users/12913304) \| [X](https://x.com/purplrpouni)<br>カワイシュン：[pixiv](https://www.pixiv.net/users/8945137) \| [X](https://x.com/uminotabemono) |
 | kawai kenji | 河合健司 |  |  |
 | kawakami ioru | 川上イオル |  |  |
 | kawakami kou | 河上康 |  |  |
