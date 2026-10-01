@@ -1771,7 +1771,7 @@ example:
 | homura akemi | 晓美焰 | ![](https://static.wikia.nocookie.net/madoka/images/e/ed/Homura_Akemi_Thousand_Memories.png)<br>日语：暁美ほむら<br>出自作品：`p:puella magi madoka magica` | [萌娘百科](https://zh.moegirl.org.cn/晓美焰) |
 | madoka kaname | 鹿目圆 | ![](https://static.wikia.nocookie.net/madoka/images/8/88/Walpurgis_madoka_profile.png)<br>日语：鹿目まどか<br>出自作品:`puella magi madoka magica` |  |
 | mami tomoe | 巴麻美 | ![](https://static.wikia.nocookie.net/madoka/images/d/d9/WnK_Mami.png)<br>日语：巴マミ<br>出自作品:`puella magi madoka magica` |  |
-| sayaka miki | 美树沙耶香 |  |  |
+| sayaka miki | 美树沙耶香 | ![](https://static.wikia.nocookie.net/madoka/images/c/c3/Sayaka_Miki_Thousand_Memories.png)<br>日语：美樹さやか<br>出自作品:`puella magi madoka magica` |  |
 | kyouko sakura | 佐仓杏子 |  |  |
 | nagisa momoe | 百江渚 |  |  |
 | kaede akino | 秋野枫 |  |  |
