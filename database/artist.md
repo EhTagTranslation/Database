@@ -12421,7 +12421,7 @@ example:
 | keise. | 慧瀬。 |  |  |
 | zandoro | ざんどろ |  |  |
 | rinaka moruchi | モルんち |  |  |
-| tachi | タチ |  |  |
+| tachi | タチ |  | [X](https://x.com/tt_tachi) [X(R18)](https://x.com/tt_tachi2) [pixiv](https://www.pixiv.net/users/1148816) [个人主页](https://potofu.me/gttm) |
 | metsubushi | メツブシ | ![画师头像](https://pbs.twimg.com/profile_images/1667971287929724928/-AxTxnsZ_200x200.jpg)<br>去年11月在COMIC E×E40出道的新人画师<br>根据P站小号的身份信息与投稿来看似乎是女画师 | [X](https://x.com/mega_muska) [pixiv](https://www.pixiv.net/users/88974746) |
 | iuui | イウウイ |  | [pixiv](https://www.pixiv.net/users/7484613) |
 | cham22 | cham22 |  | [pixiv](https://www.pixiv.net/users/16456081) |
