@@ -14359,6 +14359,7 @@ example:
 | noahs room | noah's room |  |  |
 | niki scope | niki’scope |  |  |
 | tatsubons house | TATSUBON’S HOUSE |  |  |
+| triangle bottom | とらいあんぐる‐ぼとむ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
