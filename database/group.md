@@ -9049,7 +9049,7 @@ example:
 | overload | おーばーろーど |  |  |
 | owatasha | おわた社 |  |  |
 | oxg | OXG |  |  |
-| oxide.lab | OXIDE.Lab |  |  |
+| oxide.lab | OXIDE\_Lab |  |  |
 | oxydan | おきし団 |  |  |
 | oyajiji gumi | オヤジジ組 |  |  |
 | oyakodon | 親子丼 |  |  |
