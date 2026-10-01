@@ -5477,7 +5477,7 @@ example:
 | haku | 白 |  |  |
 | hakua ugetsu | 白亜右月 |  |  |
 | hakubun. | はくぶん. |  |  |
-| hakugi | 白義 |  |  |
+| hakugi | 白義 |  | [X](https://x.com/siratamako763) [X(R18)](https://x.com/siratamako76318) [pixiv](https://www.pixiv.net/users/557721) |
 | hakui ami | 羽咋あみ | 一ノ瀬ランド |  |
 | hakuma | HAKUMA |  |  |
 | hakumai gen | 白米玄 |  |  |
