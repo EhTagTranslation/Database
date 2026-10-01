@@ -1777,7 +1777,7 @@ example:
 | kaede akino | 秋野枫 |  |  |
 | rena minami | 水波玲奈 |  |  |
 | yachiyo nanami | 七海八千代 |  |  |
-| iroha tamaki | 环彩羽 |  |  |
+| iroha tamaki | 环彩羽 | ![](https://static.wikia.nocookie.net/madoka/images/7/7e/Iroha_Profile.png)<br>日语：環いろは<br>出自作品:`puella magi madoka magica` |  |
 | kyubey | 丘比 | QB |  |
 | kyousuke kamijou | 上条恭介 |  |  |
 |  | ▼ 碧蓝幻想 |  |  |
