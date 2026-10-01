@@ -6767,7 +6767,7 @@ example:
 | komebitsu | 米びつ |  |  |
 | komedokoro | こめどころ |  |  |
 | komekami kishi dan | こめかみ騎士団 |  |  |
-| komekouji | コメコウジ |  |  |
+| komekouji | コメコウジ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/page/2/per_page/30/maker_id/RG09031.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=24751/) \| [Ci-en](https://ci-en.dlsite.com/creator/4620) |
 | komenikki | 米にっき。 |  |  |
 | komenosukima | 米の隙間 |  |  |
 | kometubu | 米粒 |  |  |
