@@ -1768,7 +1768,7 @@ example:
 | loki | 洛基 | ①<br>![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/d/df/Loki_Orario_Rhapsodia_Character_Art_2.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>————————————<br>②<br>![](https://static.wikia.nocookie.net/marvel-rivals/images/6/68/Loki_Hero_Portrait.png)<br>所属作品：`the mighty thor` |  |
 | syr flova | 希儿·福罗瓦 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/b/b2/Syr_Devoted_Hand_DanMemo.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
 |  | ▼ 魔法少女小圆 |  |  |
-| homura akemi | 晓美焰 | ![](https://static.wikia.nocookie.net/madoka/images/e/ed/Homura_Akemi_Thousand_Memories.png)<br>出自作品：`p:puella magi madoka magica` | [萌娘百科](https://zh.moegirl.org.cn/晓美焰) |
+| homura akemi | 晓美焰 | ![](https://static.wikia.nocookie.net/madoka/images/e/ed/Homura_Akemi_Thousand_Memories.png)<br>日语：暁美ほむら<br>出自作品：`p:puella magi madoka magica` | [萌娘百科](https://zh.moegirl.org.cn/晓美焰) |
 | madoka kaname | 鹿目圆 |  |  |
 | mami tomoe | 巴麻美 |  |  |
 | sayaka miki | 美树沙耶香 |  |  |
