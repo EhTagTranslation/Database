@@ -1407,7 +1407,7 @@ example:
 | wadamemo | wadamemo | ワダアルコ |  |
 | nanka no atama | 何かのあたま! |  |  |
 | scratch jikkou iinkai | スクラッチ実行委員会 |  |  |
-| gn | GN |  |  |
+| gn | GN |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26062/) |
 | anko ni gohan | あんこに御飯 |  |  |
 | hyappo hissatsu | 百步必杀 |  |  |
 | ajiichi | 味市 |  |  |
