@@ -1177,7 +1177,7 @@ example:
 | saeki hokuto | さえき北都 |  |  |
 | shinozuka atsuto | しのづかあつと |  |  |
 | yatsuha kanan | 八叶香南 |  |  |
-| hashibiro kou | 桥广こう | ![X](https://pbs.twimg.com/profile_images/1146060014110400513/KbX99f9a_400x400.png)<br><br>**作者推特头像**<br><br>comic bavel作者。 | [X](https://x.com/hashibirokou27) [pixiv](https://www.pixiv.net/users/6640578) |
+| hashibiro kou | 橋広こう | ![X](https://pbs.twimg.com/profile_images/1146060014110400513/KbX99f9a_400x400.png)<br><br>**作者推特头像**<br><br>comic bavel作者。 | [X](https://x.com/hashibirokou27) [pixiv](https://www.pixiv.net/users/6640578) |
 | koutarou | こうたろう |  |  |
 | piririnegi | ぴりりねぎ |  |  |
 | spiritus tarou | スピリタス太郎 |  |  |
