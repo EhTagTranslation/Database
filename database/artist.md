@@ -15782,6 +15782,7 @@ example:
 | psst | Psst |  | [pixiv](https://www.pixiv.net/users/114893012) \| [X](https://x.com/psst14344) \| [FANBOX](https://psst.fanbox.cc/) |
 | kubo lion | 窪リオン |  | [pixiv](https://www.pixiv.net/users/93069759) \| [X](https://x.com/kubolion/with_replies) |
 | mimikku | みみっく |  |  |
+| keimura mimic | けいむらみみっく |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
