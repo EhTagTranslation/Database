@@ -15781,6 +15781,7 @@ example:
 | hamado qunjiro | 浜土キュン治郎 |  | [pixiv](https://www.pixiv.net/users/125137477) \| [X](https://x.com/hamadoqunjiro) \| [Lit.Link](https://lit.link/en/hamadoqunjiro) \| [Ci-en](https://ci-en.dlsite.com/creator/32318) |
 | psst | Psst |  | [pixiv](https://www.pixiv.net/users/114893012) \| [X](https://x.com/psst14344) \| [FANBOX](https://psst.fanbox.cc/) |
 | kubo lion | 窪リオン |  | [pixiv](https://www.pixiv.net/users/93069759) \| [X](https://x.com/kubolion/with_replies) |
+| mimikku | みみっく |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
