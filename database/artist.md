@@ -7053,7 +7053,7 @@ example:
 | komamemaru | こまめ丸 |  |  |
 | komano mako | 狛野まこ |  |  |
 | komaru | こまる |  |  |
-| kome | こめ |  |  |
+| kome | こめ \| Kome | 重名<br>一位是以Doge Club活动的Kome<br>一位是以VM500活动的こめ | Kome：[FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=e44d2b90-c277-408d-92a5-77c8b8079f4e/section=mens/) [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22Kome%22/ana_flg/all) |
 | kome dorobou | 米泥棒 |  |  |
 | kome tsubu | こめつぶ |  |  |
 | komechu | こめちゅー |  |  |
