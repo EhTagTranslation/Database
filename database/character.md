@@ -1769,7 +1769,7 @@ example:
 | syr flova | 希儿·福罗瓦 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/b/b2/Syr_Devoted_Hand_DanMemo.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
 |  | ▼ 魔法少女小圆 |  |  |
 | homura akemi | 晓美焰 | ![](https://static.wikia.nocookie.net/madoka/images/e/ed/Homura_Akemi_Thousand_Memories.png)<br>日语：暁美ほむら<br>出自作品：`p:puella magi madoka magica` | [萌娘百科](https://zh.moegirl.org.cn/晓美焰) |
-| madoka kaname | 鹿目圆 |  |  |
+| madoka kaname | 鹿目圆 | ![](https://static.wikia.nocookie.net/madoka/images/8/88/Walpurgis_madoka_profile.png)<br>日语：鹿目まどか<br>出自作品:`puella magi madoka magica` |  |
 | mami tomoe | 巴麻美 | ![](https://static.wikia.nocookie.net/madoka/images/d/d9/WnK_Mami.png)<br>日语：巴マミ<br>出自作品:`puella magi madoka magica` |  |
 | sayaka miki | 美树沙耶香 |  |  |
 | kyouko sakura | 佐仓杏子 |  |  |
