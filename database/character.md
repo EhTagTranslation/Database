@@ -7290,7 +7290,7 @@ example:
 | satellizer el bridget | 莎堤莱萨·L·布丽姬 | ![](https://ehgt.org/w/01/720/40964-4n7vz91m.webp)<br>所属作品：`freezing` |  |
 | ruri kurosaki | 黑咲琉璃 | ![](https://i.namu.wiki/i/aDhgBqIcNnh57hLIFzr4PXwDp1iGT2uRkLAAwsHMNLFUhfasDoxe22rj1dyf8ZR3fiiClI71NCpqk4d6D8ZUO5ssqkIq5AWixB3xr6VNIdx5xPxHGBJyxZPE0GPIuK1skAegq5fZS8aN09RLRioF9w.webp)<br>所属作品：`yu-gi-oh arc-v` |  |
 | fiolina germi | 菲欧莉娜·吉尔米 | ![](https://ehgt.org/w/01/336/72217-efs1sxu9.webp)<br>所属作品：`metal slug`<br>《合金弹头》系列的正规军情报部Sparrows上级曹长，初次登场于《合金弹头2》。 |  |
-| alina gray | 阿莉娜·格雷 | 所属作品：`puella magi madoka magica side story magia record` |  |
+| alina gray | 阿莉娜·格雷 | ![](https://static.wikia.nocookie.net/madoka/images/6/64/Alina_profile.png)<br>日语：アリナ・グレイ<br>所属作品：`puella magi madoka magica side story magia record` |  |
 | futayo honda | 本田·二代 | ![](https://ehgt.org/w/00/510/02832-2cewgrbs.webp)<br>所属作品：`kyoukai senjou no horizon` |  |
 | ophiuchus shaina | 莎尔娜 | ![](https://zoycbewnml.hath.network/om/183994315/b1293c00788cf59c30acea25176cc0d2600b28e4-1826592-998-1459-png/c918b6ac8316b2609e2fa1ce0a131e3315fd3851-89362-800-1170-wbp/800/f8qtsw3saddqux1tixs/1261.webp)<br>所属作品：`saint seiya`<br>日语名：シャイナ |  |
 | matsu | 松 | ![](https://static.wikia.nocookie.net/sekirei/images/a/a0/Matsu05.jpg)<br>所属作品：`sekirei` |  |
