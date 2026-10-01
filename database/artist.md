@@ -3023,7 +3023,7 @@ example:
 | casino | カジノ |  | [X](https://x.com/CasinoEP) [pixiv](https://www.pixiv.net/users/468133) |
 | hanekoto | はねこと |  | [X](https://x.com/hanekoto2424) [pixiv](https://www.pixiv.net/users/2106422) |
 | kanzaki hiro | かんざきひろ |  | [X](https://x.com/kanzakihiro) [pixiv](https://www.pixiv.net/users/27557) |
-| saki chisuzu | さき千鈴 |  |  |
+| saki chisuzu | さき千鈴 |  | [X](https://x.com/saki16) [pixiv](https://www.pixiv.net/users/236592) [bilibili](https://space.bilibili.com/3707053012945271) |
 | fujoujoshi | 不嬢女子 |  | [X](https://x.com/huzeu1) [pixiv](https://www.pixiv.net/users/6486425) |
 | mikuni saho | 御国纱帆 | 御国紗帆 |  |
 | tatsuse yumino | 龙濑弓乃 | 龍瀬弓乃 |  |
