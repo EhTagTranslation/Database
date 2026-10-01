@@ -10327,6 +10327,7 @@ example:
 | alicetaria february | 爱丽丝特利亚·费布拉里 | ![](https://lain.bgm.tv/r/400/pic/crt/l/a7/40/51251_crt_82hED.jpg?r=1491131244)<br>日语：アリステリア・フェブラリィ<br>出自作品:`re creators` |  |
 | meteora osterreich | 梅特欧菈·艾斯塔莱希 | ![](https://lain.bgm.tv/r/400/pic/crt/l/98/c7/51250_crt_94R88.jpg?r=1491130825)<br>日语：メテオラ・エスターライヒ<br>出自作品:`re creators` |  |
 | selesia upitiria | 瑟蕾吉娅·尤匹提莉亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/7e/25/51249_crt_26nVV.jpg?r=1491130482)<br>日语：セレジア・ユピティリア<br>出自作品:`re creators` |  |
+| mamika kirameki | 煌树茉美香 | ![](https://lain.bgm.tv/r/400/pic/crt/l/75/0a/51252_crt_3puaq.jpg?r=1491131564)<br>日语：煌樹まみか<br>出自作品:`re creators` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
