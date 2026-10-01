@@ -14298,7 +14298,7 @@ example:
 | hamashima saketen | はましま酒店 |  |  |
 | pine melon | ぱいんめろん |  |  |
 | keoya | けお屋 |  |  |
-| eagle land | い～ぐるらんど |  |  |
+| eagle land | い～ぐるらんど | fanza：い〜ぐるらんど<br>fanza同DLsite、虎穴、蜜瓜等平台用的～符号都不一样。根据少从多原则主名称使用い～ぐるらんど | [X](https://x.com/takamaru3407) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=205082/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG67848.html) \| [とらのあな](https://ec.toranoana.jp/tora_r/ec/cot/circle/LUPAdB6Q867Nd16pd687/all/) \| [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=62160) |
 | shiritsu sakuranbo nyuu gakkou | 私立さくらんぼ乳学校 |  |  |
 | kadouhaniha hiroihoudesu | 可動範囲は広い方です |  |  |
 | furiten no ryuu | フリテンの竜 |  |  |
