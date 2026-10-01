@@ -12104,7 +12104,7 @@ example:
 | manno | まんの |  |  |
 | tamada heijun | 玉田平準 |  | [pixiv](https://www.pixiv.net/users/10427188) |
 | nagai go | 永井豪 | 永井豪，原名永井洁，1945年9月6日出生于石川县轮岛市。代表作有“破廉耻学园”、“恶魔人”、“魔神Z”、“盖塔机器人”、“甜心战士”等。作品“凄之王”在1980年获得了第四届讲谈社漫画赏。 |  |
-| takamaru | 鷹丸 |  |  |
+| takamaru | 鷹丸 |  | [X](https://x.com/takamaru3407) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=205082/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG67848.html) \| [とらのあな](https://ec.toranoana.jp/tora_r/ec/cot/circle/LUPAdB6Q867Nd16pd687/all/) \| [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=62160) |
 | nidaime | 二代目 |  | [pixiv](https://www.pixiv.net/users/4505788) [X](https://x.com/thesecond1372) |
 | minato ojitan | 湊おじたん |  | [pixiv](https://www.pixiv.net/users/3065392) |
 | orukoa | orukoa |  |  |
