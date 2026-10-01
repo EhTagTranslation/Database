@@ -1772,7 +1772,7 @@ example:
 | madoka kaname | 鹿目圆 | ![](https://static.wikia.nocookie.net/madoka/images/8/88/Walpurgis_madoka_profile.png)<br>日语：鹿目まどか<br>出自作品:`puella magi madoka magica` |  |
 | mami tomoe | 巴麻美 | ![](https://static.wikia.nocookie.net/madoka/images/d/d9/WnK_Mami.png)<br>日语：巴マミ<br>出自作品:`puella magi madoka magica` |  |
 | sayaka miki | 美树沙耶香 | ![](https://static.wikia.nocookie.net/madoka/images/c/c3/Sayaka_Miki_Thousand_Memories.png)<br>日语：美樹さやか<br>出自作品:`puella magi madoka magica` |  |
-| kyouko sakura | 佐仓杏子 |  |  |
+| kyouko sakura | 佐仓杏子 | ![](https://static.wikia.nocookie.net/madoka/images/4/49/WnK_Kyoko.png)<br>出自作品:`puella magi madoka magica` |  |
 | nagisa momoe | 百江渚 |  |  |
 | kaede akino | 秋野枫 |  |  |
 | rena minami | 水波玲奈 |  |  |
