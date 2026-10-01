@@ -10324,6 +10324,7 @@ example:
 | himeko kurusugawa | 来栖川姫子 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/3/30/Himeko_Kurusugawa_full_cha.jpg)<br>出自作品:`kannazuki no miko` |  |
 | chikane himemiya | 姫宫千歌音 | ![](https://lain.bgm.tv/r/400/pic/crt/l/f4/91/1219_crt_BbW9r.jpg?r=1379530131)<br>出自作品:`kannazuki no miko` |  |
 | altair | 阿尔泰尔 | ![](https://static.wikia.nocookie.net/recreators/images/a/a9/Character_c09_img_01.png)<br>日语：アルタイル<br>出自作品:`re creators` |  |
+| alicetaria february | 爱丽丝特利亚·费布拉里 | ![](https://lain.bgm.tv/r/400/pic/crt/l/a7/40/51251_crt_82hED.jpg?r=1491131244)<br>日语：アリステリア・フェブラリィ<br>出自作品:`re creators` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
