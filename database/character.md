@@ -10323,6 +10323,7 @@ example:
 | black maria | 黑色玛利亚 | ![](https://static.wikia.nocookie.net/onepiece/images/2/27/Black_Maria_Anime_Concept_Art.png/revision/latest?cb=20220927023922)<br>所属作品:`one piece` | [百度百科](https://baike.baidu.com/item/黑色玛利亚/49941245) |
 | himeko kurusugawa | 来栖川姫子 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/3/30/Himeko_Kurusugawa_full_cha.jpg)<br>出自作品:`kannazuki no miko` |  |
 | chikane himemiya | 姫宫千歌音 | ![](https://lain.bgm.tv/r/400/pic/crt/l/f4/91/1219_crt_BbW9r.jpg?r=1379530131)<br>出自作品:`kannazuki no miko` |  |
+| altair | 阿尔泰尔 | ![](https://static.wikia.nocookie.net/recreators/images/a/a9/Character_c09_img_01.png)<br>日语：アルタイル<br>出自作品:`re creators` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
