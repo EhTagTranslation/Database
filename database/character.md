@@ -10328,6 +10328,7 @@ example:
 | aki kikuchihara | 菊地原亚希 | ![](https://static.wikia.nocookie.net/recreators/images/8/88/Character_c13_img_01.png)<br>出自作品:`re creators` |  |
 | shiori shinomiya | 四之宫栞 | ![](https://lain.bgm.tv/r/400/pic/crt/l/c5/66/49027_crt_b7C48.jpg?r=1492180618)<br>日语：四ノ宮しおり<br>出自作品:`sakura quest` |  |
 | yoshino koharu | 木春由乃 | ![](https://lain.bgm.tv/r/400/pic/crt/l/84/38/49026_crt_6P176.jpg?r=1491438574)<br>出自作品:`sakura quest` |  |
+| magane chikujouin | 筑城院真鉴 | ![](https://static.wikia.nocookie.net/recreators/images/7/7b/Character_c07_img_01.png)<br>出自作品:`re creators` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
