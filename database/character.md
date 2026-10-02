@@ -10332,6 +10332,7 @@ example:
 | hikayu hoshikawa | 星河绯可由 | ![](https://lain.bgm.tv/r/400/pic/crt/l/24/dc/55974_crt_ILuJ7.jpg?r=1500147095)<br>日语：星河ひかゆ<br>出自作品:`re creators` |  |
 | piper wright | 派普·莱特 | 出自作品:`fallout`4 |  |
 | kaela kovalskia | 卡埃拉·科瓦尔斯基娅 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/b/b9/Kaela_Kovalskia_New_Year_Costume.png)<br>日语：カエラ・コヴァルスキア<br>所属团体:`hololive` |  |
+| airani iofifteen | 艾拉妮・伊欧菲芙婷 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/8/83/Airani_Iofifteen_-_Full_Illustration_01.png)<br>日语：アイラニ・イオフィフティーン<br>所属社团:`hololive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
