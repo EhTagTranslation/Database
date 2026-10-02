@@ -3375,7 +3375,7 @@ example:
 | olga discordia | 奥利卡·迪斯克伦蒂亚 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/6/6f/Olga_Discordia_full_cha.png)<br>所属作品：`kuroinu kedakaki seijo wa hakudaku ni somaru`<br>日语：オリガ·ディスコルディア | [萌娘百科](https://zh.moegirl.org.cn/奥利卡·迪斯克伦蒂亚) |
 | mamako oosuki | 大好真真子 | ![](https://img.moegirl.org.cn/common/1/1b/Okaasan_Anime.png)<br>所属作品: `tsujou kougeki ga zentai kougeki de 2-kai kougeki no okaasan wa suki desu ka` | [萌娘百科](https://zh.moegirl.org.cn/大好真真子) |
 | masato oosuki | 大好真人 |  |  |
-| flare arlgrande jioral | 芙列雅·艾尔格兰帝·吉欧拉尔 | ![](https://ehgt.org/w/02/087/27403-5b5oyk22.webp)<br>所属作品：`kaifuku jutsushi no yarinaoshi`<br>【术】之勇者。吉欧拉尔王国第一公主。 | [萌娘百科](https://zh.moegirl.org.cn/芙列雅·艾尔格兰帝·吉欧拉尔) |
+| flare arlgrande jioral | 芙列雅·艾尔格兰帝·吉欧拉尔 | ![](https://static.wikitide.net/kaiyaripediawiki/thumb/0/03/Flare_Full_Anime.png/599px-Flare_Full_Anime.png)<br>所属作品：`kaifuku jutsushi no yarinaoshi` | [萌娘百科](https://zh.moegirl.org.cn/芙列雅·艾尔格兰帝·吉欧拉尔) |
 | andira | 安琪拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/1/1c/Zoom_3040071000_01.png)<br>所属作品：`granblue fantasy`<br>守护西南西方位，十二神将之一。对过去祖先前往的理想乡抱有梦想的猿神，遵从命运的相会踏上了旅途。 | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040071000) |
 | hacka doll no.3 | 骇客娃娃3号 | 声优与动画歌曲的情报担当，但是对于工作上经常抱持著无气力、懒洋洋的性格。是个可爱的男孩子。Hacka Doll里是年纪最小的成员，在各种事件中当担吐槽役的角色，动画版中遇到声优有关的话题会呈现与平时相反的积极个性。 |  |
 | hacka doll no.1 | 骇客娃娃1号 | 本软体的首席导航人员。性格明朗乐观，对于任何事情总是全力以赴，但是有时会有作蠢事的情形发生，动画版中的设定对动画与从事偶像活动有极高的兴趣。 |  |
