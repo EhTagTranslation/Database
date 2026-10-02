@@ -16,8 +16,7 @@ copyright: >
 rules:
   - 有官方或公认的中文名称时**优先写中文名**，否则写日文名。
   - 日文名中有汉字者优先写含汉字的名称。
-  - >-
-    可以依据[规则](https://zh.wikipedia.org/wiki/Wikipedia:汉字文化圈语言专有名词中译规则#日本语专有名词的中译)将日文名转写为中文名，但**不要混合中文汉字与假名**。
+  - 可以依据[规则](https://zh.wikipedia.org/wiki/Wikipedia:汉字文化圈语言专有名词中译规则#日本语专有名词的中译)将日文名转写为中文名，但**不要混合中文汉字与假名**。
   - 为提高图片可用性，以及减轻萌娘百科服务器压力，引用来自萌娘百科的图片时请使用图床，如[流浪图床](https://p.sda1.dev/)。
 example:
   raw: twinbox
@@ -12108,7 +12107,7 @@ example:
 | yamato soft | 大和ソフト |  |  |
 | yamazakura | 山櫻 |  |  |
 | yami kaiten zushi | 闇回転寿司 |  |  |
-| yami ni ugomeku | 闇に蠢く |  |  |
+| yami ni ugomeku | 闇に蠢く |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201438/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54482.html) |
 | yami no naka | 闇の中 |  |  |
 | yaminabe daiichi kantai | 闇鍋第一艦隊 |  |  |
 | yamotodou rakugakiichi | 矢本堂落書市 |  |  |
