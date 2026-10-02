@@ -14,19 +14,15 @@ copyright: >
   3.0 协议）进行二次分发。
 rules:
   - 优先使用官方译名，无官方译名时可以使用公认的中文名称，本命名空间**暂不接受日文名称**。
-  - >-
-    推荐使用[萌娘百科](https://zh.moegirl.org.cn/)，或百度百科、[Fandom](https://www.fandom.com/)，维基百科查找译名。
+  - 推荐使用[萌娘百科](https://zh.moegirl.org.cn/)，或百度百科、[Fandom](https://www.fandom.com/)，维基百科查找译名。
   - 添加图片请使用图床，优先使用官方的角色形象及广泛使用的二创形象，不要使用含有色情或暴力等违法内容的图片。
-  - >-
-    因萌娘百科服务器压力过大，建议使用[Fandom](https://www.fandom.com/)的图片链接，也可以使用私人上传的图床如[流浪图床](https://p.sda1.dev/)。
+  - 因萌娘百科服务器压力过大，建议使用[Fandom](https://www.fandom.com/)的图片链接，也可以使用私人上传的图床如[流浪图床](https://p.sda1.dev/)。
   - 描述图片尽量出现尽可能多的主角，或者其他易于辨识的作品标志物。
 example:
   raw: kantai collection
-  name: >-
-    ![大船](https://tva1.sinaimg.cn/large/6c84b2d6gy1fehdg37hq1g200k00c03b.gif)舰队Collection
-  intro: >
+  name: '![大船](https://tva1.sinaimg.cn/large/6c84b2d6gy1fehdg37hq1g200k00c03b.gif)舰队Collection'
+  intro: |
     《舰队Collection》（艦隊これくしょん -艦これ-，又译舰队收藏）
-
     ![图](https://ehgt.org/d5/4c/d54cf38acf7115b65c8e9ae6496b85a7d3cd38de-701265-1416-2000-jpg_l.jpg)
   links: >
     [官网地址](http://www.dmm.com/netgame/feature/kancolle.html)
@@ -1576,7 +1572,7 @@ example:
 | the secret of kells | 凯尔经的秘密 | 《凯尔经的秘密》取材于爱尔兰基督教插图手抄本《凯尔经》，讲述了一位怀揣理想的少年克服重重困难绘制经书的故事。 |  |
 | anarchy reigns | 极度混乱 | 《极度混乱》（日版名：マックス アナーキー，Max Anarchy，英文版名：Anarchy Reigns）是白金工作室开发，世嘉所发行，以PlayStation 3及XBOX 360为平台的多人动作游戏，于2012年7月5日发行。《极度混乱》是白金工作室首度制作的在线多人联机游戏。 |  |
 | tropical-rouge precure | 热情闪耀！光之美少女 | 《热情闪耀！光之美少女》（トロピカル〜ジュ！プリキュア）是由东堂泉制作的魔法少女动画，<br>为“光之美少女系列”第十八作，第十六代光之美少女。2021年2月28日于朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/tropical-rouge_precure/) |
-| jujutsu kaisen | 咒术回战 | ![](https://lain.bgm.tv/r/400/pic/cover/l/60/fe/294993_JrrzK.jpg)<br>日语：呪術廻戦（じゅじゅつかいせん））<br>日本漫画家芥见下下创作的一部漫画，并有动画、舞台剧、游戏等衍生作品。<br>前传《咒术回战0 东京都立咒术高等专门学校》、后传《咒术回战≡》 | [萌娘百科](https://zh.moegirl.org.cn/咒术回战) |
+| jujutsu kaisen | 咒术回战 | ![](https://lain.bgm.tv/r/400/pic/cover/l/60/fe/294993_JrrzK.jpg)<br>日语：呪術廻戦（じゅじゅつかいせん）<br>作者：芥见下下 | [萌娘百科](https://zh.moegirl.org.cn/咒术回战) |
 | shugo chara | 守护甜心 | 《守护甜心》（日语：しゅごキャラ！；英语：Shugo Chara）是由PEACH-PIT创作的一部少女向漫画，并有动画和游戏等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/守护甜心) |
 | manatsu no yo no inmu | 仲夏夜之淫梦 \| Cookie☆ | 仲夏夜之淫梦是2001年在COAT CORPORATION发售的GV。TDN前辈们的名字和名言「哼，哼，啊啊啊啊」被世界广泛传播的作品（主要在NicoNico动画上）<br>![图](https://upload.wikimedia.org/wikipedia/commons/e/e1/YJSNPI_Ascii_Art.svg)<br><br>Cookie☆是指、在NicoNico动画上以`touhou project`二次创作的配音短剧为素材制作的MAD作品的总称。Cookie☆短剧本为东方众合作制作的百合向东方二次创作，但因为[初代Cookie☆](https://www.nicovideo.jp/watch/sm9720246)声优们的棒读被淫梦众认为很象[仲夏夜之淫梦第二章](https://www.nicovideo.jp/watch/sm19823016?ref=thumb_nicopedia)的内容，导致视频被淫梦众所占领，大量淫梦语录充斥了视频。之后由Cookie☆衍生出来大量的东方三次创作。E站没有将原作中Cookie☆与淫梦分离开来有些遗憾，淫梦原作的作品不一定是Cookie☆原作。<br>![图](https://ehgt.org/7c/a4/7ca45377febdf8c8f6b965ecdf16dc543429c593-31368-512-384-jpg_l.jpg)<br>![图](https://ehgt.org/20/b8/20b80a428b96401d95cdf1cbad97602a4fb07c3c-76442-600-600-jpg_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/仲夏夜之淫梦)<br>[ニコニコ大百科 - 真夏の夜の淫夢🇯🇵](https://dic.nicovideo.jp/a/真夏の夜の淫夢)<br>[ニコニコ大百科 - クッキー☆](https://dic.nicovideo.jp/a/クッキー☆) |
 | mujaki no rakuen | 无邪气乐园 | 《无邪气乐园》（無邪気の楽園）是日本漫画家`uran`的青年漫画作品。<br>![Cover](https://upload.wikimedia.org/wikipedia/zh/f/fa/無邪氣樂園.jpg) | [Wikipedia](https://zh.wikipedia.org/wiki/無邪氣樂園) [Nyaa](https://nyaa.si/view/1112767) |
