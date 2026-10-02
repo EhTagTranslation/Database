@@ -15784,6 +15784,7 @@ example:
 | keimura mimic | けいむらみみっく |  |  |
 | manno rikyuu | 万利休 |  | [Amazon](https://www.amazon.co.jp/stores/万-利休/author/B004L58C8C?language=zh&ref=ap_rdr&shoppingPortalEnabled=true) |
 | aura seiji | あうら聖児 |  |  |
+| pyonchi | ぴょんち |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
