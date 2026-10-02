@@ -1833,7 +1833,7 @@ example:
 | shirou emiya | 卫宫士郎 | 第五次圣杯战争中 Saber 的御主，卫宫切嗣的养子。<br>![图](https://ehgt.org/e3/b5/e3b5b444d91bb6a95fb81a12141144c177e5d509-31404-280-479-jpg_l.jpg)![图](https://ehgt.org/29/c1/29c1406636f6788671a856151a8367f47fff0bd0-7169713-4086-5181-jpg_l.jpg) |  |
 | rin tosaka | 远坂凛 | ![](https://pic.cangku.moe/images/2025/11/22/42ecB.png)<br>所属作品：`fate stay night`<br>第五次圣杯战争中 Archer 的御主，间桐樱的亲姐姐。 |  |
 | kirei kotomine | 言峰绮礼 | 第四次圣杯战争中 Assassin、Archer 的御主，第五次圣杯战争中 Lancer 的御主，远坂凛和间桐樱的杀父仇人，第五次圣杯战争的幕后黑手。<br>偷税<br>![图](https://ehgt.org/16/92/1692045b9d35553ca38b81f595edef1e8076f307-20413-280-479-jpg_l.jpg) |  |
-| sakura matou | 间桐樱 | ![](https://pic.cangku.moe/images/2025/11/22/42CeI.png)<br>所属作品：`fate stay night`<br>第五次圣杯战争中 Rider 真正的御主，远坂凛的亲妹妹。 |  |
+| sakura matou | 间桐樱 | ![](https://pic.cangku.moe/images/2025/11/22/42CeI.png)<br>所属作品：`fate stay night` |  |
 | shinji matou | 间桐慎二 | 第五次圣杯战争中 Rider 的表面御主，间桐樱的养兄。<br>![图](https://ehgt.org/fa/e4/fae41d54734ed77967c8987e880db06b9681534c-34704-280-479-jpg_l.jpg) |  |
 | illyasviel von einzbern | 伊莉雅丝菲尔·冯·爱因兹贝伦 | ![](https://pic.cangku.moe/images/2025/11/22/42rjs.png)<br>![](https://pic.cangku.moe/images/2025/11/22/42sI1.png)<br>所属作品：`fate kaleid liner prisma illya`，`fate stay night` | [萌娘百科](https://zh.moegirl.org.cn/伊莉雅丝菲尔·冯·爱因兹贝伦) |
 |  | TYPE-MOON > Fate > Stay Night（第五次圣杯战争）> 其他人物 |  |  |
