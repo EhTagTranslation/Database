@@ -10329,6 +10329,7 @@ example:
 | shiori shinomiya | 四之宫栞 | ![](https://lain.bgm.tv/r/400/pic/crt/l/c5/66/49027_crt_b7C48.jpg?r=1492180618)<br>日语：四ノ宮しおり<br>出自作品:`sakura quest` |  |
 | yoshino koharu | 木春由乃 | ![](https://lain.bgm.tv/r/400/pic/crt/l/84/38/49026_crt_6P176.jpg?r=1491438574)<br>出自作品:`sakura quest` |  |
 | magane chikujouin | 筑城院真鉴 | ![](https://static.wikia.nocookie.net/recreators/images/7/7b/Character_c07_img_01.png)<br>出自作品:`re creators` |  |
+| hikayu hoshikawa | 星河绯可由 | ![](https://lain.bgm.tv/r/400/pic/crt/l/24/dc/55974_crt_ILuJ7.jpg?r=1500147095)<br>日语：星河ひかゆ<br>出自作品:`re creators` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
