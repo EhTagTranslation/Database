@@ -10333,6 +10333,7 @@ example:
 | piper wright | 派普·莱特 | 出自作品:`fallout`4 |  |
 | kaela kovalskia | 卡埃拉·科瓦尔斯基娅 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/b/b9/Kaela_Kovalskia_New_Year_Costume.png)<br>日语：カエラ・コヴァルスキア<br>所属团体:`hololive` |  |
 | airani iofifteen | 艾拉妮・伊欧菲芙婷 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/8/83/Airani_Iofifteen_-_Full_Illustration_01.png)<br>日语：アイラニ・イオフィフティーン<br>所属社团:`hololive` |  |
+| kureiji ollie | 克蕾西·奥莉 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/e/e3/Kureiji_Ollie_3D_Model_2.png)<br>日语：クレイジー・オリー<br>所属社团:`hololive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
