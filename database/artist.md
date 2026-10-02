@@ -258,7 +258,7 @@ example:
 | shikei | しけー |  |  |
 | ruri | ルリ \| るり \| 瑠璃 | MAGNOLIA<br>StayBlue<br>VOLLMOND |  |
 | kohata tsunechika | 小旗つねちか |  |  |
-| carn | 夏庵 |  |  |
+| carn | 夏庵 |  | [pixiv](https://www.pixiv.net/users/253088) \| [X](https://x.com/natuiori) \| [个人网页](https://magonotei.sakura.ne.jp/) |
 | okada kou | 岡田コウ |  |  |
 | neko pantsu | ねこパンツ |  |  |
 | suzunone rena | 铃音丽奈 | 鈴音れな | [X](https://x.com/suzunonerena) [pixiv](https://www.pixiv.net/users/748444) |
