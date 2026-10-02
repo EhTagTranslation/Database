@@ -9795,7 +9795,7 @@ example:
 | elena skalnikore | 艾莲娜·斯卡尼古尔 | ![](https://static.wikia.nocookie.net/handoreddo/images/f/fe/Hundred_Elena.jpg)<br>所属作品：`hundred`<br>日语：エレナ・スカルニコレ |  |
 | kobo kanaeru | 可波·卡娜埃露 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/4/43/Kobo_Kanaeru_3D_Model.png)<br>日语：こぼ・かなえる<br>所属社团：`hololive` |  |
 | irys | IRyS | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/5/5b/IRyS_2022_Portrait.png)<br>所属社团：`hololive`<br>日语：アイリス |  |
-| pavolia reine | 帕沃莉亚·蕾内 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/2/25/Pavolia_Reine_3D_Model.png)<br>所属社团:`hololive`<br>日语：パヴォリア・レイネ |  |
+| pavolia reine | 帕沃莉亚·蕾内 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/2/25/Pavolia_Reine_3D_Model.png)<br>日语：パヴォリア・レイネ<br>所属社团:`hololive` |  |
 | haanja | 哈安贾 | 所属作品：`sinisistar` |  |
 | yuu amami | 天海夕 | ![](https://static.wikia.nocookie.net/class-de-2banmeni-kawaii-onnanoko-to-tomodachi/images/9/98/Yuu_Amami_Anime.png)<br>出自作品：`p:class de 2-banme ni kawaii onnanoko to tomodachi ni natta`<br><br>天海夕（日语：あまみゆう）是轻小说《和班上第二可爱的女孩子成为朋友》中的核心人物，被设定为班级公认的第一美少女。 | [百度百科](https://baike.baidu.com/item/天海夕/62195006) \| [Fandom](https://kuranika.fandom.com/wiki/Yuu_Amami) |
 | yaniko satou | 佐藤雅妮子 | ![](https://yanineko-anime.com/wp/wp-content/themes/yanineko-theme/images/chara-pic01.webp)<br>所属作品:`yanineko`<br>尼古喵喵，嗜烟如命 |  |
