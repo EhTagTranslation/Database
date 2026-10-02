@@ -4647,7 +4647,7 @@ example:
 | fairy key | フェアリーキー |  |  |
 | fairy pink | FAIRY PINK |  |  |
 | fairy tale house | Fairy Tale House |  |  |
-| fake an | FAKE庵 |  |  |
+| fake an | FAKE庵 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72877/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG12758.html) |
 | fake69rose | fake69rose |  |  |
 | fakepucco | 偽製pucco |  |  |
 | faker | Faker |  |  |
