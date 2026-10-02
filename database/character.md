@@ -10331,6 +10331,7 @@ example:
 | magane chikujouin | 筑城院真鉴 | ![](https://static.wikia.nocookie.net/recreators/images/7/7b/Character_c07_img_01.png)<br>出自作品:`re creators` |  |
 | hikayu hoshikawa | 星河绯可由 | ![](https://lain.bgm.tv/r/400/pic/crt/l/24/dc/55974_crt_ILuJ7.jpg?r=1500147095)<br>日语：星河ひかゆ<br>出自作品:`re creators` |  |
 | piper wright | 派普·莱特 | 出自作品:`fallout`4 |  |
+| kaela kovalskia | 卡埃拉·科瓦尔斯基娅 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/b/b9/Kaela_Kovalskia_New_Year_Costume.png)<br>日语：カエラ・コヴァルスキア<br>所属团体:`hololive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
