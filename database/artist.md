@@ -1632,7 +1632,7 @@ example:
 | chig | Chig |  |  |
 | tsumugie | つむじぃ |  |  |
 | maimu-maimu | 舞六まいむ |  |  |
-| kotoyoshi yumisuke | 琴义弓介 |  |  |
+| kotoyoshi yumisuke | 琴义弓介 | 琴義弓介 | [pixiv](https://www.pixiv.net/users/34647767) \| [X](https://x.com/kotoyoshi_y) \| [FANBOX](https://kotoyoshi.fanbox.cc/) |
 | mctek | MCtek |  |  |
 | hidaka sora | 日高空 |  |  |
 | mamabe mami | 眞々部まみ |  |  |
