@@ -3967,7 +3967,7 @@ example:
 | cottage | cottage |  |  |
 | cotton candy | Cotton Candy | こっとんきゃんでぃ | [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=44988) |
 | cotton color | コットンカラー |  |  |
-| cotton house | こっとん堂 |  |  |
+| cotton house | こっとん堂 |  | [Ci-en](https://ci-en.dlsite.com/creator/6294) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG09867.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=25052/) |
 | cotton pop | Cotton Pop |  |  |
 | cottontail | cottontail | `a:nanohana kohina`的同人社团 |  |
 | countack | カウンタック |  |  |
