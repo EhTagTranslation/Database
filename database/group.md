@@ -368,7 +368,7 @@ example:
 | manjudou | 曼珠堂 |  |  |
 | asshuku koubou | 压缩工房 |  |  |
 | moreriikusu | モレリークス |  |  |
-| magono-tei | まごの亭 |  |  |
+| magono-tei | まごの亭 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG42944.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77469/) |
 | pumpernickel | PUMPERNICKEL |  |  |
 | rosetta stone | ろぜったすとーん |  |  |
 | pigafetta | ぴがふぇった |  |  |
