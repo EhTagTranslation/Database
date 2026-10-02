@@ -4626,7 +4626,7 @@ example:
 | chiba dirou | ちば・ぢろう |  |  |
 | chiba shinji | 千葉進司 |  |  |
 | chiba shuusaku | 千葉秀作 |  |  |
-| chiba tetsutarou | 千葉哲太郎 |  |  |
+| chiba tetsutarou | 千葉哲太郎 | ミー助 | [X](https://x.com/wEtZPAvxDI31440) \| [Fantia](https://fantia.jp/fanclubs/13311) \| [FANBOX](https://kerokero2104.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/644131) |
 | chibibibi | ちびびび |  |  |
 | chibineco master | ちびねこマスター |  |  |
 | chibinon | チビのん☆ |  |  |
