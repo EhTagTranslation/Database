@@ -7871,7 +7871,7 @@ example:
 | ai mochizuki | 望月爱 | ![](https://anibase.net/files/f6dd4e2ae14d0ecffcb60d9d7da73b9d)<br>所属作品:`kakkou no iinazuke` |  |
 | wisteria | 藤原雪乃 | ![](https://moegirl.uk/images/7/74/23036688_p0.jpg)<br>所属作品:`yu-gi-oh tag force` | [https://moegirl.uk/藤原雪乃](https://moegirl.uk/藤原雪乃) |
 | kureha clyret | 克蕾赫·葛莱列特 | ![](https://static.wikitide.net/kaiyaripediawiki/thumb/a/a3/Kureha_Full_Anime.png/600px-Kureha_Full_Anime.png)<br>所属作品：`kaifuku jutsushi no yarinaoshi` | [萌娘百科](https://zh.moegirl.org.cn/克蕾赫·葛莱列特) |
-| norn clatalissa jioral | 诺伦·克菈塔莉莎·吉欧拉尔 | ![](https://ehgt.org/w/01/959/79078-oc6ik734.webp)<br>所属作品：`kaifuku jutsushi no yarinaoshi`<br>吉欧拉尔王国第二公主。 | [萌娘百科](https://zh.moegirl.org.cn/诺伦·克菈塔莉莎·吉欧拉尔) |
+| norn clatalissa jioral | 诺伦·克菈塔莉莎·吉欧拉尔 | ![](https://static.wikitide.net/kaiyaripediawiki/thumb/e/e5/Norn_Full_Anime.png/599px-Norn_Full_Anime.png)<br>所属作品：`kaifuku jutsushi no yarinaoshi` | [萌娘百科](https://zh.moegirl.org.cn/诺伦·克菈塔莉莎·吉欧拉尔) |
 | setsuna | 刹那 | ![](https://static.wikitide.net/kaiyaripediawiki/thumb/0/09/Setsuna_Full_Anime.png/600px-Setsuna_Full_Anime.png)<br>所属作品：`kaifuku jutsushi no yarinaoshi` | [萌娘百科](https://zh.moegirl.org.cn/刹那%28回复术士的重启人生%29#) |
 | keyaru | 凯亚尔 | 所属作品：`kaifuku jutsushi no yarinaoshi`<br>【愈】之勇者。阶级是回复术士。外号“棍勇”。 | [萌娘百科](https://zh.moegirl.org.cn/凯亚尔) |
 | hakuhou | 白凤（䳆） | ![](https://patchwiki.biligame.com/images/blhx/thumb/f/fa/c0s2i5tjxdrc2q2hl44yfulhwyrzhlr.jpg/525px-白凤立绘.jpg)<br>![](https://patchwiki.biligame.com/images/blhx/thumb/6/63/1bu19x817t5a916ykxeoxrjlxk80quw.jpg/525px-白凤换装.jpg)<br>所属作品：`azur lane`<br>原型为G-14型航空母舰。 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/白凤) |
