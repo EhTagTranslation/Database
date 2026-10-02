@@ -14,19 +14,16 @@ copyright: >
   3.0 协议）进行二次分发。
 rules:
   - 优先使用官方译名，无官方译名时可以使用公认的中文名称，本命名空间**暂不接受日文名称**。
-  - >-
-    推荐使用[萌娘百科](https://zh.moegirl.org.cn/)，或百度百科、[Fandom](https://www.fandom.com/)，维基百科查找译名。
+  - 推荐使用[萌娘百科](https://zh.moegirl.org.cn/)，或百度百科、[Fandom](https://www.fandom.com/)，维基百科查找译名。
   - 添加图片请使用图床，优先使用官方的角色形象及广泛使用的二创形象，不要使用含有色情或暴力等违法内容的图片。
-  - >-
-    因萌娘百科服务器压力过大，建议使用[Fandom](https://www.fandom.com/)的图片链接，也可以使用私人上传的图床如[流浪图床](https://p.sda1.dev/)。
+  - 因萌娘百科服务器压力过大，建议使用[Fandom](https://www.fandom.com/)的图片链接，也可以使用私人上传的图床如[流浪图床](https://p.sda1.dev/)。
   - 介绍角色日语名时，请不要将日语、片假名与罗马音混合，这会导致无法有效检索。
   - 介绍角色时请**不要添加剧透**，以及大篇幅的文本，这会降低关联检索效率。
 example:
   raw: ruri gokou
   name: 五更琉璃（黑猫）
-  intro: >
+  intro: |
     ![黑猫](https://ehgt.org/1b/04/1b04021da892517c44f0729afb44168bd32c1c90-1985827-2521-3600-jpg_l.jpg)
-
     网名黑猫。SNS社群“宅女集合”的成员之一，桐乃在线下会认识的宅友。
   links: >
     [萌娘百科](https://zh.moegirl.org.cn/zh-hans/五更琉璃)
@@ -10328,6 +10325,7 @@ example:
 | meteora osterreich | 梅特欧菈·艾斯塔莱希 | ![](https://lain.bgm.tv/r/400/pic/crt/l/98/c7/51250_crt_94R88.jpg?r=1491130825)<br>日语：メテオラ・エスターライヒ<br>出自作品:`re creators` |  |
 | selesia upitiria | 瑟蕾吉娅·尤匹提莉亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/7e/25/51249_crt_26nVV.jpg?r=1491130482)<br>日语：セレジア・ユピティリア<br>出自作品:`re creators` |  |
 | mamika kirameki | 煌树茉美香 | ![](https://lain.bgm.tv/r/400/pic/crt/l/75/0a/51252_crt_3puaq.jpg?r=1491131564)<br>日语：煌樹まみか<br>出自作品:`re creators` |  |
+| aki kikuchihara | 菊地原亚希 | ![](https://static.wikia.nocookie.net/recreators/images/8/88/Character_c13_img_01.png)<br>出自作品:`re creators` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
