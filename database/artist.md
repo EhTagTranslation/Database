@@ -13,8 +13,7 @@ copyright: >
 rules:
   - 有官方或公认的中文名称时**优先写中文名**，否则写日文名。
   - 日文名中有汉字者优先写含汉字的名称。
-  - >-
-    可以依据[规则](https://zh.wikipedia.org/wiki/Wikipedia:汉字文化圈语言专有名词中译规则#日本语专有名词的中译)将日文名转写为中文名，但**不要混合中文汉字与假名**。
+  - 可以依据[规则](https://zh.wikipedia.org/wiki/Wikipedia:汉字文化圈语言专有名词中译规则#日本语专有名词的中译)将日文名转写为中文名，但**不要混合中文汉字与假名**。
   - 描述图片可用作者的 pixiv 头像，或者为你自己喜爱的画师做一张图片。为排版好看，头像高度建议 200px 以内，当然头像里明显 H 的就不要放了。
   - 为提高图片可用性，以及减轻萌娘百科服务器压力，引用来自萌娘百科的图片时请使用图床，如[流浪图床](https://p.sda1.dev/)。
 example:
@@ -94,7 +93,7 @@ example:
 | mibu natsuki | みぶなつき |  |  |
 | ogata zen | 尾形全 |  | [X](https://x.com/4saibooksOGATA) [pixiv](https://www.pixiv.net/users/83095) |
 | himura kiseki | 比村奇石 | 比村乳业<br>![图](# "https://ehgt.org/3e/5b/3e5b96dd2f364ba9cc06d2e16769b25f10e66362-1755259-1020-1530-jpg_l.jpg")![图](# "https://ehgt.org/32/90/32903c2f738252dcfc74b875572d893a2e3693f0-2947291-2133-3033-jpg_l.jpg")![图](# "https://ehgt.org/0a/0a/0a0a41cb451363706eec08155323917811d940fb-886627-2116-3042-jpg_l.jpg") | [X](https://x.com/strangestone) [中文维基](https://zh.wikipedia.org/wiki/比村奇石) |
-| cle masahiro | 吴マサヒロ | ![作者头像](https://i.loli.net/2020/04/13/hgc56oYIyKwR47B.png) | [X](https://x.com/cle_masahiro) [pixiv](https://www.pixiv.net/users/18158) |
+| cle masahiro | 呉マサヒロ | ![作者头像](https://i.loli.net/2020/04/13/hgc56oYIyKwR47B.png) | [X](https://x.com/cle_masahiro) [pixiv](https://www.pixiv.net/users/18158) |
 | nakajima yuka | なかじまゆか |  | [X](https://x.com/yuka_nakajima) [pixiv](https://www.pixiv.net/users/3881) |
 | fujima takuya | 藤真拓哉 |  | [X](https://x.com/fujimatakuya) [pixiv](https://www.pixiv.net/users/22526) [个人网站](http://www.fujimatakuya.com) [中文维基](https://zh.wikipedia.org/wiki/藤真拓哉) |
 | hisasi | Hisasi |  | [X](https://x.com/nekomanHisasi) [pixiv](https://www.pixiv.net/users/119045) [个人网站](http://nekoman9.x.fc2.com/top.html) [中文维基](https://zh.wikipedia.org/wiki/Hisasi) |
