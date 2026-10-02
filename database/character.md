@@ -7227,7 +7227,7 @@ example:
 | fumi | 文美 | 所属社团：彩虹社<br>日文名：フミ |  |
 | elira pendora | Elira Pendora | ![](https://img.moegirl.org.cn/common/1/1e/Elira_Pendora.png)<br>所属社团：彩虹社 |  |
 | machita chima | 町田千麻 | ![](https://img.moegirl.org.cn/common/7/75/Machitachima_Full.jpg)<br>所属社团：彩虹社 |  |
-| ayunda risu | 阿芸达·栗丝 | ![](https://img.moegirl.org.cn/common/6/6e/Ayunda_Risu立绘.jpg)<br>所属社团：hololive |  |
+| ayunda risu | 阿芸达·栗丝 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/8/8d/Ayunda_Risu_3D_Model_2.png)<br>日语：アユンダ・リス<br>所属社团：hololive |  |
 | mihato | 三羽户 |  |  |
 | chihiro fujimi | 藤见千寻 | 日本漫画《我的女神》及其衍生作品中的角色 |  |
 | kana | 花奈 | 所属作品：`bunny garden` |  |
