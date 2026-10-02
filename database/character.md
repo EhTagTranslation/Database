@@ -10326,6 +10326,7 @@ example:
 | selesia upitiria | 瑟蕾吉娅·尤匹提莉亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/7e/25/51249_crt_26nVV.jpg?r=1491130482)<br>日语：セレジア・ユピティリア<br>出自作品:`re creators` |  |
 | mamika kirameki | 煌树茉美香 | ![](https://lain.bgm.tv/r/400/pic/crt/l/75/0a/51252_crt_3puaq.jpg?r=1491131564)<br>日语：煌樹まみか<br>出自作品:`re creators` |  |
 | aki kikuchihara | 菊地原亚希 | ![](https://static.wikia.nocookie.net/recreators/images/8/88/Character_c13_img_01.png)<br>出自作品:`re creators` |  |
+| shiori shinomiya | 四之宫栞 | ![](https://lain.bgm.tv/r/400/pic/crt/l/c5/66/49027_crt_b7C48.jpg?r=1492180618)<br>日语：四ノ宮しおり<br>出自作品:`sakura quest` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
