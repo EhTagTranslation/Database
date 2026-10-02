@@ -1032,7 +1032,7 @@ example:
 |  | ▼ 传送门 角色 |  |  |
 | chell | 雪儿 | ![](https://ehgt.org/b6/f4/b6f4773175594298e196b80b9a67d418666dae41-392822-1920-1080-jpg_250.jpg) |  |
 |  | ▼ Re0 角色 |  |  |
-| emilia | 爱蜜莉雅 | ![](https://img.moegirl.org.cn/common/c/c6/57901396_p0.png)<br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>有着银色长直发和紫绀色眼瞳的美少女。露格尼卡王国第42代王位候选人，以罗兹瓦尔边境伯作为后盾参加王选。 | [萌娘百科](https://zh.moegirl.org.cn/爱蜜莉雅) |
+| emilia | 爱蜜莉雅 | ![](https://img.moegirl.org.cn/common/c/c6/57901396_p0.png)<br>所属作品：`re zero kara hajimeru isekai seikatsu` | [萌娘百科](https://zh.moegirl.org.cn/爱蜜莉雅) |
 | rem | 雷姆 | ![](https://img.moegirl.org.cn/common/1/18/Act_egao_rem.gif)<br>所属作品：`re zero kara hajimeru isekai seikatsu` | [萌娘百科](https://zh.moegirl.org.cn/雷姆%28Re:从零开始的异世界生活%29#) |
 |  | 拉姆 | ram 重复项 |  |
 | subaru natsuki | 菜月昴 | ![](https://static.wikia.nocookie.net/rezero/images/3/35/Natsuki_Subaru_LN_character_design.png)<br>所属作品：`re zero kara hajimeru isekai seikatsu` |  |
