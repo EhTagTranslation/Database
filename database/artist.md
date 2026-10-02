@@ -9001,7 +9001,7 @@ example:
 | okina naoki | 沖名なおき |  |  |
 | okino matsushiro | 沖の松城 |  |  |
 | okino ryuuto | 沖野琉人 |  |  |
-| okita ababa | 沖田あばば |  |  |
+| okita ababa | 沖田あばば |  | [X](https://x.com/okita_ababa) \| [pixiv](https://www.pixiv.net/users/1159100) \| [Pawoo](https://pawoo.net/@okitababa) |
 | okiura | okiura |  |  |
 | okiyo | おきよ |  |  |
 | okki | okki |  |  |
