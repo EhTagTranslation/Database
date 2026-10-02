@@ -4308,7 +4308,7 @@ example:
 | doku ringo | 毒リンゴ |  |  |
 | doku sasori | 毒蠍 |  |  |
 | doku69 | 毒69 |  |  |
-| dokudami | ドクダミ |  |  |
+| dokudami | ドクダミ |  | [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=111079) |
 | dokudenpa jushintei | 毒電波受信亭 |  |  |
 | dokudenpa kenkyuusho | 毒電波研究所 |  |  |
 | dokudenpa tsuushin | 毒電波通信 |  |  |
