@@ -10290,7 +10290,7 @@ example:
 | sorami | そらみ |  |  |
 | sorami sio | そらみしお |  |  |
 | sorane miki | 空音美樹 |  |  |
-| sorani | sorani |  |  |
+| sorani | sorani |  | [pixiv](https://www.pixiv.net/users/20446969) \| [Pawoo](https://pawoo.net/@nekotaaaaaan) \| [X](https://x.com/nekota93971) |
 | sorano kanata | 空乃カナタ |  |  |
 | sorano natsumi | ソラノ夏実 |  |  |
 | sorano umi | 空野海 |  |  |
