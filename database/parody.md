@@ -3027,6 +3027,7 @@ example:
 | the exit 8 | 8号出口 | ![](https://static.wikia.nocookie.net/exit-8/images/5/5e/Header.jpg) | [萌娘百科](https://zh.moegirl.org.cn/8号出口) |
 | kabushiki gaisha majirumie | 魔法光源股份有限公司 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9f/fd/467641_q40fo.jpg)<br>日语：株式会社マジルミエ |  |
 | the thing | 怪形 |  |  |
+| dont starve | 饥荒 | ![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/219740/7cf7e37c34760769f1021489a26dc3c59cee5c8f/header_schinese.jpg?t=1790876891) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
