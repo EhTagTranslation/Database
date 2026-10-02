@@ -7873,7 +7873,7 @@ example:
 | kureha clyret | 克蕾赫·葛莱列特 | ![](https://static.wikitide.net/kaiyaripediawiki/thumb/a/a3/Kureha_Full_Anime.png/600px-Kureha_Full_Anime.png)<br>所属作品：`kaifuku jutsushi no yarinaoshi` | [萌娘百科](https://zh.moegirl.org.cn/克蕾赫·葛莱列特) |
 | norn clatalissa jioral | 诺伦·克菈塔莉莎·吉欧拉尔 | ![](https://static.wikitide.net/kaiyaripediawiki/thumb/e/e5/Norn_Full_Anime.png/599px-Norn_Full_Anime.png)<br>所属作品：`kaifuku jutsushi no yarinaoshi` | [萌娘百科](https://zh.moegirl.org.cn/诺伦·克菈塔莉莎·吉欧拉尔) |
 | setsuna | 刹那 | ![](https://static.wikitide.net/kaiyaripediawiki/thumb/0/09/Setsuna_Full_Anime.png/600px-Setsuna_Full_Anime.png)<br>所属作品：`kaifuku jutsushi no yarinaoshi` | [萌娘百科](https://zh.moegirl.org.cn/刹那%28回复术士的重启人生%29#) |
-| keyaru | 凯亚尔 | 所属作品：`kaifuku jutsushi no yarinaoshi`<br>【愈】之勇者。阶级是回复术士。外号“棍勇”。 | [萌娘百科](https://zh.moegirl.org.cn/凯亚尔) |
+| keyaru | 凯亚尔 | ![](https://static.wikitide.net/kaiyaripediawiki/b/b1/Keyaru_Full_Anime.png)<br>外号“棍勇”<br>所属作品：`kaifuku jutsushi no yarinaoshi` | [萌娘百科](https://zh.moegirl.org.cn/凯亚尔) |
 | hakuhou | 白凤（䳆） | ![](https://patchwiki.biligame.com/images/blhx/thumb/f/fa/c0s2i5tjxdrc2q2hl44yfulhwyrzhlr.jpg/525px-白凤立绘.jpg)<br>![](https://patchwiki.biligame.com/images/blhx/thumb/6/63/1bu19x817t5a916ykxeoxrjlxk80quw.jpg/525px-白凤换装.jpg)<br>所属作品：`azur lane`<br>原型为G-14型航空母舰。 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/白凤) |
 | tomiya | 托米娅 | ![](https://picx.zhimg.com/80/v2-eae1aa52746c15c87c7aec1cea5e584c_720w.webp?source=1def8aca)<br>所属作品：`zenless zone zero`<br>仅在官方预告片中多次出现的 NPC 角色，治安局青年治安官。 | [绝区零 Fandom Wiki](https://zenless-zone-zero.fandom.com/wiki/Tomiya) |
 | ansha | 安馨儿 | ![](https://s1.52poke.com/wiki/thumb/8/8d/安馨儿_ZA.png/150px-安馨儿_ZA.png)<br>所属作品：`pokemon`<br>游戏《宝可梦传说 Z-A》的DLC《宝可梦传说 Z-A 超次元爆涌》中登场的虚拟角色，外文名为アンシャ（Ansha）。 |  |
