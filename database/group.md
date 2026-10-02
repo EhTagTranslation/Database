@@ -643,7 +643,7 @@ example:
 | ende der welt | Ende der Welt |  |  |
 | aeba no mori | 喘葉の森 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG18910.html) |
 | hakka ame | 薄荷饴 |  |  |
-| kinengusa | 禁烟草 |  |  |
+| kinengusa | 禁烟草 | 禁煙草 （きんえんぐさ） | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG06574.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26643/) |
 | shinkai kissa | 深海喫茶 |  |  |
 | megane shoujo | メガネ少女 |  |  |
 | extended part | 拡張パーツ |  |  |
