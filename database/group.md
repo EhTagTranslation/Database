@@ -6350,7 +6350,7 @@ example:
 | kaleido sky | Kaleido Sky |  |  |
 | kalmia | KALMIA |  |  |
 | kalmia8 | Kalmia8 |  |  |
-| kamaboko koujouchou. | わくわく養豚所。 | 与【かまぼこ工場長。】是同一人物，现主要以【わくわく養豚所。】的名义活动 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78588/) [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47517.html) |
+| kamaboko koujouchou. | かまぼこ工場長。 | 与【わくわく養豚所。】是同一人物，现主要以【わくわく養豚所。】的名义活动 |  |
 | kamaboko-doh | かまぼこ堂 |  |  |
 | kamabokodokoro | かまぼこ処 |  |  |
 | kamadeva | Kamadeva |  |  |
