@@ -11202,7 +11202,7 @@ example:
 | tekken dynamite | 鉄拳ダイナマイト |  |  |
 | tekken neko gourmet | 鉄拳ねこグルメ |  |  |
 | tekkou girls | 鉄甲ガールズ |  |  |
-| tekokids | てこきっず |  |  |
+| tekokids | テコキッズ |  |  |
 | telenet japan | 日本テレネット |  |  |
 | telluru | telluru |  |  |
 | telomerena | てろめあな |  |  |
