@@ -15787,6 +15787,7 @@ example:
 | pyonchi | ぴょんち |  |  |
 | kamoruto | かもると |  |  |
 | kinokoningen | キノコにんげん |  |  |
+| morocco | モロッコ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
