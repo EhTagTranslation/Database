@@ -15786,6 +15786,7 @@ example:
 | aura seiji | あうら聖児 |  |  |
 | pyonchi | ぴょんち |  |  |
 | kamoruto | かもると |  |  |
+| kinokoningen | キノコにんげん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
