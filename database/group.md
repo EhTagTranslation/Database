@@ -8320,7 +8320,7 @@ example:
 | nanashi shounen | ナナシ少年 |  |  |
 | nanashiki | 七式 |  |  |
 | nanaten manten | 七点万点 |  |  |
-| nanatsu no kagiana | 七つの鍵穴 |  |  |
+| nanatsu no kagiana | 七つの鍵穴 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26469/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG09824.html) |
 | nanatsuboshi | 七つ星 |  |  |
 | nanatsugumi | ななつ組 |  |  |
 | nanatsuhane | ナナツハネ |  |  |
