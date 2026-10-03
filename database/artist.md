@@ -15790,6 +15790,7 @@ example:
 | morocco | モロッコ |  |  |
 | sarumaru | さるまる |  |  |
 | teol | ておる |  |  |
+| yongoki | 四号機 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
