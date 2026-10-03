@@ -2362,7 +2362,7 @@ example:
 | kumakiti | 隈吉 |  | [pixiv](https://www.pixiv.net/users/286977) \| [X](https://x.com/kumakiti889) \| [Pawoo](https://pawoo.net/@cost_lost) \| [Skeb](https://skeb.jp/@kumakiti889) \| [FANBOX](https://kuma8tisuki.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/193924) |
 | umakuchi syouyu | 甘口酱油 | ![X](https://pbs.twimg.com/profile_images/1416959332244025347/8r5hCo2b_400x400.jpg)<br><br>**作者推特头像**<br><br>同人社团`amakuchi syoujo`主笔画师。 | [X](https://x.com/umakuchu) [pixiv](https://www.pixiv.net/users/809099) |
 | tokie hirohito | 刻江寻人 | 日语: 刻江尋人 | [FANBOX](https://euo9tsm5.fanbox.cc/)  \| [X](https://x.com/tokiehirohito) \| [pixiv](https://www.pixiv.net/users/7572119) |
-| yuzuki n dash | 柚木N’ |  | [X](https://x.com/yuzukin_) [pixiv](https://www.pixiv.net/users/691882) |
+| yuzuki n dash | 柚木N' |  | [X](https://x.com/yuzukin_) [pixiv](https://www.pixiv.net/users/691882) |
 | itou nanami | 井藤ななみ |  | [pixiv](https://www.pixiv.net/users/7466) \| [Linktree](https://linktr.ee/nanaleia) \| [X](https://x.com/nanaleia) \| [Skeb](https://skeb.jp/@nanaleia) |
 | porutan | ぽるたん |  |  |
 | kaitenfude | 回转笔 |  |  |
