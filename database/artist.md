@@ -15791,6 +15791,7 @@ example:
 | sarumaru | さるまる |  |  |
 | teol | ておる |  |  |
 | yongoki | 四号機 |  |  |
+| mishima psycho | ミシマサイコ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
