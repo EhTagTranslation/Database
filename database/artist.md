@@ -15788,6 +15788,7 @@ example:
 | kamoruto | かもると |  |  |
 | kinokoningen | キノコにんげん |  |  |
 | morocco | モロッコ |  |  |
+| sarumaru | さるまる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
