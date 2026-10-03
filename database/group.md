@@ -9954,7 +9954,7 @@ example:
 | sakasadorirakka | 逆さ鳥落下 |  |  |
 | sakasama clover | さかさまクローバー |  |  |
 | sakazuki-tei | さかずき亭 |  |  |
-| sakeitiba | サケ市場 |  |  |
+| sakeitiba | サケイチバ |  |  |
 | sake no sanran | 鮭の産卵 |  |  |
 | sakekan memorial | 鮭缶メモリアル |  |  |
 | saketanuki no kakushigura | 酒たぬきの隠し蔵 |  |  |
