@@ -14288,7 +14288,7 @@ example:
 | onanism | オナニズム |  |  |
 | espoir no okashi | エスポワールのおかし |  |  |
 | arujima | アルジマ |  |  |
-| wakuwaku yotonjo. | わくわく養豚所。 |  |  |
+| wakuwaku yotonjo. | わくわく養豚所。 | 与【かまぼこ工場長。】是同一人物，现主要以【わくわく養豚所。】的名义活动 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78588/) [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47517.html) |
 | lip | りっぷ |  |  |
 | okeyu tei | おけゆ亭 |  |  |
 | doubles core | だぶるす\*こあ |  |  |
