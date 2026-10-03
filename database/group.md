@@ -9357,7 +9357,7 @@ example:
 | pomato-ya | ぽまと屋 |  |  |
 | pomegranate | ぽめぐら |  |  |
 | pomelanian | Pomelanian |  |  |
-| pometeor | ぽメテオ |  |  |
+| pometeor | ポメテオ | 过去曾在CM等展会上用过【ぽメテオ】作为社团名称，现在网络平台主要使用ポメテオ | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204228/) [DLsite](https://www.dlsite.com/bl/circle/profile/=/maker_id/RG59644.html) |
 | pon de ushi | ポン・デ・ウシ |  |  |
 | poncho mojah | PONCHO MOJAH |  |  |
 | pondemix | PONDEMIX |  |  |
