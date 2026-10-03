@@ -3026,7 +3026,7 @@ example:
 | ashuraya | 阿修羅屋 |  |  |
 | asianboy | ASIANBOY |  |  |
 | asiangirl | ASIANGIRL |  |  |
-| ask | ASK |  |  |
+| ask | ASK， |  |  |
 | askot | askot |  |  |
 | asma | ASMA |  |  |
 | asmodeus seiyaku | アスモデウス製薬 |  |  |
