@@ -4059,7 +4059,7 @@ example:
 | cyc no-nos | サイクノノス |  |  |
 | cyclet | CYCLET |  |  |
 | cyclo- | Cyclo- |  |  |
-| cyclone | ![](https://thumbsnap.com/i/eJMpKpCS.jpg) サイクロン |  | [Lit.Link](https://lit.link/en/cyclone10) \| [X](https://x.com/cyclone_reizei) |
+| cyclone | ![](https://thumbsnap.com/i/eJMpKpCS.jpg) サイクロン \| さいくろん | サイクロン和さいくろん重名<br>区别在于一个是平假名一个是片假名 | サイクロン：[Lit.Link](https://lit.link/en/cyclone10) \| [X](https://x.com/cyclone_reizei) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73178/)<br>さいくろん：[FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76066/) |
 | cyduster | CYDUSTER |  |  |
 | cykranosh | さいくらの〜しゅ |  |  |
 | cynthia | Cynthia |  |  |
