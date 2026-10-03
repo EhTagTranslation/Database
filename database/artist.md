@@ -6920,7 +6920,7 @@ example:
 | kisara ai | きさら藍 |  |  |
 | kisara shi- | キサラしぃ |  |  |
 | kisaradu | 木更津 |  |  |
-| kisaragi | 如月 |  | [pixiv](https://www.pixiv.net/users/9176804) \| [X](https://x.com/kisaragi_21316) \| [Skeb](https://skeb.jp/@kisaragi_21316) |
+| kisaragi | キサラギツルギ \| 如月 | 重名<br>一位是キサラギツルギ，没有特定的社团。通常为别的社团供稿。<br>一位是主要以+チックハート活动的如月 | [pixiv](https://www.pixiv.net/users/9176804) \| [X](https://x.com/kisaragi_21316) \| [Skeb](https://skeb.jp/@kisaragi_21316) |
 | kisaragi kanata | 如月かなた |  |  |
 | kisaragi mizu | 如月水 |  |  |
 | kisaragi mizuka | 如月瑞香 |  |  |
