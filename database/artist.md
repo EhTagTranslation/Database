@@ -12729,7 +12729,7 @@ example:
 | toxic ramen | 劇毒拉麵 | R18G像素画师 | [pixiv](https://www.pixiv.net/users/19013729) |
 | kudaraji hatsuka | 百济儿廿日 |  |  |
 | rim | りむ |  | [pixiv](https://www.pixiv.net/users/64720483) |
-| hinahara hajime | 雛原肇 |  |  |
+| hinahara hajime | 雛原ハジメ | FANZA、DLsite、fanbox均是雛原ハジメ，雛原肇不知道哪里来的，但姑且保留 | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22雛原ハジメ%22/ana_flg/all) [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=11293b26-64d4-11f0-ba33-0242ac160002/section=mens/) [FANBOX](https://hinahara.fanbox.cc/) |
 | crazy dad | CrazyDad3D |  |  |
 | pig king | PigKing |  |  |
 | nia | にあ |  | [pixiv](https://www.pixiv.net/users/909090) |
