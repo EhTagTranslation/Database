@@ -2711,7 +2711,7 @@ example:
 | marumie | まるミエ |  |  |
 | hiyashi mirano | ひやしみらの |  | [pixiv](https://www.pixiv.net/users/4717098) [X](https://x.com/hiyashi_yaki) |
 | kageyama kuroto | 景山玄都 |  |  |
-| netarou | ねたろう |  | [pixiv](https://www.pixiv.net/users/305613) |
+| netarou | ねたろぅ |  | [pixiv](https://www.pixiv.net/users/3840755) |
 | itou eight | 伊藤エイト |  |  |
 | sajipen | さじぺん |  | [X](https://x.com/sajipen) [pixiv](https://www.pixiv.net/users/24954002) |
 | dam | だむ |  |  |
