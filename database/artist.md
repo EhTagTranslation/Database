@@ -15789,6 +15789,7 @@ example:
 | kinokoningen | キノコにんげん |  |  |
 | morocco | モロッコ |  |  |
 | sarumaru | さるまる |  |  |
+| teol | ておる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
