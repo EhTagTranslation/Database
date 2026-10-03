@@ -5659,7 +5659,7 @@ example:
 | hayami rokusichi | 速水ろくしち |  |  |
 | hayami sakura | 速水桜 |  |  |
 | hayasaka mebawe | はやさかめばゑ |  |  |
-| hayashi | はやし |  |  |
+| hayashi | ハヤシ \| はやし | 重名<br>以サービスヘブン活动的ハヤシ<br>以はやしプラモ店活动的はやし | ハヤシ：[DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ハヤシ%22/ana_flg/all) |
 | hayashi custom | はやしけ |  |  |
 | hayashi mario | 林マリオ |  |  |
 | hayashi tsukasa | はやしつかさ |  |  |
