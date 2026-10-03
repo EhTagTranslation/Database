@@ -13051,7 +13051,7 @@ example:
 | rokuchounome | 六丁の目/六丁目 |  |  |
 | arisugawa no miya | 有栖川ノ宮 |  |  |
 | lillian | Lilian |  |  |
-| hachinosu | 蜂巣 |  |  |
+| hachinosu | hachinosu | 请勿与`g:fonchau` \| Beeeee Nest 混淆，对应艺术家`apoidea`<br>词标签对应社团：[DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG29338.html) |  |
 | peassoft | PeasSoft |  |  |
 | apocalypse nibitashi | アポカリプス煮浸し |  |  |
 | hitsuji no koshoten | 羊の古書店 |  |  |
