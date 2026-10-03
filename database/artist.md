@@ -11167,7 +11167,7 @@ example:
 | u-ta | u-ta |  |  |
 | u35 | U35 |  |  |
 | ubanis | うばにす |  |  |
-| uchi-uchi keyaki | 内々欅 |  |  |
+| uchi-uchi keyaki | 内々けやき | 各平台ID主要是【内々けやき】，少数出版社会把作者名写为【内々欅】 | [X](https://x.com/keyaki0202) [pixiv](https://www.pixiv.net/users/557089) [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=e9e32da1-64d3-11f0-ba33-0242ac160002/section=mens/) |
 | uchida shou | 内田翔 |  |  |
 | uchiga | ウチガ |  |  |
 | uchikura | 内座 |  |  |
