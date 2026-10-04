@@ -189,6 +189,7 @@ example:
 | etsu ko | 纸悦Etsu\_ko |  | [X](https://x.com/Etsuko827) |
 | upminaa | Upminaa |  |  |
 | titi cosplay | 钛合金TiTi |  |  |
+| reng | 冷 | > 一到冬天就不得不说我取的这个名字的由来了，其实是我很怕冷，体质很差比身边大部分人都怕冷，所以就叫冷了，很草率的一个取名，， | [X](https://x.com/idtNothinglose) |
 
 <!--
 Template: 
