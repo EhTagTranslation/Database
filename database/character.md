@@ -10339,6 +10339,7 @@ example:
 | anti-mage | 敌法师 | 出自作品:`defense of the ancients` |  |
 | carrot | 加洛特 | 出自作品:`one piece` |  |
 | pekoms | 波克慕斯 | 出自作品:`one piece` |  |
+| kumizoko | Kumizoko |  | [YouTube](https://www.youtube.com/@kumizoko) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
