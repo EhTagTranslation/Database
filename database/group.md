@@ -14363,6 +14363,7 @@ example:
 | pyonchi koubou | ぴょんち工房 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77938/) \| [Ci-en](https://ci-en.dlsite.com/creator/14719) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54724.html) \| [pixiv](https://www.pixiv.net/users/663392) \| [FANBOX](https://shouiti.fanbox.cc/) |
 | pink doragon | PINK☆DORAGON |  |  |
 | asunaro-shiki bakudan | あすなろ式爆弾 |  |  |
+| sylbee no hako | しるびーの箱 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
