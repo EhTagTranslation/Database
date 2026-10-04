@@ -10352,6 +10352,7 @@ example:
 | oshiro mashiro | 大代真白 | ![](https://hololist.net/wp-content/uploads/2022/09/oshiro-mashiro-portrait-66-1.jpg)<br>所属企划：青桐高中 | [YouTube](https://www.youtube.com/channel/UCFG6teapZaN6J1oVXl7MYPA) |
 | kurumi fukuga | 福贺久留美 | ![](https://lain.bgm.tv/r/400/pic/crt/l/0a/84/136036_crt_RRQRj.jpg)<br>日语：福賀くるみ<br>外号：韭留美 |  |
 | charlotte lace | 夏洛特·莱斯 | ![](https://static.wikia.nocookie.net/reincarnated-as-an-aristocrat-with-appraisal-skill/images/5/53/Charlotte_Wraith_Visual.png)<br>日语：シャーロット・レイス<br>出自作品:`tensei kizoku kantei skill de nariagaru` |  |
+| leanan sidhe | 莲南·希 | ![](https://static.wikia.nocookie.net/mahou-tsukai-no-yome/images/f/f5/Redcurrant_Profile.png)<br>日语：リャナン・シー/レッドカラント<br>出自作品:`mahoutsukai no yome` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
