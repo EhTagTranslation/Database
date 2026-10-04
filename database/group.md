@@ -7778,7 +7778,7 @@ example:
 | milk-size | みるく-SIZE |  |  |
 | milkholic | milkholic |  |  |
 | milkpop | MILKPOP |  |  |
-| milkshake work | 奶昔工坊 |  |  |
+| milkshake work | 奶昔工坊 | 日语：ミルクセーキ工房 |  |
 | milktub | milktub |  |  |
 | milky high tension | ミルキーハイテンション♂ |  |  |
 | milky paint | Milky Paint |  |  |
