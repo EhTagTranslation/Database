@@ -14369,6 +14369,7 @@ example:
 | gyuuhi ga umasugiru | 求肥がうますぎる |  |  |
 | sinokuma syoutengai | しのクマ商店街 |  |  |
 | unisonshift blossom | ユニゾンシフト：ブロッサム |  |  |
+| bonbee | ボンビー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
