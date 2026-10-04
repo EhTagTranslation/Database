@@ -5811,7 +5811,7 @@ example:
 | horonaminz | ホロナミンZ |  |  |
 | horumon curry | ほるもんカレー |  |  |
 | hoshizora kagekidan | 星空華劇団 |  |  |
-| hoshi ni kaeru | 星に归る! |  |  |
+| hoshi ni kaeru | 星に帰る! |  |  |
 | hoshi no kuzu | 星の屑 |  |  |
 | hoshi no yume | 星の夢 |  |  |
 | hoshiame | 星飴 |  |  |
