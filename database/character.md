@@ -10341,6 +10341,7 @@ example:
 | pekoms | 波克慕斯 | 出自作品:`one piece` |  |
 | kumizoko | Kumizoko |  | [YouTube](https://www.youtube.com/@kumizoko) |
 | elle algaf | 艾尔·阿尔加芙 | ![](https://static.wikitide.net/projectsekaiwiki/thumb/f/fb/Elle_Algaf.png/630px-Elle_Algaf.png)<br>出自作品:`project sekai` |  |
+| buro | 布若 | ![](https://static.wikia.nocookie.net/musedash_gamepedia_en/images/8/85/Char_2_robot_main.gif)<br>出自作品:`muse dash` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
