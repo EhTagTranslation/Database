@@ -3030,6 +3030,7 @@ example:
 | dont starve | 饥荒 | ![](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/219740/7cf7e37c34760769f1021489a26dc3c59cee5c8f/header_schinese.jpg?t=1790876891) |  |
 | otaku ni yasashii gal wa inai | 哪里有温柔对待阿宅的辣妹！? | ![](https://bkimg.cdn.bcebos.com/pic/faedab64034f78f0f73644838b6d1d55b319ebc4b634?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536)<br>《哪里有温柔对待阿宅的辣妹！？》(日语: <オタクに優しいギャルはいない！？> )是由编剧のりしろちゃん负责故事原作、漫画家魚住さかな负责作画的漫画作品。 | [百度百科](https://baike.baidu.com/item/哪里有温柔对待阿宅的辣妹！%3F?fromModule=lemma_search-box) \| [Fandom](https://otagal.fandom.com/wiki/Gals_Can%27t_Be_Kind_to_Otaku!%3F_Wiki) |
 | ghostblade | 鬼刀 | ![](https://lain.bgm.tv/r/400/pic/cover/l/91/e5/180094_345OL.jpg)<br>作者: 王凌 |  |
+| muse dash | 喵斯快跑 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
