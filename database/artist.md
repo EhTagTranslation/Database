@@ -13508,7 +13508,7 @@ example:
 | chuuou higashiguchi | 中央东口 | 中央東口<br>代表作: 沙耶之歌 |  |
 | narashika asuka | 成鹿明日香 | ならしかあすか, 伪娘画师 |  |
 | sai gakai | 肩引こ |  |  |
-| djheycha | DJ喜茶 |  |  |
+| djheycha | DJ喜茶 |  | [pixiv](https://www.pixiv.net/users/156352) \| [X](https://x.com/DJheycha) \| [FANBOX](https://djheycha.fanbox.cc/) |
 | rozea | Rozea |  |  |
 | inasotsu | いなそつ |  |  |
 | hitomio16 | hitomio拾六 | 原创角色「`c:guitar meimei`」和「升玖老师」 | [X](https://x.com/hitomio16) [pixiv](https://www.pixiv.net/users/12696075) |
