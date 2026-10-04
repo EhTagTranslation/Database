@@ -14365,6 +14365,7 @@ example:
 | asunaro-shiki bakudan | あすなろ式爆弾 |  |  |
 | sylbee no hako | しるびーの箱 |  |  |
 | nukokyuu mamire | ぬこきゅうまみれ |  |  |
+| wakusei kaim | 惑星kaim |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
