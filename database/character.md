@@ -10355,6 +10355,7 @@ example:
 | leanan sidhe | 莲南·希 | ![](https://static.wikia.nocookie.net/mahou-tsukai-no-yome/images/f/f5/Redcurrant_Profile.png)<br>日语：リャナン・シー/レッドカラント<br>出自作品:`mahoutsukai no yome` |  |
 | chise hatori | 羽鸟智世 | ![](https://static.wikia.nocookie.net/pure-good-wiki/images/c/c8/Chise_Hatori_S2_Render.png)<br>日语：羽鳥チセ<br>出自作品:`mahoutsukai no yome` |  |
 | nao | 娜儿 | ![](https://lain.bgm.tv/r/400/pic/crt/l/3a/ab/39139_crt_4553P.jpg?r=1456309873)<br>出自作品:`mabinogi` |  |
+| meteor hanaori | 花织米蒂娅 | ![](https://static.wikia.nocookie.net/isekai/images/2/27/Meteor_Hanaori_-_Anime_CH.png)<br>日语：花織ミーティア<br>出自作品:`hanaori-san wa tensei shite mo kenka ga shitai` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
