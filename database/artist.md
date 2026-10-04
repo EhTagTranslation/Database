@@ -7702,7 +7702,7 @@ example:
 | matsubayashi satoru | 松林悟 |  | [pixiv](https://www.pixiv.net/users/483865) \| [Ci-en](https://ci-en.dlsite.com/creator/22746) \| [X](https://x.com/Matubayashi) \| [FANBOX](https://matubayashi.fanbox.cc/) |
 | matsuda eine | 松田えいね |  |  |
 | matsue | まつえー |  |  |
-| matsuka | 松果 |  |  |
+| matsuka | 松果 |  | [FANBOX](https://gamerag3.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/95808) \| [X](https://x.com/gamerag94) \| [Pawoo](https://pawoo.net/@gamerag3) \| [Plurk](https://www.plurk.com/gamerag3) |
 | matsukura nemu | 松倉ねむ |  |  |
 | matsumoto akira | 松本英 |  |  |
 | matsumoto himiko | 松本姫美子 |  |  |
