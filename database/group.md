@@ -2640,7 +2640,7 @@ example:
 | akashitei | あかし亭 |  |  |
 | akatama | アカタマ |  |  |
 | akatsuki akaza dou | 赤月赤座堂 |  |  |
-| akatsuki katsuie no circle | 暁勝家ノサークル |  |  |
+| akatsuki katsuie no circle | 暁勝家のサークル |  |  |
 | akatsuki works | 暁WORKS |  |  |
 | akatsuki doumei | アカツキドウメイ |  |  |
 | aki no yonaga ni yoiyami ni | 秋の夜長に宵闇に |  |  |
