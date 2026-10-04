@@ -6452,7 +6452,7 @@ example:
 | alisaie leveilleur | 阿莉塞·莱韦耶勒尔 |  | [百度百科](https://baike.baidu.com/item/阿莉塞·莱韦耶勒尔/60480914) |
 | i-no | 茵诺 | ![](https://static.wikia.nocookie.net/guilty-gear/images/9/93/I-No_Guilty_Gear_Strive.png)<br>日语：イノ<br>所属作品：`guilty gear` |  |
 | hikaru shidou | 狮堂光 | ![](https://static.wikia.nocookie.net/magicknightrayearth/images/e/e4/Hikaru_Shidou.png)<br>出自作品：`p:magic knight rayearth`<br><br>狮堂光(しどうひかる / Shidou Hikaru)是CLAMP漫画《魔法骑士》及其衍生作品中的女性角色 。 | [百度百科](https://baike.baidu.com/item/狮堂光) \| [Fandom](https://magicknightrayearth.fandom.com/wiki/Hikaru_Shidou) |
-| froleytia capistrano | 芙萝蕾缇雅·卡彼斯特拉诺 | ![](https://ehgt.org/w/01/476/66718-q48cpao1.webp)<br>出自作品：`p:heavy object`<br><br>“正统王国”第37机动修护大队所属少佐。 | [百度百科](https://baike.baidu.com/item/芙萝蕾缇雅·卡彼斯特拉诺/14901057) |
+| froleytia capistrano | 芙萝蕾缇雅·卡彼斯特拉诺 | ![](https://static.wikia.nocookie.net/p__/images/9/92/Froleytia_Capistrano.png)<br>出自作品：`p:heavy object` | [百度百科](https://baike.baidu.com/item/芙萝蕾缇雅·卡彼斯特拉诺/14901057) |
 | alicia | 艾莉西亚 | ![](https://static.wikia.nocookie.net/queensblade/images/3/32/Alicia_Profile_2.png)<br>所属作品：`queens blade` | [Fandom](https://queensblade.fandom.com/wiki/Alicia) |
 | anna respighi | 安娜‧雷斯比奇 |  |  |
 | mylanndah arkar walder | 米兰达‧阿卡‧瓦尔卡 |  |  |
