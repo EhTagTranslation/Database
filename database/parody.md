@@ -3034,6 +3034,7 @@ example:
 | fx senshi kurumi-chan | FX战士久留美 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d3/99/622288_nmbC3.jpg)<br>日语：FX戦士くるみちゃん |  |
 | mahou senshi lemmtear knights | 魔法战士蕾姆蒂亚骑士～光之少女们～ | ![](https://t.vndb.org/cv.t/51/119251.jpg)<br>日语：魔法戦士レムティアナイツ～光の乙女たち～ | [VNDB](https://vndb.org/v6029) |
 | kourin tenshi en ciel rena | 光临天使 恩谢尔·蕾娜 | ![](https://t.vndb.org/cv.t/51/119351.jpg)<br>日语：光臨天使エンシェル・レナ | [VNDB](https://vndb.org/v4275) |
+| tensei kizoku kantei skill de nariagaru | 转生贵族凭鉴定技能扭转人生 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a1/fb/434144_GbnGP.jpg)<br>日语：転生貴族、鑑定スキルで成り上がる |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
