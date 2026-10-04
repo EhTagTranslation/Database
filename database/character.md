@@ -10342,6 +10342,7 @@ example:
 | kumizoko | Kumizoko |  | [YouTube](https://www.youtube.com/@kumizoko) |
 | elle algaf | 艾尔·阿尔加芙 | ![](https://static.wikitide.net/projectsekaiwiki/thumb/f/fb/Elle_Algaf.png/630px-Elle_Algaf.png)<br>出自作品:`project sekai` |  |
 | buro | 布若 | ![](https://static.wikia.nocookie.net/musedash_gamepedia_en/images/8/85/Char_2_robot_main.gif)<br>出自作品:`muse dash` |  |
+| eimi isami | 勇艾米 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/e/e0/Eimi_Isami.png)<br>日语：勇エイミ<br>所属社团：Phase-Connect | [YouTube](https://www.youtube.com/@eimiisami) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
