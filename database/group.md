@@ -14366,6 +14366,7 @@ example:
 | sylbee no hako | しるびーの箱 |  |  |
 | nukokyuu mamire | ぬこきゅうまみれ |  |  |
 | wakusei kaim | 惑星kaim |  |  |
+| gyuuhi ga umasugiru | 求肥がうますぎる |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
