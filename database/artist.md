@@ -200,7 +200,7 @@ example:
 | kawaraya a-ta | 瓦屋A太 |  |  |
 | usou | 雨草 |  |  |
 | awayume | 淡梦 |  |  |
-| shiroo | しろー |  | [pixiv](https://www.pixiv.net/users/21816) |
+| shiroo | しろー | 商业向通常使用【奇械田零士朗】这个名义 | [pixiv](https://www.pixiv.net/users/21816) |
 | ryokucha | 绿茶 |  |  |
 | niimaru yuu | ニイマルユウ |  |  |
 | simon | さいもん |  | [X](https://x.com/simon_ns) [pixiv](https://www.pixiv.net/users/476815) |
