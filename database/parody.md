@@ -651,7 +651,7 @@ example:
 | utawarerumono itsuwari no kamen | 传颂之物 虚伪的假面 | ![图](https://ehgt.org/1a/3f/1a3f95fe664e99ad630e28dc324c14418762b201-478114-1920-1080-jpg_l.jpg)![图](https://ehgt.org/54/11/54118e4bd7ab2197a284a00d7f22c381a4cdffea-4036251-1920-1080-png_l.jpg)![图](https://ehgt.org/d9/e0/d9e026b00a4114ec1ab3c4a2b18b549ab3ea03a9-2924615-1920-1080-png_l.jpg) | [在线观看游戏实况](https://www.bilibili.com/video/av2843236) [在线观看续作二人白皇实况（暂未出合集）](https://www.bilibili.com/video/av47971257) |
 | highschool dxd | 恶魔高校D×D | 《恶魔高校D×D》（日语：ハイスクールD×D），是日本作家石踏一荣发表在富士见Fantasia文库上的轻小说作品，插画部分由美山零负责。![图](https://upload.wikimedia.org/wikipedia/zh/c/ca/ハイスクールＤ×Ｄ１.jpg) | [维基百科](https://zh.wikipedia.org/wiki/惡魔高校D×D) |
 | the world god only knows | 只有神知道的世界 |  |  |
-| mabinogi | 洛奇 | 玛奇 |  |
+| mabinogi | 洛奇 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f4/a4/1817_g3ODP.jpg)<br>日语：マビノギ<br>韩语：마비노기 | [官网](https://mabinogi.nexon.co.jp/) |
 | m.u.g.e.n | MUGEN |  |  |
 | summon night | 召唤之夜 | 召唤夜响曲 |  |
 | mai-hime | 舞-HiME | 舞-HiME（日语：舞-HiME）是以日本日昇动画为中心展开的电视动画、漫画、广播、游戏等的跨媒体制作。以私立风华学园为舞台，描写学生间的友情与恋爱、战斗。获选为2005年第九回日本文部省文化厅媒体艺术祭动画部门推荐的作品。 | [维基百科](https://zh.wikipedia.org/wiki/舞-HiME) (\*) |
