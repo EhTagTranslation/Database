@@ -10345,6 +10345,7 @@ example:
 | eimi isami | 勇艾米 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/e/e0/Eimi_Isami.png)<br>日语：勇エイミ<br>所属社团：Phase-Connect | [YouTube](https://www.youtube.com/@eimiisami) |
 | marija | 玛莉嘉 | ![](https://static.wikia.nocookie.net/musedash_gamepedia_en/images/a/a2/Char_3_evil_victory.gif)<br>![](https://static.wikia.nocookie.net/musedash_gamepedia_en/images/c/c1/Char_3_maid_main.gif)<br>![](https://static.wikia.nocookie.net/musedash_gamepedia_en/images/a/a8/Char_3_sister_main.gif)<br>出自作品:`muse dash` |  |
 | vicksburg | 维克斯堡 | ![](https://azurlane.netojuu.com/images/thumb/9/92/VicksburgWithoutBG.png/1210px-VicksburgWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/0/0f/VicksburgRaceQueenWithoutBG.png/931px-VicksburgRaceQueenWithoutBG.png)<br>出自作品:`azur lane` |  |
+| bibi biscuit | 比比·比斯凯特 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/7/7e/Bibi_Miltea.png)<br>日语：ビビ・ビスキット<br>所属团体：Phase-Connect |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
