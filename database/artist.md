@@ -10934,7 +10934,7 @@ example:
 | tome | トメ |  |  |
 | tomekichi | とめきち |  |  |
 | tometo | とめと |  |  |
-| tomihero | トミヒロ |  |  |
+| tomihero | トミヒロ、 |  |  |
 | tomisawa chinatsu | とみさわ千夏 |  |  |
 | tomite | とみて |  |  |
 | tomiyama akiji | 兔耳山アキジ |  |  |
