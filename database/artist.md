@@ -2453,7 +2453,7 @@ example:
 | tukinowagamo | 月ノ轮ガモ |  |  |
 | uron rei | ウーロン・レイ |  |  |
 | mushanokouji shizuka | 武者小路静香 |  |  |
-| emori uki | 江森うき |  |  |
+| emori uki | 江森うき |  | [pixiv](https://www.pixiv.net/users/6426193) \| [X](https://x.com/emoriukin) \| [Pawoo](https://pawoo.net/@ukikusaya) |
 | shindou | しんどう |  |  |
 | kikurage | きくらげ |  |  |
 | sanom | 鎖ノム |  |  |
