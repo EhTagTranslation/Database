@@ -5038,7 +5038,7 @@ example:
 | endministrator | 管理员 | ![管理员-男](https://patchwiki.biligame.com/images/zmd/d/d9/7txidtx5f3g862enlzl2dkd8e0lki7j.png)<br>![管理员-女](https://patchwiki.biligame.com/images/zmd/d/da/rcl8dt3xt8oxlvi1kz4kcg27m9vv7kh.png)<br>所属作品：`arknights endfield` | [官网](https://endfield.hypergryph.com/#operator) |
 | perlica | 佩丽卡 | ![](https://patchwiki.biligame.com/images/zmd/thumb/3/39/3tqq41ous8bq9hkfwwqram5pvjarl0s.png/750px-官网素材_佩丽卡_半身.png)<br>所属作品：`arknights endfield` | [官网](https://endfield.hypergryph.com/#operator) |
 | absinthe | 苦艾 | ![](https://media.prts.wiki/7/78/半身像_苦艾_1.png)<br>所属作品`p:arknights` | [PRTS](https://prts.wiki/w/苦艾) |
-| misha necron | 米夏·涅库罗 | 所属作品：`maou gakuin no futekigousha`<br>![](https://ehgt.org/w/01/926/50451-9lntgvm3.webp) |  |
+| misha necron | 米夏·涅库罗 | ![](https://static.wikia.nocookie.net/maou-gakuin/images/9/9c/Mishaimg.png)<br>日语：ミーシャ・ネクロン<br>所属作品：`maou gakuin no futekigousha` |  |
 | sky striker ace - roze | 闪刀姬-露世 | 游戏王OCG知名卡组系列角色之一 |  |
 | kooh | 酷儿 |  | [https://wiki2.gamer.com.tw/wiki.php?n=7720:酷兒](https://wiki2.gamer.com.tw/wiki.php?n=7720:酷兒) |
 | aaya saitou | 齐藤亚绫 | 16岁。高中二年级。转校新生，在`c:kiiko kawakami`车祸住院期间一直在照顾她，使得纪衣子喜欢上了她，对纪衣子的能力很有兴趣，一次在树下两个人KISS并正式进入了“非常时期”。 |  |
