@@ -10350,6 +10350,7 @@ example:
 | rana furuhata | 古畑兰娜 | ![](https://static.wikia.nocookie.net/blue-archive/images/4/41/Rana_Portrait.png)<br>日语：古畑ラナ<br>出自作品:`blue archive` |  |
 | nemu fujimi | 富士见宁梦 | ![](https://lain.bgm.tv/r/400/pic/crt/l/a5/89/125509_crt_1WSwI.jpg)<br>出自作品:`onii-chan wa oshimai` |  |
 | oshiro mashiro | 大代真白 | ![](https://hololist.net/wp-content/uploads/2022/09/oshiro-mashiro-portrait-66-1.jpg)<br>所属企划：青桐高中 | [YouTube](https://www.youtube.com/channel/UCFG6teapZaN6J1oVXl7MYPA) |
+| kurumi fukuga | 福贺久留美 | ![](https://lain.bgm.tv/r/400/pic/crt/l/0a/84/136036_crt_RRQRj.jpg)<br>日语：福賀くるみ<br>外号：韭留美 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
