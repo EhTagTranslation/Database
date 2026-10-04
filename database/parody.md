@@ -3033,6 +3033,7 @@ example:
 | muse dash | 喵斯快跑 |  |  |
 | fx senshi kurumi-chan | FX战士久留美 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d3/99/622288_nmbC3.jpg)<br>日语：FX戦士くるみちゃん |  |
 | mahou senshi lemmtear knights | 魔法战士蕾姆蒂亚骑士～光之少女们～ | ![](https://t.vndb.org/cv.t/51/119251.jpg)<br>日语：魔法戦士レムティアナイツ～光の乙女たち～ | [VNDB](https://vndb.org/v6029) |
+| kourin tenshi en ciel rena | 光临天使 恩谢尔·蕾娜 | ![](https://t.vndb.org/cv.t/51/119351.jpg)<br>日语：光臨天使エンシェル・レナ | [VNDB](https://vndb.org/v4275) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
