@@ -14182,7 +14182,7 @@ example:
 | shimono cable | 霜野ケーブル |  |  |
 | kokoro no mama | ココロのまま |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201951/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56093.html) |
 | gemuodou | げむお堂 |  |  |
-| ikiruta many many | 生田めにめに |  |  |
+| ikiruta many many | 生田めにめに |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=213747/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01012001.html) |
 | kinnikutei | 筋肉亭 |  |  |
 | gokuraku mikaduki | 極楽三日月 |  |  |
 | maita keikaku | まいた計画 |  |  |
