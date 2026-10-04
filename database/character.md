@@ -10359,6 +10359,7 @@ example:
 | misa ilioroagu | 米莎·伊里欧洛古 | ![](https://static.wikia.nocookie.net/maou-gakuin/images/e/e6/Img_misa.png)<br>日语：ミサ・イリオローグ<br>出自作品:`maou gakuin no futekigousha` |  |
 | emilia ludowell | 艾米莉亚·路德威尔 | ![](https://static.wikia.nocookie.net/maou-gakuin/images/8/85/Img_emilia.png)<br>日语：エミリア・ルードウェル<br>出自作品:`maou gakuin no futekigousha` |  |
 | treyni | 托蕾妮 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/e/ef/Trainee_Anime.png)<br>日语：トレイニー<br>出自作品:`tensei shitara slime datta ken` |  |
+| rayneshia el-arte corwen | 蕾妮希雅·耶鲁艾特·柯文 | ![](https://static.wikia.nocookie.net/log-horizon/images/4/47/Ray_sng_lrc.png)<br>![](https://static.wikia.nocookie.net/log-horizon/images/5/53/Ray_sng_round_table.png)<br>日语：レイネシア＝エルアルテ＝コーウェン<br>出自作品:`log horizon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
