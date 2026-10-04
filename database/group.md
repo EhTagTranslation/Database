@@ -14367,6 +14367,7 @@ example:
 | nukokyuu mamire | ぬこきゅうまみれ |  |  |
 | wakusei kaim | 惑星kaim |  |  |
 | gyuuhi ga umasugiru | 求肥がうますぎる |  |  |
+| sinokuma syoutengai | しのクマ商店街 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
