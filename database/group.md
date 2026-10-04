@@ -8161,7 +8161,7 @@ example:
 | mukade tou | ムカデ島 |  |  |
 | mukeikaku syugi | 無計画主義 |  |  |
 | muki pomera | ムキぽめら |  |  |
-| mukibutsu heart | 無機物はーと |  |  |
+| mukibutsu heart | 無機物ハート | 与【無機物はーと】是统一人在不同时期使用的马甲。但账户是分开的 |  |
 | mukuchi na hakoniwa | 無口な箱庭 |  |  |
 | mukuge | 毳 |  |  |
 | mukumukumoon | むくむくむーん |  |  |
