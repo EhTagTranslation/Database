@@ -4351,7 +4351,7 @@ example:
 | mikoto aketa | 绯田美琴 | ![](https://img.moegirl.org.cn/common/f/f7/Mikoto_initial.png)<br>![](https://img.moegirl.org.cn/common/0/02/MikotoFull-Checkmate.png)<br>绯田美琴（日语：緋田 美琴（あけた みこと））<br>所属作品:`p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/绯田美琴) |
 | nazuna nanakusa | 七草荠 |  |  |
 | revy | 莱薇 | ![](https://static.wikia.nocookie.net/lagooncompany/images/6/68/1662629676388.png)<br>出自作品：`p:black lagoon`<br>本名蕾贝卡·李（英文：Rebecca Lee）。 | [萌娘百科](https://zh.moegirl.org.cn/莱薇%28黑礁%29#) \| [Fandom](https://lagooncompany.fandom.com/wiki/Revy) |
-| natsumi kurobe | 黑部夏美 | 黑部夏美是由しろまんた创作的漫画《前辈有够烦》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/黑部夏美) |
+| natsumi kurobe | 黑部夏美 | ![](https://lain.bgm.tv/r/400/pic/crt/l/91/37/99535_crt_lHfHf.jpg?r=1628707687)<br>出自作品:`senpai ga uzai kouhai no hanashi` | [萌娘百科](https://zh.moegirl.org.cn/黑部夏美) |
 | assaultron | 突袭者机器人 | 突袭者（Assaultron）是单机RPG游戏《辐射系列》中的一种机器人。 | [萌娘百科](https://zh.moegirl.org.cn/突袭者机器人) |
 | satoru gojo | 五条悟 |  |  |
 | aki hayakawa | 早川秋 | 早川秋是由藤本树所创作的漫画《电锯人》及其衍生作品的登场角色。 |  |
