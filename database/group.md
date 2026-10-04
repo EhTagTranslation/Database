@@ -2813,7 +2813,7 @@ example:
 | angora doll | Angora doll |  |  |
 | ani ga saru | 兄が猿 |  |  |
 | aniki otokodou | 兄貴漢堂 |  |  |
-| anim | Anim |  |  |
+| anim | アニム |  |  |
 | animal herb | あにまるハーブ |  |  |
 | animal passion | Animal Passion |  |  |
 | animal service | アニマルサービス |  |  |
