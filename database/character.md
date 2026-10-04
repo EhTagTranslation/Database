@@ -10340,6 +10340,7 @@ example:
 | carrot | 加洛特 | 出自作品:`one piece` |  |
 | pekoms | 波克慕斯 | 出自作品:`one piece` |  |
 | kumizoko | Kumizoko |  | [YouTube](https://www.youtube.com/@kumizoko) |
+| elle algaf | 艾尔·阿尔加芙 | ![](https://static.wikitide.net/projectsekaiwiki/thumb/f/fb/Elle_Algaf.png/630px-Elle_Algaf.png)<br>出自作品:`project sekai` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
