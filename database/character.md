@@ -9149,7 +9149,7 @@ example:
 | farah | 法菈 | ![](https://static.wikia.nocookie.net/mushoku-eiyu/images/0/00/Farah.png)<br>所属作品：无职英雄:技能什么的毫无用处<br>日语：ファラー<br>亚雷尔的母亲。 |  |
 | akami karubi | 赤见卡露比 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/0/0e/Karubi-akami-portrait-66.jpg)<br>所属社团：Crazy Raccoon<br>日语：赤見かるび | [Fandom](https://virtualyoutuber.fandom.com/wiki/Akami_Karubi) |
 | kuon | 久苑 | ![](https://static.wikia.nocookie.net/shadowverse/images/3/3b/Kuon_leader.png)<br>所属作品：`shadowverse` |  |
-| draco malfoy | 德拉科·马尔福 | 小说《哈利·波特》系列中的角色 |  |
+| draco malfoy | 德拉科·马尔福 | 出自作品:`harry potter` |  |
 | selena corey | 赛琳娜·科里 | 所属作品：`resident evil` 安魂曲 |  |
 | haruka hasebe | 长谷部波瑠加 | ![](https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/e/e6/Haruka_Hasebe_LN_2nd_Year_Arc_visual.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e` |  |
 | aya | 阿雅 | 日语：アヤ |  |
