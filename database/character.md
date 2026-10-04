@@ -3741,7 +3741,7 @@ example:
 | prushka | 普鲁修卡 |  |  |
 | hakui koyori | 博衣小夜璃 | 博衣小夜璃（日语：博衣こより／はくい こより）是一名于2021年11月26日开始活动的VTuber，所属日本业界团体hololive－『秘密结社holoX』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/博衣小夜璃) |
 | satoko houjou | 北条沙都子 |  | [萌娘百科](https://zh.moegirl.org.cn/北条沙都子) |
-| siesta | 谢丝塔 | 谢丝塔（日语：シエスタ）是由二语十所创作的轻小说《侦探已死》及其衍生作品的登场角色。“谢丝塔”是她的代号，意为西班牙语“午睡”(Siesta)。 | [萌娘百科](https://zh.moegirl.org.cn/谢丝塔) |
+| siesta | 谢丝塔 | ![](https://static.wikia.nocookie.net/the-detective-is-already-dead/images/9/94/Siesta_Anime_2.png)<br>日语：シエスタ<br>出自作品:`tantei wa mou shindeiru.` | [萌娘百科](https://zh.moegirl.org.cn/谢丝塔) |
 | rebecca bluegarden | 蕾贝卡·布鲁加甸 | 蕾贝卡·布鲁加甸是日本漫画家真岛浩创作之漫画《伊甸星原》及其衍生作品的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/蕾贝卡·布鲁加甸) |
 | aria von reiji asuna | 岭司 | 伊织政在街上遇到的神秘少年。蛮横、任性、脾气暴躁，几乎没有一般人应有的常识。在诚为其解决一起误会后，给了他一颗宝石「阿利斯达之星」，并扬言只要诚向宝石祈祷，自己就会现身替他解决问题。<br>![](https://bkimg.cdn.bcebos.com/pic/a8014c086e061d95e9d7384c78f40ad162d9ca35?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5/format,f_auto) | [岭司](https://baike.baidu.com/item/嶺司/15866549) |
 | asuka koukawa | 甲河明日香 | ![](https://static.wikia.nocookie.net/taimanin/images/e/ef/Kokawa_Asuka_2.png)<br>所属作品：`taimanin asagi`<br>《对魔忍阿莎姬3》作为女二首次登场。对魔忍位面中男主首次探险便救下的女忍。 | [https://vndb.org/c10757](https://vndb.org/c10757) |
