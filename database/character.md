@@ -5067,7 +5067,7 @@ example:
 | li sushang | 李素裳 \| 素裳 | ![](https://patchwiki.biligame.com/images/sr/thumb/f/f1/pa10qs0htdu6eizlhvk4b26ihm6x5tq.png/1050px-素裳立绘.png)<br>所属作品: `p:honkai gakuen`、`p:honkai star rail`<br>单纯热心的云骑军新人，执一柄重剑。 | [李素裳](https://zh.moegirl.org.cn/李素裳) [素裳](https://zh.moegirl.org.cn/素裳) |
 | prometheus | 普罗米修斯 | 所属作品: `p:megido 72` | [Bangumi](https://bgm.tv/character/129499) |
 | lisesharte atismata | 莉姿夏尔蒂·亚提司玛特 | ![](https://saijaku.jp/img/character_image02.jpg)<br>所属作品: `p:saijaku muhai no bahamut`<br>リーズシャルテ·アティスマータ<br>亚提司玛特新王国的公主，爱称是莉夏。真红的神装机龙“迪亚玛特”的操纵者，在学园内以无败而自豪的屈指可数的装甲机龙使者。 |  |
-| dantoudai no aura | 阿乌拉 | ![](https://ehgt.org/w/02/185/83742-f05gs6h4.webp)<br>所属作品: `p:sousou no frieren`<br><br>魔王直接下属的“七崩贤”之一，绰号“断头台阿乌拉”的魔族。 | [萌娘百科](https://zh.moegirl.org.cn/阿乌拉) |
+| dantoudai no aura | 阿乌拉 | ![](https://static.wikia.nocookie.net/frieren/images/e/e3/Aura_anime_profile.png)<br>所属作品: `p:sousou no frieren` | [萌娘百科](https://zh.moegirl.org.cn/阿乌拉) |
 | ayano yuugiri | 夕桐绫乃 | ![](https://static.wikia.nocookie.net/project-engage/images/9/94/Ayano_Yuugiri_%28original%29.png)<br>所属作品: `p:engage kiss` | [萌娘百科](https://zh.moegirl.org.cn/夕桐绫乃) |
 | rose oriana | 萝兹·奥利雅纳 | ![](https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/1/12/Rose-Anime.png)<br>所属作品: `p:kage no jitsuryokusha ni naritakute` |  |
 | vladilena milize | 芙拉蒂蕾娜·米利杰 | ![](https://static.wikia.nocookie.net/86-eighty-six/images/f/f5/Lena_Full_Body.png)<br>日语：ヴラディレーナ・ミリーゼ<br>出自作品: `p:86` | [萌娘百科](https://zh.moegirl.org.cn/芙拉蒂蕾娜·米利杰) |
