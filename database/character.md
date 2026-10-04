@@ -8020,7 +8020,7 @@ example:
 | sitri smart | 西朵莉·斯玛特 | ![](https://static.wikia.nocookie.net/strange-grief-wants-to-retire/images/4/4d/Sitri_Smart.png)<br>所属作品：`nageki no bourei ha intai shitai` |  |
 | chinatsu | 千夏 |  |  |
 | sunna | 千夏 | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/3/39/Agent_Sunna_Portrait.png/revision/latest?cb=20260207011806)<br>所属作品：`zenless zone zero`<br><br>千夏是由米哈游所制作的游戏《绝区零》及其衍生作品的登场角色。 | [Fandom](https://zenless-zone-zero.fandom.com/wiki/Sunna) \| [萌娘百科](https://zh.moegirl.org.cn/千夏%28绝区零%29) |
-| henrietta | 海莉耶塔 | ![](https://tsuihosha-shokudo.com/assets/img/chara/img_chara_stand03.png)<br>所属作品：`tsuihousha shokudou e youkoso`<br>因“只是女人”这个不合理的理由，被逐出队伍的女剑士。 |  |
+| henrietta | 荷丽艾塔 \| 海莉耶塔 | ①荷丽艾塔<br>![](https://static.wikia.nocookie.net/log-horizon/images/4/4d/Henrietta_sng_lr.png)<br>日语：ヘンリエッタ<br>出自作品:`log horizon`<br>——————————<br>②海莉耶塔<br>![](https://tsuihosha-shokudo.com/assets/img/chara/img_chara_stand03.png)<br>所属作品：`tsuihousha shokudou e youkoso` |  |
 | abbey windsor | 艾比·温莎 | ![](https://static.wikia.nocookie.net/gundam/images/c/cf/GGen_Abbey_Windsor.PNG)<br>所属作品：`gundam seed destiny`<br>（ビー・ウィンザー） |  |
 | elena kimberlight | 埃琳娜·金巴莱特 | ![](https://ehgt.org/w/02/186/15277-mza3dsjn.webp)<br>所属作品：`kinsou no vermeil` | [百度百科](https://baike.baidu.com/item/埃琳娜·金巴莱特/61743461) |
 | aki nijou | 二条秋 | ![](https://ehgt.org/w/02/083/42826-5c4u3pxs.webp)<br>所属作品：`maken-ki`<br>校医兼保健和美术老师，魔检队顾问，初代魔检队成员之一。<br>身高：166cm，三围：103-58-97，罩杯K。 |  |
