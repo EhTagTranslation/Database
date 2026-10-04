@@ -3183,7 +3183,7 @@ example:
 | musha sabu | 武者サブ |  | [X](https://x.com/musyasabu) [pixiv](https://www.pixiv.net/users/2526989) |
 | sanjuurou | 三十郎 | 《COMIC X-EROS》作者 |  |
 | souji hougu | 扫除朋具 | ![X](https://pbs.twimg.com/profile_images/944283676958801920/IzOMJfgE_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/srghrg) [pixiv](https://www.pixiv.net/users/4856899) |
-| uousaoh | 鱼ウサ王 | ![X](https://pbs.twimg.com/profile_images/1209938076794937344/IL1nhvP3_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/uousaoh2) [pixiv](https://www.pixiv.net/users/21530) |
+| uousaoh | 魚ウサ王 | ![X](https://pbs.twimg.com/profile_images/1209938076794937344/IL1nhvP3_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/uousaoh2) [pixiv](https://www.pixiv.net/users/21530) |
 | kuroharuto | くろはると |  |  |
 | oomori | 大盛り |  |  |
 | yasson yoshiyuki | やっそん義之 |  | [pixiv](https://www.pixiv.net/users/18520349) [X](https://x.com/u_miyama) |
