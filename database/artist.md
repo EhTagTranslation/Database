@@ -4013,7 +4013,7 @@ example:
 | alfabravo | アルファブラボー |  |  |
 | ali | ALI |  |  |
 | alimika satomi | ありみかさとみ |  |  |
-| allegro | アレグロ |  |  |
+| allegro | アレグロ |  | [FANBOX](https://lealorg.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/763059) \| [X](https://x.com/lealorg) \| [Misskey.io](https://misskey.io/@lealorg) |
 | alpacaeater | アルパカイーター |  |  |
 | alpha | 有葉 |  |  |
 | alphe | あるふぇ |  |  |
