@@ -10354,6 +10354,7 @@ example:
 | charlotte lace | 夏洛特·莱斯 | ![](https://static.wikia.nocookie.net/reincarnated-as-an-aristocrat-with-appraisal-skill/images/5/53/Charlotte_Wraith_Visual.png)<br>日语：シャーロット・レイス<br>出自作品:`tensei kizoku kantei skill de nariagaru` |  |
 | leanan sidhe | 莲南·希 | ![](https://static.wikia.nocookie.net/mahou-tsukai-no-yome/images/f/f5/Redcurrant_Profile.png)<br>日语：リャナン・シー/レッドカラント<br>出自作品:`mahoutsukai no yome` |  |
 | chise hatori | 羽鸟智世 | ![](https://static.wikia.nocookie.net/pure-good-wiki/images/c/c8/Chise_Hatori_S2_Render.png)<br>日语：羽鳥チセ<br>出自作品:`mahoutsukai no yome` |  |
+| nao | 娜儿 | ![](https://lain.bgm.tv/r/400/pic/crt/l/3a/ab/39139_crt_4553P.jpg?r=1456309873)<br>出自作品:`mabinogi` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
