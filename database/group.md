@@ -12747,7 +12747,7 @@ example:
 | nishi no tora | 西ノ虎 |  |  |
 | noir auto | ノワールオート |  |  |
 | yuuki saien | ユーキ菜園 |  |  |
-| ginshio honpo | 银しお本铺 |  |  |
+| ginshio honpo | 銀しお本舗 |  |  |
 | kitsune no nijibiya | 狐の虹火屋 |  |  |
 | juubako seisakujo | 重箱製作所 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78606/) |
 | mandara ryuuseigun | マンダラ流星群 |  |  |
