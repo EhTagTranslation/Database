@@ -10357,6 +10357,7 @@ example:
 | nao | 娜儿 | ![](https://lain.bgm.tv/r/400/pic/crt/l/3a/ab/39139_crt_4553P.jpg?r=1456309873)<br>出自作品:`mabinogi` |  |
 | meteor hanaori | 花织米蒂娅 | ![](https://static.wikia.nocookie.net/isekai/images/2/27/Meteor_Hanaori_-_Anime_CH.png)<br>日语：花織ミーティア<br>出自作品:`hanaori-san wa tensei shite mo kenka ga shitai` |  |
 | misa ilioroagu | 米莎·伊里欧洛古 | ![](https://static.wikia.nocookie.net/maou-gakuin/images/e/e6/Img_misa.png)<br>日语：ミサ・イリオローグ<br>出自作品:`maou gakuin no futekigousha` |  |
+| emilia ludowell | 艾米莉亚·路德威尔 | ![](https://static.wikia.nocookie.net/maou-gakuin/images/8/85/Img_emilia.png)<br>日语：エミリア・ルードウェル<br>出自作品:`maou gakuin no futekigousha` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
