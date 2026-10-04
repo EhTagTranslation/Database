@@ -7522,7 +7522,7 @@ example:
 | kiriha kisaki | 妃崎雾叶 | ![](https://lain.bgm.tv/r/400/pic/crt/l/da/76/44441_crt_Rd5Em.jpg)<br>所属作品：`strike the blood`<br>太史局的攻魔师，人称“六刃”的黑发美少女。 |  |
 | yuuma tokoyogi | 仙都木优麻 | ![](https://lain.bgm.tv/r/400/pic/crt/l/32/1c/22751_crt_D4HKl.jpg)<br>所属作品：`strike the blood` |  |
 | kikyo | 桔梗 |  |  |
-| sango | 珊瑚 |  |  |
+| sango | 珊瑚 | 出自作品:`inuyasha` |  |
 | astarte | 阿斯塔鲁特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/dd/e0/21633_crt_rlh08.jpg)<br>所属作品：`strike the blood`<br>由洛塔林基亚歼教师欧伊斯塔通过将捕获的孵化前的眷兽寄生在体内，成功地产出了寄宿着眷兽的人工生命体。 |  |
 | giada kukulcan | 嘉妲·库寇坎 | 所属作品：`strike the blood`<br>吸血鬼的第三真祖。 |  |
 | glenda | 葛莲妲 | 所属作品：`strike the blood`<br>作为圣歼派的核心力量被长期封印于神绳湖底，通过与神话生物"蜂蛇"共生维持沉睡状态。 |  |
