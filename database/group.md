@@ -1597,7 +1597,7 @@ example:
 | kikurage-ya | きくらげ屋 |  |  |
 | shis | SHIS |  |  |
 | tomoshibiya koubou | 灯夜工房 |  |  |
-| kakuzato-ichi | 核座头市 |  |  |
+| kakuzato-ichi | 核座頭市 |  |  |
 | poppenheim | ぽっぺんはいむ |  |  |
 | chitei no nikuya | 地底の肉屋 |  |  |
 | manaita | まないた |  | [pixiv](https://www.pixiv.net/users/13983329) |
