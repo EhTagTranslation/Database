@@ -6512,7 +6512,7 @@ example:
 | anira | 阿妮拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/b/bc/Zoom_3040479000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/7/71/Zoom_3040288000_01.png)<br>所属作品：`granblue fantasy` |  |
 | buena vista | 迷人景致 | ![](https://patchwiki.biligame.com/images/umamusume/d/da/9kjk8o73x8cmiyu9nl3d4vo6h5p9mpi.png)<br>出自作品：`p:uma musume pretty derby` | [komoejoy](https://uma.komoejoy.com/character/detail?id=buenavista) \| [维基百科](https://zh.wikipedia.org/wiki/迷人景致) \| [BILIGAME WIKI](https://wiki.biligame.com/umamusume/迷人景致) |
 | win variation | 凯旋芭蕾 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/4/4c/fjb7xy7krs86c7x8r71ro41k2vfawsm.png/600px-Jsf_111701.png)<br>所属作品：`uma musume pretty derby` |  |
-| yume irido | 伊理户结女 |  |  |
+| yume irido | 伊理户结女 | ![](https://static.wikia.nocookie.net/kurikamicity/images/5/5c/Yume_Irido.png)<br>出自作品:`mamahaha no tsurego ga motokano datta` |  |
 | uta | 乌塔 | ![](https://ehgt.org/w/02/090/97901-kfgsemyq.webp)<br>出自作品：`p:one piece`<br><br>（日语：ウタ、英语：Uta）是《海贼王》系列剧场版《海贼王 红发歌姬》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/乌塔) |
 | terakomari gandesblood | 黛拉可玛莉·岗德森布莱德 |  |  |
 | nihilego | 虚吾伊德 | ![](https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/793.png)<br>出自作品：`p:pokemon`<br><br>虚吾伊德是究极异兽的一种，代号为“ＵＢ０１：寄生物”。虚吾伊德有着类似铃形水母的身体。半透明的上伞面周围环绕着一些白色的六角星标记，波浪形的伞缘呈亮蓝色。 | [pokemon](https://www.pokemon.com/br/pokedex/nihilego) |
