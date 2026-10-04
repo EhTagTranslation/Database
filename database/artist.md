@@ -15794,6 +15794,7 @@ example:
 | mishima psycho | ミシマサイコ |  |  |
 | sabacane | 佐波缶 |  | [pixiv](https://www.pixiv.net/users/31291526) \| [X](https://x.com/Candzume) \| [Lit.Link](https://lit.link/en/cyclosabacane) |
 | yuu yuuki | 友憂希 |  |  |
+| hinokimaru | ひのき丸 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
