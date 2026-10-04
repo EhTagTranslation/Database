@@ -8083,7 +8083,7 @@ example:
 | yukino shichido | 七度雪乃 | ![](https://static.wikia.nocookie.net/blue-archive/images/0/0a/Yukino_Portrait.png)<br>所属作品：`blue archive` | [萌娘百科](https://zh.moegirl.org.cn/七度雪乃) |
 | luke notos greyrat | 路克·诺托斯·格雷拉特 | ![](https://static.wikia.nocookie.net/mushokutensei/images/1/14/MT-AN-S2-Luke-FullBody.png)<br>所属作品：`mushoku tensei`<br>诺托斯·格雷拉特家的次男，后成为当家。 | [百度百科](https://baike.baidu.com/item/路克·诺托斯·格雷拉特/62450886) |
 | bastet | 巴斯特 | ![](https://static.wikia.nocookie.net/pad/images/b/b2/Pet494.png)<br>所属作品：`puzzle and dragons` |  |
-| linie | 莉 | ![](https://static.wikia.nocookie.net/frieren/images/b/b7/Linie_anime_profile.png)<br>所属作品：`sousou no frieren`<br>阿乌拉麾下的“斩首吏”魔族之一，使用的魔法为模仿魔法。 |  |
+| linie | 莉 | ![](https://static.wikia.nocookie.net/frieren/images/b/b7/Linie_anime_profile.png)<br>所属作品：`sousou no frieren` |  |
 | gene | 珍妮 | ![](https://ehgt.org/w/00/973/49270-6eq3p88q.webp)<br>所属作品：`phantasy star online 2` |  |
 | ani | Grok Ani | ![](https://ehgt.org/w/01/978/30272-aj4mqwhb.webp)<br>马斯克旗下xAI公司推出的AI伴侣，作为Grok应用的3D动画角色，定位为哥特风格动漫女孩。 |  |
 | escher hannibalk | 伊夏·汉尼巴鲁库 | ![](https://static.wikia.nocookie.net/reincarnated-as-the-7th-prince/images/d/d8/Escher-FullArt2-Anime.png)<br>所属作品：`tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu` | [Fandom](https://reincarnated-as-the-7th-prince.fandom.com/wiki/Escher) |
