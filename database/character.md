@@ -10337,6 +10337,7 @@ example:
 | kei amane | 天音庆 | ![](https://static.wikia.nocookie.net/otagal/images/6/62/Kei_Amane.png/revision/latest/scale-to-width-down/268?cb=20260507132542)<br>出自作品：`p:otaku ni yasashii gal wa inai`<br><br>天音庆(日语: 天音慶 / あまねけい )，漫画《哪里有温柔对待阿宅的辣妹！?》及其衍生作品中的角色。 | [Fandom](https://otagal.fandom.com/wiki/Kei_Amane) \| [百度百科](https://baike.baidu.com/item/天音庆/67127892?fromModule=BaiduWiki_En) |
 | princess aeolian | 风玲公主 | 出自作品:`ghostblade` |  |
 | anti-mage | 敌法师 | 出自作品:`defense of the ancients` |  |
+| carrot | 加洛特 | 出自作品:`one piece` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
