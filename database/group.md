@@ -6087,7 +6087,7 @@ example:
 | island belle | Island Belle |  |  |
 | island green | アイランドグリーン |  |  |
 | iso no sozaiten | いその惣菜店 |  |  |
-| isocurve | アイソカーブ |  |  |
+| isocurve | アイソカーブ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77669/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG12573.html) |
 | isofura | いそふら |  |  |
 | isofura ribbon | イソフラリボン |  |  |
 | isorashi dou | イソラシ堂 |  |  |
