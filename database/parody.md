@@ -975,7 +975,7 @@ example:
 | w.i.t.c.h. | 魔力W.i.t.c.h. |  |  |
 | ninja gaiden | 忍者龙剑传 | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ninja_Gaiden_Logo.svg/500px-Ninja_Gaiden_Logo.svg.png)<br>光荣特库摩游戏旗下工作室Team Ninja与白金工作室联合开发的高速格斗游戏系列。 |  |
 | otome wa boku ni koishiteru | 少女爱上姐姐 |  |  |
-| fairy tail | 妖精的尾巴 | FAIRY TAIL魔导少年 |  |
+| fairy tail | 妖精的尾巴 | ![](https://lain.bgm.tv/r/400/pic/cover/l/65/f5/91946_qTQpV.jpg)<br>![](https://lain.bgm.tv/r/400/pic/cover/l/cf/40/54356_2Wrwc.jpg)<br>简称“妖尾” |  |
 | oni chichi | 鬼父 |  |  |
 | clamp gakuen tanteidan | CLAMP学园侦探团 |  |  |
 | soredemo machi wa mawatteiru | 女仆咖啡厅 | 纵然如此小镇仍在转动 |  |
