@@ -15799,6 +15799,7 @@ example:
 | rube | るべ |  |  |
 | yurimo | ゆりも |  |  |
 | muteki | むてき |  |  |
+| sinokuma suketarou | しのくまスケ太郎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
