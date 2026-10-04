@@ -6507,7 +6507,7 @@ example:
 | kaya no soto | 蚊帳の外 |  |  |
 | kayano mototo | 茅ノ素ト |  |  |
 | kayoubi | 火曜日 |  |  |
-| kayoudou | 華容道 |  |  |
+| kayoudou | 華容道 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=207182/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG35185.html) |
 | kazakiribane | 風切羽 |  |  |
 | kazama dojo | 風間道場 |  |  |
 | kazamichizu | 風海地図 |  |  |
