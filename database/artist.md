@@ -15798,6 +15798,7 @@ example:
 | shibahu cake | 芝生ケーキ |  |  |
 | rube | るべ |  |  |
 | yurimo | ゆりも |  |  |
+| muteki | むてき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
