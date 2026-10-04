@@ -15796,6 +15796,7 @@ example:
 | yuu yuuki | 友憂希 |  |  |
 | hinokimaru | ひのき丸 |  |  |
 | shibahu cake | 芝生ケーキ |  |  |
+| rube | るべ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
