@@ -10348,6 +10348,7 @@ example:
 | bibi biscuit | 比比·比斯凯特 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/7/7e/Bibi_Miltea.png)<br>日语：ビビ・ビスキット<br>所属团体：Phase-Connect |  |
 | otodama tamako | 音灵魂子 | ![](https://hololist.net/wp-content/uploads/2022/09/otodama-tamako.jpg)<br>所属企划：青桐高校 | [YouTube](https://www.youtube.com/@tamako0212) |
 | rana furuhata | 古畑兰娜 | ![](https://static.wikia.nocookie.net/blue-archive/images/4/41/Rana_Portrait.png)<br>日语：古畑ラナ<br>出自作品:`blue archive` |  |
+| nemu fujimi | 富士见宁梦 | ![](https://lain.bgm.tv/r/400/pic/crt/l/a5/89/125509_crt_1WSwI.jpg)<br>出自作品:`onii-chan wa oshimai` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
