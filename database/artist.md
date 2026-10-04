@@ -2871,7 +2871,7 @@ example:
 | nigirimeshi | にぎりめし |  | [X](https://x.com/onigirinigirime) [pixiv](https://www.pixiv.net/users/4316232) |
 | minami chisato | 南ちさと（有澤司） |  | [X](https://x.com/coupe_minami) [pixiv](https://www.pixiv.net/users/24255) |
 | aotsuki shinobu | 蒼月しのぶ |  | [X](https://x.com/MayshWeb) [pixiv](https://www.pixiv.net/users/880794) |
-| oshima aki | 大島あき |  |  |
+| oshima aki | 大島あき |  | [X](https://x.com/oshimaakkyun) [pixiv](https://www.pixiv.net/users/30706775) |
 | kimino tomonari | 君野朋成 |  | [X](https://x.com/kimino107) [pixiv](https://www.pixiv.net/users/150800) |
 | sune | sune |  | [X](https://x.com/sune_01) [pixiv](https://www.pixiv.net/users/1169932) |
 | molgen | モルゲン |  | [X](https://x.com/molgen46) [pixiv](https://www.pixiv.net/users/2197747) |
