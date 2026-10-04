@@ -5265,7 +5265,7 @@ example:
 | onpu segawa | 濑川音符 | ![](https://static.wikia.nocookie.net/ojamajowitchling/images/6/6c/Onpurender.PNG/revision/latest?cb=20260310121905)<br>所属作品:`ojamajo doremi` | [萌娘百科](https://zh.moegirl.org.cn/濑川音符) |
 | doremi harukaze | 春风DoReMi | ![](https://static.wikia.nocookie.net/ojamajowitchling/images/d/d2/Doremi_S1_Ojamajo_Outfit.png/revision/latest?cb=20260310121216)<br>所属作品:`ojamajo doremi` | [萌娘百科](https://zh.moegirl.org.cn/春风DoReMi)<br>[Fandom](https://majopedia.fandom.com/wiki/Doremi_Harukaze) |
 | ichimatsu matsuno | 松野一松 |  |  |
-| ubel | 尤贝尔 | 尤贝尔是由山田钟人原作、アベツカサ作画的漫画`p:sousou no frieren`及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/5/55/Frieren_anime_尤贝尔.png) | [萌娘百科](https://zh.moegirl.org.cn/尤贝尔%28葬送的芙莉莲%29) |
+| ubel | 尤贝尔 | ![](https://static.wikia.nocookie.net/frieren/images/9/97/Übel_anime_profile.png)<br>出自作品:`sousou no frieren` | [萌娘百科](https://zh.moegirl.org.cn/尤贝尔%28葬送的芙莉莲%29) |
 | takeru taiga | 大河武 |  |  |
 | ikoma | 生驹 | TV动画《甲铁城的卡巴内利》及其衍生作品中的角色，男主角 。住在以炼铁和蒸汽机的生产为业的显金驿的蒸汽锻冶少年。<br>为了打倒卡巴内，和朋友逞生一起开发了独自的武器“贯筒”。虽然受到众人的轻视，但期盼着有朝一日能让人们对自己刮目相看。 |  |
 | juufuutei raden | 儒乌风亭螺钿 | ![](https://ehgt.org/w/01/943/12200-5uyeofcn.webp)<br>出自作品：`p:hololive`<br><br>儒乌风亭螺钿（日语：儒烏風亭 らでん／じゅうふうてい らでんJuufuutei Raden）是一名於2023年9月4日开始活动的VTuber，隸屬於日本hololive DEV\_IS旗下音樂團體『ReGLOSS』。 | [萌娘百科](https://zh.moegirl.org.cn/儒乌风亭螺钿) |
