@@ -6889,7 +6889,7 @@ example:
 | kirimia | きりみあ |  |  |
 | kirimoro | きりもろ |  |  |
 | kirin | きりん |  |  |
-| kirin kakeru | 木铃カケル |  | [pixiv](https://www.pixiv.net/users/1793410) \| [X](https://x.com/kirinkakeru) |
+| kirin kakeru | 木鈴カケル |  | [pixiv](https://www.pixiv.net/users/1793410) \| [X](https://x.com/kirinkakeru) |
 | kirino kyousuke | 桐野キョウスケ |  |  |
 | kiriri takanori | 霧李孝徳 |  |  |
 | kirisaki akihito | 霧咲空人 |  |  |
