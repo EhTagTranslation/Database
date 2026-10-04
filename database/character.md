@@ -10347,6 +10347,7 @@ example:
 | vicksburg | 维克斯堡 | ![](https://azurlane.netojuu.com/images/thumb/9/92/VicksburgWithoutBG.png/1210px-VicksburgWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/0/0f/VicksburgRaceQueenWithoutBG.png/931px-VicksburgRaceQueenWithoutBG.png)<br>出自作品:`azur lane` |  |
 | bibi biscuit | 比比·比斯凯特 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/7/7e/Bibi_Miltea.png)<br>日语：ビビ・ビスキット<br>所属团体：Phase-Connect |  |
 | otodama tamako | 音灵魂子 | ![](https://hololist.net/wp-content/uploads/2022/09/otodama-tamako.jpg)<br>所属企划：青桐高校 | [YouTube](https://www.youtube.com/@tamako0212) |
+| rana furuhata | 古畑兰娜 | ![](https://static.wikia.nocookie.net/blue-archive/images/4/41/Rana_Portrait.png)<br>日语：古畑ラナ<br>出自作品:`blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
