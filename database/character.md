@@ -10361,6 +10361,7 @@ example:
 | treyni | 托蕾妮 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/e/ef/Trainee_Anime.png)<br>日语：トレイニー<br>出自作品:`tensei shitara slime datta ken` |  |
 | rayneshia el-arte corwen | 蕾妮希雅·耶鲁艾特·柯文 | ![](https://static.wikia.nocookie.net/log-horizon/images/4/47/Ray_sng_lrc.png)<br>![](https://static.wikia.nocookie.net/log-horizon/images/5/53/Ray_sng_round_table.png)<br>日语：レイネシア＝エルアルテ＝コーウェン<br>出自作品:`log horizon` |  |
 | krusty | 克拉斯提（鸿池晴秋） | ![](https://static.wikia.nocookie.net/log-horizon/images/2/29/Krusty_sng_battle.png)<br>日语：クラスティ<br>出自作品:`log horizon` |  |
+| marielle | 玛莉艾儿（坂本鞠绘） | ![](https://static.wikia.nocookie.net/log-horizon/images/c/c8/Maryelle_sng_ur.png)<br>日语：マリエール<br>出自作品:`log horizon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
