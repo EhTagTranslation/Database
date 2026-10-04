@@ -15800,6 +15800,7 @@ example:
 | yurimo | ゆりも |  |  |
 | muteki | むてき |  |  |
 | sinokuma suketarou | しのくまスケ太郎 |  |  |
+| barakaba | ばらか馬 |  | [pixiv](https://www.pixiv.net/users/80975) \| [X](https://x.com/barakabadoh) |
 
 <!--TEMPLATE:
 |  |  |  |  |
