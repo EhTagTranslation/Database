@@ -14265,7 +14265,7 @@ example:
 | kouan | コーアン |  |  |
 | kasama shirou | 笠間しろう |  |  |
 | katsuyoshi | かつよし |  |  |
-| kawasaki | かわさき |  |  |
+| kawasaki | かわさき |  | [pixiv](https://www.pixiv.net/users/93077362) \| [X](https://x.com/Studiokwsk) \| [Fantia](https://fantia.jp/fanclubs/495050) \| [FANBOX](https://studiokwsk.fanbox.cc/) |
 | kaniguruma | かにぐるま |  | [pixiv](https://www.pixiv.net/users/56072812) \| [X](https://x.com/kaniguruma) |
 | keibou | ケイボウ |  |  |
 | ken sogen | 研そうげん |  |  |
