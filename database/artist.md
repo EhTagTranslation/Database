@@ -7876,7 +7876,7 @@ example:
 | milk panda | みるくぱんだ |  |  |
 | milkcow | MILKCOW |  |  |
 | milkexplorer | MilkExplorer |  |  |
-| milkshake | 奶昔 |  |  |
+| milkshake | 奶昔 | 日语：ミルクセーキ |  |
 | millefeuille | ミル・フィーユ |  |  |
 | milli | ミリ |  |  |
 | milts | みるつ |  |  |
