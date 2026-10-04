@@ -15797,6 +15797,7 @@ example:
 | hinokimaru | ひのき丸 |  |  |
 | shibahu cake | 芝生ケーキ |  |  |
 | rube | るべ |  |  |
+| yurimo | ゆりも |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
