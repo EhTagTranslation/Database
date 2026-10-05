@@ -15806,6 +15806,7 @@ example:
 | kuwacchii | くわっちー |  |  |
 | kawata hiyori | 河田ひより |  |  |
 | yamakusa yuu | 山草遊 |  |  |
+| awami ao | 泡未アオ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
