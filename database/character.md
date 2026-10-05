@@ -6816,7 +6816,7 @@ example:
 | venelana gremory | 维妮拉娜·吉蒙里 | ![](https://static.wikia.nocookie.net/highschooldxd/images/9/9a/VenelanaHERO.png)<br>日语：ヴェネラナ・グレモリー<br>所属作品：`highschool dxd` |  |
 | serafall leviathan | 赛拉芙露·利维坦 | 所属作品：`highschool dxd`<br>![](https://ehgt.org/w/02/035/54226-3b6r7lts.webp) |  |
 | yasaka | 八坂 | 所属作品：`highschool dxd`<br>![](https://ehgt.org/w/02/007/41123-brteqd94.webp) |  |
-| seiha shiunji | 紫云寺清叶 | 所属作品：`shiunji-ke no kodomotachi`<br>![](https://ehgt.org/w/01/945/08660-uf6nn3re.webp) |  |
+| seiha shiunji | 紫云寺清叶 | ![](https://static.wikia.nocookie.net/shiunjike-no-kodomotachi/images/9/95/Seiha_Shiunji_Anime.png)<br>所属作品：`shiunji-ke no kodomotachi` |  |
 | cesario | 西沙里奥 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/7/75/l0ej65vgvpl0c6h5hdwipzvw57nole2.png/600px-Jsf_111001.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/西沙里奥) |
 | akemi kurihama | 栗浜明美 | ![](https://static.wikia.nocookie.net/blue-archive/images/1/1e/Akemi_Portrait.png)<br>所属作品: `p:blue archive` | [Fandom](https://bluearchive.fandom.com/wiki/Kurihama_Akemi) [萌娘百科](https://zh.moegirl.org.cn/栗滨明美) |
 | uri-tan | 小瓜(瓜仔) | 所属作品: `p:etotama`<br><br>代表野猪的干支神。干支神中的吉祥物般的存在，是干支神们的妹妹。 | [萌娘百科](https://zh.moegirl.org.cn/小瓜) [Fandom](https://etotama.fandom.com/wiki/Uri-tan) |
