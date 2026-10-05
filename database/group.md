@@ -12672,7 +12672,7 @@ example:
 | zyougesayuu | 上下左右 |  |  |
 | rakuenya | 乐园屋 |  |  |
 | torinoya | とりの屋 |  |  |
-| gomikasu tarou | 五味滓太郎 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202211/) |
+| gomikasu tarou | 五味滓太郎 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202211/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56833.html) |
 | kaoinshou zero | 顔印象零 |  |  |
 | yasudajuku | 保田塾 |  |  |
 | mahou no kinoko | 魔法のキノコ |  |  |
