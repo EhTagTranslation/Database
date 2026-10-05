@@ -15804,6 +15804,7 @@ example:
 | yawaraka | やわらか |  |  |
 | denki kurage | でんきくらげ |  |  |
 | kuwacchii | くわっちー |  |  |
+| kawata hiyori | 河田ひより |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
