@@ -15031,7 +15031,7 @@ example:
 | paya8 | Paya8 |  | [FANBOX](https://paya8.fanbox.cc/) \| [X](https://x.com/paya8_) \| [pixiv](https://www.pixiv.net/users/2269776) |
 | toratora | Toratora |  | [Patreon](https://www.patreon.com/cw/torara) |
 | shikabanekamo | しかばねかも |  |  |
-| otto | おっと |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG70345.html) \| [DLsite](https://ci-en.dlsite.com/creator/15818) |
+| otto | おっと |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG70345.html) \| [Ci-en](https://ci-en.dlsite.com/creator/15818) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=213756/) |
 | wakahi-chan | わかひちゃん |  | [X](https://x.com/raimy0099) |
 | glty07 | ゴル |  | [FANBOX](https://www.fanbox.cc/@glty07) \| [pixiv](https://www.pixiv.net/users/3276484) \| [X](https://x.com/glty07) |
 | haimen tayuta | 灰綿たゆた |  | [X](https://x.com/Bombe_bug) |
