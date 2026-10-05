@@ -7750,7 +7750,7 @@ example:
 | mebura | めぶら |  |  |
 | mee | めー |  |  |
 | meem | MEEM! |  |  |
-| megi | めぎ |  |  |
+| megi | めぎ |  | [FANZA](https://book.dmm.co.jp/list/?author=255681) |
 | mego | めご |  |  |
 | meguo | メグオ |  |  |
 | meguro | 目黒 |  |  |
