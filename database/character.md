@@ -8025,7 +8025,7 @@ example:
 | elena kimberlight | 埃琳娜·金巴莱特 | ![](https://ehgt.org/w/02/186/15277-mza3dsjn.webp)<br>所属作品：`kinsou no vermeil` | [百度百科](https://baike.baidu.com/item/埃琳娜·金巴莱特/61743461) |
 | aki nijou | 二条秋 | ![](https://static.wikia.nocookie.net/makenki/images/b/b7/Aki_nijou.jpg)<br>![](https://static.wikia.nocookie.net/makenki/images/b/b5/Akibreasts2.gif)<br>所属作品：`maken-ki` |  |
 | inaho kushiya | 栉八稻穗 | ![](https://static.wikia.nocookie.net/makenki/images/1/12/Inaho_Profile.png)<br>所属作品：`maken-ki`<br>检警部所属，天日学园1年级B班，自称是武的未婚妻。 |  |
-| kodama himegami | 姬神木灵 | ![](https://static.wikia.nocookie.net/makenki/images/d/da/HimeMug.png)<br>所属作品：`maken-ki`<br>天日学园2年级A班，检警部成员。 |  |
+| kodama himegami | 姬神木灵 | ![](https://static.wikia.nocookie.net/makenki/images/0/0e/Kodama_himegami.jpg)<br>所属作品：`maken-ki` |  |
 | takeru ohyama | 大山武 | ![](https://static.wikia.nocookie.net/makenki/images/f/f8/Takeru_Profile.png)<br>所属作品：`maken-ki`<br>本作主角。检警社所属。就读1年B班。 |  |
 | maia tachiki | 立木迈亚 | ![](https://static.wikia.nocookie.net/blue-archive/images/a/a1/Maia_Portrait.png)<br>所属作品: `p:blue archive`<br>日语:立木マイア | [Fandom](https://bluearchive.fandom.com/wiki/Tachiki_Maia) |
 | pearl | 珍珠号 | ![](https://patchwiki.biligame.com/images/blhx/thumb/3/33/n7xfyd5j0yytnrrdc27jc4cu3uxl8r7.jpg/525px-珍珠号立绘.jpg)<br>![](https://patchwiki.biligame.com/images/blhx/thumb/d/d0/ne4fh4tmqu96umfl01m9ieqfhrbyxcb.jpg/525px-珍珠号换装.jpg)<br>所属作品：`azur lane`<br>原型为HMS 珍珠号，是皇家海军的一艘42炮五级风帆战舰。 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/珍珠号) |
