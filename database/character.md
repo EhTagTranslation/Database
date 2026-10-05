@@ -10367,6 +10367,7 @@ example:
 | arisu terui | 照井有栖 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ed/f3/133206_crt_c3txF.jpg)<br>日语：照井ありす<br>出自作品:`seitokai ni mo ana wa aru` |  |
 | fukuma | 伏摩 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/b/b1/Fukuma_manga_pfp.webp)<br>出自作品:`mato seihei no slave` |  |
 | senta yamada asaemon | 山田浅卫门仙汰 | ![](https://static.wikia.nocookie.net/jigokuraku/images/9/96/Yamada_Asaemon_Senta_Anime_Concept_Art.png)<br>出自作品:`jigokuraku` |  |
+| anju nabari | 隐杏珠 | ![](https://t.vndb.org/ch/99/180599.jpg)<br>出自作品:`limelight lemonade jam` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
