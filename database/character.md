@@ -10364,6 +10364,7 @@ example:
 | marielle | 玛莉艾儿（坂本鞠绘） | ![](https://static.wikia.nocookie.net/log-horizon/images/c/c8/Maryelle_sng_ur.png)<br>日语：マリエール<br>出自作品:`log horizon` |  |
 | shiroe | 城惠（城钟惠） | ![](https://static.wikia.nocookie.net/log-horizon/images/4/42/Shiroe_sng_lr.png)<br>日语：シロエ<br>外号：腹黑眼镜<br>出自作品:`log horizon` |  |
 | cardin winchester | 卡登·温彻斯特‌ | 出自作品:`rwby` |  |
+| arisu terui | 照井有栖 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ed/f3/133206_crt_c3txF.jpg)<br>日语：照井ありす<br>出自作品:`seitokai ni mo ana wa aru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
