@@ -14375,6 +14375,7 @@ example:
 | funya milk | ふにゃみるく |  |  |
 | ill be bear | I’ll be BEAR |  |  |
 | tokushuyokujou tondenhei | 特殊浴場屯田兵 |  |  |
+| bimi to no souguu | 美味との遭遇 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
