@@ -2289,7 +2289,7 @@ example:
 | girls band cry | 少女乐队的呐喊 | 《GIRLS BAND CRY》（日语：ガールズバンドクライ），简称gbc或少哭（日语：ガルクラ），是由东映动画、agehasprings和环球音乐联合策划制作的一部原创动画，以及衍生跨媒体企划。<br>![](https://img.moegirl.org.cn/common/4/4c/GBC_togetoge.png) | [萌娘百科](https://zh.moegirl.org.cn/GIRLS_BAND_CRY) |
 | helldivers | 绝地潜兵 | 《绝地潜兵》（Helldivers）是由Arrowhead Game Studios开发，Sony Computer Entertainment出版的俯视角射击游戏。<br>![](https://img.moegirl.org.cn/common/0/01/Helldiver_Cover.webp) | [萌娘百科](https://zh.moegirl.org.cn/绝地潜兵) |
 | cross core | 交错战线 | 一款机甲科幻题材的二次元风格手游 | [官网](https://www.megagamelog.com/#home) |
-| seitokai ni mo ana wa aru | 脑洞学生会 | 《脑洞学生会》（日语：生徒会にも穴はある！）是由むちまろ创作的一部四格漫画。<br>![](https://img.moegirl.org.cn/common/2/28/脑洞学生会_1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/脑洞学生会) |
+| seitokai ni mo ana wa aru | 脑洞学生会 | ![](https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_oPitO.jpg)<br>日语：生徒会にも穴はある！ | [萌娘百科](https://zh.moegirl.org.cn/脑洞学生会) |
 | wan sheng jie | 万圣街 |  |  |
 | make heroine ga oosugiru | 败犬女主太多了！ | 《败犬女主也太多了！》（日语：負けヒロインが多すぎる！）是雨森焚火著作、いみぎむる负责插画、GAGAGA文库所属的轻小说。<br>![](https://img.moegirl.org.cn/common/9/9e/負けヒロインが多すぎる！.jpg) | [漫画官网](https://urasunday.com/title/1993/181855)<br>[动画官网](https://makeine-anime.com/)<br>[维基百科](https://zh.wikipedia.org/wiki/敗北女角太多了！)<br>[萌娘百科](https://zh.moegirl.org.cn/败犬女主也太多了！) |
 | tokidoki bosotto russia-go de dereru tonari no alya-san | 不时轻声地以俄语遮羞的邻座艾莉同学 | 《不时轻声地以俄语遮羞的邻座艾莉同学》（日语：時々ボソッとロシア語でデレる隣のアーリャさん，简称ろしでれ）是由燦々SUN所撰写， ももこ负责插画，KADOKAWA出版的一部小说，并有动画等衍生作品。<br>![](https://img.moegirl.org.cn/common/3/35/Roshidere.jpg) | [萌娘百科](https://zh.moegirl.org.cn/不时轻声地以俄语遮羞的邻座艾莉同学) |
