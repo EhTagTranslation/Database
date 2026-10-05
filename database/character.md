@@ -10370,6 +10370,7 @@ example:
 | anju nabari | 隐杏珠 | ![](https://t.vndb.org/ch/99/180599.jpg)<br>出自作品:`limelight lemonade jam` |  |
 | girlfriend | 女朋友 | ![](https://static.wikia.nocookie.net/fnf/images/e/e9/Gfboombox.gif)<br>出自作品:`friday night funkin` |  |
 | minori rokujou | 六条实 | ![](https://static.wikia.nocookie.net/makenki/images/2/2a/3e914c79d35e79a2a2c53792d736f39a.png)<br>![](https://static.wikia.nocookie.net/makenki/images/9/93/1011600b5b65feea6451ceb3f67a05d1.gif)<br>日语：六条実<br>出自作品:`maken-ki` |  |
+| love espada | 艾斯帕妲·拉芙 | ![](https://static.wikia.nocookie.net/makenki/images/d/df/Manga_Cover_Vol_16.jpg)<br>日语：エスパダ・ラブ<br>出自作品:`maken-ki` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
