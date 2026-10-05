@@ -14371,6 +14371,7 @@ example:
 | unisonshift blossom | ユニゾンシフト：ブロッサム |  |  |
 | bonbee | ボンビー |  |  |
 | barakabadoh | ばらか馬堂 | ばらか馬堂 （ばらかばどう） | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=235939/) \| [Ci-en](https://ci-en.dlsite.com/creator/11102) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01075599.html) |
+| mishirosabi | 三代錆 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
