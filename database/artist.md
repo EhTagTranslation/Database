@@ -10238,7 +10238,7 @@ example:
 | sirazawa kousi | 白沢宏志 |  |  |
 | sirofugu | 白フグ |  |  |
 | sirokoma | 白狛 |  |  |
-| sirokuma | しろくま |  |  |
+| sirokuma | しろくま \| 白球磨☆° | 重名<br>一位是以【I'll be BEAR】活动的【白球磨☆°】，主要在同人志领域活动<br>一位是以【しろくま】，主要给商业志供稿 | 白球磨☆°：[X](https://x.com/IllbeBEAR) [pixiv](https://www.pixiv.net/users/76756424) [fanza](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=0730875c-64d4-11f0-ba33-0242ac160002/section=mens/) [dlsite](https://t.co/Ke8go08Vv3)<br>しろくま：[X](https://x.com/sirokuma_desu)  [pixiv](https://www.pixiv.net/users/3671749) |
 | sirou | Sirou |  |  |
 | siroyuki | しろゆき |  |  |
 | sirpent | さあぺんと |  |  |
