@@ -14374,6 +14374,7 @@ example:
 | mishirosabi | 三代錆 |  |  |
 | funya milk | ふにゃみるく |  |  |
 | ill be bear | I’ll be BEAR |  |  |
+| tokushuyokujou tondenhei | 特殊浴場屯田兵 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
