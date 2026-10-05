@@ -2553,7 +2553,7 @@ example:
 | toyosaki shu | 一咲 | 豊咲 | [pixiv](https://www.pixiv.net/users/7710679) [X](https://x.com/_toyosak1) |
 | mutou koucha | 无糖红茶 |  | [pixiv](https://www.pixiv.net/users/29033553) [X](https://x.com/mutoukoutya610) |
 | kurihara kenshirou | 栗原ケンシロウ |  |  |
-| matsumotoke | 松本家御愛用 |  |  |
+| matsumotoke | 松本家御愛用 |  | [pixiv](https://www.pixiv.net/users/33161252) \| [FANBOX](https://kotomustam.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/15164) \| [Skeb](https://skeb.jp/@lIllIllIIllIllI) \| [X](https://x.com/lIllIllIIllIllI) |
 | utamaro | 歌麿 |  |  |
 | tadima yoshikadu | 田岛芳和 | たぢまよしかづ | [X](https://x.com/taditadi) [pixiv](https://www.pixiv.net/users/25332) [个人网站](http://nekomarudow.com) [Facebook](https://www.facebook.com/people/たぢま-よしかづ/100029764654083) |
 | puuakachan | プーアカちゃん |  | [X](https://x.com/puakachan) [pixiv](https://www.pixiv.net/users/385307) [个人网站](https://pupuakachan.tumblr.com) |
