@@ -15807,6 +15807,7 @@ example:
 | kawata hiyori | 河田ひより |  |  |
 | yamakusa yuu | 山草遊 |  |  |
 | awami ao | 泡未アオ |  |  |
+| mikazuki shine | 三日月シャイン | 三日月シャイン （みかづきしゃいん） | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201400/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53130.html) \| [Ci-en](https://ci-en.dlsite.com/creator/20019) |
 
 <!--TEMPLATE:
 |  |  |  |  |
