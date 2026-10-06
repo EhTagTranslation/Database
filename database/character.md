@@ -10371,6 +10371,7 @@ example:
 | girlfriend | 女朋友 | ![](https://static.wikia.nocookie.net/fnf/images/e/e9/Gfboombox.gif)<br>出自作品:`friday night funkin` |  |
 | minori rokujou | 六条实 | ![](https://static.wikia.nocookie.net/makenki/images/2/2a/3e914c79d35e79a2a2c53792d736f39a.png)<br>![](https://static.wikia.nocookie.net/makenki/images/9/93/1011600b5b65feea6451ceb3f67a05d1.gif)<br>日语：六条実<br>出自作品:`maken-ki` |  |
 | love espada | 艾斯帕妲·拉芙 | ![](https://static.wikia.nocookie.net/makenki/images/d/df/Manga_Cover_Vol_16.jpg)<br>日语：エスパダ・ラブ<br>出自作品:`maken-ki` |  |
+| mireille grangeon | 米蕾优·格兰吉恩 | ![](https://static.wikia.nocookie.net/reincarnated-as-an-aristocrat-with-appraisal-skill/images/2/2d/Mireille_main.webp)<br>出自作品:`tensei kizoku kantei skill de nariagaru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
