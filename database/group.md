@@ -2458,7 +2458,7 @@ example:
 | a-anima | A-Anima |  |  |
 | a-arinco | A-arinco |  |  |
 | a-hole | A-HOLE |  |  |
-| a-lucky murashige no ran | A-Lucky☆村重の乱 |  |  |
+| a-lucky murashige no ran | A-Lucky☆村重の乱 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201431/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54638.html) |
 | a-mania9s | A-mania9's |  |  |
 | a-mw. | A-mw. |  |  |
 | a-office | A-office |  |  |
