@@ -4703,7 +4703,7 @@ example:
 | penny | 牡丹 \| 潘妮 | ①所属作品：`pokemon`<br>![](https://s1.52poke.com/wiki/thumb/b/b7/牡丹_SV.png/179px-牡丹_SV.png)<br>日语：ボタン<br><br>②所属作品：`stardew valley`<br>![](https://static.wikia.nocookie.net/stardewvalley/images/a/ab/Penny.png) | [萌娘百科](https://zh.moegirl.org.cn/牡丹%28宝可梦%29#) |
 | arslan | 亚尔斯兰 |  |  |
 | tobio kageyama | 影山飞雄 |  | [萌娘百科](https://zh.moegirl.org.cn/影山飞雄) |
-| kirari momobami | 桃喰绮罗莉 | 桃喰绮罗莉，所属作品:`p:kakegurui`<br>是《狂赌之渊》系列及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/5/5c/Kirari-momobami-108801.jpg) | [萌娘百科](https://zh.moegirl.org.cn/桃喰绮罗莉) |
+| kirari momobami | 桃喰绮罗莉 | ![](https://static.wikia.nocookie.net/kakegurui/images/f/f8/Kirari_full_body.png)<br>所属作品:`p:kakegurui` | [萌娘百科](https://zh.moegirl.org.cn/桃喰绮罗莉) |
 | twin turbo | 双涡轮 | ![](https://moegirl.icu/media/thumb/UPDCH_TwinTurbo_00.png/580px-UPDCH_TwinTurbo_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹ツインターボ（Twin Turbo）。 | [萌娘百科](https://zh.moegirl.org.cn/双涡轮) |
 | kishirika kishirisu | 奇希莉卡·奇希里斯 | ![](https://img.moegirl.org.cn/common/5/56/奇希莉卡·奇希里斯人设图.png)<br>所属作品:`p:mushoku tensei` | [萌娘百科](https://zh.moegirl.org.cn/奇希莉卡·奇希里斯) |
 | urushi yaotome | 八乙女漆 | 所属作品:`p:soredemo ayumu wa yosetekuru`<br>![](https://img.moegirl.org.cn/common/a/a8/YaotomeUrushi.jpg) | [萌娘百科](https://zh.moegirl.org.cn/八乙女漆) |
