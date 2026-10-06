@@ -10372,6 +10372,7 @@ example:
 | minori rokujou | 六条实 | ![](https://static.wikia.nocookie.net/makenki/images/2/2a/3e914c79d35e79a2a2c53792d736f39a.png)<br>![](https://static.wikia.nocookie.net/makenki/images/9/93/1011600b5b65feea6451ceb3f67a05d1.gif)<br>日语：六条実<br>出自作品:`maken-ki` |  |
 | love espada | 艾斯帕妲·拉芙 | ![](https://static.wikia.nocookie.net/makenki/images/d/df/Manga_Cover_Vol_16.jpg)<br>日语：エスパダ・ラブ<br>出自作品:`maken-ki` |  |
 | mireille grangeon | 米蕾耶·格兰吉恩 | ![](https://lain.bgm.tv/r/400/pic/crt/l/9c/54/152309_crt_33rRA.jpg?r=1707919896)<br>日语：ミレーユ・グランジオン<br>出自作品:`tensei kizoku kantei skill de nariagaru` |  |
+| kaede sakura | 沙仓枫 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
