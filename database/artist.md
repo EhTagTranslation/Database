@@ -1234,7 +1234,7 @@ example:
 | yumesaki sanjuro | 夢咲三十郎 |  |  |
 | sakomae aichi | 佐古前あいち | （あいの智絵） |  |
 | bakuya | ばくや |  |  |
-| c.meiko | C.みーこ |  |  |
+| c.meiko | C.みーこ |  | [pixiv](https://www.pixiv.net/users/3699481) |
 | eightman | えいとまん |  |  |
 | henoeno | へのえの |  |  |
 | kurofood | くろふーど |  |  |
