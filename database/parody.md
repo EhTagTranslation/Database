@@ -1567,7 +1567,7 @@ example:
 | ssss.dynazenon | SSSS.电光机王 | 《SSSS.DYNAZENON》（日语：ダイナゼノン）是由TRIGGER制作的一部原创动画。 | [萌娘百科](https://zh.moegirl.org.cn/SSSS.DYNAZENON) |
 | yagate kimi ni naru | 终将成为你 | 故事以“远见东高中”为舞台，主轴为不会对他人产生特殊好感与因自我厌恶不会接受别人善意的两位少女之间的故事。 | [萌娘百科](https://zh.moegirl.org.cn/终将成为你) [维基百科](https://zh.wikipedia.org/wiki/終將成為妳) |
 | maji de watashi ni koi shinasai | 请认真的和我恋爱 | ![](https://ehgt.org/w/00/497/71609-hh7c64bo.webp)<br>![](https://ehgt.org/w/02/073/43453-qtiw0bi5.webp) |  |
-| lodoss-tou senki | 罗德岛战记 | 《罗德斯岛战记》是1990年至1991年间由角川书店、丸红、东京放送、角川 Media Office所联合制作的动画，并在2006年推出复刻版DVD。<br>全篇共13集，其中前8集的内容取材自水野良《罗德岛战记》第一卷《灰色的魔女》，后5集取材自《罗德岛战记》第三卷《火龙山的魔龙》。<br>小说写于1988年。2013年日本地区发售25周年豪华纪念版。 | [百度百科](https://baike.baidu.com/item/罗德岛战记/84494) |
+| lodoss-tou senki | 罗德岛战记 | ![](https://lain.bgm.tv/r/400/pic/cover/l/95/e2/13971_39R7a.jpg)<br>日语：ロードス島戦記 | [百度百科](https://baike.baidu.com/item/罗德岛战记/84494) |
 | tantei wa mou shindeiru. | 侦探已死 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e0/8e/325727_U1eEj.jpg)<br>日语：探偵はもう、死んでいる | [维基百科](https://zh.wikipedia.org/wiki/偵探已經，死了。) [萌娘百科](https://zh.moegirl.org.cn/侦探已经死了) |
 | the secret of kells | 凯尔经的秘密 | 《凯尔经的秘密》取材于爱尔兰基督教插图手抄本《凯尔经》，讲述了一位怀揣理想的少年克服重重困难绘制经书的故事。 |  |
 | anarchy reigns | 极度混乱 | 《极度混乱》（日版名：マックス アナーキー，Max Anarchy，英文版名：Anarchy Reigns）是白金工作室开发，世嘉所发行，以PlayStation 3及XBOX 360为平台的多人动作游戏，于2012年7月5日发行。《极度混乱》是白金工作室首度制作的在线多人联机游戏。 |  |
