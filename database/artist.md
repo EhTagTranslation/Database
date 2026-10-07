@@ -3449,7 +3449,7 @@ example:
 | tonari | 隣 |  |  |
 | sawaragi | 沢良宜 |  |  |
 | sanrokumaru | さんろく丸 |  |  |
-| kuga mayuri | 久我茧莉 |  |  |
+| kuga mayuri | 久我茧莉 | 日语: 久我繭莉 | [pixiv](https://www.pixiv.net/users/18655713) \| [X](https://x.com/noot_kenzen) \| [Pawoo](https://pawoo.net/@morinaga_5) |
 | jiyu2 | 磁油2 |  |  |
 | yoshida | 吉田 |  |  |
 | dokukinokozin | 毒茸人 |  |  |
