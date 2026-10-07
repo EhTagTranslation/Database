@@ -10374,6 +10374,7 @@ example:
 | mireille grangeon | 米蕾耶·格兰吉恩 | ![](https://lain.bgm.tv/r/400/pic/crt/l/9c/54/152309_crt_33rRA.jpg?r=1707919896)<br>日语：ミレーユ・グランジオン<br>出自作品:`tensei kizoku kantei skill de nariagaru` |  |
 | kaede sakura | 沙仓枫 |  |  |
 | ultima | 乌尔缇玛 | ![](https://static.wikia.nocookie.net/p__/images/a/a7/Ultima_Anime.webp)<br>出自作品:`tensei shitara slime datta ken` |  |
+| rea himuro | 冰室玲爱 | 氷室玲愛 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
