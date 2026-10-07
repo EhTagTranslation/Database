@@ -14322,7 +14322,7 @@ example:
 | nimurock | にむろっく |  |  |
 | tsurumiya | つるみ屋 |  |  |
 | skip beat studio | スキップビートスタジオ |  |  |
-| sutorobokonbu | とろぼこんぶ |  |  |
+| sutorobokonbu | すとろぼこんぶ |  |  |
 | taiyaki pan | るぷすどっとこむ |  |  |
 | ringo gakuen | りんご学園 |  |  |
 | reversible panda | Re:versibleパンダ |  |  |
