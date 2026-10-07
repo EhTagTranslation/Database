@@ -2402,7 +2402,7 @@ example:
 | popolocrois | 波波罗古洛伊斯物语 |  | [维基百科](https://zh.wikipedia.org/wiki/波波羅古洛伊斯物語) |
 | jubei-chan | 十兵卫 |  | [维基百科](https://zh.wikipedia.org/wiki/十兵衛) |
 | aharen-san wa hakarenai | 测不准的阿波连同学 |  |  |
-| dies irae | 末日审判书 -查拉图斯特拉如是说- | Dies irae -Also sprach Zarathustra- |  |
+| dies irae | Dies irae | 震怒之日，末日經 |  |
 | seven of seven | 七人之奈奈 |  | [萌娘百科](https://zh.moegirl.org.cn/七人之奈奈) [维基百科](https://zh.wikipedia.org/wiki/七小花) |
 | futari ecchi | 夫妻成长日记 | 男主小野田真通过相亲结识她的妻子小野田优良，故事则围绕这对新婚夫妻和他们的邻居、亲人的日常生活和性生活展开。 | [维基百科](https://zh.wikipedia.org/wiki/夫妻成長日記) [萌娘百科](https://zh.moegirl.org.cn/夫妻成长日记) |
 | jutaijima | 受胎岛 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/受胎島) [Fandom](https://limho.fandom.com/zh/wiki/受胎岛) |
