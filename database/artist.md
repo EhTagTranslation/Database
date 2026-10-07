@@ -7486,7 +7486,7 @@ example:
 | ma-yu | ma-yu |  |  |
 | mabo | マボ |  |  |
 | maboku | 魔ボク |  |  |
-| mabuchoko m | マブチョコ M |  |  |
+| mabuchoko m | マブチョコ\_m |  |  |
 | mac-v | MAC-V |  |  |
 | macanoka | マカノカ |  |  |
 | macaroni | まかろに |  |  |
