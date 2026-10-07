@@ -4526,7 +4526,7 @@ example:
 | ulrich von hutten | 乌尔里希·冯·胡滕 | 所属作品: `p:azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/feca3b6cd865bda6e06ae7f93dff5667262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:乌尔里希·冯·胡滕) [Bili Wiki](https://wiki.biligame.com/blhx/乌尔里希·冯·胡滕) |
 | joey | 乔伊 |  |  |
 | feng min | 凤敏 |  |  |
-| friedrich der grosse | 腓特烈大帝 | ![](https://i2.hdslb.com/bfs/new_dyn/37535af5e81715ba6f29664a85f2da50262400697.png)<br>所属作品：`azur lane` | [碧蓝航线wiki](https://azurlane.koumakan.jp/wiki/Friedrich_der_Große) |
+| friedrich der grosse | 腓特烈大帝 | ![](https://azurlane.netojuu.com/images/thumb/6/6d/Friedrich_der_GroßeNew_YearWithoutBG.png/1319px-Friedrich_der_GroßeNew_YearWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/1/17/Friedrich_der_GroßeSpringWithoutBG.png/1643px-Friedrich_der_GroßeSpringWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/d/df/Friedrich_der_GroßeSummerWithoutBG.png/2012px-Friedrich_der_GroßeSummerWithoutBG.png)<br>所属作品：`azur lane` | [碧蓝航线wiki](https://azurlane.koumakan.jp/wiki/Friedrich_der_Große) |
 | mio naruse | 成濑澪 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/b/b6/Mio_Naruse.png)<br>所属作品：`shinmai maou no testament` | [萌娘百科](https://zh.moegirl.org.cn/成濑澪) |
 | maria naruse | 成濑万理亚 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/05/02/06/29/03/129931758_p1_master1200.jpg)<br>所属作品：`shinmai maou no testament`。 | [萌娘百科](https://zh.moegirl.org.cn/成濑万理亚) [Fandom](https://shinmaimaou.fandom.com/wiki/Maria_Naruse) |
 | frederica baumann | 法兰黛莉卡·鲍曼 | ![](https://ehgt.org/w/02/280/76503-oqmk48u6.webp)<br>所属作品：`re zero kara hajimeru isekai seikatsu` | [萌娘百科](https://zh.moegirl.org.cn/法兰黛莉卡·鲍曼) |
