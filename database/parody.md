@@ -3038,6 +3038,7 @@ example:
 | hanaori-san wa tensei shite mo kenka ga shitai | 花织即使是转生也想打架 | ![](https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg)<br>日语：花織さんは転生しても喧嘩がしたい |  |
 | friday night funkin | 周五夜放克 | ![](https://lain.bgm.tv/r/400/pic/cover/l/96/8d/331666_7uXLB.jpg) |  |
 | doumo suki na hito ni horegusuri o irai sareta majo desu. | 你好，我是受心上人所托来做恋爱药的魔女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/73/99/624923_4u99L.jpg)<br>日语：どうも、好きな人に惚れ薬を依頼された魔女です |  |
+| jet force gemini | 喷射力量双子星 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
