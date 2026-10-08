@@ -6300,7 +6300,7 @@ example:
 | sophie neuenmuller | 苏菲·诺伊恩缪拉 | ![](https://img.moegirl.org.cn/common/thumb/d/dc/苏菲·诺伊恩缪拉.png/375px-苏菲·诺伊恩缪拉.png)<br>所属作品：`atelier sophie`<br>居住在基尔亨·贝尔郊区，经营炼金工房的少女。 | [萌娘百科](https://zh.moegirl.org.cn/苏菲·诺伊恩缪拉) [Fandom](https://atelier.fandom.com/wiki/Sophie_Neuenmuller) |
 | orie takadate | 高楯欧丽叶 | 所属作品: `p:tenshi souzou re-boot` |  |
 | mint | 薄荷 \| 薄绿 | 薄荷<br>![](https://static.wikia.nocookie.net/neverness-to-everness/images/a/a9/Mint_in_game_Model.png)<br>所属作品：`neverness to everness`<br>——————<br>薄绿<br>![](https://patchwiki.biligame.com/images/arknights/4/40/q10fdkp78xgsf8s8rdihzexhbbrsxpy.png)<br>所属作品`p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/薄绿) |
-| almond eye | 杏目 | ![](https://ehgt.org/w/02/080/30377-bobwccl9.webp)<br>出自作品：`p:uma musume pretty derby`<br><br>杏目是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹アーモンドアイ（Almond Eye） | [萌娘百科](https://zh.moegirl.org.cn/杏目) |
+| almond eye | 杏目 | ![](https://static.wikia.nocookie.net/umamusume/images/9/9a/Almond_Eye_%28Race%29.png)<br>日语：アーモンドアイ<br>出自作品：`p:uma musume pretty derby` | [萌娘百科](https://zh.moegirl.org.cn/杏目) |
 | maya yotsuba | 四叶真夜 | ![](https://static.wikia.nocookie.net/mahouka-koukou-no-rettousei/images/e/ee/Yotsuba-Maya-GM-RM-Fullbody.png)<br>出自作品：`mahouka koukou no rettousei` |  |
 | suzune amano | 天乃铃音 | 所属作品: `p:puella magi suzune magica` | [萌娘百科](https://zh.moegirl.org.cn/天乃铃音) |
 | tsubaki mikoto | 美琴椿 | 所属作品: `p:puella magi suzune magica` | [萌娘百科](https://zh.moegirl.org.cn/美琴椿) |
