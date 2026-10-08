@@ -279,7 +279,7 @@ example:
 | pote | ぽて |  |  |
 | karakuchi choucream | 樱井マキ |  |  |
 | mafen | マフェン |  |  |
-| kuroda kuro | 黑田クロ |  |  |
+| kuroda kuro | 黒田クロ |  |  |
 | ooooalikui | おおおおありくい |  |  |
 | juna juna juice | ジュナジュナジュース |  |  |
 | hiro hiroki | ひろひろき |  |  |
