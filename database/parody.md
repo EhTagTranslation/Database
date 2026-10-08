@@ -3039,6 +3039,7 @@ example:
 | friday night funkin | 周五夜放克 | ![](https://lain.bgm.tv/r/400/pic/cover/l/96/8d/331666_7uXLB.jpg) |  |
 | doumo suki na hito ni horegusuri o irai sareta majo desu. | 你好，我是受心上人所托来做恋爱药的魔女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/73/99/624923_4u99L.jpg)<br>日语：どうも、好きな人に惚れ薬を依頼された魔女です |  |
 | jet force gemini | 喷射力量双子星 |  |  |
+| tenkou-saki no seiso karen na bishoujo | 转学后班上的清纯可爱美少女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/e2/456080_IskBl.jpg)<br>全名：转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿<br>日语：転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
