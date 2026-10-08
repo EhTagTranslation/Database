@@ -10377,6 +10377,7 @@ example:
 | rea himuro | 冰室玲爱 | 氷室玲愛 |  |
 | bailu youyun | 白鹿游云 | ![](https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/48/Bailu_Youyun.png)<br>出自作品:`honkai gakuen` |  |
 | george weasley | 乔治·韦斯莱 | 出自作品:`harry potter` |  |
+| fred weasley | 弗雷德·韦斯莱 | 出自作品:`harry potter` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
