@@ -14377,6 +14377,7 @@ example:
 | tokushuyokujou tondenhei | 特殊浴場屯田兵 |  |  |
 | bimi to no souguu | 美味との遭遇 |  |  |
 | nobotchi seisakusho | ノボッチ製作所 |  |  |
+| touou | トウオウ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
