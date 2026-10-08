@@ -14819,7 +14819,7 @@ example:
 | moki-kun | Moki君 |  | [pixiv](https://www.pixiv.net/users/5213710) |
 | horita ahan | 堀田阿伴 |  |  |
 | di le to | DI LE TO |  | [pixiv](https://www.pixiv.net/users/72384494) \| [X](https://x.com/DI_LE_TO) |
-| saimon k | 西門K |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=1133f4ca-64d4-11f0-ba33-0242ac160002/section=mens/) |
+| saimon k | 西門K |  | [Ci-en](https://ci-en.dlsite.com/creator/5541) \| [Lit.Link](https://lit.link/en/saimonk) \| [Pawoo](https://pawoo.net/@saimon_k) \| [X](https://x.com/saimon_k21) \| [pixiv](https://www.pixiv.net/users/37814259) |
 | not enough milk | Not Enough Milk |  | [linktr.ee](https://linktr.ee/notenoughmilk) |
 | camekame | かめかめ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22かめかめ%22/ana_flg/all) |
 | itokawa | いとかわ |  | [melonbooks](https://www.melonbooks.co.jp/search/search.php?name=いとかわ&text_type=author) |
