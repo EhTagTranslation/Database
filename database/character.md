@@ -10378,6 +10378,7 @@ example:
 | bailu youyun | 白鹿游云 | ![](https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/48/Bailu_Youyun.png)<br>出自作品:`honkai gakuen` |  |
 | george weasley | 乔治·韦斯莱 | 出自作品:`harry potter` |  |
 | fred weasley | 弗雷德·韦斯莱 | 出自作品:`harry potter` |  |
+| haruto zenfis | 哈特·泽菲斯 | ![](https://static.wikia.nocookie.net/jitsu-wa-ore-saikyou-deshita/images/c/cf/Anime_Haruto.png)<br>日语：ハルト・ゼンフィス<br>出自作品:`jitsu wa ore saikyou deshita` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
