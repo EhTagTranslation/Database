@@ -10379,6 +10379,7 @@ example:
 | george weasley | 乔治·韦斯莱 | 出自作品:`harry potter` |  |
 | fred weasley | 弗雷德·韦斯莱 | 出自作品:`harry potter` |  |
 | haruto zenfis | 哈特·泽菲斯 | ![](https://static.wikia.nocookie.net/jitsu-wa-ore-saikyou-deshita/images/c/cf/Anime_Haruto.png)<br>日语：ハルト・ゼンフィス<br>出自作品:`jitsu wa ore saikyou deshita` |  |
+| haruki nikaido | 二阶堂春希 | ![](https://lain.bgm.tv/r/400/pic/crt/l/cf/d0/161304_crt_oX1Xo.jpg)<br>出自作品:`tenkou-saki no seiso karen na bishoujo` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
