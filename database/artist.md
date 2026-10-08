@@ -12181,7 +12181,7 @@ example:
 | kawakami minoru | 川上稔 | 川上稔（1975年1月3日－）是日本轻小说作家和游戏开发者，出身于东京都。主要作品有`p:kyoukai senjou no horizon`和`p:owari no chronicle` | [维基百科](https://zh.wikipedia.org/wiki/川上稔) |
 | omulet tomato | オムレットマト |  |  |
 | hyouta | 俵太 |  | [pixiv](https://www.pixiv.net/users/12378747) |
-| asaomi shimura | アサオミ志群 |  |  |
+| asaomi shimura | アサオミ志群 |  | [X](https://x.com/asaomi_shimura) \| [pixiv](https://www.pixiv.net/users/23786473) \| [FANBOX](https://www.fanbox.cc/@shimuraasomi) \| [Fantia](https://fantia.jp/fanclubs/98701) |
 | ooban yaki | 大伴ヤキ |  |  |
 | yoshida killy | 吉田Killy |  | [FANZA](https://book.dmm.co.jp/list/?author=360706) |
 | tou | トウ |  |  |
