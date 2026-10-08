@@ -247,7 +247,7 @@ example:
 | watanabe tou | 渡边党 |  |  |
 | suzuna jct | SUZUNA JCT |  |  |
 | amagami dou | あまがみ堂 |  |  |
-| bitch bokujou | Bitch牧场 |  |  |
+| bitch bokujou | Bitch牧场 | Bitch牧場 （びっちぼくじょう） | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29020/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG06957.html) |
 | antyuumosaku | 暗中模索 |  |  |
 | kurumaya | 車ヤ |  |  |
 | shiitake en | しいたけ園 |  |  |
