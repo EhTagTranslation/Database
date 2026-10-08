@@ -3037,6 +3037,7 @@ example:
 | tensei kizoku kantei skill de nariagaru | 转生贵族凭鉴定技能扭转人生 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a1/fb/434144_GbnGP.jpg)<br>日语：転生貴族、鑑定スキルで成り上がる |  |
 | hanaori-san wa tensei shite mo kenka ga shitai | 花织即使是转生也想打架 | ![](https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg)<br>日语：花織さんは転生しても喧嘩がしたい |  |
 | friday night funkin | 周五夜放克 | ![](https://lain.bgm.tv/r/400/pic/cover/l/96/8d/331666_7uXLB.jpg) |  |
+| doumo suki na hito ni horegusuri o irai sareta majo desu. | 你好，我是受心上人所托来做恋爱药的魔女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/73/99/624923_4u99L.jpg)<br>日语：どうも、好きな人に惚れ薬を依頼された魔女です |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
