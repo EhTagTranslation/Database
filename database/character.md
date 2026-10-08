@@ -10376,6 +10376,7 @@ example:
 | ultima | 乌尔缇玛 | ![](https://static.wikia.nocookie.net/p__/images/a/a7/Ultima_Anime.webp)<br>出自作品:`tensei shitara slime datta ken` |  |
 | rea himuro | 冰室玲爱 | 氷室玲愛 |  |
 | bailu youyun | 白鹿游云 | ![](https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/48/Bailu_Youyun.png)<br>出自作品:`honkai gakuen` |  |
+| george weasley | 乔治·韦斯莱 | 出自作品:`harry potter` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
