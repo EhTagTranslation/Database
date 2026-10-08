@@ -10382,6 +10382,7 @@ example:
 | haruki nikaido | 二阶堂春希 | ![](https://lain.bgm.tv/r/400/pic/crt/l/cf/d0/161304_crt_oX1Xo.jpg)<br>出自作品:`tenkou-saki no seiso karen na bishoujo` |  |
 | mrs. miss | Mrs. Miss | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/21/Mrs._Miss_FB.png)<br>出自作品:`goddess of victory nikke` |  |
 | dolltaki | 多鲁塔基 | 日语：ドルタッキー<br>出自作品:`dragon ball gt` |  |
+| nagisa natsunagi | 夏凪渚 | ![](https://static.wikia.nocookie.net/the-detective-is-already-dead/images/e/eb/Nagisa_Anime_2.png)<br>出自作品:`tantei wa mou shindeiru.` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
