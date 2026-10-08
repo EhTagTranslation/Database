@@ -12707,7 +12707,7 @@ example:
 | miginer | みぎなー |  |  |
 | kenko shindan-chan | 健康診断ちゃん |  | [pixiv](https://www.pixiv.net/users/83271858) [X](https://x.com/kenko_shindan_/media) |
 | neko no youchuu | 猫の幼虫 |  | [pixiv](https://www.pixiv.net/users/72601466) [X](https://x.com/Neko_No_Yochu) |
-| to hegemonikon | ト！ヘーゲモニコン |  |  |
+| to hegemonikon | ト!ヘーゲモニコン |  |  |
 | agagaga | あがががが |  | [pixiv](https://www.pixiv.net/users/45062643) |
 | namekuji | なめくじ |  |  |
 | bonnou obaa-chan | 煩悩おばあちゃん |  |  |
