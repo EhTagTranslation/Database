@@ -5970,7 +5970,7 @@ example:
 | chinatsu kano | 鹿野千夏 | 所属作品：`ao no hako`<br>![](https://ehgt.org/w/02/099/56364-h1murn0i.webp) |  |
 | rance | 兰斯 | `p:rance` |  |
 | shizuka masou | 魔想志津香 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_584/h_716/50551/746731/2025/3/27/624436.png)<br>所属作品：`p:rance` |  |
-| kouhime | 织田香 | `p:rance` |  |
+| kouhime | 织田香 | ![](https://static.wikitide.net/alicesoftwiki/thumb/e/e8/Kouhime_age_14.png/1600px-Kouhime_age_14.png?_=20220117161043)<br>![](https://static.wikitide.net/alicesoftwiki/7/7b/Kou_Armor_Rance_Quest.png?_=20220117151950)<br>出自作品:`rance` |  |
 | menad shisei | 美娜多·希瑟 | `p:rance` |  |
 | reset kalar | 莉赛特·卡拉 | ![](https://ehgt.org/w/02/559/61750-bg6p26vu.webp)<br>日语：リセット・カラー<br>出自作品:`rance` |  |
 | rizna lanfbitt | 利兹娜·兰菲比特 | 利兹娜·兰菲比特是AliceSoft旗下游戏《兰斯系列》及其衍生作品的登场角色。![](https://img.moegirl.org.cn/common/thumb/c/cb/利兹娜·兰菲比特与哈尼景胜.jpg/420px-利兹娜·兰菲比特与哈尼景胜.jpg) | [萌娘百科](https://zh.moegirl.org.cn/利兹娜·兰菲比特) |
