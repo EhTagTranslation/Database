@@ -10391,6 +10391,7 @@ example:
 | sonon elfie | 索农艾尔菲 | ![](https://static.wikia.nocookie.net/umamusume/images/e/e9/Sonon_Elfie_%28Main%29.png)<br>出自作品:`uma musume pretty derby` |  |
 | ragnarok sinmara | 拉格纳洛克·辛莫拉 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/5/5d/Ragnarok_Sinmara_with_Laevateinn.png)<br>![](https://static.wikia.nocookie.net/action-taimanin/images/d/d5/Frozen_Summer.png)<br>日语：ラグナロク＝シンモラ<br>出自作品:`taimanin rpg` |  |
 | anastasia severskaya | 安娜塔西亚·谢韦尔斯卡娅 | 出自作品:`ace combat` |  |
+| anzel | 安杰尔 | ![](https://lain.bgm.tv/r/400/pic/crt/l/82/16/220765_crt_919Gm.jpg)<br>出自作品:`kyouran reijou nia liston` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
