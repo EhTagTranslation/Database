@@ -10866,7 +10866,7 @@ example:
 | toda kaduki | とだかづき |  |  |
 | todd oyamada | トッド小山田 |  |  |
 | todoroki shusei | 等々力秋声 |  |  |
-| tofu | とうふ |  |  |
+| tofu | 豆腐 |  |  |
 | togame | とがめ |  |  |
 | togashi | トガシ |  |  |
 | toge toge | 棘棘 |  |  |
