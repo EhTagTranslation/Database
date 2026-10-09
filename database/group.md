@@ -1446,7 +1446,7 @@ example:
 | american kenpou | アメリカン拳法 |  |  |
 | erondon hearts | ERONDON HEARTS |  |  |
 | shd | SHD |  |  |
-| purin kai yoghurt | プリン海ヨーグルト |  |  |
+| purin kai yoghurt | プリン海ヨーグルト |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71349/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG40291.html) |
 | shouyu no sato | 醤油の里 |  |  |
 | amatou | あまとう \| 甘党 |  |  |
 | sennin no atelier | 仙人のアトリエ |  |  |
