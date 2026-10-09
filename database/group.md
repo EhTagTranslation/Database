@@ -1236,7 +1236,7 @@ example:
 | mnst | MNST |  |  |
 | aohige kaizokudan | 青髯海贼团 |  |  |
 | sanbyaku rokujuu do | -三百六十度- |  |  |
-| armadillo | Armadillo |  |  |
+| armadillo | Armadillo |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75791/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG40414.html) |
 | spec.c | spec.C |  |  |
 | dragon kitchen | Dragon Kitchen | 男性原画师`a:sasorigatame`的同人社团. |  |
 | shirukke no ooi zakuro | 汁っけの多い柘榴 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75448/) |
