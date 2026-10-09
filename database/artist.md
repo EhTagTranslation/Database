@@ -5546,7 +5546,7 @@ example:
 | hanya | はにゃ |  | [pixiv](https://www.pixiv.net/users/629117) |
 | hanyw | ハニュー |  |  |
 | hanzaki jirou | はんざきじろう |  |  |
-| hanzawa 821 | 半澤821 |  |  |
+| hanzawa 821 | 半澤821 |  | [pixiv](https://www.pixiv.net/users/427246) \| [Pawoo](https://pawoo.net/@hanhide0508) \| [X](https://x.com/80s_anison) \| [FANBOX](https://hanzawa-bunny.fanbox.cc/) \| [Skeb](https://skeb.jp/@Hanzawa_bunny) |
 | happamushi | はっぱむし |  |  |
 | hara sakeru | はらさける |  |  |
 | hara shigeyuki | 原茂之 |  |  |
