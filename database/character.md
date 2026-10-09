@@ -10386,6 +10386,7 @@ example:
 | saki kindaichi | 金田一咲希 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ff/7d/129293_crt_a9xHi.jpg)<br>出自作品:`amayo no tsuki` |  |
 | kanon oikawa | 及川奏音 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8f/44/129294_crt_qhdvh.jpg)<br>出自作品:`amayo no tsuki` |  |
 | byerley turk | 拜耶尔土耳其 | ![](https://static.wikia.nocookie.net/umamusume/images/6/65/Byerley_Turk_%28Main%29.png)<br>出自作品:`uma musume pretty derby` |  |
+| godolphin barb | 高多芬阿拉伯 | ![](https://static.wikia.nocookie.net/umamusume/images/e/e2/Godolphin_Barb_%28Main%29.png)<br>出自作品:`uma musume pretty derby` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
