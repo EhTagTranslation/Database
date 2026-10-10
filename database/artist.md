@@ -5044,7 +5044,7 @@ example:
 | enu-yamayama | えぬーやまやま |  |  |
 | epuko | えぷ子 |  |  |
 | era | Era |  | [pixiv](https://www.pixiv.net/users/3368013) |
-| ere 2 earo | えれ2エアロ |  |  |
+| ere 2 earo | えれ2エアロ |  | [pixiv](https://www.pixiv.net/users/3381882) |
 | erika | えりか |  |  |
 | ero kojiki | エロ乞食 |  |  |
 | ero koutei | エロ皇帝 |  |  |
