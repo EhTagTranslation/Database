@@ -9636,7 +9636,7 @@ example:
 | rayroh | 玲瓏 |  |  |
 | raytrec | RAYTREC |  |  |
 | razchoco | RazChoco |  |  |
-| rbooks | rbooks |  |  |
+| rbooks | rbooks |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29300/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG23340.html) |
 | re clel | Re\_Clel |  |  |
 | re cre at tors | Re:Cre@tors |  | [Melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=7159) |
 | re set | Re:Set |  |  |
