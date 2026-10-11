@@ -13813,7 +13813,7 @@ example:
 | tsf cafe | TSF CAFE |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01021478.html) |
 | grimoire | グリモア |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=26645) |
 | karakuri korokke | 唐栗コロッケ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG65288.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202410/) |
-| tahitasou | たひた庄 |  |  |
+| tahitasou | たひた庄 | たひた荘 （たひたそう） | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=218028/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01011385.html) |
 | hachiko | ハチ公 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48615.html) |
 | makura cover soft | まくらカバーソフト |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ011928/ana_flg/all) |
 | fujie | フジ江 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79481/) |
