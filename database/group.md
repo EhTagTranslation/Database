@@ -13915,7 +13915,7 @@ example:
 | itsume | 五梅 \| 五梅えるこ |  |  |
 | ryuzenkoh | 龍涎香 |  |  |
 | aoi hoshi ni umareta dark angel | 青い星に生まれたダークエンジェル |  |  |
-| ishikarian | 円山晃 |  |  |
+| ishikarian | 石狩庵 |  |  |
 | osakana cookie | おさかなくっきー |  |  |
 | chinpura | チンプラ |  |  |
 | cure maimai | キュアマイマイ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204598/) |
