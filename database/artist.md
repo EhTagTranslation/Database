@@ -15815,6 +15815,7 @@ example:
 | nagumo ryuichi | 南雲龍一 |  |  |
 | toriniku | 鶏肉 |  |  |
 | hannya-san | Hannya San |  | [pixiv](https://www.pixiv.net/users/58589964) \| [FANBOX](https://hannyasan.fanbox.cc/) \| [X](https://x.com/Hannyasan3) |
+| love-saber | Love-Saber |  | [FANBOX](https://saber800729.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/10699066) \| [X](https://x.com/saber800729) \| [Lit.Link](https://lit.link/en/shiki0729) |
 
 <!--TEMPLATE:
 |  |  |  |  |
