@@ -3434,7 +3434,7 @@ example:
 | midori | みどり |  | [pixiv](https://www.pixiv.net/users/76139) [X](https://x.com/midori14) |
 | ponponmaru | ぽんぽんまる |  | [pixiv](https://www.pixiv.net/users/1532605) |
 | hame dragon | ハメドラゴン |  |  |
-| ziran | ZIRAN |  |  |
+| ziran | ZIRAN |  | [pixiv](https://www.pixiv.net/users/122446106) |
 | hinamo | ひなも🍀 |  | [pixiv](https://www.pixiv.net/users/61624416) |
 | keso shirou | けそシロウ |  | [pixiv](https://www.pixiv.net/users/12255246) |
 | nishimura nike | 西村にけ |  |  |
