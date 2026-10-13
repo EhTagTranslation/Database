@@ -15816,6 +15816,7 @@ example:
 | hannya-san | Hannya San |  | [pixiv](https://www.pixiv.net/users/58589964) \| [FANBOX](https://hannyasan.fanbox.cc/) \| [X](https://x.com/Hannyasan3) |
 | love-saber | Love-Saber |  | [FANBOX](https://saber800729.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/10699066) \| [X](https://x.com/saber800729) \| [Lit.Link](https://lit.link/en/shiki0729) |
 | shin-yu | 心友 |  |  |
+| nanoji | なの字 |  | [pixiv](https://www.pixiv.net/users/7320915) \| [X](https://x.com/sudachistyle2) \| [Misskey.io](https://misskey.io/@sudachistyle) \| [FANBOX](https://ptjgn7mid.fanbox.cc/) \| [Skeb](https://skeb.jp/@sudachistyle) |
 
 <!--TEMPLATE:
 |  |  |  |  |
