@@ -4583,7 +4583,7 @@ example:
 | carlos toshiki | カルロスとしき |  |  |
 | carnelian | CARNELIAN |  |  |
 | carrot | きゃろっと |  |  |
-| caruta | caruta |  |  |
+| caruta | caruta |  | [pixiv](https://www.pixiv.net/users/2392466) \| [X](https://x.com/carutaan) \| [Skeb](https://skeb.jp/@carutaan) \| [FANBOX](https://carutaan.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/22251) |
 | cashew | かしゅう |  |  |
 | cashue | 香愁 |  |  |
 | cassandra | かっさんどら |  |  |
