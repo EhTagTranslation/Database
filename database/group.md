@@ -14378,6 +14378,7 @@ example:
 | bimi to no souguu | 美味との遭遇 |  |  |
 | nobotchi seisakusho | ノボッチ製作所 |  |  |
 | touou | トウオウ |  |  |
+| matenrou wine | 摩天楼ワイン |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG67206.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204878/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
