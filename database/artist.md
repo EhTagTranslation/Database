@@ -362,7 +362,7 @@ example:
 | shinji mao | 真慈真雄 |  |  |
 | aoi manabu | あおいまなぶ |  |  |
 | izumi tsubasu | 和泉翼 | 和泉つばす |  |
-| sakai hamachi | 堺はまち |  |  |
+| sakai hamachi | 堺はまち |  | [FANBOX](https://sakai-hamachi.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/38200) \| [X](https://x.com/hamachi_sakai) \| [Fantia](https://fantia.jp/fanclubs/229453) \| [Pawoo](https://pawoo.net/@SAKAI_HAMACHI) |
 | kannazuki nem | 神無月ねむ |  |  |
 | sakurabe notos | 桜部のとす |  |  |
 | misaki kurehito | 深崎暮人 | 深崎暮人（3月28日－），日本男性插画家与原画家，出生于北海道，目前居住于东京都。<br><br>轻小说`saenai heroine no sodatekata`的插图绘师和人物原案设计。<br>![图](https://pbs.twimg.com/profile_images/972333856744390656/rJtZ32OR_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/c7/87/c787cad12e11f467aa679f2346539dc7f43b26ab-272083-472-630-jpg_l.jpg") | [X](https://x.com/misaki_cradle) [Twitter - R18](https://x.com/kurehito_r18) [维基百科](https://zh.wikipedia.org/wiki/深崎暮人) (\*) |
