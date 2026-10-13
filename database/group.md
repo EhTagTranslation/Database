@@ -7923,7 +7923,7 @@ example:
 | mob.1 | MOB.1 |  |  |
 | mobco. | mobco. |  |  |
 | mobris | MOBRIS |  |  |
-| mocchimochiya | もっちもち屋 |  |  |
+| mocchimochiya | もっちもち屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG33904.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73113/) |
 | mocchomudake | モッチョム茸 |  |  |
 | mochi dog laboratory | 餅犬製作所 |  |  |
 | mochi hasamiuchi da | 餅はさみ撃ちだっ! |  |  |
