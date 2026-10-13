@@ -12967,7 +12967,7 @@ example:
 | dasei seikatsu suishin iinkai | 怠惰生活推进委员会 |  |  |
 | nekonohosomiti | ねこの細道 |  |  |
 | hyoushigi | 拍子木 |  |  |
-| torino sunakimo | とりのすなきも |  |  |
+| torino sunakimo | とりのすなきも |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG22836.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77253/) \| [Ci-en](https://ci-en.dlsite.com/creator/2506) |
 | tonburi | とんぶり |  |  |
 | rei-mei nordlingen | 黎明ネルトリンゲン |  |  |
 | banjimas | ばんじます |  |  |
