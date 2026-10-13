@@ -15817,6 +15817,7 @@ example:
 | love-saber | Love-Saber |  | [FANBOX](https://saber800729.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/10699066) \| [X](https://x.com/saber800729) \| [Lit.Link](https://lit.link/en/shiki0729) |
 | shin-yu | 心友 |  |  |
 | nanoji | なの字 |  | [pixiv](https://www.pixiv.net/users/7320915) \| [X](https://x.com/sudachistyle2) \| [Misskey.io](https://misskey.io/@sudachistyle) \| [FANBOX](https://ptjgn7mid.fanbox.cc/) \| [Skeb](https://skeb.jp/@sudachistyle) |
+| chibigon | チビゴン |  | [pixiv](https://www.pixiv.net/users/8691691) \| [X](https://x.com/tibigon_doujin_) |
 
 <!--TEMPLATE:
 |  |  |  |  |
