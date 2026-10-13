@@ -14379,6 +14379,7 @@ example:
 | nobotchi seisakusho | ノボッチ製作所 |  |  |
 | touou | トウオウ |  |  |
 | matenrou wine | 摩天楼ワイン |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG67206.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204878/) |
+| ikeneko shokudou | イケね娘食堂 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56828.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202454/) \| [Ci-en](https://ci-en.dlsite.com/creator/9684) \| [BOOTH](https://ikenokobaiten.booth.pm/) \| [pixiv](https://www.pixiv.net/users/60465711) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
