@@ -5512,7 +5512,7 @@ example:
 | minami nanami | 七海深奈实 | ![](https://static.wikia.nocookie.net/yowa-chara-tomozaki-kun/images/f/f8/Mimimi-01_MGSO.png)<br>所属作品：`jaku-chara tomozaki-kun` |  |
 | anna yanami | 八奈见杏菜 | ![](https://static.wikia.nocookie.net/makeine/images/e/e6/YanamiAnna_AN_Profile.png)<br>所属作品：`make heroine ga oosugiru` | [萌娘百科](https://zh.moegirl.org.cn/八奈见杏菜) |
 | lemon yakishio | 烧盐柠檬 | ![](https://static.wikia.nocookie.net/makeine/images/7/7e/YakishioRemon_AN_Profile.png)<br>出自作品：`p:make heroine ga oosugiru`<br>日语：焼塩檸檬 / やきしおれもん | [萌娘百科](https://zh.moegirl.org.cn/烧盐柠檬) |
-| kayo hinazuki | 雏月加代 |  |  |
+| kayo hinazuki | 雏月加代 | ![](https://static.wikia.nocookie.net/bokudakegainaimachi/images/9/90/Kayo_Hinazuki.png)<br>出自作品：`p:boku dake ga inai machi`<br><br>雏月加代(雛月加代 / ひなつきかよ)是由三部敬所创作的漫画《只有我不存在的城市》及其衍生作品的女主。 | [萌娘百科](https://zh.moegirl.org.cn/雏月加代) \| [Fandom](https://bokudakegainaimachi.fandom.com/wiki/Kayo_Hinazuki) |
 | changli | 长离 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/2/25/rwnmwv8y5wjcn98wix521fksfqddhgq.png/516px-角色_长离_立绘.png)<br>所属作品：`wuthering waves`<br>今州令尹参事，前明庭中政省长史。 | [萌娘百科](https://zh.moegirl.org.cn/长离)<br>[BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/长离) |
 | ayano kimishima | 君岛绫乃 | 所属作品：`tokidoki bosotto russia-go de dereru tonari no alya-san`<br>![](https://img.moegirl.org.cn/common/a/a9/Ayano_Kimishima.png)<br>侍奉有希的随从，担任学生会总务<br>沉默寡言，面无表情。对有希和政近有绝对的忠诚，在学校也为了支持有希而参加学生会。也许是因为有点远离尘世，所以经常被有希欺骗和捉弄...... | [萌娘百科](https://zh.moegirl.org.cn/君岛绫乃) |
 | chisaki sarashina | 更科茅咲 | 所属作品：`tokidoki bosotto russia-go de dereru tonari no alya-san`<br>![](https://anibase.net/files/c4c968f2ee3fc1f23cd7c9fa0c2e0c3e/360)<br>学生会副会长，剑道部队长。 | [anibase](https://anibase.net/zh-hans/character/mRJMm/更科茅咲) |
