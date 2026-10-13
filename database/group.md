@@ -9051,7 +9051,7 @@ example:
 | oxide.lab | OXIDE\_Lab |  |  |
 | oxydan | おきし団 |  |  |
 | oyajiji gumi | オヤジジ組 |  |  |
-| oyakodon | 親子丼 |  |  |
+| oyakodon | 親子丼 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77273/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44191.html) |
 | oyasumi disco | おやすみDISCO |  |  |
 | oyasumi kobe gyuu | おやすみ神戸牛 |  |  |
 | oyasumi switch | オヤスミスイッチ |  |  |
