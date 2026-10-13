@@ -9616,7 +9616,7 @@ example:
 | sachuma | さちゅま |  |  |
 | saco | saco |  |  |
 | sad | SAD |  |  |
-| sadagorou | 貞五郎 |  |  |
+| sadagorou | 貞五郎 |  | [Ci-en](https://ci-en.dlsite.com/creator/20308) \| [pixiv](https://www.pixiv.net/users/21854746) \| [X](https://x.com/sadagorou2017) |
 | sadahiro | 定宏 |  |  |
 | sadakichi | さだ吉 |  |  |
 | sado | さど |  |  |
