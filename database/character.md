@@ -6698,7 +6698,7 @@ example:
 | angel | 安吉尔 | ①《拳皇》中的角色安吉尔。<br>②《杀戮天使》中的安吉尔。 |  |
 | momohina nano | 桃雛なの |  |  |
 | kaoruko waguri | 和栗薰子 | ![](https://img.moegirl.org.cn/common/5/5c/动画和栗薰子1.PNG)<br>所属作品：`kaoru hana wa rin to saku` | [百度百科](https://baike.baidu.com/item/和栗薰子/64988742)<br>[萌娘百科](https://zh.moegirl.org.cn/和栗薰子) |
-| akari watanabe | 渡边星 | 渡边星是由金丸祐基所创作的漫画《夫妇以上，恋人未满。》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/a/a4/夫妇以上恋人未满-渡边星.png) | [萌娘百科](https://zh.moegirl.org.cn/渡边星) |
+| akari watanabe | 渡边星 | ![](https://static.wikia.nocookie.net/more-than-a-married-couple-but-not-lovers/images/d/dc/Akari_Watanabe_Anime_Infobox.png)<br>出自作品:`fuufu ijou koibito miman.` | [萌娘百科](https://zh.moegirl.org.cn/渡边星) |
 | vermouth | 贝尔摩得（苦艾酒） | ![](https://static.wikia.nocookie.net/caseclosed/images/3/30/Vermouth_Detective_Conan.png)<br>日语：クリス・ヴィンヤード<br>所属作品：`detective conan` |  |
 | kiyotaka ayanokouji | 绫小路清隆 | ![](https://img.moegirl.org.cn/common/8/86/Ayanokoji_2nd_side.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>凡事欠缺积极性，且没有对未来的展望，自称是“多一事不如少一事主义者”。入学考试的笔试与实技测验成绩均在平均水准之下，被分配到最底层的D班。 | [萌娘百科](https://zh.moegirl.org.cn/绫小路清隆) |
 | touka kirishima | 霧嶋董香 | ![](https://ehgt.org/w/01/951/73827-nuku5qva.webp)<br>出自作品：`p:tokyo ghoul`<br><br>日本漫画《东京食尸鬼》及其衍生作品中的女主角，金木研的妻子。咖啡店“古董”的服务员，同时也是20区食尸鬼中的一员。 | [萌娘百科](https://zh.moegirl.org.cn/雾岛董香) |
