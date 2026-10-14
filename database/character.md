@@ -10141,7 +10141,7 @@ example:
 | nekota tsuna | 猫汰月奈 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/90/VSPO_Nekota_Tsuna_eSport_Uniform_Key_Visual.png)<br>日语：猫汰つな<br>所属团体：VSPO | [YouTube](https://www.youtube.com/@tsuna_nekota) |
 | yakumo beni | 八云红 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/7/72/Yakumo_Beni_Full_Body.png)<br>日语：八雲べに<br>所属团体：VSPO |  |
 | tokiko mima | 巳真兔季子 | 出自作品:`key the metal idol` |  |
-| spica virgo | 丝碧卡·瓦戈 | ![](https://static.wikia.nocookie.net/the-black-cat-and-the-witch-classroom/images/a/aa/Spica_Virgo_-_anime_design.png)<br>日语：スピカ・ヴァルゴ<br>出自作品:`kuroneko to majo no kyoushitsu` |  |
+| spica virgo | 丝碧卡·瓦戈 | ![](https://bkimg.cdn.bcebos.com/pic/730e0cf3d7ca7bcb0a46d8ef41557c63f6246a6002e4)<br>日语：スピカ・ヴァルゴ<br>出自作品:`kuroneko to majo no kyoushitsu` |  |
 | constance grail | 康斯坦丝·葛莱尔 | ![](https://ami.animecharactersdatabase.com/images%20of/Constance%20Grail/from/Eris%20no%20Seihai/uploads/chars/36226-963071197.png)<br>所属作品:`eris no seihai` | [百度百科](https://baike.baidu.com/item/康斯坦丝·葛莱尔/67196548) |
 | ouya ootani | 大谷应也 | ![](https://static.wikia.nocookie.net/chainsmoker-cat/images/a/a4/6969.webp/revision/latest?cb=20260727153457)<br>所属作品:`yanineko`<br>日文: 大谷おう也<br>善良的房东，但是是福瑞控 | [Fandom](https://chainsmoker-cat.fandom.com/wiki/Landlord) |
 | kako yomuko | 贺来咏子 | ![](https://ehgt.org/w/02/572/32574-1e2qwtsn.webp)<br>所属作品:`yanineko`<br>写文喵喵 |  |
