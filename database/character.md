@@ -10400,6 +10400,7 @@ example:
 | ali maud | 莫德·亚里 | ![](https://bkimg.cdn.bcebos.com/pic/dbb44aed2e738bd4b31c3afc9ad690d6277f9f2f53f2)<br>日语：モード・アリ<br>出自作品:`kimi ga shinu made koi wo shitai` |  |
 | seiran lizzy | 黎吉·星兰 | ![](https://bkimg.cdn.bcebos.com/pic/472309f790529822720ee60fec976ccb0a46f31f7ef3)<br>日语：リジィ・セイラン<br>出自作品:`kimi ga shinu made koi wo shitai` |  |
 | sakuna memoir | 朔奈·梅墨瓦鲁 | ![](https://bkimg.cdn.bcebos.com/pic/e7cd7b899e510fb30f24d01fe26adf95d143ac4ba6b8)<br>日语 :サクナ・メモワール<br>出自作品:`hikikomari kyuuketsuki no monmon` |  |
+| abbey bominable | 艾比·波米诺卜 | 出自作品:`monster high` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
