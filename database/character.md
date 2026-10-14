@@ -10401,6 +10401,7 @@ example:
 | seiran lizzy | 黎吉·星兰 | ![](https://bkimg.cdn.bcebos.com/pic/472309f790529822720ee60fec976ccb0a46f31f7ef3)<br>日语：リジィ・セイラン<br>出自作品:`kimi ga shinu made koi wo shitai` |  |
 | sakuna memoir | 朔奈·梅墨瓦鲁 | ![](https://bkimg.cdn.bcebos.com/pic/e7cd7b899e510fb30f24d01fe26adf95d143ac4ba6b8)<br>日语 :サクナ・メモワール<br>出自作品:`hikikomari kyuuketsuki no monmon` |  |
 | abbey bominable | 艾比·波米诺卜 | 出自作品:`monster high` |  |
+| benedikta harman | ‌贝妮迪妲·赫曼 | 出自作品:`final fantasy xvi` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
