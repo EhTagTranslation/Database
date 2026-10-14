@@ -15819,6 +15819,7 @@ example:
 | nanoji | なの字 |  | [pixiv](https://www.pixiv.net/users/7320915) \| [X](https://x.com/sudachistyle2) \| [Misskey.io](https://misskey.io/@sudachistyle) \| [FANBOX](https://ptjgn7mid.fanbox.cc/) \| [Skeb](https://skeb.jp/@sudachistyle) |
 | chibigon | チビゴン |  | [pixiv](https://www.pixiv.net/users/8691691) \| [X](https://x.com/tibigon_doujin_) |
 | ikeneko | イケね娘 |  | [pixiv](https://www.pixiv.net/users/60465711) |
+| barbarian takamoto | バーバリアン高本 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
