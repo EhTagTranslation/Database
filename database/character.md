@@ -10396,6 +10396,7 @@ example:
 | ziluan | 紫岚 | 出自作品:`dynasty warriors` |  |
 | sakurako busujima | 毒岛樱子 | ![](https://static.wikia.nocookie.net/grand-blue/images/f/f0/Sakurako.png)<br>出自作品:`grand blue` |  |
 | kaho hariya | 针谷佳穗 | ![](https://lain.bgm.tv/r/400/pic/crt/l/a3/d7/153970_crt_in7Vh.jpg?r=1715096078)<br>出自作品:`hibike euphonium` |  |
+| sari yoshii | 义井沙里 | ![](https://lain.bgm.tv/r/400/pic/crt/l/89/fa/153972_crt_LyLod.jpg?r=1715096045)<br>出自作品:`hibike euphonium` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
