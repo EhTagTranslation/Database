@@ -10405,6 +10405,7 @@ example:
 | kyomoto | 京本奏 | ![](https://lain.bgm.tv/r/400/pic/crt/l/92/90/106398_crt_TIx8s.jpg?r=1645130947)<br>出自作品:`look back` |  |
 | aria aquarius | 亚莉亚·阿克艾利亚斯 | ![](https://bkimg.cdn.bcebos.com/pic/4d086e061d950a7b02087202f58d75d9f2d3562c63fa)<br>日语：アリア・アクエリアス<br>出自作品:`kuroneko to majo no kyoushitsu` |  |
 | jyushi aimono | 四十物十四 | 出自作品:`hypnosis mic` |  |
+| kuko harai | 波罗夷空却 | 出自作品:`hypnosis mic` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
