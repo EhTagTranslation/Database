@@ -10407,6 +10407,7 @@ example:
 | jyushi aimono | 四十物十四 | 出自作品:`hypnosis mic` |  |
 | kuko harai | 波罗夷空却 | 出自作品:`hypnosis mic` |  |
 | nue | 鵺 | ![](https://lain.bgm.tv/r/400/pic/crt/l/7d/8e/160059_crt_8Zvvd.jpg)<br>出自作品:`nue no onmyouji` |  |
+| kazusa suou | 周防七咲 | ![](https://lain.bgm.tv/r/400/pic/crt/l/9b/1e/190361_crt_z7JFT.jpg)<br>出自作品:`nue no onmyouji` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
