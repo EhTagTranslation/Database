@@ -15820,6 +15820,7 @@ example:
 | chibigon | チビゴン |  | [pixiv](https://www.pixiv.net/users/8691691) \| [X](https://x.com/tibigon_doujin_) |
 | ikeneko | イケね娘 |  | [pixiv](https://www.pixiv.net/users/60465711) |
 | barbarian takamoto | バーバリアン高本 |  |  |
+| avis | あびす |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
