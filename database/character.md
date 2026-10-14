@@ -10402,6 +10402,7 @@ example:
 | sakuna memoir | 朔奈·梅墨瓦鲁 | ![](https://bkimg.cdn.bcebos.com/pic/e7cd7b899e510fb30f24d01fe26adf95d143ac4ba6b8)<br>日语 :サクナ・メモワール<br>出自作品:`hikikomari kyuuketsuki no monmon` |  |
 | abbey bominable | 艾比·波米诺卜 | 出自作品:`monster high` |  |
 | benedikta harman | ‌贝妮迪妲·赫曼 | 出自作品:`final fantasy xvi` |  |
+| kyomoto | 京本奏 | ![](https://lain.bgm.tv/r/400/pic/crt/l/92/90/106398_crt_TIx8s.jpg?r=1645130947)<br>出自作品:`look back` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
