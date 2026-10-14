@@ -3042,6 +3042,7 @@ example:
 | tenkou-saki no seiso karen na bishoujo | 转学后班上的清纯可爱美少女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ce/e2/456080_IskBl.jpg)<br>全名：转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿<br>日语：転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件 |  |
 | amayo no tsuki | 雨夜明月 | ![](https://lain.bgm.tv/r/400/pic/cover/l/15/dd/524236_0Y7it.jpg)<br>日语：雨夜の月 |  |
 | rimworld | 边缘世界（环世界） |  | [萌娘百科](https://zh.moegirl.org.cn/Rimworld) |
+| look back | 蓦然回首 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fa/a8/480441_6o9oX.jpg)<br>日语：ルックバック |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
