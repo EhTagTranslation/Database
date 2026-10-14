@@ -2497,7 +2497,7 @@ example:
 | kick buttowski suburban daredevil | 冒险王奇克 | 《冒险王奇克》（英语：Kick Buttowski: Suburban Daredevil），是一部美国电视动画片，由桑德罗·柯沙罗创作，迪士尼电视动画公司制作。该剧讲述了一个名叫奇克·巴斯基的小男孩在他忠诚的朋友甘特的帮助下立志成为世界上最伟大的冒险者的故事。 | [维基百科](https://zh.wikipedia.org/wiki/冒險王奇克) |
 | watashi ga koibito ni nareru wake nai jan muri muri muri ja nakatta | 我们不可能成为恋人，绝对不行！ | ![](https://img.moegirl.org.cn/common/thumb/8/83/Wata-nare_cover_01.jpg/420px-Wata-nare_cover_01.jpg)<br>由みかみてれん创作、竹嶋えく负责角色原案和插画的一部轻小说，并有漫画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/我怎么可能成为你的恋人，不行不行！（※不是不可能！？）)<br>[维基百科](https://zh.wikipedia.org/wiki/我們不可能成為戀人！絕對不行。（※似乎可行？）) |
 | mamahaha no tsurego ga motokano datta | 继母的拖油瓶是我的前女友 | ![](https://lain.bgm.tv/r/400/pic/cover/l/49/54/343106_cT6ZV.jpg)<br>日语：継母の連れ子が元カノだった |  |
-| hikikomari kyuuketsuki no monmon | 家里蹲吸血姬的苦闷 |  |  |
+| hikikomari kyuuketsuki no monmon | 家里蹲吸血姬的苦闷 | ![](https://lain.bgm.tv/r/400/pic/cover/l/15/35/414214_Q2LdO.jpg)<br>日语：ひきこまり吸血姫の悶々 |  |
 | gimai seikatsu | 义妹生活 | ![](https://img.moegirl.org.cn/common/thumb/0/07/义妹生活1.jpg/420px-义妹生活1.jpg)<br>《义妹生活》是Hiten插画的轻小说作品，作者是三河Ghost，其原型是在YouTube更新的同名有声作品，但相比于YouTube版调整了时间线，增加了新角色。 |  |
 | kakkou no iinazuke | 杜鹃的婚约 |  |  |
 | shiunji-ke no kodomotachi | 紫云寺家的兄弟姐妹 | ![](https://lain.bgm.tv/r/400/pic/cover/l/48/c8/480545_gGwa0.jpg)<br>紫云寺家的7位绝世俊男美女，无论站在哪里都被人誉为神级风景线的存在， 在幺妹15岁生日那天，父亲说了一个惊人的秘密------ 从小一起长大的他们，并不是亲生的兄弟姐妹...... 得知这个秘密后，他们今后的相处模式会有所改变吗？ | [维基百科](https://zh.wikipedia.org/wiki/紫雲寺家的兄弟姊妹) [萌娘百科](https://zh.moegirl.org.cn/紫云寺家的孩子们)<br>[Bangumi](https://bgm.tv/subject/366616) |
