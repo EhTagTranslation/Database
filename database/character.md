@@ -10406,6 +10406,7 @@ example:
 | aria aquarius | 亚莉亚·阿克艾利亚斯 | ![](https://bkimg.cdn.bcebos.com/pic/4d086e061d950a7b02087202f58d75d9f2d3562c63fa)<br>日语：アリア・アクエリアス<br>出自作品:`kuroneko to majo no kyoushitsu` |  |
 | jyushi aimono | 四十物十四 | 出自作品:`hypnosis mic` |  |
 | kuko harai | 波罗夷空却 | 出自作品:`hypnosis mic` |  |
+| nue | 鵺 | ![](https://lain.bgm.tv/r/400/pic/crt/l/7d/8e/160059_crt_8Zvvd.jpg)<br>出自作品:`nue no onmyouji` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
