@@ -10411,6 +10411,7 @@ example:
 | makoto tsujita | 辻田诚乙 | 日语：辻田誠乙<br>出自作品:`nue no onmyouji` |  |
 | natsuki kuniruri | 国瑠璃拿月 | 出自作品:`nue no onmyouji` |  |
 | ishu aramine | 新峰维朱 | 日语：新峰維朱<br>出自作品:`nue no onmyouji` |  |
+| reina machida | 町田莉那 | 出自作品:`nue no onmyouji` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
