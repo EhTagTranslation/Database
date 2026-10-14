@@ -10394,6 +10394,7 @@ example:
 | anzel | 安杰尔 | ![](https://lain.bgm.tv/r/400/pic/crt/l/82/16/220765_crt_919Gm.jpg)<br>出自作品:`kyouran reijou nia liston` |  |
 | guo jia | 郭嘉 | 三国时期历史人物。 |  |
 | ziluan | 紫岚 | 出自作品:`dynasty warriors` |  |
+| sakurako busujima | 毒岛樱子 | ![](https://static.wikia.nocookie.net/grand-blue/images/f/f0/Sakurako.png)<br>出自作品:`grand blue` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
