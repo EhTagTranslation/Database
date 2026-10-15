@@ -14800,7 +14800,7 @@ example:
 | saiaku devil | さいあくデビル |  | [FANBOX](https://saiakudevil.fanbox.cc/) |
 | renard-poire | renard-poire |  | [pixiv](https://www.pixiv.net/users/13710050) |
 | dashimaki | だしまき |  | [melonbooks](https://www.melonbooks.co.jp/search/search.php?name=だしまき&text_type=author) |
-| athke | 深津英助/Athke |  | [toranoana](https://ec.toranoana.jp/tora_r/ec/app/catalog/list?searchActorName=深津英助/Athke) |
+| athke | 深津英助/Athke |  | [pixiv](https://www.pixiv.net/users/46426457) \| [FANBOX](https://athke.fanbox.cc/) \| [X](https://x.com/AthkeShin1) |
 | satoshi isei | イセイサトシ |  |  |
 | xd tanaka | XD田中 |  | [X](https://x.com/XDXDtanakaXDXD) |
 | green tea | green TEA。 |  | [X](https://x.com/matchaistasty) |
