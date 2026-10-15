@@ -803,7 +803,7 @@ example:
 | alicecreation | AliceCreation |  |  |
 | shirokurousa | しろくろうさ |  |  |
 | rehabilitation | リハビリテーション |  |  |
-| fools art gallery | FOOL's ART GALLERY |  |  |
+| fools art gallery | FOOL's ART GALLERY |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29722/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG21425.html) \| [Ci-en](https://ci-en.dlsite.com/creator/7138) |
 | galaxist | GALAXIST |  |  |
 | setoran | せとらん |  |  |
 | global one | グローバルワン |  |  |
