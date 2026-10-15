@@ -9807,7 +9807,7 @@ example:
 | sasara | ささら |  |  |
 | sasato | 笹徒 |  |  |
 | sasayuki | SASAYUKi |  |  |
-| sashimi | さしみ |  |  |
+| sashimi | さしみ |  | [pixiv](https://www.pixiv.net/users/54026937) \| [X](https://x.com/o_3_4_3) \| [FANBOX](https://sashimi-343.fanbox.cc/) \| [Skeb](https://skeb.jp/@o_3_4_3) \| [Fantia](https://fantia.jp/fanclubs/514660) |
 | sasizume soutarou | 差詰そうたろう |  |  |
 | sasori butter | さそりバター |  |  |
 | sataken | 佐竹犬 |  |  |
