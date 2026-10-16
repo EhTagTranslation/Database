@@ -12967,7 +12967,7 @@ example:
 | sozoremi | そぞれみ |  | [pixiv](https://www.pixiv.net/users/15624263) |
 | nanohana | nanohana |  | [pixiv](https://www.pixiv.net/users/31651057) [X](https://x.com/Circle_November) |
 | kamogawa akira | 鴨川彰 |  | [X](https://x.com/kamoakira0) [pixiv](https://www.pixiv.net/users/616357) |
-| ame no machi | 雨の町 |  |  |
+| ame no machi | 雨の町 | あめのまち | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01020197.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=216302/) \| [X](https://x.com/Amemachi2A16) \| [Skeb](https://skeb.jp/@Amemachi2A16) |
 | mukone | むこね |  |  |
 | tappa suzuki | タッパー鈴木 |  |  |
 | tom smith | Tom Smith |  |  |
