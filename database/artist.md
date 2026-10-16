@@ -7475,7 +7475,7 @@ example:
 | lummy | Lummy |  |  |
 | lumper sheider | LumperSheider |  |  |
 | luphis | luphis |  |  |
-| lutein | Lutein |  |  |
+| lutein | Lutein | るていん | [pixiv](https://www.pixiv.net/users/5719392) \| [FANBOX](https://lutein.fanbox.cc/) \| [X](https://x.com/lutein1455) \| [Skeb](https://skeb.jp/@lutein1455) |
 | luu | Luu |  |  |
 | lux | Lux |  |  |
 | lvi | LVI |  |  |
