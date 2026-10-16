@@ -12903,7 +12903,7 @@ example:
 | shinraku kogome | 聖 コゴメ |  | [FANBOX](https://kgm-euphrasia.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/34646322) \| [X](https://x.com/KGM_Euphrasia) \| [Skeb](https://skeb.jp/@KGM_Euphrasia) \| [Fantia](https://fantia.jp/fanclubs/14808) \| [Patreon](https://www.patreon.com/kogome_euphrasia) |
 | consome | 紺そめ |  |  |
 | fuuzasa | ウラザサ |  |  |
-| yukinpo dida | ゆきんぽでぃだ |  |  |
+| yukinpo dida | ゆきんぽでぃだ |  | [pixiv](https://www.pixiv.net/users/5816527) \| [FANBOX](https://yukinpo-dida.fanbox.cc/) \| [X](https://x.com/yukinpo_dida) |
 | garasu hokou | 硝子步行 |  |  |
 | hoshitani kyo | 星谷京 |  |  |
 | higashimidou hisagi | 東御堂ひさぎ |  |  |
