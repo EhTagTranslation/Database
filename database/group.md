@@ -12123,7 +12123,7 @@ example:
 | yappy-yappy | ヤッピーヤッピー |  |  |
 | yarakashidan | やらかし団 |  |  |
 | yareba dekiru ko. | やればできる娘。 |  |  |
-| yariiya | 枪衣屋 |  |  |
+| yariiya | 枪衣屋 | 槍衣屋 （やりいや） | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG34329.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73280/) |
 | yaritaihodai. | やりたいほうだい。 |  |  |
 | yasakanomagatama | 八坂の勾玉 |  |  |
 | yashiromori | ヤシロモリ |  |  |
