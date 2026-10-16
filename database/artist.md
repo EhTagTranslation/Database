@@ -8458,7 +8458,7 @@ example:
 | nako mameta | なこ豆太 |  |  |
 | nakuma meika | なくま冥架 |  |  |
 | nakura | なくら |  |  |
-| nakura yumari | 奈倉ゆまり |  |  |
+| nakura yumari | 奈倉ゆまり |  | [X](https://x.com/nakura_yumari) \| [pixiv](https://www.pixiv.net/users/17328692) |
 | nalvas | nalvas |  |  |
 | nalzo | nalzo |  |  |
 | namaki | 奈慎 |  |  |
