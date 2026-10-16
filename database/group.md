@@ -9247,7 +9247,7 @@ example:
 | pillow works | PILLOW WORKS |  |  |
 | pilotstar | Pilotstar |  |  |
 | pin-13 | ピンのワンスリー |  |  |
-| pin-point | ピンポイント |  |  |
+| pin-point | ピンポイント |  | [Ci-en](https://ci-en.dlsite.com/creator/22238) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG04834.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=22314/) |
 | pinacotheca | Pinacotheca |  |  |
 | pine | ぱいん |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71508/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG29382.html) |
 | pine candy | PINE CANDY |  |  |
