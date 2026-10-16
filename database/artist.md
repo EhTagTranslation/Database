@@ -15821,7 +15821,7 @@ example:
 | ikeneko | イケね娘 |  | [pixiv](https://www.pixiv.net/users/60465711) |
 | barbarian takamoto | バーバリアン高本 |  |  |
 | avis | あびす |  |  |
-| sijie xiaoyang | 4姐小羊 | 最爱茵蒂克丝的女性画家，恐虐神选。<br>E-hentai账号昵称“茵蒂克丝我滴神”。 | [哔哩哔哩](https://space.bilibili.com/3626348) |
+| sijie xiaoyang | 四姐小羊 | 最爱茵蒂克丝的女性画家，色孽神选。<br>E-hentai账号昵称“茵蒂克丝我滴神”。 | [哔哩哔哩](https://space.bilibili.com/3626348) |
 
 <!--TEMPLATE:
 |  |  |  |  |
