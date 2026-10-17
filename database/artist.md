@@ -10878,7 +10878,7 @@ example:
 | toi amatsu | とい天津 |  |  |
 | toichi | トイチ |  |  |
 | toilet | といれ |  |  |
-| toilet komoru | トイレ籠 |  |  |
+| toilet komoru | トイレ籠 |  | [pixiv](https://www.pixiv.net/users/581227) \| [X](https://x.com/toire_komoru) \| [Fantia](https://fantia.jp/fanclubs/38706) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27213/) |
 | toine hoko | 樋音歩琥 |  |  |
 | toitoi | といとい |  |  |
 | toka | toka |  |  |
