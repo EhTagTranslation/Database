@@ -5938,7 +5938,7 @@ example:
 | hot | HOT |  |  |
 | hot melon | Hot Melon |  |  |
 | hota. | ほた。 |  |  |
-| hotaru | 蛍 |  |  |
+| hotaru | ほたる |  |  |
 | hotarugusa | ほたる草 |  |  |
 | hotei kazuha | 保汀一葉 |  |  |
 | hotori | 歩鳥 |  |  |
