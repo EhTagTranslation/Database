@@ -10431,6 +10431,7 @@ example:
 | lane aim | 雷恩·艾姆 | ![](https://static.wikia.nocookie.net/gundam/images/6/62/Lane_Aim.png)<br>出自作品:`mobile suit gundam hathaways flash` |  |
 | hyakuto kyoko | 百灯响子 | ![](https://hololive.hololivepro.com/wp-content/uploads/2023/09/Hyakuto-Kyoko_pr-img_01.webp)<br>日语：百灯キョーコ<br>所属社团:`hololive` |  |
 | biko pegasus | 微光飞驹 | ![](https://static.wikia.nocookie.net/umamusume/images/2/2c/Biko_Pegasus_%28Race%29.png)<br>出自作品:`uma musume pretty derby` |  |
+| kiseki | 富士奇石 | ![](https://static.wikia.nocookie.net/umamusume/images/e/e4/Kiseki_%28Race%29.png)<br>出自作品:`uma musume pretty derby` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
