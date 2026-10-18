@@ -7955,7 +7955,7 @@ example:
 | mofumanjuu | もふまんじゅう |  |  |
 | mofumofuen | もふもふ苑 |  |  |
 | mofurafu | mofurafu |  |  |
-| mofuya | モフ屋 |  |  |
+| mofuya | モフ屋 \| もふ屋 |  |  |
 | mogemogeya | モゲモゲ屋 |  |  |
 | mogetama | もげたま |  |  |
 | mogiki-chan chi | もぎきちゃんち |  |  |
