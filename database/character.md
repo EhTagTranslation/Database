@@ -10432,6 +10432,7 @@ example:
 | hyakuto kyoko | 百灯响子 | ![](https://hololive.hololivepro.com/wp-content/uploads/2023/09/Hyakuto-Kyoko_pr-img_01.webp)<br>日语：百灯キョーコ<br>所属社团:`hololive` |  |
 | biko pegasus | 微光飞驹 | ![](https://static.wikia.nocookie.net/umamusume/images/2/2c/Biko_Pegasus_%28Race%29.png)<br>出自作品:`uma musume pretty derby` |  |
 | kiseki | 富士奇石 | ![](https://static.wikia.nocookie.net/umamusume/images/e/e4/Kiseki_%28Race%29.png)<br>出自作品:`uma musume pretty derby` |  |
+| rusalka schwagelin | 鲁萨尔卡·修薇格林 | ![](https://lain.bgm.tv/r/400/pic/crt/l/04/b2/43387_crt_Lpm46.jpg)<br>出自作品:`dies irae` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
