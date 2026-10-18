@@ -7478,7 +7478,7 @@ example:
 | marabians | マラビアンズ |  |  |
 | marakkuma | マラックマ | 名称更改为: めななもりん | [Ci-en](https://ci-en.dlsite.com/creator/66) \| [pixiv](https://www.pixiv.net/users/14698674) \| [X](https://x.com/Techno4545Break) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30171.html) |
 | maraparte | まらぱるて |  |  |
-| marasca no oni | マラスカの鬼 |  |  |
+| marasca no oni | マラスカの鬼 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73129/media=cg/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG33964.html) |
 | maraschino | MARASCHINO |  |  |
 | marastudio | MaraStudio |  |  |
 | marble | marble |  |  |
