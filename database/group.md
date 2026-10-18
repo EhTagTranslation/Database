@@ -4764,7 +4764,7 @@ example:
 | frapper spirits | ふらすぴ |  |  |
 | freakilycharming | FreakilyCharming |  |  |
 | freaks | フリークス |  |  |
-| free color 814 | フリーカラー814 |  |  |
+| free color 814 | フリーカラー814 |  | [Ci-en](https://ci-en.dlsite.com/creator/2648) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=26825/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG15554.html) |
 | free heaven | FREE HEAVEN |  |  |
 | free style | Free Style |  |  |
 | freedom | FREEDOM |  |  |
