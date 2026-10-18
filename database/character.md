@@ -10429,6 +10429,7 @@ example:
 | asmoday | 阿斯莫代 | ![](https://static.wikia.nocookie.net/gensin-impact/images/e/e8/NPC_Asmoday.png)<br>出自作品:`genshin impact` |  |
 | phoenix reffaella | 菲欧妮·蕾法爱菈‌ | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/0/03/Agent_Phoenix_Reffaella_Portrait.png)<br>出自作品:`zenless zone zero` |  |
 | lane aim | 雷恩·艾姆 | ![](https://static.wikia.nocookie.net/gundam/images/6/62/Lane_Aim.png)<br>出自作品:`mobile suit gundam hathaways flash` |  |
+| hyakuto kyoko | 百灯响子 | ![](https://hololive.hololivepro.com/wp-content/uploads/2023/09/Hyakuto-Kyoko_pr-img_01.webp)<br>日语：百灯キョーコ<br>所属社团:`hololive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
