@@ -14203,7 +14203,7 @@ example:
 | minakemo | ミナケモ |  | [pixiv](https://www.pixiv.net/users/9937831)<br>[FANBOX](https://minakemo.fanbox.cc/posts/9980457) |
 | samnite ii | Samnite II | AI漫画家 | [pixiv](https://www.pixiv.net/users/105267225)<br>[X](https://x.com/samnite_II)<br>[Patreon](https://www.patreon.com/SamniteII)<br>[作者E站账号](https://forums.e-hentai.org/index.php?showuser=3552861) |
 | gonster | gonster |  | [pixiv](https://www.pixiv.net/users/114920) |
-| mijiang | 米浆 |  |  |
+| mijiang | 米浆 | 米漿 | [X](https://x.com/chenmimi21) \| [FANBOX](https://mimi0920.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/76889130/artworks) |
 | irodori ramune | 色鳥ラムネ |  |  |
 | lemon tea | れもち |  |  |
 | doaka | ド赤 | 画师Pixiv头像:<br>![](https://i.pixiv.cat/user-profile/img/2019/10/09/03/09/29/16390363_702d8b20a5538db2fbe843d1ad58624f_170.jpg) | [pixiv](https://www.pixiv.net/users/12169708)<br>[X](https://x.com/Dreadyuzintou) |
