@@ -181,7 +181,7 @@ example:
 | rara8 | らら8 |  |  |
 | medaka kenichi | 目高健一 |  |  |
 | kanna | カンナ \| かん奈 | 重名<br>一位是以【水面月】活动的【カンナ】<br>一位是以【PLUM】活动的【かん奈】 | カンナ：[FANBOX](https://kanna-minamoduki.fanbox.cc/) \| [Bluesky](https://bsky.app/profile/kanna-minamo.bsky.social) \| [pixiv](https://www.pixiv.net/users/37962341) \| [X](https://x.com/kE6NuSnJcuHWbDA) \| [X](https://x.com/minamoduki10)<br>かん奈：[X](https://x.com/kannaplum) [FANBOX](https://kannaplum.fanbox.cc/) |
-| kazabuki poni | 风吹ぽに |  |  |
+| kazabuki poni | 風吹ぽに |  |  |
 | ouma tokiichi | 逢魔刻壹 | 逢魔刻壱 | [X](https://x.com/touma00) [pixiv](https://www.pixiv.net/users/23239) |
 | momonoki fum | 百乃木富梦 |  |  |
 | miito shido | 三糸シド |  | [pixiv](https://www.pixiv.net/users/90267) \| [X](https://x.com/syd_meat00) |
