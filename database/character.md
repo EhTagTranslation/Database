@@ -5386,7 +5386,7 @@ example:
 | rufus | 拉夫斯 |  |  |
 | catwoman | 猫女 |  | [维基百科](https://zh.wikipedia.org/wiki/猫女) |
 | tom | 汤姆 |  |  |
-| jerry | 杰瑞 |  |  |
+| jerry | 杰瑞 | ![](https://static.wikia.nocookie.net/tomandjerry/images/e/ec/Kisspng-jerry-mouse-tom-cat-nibbles-tom-and-jerry-5afa8781629bc3.8019112615263681294039.png)<br>出自作品:`tom and jerry` |  |
 | ultrawoman | 女奥特曼 |  |  |
 | king george v | 英王乔治五世 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/b9b5bf91834a74e1b5bd0eded2ebc724262400697.png)<br>英国1939年下水的英王乔治五世级战列舰首舰 | [百度百科](https://baike.baidu.com/item/英王乔治五世号战列舰) [碧蓝航线](https://moegirl.icu/碧蓝航线:英王乔治五世)<br>[战舰少女](https://moegirl.icu/战舰少女:英王乔治五世) [钢铁少女](https://moegirl.icu/钢铁少女:乔治五世) |
 | golden hind | 金鹿号 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/33e5c4d90338d78d2bcddf6569c81f4c262400697.png)<br>原型为盖伦型三桅帆船 | [百度百科](https://baike.baidu.com/item/金鹿号/1333376)<br>[https://moegirl.icu/碧蓝航线:金鹿号](https://moegirl.icu/碧蓝航线:金鹿号)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/金鹿号) |
