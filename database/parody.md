@@ -3043,6 +3043,7 @@ example:
 | amayo no tsuki | 雨夜明月 | ![](https://lain.bgm.tv/r/400/pic/cover/l/15/dd/524236_0Y7it.jpg)<br>日语：雨夜の月 |  |
 | rimworld | 边缘世界（环世界） |  | [萌娘百科](https://zh.moegirl.org.cn/Rimworld) |
 | look back | 蓦然回首 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fa/a8/480441_6o9oX.jpg)<br>日语：ルックバック |  |
+| rinkan biyaku chuudoku | 輪姦媚薬中毒 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
