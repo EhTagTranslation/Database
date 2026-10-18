@@ -10423,6 +10423,7 @@ example:
 | nayoro | 貀 | ![](https://azurlane.netojuu.com/images/thumb/f/fa/NayoroSpecial_ExerciseWithoutBG.png/1274px-NayoroSpecial_ExerciseWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/4/4d/NayoroWithoutBG.png/1138px-NayoroWithoutBG.png)<br>出自作品:`azur lane` |  |
 | bayard | 贝亚德 | ![](https://azurlane.netojuu.com/images/thumb/3/36/BayardBunnyWithoutBG.png/939px-BayardBunnyWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/e/e8/Bayard.png/1094px-Bayard.png)<br>出自作品:`azur lane` |  |
 | kansas | 堪萨斯 | ![](https://azurlane.netojuu.com/images/thumb/0/0c/KansasBunnyWithoutBG.png/1151px-KansasBunnyWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/0/02/KansasWithoutBG.png/1924px-KansasWithoutBG.png)<br>出自作品:`azur lane` |  |
+| cassin | 卡辛 | ![](https://azurlane.netojuu.com/images/4/41/CassinKai.png)<br>出自作品:`azur lane` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
