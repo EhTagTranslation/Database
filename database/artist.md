@@ -9954,7 +9954,7 @@ example:
 | setsuna yui | せつな唯 |  |  |
 | setuna rio | 刹那莉織 |  |  |
 | sezan | sezan |  |  |
-| sezoku | セゾク |  |  |
+| sezoku | セゾク |  | [pixiv](https://www.pixiv.net/users/6803215) \| [X](https://x.com/sez0k) \| [Pawoo](https://pawoo.net/@sez0k) |
 | shaa peipei | 西北々 |  |  |
 | shachi | しゃち |  |  |
 | shadow | Shadow |  |  |
