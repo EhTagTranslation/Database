@@ -1076,7 +1076,7 @@ example:
 | bioshock infinite | 生化奇兵：无限 | 《生化奇兵：无限》（英文版名：BioShock Infinite，中国大陆译作“生化奇兵：无限”，港台译作“生化奇兵：无限之城”）是一款由Irrational Games开发，2K Games发行的第一人称射击游戏。于2013年3月26日登陆Windows、PS3和Xbox360平台。Linux版的游戏在2015年3月发行。 |  |
 | akame ga kill | 斩·赤红之瞳！ | 《斩·赤红之瞳！》（日语：アカメが斬る!）是タカヒロ（原作）及田代哲也（作画）的日本漫画作品。自2010年4月号起至2017年1月号止刊载于《月刊GANGAN JOKER》，2014年1月在《月刊 GANGAN JOKER》杂志封面上公布电视动画化的消息。 |  |
 | harry potter | 哈利波特 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0d/dc/60122_gIy9Y.jpg)<br>作者：J. K. Rowling |  |
-| tom and jerry | 猫和老鼠 | 《猫和老鼠》（Tom and Jerry）是米高梅电影公司于1939年制作的一部动画片，该片由威廉·汉纳、约瑟夫·巴伯拉编写，弗雷德·昆比制作，首部剧集《甜蜜的家》于1940年2月10日在美国首播 。 |  |
+| tom and jerry | 猫和老鼠 | ![](https://static.wikia.nocookie.net/tomandjerry/images/6/68/Tom_and_Jerry_-_MP.png) |  |
 | mahouka koukou no rettousei | 魔法科高中的劣等生 | ![](https://static.wikia.nocookie.net/mahouka-koukou-no-rettousei/images/f/f3/Vol01-LN-Cover.jpg)<br>《魔法科高中的劣等生》是由佐岛勤创作的轻小说，并有同名改编漫画和动画作品。 | [萌娘百科](https://zh.moegirl.org.cn/魔法科高中的劣等生) |
 | euphoria | euphoria | ![图](https://ehgt.org/37/1a/371a9f6aeffd8edb9479f2d5c1d8ae734a9baf79-689111-658-1036-jpg_l.jpg)<br>《euphoria》是游戏公司CLOCKUP在2011年6月24日发售的18禁galgame。有同名里番和小说等衍生作品。 |  |
 | tangled | 长发公主 | 迪斯尼的ip |  |
