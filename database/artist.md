@@ -15826,7 +15826,7 @@ example:
 | alicia | ありしあ |  |  |
 | kitahana | 北花 |  |  |
 | del | del(でる) |  | [pixiv](https://www.pixiv.net/users/77811633) \| [X](https://x.com/ike_del) \| [Lit.Link](https://lit.link/en/deldelde) \| [Skeb](https://skeb.jp/@ike_del) |
-| rennyu coffee | 練乳珈琲 |  |  |
+| rennyu coffee | 練乳珈琲 |  | [pixiv](https://www.pixiv.net/users/8541202) |
 
 <!--TEMPLATE:
 |  |  |  |  |
