@@ -3994,7 +3994,7 @@ example:
 | crazyregion | crazyregion |  |  |
 | crea-holic | Crea-Holic |  |  |
 | cream cider | くりぃむサイダー |  |  |
-| cream gallon | くりーむがろん |  |  |
+| cream gallon | くりーむがろん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG31449.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72374/) |
 | cream zenzai | くりいむぜんざい |  |  |
 | creamy cafe | Creamy Cafe |  |  |
 | crear mint | CREAR★MINT |  |  |
