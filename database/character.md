@@ -10415,6 +10415,7 @@ example:
 | shitotsu tomesode | 留袖四衲 | 出自作品:`nue no onmyouji` |  |
 | shiroha fujino | 藤乃代叶 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8e/b6/190362_crt_mG005.jpg)<br>出自作品:`nue no onmyouji` |  |
 | kathy | 凯西 | 日语：キャシー<br>出自作品:`nue no onmyouji` |  |
+| satomi hiratsuka | 平冢敏深 | ![](https://lain.bgm.tv/r/400/pic/crt/l/96/d7/160256_crt_jXirQ.jpg)<br>出自作品:`seitokai ni mo ana wa aru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
