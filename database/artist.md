@@ -9018,7 +9018,7 @@ example:
 | omegane | 御眼鏡 |  |  |
 | omi | おみ |  |  |
 | omizu | おみず |  |  |
-| omizu chihiro | お水ちひろ |  |  |
+| omizu chihiro | オミズチヒロ |  |  |
 | omochi | おもち |  |  |
 | omoutubo | 思うつぼ |  |  |
 | onamaru | おな丸 |  |  |
