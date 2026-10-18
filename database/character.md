@@ -10418,6 +10418,7 @@ example:
 | satomi hiratsuka | 平冢敏深 | ![](https://lain.bgm.tv/r/400/pic/crt/l/96/d7/160256_crt_jXirQ.jpg)<br>出自作品:`seitokai ni mo ana wa aru` |  |
 | bartolomeo colleoni | 巴托洛梅奥· 科莱奥尼 | ![](https://azurlane.netojuu.com/images/thumb/2/22/Bartolomeo_ColleoniWithoutBG.png/1630px-Bartolomeo_ColleoniWithoutBG.png)<br><br>出自作品:`azur lane` |  |
 | gallant | 勇气 | ![](https://azurlane.netojuu.com/images/thumb/2/2f/GallantHome_RelaxationWithoutBG.png/601px-GallantHome_RelaxationWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/0/08/GallantWithoutBG.png/842px-GallantWithoutBG.png)<br>出自作品:`azur lane` |  |
+| kazan | 喀山 | ![](https://azurlane.netojuu.com/images/thumb/c/c9/KazanHome_RelaxationWithoutBG.png/480px-KazanHome_RelaxationWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/3/33/Kazan.png/1397px-Kazan.png)<br>出自作品:`azur lane` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
