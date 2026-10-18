@@ -10392,7 +10392,7 @@ example:
 | sumeragi bron | スメラギバロン |  |  |
 | sumeragi kohaku | すめらぎ琥珀 |  |  |
 | sumeragi kou | すめらぎこう |  |  |
-| sumeragi seisuke | 皇征介 |  |  |
+| sumeragi seisuke | 皇 征介 |  | [pixiv](https://www.pixiv.net/users/20563) \| [X](https://x.com/sumeragiseisuke) \| [Skeb](https://skeb.jp/@sumeragiseisuke) \| [FANBOX](https://sumeragi.fanbox.cc/) |
 | sumeragi yuusuke | 皇裕介 |  |  |
 | sumeshi | すめし |  |  |
 | sumihey | すみ兵 |  |  |
