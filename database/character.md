@@ -10428,6 +10428,7 @@ example:
 | gotz von berlichingen | 戈达·冯·贝格海姆 | ![](https://azurlane.netojuu.com/images/thumb/c/c3/Götz_von_BerlichingenSummerWithoutBG.png/1176px-Götz_von_BerlichingenSummerWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/9/9a/Götz_von_BerlichingenWithoutBG.png/1243px-Götz_von_BerlichingenWithoutBG.png)<br>出自作品:`azur lane` |  |
 | asmoday | 阿斯莫代 | ![](https://static.wikia.nocookie.net/gensin-impact/images/e/e8/NPC_Asmoday.png)<br>出自作品:`genshin impact` |  |
 | phoenix reffaella | 菲欧妮·蕾法爱菈‌ | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/0/03/Agent_Phoenix_Reffaella_Portrait.png)<br>出自作品:`zenless zone zero` |  |
+| lane aim | 雷恩·艾姆 | ![](https://static.wikia.nocookie.net/gundam/images/6/62/Lane_Aim.png)<br>出自作品:`mobile suit gundam hathaways flash` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
