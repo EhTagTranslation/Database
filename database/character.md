@@ -10420,6 +10420,7 @@ example:
 | gallant | 勇气 | ![](https://azurlane.netojuu.com/images/thumb/2/2f/GallantHome_RelaxationWithoutBG.png/601px-GallantHome_RelaxationWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/0/08/GallantWithoutBG.png/842px-GallantWithoutBG.png)<br>出自作品:`azur lane` |  |
 | kazan | 喀山 | ![](https://azurlane.netojuu.com/images/thumb/c/c9/KazanHome_RelaxationWithoutBG.png/480px-KazanHome_RelaxationWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/3/33/Kazan.png/1397px-Kazan.png)<br>出自作品:`azur lane` |  |
 | duguay-trouin | 迪盖·特鲁因 | ![](https://azurlane.netojuu.com/images/thumb/a/a8/Duguay-TrouinHot_SpringsWithoutBG.png/1590px-Duguay-TrouinHot_SpringsWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/d/d8/Duguay-TrouinWithoutBG.png/1328px-Duguay-TrouinWithoutBG.png)<br>出自作品:`azur lane` |  |
+| nayoro | 貀 | ![](https://azurlane.netojuu.com/images/thumb/f/fa/NayoroSpecial_ExerciseWithoutBG.png/1274px-NayoroSpecial_ExerciseWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/4/4d/NayoroWithoutBG.png/1138px-NayoroWithoutBG.png)<br>出自作品:`azur lane` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
