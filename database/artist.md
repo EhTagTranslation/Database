@@ -15829,6 +15829,7 @@ example:
 | rennyu coffee | 練乳珈琲 |  | [pixiv](https://www.pixiv.net/users/8541202) |
 | dainaru | だいなる |  | [pixiv](https://www.pixiv.net/users/327344) |
 | sarukana | さるかな |  | [X](https://x.com/sseun_4) [pixiv](https://www.pixiv.net/users/64289589) |
+| fudisen | フヂセン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
