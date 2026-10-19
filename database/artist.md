@@ -1681,7 +1681,7 @@ example:
 | irie jyunn | 入江jyunn |  |  |
 | komeshiro kasu | 米白粕 |  | [X](https://x.com/kasu1923) [pixiv](https://www.pixiv.net/users/867590) |
 | gotou suzuna | 後藤スズナ |  |  |
-| pettanp | ペッタンP |  |  |
+| pettanp | ペッタンP |  | [pixiv](https://www.pixiv.net/users/884506) \| [X](https://x.com/pettanp) \| [Pawoo](https://pawoo.net/@pettanp) |
 | nanashi noizi | ななしのいぢ |  |  |
 | koori nezumi | 冰鼠 |  |  |
 | fluff kevlar | Fluff-Kevlar |  |  |
