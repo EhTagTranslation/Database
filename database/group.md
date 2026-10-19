@@ -14383,6 +14383,7 @@ example:
 | rennyu coffee honten | 練乳珈琲本店 |  |  |
 | engyomin | 猿魚民 |  | [https://saruka7.creatorlink.net](https://saruka7.creatorlink.net) |
 | otokonoko fantasy club | 男の娘ファンタジー倶楽部 |  |  |
+| foamy | Foamy |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG73340.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
