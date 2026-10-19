@@ -1134,7 +1134,7 @@ example:
 | asgo | ASGO |  |  |
 | yobigakka | 预备学科 |  |  |
 | locker room | LockerRoom |  |  |
-| pettan doujou | ペッタン道場 |  |  |
+| pettan doujou | ペッタン道場 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52816.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200344/) |
 | art book chipika | Art Book Chipika |  |  |
 | alemateorema | アレマテオレマ |  | [官方网站](http://alemateorema.blog83.fc2.com) |
 | otokojuku | おとこじゅく |  |  |
