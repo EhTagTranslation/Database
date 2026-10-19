@@ -15831,6 +15831,7 @@ example:
 | sarukana | さるかな |  | [X](https://x.com/sseun_4) [pixiv](https://www.pixiv.net/users/64289589) |
 | fudisen | フヂセン |  |  |
 | shinoda | 詩乃田 |  |  |
+| ikeda pafue | いけだぱふぇ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
