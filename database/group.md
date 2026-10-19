@@ -2928,7 +2928,7 @@ example:
 | arafuradou | アラフラ胴 |  |  |
 | arahabaki | アラハバキ |  |  |
 | arakiya-san | あらき屋さん |  |  |
-| arakureta monotachi | あらくれた者たち |  |  |
+| arakureta monotachi | あらくれた者たち |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=28623/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG10690.html) |
 | araragi-1071- | ARARAGI-1071- |  |  |
 | ararudaito | あらるだいと |  |  |
 | arc | ARC |  |  |
