@@ -8569,7 +8569,7 @@ example:
 | nasuo | なすお |  |  |
 | natin | なてぃん |  | [FANBOX](https://natinpo.fanbox.cc/) \| [Misskey.io](https://misskey.io/@natinsan) \| [X](https://x.com/cool_natinsan) \| [pixiv](https://www.pixiv.net/users/11598494) \| [Lit.Link](https://lit.link/en/vKtqLq6TSNbqi4wODKoMmaHVeLY2) |
 | nato | NATO |  |  |
-| natsu | 捺 |  |  |
+| natsu | 捺 |  | [pixiv](https://www.pixiv.net/users/53595775) \| [X](https://x.com/FoamyforMe) \| [Skeb](https://skeb.jp/@FoamyforMe) |
 | natsu kirin | ナツキリン |  |  |
 | natsufuyu denki | 夏冬伝季 |  |  |
 | natsuhara saike | 夏原サイケ |  |  |
