@@ -15834,6 +15834,7 @@ example:
 | ikeda pafue | いけだぱふぇ |  |  |
 | a r gaku. gurap | R学.ぐらぷ |  |  |
 | wakimiunten | ワキミウンテン |  |  |
+| kaneyama shin | カネヤマシン |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ002697) \| [FANZA](https://book.dmm.co.jp/list/?author=20395) |
 
 <!--TEMPLATE:
 |  |  |  |  |
