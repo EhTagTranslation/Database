@@ -10437,6 +10437,7 @@ example:
 | komaro michinoku | 陆奥小麻吕 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ed/03/133201_crt_WJ85d.jpg)<br>日语：陸奥こまろ<br>出自作品:`seitokai ni mo ana wa aru` |  |
 | phalaenopsis | 蝴蝶兰 | ![](https://static.wikia.nocookie.net/umamusume/images/f/f9/Phalaenopsis_%28Race%29.png)<br>出自作品:`uma musume pretty derby` |  |
 | shisei houjou | 北条糸青 | ![](https://lain.bgm.tv/r/400/pic/crt/l/1c/2a/102069_crt_hHf1z.jpg)<br>出自作品:`class no daikirai na joshi to kekkon suru koto ni natta.` |  |
+| lise hohenstein | 丽兹·霍恩斯坦因 | ![](https://static.wikia.nocookie.net/muvluv/images/9/94/Liz_BDU_1.png)<br>日语：リィズ・ホーエンシュタイン<br>出自作品:`schwarzesmarken` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
