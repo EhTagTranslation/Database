@@ -6421,7 +6421,7 @@ example:
 | newbie succubus | 萝莉魅魔 | 所属作品: `p:kono subarashii sekai ni syukufuku o` | [萌娘百科](https://zh.moegirl.org.cn/萝莉魅魔) |
 | epsilon | 艾普西隆 | ![](https://bkimg.cdn.bcebos.com/pic/11385343fbf2b21193137b5d4ad372380cd7912320de?)<br>所属作品: `p:kage no jitsuryokusha ni naritakute` | [萌娘百科](https://zh.moegirl.org.cn/想要成为影之实力者#.E7.99.BB.E5.9C.BA.E8.A7.92.E8.89.B2) |
 | cid kagenou | 暗影 | 所属作品: `p:kage no jitsuryokusha ni naritakute`<br><br>希德·卡盖诺/暗影（シド・カゲノー／シャドウ）<br>憧憬「影之实力者」、追求力量的转生少年。表面上是乡下贵族卡盖诺男爵家的二男，在米德加尔魔剑士学园享受着“龙套”生活，但背地里却作为影之组织「暗影庭园」的盟主暗影，与「黑暗教团」对峙着（以这样的设定遨游）。<br>![](https://lain.bgm.tv/pic/crt/l/af/eb/104269_crt_SvQKJ.jpg?r=1675247488&_gl=1*1crpice*_ga*Nzg4MzExMjk0LjE3MjQ1NzQ0NDM.*_ga_1109JLGMHN*czE3NTcyODk1NDIkbzE1JGcxJHQxNzU3Mjg5OTYxJGozMyRsMCRoMA) | [萌娘百科](https://zh.moegirl.org.cn/想要成为影之实力者#.E7.99.BB.E5.9C.BA.E8.A7.92.E8.89.B2) [Fandom](https://the-eminence-in-shadow.fandom.com/wiki/Cid_Kagenou) |
-| eta | 伊塔 | 所属作品: `p:kage no jitsuryokusha ni naritakute`<br><br>暗影庭园「七影」的第七席。负责研究的精灵。拥有出色的技术，作为建筑师也很优秀，但是为人我行我素，一旦睡着就很难起来，睡相也很差，睡着会滚来滚去。 | [Fandom](https://the-eminence-in-shadow.fandom.com/wiki/Eta) [萌娘百科](https://zh.moegirl.org.cn/想要成为影之实力者#.E7.99.BB.E5.9C.BA.E8.A7.92.E8.89.B2) |
+| eta | 伊塔 | ![](https://bkimg.cdn.bcebos.com/pic/30adcbef76094b36acaff2f9239f6bd98d1001e937d1?)<br>所属作品: `p:kage no jitsuryokusha ni naritakute` | [Fandom](https://the-eminence-in-shadow.fandom.com/wiki/Eta) [萌娘百科](https://zh.moegirl.org.cn/想要成为影之实力者#.E7.99.BB.E5.9C.BA.E8.A7.92.E8.89.B2) |
 | mona kawai | 川井百奈 | ![](https://ehgt.org/w/01/990/30421-l0nchh5t.webp)<br>所属作品：`kuroiwa medaka ni watashi no kawaii ga tsuujinai` |  |
 | lux | 拉克丝 |  |  |
 | naga the serpent | 白蛇娜卡 |  |  |
