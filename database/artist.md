@@ -12703,7 +12703,7 @@ example:
 | norihito | 仁人 |  | [pixiv](https://www.pixiv.net/users/97877) [X](https://x.com/norihito) |
 | ogatatei | 緒方てい | Tei Ogata<br>Manga artist<br><br>Born: Osaka | [X](https://x.com/ogatatei?lang=en)<br>[Instagram](https://www.instagram.com/ogatatei/)<br>[pixiv](https://www.pixiv.net/users/339001) |
 | aota sora | あおたそら |  |  |
-| 4uu | 4UU |  |  |
+| 4uu | 4UU |  | [pixiv](https://www.pixiv.net/users/81635207) \| [FANBOX](https://foruu-radicalmp.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/475672) \| [X](https://x.com/4UUtekradicalmp) |
 | miginer | みぎなー |  |  |
 | kenko shindan-chan | 健康診断ちゃん |  | [pixiv](https://www.pixiv.net/users/83271858) [X](https://x.com/kenko_shindan_/media) |
 | neko no youchuu | 猫の幼虫 |  | [pixiv](https://www.pixiv.net/users/72601466) [X](https://x.com/Neko_No_Yochu) |
