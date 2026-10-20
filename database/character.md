@@ -10434,6 +10434,7 @@ example:
 | kiseki | 富士奇石 | ![](https://static.wikia.nocookie.net/umamusume/images/e/e4/Kiseki_%28Race%29.png)<br>出自作品:`uma musume pretty derby` |  |
 | rusalka schwagelin | 鲁萨尔卡·修薇格林 | ![](https://lain.bgm.tv/r/400/pic/crt/l/04/b2/43387_crt_Lpm46.jpg)<br>日语：ルサルカ・シュヴェーゲリン<br>出自作品:`dies irae` |  |
 | beatrice waltrud von kircheisen | 贝雅托莉丝·基尔希爱森 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ba/03/43392_crt_3c20z.jpg)<br>日语：ベアトリス・ヴァルトルート・フォン・キルヒアイゼン<br>出自作品:`dies irae` |  |
+| komaro michinoku | 陆奥小麻吕 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ed/03/133201_crt_WJ85d.jpg)<br>日语：陸奥こまろ<br>出自作品:`seitokai ni mo ana wa aru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
