@@ -10441,6 +10441,7 @@ example:
 | si | 祀 | ![](https://endfield.wiki.gg/images/thumb/Si_Splash_Art.png/768px-Si_Splash_Art.png)<br>外号“”小葱<br>出自作品:`arknights endfield` |  |
 | akekuri | 秋栗 | ![](https://endfield.wiki.gg/images/thumb/Akekuri_Splash_Art.png/1536px-Akekuri_Splash_Art.png?ad46c0)<br>出自作品:`arknights endfield` |  |
 | masako kaneko | 金子正子 | 出自作品:`hikaru no go` |  |
+| amona | 阿莫娜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/36/d6/214146_crt_O8xo1.jpg)<br>日语：アモナ<br>出自作品:`dark summoner to dekiteiru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
