@@ -10439,6 +10439,7 @@ example:
 | shisei houjou | 北条糸青 | ![](https://lain.bgm.tv/r/400/pic/crt/l/1c/2a/102069_crt_hHf1z.jpg)<br>出自作品:`class no daikirai na joshi to kekkon suru koto ni natta.` |  |
 | lise hohenstein | 丽兹·霍恩斯坦因 | ![](https://static.wikia.nocookie.net/muvluv/images/9/94/Liz_BDU_1.png)<br>日语：リィズ・ホーエンシュタイン<br>出自作品:`schwarzesmarken` |  |
 | si | 祀 | ![](https://endfield.wiki.gg/images/thumb/Si_Splash_Art.png/768px-Si_Splash_Art.png)<br>外号“”小葱<br>出自作品:`arknights endfield` |  |
+| akekuri | 秋栗 | ![](https://endfield.wiki.gg/images/thumb/Akekuri_Splash_Art.png/1536px-Akekuri_Splash_Art.png?ad46c0)<br>出自作品:`arknights endfield` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
