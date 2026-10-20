@@ -2381,7 +2381,7 @@ example:
 | tokyo necro suicide mission | 冻京NECRO 自杀任务 | 凍京NECRO＜トウキョウ・ネクロ＞ SUICIDE MISSION |  |
 | virtual on | Virtual On | 视频游戏系列 |  |
 | unnamed memory | 无名记忆 |  | [维基百科](https://zh.wikipedia.org/wiki/Unnamed_Memory_無名記憶) |
-| tsuki ga michibiku isekai douchuu | 月光下的异世界之旅 | 由日本轻小说家あずみ圭著作的轻小说《月光下的异世界之旅》。 |  |
+| tsuki ga michibiku isekai douchuu | 月光下的异世界之旅 | ![](https://lain.bgm.tv/r/400/pic/cover/l/26/ea/317275_t23SU.jpg) |  |
 | hapymaher | 幸福噩梦 | Hapymaher（幸福噩梦），是`g:purple software`开发的游戏系列，也是其代表作之一 |  |
 | sakura moyu. | 樱花、萌放。 | `g:favorite`的游戏 | [萌娘百科](https://zh.moegirl.org.cn/樱花，萌放。) |
 | uchi no kaisha no chiisai senpai no hanashi | 公司里的小小前辈 |  |  |
