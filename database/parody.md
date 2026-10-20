@@ -3044,6 +3044,7 @@ example:
 | rimworld | 边缘世界（环世界） |  | [萌娘百科](https://zh.moegirl.org.cn/Rimworld) |
 | look back | 蓦然回首 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fa/a8/480441_6o9oX.jpg)<br>日语：ルックバック |  |
 | rinkan biyaku chuudoku | 輪姦媚薬中毒 |  |  |
+| dark summoner to dekiteiru | 黑暗召唤师在地下恋爱中 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9e/b5/630160_tL25y.jpg)<br>日语：ダークサモナーとデキている |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
