@@ -10442,6 +10442,7 @@ example:
 | akekuri | 秋栗 | ![](https://endfield.wiki.gg/images/thumb/Akekuri_Splash_Art.png/1536px-Akekuri_Splash_Art.png?ad46c0)<br>出自作品:`arknights endfield` |  |
 | masako kaneko | 金子正子 | 出自作品:`hikaru no go` |  |
 | amona | 阿莫娜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/36/d6/214146_crt_O8xo1.jpg)<br>日语：アモナ<br>出自作品:`dark summoner to dekiteiru` |  |
+| elmesia el-ru sarion | 艾尔梅西亚·艾尔琉·萨利昂 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/2/2a/Elmesia_Anime.png)<br>日语：エルメシア・エル・リュ・サリオン<br>出自作品:`tensei shitara slime datta ken` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
