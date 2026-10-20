@@ -2606,7 +2606,7 @@ example:
 | mirai andou | 安藤美雷 |  |  |
 | himea saito | 赛托希梅亚 |  |  |
 | fuu hououji | 凤凰寺风 | ![](https://static.wikia.nocookie.net/magicknightrayearth/images/c/c6/Fuu_ova.jpeg)<br>出自作品：`p:magic knight rayearth`<br><br>凤凰寺风(ほうおうじふう / Hououji Fuu)是日本漫画《魔法骑士》及其衍生作品中的角色。 | [百度百科](https://baike.baidu.com/item/凤凰寺风/10305854) \| [Fandom](https://magicknightrayearth.fandom.com/wiki/Fuu_Hououji) |
-| hikaru shindo | 进藤光 \| 狮堂光 |  |  |
+| hikaru shindo | 进藤光 \| 狮堂光 | 出自作品:`hikaru no go` |  |
 | umi ryuuzaki | 龙咲海 | ![](https://static.wikia.nocookie.net/magicknightrayearth/images/5/52/Umi_Ryuuzaki.png)<br>出自作品：`p:magic knight rayearth`<br><br>龙咲海(りゅうざきうみ / Ryuuzaki Umi)，漫画《魔法骑士》及其衍生作品中的角色。 | [百度百科](https://baike.baidu.com/item/龙咲海) \| [Fandom](https://magicknightrayearth.fandom.com/wiki/Umi_Ryuuzaki) |
 | ai asato | 麻里爱 |  |  |
 | reiko katherine akimoto | 秋本丽子 | 所属作品：`kochikame`<br>![](https://ehgt.org/w/01/739/56788-66yyomel.webp) |  |
