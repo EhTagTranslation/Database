@@ -15833,6 +15833,7 @@ example:
 | shinoda | 詩乃田 |  |  |
 | ikeda pafue | いけだぱふぇ |  |  |
 | a r gaku. gurap | R学.ぐらぷ |  |  |
+| wakimiunten | ワキミウンテン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
