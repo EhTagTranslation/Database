@@ -3656,7 +3656,7 @@ example:
 | yunagi amane | 忧凪天音 |  |  |
 | nusmusbim | ナスムスビム |  | [pixiv](https://www.pixiv.net/users/647774) \| [FANBOX](https://nusmusbim.fanbox.cc/) \| [X](https://x.com/nusmusbim_ss) \| [Fantia](https://fantia.jp/fanclubs/9575) |
 | tatsu tairagi | 燵成 |  |  |
-| doemutan | どえむたん |  |  |
+| doemutan | どえむたん |  | [pixiv](https://www.pixiv.net/users/31392159) \| [X](https://x.com/doeeeeeem) \| [Skeb](https://skeb.jp/@doeeeeeem) |
 | ooshima towa | 大島永遠 |  |  |
 | posuimianju | 破碎面具 |  | [pixiv](https://www.pixiv.net/users/1699041) [X](https://x.com/psmj01) |
 | suzuki hinomi | 鈴木ひのみ |  | [pixiv](https://www.pixiv.net/users/20340462) [X](https://x.com/SuzukiHinomi) |
