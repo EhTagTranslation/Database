@@ -377,7 +377,7 @@ example:
 | x-men evolution | X战警：进化 |  |  |
 | ichigo 100 | 草莓100% | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2508805347.webp)<br>《草莓100%》是日本漫画家河下水希创作的校园恋爱喜剧漫画 |  |
 | tonari no kaibutsu-kun | 邻座的怪同学 |  |  |
-| danganronpa | 弹丸论破 |  |  |
+| danganronpa | 弹丸论破 | ![](https://lain.bgm.tv/r/400/pic/cover/l/bf/46/56093_I1uEu.jpg)<br>![](https://lain.bgm.tv/r/400/pic/cover/l/db/9a/158415_mzDLd.jpg) |  |
 | koutetsujou no kabaneri | 甲铁城的卡巴内利 |  |  |
 | yu-gi-oh | 游戏王 | 日本漫画家高桥和希所创作的漫画，有动画、游戏等衍生作品。<br>![图](https://img.moegirl.org.cn/common/a/a2/游戏王1-6代主角同堂.png) |  |
 | yu-gi-oh 5ds | 游戏王5D's | ![](https://lain.bgm.tv/r/400/pic/cover/l/a2/cc/1609_g4R4R.jpg) |  |
