@@ -2997,7 +2997,7 @@ example:
 | selka zuberg | 赛鲁卡·滋贝鲁库 | 赛鲁卡·滋贝鲁库（セルカ·ツーベルク）是由川原砾所创作的小说《`sword art online`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/赛鲁卡·滋贝鲁库) |
 | haruhiro | 哈尔希洛 |  |  |
 | yume | 梦儿 | ![](https://static.wikia.nocookie.net/hai-to-gensou-no-grimgal/images/8/83/Yume_ch.png)<br>出自作品:`hai to gensou no grimgar` |  |
-| shihoru | 席赫露 |  |  |
+| shihoru | 席赫露 | ![](https://static.wikia.nocookie.net/hai-to-gensou-no-grimgal/images/b/b9/Shihoru_ch.png)<br>出自作品:`hai to gensou no grimgar` |  |
 | ranta | 蓝德 |  |  |
 | moguzo | 莫古索 |  |  |
 | merry | 梅莉 \| 咩栗 | ①梅莉<br>![](https://static.wikia.nocookie.net/hai-to-gensou-no-grimgal/images/d/d7/Mary_ch.png)<br>所属作品: `p:hai to gensou no grimgar`<br>——————<br>②咩栗<br>![](https://bkimg.cdn.bcebos.com/pic/fc1f4134970a304e251f31272894b086c9177e3ef6e3?)<br>中国虚拟UP主，虚拟组合MeUmy成员 | [梅莉萌百](https://zh.moegirl.org.cn/梅莉%28灰与幻想的格林姆迦尔%29)  [咩栗萌百](https://zh.moegirl.org.cn/咩栗) |
