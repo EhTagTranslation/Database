@@ -3483,7 +3483,7 @@ example:
 | grass wonder | 草上飞 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/9/99/o1lvk46u9d5qkl5bt7e0rf1pbt984zc.png/600px-Jsf_101101.png)<br>所属作品：`uma musume pretty derby` | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby#登場角色)<br>[萌娘百科](https://zh.moegirl.org.cn/草上飞) |
 | himiko toga | 渡我被身子 | 渡我被身子是漫画《`my hero academia`》及其衍生作品的登场角色。<br><br>![图](# "https://ehgt.org/5c/42/5c4248f20400ddd4ab9e0ba3047780238fa029e2-282143-1300-1836-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/渡我被身子) (\*\*) |
 | black rock shooter | 黑岩射手 | BLACK★ROCK SHOOTER（ブラック★ロックシューター，CV：花泽香菜）<br>麻陶的里世界化身，里世界称为黑岩射手。手持ROCK★CANNON，此武器可于一秒内发射20发岩石，也可转变为一把巨剑。最后黑衣和黑岩会面将优美救出。(\*) | [维基百科](https://zh.wikipedia.org/wiki/BLACK★ROCK_SHOOTER動畫角色列表) (\*) |
-| mio kisaki | 希咲美樱 | ![](https://static.wikia.nocookie.net/walkureromanze/images/c/c9/WRDVD01_Cover_%28Non-Detail%29.jpg)<br>所属作品：`walkure romanze` |  |
+| mio kisaki | 希咲美樱 | ![](https://bkimg.cdn.bcebos.com/pic/a5c27d1ed21b0ef490f5ea6ddfc451da81cb3ee7?)<br>所属作品：`walkure romanze` |  |
 | lisa eostre | 丽莎·埃奥斯托雷 | ![](https://img.moegirl.org.cn/common/2/27/1295_c_5.jpg)<br><br>所属作品：`walkure romanze`<br>有着出类拔萃的马术才能，身为1年级学生就已是新秀。<br>在同学年中无人能与她匹敌，就算是高年级生，能与她媲美的也只有极少数人而已。 |  |
 | bertille althusser | 贝尔缇优·阿鲁奇赛尔 |  |  |
 | takahiro mizuno | 水野贵弘 | ![](https://img.moegirl.org.cn/common/7/73/Takahiro_Mizuno.png)<br><br>所属作品：`walkure romanze`<br>在祖国同年代的马术骑手中是一个天才，战不无胜，没有失败过。<br>为了更高目标进发变得更强，他来到世界第一的长枪马术学校，然而由于一次比赛意外受伤，不得不从此黯然隐退。 |  |
