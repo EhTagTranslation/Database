@@ -3489,7 +3489,7 @@ example:
 | takahiro mizuno | 水野贵弘 | ![](https://img.moegirl.org.cn/common/7/73/Takahiro_Mizuno.png)<br><br>所属作品：`walkure romanze`<br>在祖国同年代的马术骑手中是一个天才，战不无胜，没有失败过。<br>为了更高目标进发变得更强，他来到世界第一的长枪马术学校，然而由于一次比赛意外受伤，不得不从此黯然隐退。 |  |
 | shinonome | 东云 |  |  |
 | noel marres ascot | 诺埃尔·穆利斯·阿斯科特 | ![](https://bkimg.cdn.bcebos.com/pic/e4dde71190ef76c69ef99e069f16fdfaaf5167f7?)<br>所属作品：`walkure romanze` |  |
-| celia cumani aintree | 苏利亚·库玛尼·安特里 | ![](https://img.moegirl.org.cn/common/d/d1/1295_c_4.jpg)<br><br>所属作品：`walkure romanze`<br>作品中同龄人公认的金发肤白的巨乳黑丝长腿年轻美女。中等身高，一头长到大腿的金发，底部和前面有紧卷发，长刘海、蓝眼睛，身材非常有料。 | [萌娘百科](https://zh.moegirl.org.cn/苏利亚·库玛尼·安特里) |
+| celia cumani aintree | 苏利亚·库玛尼·安特里 | ![](https://bkimg.cdn.bcebos.com/pic/c75c10385343fbf2a837d410b27eca8065388fed?)<br>所属作品：`walkure romanze` | [萌娘百科](https://zh.moegirl.org.cn/苏利亚·库玛尼·安特里) |
 | ayako hiiragi | 柊木绫子 |  |  |
 | kayneth archibald el-melloi | 肯尼斯·埃尔梅罗·阿奇博尔德 | 第四次圣杯战争的参加者，Lancer阵营的御主。<br>时钟塔降灵科的一级讲师，精通降灵术、召唤术、炼金术。魔术属性是风和水。<br>是历经九代的魔术名门——阿奇博尔德家族的继承人，幼年时就有天才与神童之称，本人也对于魔术有着绝对的自信。但与此相对地，也有着多疑的性格，这在他与Lancer的关系中也有所体现。<br>与降灵科部长的女儿索拉乌订有婚约。 | [萌娘百科](https://zh.moegirl.org.cn/肯尼斯·埃尔梅罗·阿奇博尔德) (\*\*) |
 | romani archaman | 罗玛尼·阿其曼 | ——嗨~我进来~——呃，哎哎哎哎哎哎哎！？<br>你谁啊！？这里可是空房间哦，是我翘班的避难所啊！？<br>谁允许你进来的！？<br>![图](https://ehgt.org/ac/bd/acbd531e7069aeb1e0608134fe005a0e2446c6c4-1947718-1024-1750-png_l.jpg)<br>![图](https://ehgt.org/18/15/1815c4fbc1d3ba6b01ac5f872b354109a77acbca-2745074-1024-1750-png_l.jpg)<br><br>盖提亚。让我教导你最后的魔术吧。<br>告诉虽然知道“所罗门王还有一个宝具”，但却未能知道其真名——<br>不，是不可能知道其真名的你。<br><br>诞生之时已至，以此修正万象。<br>戴冠之时已至，以此启发万象。<br>以及——<br>诀别之时已至。以此，舍弃世界。<br>——Ars Nova | [萌娘百科](https://zh.moegirl.org.cn/罗玛尼·阿其曼) (\*\*) |
