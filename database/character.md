@@ -10444,6 +10444,7 @@ example:
 | amona | 阿莫娜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/36/d6/214146_crt_O8xo1.jpg)<br>日语：アモナ<br>出自作品:`dark summoner to dekiteiru` |  |
 | elmesia el-ru sarion | 艾尔梅西亚·艾尔琉·萨利昂 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/2/2a/Elmesia_Anime.png)<br>日语：エルメシア・エル・リュ・サリオン<br>出自作品:`tensei shitara slime datta ken` |  |
 | tomoki iwahashi | 岩桥智树 | ![](https://static.wikia.nocookie.net/villains/images/d/de/Tomoki_Iwahashi_Magic_Eye.png)<br>出自作品:`tsuki ga michibiku isekai douchuu` |  |
+| pulao | 蒲牢 | ![](https://static.wikia.nocookie.net/punishing-gray-raven/images/8/80/Pulao_-_Dragontoll.png)<br>出自作品:`punishing gray raven` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
