@@ -2996,7 +2996,7 @@ example:
 | alice zuberg | 爱丽丝·滋贝鲁库 | ![](https://img.moegirl.org.cn/common/7/7a/Alice9.jpg)<br>所属作品：`sword art online` | [萌娘百科](https://zh.moegirl.org.cn/爱丽丝·滋贝鲁库) |
 | selka zuberg | 赛鲁卡·滋贝鲁库 | 赛鲁卡·滋贝鲁库（セルカ·ツーベルク）是由川原砾所创作的小说《`sword art online`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/赛鲁卡·滋贝鲁库) |
 | haruhiro | 哈尔希洛 |  |  |
-| yume | 梦儿 |  |  |
+| yume | 梦儿 | ![](https://static.wikia.nocookie.net/hai-to-gensou-no-grimgal/images/8/83/Yume_ch.png)<br>出自作品:`hai to gensou no grimgar` |  |
 | shihoru | 席赫露 |  |  |
 | ranta | 蓝德 |  |  |
 | moguzo | 莫古索 |  |  |
