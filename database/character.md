@@ -3485,7 +3485,7 @@ example:
 | black rock shooter | 黑岩射手 | BLACK★ROCK SHOOTER（ブラック★ロックシューター，CV：花泽香菜）<br>麻陶的里世界化身，里世界称为黑岩射手。手持ROCK★CANNON，此武器可于一秒内发射20发岩石，也可转变为一把巨剑。最后黑衣和黑岩会面将优美救出。(\*) | [维基百科](https://zh.wikipedia.org/wiki/BLACK★ROCK_SHOOTER動畫角色列表) (\*) |
 | mio kisaki | 希咲美樱 | ![](https://bkimg.cdn.bcebos.com/pic/a5c27d1ed21b0ef490f5ea6ddfc451da81cb3ee7?)<br>所属作品：`walkure romanze` |  |
 | lisa eostre | 丽莎·埃奥斯托雷 | ![](https://bkimg.cdn.bcebos.com/pic/d043ad4bd11373f0275a1daca60f4bfbfbed049f?)<br>所属作品：`walkure romanze` |  |
-| bertille althusser | 贝尔缇优·阿鲁奇赛尔 |  |  |
+| bertille althusser | 贝尔缇优·阿鲁奇赛尔 | ![](https://bkimg.cdn.bcebos.com/pic/caef76094b36acaf030fe4cf7ed98d1001e99c11?)<br>出自作品:`walkure romanze` |  |
 | takahiro mizuno | 水野贵弘 | ![](https://bkimg.cdn.bcebos.com/pic/34fae6cd7b899e519256492740a7d933c8950d2c?)<br>所属作品：`walkure romanze` |  |
 | shinonome | 东云 | 出自作品:`walkure romanze` |  |
 | noel marres ascot | 诺埃尔·穆利斯·阿斯科特 | ![](https://bkimg.cdn.bcebos.com/pic/e4dde71190ef76c69ef99e069f16fdfaaf5167f7?)<br>所属作品：`walkure romanze` |  |
