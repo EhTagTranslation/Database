@@ -3487,7 +3487,7 @@ example:
 | lisa eostre | 丽莎·埃奥斯托雷 | ![](https://bkimg.cdn.bcebos.com/pic/d043ad4bd11373f0275a1daca60f4bfbfbed049f?)<br>所属作品：`walkure romanze` |  |
 | bertille althusser | 贝尔缇优·阿鲁奇赛尔 |  |  |
 | takahiro mizuno | 水野贵弘 | ![](https://bkimg.cdn.bcebos.com/pic/34fae6cd7b899e519256492740a7d933c8950d2c?)<br>所属作品：`walkure romanze` |  |
-| shinonome | 东云 |  |  |
+| shinonome | 东云 | 出自作品:`walkure romanze` |  |
 | noel marres ascot | 诺埃尔·穆利斯·阿斯科特 | ![](https://bkimg.cdn.bcebos.com/pic/e4dde71190ef76c69ef99e069f16fdfaaf5167f7?)<br>所属作品：`walkure romanze` |  |
 | celia cumani aintree | 苏利亚·库玛尼·安特里 | ![](https://bkimg.cdn.bcebos.com/pic/c75c10385343fbf2a837d410b27eca8065388fed?)<br>所属作品：`walkure romanze` | [萌娘百科](https://zh.moegirl.org.cn/苏利亚·库玛尼·安特里) |
 | ayako hiiragi | 柊木绫子 |  |  |
