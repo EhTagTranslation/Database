@@ -10445,6 +10445,7 @@ example:
 | elmesia el-ru sarion | 艾尔梅西亚·艾尔琉·萨利昂 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/2/2a/Elmesia_Anime.png)<br>日语：エルメシア・エル・リュ・サリオン<br>出自作品:`tensei shitara slime datta ken` |  |
 | tomoki iwahashi | 岩桥智树 | ![](https://static.wikia.nocookie.net/villains/images/d/de/Tomoki_Iwahashi_Magic_Eye.png)<br>出自作品:`tsuki ga michibiku isekai douchuu` |  |
 | pulao | 蒲牢 | ![](https://static.wikia.nocookie.net/punishing-gray-raven/images/8/80/Pulao_-_Dragontoll.png)<br>出自作品:`punishing gray raven` |  |
+| edel | 艾蒂露 | ![](https://bkimg.cdn.bcebos.com/pic/bd3eb13533fa828ba61ecfeecd475634970a304eec3c?)<br>出自作品:`sousou no frieren` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
