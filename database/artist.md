@@ -15837,6 +15837,7 @@ example:
 | kaneyama shin | カネヤマシン |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ002697) \| [FANZA](https://book.dmm.co.jp/list/?author=20395) |
 | teruteru boudu | てるぼうず |  |  |
 | sagawa | 左側 |  |  |
+| kanamirubon | かなみルボン |  | [pixiv](https://www.pixiv.net/users/19885273) \| [Fantia](https://fantia.jp/fanclubs/191567) \| [FANBOX](https://banaparubon00.fanbox.cc/) \| [Skeb](https://skeb.jp/@Jjagjmptmptj) |
 
 <!--TEMPLATE:
 |  |  |  |  |
