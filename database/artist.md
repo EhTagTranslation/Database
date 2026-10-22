@@ -14379,7 +14379,7 @@ example:
 | gas mas | ガスマス |  |  |
 | gomala | ごまら |  |  |
 | kanashiro no hako | かなしろの箱 |  |  |
-| kinugasa yuuichi | キヌガサ雄一 |  |  |
+| kinugasa yuuichi | キヌガサ雄一 |  | [pixiv](https://www.pixiv.net/users/1494692) \| [Pawoo](https://pawoo.net/@shin_kinugasa_youichi_zero) \| [Fantia](https://fantia.jp/fanclubs/473707) |
 | matsunoda you | 松野田ヨウ |  |  |
 | siberian hahasky | シベリアン母スキー |  |  |
 | gakeppuchi no kaede | 崖っぷちの楓 |  |  |
