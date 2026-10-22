@@ -10448,6 +10448,7 @@ example:
 | edel | 艾蒂露 | ![](https://static.wikia.nocookie.net/frieren/images/6/6a/Edel_anime_profile.png)<br>出自作品:`sousou no frieren` |  |
 | claire | 克蕾雅 | ![](https://static.wikia.nocookie.net/tsuiho-shiromadoshi/images/e/e5/Claire.png)<br>日语：クレア<br>出自作品:`yuusha party wo tsuihou sareta shiromadoushi s-rank boukensha ni hirowareru` |  |
 | fiona beckford | 菲奥娜·贝克福德 | ![](https://bkimg.cdn.bcebos.com/pic/c83d70cf3bc79f3d8ff19903b8a1cd11728b29f4?)<br>出自作品:`walkure romanze` |  |
+| morino yuuko | 森乃由子 | ![](https://static.wikia.nocookie.net/taimanin/images/3/3c/Morino_Yuuko_RPGX_Info.png)<br>出自作品:`tentacle and witches` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
