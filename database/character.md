@@ -7040,7 +7040,7 @@ example:
 | t-20s gnome | T-20S 诺姆 | ![](https://lastorigin.wiki.gg/images/thumb/Gnome_Skin_1_Damaged.png/900px-Gnome_Skin_1_Damaged.png?92a635)<br>![](https://lastorigin.wiki.gg/images/thumb/Gnome_Skin_2_Damaged_Alt.png/900px-Gnome_Skin_2_Damaged_Alt.png?dbcb34)<br>![](https://static.wikia.nocookie.net/lastorigin/images/7/73/Gnome_Damaged.png)<br>所属作品：`last origin` |  |
 | poi | 鲍伊 | ![](https://static.wikia.nocookie.net/lastorigin/images/a/aa/Poi_Damaged.png)<br>所属作品：`last origin` |  |
 | hongryeon | C-77红莲 | ![](https://static.wikia.nocookie.net/lastorigin/images/2/20/HongRyeon_Damaged.png)<br>![](https://lastorigin.wiki.gg/images/thumb/HongRyeon_Skin_1_Damaged.png/900px-HongRyeon_Skin_1_Damaged.png?224025)<br>所属作品：`last origin` |  |
-| sekhmet | 赛克麦特 | ![](https://static.wikia.nocookie.net/lastorigin/images/9/9a/Sekhmet.png)<br>所属作品：`last origin` |  |
+| sekhmet | 赛克麦特 | ![](https://static.wikia.nocookie.net/lastorigin/images/9/9a/Sekhmet.png)<br>![](https://lastorigin.wiki.gg/images/thumb/Sekhmet_Skin_1.png/796px-Sekhmet_Skin_1.png?f1c557)<br>所属作品：`last origin` |  |
 | cerestia | 塞蕾斯缇雅 | ![](https://static.wikia.nocookie.net/lastorigin/images/f/f1/Cerestia.png)<br>所属作品：`last origin` |  |
 | black lilith | 黑莉莉丝 \| 黑之莉莉丝 | ①黑之莉莉丝<br>![](https://kisaragi-co.jp/assets/top/character/c8.png)<br>所属作品：`sentouin hakenshimasu`<br>————————<br>②黑莉莉丝<br>![](https://static.wikia.nocookie.net/lastorigin/images/3/36/Black_Lilith.png)<br>所属作品：`last origin` |  |
 | kyrie ushiromiya | 右代宫雾江 | ![](https://lain.bgm.tv/r/400/pic/crt/l/1c/73/932_crt_816eP.jpg?r=1677396648)<br>所属作品：`umineko no naku koro ni` |  |
