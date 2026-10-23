@@ -7039,7 +7039,7 @@ example:
 | boryeon | 宝莲 | ![](https://static.wikia.nocookie.net/lastorigin/images/c/c4/BoRyeon.png)<br>![](https://static.wikia.nocookie.net/lastorigin/images/3/3b/BoRyeon_Damaged.png)<br>所属作品：`last origin` |  |
 | t-20s gnome | T-20S 诺姆 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1463/h_2829/245/103682/2025/3/9/488435.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_938/h_2008/245/103682/2025/3/9/608076.png)<br>所属作品：`last origin` |  |
 | poi | 鲍伊 | ![](https://static.wikia.nocookie.net/lastorigin/images/f/f1/Poi.png)<br>![](https://static.wikia.nocookie.net/lastorigin/images/a/aa/Poi_Damaged.png)<br>所属作品：`last origin` |  |
-| hongryeon | C-77红莲 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/236746/2023/3/4/673.png)<br>![](https://cdnimg-v2.gamekee.com/images/www/1635144791887_19949014.png)<br>所属作品：`last origin` |  |
+| hongryeon | C-77红莲 | ![](https://static.wikia.nocookie.net/lastorigin/images/2/20/HongRyeon_Damaged.png)<br>所属作品：`last origin` |  |
 | sekhmet | 赛克麦特 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_800/h_2032/245/72324/2025/2/26/866168.png)<br>所属作品：`last origin` |  |
 | cerestia | 塞蕾斯缇雅 | ![](https://static.wikia.nocookie.net/lastorigin/images/f/f1/Cerestia.png)<br>所属作品：`last origin` |  |
 | black lilith | 黑莉莉丝 \| 黑之莉莉丝 | ①黑之莉莉丝<br>![](https://kisaragi-co.jp/assets/top/character/c8.png)<br>所属作品：`sentouin hakenshimasu`<br>秘密结社的大干部。<br>————————<br><br>②黑莉莉丝<br>![](https://cdnimg-v2.gamekee.com/images/www/1633682601813_89475476.png)<br>所属作品：`last origin` |  |
