@@ -7045,7 +7045,7 @@ example:
 | black lilith | 黑莉莉丝 \| 黑之莉莉丝 | ①黑之莉莉丝<br>![](https://kisaragi-co.jp/assets/top/character/c8.png)<br>所属作品：`sentouin hakenshimasu`<br>秘密结社的大干部。<br>————————<br><br>②黑莉莉丝<br>![](https://cdnimg-v2.gamekee.com/images/www/1633682601813_89475476.png)<br>所属作品：`last origin` |  |
 | kyrie ushiromiya | 右代宫雾江 | ![](https://lain.bgm.tv/r/400/pic/crt/l/1c/73/932_crt_816eP.jpg?r=1677396648)<br>所属作品：`umineko no naku koro ni` |  |
 | black wyrm | 黑龙S9 | ![](https://static.wikia.nocookie.net/lastorigin/images/c/cc/Black_Wyrm_Damaged.png)<br>所属作品：`last origin` |  |
-| alcyone | 阿尔库俄涅 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1916/h_1982/245/72324/2025/2/19/70916.png)<br>所属作品：`last origin` |  |
+| alcyone | 阿尔库俄涅 | ![](https://static.wikia.nocookie.net/lastorigin/images/f/ff/Alcyone_Alt.png)<br>所属作品：`last origin` |  |
 | zeri | 泽丽（祖安花火） | 所属作品：`league of legends`<br>![](https://wiki.leagueoflegends.com/en-us/images/Zeri_OriginalSkin.jpg?d6d2c) |  |
 | yun ying | 云缨 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/a/a9/Ying-circle-big.png)<br>所属作品：`honor of kings` |  |
 | chiho sasaki | 佐佐木千穗 | ![](https://maousama.jp/assets/img/character/character03_main.png)<br>所属作品：`hataraku maou-sama` |  |
