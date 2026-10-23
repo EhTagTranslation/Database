@@ -7038,7 +7038,7 @@ example:
 | altina | 阿尔蒂娜 | ![](https://ehgt.org/w/01/953/51420-mf66t6sb.webp)<br>所属作品：`fire emblem` |  |
 | boryeon | 宝莲 | ![](https://static.wikia.nocookie.net/lastorigin/images/c/c4/BoRyeon.png)<br>![](https://static.wikia.nocookie.net/lastorigin/images/3/3b/BoRyeon_Damaged.png)<br>所属作品：`last origin` |  |
 | t-20s gnome | T-20S 诺姆 | ![](https://static.wikia.nocookie.net/lastorigin/images/7/73/Gnome_Damaged.png)<br>所属作品：`last origin` |  |
-| poi | 鲍伊 | ![](https://static.wikia.nocookie.net/lastorigin/images/f/f1/Poi.png)<br>![](https://static.wikia.nocookie.net/lastorigin/images/a/aa/Poi_Damaged.png)<br>所属作品：`last origin` |  |
+| poi | 鲍伊 | ![](https://static.wikia.nocookie.net/lastorigin/images/a/aa/Poi_Damaged.png)<br>所属作品：`last origin` |  |
 | hongryeon | C-77红莲 | ![](https://static.wikia.nocookie.net/lastorigin/images/2/20/HongRyeon_Damaged.png)<br>所属作品：`last origin` |  |
 | sekhmet | 赛克麦特 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_800/h_2032/245/72324/2025/2/26/866168.png)<br>所属作品：`last origin` |  |
 | cerestia | 塞蕾斯缇雅 | ![](https://static.wikia.nocookie.net/lastorigin/images/f/f1/Cerestia.png)<br>所属作品：`last origin` |  |
