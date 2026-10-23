@@ -10485,6 +10485,7 @@ example:
 | queen of mane | 鬃毛女王 | ![](https://lastorigin.wiki.gg/images/thumb/Queen_of_Mane.png/900px-Queen_of_Mane.png?8c077f)<br>![](https://lastorigin.wiki.gg/images/thumb/Queen_of_Mane_Skin_2_Damaged.png/900px-Queen_of_Mane_Skin_2_Damaged.png?1a9a9c)<br><br>出自作品:`last origin` |  |
 | sadius | 惩罚的赛迪乌斯 | ![](https://lastorigin.wiki.gg/images/thumb/Sadius.png/900px-Sadius.png?e7e0ab)<br>![](https://lastorigin.wiki.gg/images/thumb/Sadius_Skin_2.png/900px-Sadius_Skin_2.png?9a270f)<br>![](https://lastorigin.wiki.gg/images/thumb/Sadius_Skin_1.png/900px-Sadius_Skin_1.png?23fdae)<br>出自作品:`last origin` |  |
 | t-3 leprechaun | T-3 矮精灵 | ![](https://lastorigin.wiki.gg/images/thumb/Leprechaun_Skin_2.png/900px-Leprechaun_Skin_2.png?cd2266)<br>![](https://lastorigin.wiki.gg/images/thumb/Leprechaun_Skin_1_Damaged.png/900px-Leprechaun_Skin_1_Damaged.png?c0d7de)<br>![](https://lastorigin.wiki.gg/images/thumb/Leprechaun_Skin_2_R%2B_Damaged.png/900px-Leprechaun_Skin_2_R%2B_Damaged.png?262edf)<br>出自作品:`last origin` |  |
+| audrey | 织梦者奥德蕾 | ![](https://lastorigin.wiki.gg/images/thumb/Audrey_Skin_1.png/900px-Audrey_Skin_1.png?13761b)<br>![](https://lastorigin.wiki.gg/images/thumb/Audrey_Skin_2.png/900px-Audrey_Skin_2.png?3bb39a)<br>出自作品:`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
