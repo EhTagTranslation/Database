@@ -7377,7 +7377,7 @@ example:
 | mh-4 thetis | MH-4忒提斯 | ![](https://static.wikia.nocookie.net/lastorigin/images/a/a7/Thetis.png)<br>所属作品：`last origin` |  |
 | kunoichi zero | 女忍 零 | ![](https://static.wikia.nocookie.net/lastorigin/images/2/2a/Kunoichi_Zero.png)<br>所属作品：`last origin` |  |
 | may of doom | 毁灭者 梅 | ![](https://static.wikia.nocookie.net/lastorigin/images/b/b5/May.png)<br>所属作品：`last origin` |  |
-| scathy | 斯卡蒂（LO） | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_600/h_600/245/103682/2025/3/3/392952.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1458/h_2028/245/103682/2025/3/3/429151.webp)<br>所属作品：`last origin` |  |
+| scathy | 斯卡蒂（最后的起源） | ![](https://static.wikia.nocookie.net/lastorigin/images/7/75/Scathy.png)<br>所属作品：`last origin` |  |
 | ag-2c sirene | AG-2C塞壬 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3072/h_2048/245/236746/2023/11/28/427618.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1520/h_1912/245/72324/2025/2/20/186370.png)<br>所属作品：`last origin` |  |
 | barbariana | 巴巴丽安娜 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1409/h_1959/245/103682/2025/3/8/884316.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1182/h_1986/245/103682/2025/3/8/139613.webp)<br><br>所属作品：`last origin` |  |
 | a-1 bloody panther | A-1血豹 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1661/h_1652/245/72324/2025/2/19/266693.png)<br>所属作品：`last origin` |  |
