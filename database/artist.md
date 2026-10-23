@@ -12628,7 +12628,7 @@ example:
 | otona no sexy ehon | 大人のSEXY絵本 |  |  |
 | hogeramu | ほげらむ | ![X](https://pbs.twimg.com/profile_images/1510941923380326403/6FhJPMtC_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/hogerarara) [pixiv](https://www.pixiv.net/users/78795964) |
 | raikou | らい公 |  |  |
-| raku | 乐 |  |  |
+| raku | 乐 \| らく | 楽 |  |
 | karaage | 唐扬 |  |  |
 | jinze | 今沢 |  | [pixiv](https://www.pixiv.net/users/9322526) |
 | hosigarasu | 干しガラス |  | [pixiv](https://www.pixiv.net/users/6022812) [X](https://x.com/_hosigarasu) |
