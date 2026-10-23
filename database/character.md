@@ -7372,7 +7372,7 @@ example:
 | setsuna sumeragi | 皇城刹那 | ![](https://img.moegirl.org.cn/common/5/53/Setsuna_normal.png)<br>所属作品：`ongeki` |  |
 | hirume | 希鲁梅 | ![](https://static.wikia.nocookie.net/lastorigin/images/8/8a/Hirume.png)<br>![](https://lastorigin.wiki.gg/images/thumb/Hirume_Skin_2_Damaged.png/900px-Hirume_Skin_2_Damaged.png?ad5cdb)<br>所属作品：`last origin` |  |
 | eternity | 伊特尼提 | ![](https://static.wikia.nocookie.net/lastorigin/images/f/ff/Eternity_Damaged.png)<br>所属作品：`last origin` |  |
-| labiata | 拉比亚塔 | ![](https://static.wikia.nocookie.net/lastorigin/images/c/cf/Labiata.png)<br>所属作品：`last origin` |  |
+| labiata | 拉比亚塔 | ![](https://lastorigin.wiki.gg/images/thumb/Labiata_Skin_5.png/470px-Labiata_Skin_5.png?4c13f7)<br>![](https://lastorigin.wiki.gg/images/thumb/Labiata_Skin_3_Damaged.png/900px-Labiata_Skin_3_Damaged.png?989ab0)<br>![](https://lastorigin.wiki.gg/images/thumb/Labiata_Skin_1.png/900px-Labiata_Skin_1.png?f1c80f)<br>所属作品：`last origin` |  |
 | fenrir | 芬妮尔 | ![](https://static.wikia.nocookie.net/lastorigin/images/6/6a/Fenrir.png)<br>所属作品：`last origin` |  |
 | mh-4 thetis | MH-4忒提斯 | ![](https://static.wikia.nocookie.net/lastorigin/images/a/a7/Thetis.png)<br>所属作品：`last origin` |  |
 | kunoichi zero | 女忍 零 | ![](https://static.wikia.nocookie.net/lastorigin/images/2/2a/Kunoichi_Zero.png)<br>所属作品：`last origin` |  |
