@@ -7385,7 +7385,7 @@ example:
 | elven forest maker | 精灵造林者 | ![](https://lastorigin.wiki.gg/images/thumb/Elven_Forest_Maker_Skin_2.png/900px-Elven_Forest_Maker_Skin_2.png?c53835)<br>![](https://lastorigin.wiki.gg/images/thumb/Elven_Forest_Maker_Skin_1_Damaged.png/900px-Elven_Forest_Maker_Skin_1_Damaged.png?8d7ef2)<br>![](https://lastorigin.wiki.gg/images/thumb/Elven_Forest_Maker_Skin_3_Damaged.png/900px-Elven_Forest_Maker_Skin_3_Damaged.png?60f528)<br>出自作品:`last origin` |  |
 | perrault | 佩罗 | ![](https://lastorigin.wiki.gg/images/thumb/Perrault_Skin_1.png/900px-Perrault_Skin_1.png?1abc31)<br>![](https://lastorigin.wiki.gg/images/thumb/Perrault_Skin_4_Damaged.png/900px-Perrault_Skin_4_Damaged.png?532503)<br>所属作品：`last origin` |  |
 | a-87 banshee | A-87 报丧女妖 | ![](https://lastorigin.wiki.gg/images/thumb/Banshee_Skin_1.png/900px-Banshee_Skin_1.png?b799c1)<br>![](https://lastorigin.wiki.gg/images/thumb/Banshee_Skin_2_Damaged.png/900px-Banshee_Skin_2_Damaged.png?ec0d59)<br>所属作品：`last origin` |  |
-| at-4 pani | AT-4 帕尼 | ![](https://static.wikia.nocookie.net/lastorigin/images/b/b3/Pani.png)<br>所属作品：`last origin` |  |
+| at-4 pani | AT-4 帕尼 | ![](https://lastorigin.wiki.gg/images/thumb/Pani_Skin_1.png/900px-Pani_Skin_1.png?207e53)<br>![](https://lastorigin.wiki.gg/images/thumb/Pani_Skin_1_Damaged.png/900px-Pani_Skin_1_Damaged.png?b9b7c2)<br>所属作品：`last origin` |  |
 | kei | 凯 | ![](https://cdn.myanimelist.net/images/characters/2/561044.jpg)<br>所属作品:`dirty pair` |  |
 | kotono shiunji | 紫云寺琴乃 |  |  |
 | isane kotetsu | 虎彻勇音 | ![](https://ehgt.org/w/01/561/35124-u6x0prd8.webp)<br>所属作品：`bleach`<br>日文名：こてついさね |  |
