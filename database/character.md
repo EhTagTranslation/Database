@@ -10455,7 +10455,7 @@ example:
 | eve sophi nebulis | 伊芙·索菲·涅比利斯 | ![](https://static.wikia.nocookie.net/kimisen/images/5/54/LN_Volume_12_Textless_Cover.jpg)<br>日语：エ ヴ ・ ソ フ ィ・ ネビュリス<br>出自作品:`kimi to boku no saigo no senjou aruiwa sekai ga hajimaru seisen` |  |
 | hange zoe | 韩吉·佐耶 | ![](https://bkimg.cdn.bcebos.com/pic/58ee3d6d55fbb2fb4316e42adb1637a4462309f776cc?)<br>出自作品:`shingeki no kyojin` |  |
 | azazel | 阿撒兹勒 | ![](https://lastorigin.wiki.gg/images/thumb/Azazel_Skin_1.png/900px-Azazel_Skin_1.png?dc1c42)<br>![](https://lastorigin.wiki.gg/images/thumb/Azazel_Skin_1_Damaged.png/900px-Azazel_Skin_1_Damaged.png?4c6d37)<br>出自作品:`last origin` |  |
-| serapias alice | 赛拉贝亚斯爱丽丝 | ![](https://static.wikia.nocookie.net/lastorigin/images/8/82/Alice.png)<br>出自作品:`last origin` |  |
+| serapias alice | 赛拉贝亚斯爱丽丝 | ![](https://lastorigin.wiki.gg/images/thumb/Alice_Skin_1_Damaged.png/900px-Alice_Skin_1_Damaged.png?ca16c3)<br>![](https://lastorigin.wiki.gg/images/thumb/Alice_Skin_1.png/900px-Alice_Skin_1.png?8fd2d9)<br>![](https://lastorigin.wiki.gg/images/thumb/Alice_Skin_2.png/900px-Alice_Skin_2.png?a6537a)<br>![](https://lastorigin.wiki.gg/images/thumb/Alice_Skin_3_Damaged.png/900px-Alice_Skin_3_Damaged.png?8811a0)<br>出自作品:`last origin` |  |
 | draculina | 德拉库丽娜 | ![](https://static.wikia.nocookie.net/lastorigin/images/0/0c/Draculina_Damaged.png)<br>出自作品:`last origin` |  |
 | faucre | 波克鲁大魔王 | ![](https://static.wikia.nocookie.net/lastorigin/images/b/b3/Faucre.png)<br>韩语：뽀끄루 대마왕<br>日语：ポックル大魔王<br>出自作品:`last origin` |  |
 | fafnir | 法夫纳（最后的起源） | ![](https://lastorigin.wiki.gg/images/thumb/Fafnir.png/900px-Fafnir.png?d5f8ac)<br>出自作品:`last origin` |  |
