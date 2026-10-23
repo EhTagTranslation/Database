@@ -14386,6 +14386,7 @@ example:
 | foamy | Foamy |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG73340.html) |
 | ato wa maboroshi | あとはまぼろし |  |  |
 | byakuya kisoukyoku | 白夜綺想曲 |  |  |
+| himuganeya | ひむがね屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
