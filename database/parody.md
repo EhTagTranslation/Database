@@ -2603,7 +2603,7 @@ example:
 | sasayaku you ni koi wo utau | 恋语轻唱 |  |  |
 | elemental gelade | 武器种族传说 | ![](https://static.wikia.nocookie.net/elementalgelade/images/b/bd/Slider1.jpg) |  |
 | meru the succubus | 魅魔梅鲁 |  |  |
-| oshioki sweetie | oshioki sweetie | ![](https://t.vndb.org/cv/01/3601.jpg) |  |
+| oshioki sweetie | 调教甜心 | ![](https://t.vndb.org/cv/01/3601.jpg)<br>![](https://t.vndb.org/cv.t/16/142216.jpg) |  |
 | gensou suikoden | 幻想水浒传 |  |  |
 | queens blade rebellion | 女皇之刃 叛乱 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6f/99/33354_08ZEH.jpg) |  |
 | given | ギヴン |  |  |
