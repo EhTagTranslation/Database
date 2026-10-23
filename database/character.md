@@ -7036,7 +7036,7 @@ example:
 | makiko oriotorai | 参水·真喜子 |  |  |
 | iria fukumune | 福宗伊莉雅 | ![](https://ehgt.org/w/01/994/59720-fjaofxyc.webp)<br>所属作品：`dakara boku wa h ga dekinai` |  |
 | altina | 阿尔蒂娜 | ![](https://ehgt.org/w/01/953/51420-mf66t6sb.webp)<br>所属作品：`fire emblem` |  |
-| boryeon | 宝莲 | ![](https://static.wikia.nocookie.net/lastorigin/images/c/c4/BoRyeon.png)<br>![](https://static.wikia.nocookie.net/lastorigin/images/3/3b/BoRyeon_Damaged.png)<br>所属作品：`last origin` |  |
+| boryeon | 宝莲 | ![](https://static.wikia.nocookie.net/lastorigin/images/3/3b/BoRyeon_Damaged.png)<br>所属作品：`last origin` |  |
 | t-20s gnome | T-20S 诺姆 | ![](https://static.wikia.nocookie.net/lastorigin/images/7/73/Gnome_Damaged.png)<br>所属作品：`last origin` |  |
 | poi | 鲍伊 | ![](https://static.wikia.nocookie.net/lastorigin/images/a/aa/Poi_Damaged.png)<br>所属作品：`last origin` |  |
 | hongryeon | C-77红莲 | ![](https://static.wikia.nocookie.net/lastorigin/images/2/20/HongRyeon_Damaged.png)<br>所属作品：`last origin` |  |
