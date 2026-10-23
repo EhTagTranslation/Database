@@ -10473,6 +10473,7 @@ example:
 | leona of blood and iron | 铁血蕾欧娜 | ![](https://lastorigin.wiki.gg/images/thumb/Leona_Skin_1.png/900px-Leona_Skin_1.png?d1940c)<br>![](https://lastorigin.wiki.gg/images/thumb/Leona_Skin_1_Damaged.png/900px-Leona_Skin_1_Damaged.png?949e2a)<br>![](https://lastorigin.wiki.gg/images/thumb/Leona_Skin_2.png/900px-Leona_Skin_2.png?9b6d6e)<br>出自作品:`last origin` |  |
 | melt | 梅尔特 | ![](https://lastorigin.wiki.gg/images/thumb/Melt_Censored.png/900px-Melt_Censored.png?e6f961)<br>![](https://lastorigin.wiki.gg/images/thumb/Melt_Skin_1_Alt.png/900px-Melt_Skin_1_Alt.png?f50ee2)<br>![](https://lastorigin.wiki.gg/images/thumb/Melt_Skin_1_Damaged_Alt.png/900px-Melt_Skin_1_Damaged_Alt.png?d9c74f)<br>出自作品:`last origin` |  |
 | leanne | 仁慈的莉安 | ![](https://lastorigin.wiki.gg/images/thumb/Leanne.png/900px-Leanne.png?2093de)<br>![](https://lastorigin.wiki.gg/images/thumb/Leanne_Skin_3_Damaged.png/900px-Leanne_Skin_3_Damaged.png?7bf986)<br>出自作品:`last origin` |  |
+| invincible dragon | 无敌龙 | ![](https://lastorigin.wiki.gg/images/thumb/Invincible_Dragon_Skin_1.png/900px-Invincible_Dragon_Skin_1.png?8d3924)<br>![](https://lastorigin.wiki.gg/images/thumb/Invincible_Dragon_Skin_3_Damaged.png/900px-Invincible_Dragon_Skin_3_Damaged.png?f1c885)<br>出自作品:`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
