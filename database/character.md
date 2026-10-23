@@ -10487,6 +10487,7 @@ example:
 | t-3 leprechaun | T-3 矮精灵 | ![](https://lastorigin.wiki.gg/images/thumb/Leprechaun_Skin_2.png/900px-Leprechaun_Skin_2.png?cd2266)<br>![](https://lastorigin.wiki.gg/images/thumb/Leprechaun_Skin_1_Damaged.png/900px-Leprechaun_Skin_1_Damaged.png?c0d7de)<br>![](https://lastorigin.wiki.gg/images/thumb/Leprechaun_Skin_2_R%2B_Damaged.png/900px-Leprechaun_Skin_2_R%2B_Damaged.png?262edf)<br>出自作品:`last origin` |  |
 | audrey | 织梦者奥德蕾 | ![](https://lastorigin.wiki.gg/images/thumb/Audrey_Skin_1.png/900px-Audrey_Skin_1.png?13761b)<br>![](https://lastorigin.wiki.gg/images/thumb/Audrey_Skin_2.png/900px-Audrey_Skin_2.png?3bb39a)<br>出自作品:`last origin` |  |
 | amy the razor | 剃刀艾米 | ![](https://lastorigin.wiki.gg/images/thumb/Amy_Skin_2.png/900px-Amy_Skin_2.png?4fbc69)<br>![](https://lastorigin.wiki.gg/images/thumb/Amy_Damaged.png/900px-Amy_Damaged.png?aeeaa0)<br>出自作品:`last origin` |  |
+| saraqael | 萨拉卡埃尔 | ![](https://lastorigin.wiki.gg/images/thumb/Saraqael_Skin_1.png/900px-Saraqael_Skin_1.png?daa8bc)<br>![](https://lastorigin.wiki.gg/images/thumb/Saraqael_Skin_1_Damaged.png/900px-Saraqael_Skin_1_Damaged.png?c776d7)<br>![](https://lastorigin.wiki.gg/images/thumb/Saraqael_Skin_2_Damaged.png/900px-Saraqael_Skin_2_Damaged.png?992e6a)<br>出自作品:`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
