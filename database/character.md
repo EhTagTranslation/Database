@@ -10459,6 +10459,7 @@ example:
 | draculina | 德拉库丽娜 | ![](https://static.wikia.nocookie.net/lastorigin/images/0/0c/Draculina_Damaged.png)<br>出自作品:`last origin` |  |
 | faucre | 波克鲁大魔王 | ![](https://static.wikia.nocookie.net/lastorigin/images/b/b3/Faucre.png)<br>韩语：뽀끄루 대마왕<br>日语：ポックル大魔王<br>出自作品:`last origin` |  |
 | fafnir | 法夫纳（最后的起源） | ![](https://lastorigin.wiki.gg/images/thumb/Fafnir.png/900px-Fafnir.png?d5f8ac)<br>出自作品:`last origin` |  |
+| hathor | 哈托尔 | ![](https://lastorigin.wiki.gg/images/thumb/Hathor_Damaged.png/900px-Hathor_Damaged.png?106d12)<br>![](https://lastorigin.wiki.gg/images/thumb/Hathor_Skin_1_Damaged_Alt_Censored.png/900px-Hathor_Skin_1_Damaged_Alt_Censored.png?285197)<br>出自作品:`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
