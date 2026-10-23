@@ -10456,6 +10456,7 @@ example:
 | hange zoe | 韩吉·佐耶 | ![](https://bkimg.cdn.bcebos.com/pic/58ee3d6d55fbb2fb4316e42adb1637a4462309f776cc?)<br>出自作品:`shingeki no kyojin` |  |
 | azazel | 阿撒兹勒 | ![](https://static.wikia.nocookie.net/lastorigin/images/4/42/Azazel.png)<br>出自作品:`last origin` |  |
 | serapias alice | 赛拉贝亚斯爱丽丝 | ![](https://static.wikia.nocookie.net/lastorigin/images/8/82/Alice.png)<br>出自作品:`last origin` |  |
+| draculina | 德拉库丽娜 | ![](https://static.wikia.nocookie.net/lastorigin/images/0/0c/Draculina_Damaged.png)<br>出自作品:`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
