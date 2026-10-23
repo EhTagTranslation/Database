@@ -10481,6 +10481,7 @@ example:
 | oberonia rhea | 奥贝罗尼亚瑞亚 | ![](https://lastorigin.wiki.gg/images/thumb/Rhea_Skin_2.png/900px-Rhea_Skin_2.png?977edd)<br>![](https://lastorigin.wiki.gg/images/thumb/Rhea_Skin_1_Censored.png/900px-Rhea_Skin_1_Censored.png?cc575b)<br>![](https://lastorigin.wiki.gg/images/thumb/Rhea_Skin_3_Damaged.png/900px-Rhea_Skin_3_Damaged.png?384396)<br>出自作品:`last origin` |  |
 | p-22 harpyia | P-22 哈耳庇厄 | ![](https://lastorigin.wiki.gg/images/thumb/Harpyia.png/900px-Harpyia.png?312f40)<br>![](https://lastorigin.wiki.gg/images/thumb/Harpyia_Skin_1.png/900px-Harpyia_Skin_1.png?bce3b3)<br>![](https://lastorigin.wiki.gg/images/thumb/Harpyia_Skin_3_Damaged.png/900px-Harpyia_Skin_3_Damaged.png?f74274)<br>出自作品:`last origin` |  |
 | indomitable marie | 不屈的玛丽 | ![](https://lastorigin.wiki.gg/images/thumb/Marie_Skin_3.png/900px-Marie_Skin_3.png?4790aa)<br>![](https://lastorigin.wiki.gg/images/thumb/Marie_Skin_3_Damaged.png/900px-Marie_Skin_3_Damaged.png?469bc5)<br>![](https://lastorigin.wiki.gg/images/thumb/Marie_Skin_2.png/900px-Marie_Skin_2.png?2e1b15)<br>出自作品:`last origin` |  |
+| janghwa | 蔷花 | ![](https://lastorigin.wiki.gg/images/thumb/JangHwa_Skin_1.png/900px-JangHwa_Skin_1.png?8d615d)<br>![](https://lastorigin.wiki.gg/images/thumb/JangHwa_Skin_2_Damaged.png/900px-JangHwa_Skin_2_Damaged.png?ce628a)<br>出自作品:`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
