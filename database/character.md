@@ -10483,6 +10483,7 @@ example:
 | indomitable marie | 不屈的玛丽 | ![](https://lastorigin.wiki.gg/images/thumb/Marie_Skin_3.png/900px-Marie_Skin_3.png?4790aa)<br>![](https://lastorigin.wiki.gg/images/thumb/Marie_Skin_3_Damaged.png/900px-Marie_Skin_3_Damaged.png?469bc5)<br>![](https://lastorigin.wiki.gg/images/thumb/Marie_Skin_2.png/900px-Marie_Skin_2.png?2e1b15)<br>出自作品:`last origin` |  |
 | janghwa | 蔷花 | ![](https://lastorigin.wiki.gg/images/thumb/JangHwa_Skin_1.png/900px-JangHwa_Skin_1.png?8d615d)<br>![](https://lastorigin.wiki.gg/images/thumb/JangHwa_Skin_2_Damaged.png/900px-JangHwa_Skin_2_Damaged.png?ce628a)<br>出自作品:`last origin` |  |
 | queen of mane | 鬃毛女王 | ![](https://lastorigin.wiki.gg/images/thumb/Queen_of_Mane.png/900px-Queen_of_Mane.png?8c077f)<br>![](https://lastorigin.wiki.gg/images/thumb/Queen_of_Mane_Skin_2_Damaged.png/900px-Queen_of_Mane_Skin_2_Damaged.png?1a9a9c)<br><br>出自作品:`last origin` |  |
+| sadius | 惩罚的赛迪乌斯 | ![](https://lastorigin.wiki.gg/images/thumb/Sadius.png/900px-Sadius.png?e7e0ab)<br>![](https://lastorigin.wiki.gg/images/thumb/Sadius_Skin_2.png/900px-Sadius_Skin_2.png?9a270f)<br>![](https://lastorigin.wiki.gg/images/thumb/Sadius_Skin_1.png/900px-Sadius_Skin_1.png?23fdae)<br>出自作品:`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
