@@ -7374,7 +7374,7 @@ example:
 | eternity | 伊特尼提 | ![](https://static.wikia.nocookie.net/lastorigin/images/f/ff/Eternity_Damaged.png)<br>所属作品：`last origin` |  |
 | labiata | 拉比亚塔 | ![](https://lastorigin.wiki.gg/images/thumb/Labiata_Skin_5.png/470px-Labiata_Skin_5.png?4c13f7)<br>![](https://lastorigin.wiki.gg/images/thumb/Labiata_Skin_3_Damaged.png/900px-Labiata_Skin_3_Damaged.png?989ab0)<br>![](https://lastorigin.wiki.gg/images/thumb/Labiata_Skin_1.png/900px-Labiata_Skin_1.png?f1c80f)<br>所属作品：`last origin` |  |
 | fenrir | 芬妮尔 | ![](https://lastorigin.wiki.gg/images/thumb/Fenrir_Skin_2.png/900px-Fenrir_Skin_2.png?8d8c9f)<br>![](https://lastorigin.wiki.gg/images/thumb/Fenrir_Skin_1.png/900px-Fenrir_Skin_1.png?22f2be)<br>所属作品：`last origin` |  |
-| mh-4 thetis | MH-4忒提斯 | ![](https://static.wikia.nocookie.net/lastorigin/images/a/a7/Thetis.png)<br>所属作品：`last origin` |  |
+| mh-4 thetis | MH-4忒提斯 | ![](https://lastorigin.wiki.gg/images/thumb/Thetis_Skin_1.png/900px-Thetis_Skin_1.png?551886)<br>![](https://lastorigin.wiki.gg/images/thumb/Thetis_Skin_2_Damaged.png/900px-Thetis_Skin_2_Damaged.png?807003)<br>所属作品：`last origin` |  |
 | kunoichi zero | 女忍 零 | ![](https://static.wikia.nocookie.net/lastorigin/images/2/2a/Kunoichi_Zero.png)<br>所属作品：`last origin` |  |
 | may of doom | 毁灭者 梅 | ![](https://static.wikia.nocookie.net/lastorigin/images/b/b5/May.png)<br>所属作品：`last origin` |  |
 | scathy | 斯卡蒂（最后的起源） | ![](https://lastorigin.wiki.gg/images/thumb/Scathy_Skin_1.png/900px-Scathy_Skin_1.png?a5fed6)<br>所属作品：`last origin` |  |
