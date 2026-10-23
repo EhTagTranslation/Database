@@ -13355,7 +13355,7 @@ example:
 | sunaba yuu | 砂场游 | 日语: 砂場 遊（すなば ゆう） | [pixiv](https://www.pixiv.net/users/34692560) \| [Lit.Link](https://lit.link/en/sunabasan) \| [X](https://x.com/sunabasan) \| [Skeb](https://skeb.jp/@sunabasan) |
 | garoudo | ガロウド |  |  |
 | nanamachi | ナナマチ |  |  |
-| ayase mio | 绫濑水音 |  |  |
+| ayase mio | 绫濑水音 | 綾瀬水音 |  |
 | niizuma potepu | 新妻ぽてぷ |  |  |
 | kikuazami kaoru | 菊蓟薰 |  |  |
 | pupunezumi | ぷぷねずみ |  |  |
