@@ -7044,7 +7044,7 @@ example:
 | cerestia | 塞蕾斯缇雅 | ![](https://lastorigin.wiki.gg/images/thumb/Cerestia_Skin_2_Damaged.png/900px-Cerestia_Skin_2_Damaged.png?7ec58e)<br>![](https://lastorigin.wiki.gg/images/thumb/Cerestia_Skin_1_Damaged.png/900px-Cerestia_Skin_1_Damaged.png?311103)<br>所属作品：`last origin` |  |
 | black lilith | 黑莉莉丝 \| 黑之莉莉丝 | ①黑之莉莉丝<br>![](https://kisaragi-co.jp/assets/top/character/c8.png)<br>所属作品：`sentouin hakenshimasu`<br>————————<br>②黑莉莉丝<br>![](https://static.wikia.nocookie.net/lastorigin/images/3/36/Black_Lilith.png)<br>所属作品：`last origin` |  |
 | kyrie ushiromiya | 右代宫雾江 | ![](https://lain.bgm.tv/r/400/pic/crt/l/1c/73/932_crt_816eP.jpg?r=1677396648)<br>所属作品：`umineko no naku koro ni` |  |
-| black wyrm | 黑龙S9 | ![](https://static.wikia.nocookie.net/lastorigin/images/c/cc/Black_Wyrm_Damaged.png)<br>所属作品：`last origin` |  |
+| black wyrm | 黑龙S9 | ![](https://lastorigin.wiki.gg/images/thumb/Black_Wyrm_Skin_2_Damaged.png/900px-Black_Wyrm_Skin_2_Damaged.png?6c5e79)<br>![](https://lastorigin.wiki.gg/images/thumb/Black_Wyrm_Skin_1_Damaged.png/900px-Black_Wyrm_Skin_1_Damaged.png?76f317)<br>![](https://static.wikia.nocookie.net/lastorigin/images/c/cc/Black_Wyrm_Damaged.png)<br>所属作品：`last origin` |  |
 | alcyone | 阿尔库俄涅 | ![](https://static.wikia.nocookie.net/lastorigin/images/f/ff/Alcyone_Alt.png)<br>所属作品：`last origin` |  |
 | zeri | 泽丽（祖安花火） | 所属作品：`league of legends`<br>![](https://wiki.leagueoflegends.com/en-us/images/Zeri_OriginalSkin.jpg?d6d2c) |  |
 | yun ying | 云缨 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/a/a9/Ying-circle-big.png)<br>所属作品：`honor of kings` |  |
