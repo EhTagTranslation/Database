@@ -10479,6 +10479,7 @@ example:
 | t-14 miho | T-14 美穗 | ![](https://lastorigin.wiki.gg/images/thumb/Miho.png/900px-Miho.png?ec3f3c)<br>![](https://lastorigin.wiki.gg/images/thumb/Miho_Skin_4_Damaged.png/900px-Miho_Skin_4_Damaged.png?530ec3)<br>![](https://lastorigin.wiki.gg/images/thumb/Miho_Skin_3.png/900px-Miho_Skin_3.png?cd0a4d)<br>出自作品:`last origin` |  |
 | b-11 night angel | B-11 夜天使 | ![](https://lastorigin.wiki.gg/images/thumb/Night_Angel_Skin_3.png/900px-Night_Angel_Skin_3.png?9ab2af)<br>![](https://lastorigin.wiki.gg/images/thumb/Night_Angel_Skin_2.png/900px-Night_Angel_Skin_2.png?bacc21)<br>![](https://lastorigin.wiki.gg/images/thumb/Night_Angel_Skin_4_Damaged.png/900px-Night_Angel_Skin_4_Damaged.png?1cce56)<br>出自作品:`last origin` |  |
 | oberonia rhea | 奥贝罗尼亚瑞亚 | ![](https://lastorigin.wiki.gg/images/thumb/Rhea_Skin_2.png/900px-Rhea_Skin_2.png?977edd)<br>![](https://lastorigin.wiki.gg/images/thumb/Rhea_Skin_1_Censored.png/900px-Rhea_Skin_1_Censored.png?cc575b)<br>![](https://lastorigin.wiki.gg/images/thumb/Rhea_Skin_3_Damaged.png/900px-Rhea_Skin_3_Damaged.png?384396)<br>出自作品:`last origin` |  |
+| p-22 harpyia | P-22 哈耳庇厄 | ![](https://lastorigin.wiki.gg/images/thumb/Harpyia.png/900px-Harpyia.png?312f40)<br>![](https://lastorigin.wiki.gg/images/thumb/Harpyia_Skin_1.png/900px-Harpyia_Skin_1.png?bce3b3)<br>![](https://lastorigin.wiki.gg/images/thumb/Harpyia_Skin_3_Damaged.png/900px-Harpyia_Skin_3_Damaged.png?f74274)<br>出自作品:`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
