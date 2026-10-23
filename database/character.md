@@ -2277,7 +2277,7 @@ example:
 |  | ▼ 火焰之纹章 |  |  |
 | kamui | 卡姆依 | ![](https://ehgt.org/w/01/889/20531-momdc10a.webp)<br>所属作品 :`fire emblem fates` |  |
 | takumi | 拓海 |  |  |
-| charlotte | 夏洛特 \| 夏洛蒂 | 1. 所属作品:`p:seiken densetsu`<br><br>2. 所属作品:`p:puella magi madoka magica`<br><br>3. 夏洛蒂(charlotte)<br>所属作品:`p:genshin impact`<br>![](https://patchwiki.biligame.com/images/ys/7/7d/h1dvbabbpt35oo3ils94hv21nbwz4fc.png) | 3. [萌娘百科](https://zh.moegirl.org.cn/夏洛蒂%28原神%29) |
+| charlotte | 夏洛特 \| 夏洛蒂 | ①出自作品:`p:genshin impact`<br>![](https://patchwiki.biligame.com/images/ys/7/7d/h1dvbabbpt35oo3ils94hv21nbwz4fc.png)<br>——————<br>②出自作品:`last origin`<br>![](https://lastorigin.wiki.gg/images/thumb/Charlotte_Skin_1.png/900px-Charlotte_Skin_1.png?950459)<br>③出自作品:`p:seiken densetsu`<br><br>④出自作品:`p:puella magi madoka magica` | [萌娘百科](https://zh.moegirl.org.cn/夏洛蒂%28原神%29) |
 | ryoma | 龙马 |  |  |
 | orochi | 远吕智 |  |  |
 | elise | 伊莉丝 \| 蜘蛛女皇 | ①所属作品：`dead or alive`<br>![](https://static.wikia.nocookie.net/deadoralive/images/0/03/Elise_full_render.png)<br>日语：エリーゼ<br>————————<br>②所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/b/be/9wcthci4ern79ovjdjf9gv0ytf9tdnh.jpg) |  |
