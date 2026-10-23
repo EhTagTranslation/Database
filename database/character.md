@@ -10463,6 +10463,7 @@ example:
 | handler | 接待员 | 出自作品:`monster hunter` |  |
 | maria of redemption | 救赎者玛莉亚 | ![](https://lastorigin.wiki.gg/images/thumb/Maria_Skin_1.png/900px-Maria_Skin_1.png?cd6acf)<br>![](https://lastorigin.wiki.gg/images/thumb/Maria_Skin_3.png/720px-Maria_Skin_3.png?c2131e)<br>![](https://lastorigin.wiki.gg/images/thumb/Maria_Skin_3_Damaged.png/900px-Maria_Skin_3_Damaged.png?bc16c3)<br>出自作品:`last origin` |  |
 | kunoichi kaen | 女忍者凯恩 | ![](https://lastorigin.wiki.gg/images/thumb/Kunoichi_Kaen_Skin_1.png/900px-Kunoichi_Kaen_Skin_1.png?f9f19c)<br>出自作品:`last origin` |  |
+| frigga | 弗丽嘉 | ![](https://lastorigin.wiki.gg/images/thumb/Frigga_Skin_2.png/900px-Frigga_Skin_2.png?758e6b)<br>![](https://lastorigin.wiki.gg/images/thumb/Frigga_Skin_1_Alt.png/900px-Frigga_Skin_1_Alt.png?310849)<br>![](https://lastorigin.wiki.gg/images/thumb/Frigga_Skin_3_Damaged.png/900px-Frigga_Skin_3_Damaged.png?934d72)<br>出自作品:`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
