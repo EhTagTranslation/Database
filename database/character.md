@@ -7377,7 +7377,7 @@ example:
 | mh-4 thetis | MH-4忒提斯 | ![](https://static.wikia.nocookie.net/lastorigin/images/a/a7/Thetis.png)<br>所属作品：`last origin` |  |
 | kunoichi zero | 女忍 零 | ![](https://static.wikia.nocookie.net/lastorigin/images/2/2a/Kunoichi_Zero.png)<br>所属作品：`last origin` |  |
 | may of doom | 毁灭者 梅 | ![](https://static.wikia.nocookie.net/lastorigin/images/b/b5/May.png)<br>所属作品：`last origin` |  |
-| scathy | 斯卡蒂（最后的起源） | ![](https://static.wikia.nocookie.net/lastorigin/images/7/75/Scathy.png)<br>所属作品：`last origin` |  |
+| scathy | 斯卡蒂（最后的起源） | ![](https://lastorigin.wiki.gg/images/thumb/Scathy_Skin_1.png/900px-Scathy_Skin_1.png?a5fed6)<br>所属作品：`last origin` |  |
 | ag-2c sirene | AG-2C塞壬 | ![](https://static.wikia.nocookie.net/lastorigin/images/e/e9/Sirene.png)<br>所属作品：`last origin` |  |
 | barbariana | 巴巴丽安娜 | ![](https://static.wikia.nocookie.net/lastorigin/images/e/e7/Barbariana_Damaged.png)<br>所属作品：`last origin` |  |
 | a-1 bloody panther | A-1血豹 | ![](https://static.wikia.nocookie.net/lastorigin/images/2/2f/Bloody_Panther.png)<br>所属作品：`last origin` |  |
