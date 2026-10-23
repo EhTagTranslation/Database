@@ -10470,6 +10470,7 @@ example:
 | lemonade alpha | 柠檬α | ![](https://lastorigin.wiki.gg/images/thumb/Lemonade_Alpha.png/900px-Lemonade_Alpha.png?43e296)<br>![](https://lastorigin.wiki.gg/images/thumb/Lemonade_Alpha_Skin_2.png/900px-Lemonade_Alpha_Skin_2.png?88076e)<br>![](https://lastorigin.wiki.gg/images/thumb/Lemonade_Alpha_Skin_1.png/900px-Lemonade_Alpha_Skin_1.png?c52026)<br>![](https://lastorigin.wiki.gg/images/thumb/Lemonade_Alpha_Skin_3_Damaged.png/900px-Lemonade_Alpha_Skin_3_Damaged.png?b793f9)<br>出自作品:`last origin` |  |
 | lemonade omega | 柠檬Ω | ![](https://lastorigin.wiki.gg/images/thumb/Lemonade_Omega.png/900px-Lemonade_Omega.png?6f683f)<br>出自作品:`last origin` |  |
 | kunoichi enrai | 女忍者炎雷 | ![](https://lastorigin.wiki.gg/images/thumb/Kunoichi_Enrai.png/900px-Kunoichi_Enrai.png?7decf2)<br>出自作品:`last origin` |  |
+| leona of blood and iron | 铁血蕾欧娜 | ![](https://lastorigin.wiki.gg/images/thumb/Leona_Skin_1.png/900px-Leona_Skin_1.png?d1940c)<br>![](https://lastorigin.wiki.gg/images/thumb/Leona_Skin_1_Damaged.png/900px-Leona_Skin_1_Damaged.png?949e2a)<br>![](https://lastorigin.wiki.gg/images/thumb/Leona_Skin_2.png/900px-Leona_Skin_2.png?9b6d6e)<br>出自作品:`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
