@@ -10489,6 +10489,7 @@ example:
 | amy the razor | 剃刀艾米 | ![](https://lastorigin.wiki.gg/images/thumb/Amy_Skin_2.png/900px-Amy_Skin_2.png?4fbc69)<br>![](https://lastorigin.wiki.gg/images/thumb/Amy_Damaged.png/900px-Amy_Damaged.png?aeeaa0)<br>出自作品:`last origin` |  |
 | saraqael | 萨拉卡埃尔 | ![](https://lastorigin.wiki.gg/images/thumb/Saraqael_Skin_1.png/900px-Saraqael_Skin_1.png?daa8bc)<br>![](https://lastorigin.wiki.gg/images/thumb/Saraqael_Skin_1_Damaged.png/900px-Saraqael_Skin_1_Damaged.png?c776d7)<br>![](https://lastorigin.wiki.gg/images/thumb/Saraqael_Skin_2_Damaged.png/900px-Saraqael_Skin_2_Damaged.png?992e6a)<br>出自作品:`last origin` |  |
 | t-8w valkyrie | T-8W 女武神 | ![](https://lastorigin.wiki.gg/images/thumb/Valkyrie.png/900px-Valkyrie.png?95bb42)<br>![](https://lastorigin.wiki.gg/images/thumb/Valkyrie_Skin_1.png/900px-Valkyrie_Skin_1.png?8165d9)<br>![](https://lastorigin.wiki.gg/images/thumb/Valkyrie_Skin_4_Damaged_Censored.png/900px-Valkyrie_Skin_4_Damaged_Censored.png?a09773)<br>出自作品:`last origin` |  |
+| x-05 emily | X-05 艾米莉 | ![](https://lastorigin.wiki.gg/images/thumb/Emily_Skin_1.png/900px-Emily_Skin_1.png?435738)<br>![](https://lastorigin.wiki.gg/images/thumb/Emily_Skin_2.png/900px-Emily_Skin_2.png?4e1a70)<br>![](https://lastorigin.wiki.gg/images/thumb/Emily_Skin_2_Damaged.png/900px-Emily_Skin_2_Damaged.png?e3fefc)<br>出自作品:`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
