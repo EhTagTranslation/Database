@@ -7379,7 +7379,7 @@ example:
 | may of doom | 毁灭者 梅 | ![](https://static.wikia.nocookie.net/lastorigin/images/b/b5/May.png)<br>所属作品：`last origin` |  |
 | scathy | 斯卡蒂（最后的起源） | ![](https://static.wikia.nocookie.net/lastorigin/images/7/75/Scathy.png)<br>所属作品：`last origin` |  |
 | ag-2c sirene | AG-2C塞壬 | ![](https://static.wikia.nocookie.net/lastorigin/images/e/e9/Sirene.png)<br>所属作品：`last origin` |  |
-| barbariana | 巴巴丽安娜 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1409/h_1959/245/103682/2025/3/8/884316.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1182/h_1986/245/103682/2025/3/8/139613.webp)<br><br>所属作品：`last origin` |  |
+| barbariana | 巴巴丽安娜 | ![](https://static.wikia.nocookie.net/lastorigin/images/e/e7/Barbariana_Damaged.png)<br>所属作品：`last origin` |  |
 | a-1 bloody panther | A-1血豹 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1661/h_1652/245/72324/2025/2/19/266693.png)<br>所属作品：`last origin` |  |
 | cerberus | 地狱犬 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1122/h_1988/245/103682/2025/2/26/737834.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/103682/2025/2/26/231490.png)<br>所属作品：`last origin` |  |
 | elven forest maker | 霜蛇 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1215/h_2955/245/103682/2025/2/26/64452.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1370/h_2008/245/103682/2025/2/26/631857.webp) |  |
