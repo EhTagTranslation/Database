@@ -7370,7 +7370,7 @@ example:
 | yuzu fujisawa | 藤泽柚子 | ![](https://img.moegirl.org.cn/common/8/8e/藤沢_柚子.png)<br>所属作品：`ongeki` |  |
 | akane ousaka | 逢坂茜 | ![](https://img.moegirl.org.cn/common/4/41/逢坂_茜.png)<br>所属作品：`ongeki` |  |
 | setsuna sumeragi | 皇城刹那 | ![](https://img.moegirl.org.cn/common/5/53/Setsuna_normal.png)<br>所属作品：`ongeki` |  |
-| hirume | 希鲁梅 | ![](https://static.wikia.nocookie.net/lastorigin/images/8/8a/Hirume.png)<br>所属作品：`last origin` |  |
+| hirume | 希鲁梅 | ![](https://static.wikia.nocookie.net/lastorigin/images/8/8a/Hirume.png)<br>![](https://lastorigin.wiki.gg/images/thumb/Hirume_Skin_2_Damaged.png/900px-Hirume_Skin_2_Damaged.png?ad5cdb)<br>所属作品：`last origin` |  |
 | eternity | 伊特尼提 | ![](https://static.wikia.nocookie.net/lastorigin/images/f/ff/Eternity_Damaged.png)<br>所属作品：`last origin` |  |
 | labiata | 拉比亚塔 | ![](https://static.wikia.nocookie.net/lastorigin/images/c/cf/Labiata.png)<br>所属作品：`last origin` |  |
 | fenrir | 芬妮尔 | ![](https://static.wikia.nocookie.net/lastorigin/images/6/6a/Fenrir.png)<br>所属作品：`last origin` |  |
