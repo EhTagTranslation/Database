@@ -5346,7 +5346,7 @@ example:
 | hajime saitou | 斋藤一 |  |  |
 | goredolf musik | 戈尔德鲁夫·穆吉克 |  |  |
 | edward teach | 爱德华·蒂奇 | （黑胡子） |  |
-| habetrot | 哈贝特洛特 | （哈贝喵） |  |
+| habetrot | 哈贝特洛特 | ![](https://lastorigin.wiki.gg/images/thumb/Habetrot_Skin_2_Damaged.png/900px-Habetrot_Skin_2_Damaged.png?47a366)<br>![](https://lastorigin.wiki.gg/images/thumb/Habetrot_Skin_1_Damaged.png/900px-Habetrot_Skin_1_Damaged.png?d8fc4f)<br>出自作品:`last origin` |  |
 | velma dinkley | 维尔玛·丁克利 | 所属作品：`scooby-doo` | [维基百科（英语）](https://en.wikipedia.org/wiki/Velma_Dinkley)<br>[Fandom](https://scoobydoo.fandom.com/wiki/Velma_Dinkley)<br>[https://wikii.one/Velma\_Dinkley](https://wikii.one/Velma_Dinkley) |
 | daphne blake | 达芙妮·布雷克 | 所属作品:`scooby-doo` | [https://wikii.one/Daphne\_Blake](https://wikii.one/Daphne_Blake)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/Daphne_Blake)<br>[Fandom](https://scoobydoo.fandom.com/wiki/Daphne_Blake) |
 | brock | 小刚 | ![](https://s1.52poke.com/wiki/thumb/9/91/小剛_LPLE.png/134px-小剛_LPLE.png)<br>所属作品：`pokemon`<br>日文名：タケシ | [萌娘百科](https://zh.moegirl.org.cn/小刚) |
