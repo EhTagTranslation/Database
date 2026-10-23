@@ -15840,6 +15840,7 @@ example:
 | kanamirubon | かなみルボン |  | [pixiv](https://www.pixiv.net/users/19885273) \| [Fantia](https://fantia.jp/fanclubs/191567) \| [FANBOX](https://banaparubon00.fanbox.cc/) \| [Skeb](https://skeb.jp/@Jjagjmptmptj) |
 | xboy | XBOY |  | [pixiv](https://www.pixiv.net/users/59435508) \| [FANBOX](https://xboy.fanbox.cc/) \| [BOOTH](https://xboyxboy.booth.pm/) |
 | dreadmegalo | DreadMegalo |  | [pixiv](https://www.pixiv.net/users/110705782) \| [FANBOX](https://aa2134.fanbox.cc/) |
+| ngamaru | ンガ丸 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
