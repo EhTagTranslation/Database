@@ -7385,7 +7385,7 @@ example:
 | elven forest maker | 霜蛇 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1215/h_2955/245/103682/2025/2/26/64452.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1370/h_2008/245/103682/2025/2/26/631857.webp) |  |
 | perrault | 佩罗 | ![](https://static.wikia.nocookie.net/lastorigin/images/2/21/Perrault_Damaged.png)<br>所属作品：`last origin` |  |
 | a-87 banshee | A-87 报丧女妖 | ![](https://static.wikia.nocookie.net/lastorigin/images/d/d3/Banshee.png)<br>所属作品：`last origin` |  |
-| at-4 pani | AT-4 帕尼 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1570/h_1913/245/103682/2025/2/24/323093.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/103682/2025/2/24/51967.webp)<br>所属作品：`last origin` |  |
+| at-4 pani | AT-4 帕尼 | ![](https://static.wikia.nocookie.net/lastorigin/images/b/b3/Pani.png)<br>所属作品：`last origin` |  |
 | kei | 凯 | ![](https://cdn.myanimelist.net/images/characters/2/561044.jpg)<br>所属作品:`dirty pair` |  |
 | kotono shiunji | 紫云寺琴乃 |  |  |
 | isane kotetsu | 虎彻勇音 | ![](https://ehgt.org/w/01/561/35124-u6x0prd8.webp)<br>所属作品：`bleach`<br>日文名：こてついさね |  |
