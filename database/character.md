@@ -10461,6 +10461,7 @@ example:
 | fafnir | 法夫纳（最后的起源） | ![](https://lastorigin.wiki.gg/images/thumb/Fafnir.png/900px-Fafnir.png?d5f8ac)<br>出自作品:`last origin` |  |
 | hathor | 哈托尔 | ![](https://lastorigin.wiki.gg/images/thumb/Hathor_Damaged.png/900px-Hathor_Damaged.png?106d12)<br>![](https://lastorigin.wiki.gg/images/thumb/Hathor_Skin_1_Damaged_Alt_Censored.png/900px-Hathor_Skin_1_Damaged_Alt_Censored.png?285197)<br>出自作品:`last origin` |  |
 | handler | 接待员 | 出自作品:`monster hunter` |  |
+| maria of redemption | 救赎者玛莉亚 | ![](https://lastorigin.wiki.gg/images/thumb/Maria_Skin_1.png/900px-Maria_Skin_1.png?cd6acf)<br>![](https://lastorigin.wiki.gg/images/thumb/Maria_Skin_3.png/720px-Maria_Skin_3.png?c2131e)<br>![](https://lastorigin.wiki.gg/images/thumb/Maria_Skin_3_Damaged.png/900px-Maria_Skin_3_Damaged.png?bc16c3)<br>出自作品:`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
