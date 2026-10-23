@@ -7040,7 +7040,7 @@ example:
 | t-20s gnome | T-20S 诺姆 | ![](https://static.wikia.nocookie.net/lastorigin/images/7/73/Gnome_Damaged.png)<br>所属作品：`last origin` |  |
 | poi | 鲍伊 | ![](https://static.wikia.nocookie.net/lastorigin/images/a/aa/Poi_Damaged.png)<br>所属作品：`last origin` |  |
 | hongryeon | C-77红莲 | ![](https://static.wikia.nocookie.net/lastorigin/images/2/20/HongRyeon_Damaged.png)<br>所属作品：`last origin` |  |
-| sekhmet | 赛克麦特 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_800/h_2032/245/72324/2025/2/26/866168.png)<br>所属作品：`last origin` |  |
+| sekhmet | 赛克麦特 | ![](https://static.wikia.nocookie.net/lastorigin/images/9/9a/Sekhmet.png)<br>所属作品：`last origin` |  |
 | cerestia | 塞蕾斯缇雅 | ![](https://static.wikia.nocookie.net/lastorigin/images/f/f1/Cerestia.png)<br>所属作品：`last origin` |  |
 | black lilith | 黑莉莉丝 \| 黑之莉莉丝 | ①黑之莉莉丝<br>![](https://kisaragi-co.jp/assets/top/character/c8.png)<br>所属作品：`sentouin hakenshimasu`<br>秘密结社的大干部。<br>————————<br><br>②黑莉莉丝<br>![](https://cdnimg-v2.gamekee.com/images/www/1633682601813_89475476.png)<br>所属作品：`last origin` |  |
 | kyrie ushiromiya | 右代宫雾江 | ![](https://lain.bgm.tv/r/400/pic/crt/l/1c/73/932_crt_816eP.jpg?r=1677396648)<br>所属作品：`umineko no naku koro ni` |  |
