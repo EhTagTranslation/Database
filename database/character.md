@@ -10466,6 +10466,7 @@ example:
 | frigga | 弗丽嘉 | ![](https://lastorigin.wiki.gg/images/thumb/Frigga_Skin_2.png/900px-Frigga_Skin_2.png?758e6b)<br>![](https://lastorigin.wiki.gg/images/thumb/Frigga_Skin_1_Alt.png/900px-Frigga_Skin_1_Alt.png?310849)<br>![](https://lastorigin.wiki.gg/images/thumb/Frigga_Skin_3_Damaged.png/900px-Frigga_Skin_3_Damaged.png?934d72)<br>出自作品:`last origin` |  |
 | royal arsenal | 皇家军火库 | ![](https://lastorigin.wiki.gg/images/thumb/Royal_Arsenal_Skin_1.png/900px-Royal_Arsenal_Skin_1.png?5b3afc)<br>![](https://lastorigin.wiki.gg/images/thumb/Royal_Arsenal_Skin_2_Alt.png/727px-Royal_Arsenal_Skin_2_Alt.png?a9accd)<br>出自作品:`last origin` |  |
 | tiequan | 铁拳 | ![](https://lastorigin.wiki.gg/images/thumb/Tiequan.png/900px-Tiequan.png?22a1dd)<br>![](https://lastorigin.wiki.gg/images/thumb/Tiequan_Skin_1.png/900px-Tiequan_Skin_1.png?a1fa48)<br>![](https://lastorigin.wiki.gg/images/thumb/Tiequan_Skin_2_Damaged.png/900px-Tiequan_Skin_2_Damaged.png?11bf4d)<br>出自作品:`last origin` |  |
+| ignis | 伊格尼斯 | ![](https://lastorigin.wiki.gg/images/thumb/Ignis_Skin_1.png/900px-Ignis_Skin_1.png?d1354e)<br>![](https://lastorigin.wiki.gg/images/thumb/Ignis_Skin_2_Damaged.png/900px-Ignis_Skin_2_Damaged.png?4943ca)<br>出自作品:`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
