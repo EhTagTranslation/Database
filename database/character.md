@@ -10471,6 +10471,7 @@ example:
 | lemonade omega | 柠檬Ω | ![](https://lastorigin.wiki.gg/images/thumb/Lemonade_Omega.png/900px-Lemonade_Omega.png?6f683f)<br>出自作品:`last origin` |  |
 | kunoichi enrai | 女忍者炎雷 | ![](https://lastorigin.wiki.gg/images/thumb/Kunoichi_Enrai.png/900px-Kunoichi_Enrai.png?7decf2)<br>出自作品:`last origin` |  |
 | leona of blood and iron | 铁血蕾欧娜 | ![](https://lastorigin.wiki.gg/images/thumb/Leona_Skin_1.png/900px-Leona_Skin_1.png?d1940c)<br>![](https://lastorigin.wiki.gg/images/thumb/Leona_Skin_1_Damaged.png/900px-Leona_Skin_1_Damaged.png?949e2a)<br>![](https://lastorigin.wiki.gg/images/thumb/Leona_Skin_2.png/900px-Leona_Skin_2.png?9b6d6e)<br>出自作品:`last origin` |  |
+| melt | 梅尔特 | ![](https://lastorigin.wiki.gg/images/thumb/Melt_Censored.png/900px-Melt_Censored.png?e6f961)<br>![](https://lastorigin.wiki.gg/images/thumb/Melt_Skin_1_Alt.png/900px-Melt_Skin_1_Alt.png?f50ee2)<br>![](https://lastorigin.wiki.gg/images/thumb/Melt_Skin_1_Damaged_Alt.png/900px-Melt_Skin_1_Damaged_Alt.png?d9c74f)<br>出自作品:`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
