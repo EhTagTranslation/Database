@@ -7383,7 +7383,7 @@ example:
 | a-1 bloody panther | A-1血豹 | ![](https://lastorigin.wiki.gg/images/thumb/Bloody_Panther_Skin_1_Damaged.png/900px-Bloody_Panther_Skin_1_Damaged.png?dbbeb5)<br>所属作品：`last origin` |  |
 | cerberus | 地狱犬 | ![](https://lastorigin.wiki.gg/images/thumb/Cerberus_Skin_2.png/900px-Cerberus_Skin_2.png?8c6810)<br>![](https://lastorigin.wiki.gg/images/thumb/Cerberus_Skin_1_Damaged.png/900px-Cerberus_Skin_1_Damaged.png?b27767)<br>所属作品：`last origin` |  |
 | elven forest maker | 霜蛇 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1215/h_2955/245/103682/2025/2/26/64452.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1370/h_2008/245/103682/2025/2/26/631857.webp) |  |
-| perrault | 佩罗 | ![](https://static.wikia.nocookie.net/lastorigin/images/2/21/Perrault_Damaged.png)<br>所属作品：`last origin` |  |
+| perrault | 佩罗 | ![](https://lastorigin.wiki.gg/images/thumb/Perrault_Skin_1.png/900px-Perrault_Skin_1.png?1abc31)<br>![](https://lastorigin.wiki.gg/images/thumb/Perrault_Skin_4_Damaged.png/900px-Perrault_Skin_4_Damaged.png?532503)<br>所属作品：`last origin` |  |
 | a-87 banshee | A-87 报丧女妖 | ![](https://lastorigin.wiki.gg/images/thumb/Banshee_Skin_1.png/900px-Banshee_Skin_1.png?b799c1)<br>![](https://lastorigin.wiki.gg/images/thumb/Banshee_Skin_2_Damaged.png/900px-Banshee_Skin_2_Damaged.png?ec0d59)<br>所属作品：`last origin` |  |
 | at-4 pani | AT-4 帕尼 | ![](https://static.wikia.nocookie.net/lastorigin/images/b/b3/Pani.png)<br>所属作品：`last origin` |  |
 | kei | 凯 | ![](https://cdn.myanimelist.net/images/characters/2/561044.jpg)<br>所属作品:`dirty pair` |  |
