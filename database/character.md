@@ -10475,6 +10475,7 @@ example:
 | leanne | 仁慈的莉安 | ![](https://lastorigin.wiki.gg/images/thumb/Leanne.png/900px-Leanne.png?2093de)<br>![](https://lastorigin.wiki.gg/images/thumb/Leanne_Skin_3_Damaged.png/900px-Leanne_Skin_3_Damaged.png?7bf986)<br>出自作品:`last origin` |  |
 | invincible dragon | 无敌龙 | ![](https://lastorigin.wiki.gg/images/thumb/Invincible_Dragon_Skin_1.png/900px-Invincible_Dragon_Skin_1.png?8d3924)<br>![](https://lastorigin.wiki.gg/images/thumb/Invincible_Dragon_Skin_3_Damaged.png/900px-Invincible_Dragon_Skin_3_Damaged.png?f1c885)<br>出自作品:`last origin` |  |
 | titania frost | 冰结之泰坦妮亚 | ![](https://lastorigin.wiki.gg/images/thumb/Titania.png/900px-Titania.png?274836)<br>![](https://lastorigin.wiki.gg/images/thumb/Titania_Skin_1.png/900px-Titania_Skin_1.png?29233c)<br>![](https://lastorigin.wiki.gg/images/thumb/Titania_Skin_2.png/900px-Titania_Skin_2.png?4ffa3c)<br>![](https://lastorigin.wiki.gg/images/thumb/Titania_Skin_3.png/900px-Titania_Skin_3.png?dbe21d)<br>出自作品:`last origin` |  |
+| mnemosyne | 摩涅莫辛涅 | ![](https://lastorigin.wiki.gg/images/thumb/Mnemosyne.png/900px-Mnemosyne.png?496a7f)<br>![](https://lastorigin.wiki.gg/images/thumb/Mnemosyne_Skin_1_Damaged.png/900px-Mnemosyne_Skin_1_Damaged.png?628683)<br>![](https://lastorigin.wiki.gg/images/thumb/Mnemosyne_Skin_3.png/900px-Mnemosyne_Skin_3.png?a949e5)<br>![](https://lastorigin.wiki.gg/images/thumb/Mnemosyne_Skin_3_Damaged.png/900px-Mnemosyne_Skin_3_Damaged.png?41fea8)<br>出自作品:`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
