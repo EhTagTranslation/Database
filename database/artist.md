@@ -15842,6 +15842,7 @@ example:
 | dreadmegalo | DreadMegalo |  | [pixiv](https://www.pixiv.net/users/110705782) \| [FANBOX](https://aa2134.fanbox.cc/) |
 | ngamaru | ンガ丸 |  |  |
 | kamizono delta | 神園Δ |  |  |
+| retsu | 劣 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
