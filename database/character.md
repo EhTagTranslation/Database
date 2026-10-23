@@ -10451,6 +10451,7 @@ example:
 | morino yuuko | 森乃由子 | ![](https://static.wikia.nocookie.net/taimanin/images/3/3c/Morino_Yuuko_RPGX_Info.png)<br>出自作品:`tentacle and witches` |  |
 | futaba lily ramses | 双叶·莉莉·拉美西斯 | ![](https://static.wikia.nocookie.net/taimanin/images/9/9b/Futaba_Lily_Ramses_9.png)<br>日语：双葉・リリー・ラムセス<br>出自作品:`tentacle and witches` |  |
 | jabber wonger | 贾帕·翁嘉 | ![](https://static.wikia.nocookie.net/gachiakuta/images/f/f6/Jabber_Wonger_%28Anime%29.png)<br>日语：ジャバー・ウォンガー<br>出自作品:`gachiakuta` |  |
+| mismis klass | 蜜思米丝·克拉斯 | ![](https://static.wikia.nocookie.net/kimisen/images/c/cb/Mismis.png)<br>日语：ミスミス・クラス<br>出自作品:`kimi to boku no saigo no senjou aruiwa sekai ga hajimaru seisen` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
