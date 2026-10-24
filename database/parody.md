@@ -3048,6 +3048,7 @@ example:
 | yuri ni hasamaru otoko wa shineba ii | 插足百合的男人不如去死！？ | ![](https://lain.bgm.tv/r/400/pic/cover/l/85/96/332993_Qa61p.jpg)<br>日语：百合にはさまる男は死ねばいい！？ |  |
 | jurassic park | 侏罗纪公园 |  |  |
 | elvira mistress of the dark | 销魂天师 | ![](https://upload.wikimedia.org/wikipedia/en/4/4f/Elviramistressofthedarkposter.jpg) |  |
+| shark tale | 鲨鱼故事 | ![](https://bkimg.cdn.bcebos.com/smart/99636c0e37f927867bcbe1fc-bkimg-process,v_1,rw_3,rh_4,maxl_284?) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
