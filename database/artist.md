@@ -332,7 +332,7 @@ example:
 | sada ko-ji | さだこーじ |  |  |
 | mikami mika | 三上ミカ |  |  |
 | nagare ippon | 流一本 |  |  |
-| hicoromo kyouichi | 绯衣响一 |  |  |
+| hicoromo kyouichi | 绯衣响一 | 緋衣 響一 | [pixiv](https://www.pixiv.net/users/485795) \| [X](https://x.com/hicoromo) \| [Pawoo](https://pawoo.net/@ufufu_eye) |
 | akaze kidai | 亚风纪代 |  |  |
 | yuuki | 悠宇树 |  |  |
 | ohkami ryosuke | 狼亮辅 |  |  |
