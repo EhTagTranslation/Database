@@ -10498,6 +10498,7 @@ example:
 | inglis eucus | 英格莉丝·尤库斯 | ![](https://bkimg.cdn.bcebos.com/pic/e824b899a9014c086e06ee83182315087bf40ad15ec6?)<br>日语：イングリス・ユークス<br>出自作品:`eiyuu-ou bu o kiwameru tame tenseisu` |  |
 | elvira | 埃尔维拉 | 出自作品:`elvira mistress of the dark` |  |
 | lola | 萝拉 |  |  |
+| purifier | 净化者 | ![](https://azurlane.netojuu.com/images/thumb/9/9a/Purifier.png/696px-Purifier.png)<br>出自作品:`azur lane` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
