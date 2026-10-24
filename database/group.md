@@ -9343,7 +9343,7 @@ example:
 | points | Points |  |  |
 | poison | POISON |  |  |
 | poison breath | ポイズンブレス |  |  |
-| poison gray | Poison Gray |  |  |
+| poison gray | Poison Gray |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204032/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG63920.html) |
 | poison squid | ポイズンスクイッド |  |  |
 | poisonblues | POISONBLUES |  |  |
 | poiyo dimension | ポイヨディメンション |  |  |
