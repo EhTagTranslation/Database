@@ -8610,7 +8610,7 @@ example:
 | nisemono | 偽もの |  |  |
 | nisemonogoya | ニセもの小屋 |  |  |
 | nisepakudo | 偽朴堂 |  |  |
-| nisha takuitsu | 二沙択一 |  |  |
+| nisha takuitsu | 二沙択一 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=70525/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG26329.html) \| [Ci-en](https://ci-en.dlsite.com/creator/1205) |
 | nisin sansin | にしん三振 |  |  |
 | nishiogi koubou | 西荻工房 |  |  |
 | nita ken | ニタ研 |  |  |
