@@ -195,6 +195,7 @@ example:
 | bangni | Bangni邦尼 |  | [X](https://x.com/Bangni222) |
 | kiriko celia | 切切Celia |  | [X](https://x.com/kiriko_celia) |
 | pipinai | 皮皮奶 |  | [X](https://x.com/PPN130f) |
+| cien cosplay | Cien恩恩 |  | [X](https://x.com/Cien_jiangsien)<br>[微博](https://weibo.cn/u/1736472255) |
 
 <!--
 Template: 
