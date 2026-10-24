@@ -10491,6 +10491,7 @@ example:
 | t-8w valkyrie | T-8W 女武神 | ![](https://lastorigin.wiki.gg/images/thumb/Valkyrie.png/900px-Valkyrie.png?95bb42)<br>![](https://lastorigin.wiki.gg/images/thumb/Valkyrie_Skin_1.png/900px-Valkyrie_Skin_1.png?8165d9)<br>![](https://lastorigin.wiki.gg/images/thumb/Valkyrie_Skin_4_Damaged_Censored.png/900px-Valkyrie_Skin_4_Damaged_Censored.png?a09773)<br>出自作品:`last origin` |  |
 | x-05 emily | X-05 艾米莉 | ![](https://lastorigin.wiki.gg/images/thumb/Emily_Skin_1.png/900px-Emily_Skin_1.png?435738)<br>![](https://lastorigin.wiki.gg/images/thumb/Emily_Skin_2.png/900px-Emily_Skin_2.png?4e1a70)<br>![](https://lastorigin.wiki.gg/images/thumb/Emily_Skin_2_Damaged.png/900px-Emily_Skin_2_Damaged.png?e3fefc)<br>出自作品:`last origin` |  |
 | magical baekto | 魔法少女白兔 | ![](https://lastorigin.wiki.gg/images/thumb/BaekTo.png/900px-BaekTo.png?1099be)<br>![](https://lastorigin.wiki.gg/images/thumb/BaekTo_Skin_3.png/900px-BaekTo_Skin_3.png?bdf4c9)<br>![](https://lastorigin.wiki.gg/images/thumb/BaekTo_Skin_1_Damaged.png/900px-BaekTo_Skin_1_Damaged.png?fb373b)<br>![](https://lastorigin.wiki.gg/images/thumb/BaekTo_Skin_2_Damaged.png/900px-BaekTo_Skin_2_Damaged.png?7045f5)<br>出自作品:`last origin` |  |
+| blind princess | 盲眼公主 | ![](https://lastorigin.wiki.gg/images/thumb/Blind_Princess.png/900px-Blind_Princess.png?c7d717)<br>![](https://lastorigin.wiki.gg/images/thumb/Blind_Princess_Skin_1_Alt.png/900px-Blind_Princess_Skin_1_Alt.png?309d4f)<br>出自作品:`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
