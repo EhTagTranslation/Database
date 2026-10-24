@@ -15844,6 +15844,7 @@ example:
 | kamizono delta | 神園Δ |  |  |
 | retsu | 劣 |  |  |
 | misoka | 三十日 |  | [pixiv](https://www.pixiv.net/users/72940934) \| [X](https://x.com/misoka1m) \| [Skeb](https://skeb.jp/@misoka1m) |
+| gohan pakupaku maru | ごはんパクパク丸 |  | [pixiv](https://www.pixiv.net/users/46612816) \| [FANBOX](https://gpm.fanbox.cc/) \| [X](https://x.com/gohanpakupaku0) \| [Skeb](https://skeb.jp/@gohanpakupaku0) \| [Ci-en](https://ci-en.dlsite.com/creator/16684) \| [Patreon](https://www.patreon.com/gohanpakupakumaru) |
 
 <!--TEMPLATE:
 |  |  |  |  |
