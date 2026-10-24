@@ -199,6 +199,7 @@ example:
 | guoqi mixianxian miao | 过期米线线喵 |  | [X](https://x.com/guoqimixianmeow) |
 | mikojiangww | Miko酱ww |  | [Instagram](https://www.instagram.com/mikojiangww/) |
 | nangong | 南宫 |  | [X](https://x.com/nangongOVO) |
+| shika xiaolu lu | Shika小鹿鹿 |  | [微博](https://weibo.cn/u/5259369874) |
 
 <!--
 Template: 
