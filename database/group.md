@@ -14389,6 +14389,7 @@ example:
 | himuganeya | ひむがね屋 |  |  |
 | inoharu | 亥ノ春 |  | [pixiv](https://www.pixiv.net/users/35280683) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=213425/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01008499.html) \| [FANBOX](https://inoharu.fanbox.cc/) |
 | nanashi novel | ナナシノベル |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200024/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG50302.html) |
+| sashimi teishoku | さしみ定食 | さしみ定食 （さしみていしょく） | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200227/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG51147.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
