@@ -10542,7 +10542,7 @@ example:
 | smokin sick style | Smokin' Sick Style |  |  |
 | smooth | smooth |  |  |
 | sms | SMS |  |  |
-| smuggler | SMUGGLER |  |  |
+| smuggler | SMUGGLER |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79380/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG27768.html) |
 | smysle | SMYSLE |  |  |
 | snack factory | スナック・ファクトリー |  |  |
 | snack yoshie | スナックよし江 |  |  |
