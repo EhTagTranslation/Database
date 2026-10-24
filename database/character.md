@@ -10501,6 +10501,7 @@ example:
 | purifier | 净化者 | ![](https://azurlane.netojuu.com/images/thumb/9/9a/Purifier.png/696px-Purifier.png)<br>出自作品:`azur lane` |  |
 | keiko hoshino | 星野庆子 | ![](https://static.wikia.nocookie.net/gup/images/7/73/Hoshinoofficial.png)<br>出自作品:`girls und panzer` |  |
 | cassandra vole | 卡珊德拉·沃雷 | ![](https://static.wikia.nocookie.net/harrypotter/images/2/20/Cassandra_MA.jpeg)<br>出自作品:`harry potter` |  |
+| rikuro tachibana | 橘陆郎 | ![](https://static.wikia.nocookie.net/taimanin/images/d/d4/Tachibana_Rikuro.png)<br>出自作品:`koutetsu no majo annerose` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
