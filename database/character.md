@@ -10493,6 +10493,7 @@ example:
 | magical baekto | 魔法少女白兔 | ![](https://lastorigin.wiki.gg/images/thumb/BaekTo.png/900px-BaekTo.png?1099be)<br>![](https://lastorigin.wiki.gg/images/thumb/BaekTo_Skin_3.png/900px-BaekTo_Skin_3.png?bdf4c9)<br>![](https://lastorigin.wiki.gg/images/thumb/BaekTo_Skin_1_Damaged.png/900px-BaekTo_Skin_1_Damaged.png?fb373b)<br>![](https://lastorigin.wiki.gg/images/thumb/BaekTo_Skin_2_Damaged.png/900px-BaekTo_Skin_2_Damaged.png?7045f5)<br>出自作品:`last origin` |  |
 | blind princess | 盲眼公主 | ![](https://lastorigin.wiki.gg/images/thumb/Blind_Princess.png/900px-Blind_Princess.png?c7d717)<br>![](https://lastorigin.wiki.gg/images/thumb/Blind_Princess_Skin_1_Alt.png/900px-Blind_Princess_Skin_1_Alt.png?309d4f)<br>出自作品:`last origin` |  |
 | t-75 war wolf | T-75 战狼 | ![](https://lastorigin.wiki.gg/images/thumb/War_Wolf_Skin_1.png/900px-War_Wolf_Skin_1.png?d1dcd8)<br>![](https://lastorigin.wiki.gg/images/thumb/War_Wolf_Skin_2.png/900px-War_Wolf_Skin_2.png?c53593)<br>![](https://lastorigin.wiki.gg/images/thumb/War_Wolf_Skin_3_Damaged.png/900px-War_Wolf_Skin_3_Damaged.png?e77f0c)<br>出自作品:`last origin` |  |
+| al wraith | AL 幽灵 | ![](https://lastorigin.wiki.gg/images/thumb/Wraith.png/900px-Wraith.png?72329d)<br>![](https://lastorigin.wiki.gg/images/thumb/Wraith_Skin_1.png/900px-Wraith_Skin_1.png?26358c)<br>![](https://lastorigin.wiki.gg/images/thumb/Wraith_Skin_2.png/900px-Wraith_Skin_2.png?7aaf19)<br>出自作品:`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
