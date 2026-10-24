@@ -10499,6 +10499,7 @@ example:
 | elvira | 埃尔维拉 | 出自作品:`elvira mistress of the dark` |  |
 | lola | 萝拉 |  |  |
 | purifier | 净化者 | ![](https://azurlane.netojuu.com/images/thumb/9/9a/Purifier.png/696px-Purifier.png)<br>出自作品:`azur lane` |  |
+| keiko hoshino | 星野庆子 | ![](https://static.wikia.nocookie.net/gup/images/7/73/Hoshinoofficial.png)<br>出自作品:`girls und panzer` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
