@@ -10494,6 +10494,7 @@ example:
 | blind princess | 盲眼公主 | ![](https://lastorigin.wiki.gg/images/thumb/Blind_Princess.png/900px-Blind_Princess.png?c7d717)<br>![](https://lastorigin.wiki.gg/images/thumb/Blind_Princess_Skin_1_Alt.png/900px-Blind_Princess_Skin_1_Alt.png?309d4f)<br>出自作品:`last origin` |  |
 | t-75 war wolf | T-75 战狼 | ![](https://lastorigin.wiki.gg/images/thumb/War_Wolf_Skin_1.png/900px-War_Wolf_Skin_1.png?d1dcd8)<br>![](https://lastorigin.wiki.gg/images/thumb/War_Wolf_Skin_2.png/900px-War_Wolf_Skin_2.png?c53593)<br>![](https://lastorigin.wiki.gg/images/thumb/War_Wolf_Skin_3_Damaged.png/900px-War_Wolf_Skin_3_Damaged.png?e77f0c)<br>出自作品:`last origin` |  |
 | al wraith | AL 幽灵 | ![](https://lastorigin.wiki.gg/images/thumb/Wraith.png/900px-Wraith.png?72329d)<br>![](https://lastorigin.wiki.gg/images/thumb/Wraith_Skin_1.png/900px-Wraith_Skin_1.png?26358c)<br>![](https://lastorigin.wiki.gg/images/thumb/Wraith_Skin_2.png/900px-Wraith_Skin_2.png?7aaf19)<br>出自作品:`last origin` |  |
+| hertrauda sera fanoss | 赫特劳妲·赛拉·凡欧斯 | ![](https://static.wikia.nocookie.net/otome-games-is-tough-for-mobs/images/8/83/Hertrauda-00_Anime_2nd.png)<br>日语：ヘルトラウダ・セラ・ファンオース<br>出自作品:`otome game sekai wa mob ni kibishii sekai desu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
