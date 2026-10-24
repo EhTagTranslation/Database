@@ -194,6 +194,7 @@ example:
 | shuang mu fu su | 双木扶苏 |  | [X](https://x.com/HayashiChuya) |
 | bangni | Bangni邦尼 |  | [X](https://x.com/Bangni222) |
 | kiriko celia | 切切Celia |  | [X](https://x.com/kiriko_celia) |
+| pipinai | 皮皮奶 |  | [X](https://x.com/PPN130f) |
 
 <!--
 Template: 
