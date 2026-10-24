@@ -15843,6 +15843,7 @@ example:
 | ngamaru | ンガ丸 |  |  |
 | kamizono delta | 神園Δ |  |  |
 | retsu | 劣 |  |  |
+| misoka | 三十日 |  | [pixiv](https://www.pixiv.net/users/72940934) \| [X](https://x.com/misoka1m) \| [Skeb](https://skeb.jp/@misoka1m) |
 
 <!--TEMPLATE:
 |  |  |  |  |
