@@ -10497,7 +10497,7 @@ example:
 | hertrauda sera fanoss | 赫特劳妲·赛拉·凡欧斯 | ![](https://static.wikia.nocookie.net/otome-games-is-tough-for-mobs/images/8/83/Hertrauda-00_Anime_2nd.png)<br>日语：ヘルトラウダ・セラ・ファンオース<br>出自作品:`otome game sekai wa mob ni kibishii sekai desu` |  |
 | inglis eucus | 英格莉丝·尤库斯 | ![](https://bkimg.cdn.bcebos.com/pic/e824b899a9014c086e06ee83182315087bf40ad15ec6?)<br>日语：イングリス・ユークス<br>出自作品:`eiyuu-ou bu o kiwameru tame tenseisu` |  |
 | elvira | 埃尔维拉 | 出自作品:`elvira mistress of the dark` |  |
-| lola | 萝拉 | 出自作品:`shark tale` |  |
+| lola | 萝拉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
