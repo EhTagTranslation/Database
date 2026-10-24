@@ -3047,6 +3047,7 @@ example:
 | dark summoner to dekiteiru | 黑暗召唤师在地下恋爱中 | ![](https://lain.bgm.tv/r/400/pic/cover/l/9e/b5/630160_tL25y.jpg)<br>日语：ダークサモナーとデキている |  |
 | yuri ni hasamaru otoko wa shineba ii | 插足百合的男人不如去死！？ | ![](https://lain.bgm.tv/r/400/pic/cover/l/85/96/332993_Qa61p.jpg)<br>日语：百合にはさまる男は死ねばいい！？ |  |
 | jurassic park | 侏罗纪公园 |  |  |
+| elvira mistress of the dark | 销魂天师 | ![](https://upload.wikimedia.org/wikipedia/en/4/4f/Elviramistressofthedarkposter.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
