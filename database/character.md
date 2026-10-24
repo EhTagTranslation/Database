@@ -564,7 +564,7 @@ example:
 | yayoi takatsuki | 高槻弥生 | ![高槻弥生](https://img.moegirl.org.cn/common/9/9b/カラフルファクトリー_高槻やよい%2B.png) ![高槻弥生](# "https://ehgt.org/4e/3f/4e3f794c31daa6bf8250e4d0f9637ad870263eaf-531191-960-1420-jpg_l.jpg")<br>所属作品：`the idolmaster`<br>唔唔唔~~！ε٩(๑> ₃ <)۶з | [萌娘百科](https://zh.moegirl.org.cn/高槻弥生) |
 | kasumi takatsuki | 高槻霞 |  |  |
 | ritsuko akizuki | 秋月律子 |  |  |
-| azusa miura | 三浦梓 |  |  |
+| azusa miura | 三浦梓 | ![](https://static.wikia.nocookie.net/ayumu-tsukihama/images/b/b5/Azusa_Miura.png)<br>出自作品：`p:the idolmaster`<br><br>三浦梓（日語：三浦あずさ / みうらあずさ）是BNEI旗下遊戲《偶像大師》系列中的天然巨乳偶像。 | [萌娘百科](https://zh.moegirl.org.cn/三浦梓) \| [Fandom](https://ayumu-tsukihama.fandom.com/wiki/Azusa_Miura) |
 | iori minase | 水濑伊织 |  |  |
 | makoto kikuchi | 菊地真 |  | [Wiki](https://project-imas.wiki/Makoto_Kikuchi) |
 | ami futami | 双海亚美 |  |  |
