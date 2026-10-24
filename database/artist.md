@@ -6737,7 +6737,7 @@ example:
 | kazushirononko | カズシロノンコ |  |  |
 | kazutaro | かずたろ |  |  |
 | kazuto | 和斗 |  |  |
-| kazuwo daisuke | カズヲダイスケ |  |  |
+| kazuwo daisuke | カズヲダイスケ |  | [FANBOX](https://kzdk.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/924671) \| [X](https://x.com/kzdksmg) |
 | kazuya | カズヤ |  |  |
 | kcccc | kcccc |  |  |
 | kebabuta | けばブタ |  |  |
