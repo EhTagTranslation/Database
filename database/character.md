@@ -10502,6 +10502,7 @@ example:
 | keiko hoshino | 星野庆子 | ![](https://static.wikia.nocookie.net/gup/images/7/73/Hoshinoofficial.png)<br>出自作品:`girls und panzer` |  |
 | cassandra vole | 卡珊德拉·沃雷 | ![](https://static.wikia.nocookie.net/harrypotter/images/2/20/Cassandra_MA.jpeg)<br>出自作品:`harry potter` |  |
 | rikuro tachibana | 橘陆郎 | ![](https://static.wikia.nocookie.net/taimanin/images/d/d4/Tachibana_Rikuro.png)<br>出自作品:`koutetsu no majo annerose` |  |
+| ji-woo seo | 徐智宇 | ![](https://static.wikia.nocookie.net/eleceed/images/0/0a/Jiwoo_full_body5.png)<br>韩语：서지우<br>出自作品:`solo leveling` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
