@@ -6071,7 +6071,7 @@ example:
 | iron fin | IRON FIN |  |  |
 | iron grimoire | IRON GRIMOIRE |  |  |
 | iron plate | あいあんぷれーと |  |  |
-| iron sugar | アイアンシュガー |  |  |
+| iron sugar | アイアンシュガー | IronSugar‘アイアンシュガー’ （あいあんしゅがー） | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27046/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG16113.html) \| [Ci-en](https://ci-en.dlsite.com/creator/22114) \| [Fantia](https://fantia.jp/fanclubs/481072) \| [X](https://x.com/ironsugar001) \| [pixiv](https://www.pixiv.net/users/39638517) |
 | iron y | IRON Y |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG42416.html) |
 | isada-ke | いさだ家 |  |  |
 | isami kaihatsu jigyoudan | イサミ再開発事業団 |  |  |
