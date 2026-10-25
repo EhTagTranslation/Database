@@ -6786,7 +6786,7 @@ example:
 | liselotte cretia | 莉赛萝黛·库雷提雅 | ![](https://img.moegirl.org.cn/common/thumb/0/0c/Liselotte_Cretia.webp/225px-Liselotte_Cretia.webp.png)<br>所属作品: `p:seirei gensouki`<br>卡尔亚克王国的公爵女儿，阿曼多地方官，六花商会的年轻会长，年龄15岁。 | [萌娘百科](https://zh.moegirl.org.cn/精灵幻想记) |
 | dahlia | 塔利雅 | 塔利雅<br>所属作品：`genshin impact`<br>![](https://patchwiki.biligame.com/images/ys/3/3c/3mi7zyr0yem3c1i6ap77y3k915xuhdb.gif) | [萌娘百科](https://zh.moegirl.org.cn/塔利雅#) |
 | osaragi | 大佛 | 所属作品：`sakamoto days`<br>![](https://sakamotodays.jp/en/assets/img/character/chara9_main1.png?v=241113) | [Bangumi](https://bgm.tv/character/130756) |
-| esil radiru | 艾希尔·拉迪鲁 | 所属作品：`solo leveling`<br>恶魔贵族、拉迪鲁家族的长公主。<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/02/27/00/25/06/127665739_p1_master1200.jpg) |  |
+| esil radiru | 艾希尔·拉迪鲁 | ![](https://static.wikia.nocookie.net/solo-leveling-arise/images/3/32/Esil_Radiru.png)<br>所属作品：`solo leveling` |  |
 | nitocris alter | 尼托克丽丝〔Alter〕 |  |  |
 | nemo professor | 尼莫教授 |  |  |
 | moze | 貊泽 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/Character_Moze_Splash_Art.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/貊泽) |
