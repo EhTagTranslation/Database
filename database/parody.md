@@ -3049,6 +3049,7 @@ example:
 | jurassic park | 侏罗纪公园 |  |  |
 | elvira mistress of the dark | 销魂天师 | ![](https://upload.wikimedia.org/wikipedia/en/4/4f/Elviramistressofthedarkposter.jpg) |  |
 | shark tale | 鲨鱼故事 | ![](https://bkimg.cdn.bcebos.com/smart/99636c0e37f927867bcbe1fc-bkimg-process,v_1,rw_3,rh_4,maxl_284?) |  |
+| act-age | 演员夜凪景 act-age | ![](https://static.wikia.nocookie.net/act-age/images/5/5a/Act_age_character_color_page_cleaned.png)<br>《演员夜凪景 act-age》是由松木达哉负责编剧，宇佐崎白负责作画的漫画，于《周刊少年Jump》2018年8号（集英社）开始连载。 | [百度百科](https://baike.baidu.com/item/演员夜凪景%20act-age) \| [Fandom](https://act-age.fandom.com/wiki/Act-Age_Wiki) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
