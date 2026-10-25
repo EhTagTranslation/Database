@@ -2524,7 +2524,7 @@ example:
 | ichika nakano | 中野一花 | ![](https://img.moegirl.org.cn/common/8/8d/中野一花gif.gif)<br>![](https://img.moegirl.org.cn/common/8/8b/Go-Toubun_no_Hanayome_Ichika.jpg)<br>所属作品：`gotoubun no hanayome` |  |
 | nino nakano | 中野二乃 | ![](https://img.moegirl.org.cn/common/e/ea/中野二乃gif.gif)<br>![](https://img.moegirl.org.cn/common/0/0c/Go-Toubun_no_Hanayome_Nino.jpg)<br>所属作品：`gotoubun no hanayome` |  |
 | miku nakano | 中野三玖 | ![](https://img.moegirl.org.cn/common/a/aa/中野三玖gif.gif)<br>![](https://img.moegirl.org.cn/common/d/de/Go-Toubun_no_Hanayome_Miku.jpg)<br>所属作品：`gotoubun no hanayome` | [萌娘百科](https://zh.moegirl.org.cn/中野三玖) |
-| yotsuba nakano | 中野四叶 | ![](https://img.moegirl.org.cn/common/9/9f/Go-Toubun_no_Hanayome_Yotsuba.jpg)<br>所属作品：`gotoubun no hanayome` |  |
+| yotsuba nakano | 中野四叶 | ![](https://bkimg.cdn.bcebos.com/pic/5bafa40f4bfbfbed6095181c75f0f736aec31f80?)<br>所属作品：`gotoubun no hanayome` |  |
 | itsuki nakano | 中野五月 | ![](https://bkimg.cdn.bcebos.com/pic/21a4462309f790528dd1695d01f3d7ca7acbd582?)<br>![](https://img.moegirl.org.cn/common/d/df/中野五月gif.gif)<br>所属作品：`gotoubun no hanayome` |  |
 |  | ▼ hololive | 猴楼 live |  |
 |  |  | 0期 |  |
