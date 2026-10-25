@@ -711,7 +711,7 @@ example:
 | lorica | Lorica |  |  |
 | nakayama tetsugaku | 中山哲学 |  |  |
 | nisepakuman-san | 偽パクマンさん |  |  |
-| oobayashi mori | 大林森 |  |  |
+| oobayashi mori | 大林森 |  | [pixiv](https://www.pixiv.net/users/201389) \| [X](https://x.com/morioobayashi) |
 | piero | PIえろ |  |  |
 | saida kazuaki | さいだ一明 | 喜欢过膝袜的成人向漫画家。<br>参考标签：`stockings`<br>※注意老师名字中的一横是汉字的“一”，而非长音符号“ー”<br><br>单行本《股ひらいて・腰ふって》<br>![图](# "https://ehgt.org/2f/80/2f8015a046f360ede7f90fb95d4a353139183dcb-379599-1128-1600-jpg_l.jpg") | [X](https://x.com/saida_kazuaki) |
 | sayryu | 性龙 | 性竜 |  |
