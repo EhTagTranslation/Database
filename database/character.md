@@ -10503,6 +10503,7 @@ example:
 | cassandra vole | 卡珊德拉·沃雷 | ![](https://static.wikia.nocookie.net/harrypotter/images/2/20/Cassandra_MA.jpeg)<br>出自作品:`harry potter` |  |
 | rikuro tachibana | 橘陆郎 | ![](https://static.wikia.nocookie.net/taimanin/images/d/d4/Tachibana_Rikuro.png)<br>出自作品:`koutetsu no majo annerose` |  |
 | ji-woo seo | 徐智宇 | ![](https://static.wikia.nocookie.net/solo-leveling-arise/images/a/ad/Seo_Jiwoo.png)<br>出自作品:`solo leveling` |  |
+| charlotte arisaka anderson | 夏洛特·阿里萨卡·安德森 | ![](https://static.wikia.nocookie.net/the-detective-is-already-dead/images/0/05/Charlotte_Anime_2.png)<br>出自作品:`tantei wa mou shindeiru.` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
