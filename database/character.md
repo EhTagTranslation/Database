@@ -6824,7 +6824,7 @@ example:
 | kimidori mero | 키미도리\_메로 | 黄緑メロ<br><br>韩语VTuber | [X](https://x.com/mero_kimidori) |
 | teru momijiyama | 红叶山辉 | 所属作品: `p:shy` | [萌娘百科](https://zh.moegirl.org.cn/红叶山辉) |
 | aoi sakamoto | 坂本葵 | 所属作品：`sakamoto days`<br>![](https://ehgt.org/w/01/915/63077-mhcuyr6v.webp) |  |
-| bo-ra lee | 李宝拉 | 所属作品：`solo leveling`<br>![](https://ehgt.org/w/01/902/23191-1feq7qmp.webp)<br>A级猎人，汉特斯公会成员，魔法辅助型职业。 |  |
+| bo-ra lee | 李宝拉 | ![](https://static.wikia.nocookie.net/solo-leveling-arise/images/8/8d/Lee_Bora.png)<br>所属作品：`solo leveling` |  |
 | ren | 莲 | ![](https://static.wikia.nocookie.net/reincarnated-as-the-7th-prince/images/3/35/Ren-FullArt-Anime.png)<br>所属作品：`tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu` | [Bangumi](https://bgm.tv/character/132840) |
 | rosanna | 罗珊娜 | ![](https://patchwiki.biligame.com/images/nikke/e/eb/o8uur870fnhrz9jhpa7gf4kbq34tnav.png)<br>所属作品：`goddess of victory nikke` | [GameKee](https://www.gamekee.com/nikke/tj/591260.html) |
 | sylpha langlis | 希尔法·兰格里斯 | ![](https://static.wikia.nocookie.net/reincarnated-as-the-7th-prince/images/3/31/Sylpha-FullArt-Anime.png)<br>日语：シルファ・ラングリス<br>所属作品：`tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu` |  |
