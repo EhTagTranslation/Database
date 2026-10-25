@@ -6675,7 +6675,7 @@ example:
 | alicia arcturus | 艾丽西娅·阿尔库托鲁斯 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/2/2d/Alicia_Arcturus_full_cha.png)<br>所属作品：`kuroinu kedakaki seijo wa hakudaku ni somaru` | [萌娘百科](https://zh.moegirl.org.cn/艾丽西娅·阿尔库托鲁斯) |
 | maki oze | 茉希尾濑 | ![](https://img.moegirl.org.cn/common/thumb/e/e6/Character_main4.png/150px-Character_main4.png)<br>所属作品：`enen no shouboutai`<br>第8特殊消防队、第二世代能力者、一等消防官。<br>原先是军人，故格斗技术优异。虽然外表炫酷，但却非常喜欢恋爱这个话题，脑袋里如同‘少女的花田’一样的残念美人 。 | [百度百科](https://baike.baidu.com/item/茉希尾濑)<br>[萌娘百科](https://zh.moegirl.org.cn/茉希尾濑) |
 | lisa isaribi | 丽莎渔边 | 日本漫画《炎炎消防队》及其衍生作品中的人物。第三世代能力者，使用的能力是火焰触角，可释放渔火。![](https://lain.bgm.tv/r/400/pic/crt/l/05/e9/73165_crt_u55Oy.jpg?r=1573886346) | [Bangumi](https://bgm.tv/character/73165) |
-| joo-hee lee | 李晓希 \| 观月绘里 | 所属作品：`solo leveling`<br>B级猎人，职业为治疗师，容易被恐惧支配，担心总是在任务中受伤的程肖宇 。<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/02/10/12/35/14/127089684_p4_master1200.jpg) | [百度百科](https://baike.baidu.com/item/李晓希) |
+| joo-hee lee | 李晓希 | ![](https://static.wikia.nocookie.net/solo-leveling-arise/images/1/19/Lee_Joohee.png)<br>别译：观月绘里<br>所属作品：`solo leveling` | [百度百科](https://baike.baidu.com/item/李晓希) |
 | song-yi han | 韩宋伊 | ![](https://static.wikia.nocookie.net/solo-leveling-arise/images/f/f3/Han_Song-Yi.png)<br>所属作品：`solo leveling` |  |
 | gina | 吉娜 | ![](https://static.wikia.nocookie.net/solo-leveling-arise/images/9/9a/Gina.png)<br>所属作品：`solo leveling` |  |
 | jianxin | 鉴心 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/c/c5/9zxy9x4z9xwy9k1qfxz4gesjx5q40pm.png/601px-角色_鉴心_立绘.png)<br>所属作品：`wuthering waves`<br>一生只追求武术极致的道士，实力莫测、抱朴守一的风仪拳传人。拥有将周围环境气韵化为内在，形成涤净力场的能力。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/鉴心) |
