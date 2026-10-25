@@ -2525,7 +2525,7 @@ example:
 | nino nakano | 中野二乃 | ![](https://img.moegirl.org.cn/common/e/ea/中野二乃gif.gif)<br>![](https://img.moegirl.org.cn/common/0/0c/Go-Toubun_no_Hanayome_Nino.jpg)<br>所属作品：`gotoubun no hanayome` |  |
 | miku nakano | 中野三玖 | ![](https://img.moegirl.org.cn/common/a/aa/中野三玖gif.gif)<br>![](https://img.moegirl.org.cn/common/d/de/Go-Toubun_no_Hanayome_Miku.jpg)<br>所属作品：`gotoubun no hanayome` | [萌娘百科](https://zh.moegirl.org.cn/中野三玖) |
 | yotsuba nakano | 中野四叶 | ![](https://img.moegirl.org.cn/common/9/9f/Go-Toubun_no_Hanayome_Yotsuba.jpg)<br>所属作品：`gotoubun no hanayome` |  |
-| itsuki nakano | 中野五月 | ![](https://img.moegirl.org.cn/common/d/df/中野五月gif.gif)<br>![](https://img.moegirl.org.cn/common/d/d8/五月公式书.jpg)<br>所属作品：`gotoubun no hanayome` |  |
+| itsuki nakano | 中野五月 | ![](https://bkimg.cdn.bcebos.com/pic/21a4462309f790528dd1695d01f3d7ca7acbd582?)<br>![](https://img.moegirl.org.cn/common/d/df/中野五月gif.gif)<br>所属作品：`gotoubun no hanayome` |  |
 |  | ▼ hololive | 猴楼 live |  |
 |  |  | 0期 |  |
 | tokino sora | 时乃空 | ![空妈](https://img.moegirl.org.cn/common/5/50/TokinoSora.png)<br>日语：ときのそら<br>所属社团`hololive` | [萌娘百科](https://zh.moegirl.org.cn/时乃空) |
