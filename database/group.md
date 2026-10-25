@@ -4325,7 +4325,7 @@ example:
 | doll play | DOLL PLAY |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76244/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG42230.html) |
 | dom joshidan | ドM女史団 |  |  |
 | dom kishidan | ドM騎士団 |  |  |
-| domestic animals | Domestic animals |  |  |
+| domestic animals | Domestic animals |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71148/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG28286.html) |
 | donkin darnuts | どんきんだぁなっつ |  |  |
 | dontokodon | どんとこどん |  |  |
 | dontokoi oo | ドンと来い!○○! |  |  |
