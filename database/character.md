@@ -6160,7 +6160,7 @@ example:
 | shouto todoroki | 轰焦冻 | 所属作品: `p:my hero academia` | [萌娘百科](https://zh.moegirl.org.cn/轰焦冻) |
 | popess johanna | 女教皇若安 |  |  |
 | sae chabashira | 茶柱佐枝 | ![](https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/4/43/Sae_Chabashira_LN_visual.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e` | [萌娘百科](https://zh.moegirl.org.cn/茶柱佐枝) |
-| hae-in cha | 车慧仁 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/08/15/31/52/129088925_p2_master1200.jpg)<br>所属作品：`solo leveling`<br>别译：向坂雫 |  |
+| hae-in cha | 车慧仁 | ![](https://static.wikia.nocookie.net/solo-leveling-arise/images/1/1d/Cha_Hae_In.png)<br>别译：向坂雫<br>所属作品：`solo leveling` |  |
 | kitchen dragonmaid | 龙女仆・炊事龙女 | ![](https://static.wikia.nocookie.net/yugioh/images/9/9e/KitchenDragonmaid-MYFI-EN-ScR-1E.png)<br>所属作品：`yu-gi-oh`<br>“龙女仆”本家下级，人称“小红”。 | [萌娘百科](https://zh.moegirl.org.cn/龙女仆·炊事龙女) |
 | chamber dragonmaid | 龙女仆・客房龙女 | “龙女仆”本家下级，人称“小黑”。<br>英语翻译对应旧式女仆中的客房女仆（Chamber maid)，主要负责清理客房与寝室，保证客房与寝室的供暖，为客房与寝室提供相应服务等等。<br>此卡名的①②效果1回合仅可各使用1次。<br>①：此卡召唤·特殊召唤成功的情况下可以发动。从牌组将1张“龙女仆”魔法·陷阱卡加入手牌。<br>②：自己·对手的战斗阶段开始时可以发动。将此卡放回持有者的手牌，从自己的手牌·墓地挑选1只等级7以上的“龙女仆”怪兽特殊召唤。 | [萌娘百科](https://zh.moegirl.org.cn/龙女仆·客房龙女) |
 | prishe | 普利修 |  |  |
