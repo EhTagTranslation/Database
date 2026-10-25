@@ -6623,7 +6623,7 @@ example:
 | guild girl | 柜台小姐 | ![](https://static.wikia.nocookie.net/goblin-slayer/images/e/e8/Guild_Girl_Full_Body_II.png)<br>所属作品：`goblin slayer` | [萌娘百科](https://zh.moegirl.org.cn/柜台小姐) |
 | aki adagaki | 安达垣爱姬 | 安达垣爱姬是由竹冈叶月原作、Tiv作画的一部漫画《政宗君的复仇》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/安达垣爱姬#) ![](https://img.moegirl.org.cn/common/thumb/0/0d/Adagakiaki.jpg/420px-Adagakiaki.jpg) |
 | mai ouduka | 王塚真唯 | ![](https://img.moegirl.org.cn/common/thumb/8/89/王塚真唯stand.png/300px-王塚真唯stand.png)<br>所属作品：`watashi ga koibito ni nareru wake nai jan muri muri muri ja nakatta`<br>金发碧眼的混血儿。看起来就像国家的公主一样美丽。<br>既是真唯小团体的领导者，又是学校的闪耀明星。 | [萌娘百科](https://zh.moegirl.org.cn/王冢真唯) |
-| hee-jin park | 朴熙真 | 所属作品：`solo leveling`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/05/10/38/46/128972094_p1_master1200.jpg) |  |
+| hee-jin park | 朴熙真 | ![](https://static.wikia.nocookie.net/solo-leveling-arise/images/0/0a/Park_Heejin.png)<br>所属作品：`solo leveling` |  |
 | akane hououji | 凤凰寺红叶 | ![](https://goddess-cafe.com/2ndwp/wp-content/themes/d29b59564e24/static/character/05/main.webp)<br>所属作品：`megami no cafe terrace` | [萌娘百科](https://zh.moegirl.org.cn/凤凰寺红叶) |
 | ouka makuzawa | 幕泽樱花 | ![](https://goddess-cafe.com/2ndwp/wp-content/themes/d29b59564e24/static/character/06/main.webp)<br>所属作品：`megami no cafe terrace` | [萌娘百科](https://zh.moegirl.org.cn/幕泽樱花) |
 | riho tsukishima | 月岛流星 | ![](https://goddess-cafe.com/2ndwp/wp-content/themes/d29b59564e24/static/character/03/main.webp)<br>所属作品：`megami no cafe terrace` | [萌娘百科](https://zh.moegirl.org.cn/月岛流星) |
