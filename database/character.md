@@ -2521,7 +2521,7 @@ example:
 | misa kurobane | 西森柚咲 | 开朗无邪的人气偶像<br>![图](https://ehgt.org/b1/e2/b1e2513b808dc135172f9bd4ee642f7bdd231cf1-1064919-2469-3538-jpg_l.jpg)![图](# "https://ehgt.org/e6/83/e683b558b05b06e50ee508904e37e62aec3eb148-1498152-2098-3000-jpg_l.jpg") |  |
 | ayumi otosaka | 乙坂步未 | 元气满满的小动物系妹妹<br>![图](# "https://ehgt.org/7b/11/7b111ec190087ad74b2ccbba80603e93a2fd07cd-270120-850-1266-jpg_l.jpg")![图](# "https://ehgt.org/98/95/9895b279860e585bc2dad85c0b5491b3f25b2112-68350-590-650-png_l.jpg")![图](# "https://ehgt.org/43/ab/43abdd7bfb5601811ee96c784d24a89eaac5de16-115213-678-960-jpg_l.jpg") |  |
 |  | ▼ 五等分的新娘 |  |  |
-| ichika nakano | 中野一花 | ![](https://img.moegirl.org.cn/common/8/8d/中野一花gif.gif)<br>![](https://img.moegirl.org.cn/common/8/8b/Go-Toubun_no_Hanayome_Ichika.jpg)<br>所属作品：`gotoubun no hanayome` |  |
+| ichika nakano | 中野一花 | ![](https://bkimg.cdn.bcebos.com/pic/d1a20cf431adcbef0468bf67a1af2edda3cc9f77?)<br>![](https://img.moegirl.org.cn/common/8/8d/中野一花gif.gif)<br>所属作品：`gotoubun no hanayome` |  |
 | nino nakano | 中野二乃 | ![](https://bkimg.cdn.bcebos.com/pic/0b55b319ebc4b745bf537677c2fc1e178b821588?)<br>![](https://img.moegirl.org.cn/common/e/ea/中野二乃gif.gif)<br>所属作品：`gotoubun no hanayome` |  |
 | miku nakano | 中野三玖 | ![](https://bkimg.cdn.bcebos.com/pic/962bd40735fae6cdc03d850202b30f2443a70fc3?)<br>![](https://img.moegirl.org.cn/common/a/aa/中野三玖gif.gif)<br>所属作品：`gotoubun no hanayome` | [萌娘百科](https://zh.moegirl.org.cn/中野三玖) |
 | yotsuba nakano | 中野四叶 | ![](https://bkimg.cdn.bcebos.com/pic/5bafa40f4bfbfbed6095181c75f0f736aec31f80?)<br>所属作品：`gotoubun no hanayome` |  |
