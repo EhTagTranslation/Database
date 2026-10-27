@@ -10509,6 +10509,7 @@ example:
 | tsurumaru tsuyoshi | 鹤丸刚志 | ![](https://static.wikia.nocookie.net/umamusume/images/b/bc/Tsurumaru_Tsuyoshi_%28Race%29.png)<br>出自作品:`uma musume pretty derby` |  |
 | momoko takamachi | 高町桃子 |  |  |
 | quint nakajima | 桂特·中岛 |  |  |
+| megane alpine | 梅格奴·阿尔菲诺 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
