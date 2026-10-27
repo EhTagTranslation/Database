@@ -15854,6 +15854,7 @@ example:
 | yuri kowashi | 鉄兜ぬらぬら \| 油梨こわし |  |  |
 | dr.tan90 degrees | Dr.tan90º |  | [pixiv](https://www.pixiv.net/users/26616460) |
 | neko no mantis | ネコノマンテス |  |  |
+| protohotel | プロトホテル |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
