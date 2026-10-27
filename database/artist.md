@@ -14306,7 +14306,7 @@ example:
 | nishio nishipa | 西尾ニシパ |  |  |
 | nitake yutamaro | 弐竹ゆたまろ |  |  |
 | niyasuke | にやすけ |  |  |
-| yamada rimuru | 山田りむる |  |  |
+| yamada rimuru | 山田りむる |  | [pixiv](https://www.pixiv.net/users/86355887) |
 | norubon | ノルボン |  |  |
 | nuwara gray | ヌワラグレイ |  |  |
 | oohara kyutarou | 大原久太郎 |  |  |
