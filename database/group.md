@@ -14392,6 +14392,7 @@ example:
 | sashimi teishoku | さしみ定食 | さしみ定食 （さしみていしょく） | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200227/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG51147.html) |
 | neko no tawagoto | ネコノタワゴト |  |  |
 | hotel shikinseki | ホテル試金石 |  |  |
+| tsukuneya | つくね屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
