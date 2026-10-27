@@ -10507,6 +10507,7 @@ example:
 | makoto takiya | 泷谷真 | ![](https://static.wikia.nocookie.net/maid-dragon/images/f/fe/Takiyainfo.png)<br>出自作品:`kobayashi-san-chi no maid dragon` |  |
 | mamushi amakawa | 天川真梦梓 | ![](https://static.wikitide.net/astralpartywiki/thumb/d/d5/Amakawa_Mamushi_Full.png/316px-Amakawa_Mamushi_Full.png)<br>出自作品:`astral party` |  |
 | tsurumaru tsuyoshi | 鹤丸刚志 | ![](https://static.wikia.nocookie.net/umamusume/images/b/bc/Tsurumaru_Tsuyoshi_%28Race%29.png)<br>出自作品:`uma musume pretty derby` |  |
+| momoko takamachi | 高町桃子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
