@@ -6461,7 +6461,7 @@ example:
 | kakinomoto utamaro | 柿ノ本歌麿 |  |  |
 | kakitamajiru | かきたま汁 |  |  |
 | kakitsubata kanae | 杜若かなえ |  |  |
-| kakitsubata tsukune | 杜若つくね |  |  |
+| kakitsubata tsukune | 杜若つくね |  | [pixiv](https://www.pixiv.net/users/589) |
 | kakizaki | 柿崎 |  |  |
 | kakka hideto | 活火秀人 |  |  |
 | kakudai | カクダイ |  |  |
