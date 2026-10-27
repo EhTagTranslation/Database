@@ -2818,7 +2818,7 @@ example:
 | animal passion | Animal Passion |  |  |
 | animal service | アニマルサービス |  |  |
 | animalism | あにまりずむ |  |  |
-| animankan | アニマン館 |  |  |
+| animankan | アニマン館 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG39277.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75402/) |
 | anime brothers | アニメブラザーズ |  |  |
 | animeeru | あにめーる |  |  |
 | ankake cha-han | あんかけCha-haN |  |  |
