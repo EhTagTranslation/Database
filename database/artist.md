@@ -15852,6 +15852,7 @@ example:
 | takizaki | Haz | Haz (はず) | [FANZA](https://book.dmm.co.jp/list/?author=357214) |
 | emuorogii | えむおろぎー |  | [pixiv](https://www.pixiv.net/users/56846804) \| [X](https://x.com/m_orogy) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG74787.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=208580/) |
 | yuri kowashi | 鉄兜ぬらぬら \| 油梨こわし |  |  |
+| dr.tan90 degrees | Dr.tan90º |  | [pixiv](https://www.pixiv.net/users/26616460) |
 
 <!--TEMPLATE:
 |  |  |  |  |
