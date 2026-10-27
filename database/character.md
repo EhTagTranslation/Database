@@ -6730,7 +6730,7 @@ example:
 | lorea | 洛雷娅 | ![](https://lain.bgm.tv/r/400/pic/crt/l/40/65/109316_crt_po3DQ.jpg)<br>所属作品：`shinmai renkinjutsushi no tenpo keiei`<br>约克村杂货店老板的女儿。在珊乐莎的店里打工。 | [Bangumi](https://bgm.tv/character/109316) |
 | subaru hoshina | 保科昴 | ![](https://static.wikia.nocookie.net/kaoruhana/images/3/32/Subaru_anime.png)<br>所属作品：`kaoru hana wa rin to saku` | [萌娘百科](https://zh.moegirl.org.cn/保科昴) |
 | kei yonagi | 夜凪景 | ![](https://static.wikia.nocookie.net/act-age/images/9/9f/Yonagi_%28Winter_Uniform%29.png)<br>日语：よなぎけい<br>出自作品：`p:act-age` | [萌娘百科](https://zh.moegirl.org.cn/夜凪景) \| [Fandom](https://act-age.fandom.com/wiki/Kei_Yonagi) |
-| chiyoko momoshiro | 百城千世子 | ![](https://static.wikia.nocookie.net/act-age/images/8/84/Chiyoko_Momoshiro.png)<br>出自作品：`p:act-age`<br><br>百城千世子（ももしろちよこ），日本漫画《演员夜凪景》中的虚拟角色。 | [百度百科](https://baike.baidu.com/item/百城千世子/22992641) \| [Fandom](https://act-age.fandom.com/wiki/Chiyoko_Momoshiro) |
+| chiyoko momoshiro | 百城千世子 | ![](https://static.wikia.nocookie.net/act-age/images/8/84/Chiyoko_Momoshiro.png)<br>日语：ももしろちよこ<br>出自作品：`p:act-age` | [百度百科](https://baike.baidu.com/item/百城千世子/22992641) \| [Fandom](https://act-age.fandom.com/wiki/Chiyoko_Momoshiro) |
 | yuki isurugi | 石动雪 | ![](https://img.moegirl.org.cn/common/4/47/石动雪2.jpg)<br>所属作品：新妻 LOVELY×CATION<br>樱木市名校明棱学院的二年级生。名门之女，家规陈旧而严厉。看似冷淡苛刻，实则耿直安静。天文部的唯一部员。 | [萌娘百科](https://zh.moegirl.org.cn/石动雪) |
 | nagi arato | 荒砥凪 | ![](https://lain.bgm.tv/r/400/pic/crt/l/fb/ad/164316_crt_Ij7Vz.jpg)<br>所属作品：`ruri no houseki` | [萌娘百科](https://zh.moegirl.org.cn/琉璃的宝石) [维基百科](https://zh.wikipedia.org/wiki/琉璃的寶石) |
 | machiko mai | 真知子老师 |  | [维基百科](https://zh.wikipedia.org/wiki/真知子老師) |
