@@ -14391,6 +14391,7 @@ example:
 | nanashi novel | ナナシノベル |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200024/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG50302.html) |
 | sashimi teishoku | さしみ定食 | さしみ定食 （さしみていしょく） | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200227/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG51147.html) |
 | neko no tawagoto | ネコノタワゴト |  |  |
+| hotel shikinseki | ホテル試金石 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
