@@ -4656,7 +4656,7 @@ example:
 | elizabeth liones | 伊丽莎白·里昂妮丝 | ![](https://lain.bgm.tv/r/400/pic/crt/l/4c/03/26480_crt_DXuAZ.jpg)<br>所属作品：`nanatsu no taizai`<br>日语：エリザベス・リオネス | [Bangumi](https://bgm.tv/character/26480) |
 | yanqing | 彦卿 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/6/6d/Character_Yanqing_Splash_Art.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/彦卿) |
 | seika ijichi | 伊地知星歌 | ![](https://ehgt.org/w/01/796/47464-djhojeig.webp)<br>出自作品：`p:bocchi the rock`<br><br>伊地知星歌（日语：伊地知（いじち）星歌（せいか））是由はまじあき所创作的漫画《孤独摇滚！》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊地知星歌) |
-| rika furude | 古手梨花 | ![](https://static.wikia.nocookie.net/whentheycry/images/f/f3/Rika_mei_school_%281%29.png)<br><br>圭一的学妹，和沙都子同为小学6年级。古手神社的独生女，雏见泽御三家之一，古手家的最后一人。在每年6月的绵流祭担当巫女，被认为是御社神大人的转世，兼具冷静与神秘性，受到村人的喜爱与崇敬。 | [萌娘百科](https://zh.moegirl.org.cn/古手梨花) [Fandom](https://whentheycry.fandom.com/wiki/Furude_Rika) |
+| rika furude | 古手梨花 | ![](https://static.wikia.nocookie.net/whentheycry/images/f/f3/Rika_mei_school_%281%29.png)<br>出自作品:`higurashi no naku koro ni` | [萌娘百科](https://zh.moegirl.org.cn/古手梨花) [Fandom](https://whentheycry.fandom.com/wiki/Furude_Rika) |
 | junko akashi | 赤司淳子 | ![](https://patchwiki.biligame.com/images/ba/e/e6/d6rc33prquv3fwjmaiz0blwh0gno2ev.png)<br>![](https://patchwiki.biligame.com/images/ba/6/67/sjj5f3mlpxmgujmp57qtt6yl3recjzy.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Junko) |
 | black widow | 黑寡妇 | 所属作品: `p:avengers` |  |
 | midna | 米多娜 | 《塞尔达黄昏公主》中的黄昏公主 |  |
