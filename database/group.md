@@ -2407,7 +2407,7 @@ example:
 | 5 06 | ゴー!マルロク |  |  |
 | 5 slash 4 | 5/4 |  |  |
 | 50000s | 五萬S |  |  |
-| 50on | 50on! |  |  |
+| 50on | 50on! |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71877/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41018.html) |
 | 50pointcaliper | 50PointCaliper |  |  |
 | 5th library | 5th Library |  |  |
 | 5up | 5UP |  |  |
