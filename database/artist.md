@@ -15855,6 +15855,7 @@ example:
 | dr.tan90 degrees | Dr.tan90º |  | [pixiv](https://www.pixiv.net/users/26616460) |
 | neko no mantis | ネコノマンテス |  |  |
 | protohotel | プロトホテル |  |  |
+| npyu vimuzo | んぴゅ・ゔぃむぞ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
