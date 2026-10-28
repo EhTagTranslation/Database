@@ -15857,6 +15857,7 @@ example:
 | protohotel | プロトホテル |  |  |
 | npyu vimuzo | んぴゅ・ゔぃむぞ |  |  |
 | hondy | ほんでぃ |  | [pixiv](https://www.pixiv.net/users/30910267) \| [FANBOX](https://hondycore.fanbox.cc/) \| [X](https://x.com/hondycore) \| [BOOTH](https://hondycore.booth.pm/) |
+| horochi | 歩路地 | 歩路地（ほろち） | [Ci-en](https://ci-en.dlsite.com/creator/4024) \| [pixiv](https://www.pixiv.net/users/24344012) \| [Skeb](https://skeb.jp/@250po) \| [X](https://x.com/Chiroho_beach) |
 
 <!--TEMPLATE:
 |  |  |  |  |
