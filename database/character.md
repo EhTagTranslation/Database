@@ -10183,7 +10183,7 @@ example:
 | shiroji | 白司 | 出自作品:`honogurashi no niwa` |  |
 | kuukyo no sylvaril | 空虚的希尔瓦莉尔 | ![](https://static.wikia.nocookie.net/mushokutensei/images/e/ee/Sylvaril-Anime-FullBody.png)<br>日语：空虚のシルヴァリル<br>出自作品:`mushoku tensei` |  |
 | perugius dola | 佩尔基乌斯・朵拉 | ![](https://static.wikia.nocookie.net/mushokutensei/images/7/7c/Perugius-Anime-FullBody.png)<br>日语：ペルギウス・ドーラ<br>出自作品:`mushoku tensei` |  |
-| tsaritsa | 安娜丝塔夏·费奥多罗夫娜·雪奈茨娜娅 | ![](https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Tsaritsa_Illustration.png)<br>出自作品:`genshin impact` |  |
+| tsaritsa | 至冬女皇 | ![](https://bkimg.cdn.bcebos.com/pic/f2deb48f8c5494eef01fddb9b9a8f7fe9925bc31d047?)<br>全名：安娜丝塔夏·费奥多罗夫娜·雪奈茨娜娅<br>出自作品:`genshin impact` |  |
 | scamp | Scamp | 《艦隊Collection》（艦C）中的 Scamp（スキャンプ）是美國海軍的「貓鯊級」潛艇（Gato-class submarine）第66號艦，遊戲中的圖鑑編號為493。 |  |
 | u-31 | U-31 | ![](https://azurlane.netojuu.com/images/thumb/4/4d/U-31SchoolWithoutBG.png/1498px-U-31SchoolWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/9/96/U-31WithoutBG.png/1455px-U-31WithoutBG.png)<br>出自作品:`azur lane` |  |
 | olivier | 奥利维耶 | ![](https://static.wikitide.net/browndust2wiki/thumb/9/9f/Costume_003601.png/599px-Costume_003601.png)<br>![](https://static.wikitide.net/browndust2wiki/thumb/b/bb/Costume_003603.png/599px-Costume_003603.png)<br>出自作品:`brave nine` |  |
