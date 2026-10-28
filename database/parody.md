@@ -2450,7 +2450,7 @@ example:
 | bobs burgers | 开心汉堡店 |  | [维基百科](https://zh.wikipedia.org/wiki/开心汉堡店) |
 | murder drones | 无机杀手 |  |  |
 | puniru wa kawaii slime | 可爱史莱姆噗尼露 | 《可爱史莱姆噗尼露》（日语：ぷにるはかわいいスライム）是由日本漫画家まえだくん创作的漫画，有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/可爱史莱姆噗尼露) |
-| haite kudasai takamine-san | 鹰峰同学请穿上衣服 | 柊裕一的漫画作品 |  |
+| haite kudasai takamine-san | 鹰峰同学请穿上衣服 | ![](https://lain.bgm.tv/r/400/pic/cover/l/05/c1/506407_8l3G3.jpg)<br>日语：履いてください、鷹峰さん |  |
 | girls frontline neural cloud | 少女前线：云图计划 | `p:girls frontline` |  |
 | happy sugar life | 砂糖的幸福生活 |  |  |
 | captain tsubasa | 足球小将 |  | [维基百科](https://zh.wikipedia.org/wiki/足球小將) [萌娘百科](https://zh.moegirl.org.cn/足球小将) |
