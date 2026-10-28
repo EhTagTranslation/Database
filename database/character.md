@@ -10510,6 +10510,7 @@ example:
 | momoko takamachi | 高町桃子 |  |  |
 | quint nakajima | 桂特·中岛 |  |  |
 | megane alpine | 梅格奴·阿尔菲诺 |  |  |
+| keijun seiki | 軽巡棲鬼 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
