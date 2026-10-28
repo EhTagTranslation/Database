@@ -15856,6 +15856,7 @@ example:
 | neko no mantis | ネコノマンテス |  |  |
 | protohotel | プロトホテル |  |  |
 | npyu vimuzo | んぴゅ・ゔぃむぞ |  |  |
+| hondy | ほんでぃ |  | [pixiv](https://www.pixiv.net/users/30910267) \| [FANBOX](https://hondycore.fanbox.cc/) \| [X](https://x.com/hondycore) \| [BOOTH](https://hondycore.booth.pm/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
