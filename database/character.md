@@ -1837,7 +1837,7 @@ example:
 | shinji matou | 间桐慎二 | 第五次圣杯战争中 Rider 的表面御主，间桐樱的养兄。<br>![图](https://ehgt.org/fa/e4/fae41d54734ed77967c8987e880db06b9681534c-34704-280-479-jpg_l.jpg) |  |
 | illyasviel von einzbern | 伊莉雅丝菲尔·冯·爱因兹贝伦 | ![](https://pic.cangku.moe/images/2025/11/22/42rjs.png)<br>![](https://pic.cangku.moe/images/2025/11/22/42sI1.png)<br>所属作品：`fate kaleid liner prisma illya`，`fate stay night` | [萌娘百科](https://zh.moegirl.org.cn/伊莉雅丝菲尔·冯·爱因兹贝伦) |
 |  | TYPE-MOON > Fate > Stay Night（第五次圣杯战争）> 其他人物 |  |  |
-| saber alter | Saber Alter | 黑Saber<br>![图](https://ehgt.org/40/a5/40a51bc68a2402ea08d427ba830a5be37a4d7be7-1963656-1024-1448-png_l.jpg)![图](https://ehgt.org/3d/32/3d3216e8ae1841b38434781d6ec0afd60c68ade4-1675488-2130-3019-jpg_l.jpg)![图](https://ehgt.org/87/8b/878b688b0883dffaf11dfad6dde72b62e4e5c756-14099252-4875-3349-png_l.jpg) | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
+| saber alter | Saber Alter | ![](https://static.wikia.nocookie.net/typemoon/images/3/38/Saber_Alter_Shinjuku.png)<br>![](https://static.wikia.nocookie.net/typemoon/images/d/d3/SaberAltGOStage3.png)<br>出自作品:`fate grand order` | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
 | taiga fujimura | 藤村大河 | ![图](https://ehgt.org/34/10/3410654fa406e2958105e4a99dd3d374bac557be-1651792-1024-1448-png_l.jpg)![图](https://ehgt.org/2e/81/2e81b9f80ace2acf3e0f1b6aa3fe1563c141f94f-1638645-1024-1448-png_l.jpg) |  |
 |  | TYPE-MOON > Fate > Zero（第四次圣杯战争） |  |  |
 |  | TYPE-MOON > Fate > Zero（第四次圣杯战争）> 英灵 |  |  |
