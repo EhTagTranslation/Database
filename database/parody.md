@@ -136,7 +136,7 @@ example:
 | hidan no aria | 绯弹的亚里亚 | ![](https://img.moegirl.org.cn/common/6/60/Aria_the_Scarlet_Ammo_01%282%29.jpg)<br>《绯弹的亚里亚》是赤松中学创作、MF文库J发行的轻小说系列，并有漫画、动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/绯弹的亚里亚) |
 | steinsgate | 命运石之门 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a9/79/10380_YwP4R.jpg) |  |
 | lucky star | 幸运星 | ![](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2262328669.webp)<br>又名：幸运☆星<br>《幸运星》是美水镜自2004年1月起在杂志Comptiq上连载的日本四格漫画作品，并有同名改编动画。 |  |
-| zero no tsukaima | 零之使魔 | 山口昇老师一路走好<br>![图](# "https://ehgt.org/1a/0f/1a0f01daacab414f1dc6685f4cf005774777ad50-747905-1237-1741-jpg_250.jpg")![图](# "https://ehgt.org/68/8d/688d7bdaa94098c9d0e270f7125337d7ef585f88-572545-1055-1500-jpg_250.jpg")![图](https://ehgt.org/ad/78/ad784ef0569c06b2234635fae03ed96a7e85c769-4113665-4239-6105-jpg_l.jpg) |  |
+| zero no tsukaima | 零之使魔 | ![](https://lain.bgm.tv/r/400/pic/cover/l/32/14/1880_fsmcg.jpg)<br>![](https://lain.bgm.tv/r/400/pic/cover/l/aa/ce/1103_Gc1uq.jpg)<br>作者：山口昇（已故） |  |
 | shakugan no shana | 灼眼的夏娜 | ![图](https://ehgt.org/fc/2f/fc2fb0551dfaf85ed84a5766afd68dfba3c4ac5f-505542-1280-1280-jpg_l.jpg)![图](https://ehgt.org/c0/d3/c0d3764a66fa43c51f6d12b26ae35c6c7ccab754-2101793-1770-2500-jpg_l.jpg)![图](https://ehgt.org/2e/3b/2e3b64854752c3c2cd79fd9e564a85833c660e98-5637004-2134-3031-jpg_l.jpg) |  |
 | the melancholy of haruhi suzumiya | 凉宫春日的忧郁 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/8a/485_Et062.jpg)<br>日语：涼宮ハルヒの憂鬱 |  |
 | kannagi | 神薙 | ![图](# "https://ehgt.org/5c/0e/5c0e21f7e1d063c2601b192d0383a2c9b08085fc-355188-1050-1490-jpg_250.jpg") |  |
