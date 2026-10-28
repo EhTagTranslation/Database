@@ -6670,7 +6670,7 @@ example:
 | kissyoudo | 亀祥堂 |  |  |
 | kitagawajima | キタガワジマ |  |  |
 | kitaizumi koubou | 北泉工房 |  |  |
-| kitakami triple | 北神トリプル |  |  |
+| kitakami triple | 北神トリプル |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG04919.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=209173/) \| [Ci-en](https://ci-en.dlsite.com/creator/10405) \| [X](https://x.com/kt_triple) \| [BOOTH](https://kitakamitriple.booth.pm/) \| [pixiv](https://www.pixiv.net/users/3029323) |
 | kitakara tagayase | きたからたがやせ |  |  |
 | kitchen studio | きっちんすたじお |  |  |
 | kitkaters | キットカッターズ |  |  |
