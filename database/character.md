@@ -10511,6 +10511,7 @@ example:
 | quint nakajima | 桂特·中岛 |  |  |
 | megane alpine | 梅格奴·阿尔菲诺 |  |  |
 | keijun seiki | 軽巡棲鬼 |  |  |
+| alicia forestlight | 亚莉希雅·福雷斯莱特 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
