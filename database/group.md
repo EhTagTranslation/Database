@@ -13214,7 +13214,7 @@ example:
 | montage | モンタージュ |  |  |
 | rakura club | 楽らクラブ |  |  |
 | itohanana | イトハナナ |  |  |
-| shirasudon | しらすどん |  |  |
+| shirasudon | しらすどん |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202926/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG58808.html) |
 | akashiba honpo | 赤柴本舗 |  |  |
 | yagihitsuji nikusenmonten | 山羊羊肉専門店 |  |  |
 | mara nekonabe | 麻辣猫鍋 |  |  |
