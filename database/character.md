@@ -6371,7 +6371,7 @@ example:
 | riruru | 莉露露 | 所属作品：`subarashiki hibi`<br>终之空登场角色，是个扶他（魔法少）女 |  |
 | firewhistle | 火哨 |  |  |
 | ump40 | UMP40 \| 莱妮 | `p:girls frontline`<br><br>少女前线2:追放 |  |
-| fleurdelys | 芙露德莉斯 | ![](https://wuthering.wiki/img/monster_340000120.png)<br>所属作品：`wuthering waves`<br>「英白拉多」与「利维亚坦」纠缠融合后，卡提希娅与其共鸣，成为了修会认证的岁主共鸣者，得名芙露德莉斯。 | [萌娘百科](https://zh.moegirl.org.cn/卡提希娅) |
+| fleurdelys | 芙露德莉斯 | ![](https://ehgt.org/w/02/231/92584-n55sybzd.webp)<br>所属作品：`wuthering waves` | [萌娘百科](https://zh.moegirl.org.cn/卡提希娅) |
 | cecilia immergreen | 塞西莉亚·伊默格林 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/9c/Cecilia_Immergreen_Full_Body.png)<br>日语：セシリア・イマーグリーン<br>所属社团`hololive` |  |
 | noel | 诺耶尔 | 诺耶尔（日语：ノエル）是由Type-Moon所制作的游戏《月姬 -A piece of blue glass moon-》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/诺耶尔) |
 | hajime iwaizumi | 岩泉一 |  | [Fandom](https://haikyuu.fandom.com/wiki/Hajime_Iwaizumi) |
