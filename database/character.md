@@ -9128,7 +9128,7 @@ example:
 | tsukuyo aoba | 苍叶月夜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/2f/c2/124073_crt_aGCKt.jpg)<br>所属作品：`temple`<br>日语：蒼葉月夜 |  |
 | yuzuki aoba | 苍叶结月 | ![](https://lain.bgm.tv/r/400/pic/crt/l/c0/24/124072_crt_24HeE.jpg)<br>所属作品：`temple`<br>日语：蒼葉結月 |  |
 | masayoshi komi | 古见将贺 | ![](https://static.wikia.nocookie.net/komisan-wa-komyushou-desu/images/c/c7/Masayoshi_Anime.png)<br>所属作品：`komi-san wa komyushou desu.`<br>日语：古見将賀 |  |
-| denia | 达妮娅 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/b/b8/Denia_Full_Sprite.png)<br>所属作品：`wuthering waves` |  |
+| denia | 达妮娅 | ![](https://prod-alicdn-community.kurobbs.com/forum/625294f4d0b740f4bf5ce693ddb0b35920260521.png?x-oss-process=image/format,webp)<br>所属作品：`wuthering waves` |  |
 | leorio paladiknight | 雷欧力·帕拉帝奈特 | ![](https://static.wikia.nocookie.net/hunterxhunter/images/2/23/Leorio_2011_Design.png)<br>所属作品：`hunter x hunter` |  |
 | meruem | 梅路艾姆 | ![](https://static.wikia.nocookie.net/hunterxhunter/images/5/57/Meruem_2011_Design.png)<br>所属作品：`hunter x hunter` |  |
 | gel | 葛儿 | ![](https://static.wikia.nocookie.net/hunterxhunter/images/e/e6/HxH2011_EP137_-_Gel_Portrait.png)<br>所属作品：`hunter x hunter`<br>日语：ゲル |  |
