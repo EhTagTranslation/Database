@@ -9233,7 +9233,7 @@ example:
 | zola | 左拉 | ![](https://static.wikia.nocookie.net/bluedragon/images/3/3f/Blue-Dragon_Zolaboxart_160w-1-.jpg)<br>日语：ゾラ<br>所属作品：`blue dragon` |  |
 | promeia | 普罗米娅 | ![](https://fastcdn.hoyoverse.com/content-v2/nap/163316/ae8fea3490c208e1ec5472225d95f9bc_8958211200051508612.png)<br>所属作品：`zenless zone zero` |  |
 | yuriko okada | 冈田百合子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/cb/8d/178962_crt_k80fH.jpg?r=1773923307)<br>日语：岡田ユリコ<br>所属作品：`tojima tanzaburo wa kamen rider ni naritai` |  |
-| hiyuki | 绯雪 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/7/72/Hiyuki_Full_Sprite.png)<br>所属作品：`wuthering waves` |  |
+| hiyuki | 绯雪 | ![](https://prod-alicdn-community.kurobbs.com/forum/70016b8f266e451b898b2003b047722c20260430.png?x-oss-process=image/format,webp)<br>所属作品：`wuthering waves` |  |
 | xaihi | 赛希 | ![](https://endfield.wiki.gg/images/thumb/Xaihi_Splash_Art.png/1024px-Xaihi_Splash_Art.png?390452)<br>所属作品：`arknights endfield` |  |
 | asami sato | 佐藤麻尾 | ![](https://static.wikia.nocookie.net/nickelodeon/images/f/f7/Asami.png)<br>别译：佐藤麻美/佐藤亚莎美<br>所属作品：`the legend of korra` |  |
 | aile | 艾儿 | ![](https://static.wikia.nocookie.net/ainamk/images/9/99/Aile.png/revision/latest?cb=20241026154746)<br>出自作品：`p:megaman`<br><br>艾儿（エール/Aile）是洛克人ZX的两名主角之一（另一名是梵），生命金属型式X的适合者。 | [Fandom](https://ainamk.fandom.com/wiki/エール) |
