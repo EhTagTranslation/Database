@@ -6243,7 +6243,7 @@ example:
 | serie | 赛丽艾 | ![](https://ehgt.org/w/02/273/74175-01n74pch.webp)<br>所属作品: `p:sousou no frieren` | [萌娘百科](https://zh.moegirl.org.cn/赛丽艾) |
 | sousuke aizen | 蓝染惣右介 | 所属作品: `p:bleach` | [萌娘百科](https://zh.moegirl.org.cn/蓝染惣右介) |
 | francesca lucchini | 弗兰西斯卡·鲁奇尼 | 所属作品: `p:brave witches` | [萌娘百科](https://zh.moegirl.org.cn/弗兰西斯卡·鲁奇尼) [Fandom](https://worldwitches.fandom.com/wiki/Francesca_Lucchini) |
-| rover | 漂泊者 | ![](https://pic.cangku.moe/images/2025/09/04/1yBRB.th.webp)<br>所属作品: `p:wuthering waves`<br>身世不明的共鸣者，拥有吸收一切声音的力量。<br>为了寻回记忆而踏上旅途。 | [萌娘百科](https://zh.moegirl.org.cn/漂泊者%28鸣潮%29) |
+| rover | 漂泊者 | ![](https://pic.cangku.moe/images/2025/09/04/1yBRB.th.webp)<br>所属作品: `p:wuthering waves` | [萌娘百科](https://zh.moegirl.org.cn/漂泊者%28鸣潮%29) |
 | ascalon | 阿斯卡纶 | ![](https://patchwiki.biligame.com/images/arknights/9/9b/4xbxkx3yqimodzwslzfazlzg2yc7vun.png)<br>所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/阿斯卡纶) |
 | ling | 令 | ![](https://patchwiki.biligame.com/images/arknights/b/b9/3echoztngoouscwwgb86xij3gxjk6jj.png)<br>所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/令%28明日方舟%29) |
 | gladiia | 歌蕾蒂娅 | ![](https://patchwiki.biligame.com/images/arknights/8/83/hymnabevpcdpqqfsrb1qikvoctvx4oe.png)<br>所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/歌蕾蒂娅) |
