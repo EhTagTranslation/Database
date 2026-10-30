@@ -8578,7 +8578,7 @@ example:
 | chie satonaka | 里中千枝 | ![](https://ehgt.org/w/01/143/00714-me3t84vp.webp)<br>出自作品：`p:persona 4`<br><br>里中千枝（日语：里中千枝 \| さとなかちえ）是由Atlus旗下的游戏《女神异闻录》系列的正传作品《女神异闻录4》及其衍生作品的主要角色。 | [萌娘百科](https://zh.moegirl.org.cn/里中千枝) |
 | kuniko hojo | 北条国子 |  |  |
 | pan | 小芳 | ![](https://static.wikia.nocookie.net/dragonball/images/4/46/Pan_Manga_Infobox_HQ.jpg/revision/latest/scale-to-width-down/268?cb=20241011203627)<br><br>小芳（日语：パン）是由鸟山明所创作的漫画《龙珠》及其衍生作品的登场角色。 | [百度百科](https://baike.baidu.com/item/小芳/7108893) \| [萌娘百科](https://mobile.moegirl.org.cn/小芳) \| [Fandom](https://dragonball.fandom.com/wiki/Pan) |
-| roccia | 洛可可 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/d/d0/fh1hemdfr0vcpqmb8vw7vhzfz93yi5t.png/497px-角色_洛可可_立绘.png)<br>所属作品：`wuthering waves` | [Fandom](https://wutheringwaves.fandom.com/wiki/Roccia) |
+| roccia | 洛可可 | ![](https://prod-alicdn-community.kurobbs.com/forum/e2094e3b397040cea99c9e8e5c5015c120250121.png?x-oss-process=image/format,webp)<br>所属作品：`wuthering waves` | [Fandom](https://wutheringwaves.fandom.com/wiki/Roccia) |
 | youhu | 釉瑚 | ![](https://prod-alicdn-community.kurobbs.com/forum/8b692cb865fc4dd896ba346d1341f8e620240923.png?x-oss-process=image/format,webp)<br>所属作品：`wuthering waves` | [Fandom](https://wutheringwaves.fandom.com/wiki/Youhu) |
 | kodachi kuno | 九能小太刀 | ![](https://ehgt.org/w/01/901/82633-5lbzpu47.webp)<br>出自作品：`p:ranma 12`<br><br>九能小太刀是日本漫画家高桥留美子创作的漫画《乱马》及其衍生作品中的角色，由岛津冴子配音。作为16岁的少女、九能带刀的妹妹，她外号"黑玫瑰"，自称是早乙女乱马的四号未婚妻，擅长格斗新体操并以"黑玫瑰吹雪"为攻击技能，常使用黑玫瑰与麻药作为武器。 | [百度百科](https://baike.baidu.com/item/九能小太刀/6312620) |
 | goblin slayer | 哥布林杀手 |  |  |
