@@ -6678,7 +6678,7 @@ example:
 | joo-hee lee | 李晓希 | ![](https://static.wikia.nocookie.net/solo-leveling-arise/images/1/19/Lee_Joohee.png)<br>别译：观月绘里<br>所属作品：`solo leveling` | [百度百科](https://baike.baidu.com/item/李晓希) |
 | song-yi han | 韩宋伊 | ![](https://static.wikia.nocookie.net/solo-leveling-arise/images/f/f3/Han_Song-Yi.png)<br>所属作品：`solo leveling` |  |
 | gina | 吉娜 | ![](https://static.wikia.nocookie.net/solo-leveling-arise/images/9/9a/Gina.png)<br>所属作品：`solo leveling` |  |
-| jianxin | 鉴心 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/c/c5/9zxy9x4z9xwy9k1qfxz4gesjx5q40pm.png/601px-角色_鉴心_立绘.png)<br>所属作品：`wuthering waves`<br>一生只追求武术极致的道士，实力莫测、抱朴守一的风仪拳传人。拥有将周围环境气韵化为内在，形成涤净力场的能力。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/鉴心) |
+| jianxin | 鉴心 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/c/c5/9zxy9x4z9xwy9k1qfxz4gesjx5q40pm.png/601px-角色_鉴心_立绘.png)<br>所属作品：`wuthering waves` | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/鉴心) |
 | zhezhi | 折枝 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/5/53/cyeurbovyohayb7i2fmxul70ac5mgbq.png/507px-角色_折枝_立绘.png)<br>鬻画维生的委托画师，忧思敏感，不善言辞，所思所想皆寄寓于画，笔下万物可幻化而出，惟妙惟肖。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/折枝) |
 | ciaccona | 夏空 | ![](https://mc.appfeng.com/ui/avatar/T_IconRole_Pile_xiakong_UI.png)<br>所属作品：`wuthering waves`<br>黎那汐塔的吟游诗人——夏空。她为神明而歌，也为平凡的人类而歌。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/夏空) |
 | lupa | 露帕 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/8/8b/9psbu0nhrkejgb9pohgse6nftw839mp.png/650px-角色_露帕_立绘.png)<br>所属作品：`wuthering waves`<br>七丘的角斗士，万众瞩目的明星选手。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/露帕) |
