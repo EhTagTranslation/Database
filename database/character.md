@@ -8884,7 +8884,7 @@ example:
 | zuko | 苏科 | ![](https://static.wikia.nocookie.net/avatar/images/4/4b/Zuko.png)<br>出自作品：`p:avatar the last airbender` | [Fandom](https://avatar.fandom.com/zh/wiki/蘇科?variant=zh-hans) |
 | ursa | 尔姝 | ![](https://huiji-public.huijistatic.com/avatar/uploads/a/a6/Ursa.png)<br>出自作品：`p:avatar the last airbender` | [灰机wiki](https://avatar.huijiwiki.com/wiki/尔姝) |
 | bond forger | 邦德·福杰 | ![](https://storage.moegirl.org.cn/moegirl/commons/8/8e/SPY×FAMILY04.jpg)<br>出自作品：`p:spy x family`<br><br>邦德·福杰是由远藤达哉创作的漫画《间谍过家家》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/邦德·福杰) |
-| sigrika | 西格莉卡 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/7/7c/Sigrika_Full_Sprite.png)<br>所属作品：`wuthering waves` | [Fandom](https://wutheringwaves.fandom.com/zh/wiki/西格莉卡) |
+| sigrika | 西格莉卡 | ![](https://prod-alicdn-community.kurobbs.com/forum/b3e6ebffcee44127b5004db5a2bdc26420260319.png?x-oss-process=image/format,webp)<br>所属作品：`wuthering waves` | [Fandom](https://wutheringwaves.fandom.com/zh/wiki/西格莉卡) |
 | moskva | 莫斯科 | ![](https://azurlane.netojuu.com/images/thumb/c/cd/MoskvaWithoutBG.png/921px-MoskvaWithoutBG.png)<br>所属作品：`azur lane` |  |
 | sara anvilen | 赛菈·安比连 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b0/0c/95789_crt_q2rg5.jpg)<br>所属作品：`omae gotoki ga maou ni kateru to omouna` |  |
 | marisbury animusphere | 马里斯比利·阿尼姆斯菲亚 | ![](https://static.wikia.nocookie.net/fategrandorder/images/4/44/Marisbury_Animusphere_Portrait.webp)<br>所属作品：`fate grand order`<br>日语：マリスビリー・アニムスフィア |  |
