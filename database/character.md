@@ -10513,6 +10513,7 @@ example:
 | keijun seiki | 軽巡棲鬼 |  |  |
 | alicia forestlight | 亚莉希雅·福雷斯莱特 |  |  |
 | otonari-san | 邻居小姐 | ![](https://static.wikia.nocookie.net/sasaki-and-peeps/images/1/1b/67712-1234683693.png)<br>出自作品:`sasaki to p-chan` |  |
+| al azif | 艾尔·阿吉芙 | ![](https://static.wikia.nocookie.net/lovecraft/images/1/1e/Al_Azif_%28Demonbane%29_1.png)<br>日语：アル・アジフ<br>出自作品:`demonbane` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
