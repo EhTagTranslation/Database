@@ -2879,7 +2879,7 @@ example:
 | kaori nakaseko | 中世古香织 |  |  |
 | hazuki katou | 加藤叶月 |  |  |
 | haruka ogasawara | 小笠原晴香 |  |  |
-| asuka tanaka | 田中明日香 |  |  |
+| asuka tanaka | 田中明日香 | ![](https://gbaike-image.cdn.bcebos.com/b999a9014c086e061d95ae2560436cf40ad162d95d03/b999a9014c086e061d95ae2560436cf40ad162d95d03_3_4)<br>出自作品:`hibike euphonium` |  |
 | raina kitamura | 喜多村来南 | 巴松(大管)&双簧管首席 |  |
 | mikino oka | 冈美贵乃 |  |  |
 | izumi akazawa | 赤泽泉美 | 赤泽泉美(あかざわいずみ)是绫辻行人笔下小说《Another》及其衍生作品的登场角色。 |  |
