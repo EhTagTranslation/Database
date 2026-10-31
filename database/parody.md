@@ -3052,6 +3052,7 @@ example:
 | act-age | 演员夜凪景 Act-Age | ![](https://static.wikia.nocookie.net/act-age/images/5/5a/Act_age_character_color_page_cleaned.png)<br>日语：アクタージュ act-age | [百度百科](https://baike.baidu.com/item/演员夜凪景%20act-age) \| [Fandom](https://act-age.fandom.com/wiki/Act-Age_Wiki) |
 | sasaki to p-chan | 佐佐木与文鸟小哔 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7a/54/393038_6qnY1.jpg)<br>![](https://lain.bgm.tv/r/400/pic/cover/l/fc/aa/486456_XO5B0.jpg)<br>日语：佐々木とピーちゃん |  |
 | isekai samurai | 异世界武士 | ![](https://lain.bgm.tv/r/400/pic/cover/l/34/57/421548_whwPa.jpg)<br>日语：異世界サムライ |  |
+| leadale no daichi nite | 里亚德录大地 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d9/eb/329014_660vh.jpg)<br>日语：リアデイルの大地にて |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
