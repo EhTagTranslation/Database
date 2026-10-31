@@ -2832,7 +2832,7 @@ example:
 | sumii | すみい |  | [X](https://x.com/sumii88) [pixiv](https://www.pixiv.net/users/561112) |
 | ai takurou | 安威拓郎 |  | [X](https://x.com/AI_takurou) [pixiv](https://www.pixiv.net/users/341555) |
 | nagisora riku | 凪空りく |  | [X](https://x.com/rak_gaki_riku) [pixiv](https://www.pixiv.net/users/8924218) |
-| minase | 御奈瀬 |  | [X](https://x.com/dp_minase) [pixiv](https://www.pixiv.net/users/3151) |
+| minase | 御奈瀬 |  | [X](https://x.com/dp_minase) [pixiv](https://www.pixiv.net/users/3151)<br>[另外一位同名画师的pixiv](https://www.pixiv.net/users/1483115) |
 | niwacho | niwacho |  | [X](https://x.com/niwacho) [Twitter-成人向](https://x.com/niwachoR18) [pixiv](https://www.pixiv.net/users/189) |
 | yasaka syu | 矢坂しゅう |  | [X](https://x.com/syu_612) [pixiv](https://www.pixiv.net/users/2798316) |
 | nimuno | にむの |  | [X](https://x.com/nimuno_munimuni) [pixiv](https://www.pixiv.net/users/28750419) |
