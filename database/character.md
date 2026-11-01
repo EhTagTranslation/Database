@@ -2024,7 +2024,7 @@ example:
 | chrono harlaown | 克洛诺·哈洛温 |  |  |
 | caro ru lushe | 凯珞·露·露茜 | ![](https://ehgt.org/42/ac/42acfd49d0d35d126aedef7d9898ed4f7445454b-565258-1061-1510-jpg_250.jpg)<br>出自作品：`p:mahou shoujo lyrical nanoha`<br><br>凯珞·露·露茜是 动漫作品《魔法少女奈叶》中TV动画版第三部《魔法少女奈叶StrikerS》以及漫画《魔法战记奈叶Force》和《魔法少女奈叶vivid》中登场的角色。 | [萌娘百科](https://zh.moegirl.org.cn/凯珞·露·露茜) |
 | ginga nakajima | 银河·中岛 | ![](https://static.wikia.nocookie.net/nanoha/images/c/ce/Ginga_Nakajima_StrikerS.png)<br>出自作品:`mahou shoujo lyrical nanoha` |  |
-| subaru nakajima | 昴·中岛 |  |  |
+| subaru nakajima | 昴·中岛 | ![](https://bkimg.cdn.bcebos.com/smart/d009b3de9c82d158bbcb440f890a19d8bd3e42c6-bkimg-process,v_1,rw_3,rh_4,maxl_284)<br>出自作品:`mahou shoujo lyrical nanoha` |  |
 | suzuka tsukimura | 月村铃鹿 |  |  |
 | teana lanster | 蒂安娜·兰斯达 |  |  |
 | lutecia alpine | 璐缇希雅·阿尔菲诺 |  |  |
