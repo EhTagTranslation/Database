@@ -3686,7 +3686,7 @@ example:
 | hitoha marui | 丸井一叶 | 《超元气三姐妹》三胞胎姐妹中的幺女，性格阴暗，处事冷静，有严重的惧高症，看到血会晕倒。 |  |
 | kanna akizuki | 明月栞那 |  |  |
 | natsume shiki | 四季夏目 | ![](https://bkimg.cdn.bcebos.com/smart/f2deb48f8c5494eef01fd93ab5a7f7fe9925bc31d0cf)<br>![](https://bkimg.cdn.bcebos.com/smart/b03533fa828ba61ea8d3fd0bd966800a304e251ff3cf)<br>所属作品:`p:cafe stella to shinigami no chou` | [萌娘百科](https://zh.moegirl.org.cn/四季夏目) |
-| nozomi sumizome | 墨染希 |  |  |
+| nozomi sumizome | 墨染希 | ![](https://bkimg.cdn.bcebos.com/pic/71cf3bc79f3df8dc9125c984c211728b4710288e)<br>![](https://bkimg.cdn.bcebos.com/smart/5243fbf2b211931353edb9a56a380cd791238d7d-bkimg-process,v_1,rw_3,rh_4,maxl_284)<br>出自作品:`cafe stella to shinigami no chou` |  |
 | mei hiuchidani | 火打谷爱衣 |  |  |
 | suzune shioyama | 汐山凉音 |  |  |
 | wakana gojou | 五条新菜 | ![](https://static.wikia.nocookie.net/sono-bisque-doll-wa-koi-wo-suru/images/a/a9/Wakana_Gojo.webp)<br>出自作品：`p:sono bisque doll wa koi o suru`<br>日语：ごじょうわかな | [萌娘百科](https://zh.moegirl.org.cn/五条新菜) \| [Fandom](https://sono-bisque-doll-wa-koi-wo-suru.fandom.com/wiki/Wakana_Gojo) |
