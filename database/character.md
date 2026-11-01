@@ -10510,7 +10510,7 @@ example:
 | momoko takamachi | 高町桃子 |  |  |
 | quint nakajima | 桂特·中岛 |  |  |
 | megane alpine | 梅格奴·阿尔菲诺 |  |  |
-| keijun seiki | 軽巡棲鬼 |  |  |
+| keijun seiki | 轻巡栖鬼 | ![](https://static.wikia.nocookie.net/kancolle/images/9/96/Light_Cruiser_Demon_Full.png)<br>出自作品:`kantai collection` |  |
 | alicia forestlight | 亚莉希雅·福雷斯莱特 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/6/6a/Alicia_Dueling_Caster.png)<br>日语:アリシア・フォレストライト<br>出自作品:`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
 | otonari-san | 邻居小姐 | ![](https://static.wikia.nocookie.net/sasaki-and-peeps/images/1/1b/67712-1234683693.png)<br>出自作品:`sasaki to p-chan` |  |
 | al azif | 艾尔·阿吉芙 | ![](https://static.wikia.nocookie.net/lovecraft/images/1/1e/Al_Azif_%28Demonbane%29_1.png)<br>日语：アル・アジフ<br>出自作品:`demonbane` |  |
