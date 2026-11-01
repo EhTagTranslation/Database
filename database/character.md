@@ -10517,6 +10517,7 @@ example:
 | ginko tsukitsuba | 月锷银子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/9f/de/144702_crt_myOGS.jpg?r=1700924344)<br>出自作品:`isekai samurai` |  |
 | cayna | 葵娜 | ![](https://static.wikia.nocookie.net/in-the-land-of-leadale/images/3/3f/Cayna_%28anime%29.png)<br>日语：ケーナ<br>出自作品:`leadale no daichi nite` |  |
 | masaki kurosaki | 黑崎真咲 | ![](https://static.wikia.nocookie.net/bleach/images/4/40/Masaki_Anime_Fullbody.png)<br>出自作品:`bleach` |  |
+| arclight | 弧光 | ![](https://bkimg.cdn.bcebos.com/pic/728da9773912b31bb05119d48945217adab44bed4b82)<br>本名：伊库特<br>出自作品:`arknights endfield` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
