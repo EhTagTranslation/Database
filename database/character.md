@@ -3685,7 +3685,7 @@ example:
 | mitsuba marui | 丸井三叶 | 《超元气三姐妹》三胞胎姐妹中的长女，性格超S，很在意自己的体型，所以常常会减肥。 |  |
 | hitoha marui | 丸井一叶 | 《超元气三姐妹》三胞胎姐妹中的幺女，性格阴暗，处事冷静，有严重的惧高症，看到血会晕倒。 |  |
 | kanna akizuki | 明月栞那 |  |  |
-| natsume shiki | 四季夏目 | 所属作品:`p:cafe stella to shinigami no chou`<br>![](https://img.moegirl.org.cn/common/a/ad/Shiki_Natsume.png) | [萌娘百科](https://zh.moegirl.org.cn/四季夏目) |
+| natsume shiki | 四季夏目 | ![](https://bkimg.cdn.bcebos.com/smart/f2deb48f8c5494eef01fd93ab5a7f7fe9925bc31d0cf)<br>![](https://bkimg.cdn.bcebos.com/smart/b03533fa828ba61ea8d3fd0bd966800a304e251ff3cf)<br>所属作品:`p:cafe stella to shinigami no chou` | [萌娘百科](https://zh.moegirl.org.cn/四季夏目) |
 | nozomi sumizome | 墨染希 |  |  |
 | mei hiuchidani | 火打谷爱衣 |  |  |
 | suzune shioyama | 汐山凉音 |  |  |
