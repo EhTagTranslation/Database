@@ -2533,7 +2533,7 @@ example:
 | hima-ten | 妃真与殿！ | 《妃真与殿！》是由小野玄晖绘画的恋爱喜剧作品，于2024年7月8日开始在《周刊少年Jump》上连载，《宝岛少年》则从2024年第47期开始连载，并已发行4卷单行本。 |  |
 | akuyaku reijo level 99 | 反派千金等级99～我是隐藏头目但不是魔王～ | ![](https://img.moegirl.org.cn/common/1/11/Lv99_1.jpg)<br>由七夕さとり创作的一部轻小说，并有漫画、动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/反派千金等级99～我是隐藏头目但不是魔王～) |
 | koujo denka no kateikyoushi | 公爵千金的家庭教师 |  |  |
-| amakano | 甜蜜女友 | 《甜蜜女友》（日语：アマカノ）是NEXTON公司的旗下品牌あざらしそふと制作，于2014年12月19日发售的恋爱冒险类型成人游戏，2022年11月24日发售任天堂Switch版。2016年10月28日发售完整版，12月22日发售扩充版《甜蜜女友＋》（アマカノ＋）。后来改编成OVA由mary jan发售共四集。 |  |
+| amakano | 甜蜜女友 | ![](https://t.vndb.org/cv.t/12/96612.jpg)<br>日语：アマカノ | [VNDB](https://vndb.org/v15679) |
 | amakano 2 | 甜蜜女友2 | ![](https://t.vndb.org/cv.t/18/96618.jpg)<br>日语：アマカノ | [VNDB](https://vndb.org/v26307) |
 | slay the spire | 杀戮尖塔 |  |  |
 | dan vs. | DAN VS. | Dan Vs.照字面可以翻译成丹杠上谁，是一部美国Flash动画，由丹·马达尔（Dan Mandel）与克里斯·裴尔森（Chris Pearson）发起。首度上映是在2011年1月1日一月在美国电视频道The Hub拨出，现今播放到第三季。主题是男主角Dan因为各种原因而单方面怨恨或与某人结仇，并接着进行复仇计划的故事。 | [维基百科](https://zh.wikipedia.org/wiki/DAN_VS.) |
