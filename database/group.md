@@ -4768,7 +4768,7 @@ example:
 | free heaven | FREE HEAVEN |  |  |
 | free style | Free Style |  |  |
 | freedom | FREEDOM |  |  |
-| freedom prophet | フリーダムプロフェット |  |  |
+| freedom prophet | フリーダムプロフェット |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72282/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG31873.html) |
 | freedom tomy r | フリーダム☆トミーR |  |  |
 | freelife | freelife |  |  |
 | freeze world | フリーズワールド |  |  |
