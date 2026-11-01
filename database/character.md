@@ -10521,6 +10521,7 @@ example:
 | shion nasturtium | 紫苑·金莲花 | ![](https://static.wikia.nocookie.net/jack-of-all-trades-party-of-none/images/b/b0/Shion_Nasturtium.webp)<br>日语：シオン・ナスタチウム<br>出自作品:`yuusha party wo oidasareta kiyoubinbou` |  |
 | caroline inglaud | 卡罗琳·伊葛洛特 | ![](https://static.wikia.nocookie.net/jack-of-all-trades-party-of-none/images/2/26/Caroline_inglaud.webp)<br>日语：キャロライン・イングロッ<br>出自作品:`yuusha party wo oidasareta kiyoubinbou` |  |
 | rain hagwell | 莱恩·哈格韦尔 | ![](https://static.wikia.nocookie.net/jack-of-all-trades-party-of-none/images/5/5b/Rain_hagwell.webp)<br>日语：レイン・ハグウェル<br>出自作品:`yuusha party wo oidasareta kiyoubinbou` |  |
+| prisoner veronica | 囚犯维罗妮卡 | ![](https://ehgt.org/w/01/753/24300-kswyitxh.webp)<br>喜多川海梦COS的角色<br>出自作品:`sono bisque doll wa koi o suru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
