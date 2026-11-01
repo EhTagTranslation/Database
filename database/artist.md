@@ -15460,7 +15460,7 @@ example:
 | izumi uni | 出海うに |  | [FANZA](https://book.dmm.co.jp/list/?author=353394) |
 | siu | Siu |  | [pixiv](https://www.pixiv.net/users/9459043) \| [X](https://x.com/siu0207) \| [FANBOX](https://siu.fanbox.cc/) |
 | dosukebe kojikimaru | ドスケベ乞食丸 |  |  |
-| gendou kobayashi | ゲンドウコバヤシ |  |  |
+| gendou kobayashi | ゲンドウコバヤシ |  | [pixiv](https://www.pixiv.net/users/108830058) \| [X](https://x.com/genkoba666) \| [FANBOX](https://genkoba.fanbox.cc/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01026561.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=219943/) |
 | yumikichi | ユミキチ |  |  |
 | sukota | すこ太 |  | [pixiv](https://www.pixiv.net/users/36117365) \| [X](https://x.com/seikonsuco2) \| [FANBOX](https://sucosuco.fanbox.cc/) \| [Skeb](https://skeb.jp/@seikonsuco2) |
 | sawada yuusuke | サワダユウスケ |  |  |
