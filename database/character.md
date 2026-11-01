@@ -992,7 +992,7 @@ example:
 | saki kawasaki | 川崎沙希 |  |  |
 | keika kawasaki | 川崎桂花 |  |  |
 | yoshiteru zaimokuza | 材木座义辉 |  |  |
-| yukino yukinoshita | 雪之下雪乃 | ![](https://img.moegirl.org.cn/common/5/51/Yukino1.png)<br>所属作品：`yahari ore no seishun love come wa machigatteiru` | [萌娘百科](https://zh.moegirl.org.cn/雪之下雪乃) |
+| yukino yukinoshita | 雪之下雪乃 | ![](https://static.wikia.nocookie.net/yahari/images/d/d3/Yukinoshita_casual_outfit.png)<br>所属作品：`yahari ore no seishun love come wa machigatteiru` | [萌娘百科](https://zh.moegirl.org.cn/雪之下雪乃) |
 | iroha isshiki | 一色彩羽 | ![](https://img.moegirl.org.cn/common/d/df/Isshiki_Iroha.png)<br>所属作品：`yahari ore no seishun love come wa machigatteiru` | [萌娘百科](https://zh.moegirl.org.cn/一色伊吕波) |
 | hayato hayama | 叶山隼人 | ![](https://static.wikia.nocookie.net/yahari/images/5/5a/Portal-hayato.png/revision/latest/scale-to-width-down/268?cb=20260103073353)<br>出自作品：`p:yahari ore no seishun love come wa machigatteiru`<br><br>叶山隼人是渡航所著轻小说《我的青春恋爱物语果然有问题》及衍生作品中登场的人物。 | [Fandom](https://oregairu.fandom.com/wiki/Hayato_Hayama) \| [萌娘百科](https://zh.moegirl.org.cn/叶山隼人) |
 | saika totsuka | 户冢彩加 | ![户冢彩加](https://ehgt.org/4d/b1/4db1072304b66f66fc8a641ecb908a7eefee63e7-854698-1920-2812-jpg_l.jpg) |  |
