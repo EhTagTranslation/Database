@@ -10509,7 +10509,7 @@ example:
 | tsurumaru tsuyoshi | 鹤丸刚志 | ![](https://static.wikia.nocookie.net/umamusume/images/b/bc/Tsurumaru_Tsuyoshi_%28Race%29.png)<br>出自作品:`uma musume pretty derby` |  |
 | momoko takamachi | 高町桃子 | ![](https://static.wikia.nocookie.net/nanoha/images/5/52/Momoko_Takamachi.png)<br>出自作品:`mahou shoujo lyrical nanoha` |  |
 | quint nakajima | 桂特·中岛 |  |  |
-| megane alpine | 梅格奴·阿尔菲诺 |  |  |
+| megane alpine | 梅格奴·阿尔菲诺 | ![](https://bkimg.cdn.bcebos.com/pic/c2fdfc039245d6880b9e663daac27d1ed31b248f)<br>出自作品:`mahou shoujo lyrical nanoha` |  |
 | keijun seiki | 轻巡栖鬼 | ![](https://static.wikia.nocookie.net/kancolle/images/9/96/Light_Cruiser_Demon_Full.png)<br>出自作品:`kantai collection` |  |
 | alicia forestlight | 亚莉希雅·福雷斯莱特 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/6/6a/Alicia_Dueling_Caster.png)<br>日语:アリシア・フォレストライト<br>出自作品:`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
 | otonari-san | 邻居小姐 | ![](https://static.wikia.nocookie.net/sasaki-and-peeps/images/1/1b/67712-1234683693.png)<br>出自作品:`sasaki to p-chan` |  |
