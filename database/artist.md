@@ -9337,7 +9337,7 @@ example:
 | pukkunn | ぷっくん |  |  |
 | punita | ぷにた |  |  |
 | puniyama meroro | ぷにやまめろろ |  |  |
-| punyon | プニョン |  |  |
+| punyon | プニョン |  | [pixiv](https://www.pixiv.net/users/14248629) \| [X](https://x.com/puyo_momo) \| [FANBOX](https://punyon.fanbox.cc/) \| [Misskey.io](https://misskey.io/@puyo_momo) |
 | puranpuman | ぷらんぷまん |  | [pixiv](https://www.pixiv.net/users/237934) |
 | purapa | ぷらぱ |  |  |
 | pureinn | pureinn |  |  |
