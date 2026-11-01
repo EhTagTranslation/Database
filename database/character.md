@@ -10519,6 +10519,7 @@ example:
 | masaki kurosaki | 黑崎真咲 | ![](https://static.wikia.nocookie.net/bleach/images/4/40/Masaki_Anime_Fullbody.png)<br>出自作品:`bleach` |  |
 | arclight | 弧光 | ![](https://bkimg.cdn.bcebos.com/pic/728da9773912b31bb05119d48945217adab44bed4b82)<br>本名：伊库特<br>出自作品:`arknights endfield` |  |
 | shion nasturtium | 紫苑·金莲花 | ![](https://static.wikia.nocookie.net/jack-of-all-trades-party-of-none/images/b/b0/Shion_Nasturtium.webp)<br>日语：シオン・ナスタチウム<br>出自作品:`yuusha party wo oidasareta kiyoubinbou` |  |
+| caroline inglaud | 卡罗琳·伊葛洛特 | ![](https://static.wikia.nocookie.net/jack-of-all-trades-party-of-none/images/2/26/Caroline_inglaud.webp)<br>日语：キャロライン・イングロッ<br>出自作品:`yuusha party wo oidasareta kiyoubinbou` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
