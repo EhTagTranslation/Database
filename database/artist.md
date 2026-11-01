@@ -2148,7 +2148,7 @@ example:
 | a-teru haito | A辉废都 |  |  |
 | kusumoto toka | 楠元とうか |  |  |
 | utatane hiroyuki | うたたねひろゆき |  |  |
-| chuuka naruto | 中華なると |  |  |
+| chuuka naruto | 中華なると |  | [X](https://x.com/chuka_naruto) \| [FC2](http://naruto4848.blog100.fc2.com/) |
 | area | Area |  |  |
 | kruth666 | Kruth666 |  |  |
 | f4u | F4U |  |  |
