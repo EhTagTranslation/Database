@@ -10507,7 +10507,7 @@ example:
 | makoto takiya | 泷谷真 | ![](https://static.wikia.nocookie.net/maid-dragon/images/f/fe/Takiyainfo.png)<br>出自作品:`kobayashi-san-chi no maid dragon` |  |
 | mamushi amakawa | 天川真梦梓 | ![](https://static.wikitide.net/astralpartywiki/thumb/d/d5/Amakawa_Mamushi_Full.png/316px-Amakawa_Mamushi_Full.png)<br>出自作品:`astral party` |  |
 | tsurumaru tsuyoshi | 鹤丸刚志 | ![](https://static.wikia.nocookie.net/umamusume/images/b/bc/Tsurumaru_Tsuyoshi_%28Race%29.png)<br>出自作品:`uma musume pretty derby` |  |
-| momoko takamachi | 高町桃子 |  |  |
+| momoko takamachi | 高町桃子 | ![](https://static.wikia.nocookie.net/nanoha/images/5/52/Momoko_Takamachi.png)<br>出自作品:`mahou shoujo lyrical nanoha` |  |
 | quint nakajima | 桂特·中岛 |  |  |
 | megane alpine | 梅格奴·阿尔菲诺 |  |  |
 | keijun seiki | 轻巡栖鬼 | ![](https://static.wikia.nocookie.net/kancolle/images/9/96/Light_Cruiser_Demon_Full.png)<br>出自作品:`kantai collection` |  |
