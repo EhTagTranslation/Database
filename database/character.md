@@ -2302,7 +2302,7 @@ example:
 | sailor moon | 水手月亮 | ![](https://ehgt.org/w/02/090/60329-75ajnzb8.webp)<br>所属作品：`p:sailor moon`<br>月野兔（つきのうさぎ） |  |
 | sailor chibi moon | 水手小月亮 | ![](https://ehgt.org/w/02/096/98626-juwuhxpr.webp)<br>所属作品：`p:sailor moon`<br>小小兔（ちびうさ） |  |
 | sailor mercury | 水手水星 | ![](https://ehgt.org/w/02/090/60330-nmavj7le.webp)<br>所属作品：`p:sailor moon`<br>水野亚美（みずの あみ） |  |
-| sailor mars | 水手火星 | ![](https://bkimg.cdn.bcebos.com/smart/d058ccbf6c81800a19d8bf263e6124fa828ba61ee9c5-bkimg-process,v_1,rw_3,rh_4,maxl_284)<br>本名：火野丽（火野 レイ/Rei Hino）<br>所属作品：`p:sailor moon` |  |
+| sailor mars | 水手火星 | ![](https://static.wikia.nocookie.net/sailormoon/images/b/be/Rei_Hino_Sailor_Mars_Sailor_Form_-_Anime.png)<br>本名：火野丽（火野 レイ/Rei Hino）<br>所属作品：`p:sailor moon` |  |
 | sailor jupiter | 水手木星 | ![](https://ehgt.org/w/02/105/01948-9ft424gc.webp)<br>所属作品：`p:sailor moon`<br>木野真琴（木野 まこと） |  |
 | sailor venus | 水手金星 | ![](https://ehgt.org/w/02/090/60509-dhgmexbb.webp)<br>所属作品：`p:sailor moon`<br>爱野美奈子（あいの みなこ） |  |
 | sailor saturn | 水手土星 | ![](https://ehgt.org/w/01/907/05353-2vqr2tx4.webp)<br>所属作品：`p:sailor moon`<br>土萌萤（ともえほたる） |  |
