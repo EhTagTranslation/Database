@@ -4949,7 +4949,7 @@ example:
 | lloyd bannings | 罗伊德·班宁斯 |  | [轨迹系列 – Cafe](https://trails-game.com/character/lloyd-bannings/)<br>[萌娘百科](https://zh.moegirl.org.cn/罗伊德·班宁斯)<br>[百度百科](https://baike.baidu.com/item/罗伊德·班宁斯)<br>[Fandom](https://kiseki.fandom.com/wiki/Lloyd)<br>[BILIGAME WIKI](https://wiki.biligame.com/kiseki/罗伊德·班宁斯) |
 | agnes claudel | 亚妮艾丝·克劳蒂尔 | ![](https://static.wikia.nocookie.net/kiseki/images/0/08/Agnes_Claudel_%28Kuro_II%29.webp)<br>所属作品：`the legend of heroes` | [轨迹系列 - Café](https://trails-game.com/character/agnes-claudel/)<br>[Fandom](https://kiseki.fandom.com/wiki/Agnes_Claudel)<br>[BILIGAME WIKI](https://wiki.biligame.com/kiseki/亚妮艾丝·克劳蒂尔) |
 | lorelei | 科拿 | 石英高原四天王 | [神奇宝贝百科](https://wiki.52poke.com/zh-hans/科拿) |
-| fern | 菲伦 | ![](https://static.wikia.nocookie.net/p__/images/f/f6/Frieren_anime_-_Fern_anime_profile_2.webp)<br>日语：フェルン<br>出自作品:`sousou no frieren` | [萌娘百科](https://zh.moegirl.org.cn/菲伦) |
+| fern | 菲伦 | ![](https://bkimg.cdn.bcebos.com/smart/6a63f6246b600c338744de4be115460fd9f9d62a0ba4-bkimg-process,v_1,rw_750,rh_683,maxl_553)<br>日语：フェルン<br>出自作品:`sousou no frieren` | [萌娘百科](https://zh.moegirl.org.cn/菲伦) |
 | cure sky | 索拉·哈雷瓦塔尔（天空天使） | ![](https://static.wikia.nocookie.net/prettycure/images/d/d5/Sky_Sora_Profile.png)<br>所属作品: `p:hirogaru sky precure`<br>日语：ソラ・ハレワタール | [Fandom](https://prettycure.fandom.com/wiki/Sora_Harewataru) [维基百科](https://zh.wikipedia.org/wiki/開闊天空！光之美少女) |
 | chiyari tenkajin | 天火人血枪 | 天火人血枪是日本的“`p:touhou project`”系列弹幕游戏及其衍生作品的登场角色之一。<br><br>首次登场于《东方兽王园》，作为可选自机与敌机登场。 | [萌娘百科](https://zh.moegirl.org.cn/天火人血枪) [THBWiki](https://thwiki.cc/天火人血枪) |
 | ai sugimoto | 杉本爱 | 画师`a:ozaki miray`创造的角色，在The Great Escape、Nearest To Real LOVE、秘密等多部作品中出场。 |  |
