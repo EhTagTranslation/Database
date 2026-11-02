@@ -1290,7 +1290,7 @@ example:
 | len kagamine | 镜音连 |  |  |
 | rin kagamine | 镜音铃 |  |  |
 | haku yowane | 弱音白 |  |  |
-| gumi | GUMI |  |  |
+| gumi | GUMI | ![](https://bkimg.cdn.bcebos.com/pic/6159252dd42a2834349b2a6c4aecdeea15ce36d31119)<br>所属公司:`vocaloid` |  |
 | akari kizuna | 绁星灯 | ![](https://static.wikia.nocookie.net/vocaloid/images/9/9b/Akari_V6.png/revision/latest/scale-to-width-down/267?cb=20250531040152)<br><br>绁（xiè）星灯（日语：紲星あかり / きずなあかり，罗马字：Kizuna Akari）是基于声优米泽圆的声音制作的声音合成软件系列及其角色形象。拥有VOICEROID、A.I.VOICE等语音声库，VOCALOID等歌唱声库以及voidol、Seiren Voice等变声器可选声线。 | [Fandom](https://vocaloid.fandom.com/wiki/Kizuna_Akari) \| [萌娘百科](https://zh.moegirl.org.cn/绁星灯) |
 | yukari yuzuki | 结月缘 |  |  |
 | maki tsurumaki | 弦卷真纪 |  |  |
