@@ -10527,6 +10527,7 @@ example:
 | sakuno uryuu | 瓜生樱乃 | ![](https://t.vndb.org/ch/44/5144.jpg)<br>出自作品:`mashiro iro symphony` |  |
 | miu amaha | 天羽美雨 | ![](https://t.vndb.org/ch/48/5148.jpg)<br>出自作品:`mashiro iro symphony` |  |
 | bemstar | 贝蒙斯坦 | ![](https://static.wikia.nocookie.net/ultra-kaiju-gk/images/9/91/Re-Bemstar.png)<br>出自作品:`kaiju girls` |  |
+| suzu fujibayashi | 藤林玲 | ![](https://static.wikia.nocookie.net/aselia/images/8/8d/Suzu_Status_%28ToP-NDX%29.png)<br>日语：藤林すず<br>出自作品:`tales of phantasia` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
