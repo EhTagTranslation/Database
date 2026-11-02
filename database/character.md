@@ -8637,7 +8637,7 @@ example:
 | alvida | 亚尔丽塔 | ![](https://static.wikia.nocookie.net/onepiece/images/c/cd/Alvida_Anime_Infobox.png)<br>所属作品：`one piece`<br>日语：アルビダ |  |
 | jewelry bonney | 乔艾莉·波妮 | ![](https://ehgt.org/w/01/988/81090-dw1er4t5.webp)<br>所属作品：`one piece` |  |
 | brandish u | 布兰缇什·μ | ![](https://static.wikia.nocookie.net/fairytail/images/5/50/Brandish%27_appearance.png)<br>所属作品：`fairy tail` |  |
-| ultear milkovich | 乌鲁蒂亚·米尔科维奇 | ![](https://ehgt.org/w/02/052/02993-mhr4syx6.webp)<br>所属作品：`fairy tail`<br>日语：ウルティア・ミルコビッチ |  |
+| ultear milkovich | 乌鲁蒂亚·米尔科维奇 | ![](https://static.wikia.nocookie.net/ultimate-adventures/images/6/63/Ultear_arriving.png)<br>日语：ウルティア・ミルコビッチ<br>所属作品：`fairy tail` |  |
 | irene belserion | 艾琳·贝尔塞利翁 | ![](https://static.wikia.nocookie.net/fairytail/images/4/4c/Irene%27s_appearance_anime.png)<br>所属作品：`fairy tail`<br>日文：アイリーン・ベルせリオン |  |
 | sherria blendy | 雪莉娅·布兰蒂 | ![](https://static.wikia.nocookie.net/fairytail/images/5/59/Sherria_proposal.png)<br>所属作品：`fairy tail`<br>日文：シェリア・ブレンディ |  |
 | cana alberona | 卡娜·阿尔贝罗纳 | ![](https://static.wikia.nocookie.net/vsbattles/images/2/25/Cana.png)<br>所属作品：`fairy tail`<br>日文：カナ・アルベローナ |  |
