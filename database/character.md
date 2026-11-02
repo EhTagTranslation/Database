@@ -2850,7 +2850,7 @@ example:
 | hakase shinonome | 东云博士 |  |  |
 | kobayashi | 小林 |  |  |
 | ririchiyo shirakiin | 白鬼院凛凛蝶 |  |  |
-| sana inui | 乾纱凪 |  |  |
+| sana inui | 乾纱凪 | ![](https://t.vndb.org/ch/55/5155.jpg)<br>出自作品:`mashiro iro symphony` |  |
 | nanachi | 娜娜奇 | 香喷喷毛茸茸软绵绵的娜娜奇。出自来自深渊（Made in Abyss) |  |
 | nursery rhyme | 童谣 | ![图](https://ehgt.org/99/2f/992f0159bbdba82a34eea536cdb7bb873b6f9a74-2693728-1024-1448-png_l.jpg)<br>![图](https://ehgt.org/b4/b8/b4b8e90cdb6dbac9a5e55fd3bcd6aee7d2d85cd5-1448018-1024-1456-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/童谣) [Mooncell](http://www.fgo.wiki/w/童谣) |
 | hasuki komai | 狛井莲季 | 狛井莲季是由金田阳介所创作的漫画《寄宿学校的朱丽叶》及其衍生作品的登场角色。黑犬公寓高等部二年级生，黑犬公寓监督生副长兼会计。 犬冢的青梅竹马，喜欢犬冢露壬雄，为了代替被赶下队长职位的战犯犬冢，由莲季担任一年级队长。 虽然得知犬冢喜欢朱丽叶·佩尔西亚并且在交往，不过并没有告诉其他人，但是却仍然喜欢着他。 戴上眼镜的时候性格会如同变了一个人，一个非常严厉的“教师”！ 最终话在自己决定的梦想以及拉格多尔的帮助下，成为了一名演员！<br>![狛井莲季](https://img.moegirl.org.cn/common/e/e5/EGXVVXnU8AUI5Ad.jpg)<br>![狛井莲季](https://img.moegirl.org.cn/common/6/61/狛井莲季人设图.jpg) | [狛井莲季 - 萌娘百科](https://zh.moegirl.org.cn/狛井莲季 "狛井莲季") |
