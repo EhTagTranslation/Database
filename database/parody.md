@@ -920,7 +920,7 @@ example:
 | star driver | STAR DRIVER 闪亮的塔科特 |  |  |
 |  | ↓传说 系列 |  |  |
 | tales of | 传说 |  |  |
-| tales of phantasia | 幻想传说 |  |  |
+| tales of phantasia | 幻想传说 | ![](https://lain.bgm.tv/r/400/pic/cover/l/db/bf/2695_Z2hju.jpg)<br>日语：テイルズ オブ ファンタジア |  |
 | tales of destiny | 宿命传说 |  |  |
 | tales of eternia | 永恒传说 |  |  |
 | tales of symphonia | 仙乐传说 | 《仙乐传说》是2003年8月在任天堂GameCube发行的日式电子角色扮演游戏。后传《仙乐传说 -拉塔特斯克的骑士-》于2008年在Wii推出。游戏与后传的高清再版合集于2013年，以《仙乐传说 编年史》名义在PlayStation 3发行。Steam版于2016年推出。 | [维基百科](https://zh.wikipedia.org/wiki/交響曲傳奇) |
