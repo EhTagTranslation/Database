@@ -10525,6 +10525,7 @@ example:
 | xiaolan | 小兰 | ![](https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/d/dd/Xiaolan_Anime_Design_Season_2.png)<br>出自作品:`kusuriya no hitorigoto` |  |
 | airi sena | 濑名爱理 | ![](https://t.vndb.org/ch/42/5142.jpg)<br>出自作品:`mashiro iro symphony` |  |
 | sakuno uryuu | 瓜生樱乃 | ![](https://t.vndb.org/ch/44/5144.jpg)<br>出自作品:`mashiro iro symphony` |  |
+| miu amaha | 天羽美雨 | ![](https://t.vndb.org/ch/48/5148.jpg)<br>出自作品:`mashiro iro symphony` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
