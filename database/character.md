@@ -6344,7 +6344,7 @@ example:
 | pardofelis | 帕朵菲利斯 | 崩坏三登场角色，逐火之蛾十二英桀末位。<br>名称来源为 拉丁语 felicitas somnium. (幸福之梦）。 |  |
 | maiden | 梅登 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b9/Maiden_%28Under_the_Sun%29_FB.png)<br>所属作品`p:goddess of victory nikke` | [gamekee](https://www.gamekee.com/nikke/tj/167401.html) |
 | cartethyia | 卡提希娅 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/e/e0/r52fa0bvjnd5dmtjwccpehvj3wtx24g.png/516px-角色_卡提希娅_立绘.png)<br>所属作品：`wuthering waves` | [萌娘百科](https://zh.moegirl.org.cn/卡提希娅)<br>[BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/卡提希娅) |
-| honami ichinose | 一之濑帆波 | ![](https://img.moegirl.org.cn/common/d/d1/Ichinose_2nd_side.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e` | [萌娘百科](https://zh.moegirl.org.cn/一之濑帆波) |
+| honami ichinose | 一之濑帆波 | ![二年级](https://img.moegirl.org.cn/common/d/d1/Ichinose_2nd_side.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e` | [萌娘百科](https://zh.moegirl.org.cn/一之濑帆波) |
 | himmel | 辛美尔 |  | [萌娘百科](https://zh.moegirl.org.cn/辛美尔) |
 | sense | 赞泽 |  |  |
 | oz vessalius | 奥兹‧贝萨流士 |  |  |
