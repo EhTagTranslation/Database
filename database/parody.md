@@ -3053,6 +3053,7 @@ example:
 | sasaki to p-chan | 佐佐木与文鸟小哔 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7a/54/393038_6qnY1.jpg)<br>![](https://lain.bgm.tv/r/400/pic/cover/l/fc/aa/486456_XO5B0.jpg)<br>日语：佐々木とピーちゃん |  |
 | isekai samurai | 异世界武士 | ![](https://lain.bgm.tv/r/400/pic/cover/l/34/57/421548_whwPa.jpg)<br>日语：異世界サムライ |  |
 | leadale no daichi nite | 里亚德录大地 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d9/eb/329014_660vh.jpg)<br>日语：リアデイルの大地にて |  |
+| ookami kakushi | ookami kakushi | ![](https://lain.bgm.tv/r/400/pic/cover/l/8b/b8/1706_60805.jpg)<br>日语：おおかみかくし |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
