@@ -2041,7 +2041,7 @@ example:
 | genjitsu shugi yuusha no oukoku saikenki | 现实主义勇者的王国重建记 |  | [维基百科](https://zh.wikipedia.org/wiki/現實主義勇者的王國重建記) |
 | zenless zone zero | ![](https://zenless.hoyoverse.com/favicon.ico)绝区零 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/01/30/73751405/33a8f482aa29229c685fa95f3b8852e2_5153736133290339563.png?x-oss-process=image/format,webp)<br>《绝区零》（日语：ゼンレスゾンゼロ，韩语：젠레스 존 제로）是米哈游开发的一款3D角色扮演类动作游戏。<br>简称 ZZZ。 | [萌娘百科](https://zh.moegirl.org.cn/绝区零) [国际服官网](https://zenless.hoyoverse.com) |
 | mato seihei no slave | 魔都精兵的奴隶 | ![](https://m.media-amazon.com/images/M/MV5BZGY3NTVhOWUtMDVmMy00OTIwLTkyYTMtYzQ5YjdmMDllODFkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg)<br>《魔都精兵的奴隶》（日语：魔都精兵のスレイブ）是Takahiro负责原作，竹村洋平负责作画的日本漫画。 | [维基百科](https://zh.wikipedia.org/wiki/魔都精兵的奴隸) |
-| bocchi the rock | 孤独摇滚！ | 《孤独摇滚！》（日语：ぼっち・ざ・ろっく！；英语：Bocchi the rock）是日本漫画家はまじあき创作的漫画作品，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/孤独摇滚！) |
+| bocchi the rock | 孤独摇滚！ | ![](https://lain.bgm.tv/r/400/pic/cover/l/e2/e7/328609_2EHLJ.jpg)<br>![](https://lain.bgm.tv/r/400/pic/cover/l/5b/9a/537409_w8wy0.jpg)<br>日语：ぼっち・ざ・ろっく！ | [萌娘百科](https://zh.moegirl.org.cn/孤独摇滚！) |
 | scp foundation | SCP基金会 | SCP基金会是一个虚构的特工组织，作为同名互联网接龙小说创作项目中的主要要素。在该虚构宇宙中，SCP基金会是一个跨国秘密组织，负责搜寻并收容各种具有异常属性的个体、地点或物体（统称为“异常”），其宗旨为“控制”（Secure），“收容”（Contain），“保护”（Protect）。在现实世界中，SCP基金会是一个基于网站社区的协同写作小说项目，其文章包含多种类型的元素和风格，如科学幻想、都市奇幻和恐怖小说。 | [维基百科](https://zh.wikipedia.org/wiki/SCP基金会) |
 | kinnikuman | 金肉人 |  | [维基百科](https://zh.wikipedia.org/wiki/金肉人) |
 | ever 17 | 时空轮回 | 《Ever17 —the out of infinity—》是由KID社制作的一部全年龄美少女游戏，是该公司无限轮回（Infinity）系列游戏中的第二部，同系列游戏还有《Never7》、《Remember11》、《Code18》。 | [萌娘百科](https://zh.moegirl.org.cn/Ever17) [维基百科](https://zh.wikipedia.org/wiki/Ever17_-the_out_of_infinity-) |
