@@ -10523,7 +10523,7 @@ example:
 | rain hagwell | 莱恩·哈格韦尔 | ![](https://static.wikia.nocookie.net/jack-of-all-trades-party-of-none/images/5/5b/Rain_hagwell.webp)<br>日语：レイン・ハグウェル<br>出自作品:`yuusha party wo oidasareta kiyoubinbou` |  |
 | prisoner veronica | 囚犯维罗妮卡 | ![](https://ehgt.org/w/01/753/24300-kswyitxh.webp)<br>喜多川海梦COS的角色<br>出自作品:`sono bisque doll wa koi o suru` |  |
 | xiaolan | 小兰 | ![](https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/d/dd/Xiaolan_Anime_Design_Season_2.png)<br>出自作品:`kusuriya no hitorigoto` |  |
-| airi sena | 瀬名愛理 |  |  |
+| airi sena | 濑名爱理 | ![](https://t.vndb.org/ch/42/5142.jpg)<br>出自作品:`mashiro iro symphony` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
