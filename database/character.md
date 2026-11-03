@@ -3060,7 +3060,7 @@ example:
 | moon | 美月 |  |  |
 | rosa | 鸣依 | ![](https://s1.52poke.com/wiki/thumb/e/e7/鸣依_B2W2.png/139px-鸣依_B2W2.png)<br>所属作品：`pokemon`<br>日文︰メイ | [Fandom](https://pokemon.fandom.com/wiki/Rosa)<br>[萌娘百科](https://zh.moegirl.org.cn/鸣依) |
 | ars almal | 阿露丝·阿尔玛 | 阿露丝·阿尔玛（アルス·アルマル / Ars almal）是隶属于彩虹社旗下的虚拟YouTuber，正式出道于2019年7月28日。 | [萌娘百科](https://zh.moegirl.org.cn/阿露丝·阿尔玛) |
-| elesa | 小菊儿 | ![](https://s1.52poke.com/wiki/thumb/2/29/小菊儿_B2W2.png/250px-小菊儿_B2W2.png)<br>所属作品：`pokemon`<br>日文︰カミツレ |  |
+| elesa | 小菊儿 | ![](https://static.wikia.nocookie.net/pokemon/images/4/40/Elesa_Black_2_and_White_2.png)<br>日文︰カミツレ<br>所属作品：`pokemon` |  |
 | selene | 美月 | ![](https://s1.52poke.com/wiki/thumb/6/6b/美月_USUM.png/225px-美月_USUM.png)<br>所属作品：`pokemon`<br>日文︰ミヅキ |  |
 | lillie | 莉莉艾 | ![](https://s1.52poke.com/wiki/thumb/4/42/莉莉艾_USUM.png/135px-莉莉艾_USUM.png)<br>所属作品：`pokemon`<br>日文︰リーリエ |  |
 | honoka | 穗香 | ![](https://static.wikia.nocookie.net/deadoralive/images/b/b5/C02_img.png)<br>所属作品：`dead or alive` |  |
