@@ -10350,7 +10350,7 @@ example:
 | rana furuhata | 古畑兰娜 | ![](https://static.wikia.nocookie.net/blue-archive/images/4/41/Rana_Portrait.png)<br>日语：古畑ラナ<br>出自作品:`blue archive` |  |
 | nemu fujimi | 富士见宁梦 | ![](https://lain.bgm.tv/r/400/pic/crt/l/a5/89/125509_crt_1WSwI.jpg)<br>出自作品:`onii-chan wa oshimai` |  |
 | oshiro mashiro | 大代真白 | ![](https://hololist.net/wp-content/uploads/2022/09/oshiro-mashiro-portrait-66-1.jpg)<br>所属企划：青桐高中 | [YouTube](https://www.youtube.com/channel/UCFG6teapZaN6J1oVXl7MYPA) |
-| kurumi fukuga | 福贺久留美 | ![](https://lain.bgm.tv/r/400/pic/crt/l/0a/84/136036_crt_RRQRj.jpg)<br>日语：福賀くるみ<br>外号：韭留美 |  |
+| kurumi fukuga | 福贺久留美 | ![](https://static.wikia.nocookie.net/fxkurumi/images/6/60/Main_kurumi.png)<br>日语：福賀くるみ<br>外号：韭留美<br>出自作品:`fx senshi kurumi-chan` |  |
 | charlotte lace | 夏洛特·莱斯 | ![](https://static.wikia.nocookie.net/reincarnated-as-an-aristocrat-with-appraisal-skill/images/5/53/Charlotte_Wraith_Visual.png)<br>日语：シャーロット・レイス<br>出自作品:`tensei kizoku kantei skill de nariagaru` |  |
 | leanan sidhe | 莲南·希 | ![](https://static.wikia.nocookie.net/mahou-tsukai-no-yome/images/f/f5/Redcurrant_Profile.png)<br>日语：リャナン・シー/レッドカラント<br>出自作品:`mahoutsukai no yome` |  |
 | chise hatori | 羽鸟智世 | ![](https://static.wikia.nocookie.net/pure-good-wiki/images/c/c8/Chise_Hatori_S2_Render.png)<br>日语：羽鳥チセ<br>出自作品:`mahoutsukai no yome` |  |
