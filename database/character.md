@@ -3313,7 +3313,7 @@ example:
 | yugo | 尤格 | 《约定的梦幻岛》避难所篇章配角之一 |  |
 | cecily cambell | 瑟希莉·坎贝尔 | 瑟希莉·坎贝尔是《圣剑锻造师》的女主角。生于历代骑士贵族之家，继承了父亲的剑，并成为了独立贸易都市哈斯曼自卫骑士团的新人骑士。红色短发，个性充满正义感，勇于挑战盗贼及犯罪者。语气非常认真的红发少女，坎贝尔家现任当主。“圣剑的剑鞘”的继承者。 | [百度百科](https://baike.baidu.com/item/瑟希莉·坎贝尔/9456466) |
 | skadi | 斯卡蒂 | ![](https://patchwiki.biligame.com/images/arknights/1/1d/qygfq794gfvyd4amopn94zl4ex2zsf5.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:斯卡蒂) |
-| suzuhara lulu | 铃原露露 | 铃原露露 （ 日语：鈴原るる / すずはら るるSuzuhara Lulu）是一名从2019年5月1日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。<br>![](# "https://ehgt.org/73/2b/732b603fd856f87c1bc0587262698c6646782f06-948652-827-1494-jpg_250.jpg") | [萌娘百科](https://zh.moegirl.org.cn/铃原露露) |
+| suzuhara lulu | 铃原露露 | ![](https://static.wikia.nocookie.net/omniversal-battlefield/images/7/70/Suzuhara_Lulu.png)<br>日语：鈴原るる / すずはら るる<br>出自团体:`nijisanji` | [YouTube](https://www.youtube.com/channel/UC_a1ZYZ8ZTXpjg9xUY9sj8w)<br>[萌娘百科](https://zh.moegirl.org.cn/铃原露露) |
 | otogibara era | 御伽原江良 | 御伽原 江良（おとぎばら えら）是于2019年3月10日在Youtube开始活动,隶属于彩虹社的虚拟Youtuber。已于活动二周年2021年3月10日引退。<br>![](# "https://ehgt.org/41/dd/41dd3d18999785d595e464aa93597fea87d4e73f-561732-2090-3022-jpg_250.jpg") | [萌娘百科](https://zh.moegirl.org.cn/御伽原江良) |
 | yorumi rena | 夜见蕾娜 | ![](https://ehgt.org/w/02/136/22324-03j4g5ra.webp)<br>所属社团：彩虹社<br>日语名：夜見れな / よるみ れな | [萌娘百科](https://zh.moegirl.org.cn/夜见蕾娜) |
 | yamagami karuta | 山神歌流多 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/2/2d/Yamagami_Karuta_-_New_Headshot_Crop.png)<br>所属社团：`nijisanji`<br>日语：山神 カルタ / やまがみ かるた | [萌娘百科](https://zh.moegirl.org.cn/山神歌流多) |
