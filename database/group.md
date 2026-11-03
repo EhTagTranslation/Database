@@ -13231,7 +13231,7 @@ example:
 | yuunagi promenade | 夕凪プロムナード |  |  |
 | nekketsu nezumojuku | 熱血ねずも塾 |  |  |
 | yawaraka toge robot | やわらかトゲロボット |  |  |
-| manjuu kowai | まんじゅうこわい |  |  |
+| manjuu kowai | まんじゅうこわい |  | [BOOTH](https://pizaman2.booth.pm/) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=211021/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01004320.html) |
 | natto cola | 納豆コーラ |  |  |
 | aizuki amagasaten | 藍月雨傘店 |  |  |
 | sin mal-chan doukoukai | シン·マールちゃん同好会 |  |  |
