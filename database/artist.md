@@ -15866,6 +15866,7 @@ example:
 | terada katsuya | 寺田克也 |  |  |
 | high cheese | はいちーず |  | [FANBOX](https://aueoi.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/20388267) |
 | nye | Nye |  | [pixiv](https://www.pixiv.net/users/18109279) \| [FANBOX](https://nyemadras.fanbox.cc/) \| [Skeb](https://skeb.jp/@nyemadras) \| [X](https://x.com/nyemadras) |
+| pizaman | Pizaman |  | [pixiv](https://www.pixiv.net/users/87932315) \| [X](https://x.com/Pizaman2238671) \| [Skeb](https://skeb.jp/@anman_standard) |
 
 <!--TEMPLATE:
 |  |  |  |  |
