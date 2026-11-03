@@ -3055,6 +3055,7 @@ example:
 | leadale no daichi nite | 里亚德录大地 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d9/eb/329014_660vh.jpg)<br>日语：リアデイルの大地にて |  |
 | ookami kakushi | ookami kakushi | ![](https://lain.bgm.tv/r/400/pic/cover/l/8b/b8/1706_60805.jpg)<br>日语：おおかみかくし |  |
 | jungle de ikou | 丛林跟我走！ | ![](https://bkimg.cdn.bcebos.com/pic/2e2eb9389b504fc2d56242b34087f01190ef76c6c748) |  |
+| balto | 小狗波图 | 别译：雪地灵犬 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
