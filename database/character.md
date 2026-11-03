@@ -1804,7 +1804,7 @@ example:
 |  | ▼ RWBY |  |  |
 | ruby rose | 露比·罗丝 | ![](https://ehgt.org/w/00/327/91880-rc400c3c.webp)<br>出自作品：`p:rwby`<br><br>Ruby Rose是美国 Rooster Teeth Productions（公鸡牙齿动画工作室） RWBY团队所创作的动画《RWBY》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/Ruby_Rose) |
 | weiss schnee | 魏丝·雪倪 | ![](https://static.wikia.nocookie.net/rwby/images/5/5c/WeissSchnee-V5C2.png)<br>所属作品：`rwby` |  |
-| blake belladonna | 布蕾克·贝拉多娜 |  |  |
+| blake belladonna | 布蕾克·贝拉多娜 | ![](https://bkimg.cdn.bcebos.com/pic/2e2eb9389b504fc2ddc9fe1ee7dde71190ef6d12)<br>出自作品:`rwby` |  |
 | yang xiao long | 阳小龙 |  |  |
 |  | ▼ 魔法科高中的劣等生 |  |  |
 | erika chiba | 千叶艾莉卡 | ![](https://static.wikia.nocookie.net/mahouka-koukou-no-rettousei/images/6/62/Chiba-Erika-GM-RM-Fullbody.png)<br>日语：千葉 エリカ<br>出自作品：`mahouka koukou no rettousei` | [萌娘百科](https://zh.moegirl.org.cn/千叶艾莉卡) |
