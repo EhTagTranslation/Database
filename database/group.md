@@ -14374,7 +14374,7 @@ example:
 | mishirosabi | 三代錆 |  |  |
 | funya milk | ふにゃみるく |  |  |
 | ill be bear | I’ll be BEAR |  |  |
-| tokushuyokujou tondenhei | 特殊浴場屯田兵 |  |  |
+| tokushuyokujou tondenhei | 特殊浴場屯田兵 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG18267.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204486/) \| [Ci-en](https://ci-en.dlsite.com/creator/22547) |
 | bimi to no souguu | 美味との遭遇 |  |  |
 | nobotchi seisakusho | ノボッチ製作所 |  |  |
 | touou | トウオウ |  |  |
