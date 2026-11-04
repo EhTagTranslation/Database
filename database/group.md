@@ -14401,6 +14401,7 @@ example:
 | tomosaka | ともさか |  |  |
 | y no kobako | Yの小箱 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=205031/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG69744.html) |
 | kurukuru ponzu | くるくるポン酢 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57930.html) |
+| syrup | シロップ | ![](https://www.syrup-soft.com/mm/img/logo.png) | [官网](https://www.syrup-soft.com/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
