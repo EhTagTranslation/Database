@@ -12817,7 +12817,7 @@ example:
 | shoshosho frontier | 処庶所フロンティア |  |  |
 | teishibou new | 低脂肪NEW |  |  |
 | shimasoft | しまそふと |  |  |
-| littlehopper | りとるほっぱー |  |  |
+| littlehopper | りとるほっぱー |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79546/) |
 | sakaetenai desu. | さかえてないです。 |  |  |
 | ebiten kaido | 海老天街道 |  |  |
 | negiyashiki | ねぎやしき |  |  |
