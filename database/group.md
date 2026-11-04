@@ -14400,6 +14400,7 @@ example:
 | mei no haha | めいの母 | めいの母 （めいのはは） | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=223333/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01038193.html) \| [FANBOX](https://meinohaha.fanbox.cc/) \| [X](https://x.com/meinohaha_) |
 | tomosaka | ともさか |  |  |
 | y no kobako | Yの小箱 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=205031/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG69744.html) |
+| kurukuru ponzu | くるくるポン酢 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57930.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
