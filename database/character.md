@@ -9816,7 +9816,7 @@ example:
 | yuki osanai | 小佐内由纪 | ![](https://lain.bgm.tv/r/400/pic/crt/l/1a/22/150624_crt_suCuN.jpg?r=1724765521)<br>所属作品：`shoushimin series`<br>日语：小佐内ゆき |  |
 | kyoko otonashi | 音无响子 | ![](https://static.wikia.nocookie.net/maisonikkoku/images/e/ea/Kyoko_27-96.png/revision/latest?cb=20191125223910)<br>所属作品:`maison ikkoku`<br>音无响子旧姓千草，高中毕业半年后嫁给音无惣一郎。在结婚不到半年后，丈夫因车祸去世，无法从悲痛中解脱的音无响子接管了公公的房产一刻馆，成为这栋破旧公寓的管理员。 | [百度百科](https://baike.baidu.com/item/音无响子/6273245) |
 | alyosha | 阿罗夏 | ![](https://static.wikia.nocookie.net/gensin-impact/images/6/6b/Alyosha_Card.png)<br>所属作品：`genshin impact` |  |
-| touka tsuyuri | 栗花落桃华 | ![](https://static.wikia.nocookie.net/lonely-attack/images/f/f9/Light_Novel_Vol_5_cover_text-less.jpg)<br>所属作品：`hitoribocchi no isekai kouryaku` |  |
+| touka tsuyuri | 栗花落桃华 | ![](https://bocchi-kouryaku.com/assets/character/classRep/main.png)<br>所属作品：`hitoribocchi no isekai kouryaku` |  |
 | hameko yurufuwa tenshi | 松松软软\*天使·性子 | ![](https://yanineko-anime.com/wp/wp-content/themes/yanineko-theme/images/chara-pic03.webp)<br>所属作品:`yanineko`<br>性爱喵喵 |  |
 | white fox | 白狐 | ![](https://static.wikia.nocookie.net/marveldatabase/images/8/8b/Death_of_Doctor_Strange_White_Fox_Vol_1_1_Textless.jpg)<br>所属作品：`agents of atlas` |  |
 | mio fuyutsuki | 冬月美樱 | ![](https://static.wikia.nocookie.net/kurikamicity/images/3/3f/Fuyutsuki.png)<br>所属作品：`koori zokusei danshi to cool na douryou joshi`<br>日语：冬月さん |  |
