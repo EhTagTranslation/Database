@@ -3058,6 +3058,7 @@ example:
 | balto | 小狗波图 | 别译：雪地灵犬 |  |
 | mezametara saikyou soubi to uchuusenmochi | 一觉醒来坐拥神装和飞船 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3e/fc/536270_51P45.jpg)<br>全名：一觉醒来坐拥神装和飞船，我决定以买一套独门独户的房子为目标作为佣兵自由地活下去<br>日语：目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい |  |
 | sentai daishikkaku | 战队大失格 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b1/aa/407234_08YvF.jpg)<br>日语：戦隊大失格 |  |
+| ulysses jeanne darc to renkin no kishi | 尤利西斯 贞德与炼金骑士 | ![](https://lain.bgm.tv/r/400/pic/cover/l/99/dc/227098_vSD12.jpg)<br>日语：ユリシーズ ジャンヌ・ダルクと錬金の騎士 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
