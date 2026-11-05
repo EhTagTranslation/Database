@@ -916,7 +916,7 @@ example:
 | robot girls z | 机器人少女Z |  |  |
 | akibas trip | 秋叶原之旅 |  |  |
 | bravely default | 勇气默示录 |  |  |
-| madan no ou to vanadis | 魔弹之王与战姬 |  |  |
+| madan no ou to vanadis | 魔弹之王与战姬 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8f/00/79229_FyOph.jpg)<br>日语：魔弾の王と戦姫 |  |
 | star driver | STAR DRIVER 闪亮的塔科特 |  |  |
 |  | ↓传说 系列 |  |  |
 | tales of | 传说 |  |  |
