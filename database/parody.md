@@ -2659,7 +2659,7 @@ example:
 | clevatess majuu no ou to akago to shikabane no yuusha | 克雷瓦提斯-魔兽之王与婴儿与尸之勇者 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2922516332.webp)<br>岩原裕二创作的漫画作品，并有同名改编动画。 |  |
 | towa no yugure | 永远的黄昏 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924706046.webp)<br>《永远的黄昏》（外文名：永久のユウグレ/Dusk Beyond the End of the World/영원한 황혼）是由津田尚克自编自导、齐藤佳子负责角色设计、P.A.WORKS负责动画制作的原创电视动画作品。 |  |
 | hachi-nan tte sore wa nai deshou | 八男？别闹了！ | ![](https://img9.doubanio.com/view/subject/s/public/s28680275.jpg)<br>《八男？别闹了！》是由日本作家Y.A创作的轻小说，并有同名改编动画。 |  |
-| hazure skill kinomi master | 最弱技能 “果实大师” | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2915577372.webp)<br>全名 最弱技能《果实大师》 ～关于能无限食用技能果实(吃了就会死)这件事～ |  |
+| hazure skill kinomi master | 最弱技能 “果实大师” | ![](https://lain.bgm.tv/r/400/pic/cover/l/6e/39/497909_1cEES.jpg)<br>全名：最弱技能《果实大师》 ～关于能无限食用技能果实(吃了就会死)这件事～<br>日语：外れスキル《木の実マスター》 ～スキルの実（食べたら死ぬ）を無限に食べられるようになった件について～ |  |
 | princess evangile | 福音公主 |  |  |
 | grancrest senki | 皇帝圣印战记 | ![](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2508675489.webp)<br>《皇帝圣印战记》是由水野良创作、深遊负责插画的轻小说，并有同名改编动画。 |  |
 | tomodachi no imouto ga ore ni dake uzai | 朋友的妹妹只喜欢烦我 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924616384.webp)<br>《朋友的妹妹只喜欢烦我》是三河ごーすと创作的轻小说作品，并有同名改编漫画和动画。 |  |
