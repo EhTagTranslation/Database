@@ -10540,6 +10540,7 @@ example:
 | futaba kuroe | 黑江双叶 | ![](https://static.wikia.nocookie.net/worldtrigger/images/c/c2/Futaba_Kuroe_%28manga%29_2.png)<br>出自作品:`world trigger` |  |
 | reliared silver | 蕾莉亚萝德·席尔瓦 | ![](https://static.tvtropes.org/pmwiki/pub/images/reliared_silver.png)<br>日语：レリアレッド・シルヴァー<br>出自作品:`kyouran reijou nia liston` |  |
 | hildetaura altoire | 希尔德朵菈·阿鲁特瓦尔 | ![](https://static.tvtropes.org/pmwiki/pub/images/hildetaura_altoire.png)<br>出自作品:`kyouran reijou nia liston` |  |
+| calca bessarez | 卡尔嘉·贝萨雷斯 | ![](https://static.wikia.nocookie.net/overlordmaruyama/images/7/7a/Calca_%28Anime%29.png)<br>日语：カルカ・ベサーレス<br>出自作品:`overlord` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
