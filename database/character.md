@@ -2977,7 +2977,7 @@ example:
 | nadeshiko kagamihara | 各务原抚子 | 各务原抚子（各務原なでしこ）是由日本漫画家あfろ所创作的漫画《`yuru camp`》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/各务原抚子) |
 | rin shima | 志摩凛 | 志摩凛（志摩リン）是由日本漫画家あfろ所创作的漫画《摇曳露营△》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/志摩凛) |
 | chiaki oogaki | 大垣千明 | 大垣千明（大垣千明）是由日本漫画家あfろ所创作的漫画《摇曳露营△》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/大垣千明) |
-| aoi inuyama | 犬山葵 | 犬山葵（犬山あおい）是由日本漫画家あfろ所创作的漫画《摇曳露营△》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/犬山葵) |
+| aoi inuyama | 犬山葵 | ![](https://static.wikia.nocookie.net/yuru-camp/images/3/30/Yurucamp-aoi-character_4main.png)<br>日语：犬山あおい<br>出自作品:`yuru camp` | [萌娘百科](https://zh.moegirl.org.cn/犬山葵) |
 | ena saitou | 齐藤惠那 | 齐藤惠那（斉藤恵那）是由日本漫画家あfろ所创作的漫画《摇曳露营△》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/齐藤惠那) |
 | sugumi kanagata | 金潟直美 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/3/31/khko7qd6642fyqr82eaynys3isfls8w.png) | [アリス・ギア・アイギス 攻略 Wiki](https://wikiwiki.jp/alicegear/金潟すぐみ)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/金潟_すぐみ) |
 | yasuri araime | 新居目安里 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/5/50/3kyx3dg897dwcgjejr5spzsom94w6c7.png) | [アリス・ギア・アイギス 攻略 Wiki](https://wikiwiki.jp/alicegear/新居目安里)<br>[BILIGAME WIKI](https://wiki.biligame.com/aga/新居目_安里) |
