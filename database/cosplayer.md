@@ -201,6 +201,7 @@ example:
 | nangong | 南宫 |  | [X](https://x.com/nangongOVO) |
 | shika xiaolu lu | Shika小鹿鹿 |  | [微博](https://weibo.cn/u/5259369874) |
 | qiuhe keji | 秋和柯基 |  |  |
+| tiny asa | Tiny Asa | Tiny Asa（アサ）是一位来自越南的人气 Cosplayer兼时尚写真模特。 | [Instagram](https://www.instagram.com/tiny_asa_/) |
 
 <!--
 Template: 
