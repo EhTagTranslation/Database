@@ -10529,6 +10529,7 @@ example:
 | bemstar | 贝蒙斯坦 | ![](https://static.wikia.nocookie.net/ultra-kaiju-gk/images/9/91/Re-Bemstar.png)<br>出自作品:`kaiju girls` |  |
 | suzu fujibayashi | 藤林玲 | ![](https://static.wikia.nocookie.net/aselia/images/8/8d/Suzu_Status_%28ToP-NDX%29.png)<br>日语：藤林すず<br>出自作品:`tales of phantasia` |  |
 | fuuka kiryuuin | 鬼龙院枫花 | ![](https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/6/68/Fūka_Kiryūin_LN_Visual.png)<br>出自作品:`youkoso jitsuryoku shijou shugi no kyoushitsu e` |  |
+| mimi | 米米 | ![](https://lain.bgm.tv/r/400/pic/crt/l/88/04/206255_crt_O41d4.jpg)<br>日语：ミミ<br>出自作品:`mezametara saikyou soubi to uchuusenmochi` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
