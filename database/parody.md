@@ -3056,7 +3056,7 @@ example:
 | ookami kakushi | ookami kakushi | ![](https://lain.bgm.tv/r/400/pic/cover/l/8b/b8/1706_60805.jpg)<br>日语：おおかみかくし |  |
 | jungle de ikou | 丛林跟我走！ | ![](https://bkimg.cdn.bcebos.com/pic/2e2eb9389b504fc2d56242b34087f01190ef76c6c748) |  |
 | balto | 小狗波图 | 别译：雪地灵犬 |  |
-| mezametara saikyou soubi to uchuusenmochi | 一觉醒来就有了最强装备跟太空船 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3e/fc/536270_51P45.jpg)<br>全名：一觉醒来就有了最强装备跟太空船 决定以自家独栋建筑为目标当佣兵自由过活<br>日语：目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい |  |
+| mezametara saikyou soubi to uchuusenmochi | 一觉醒来坐拥神装和飞船 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3e/fc/536270_51P45.jpg)<br>全名：一觉醒来坐拥神装和飞船，我决定以买一套独门独户的房子为目标作为佣兵自由地活下去<br>日语：目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
