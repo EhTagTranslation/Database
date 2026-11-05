@@ -2354,7 +2354,7 @@ example:
 | ore dake haireru kakushi dungeon | 只有我能进入的隐藏迷宫 | 只有我能进入的隐藏迷宫～低调锻炼化身世界最强～ | [维基百科](https://zh.wikipedia.org/wiki/只有我能進入的隱藏迷宮) [萌娘百科](https://zh.moegirl.org.cn/只有我能进入的隐藏迷宫～低调锻炼化身世界最强～) |
 | yumemiru danshi wa genjitsushugisha | 满怀美梦的少年是现实主义者 |  | [维基百科](https://zh.wikipedia.org/wiki/滿懷美夢的少年是現實主義者) [萌娘百科](https://zh.moegirl.org.cn/满怀美梦的少年是现实主义者) |
 | solo leveling | 我独自升级 | ![](https://static.wikia.nocookie.net/solo-leveling/images/b/bf/Solo_Leveling_Returns.png)<br>《我独自升级》是由韩国作家Chugong担任原作、原案的小说，并有漫画、动画等衍生作品。 | [维基百科](https://zh.wikipedia.org/wiki/我獨自升級) [维基百科](https://zh.wikipedia.org/wiki/我獨自升級_%28動畫%29) [萌娘百科](https://zh.moegirl.org.cn/我独自升级) |
-| lv2 kara cheat datta motoyuusha kouho no mattari isekai life | 从Lv2开始开外挂的前勇者候补过着悠哉异世界生活 |  | [维基百科](https://zh.wikipedia.org/wiki/從Lv2開始開外掛的前勇者候補過著悠哉異世界生活) [萌娘百科](https://zh.moegirl.org.cn/从Lv2开始开外挂的前勇者候补过着悠哉异世界生活) |
+| lv2 kara cheat datta motoyuusha kouho no mattari isekai life | 从Lv2开始开外挂的前勇者候补过着悠哉异世界生活 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ed/46/459725_Ur6Ap.jpg)<br>日语：Lv2からチートだった元勇者候補のまったり異世界ライフ | [维基百科](https://zh.wikipedia.org/wiki/從Lv2開始開外掛的前勇者候補過著悠哉異世界生活) [萌娘百科](https://zh.moegirl.org.cn/从Lv2开始开外挂的前勇者候补过着悠哉异世界生活) |
 | one room hiatari futsuu tenshi-tsuki | 单人房、日照一般、附天使 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c5/36/457945_0107Z.jpg)<br>日语：ワンルーム、日当たり普通、天使つき | [维基百科](https://zh.wikipedia.org/wiki/單人房、日照一般、附天使。) [萌娘百科](https://zh.moegirl.org.cn/单人房、日照一般、附天使。) |
 | shukufuku no campanella | 祝福的钟声 |  |  |
 | wonderland wars | Wonderland Wars |  |  |
