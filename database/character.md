@@ -5960,7 +5960,7 @@ example:
 | ryoutarou tsuboi | 壶井辽太郎（克莱因） | ![](https://static.wikia.nocookie.net/swordartonline/images/5/5b/Klein%27s_SAO_Avatar_Full_Body.png)<br>所属作品：`sword art online`<br>日语：壷井遼太郎 | [萌娘百科](https://zh.moegirl.org.cn/壶井辽太郎) |
 | masazumi honda | 本多·正纯 |  |  |
 | shizuku lulu | 雫Lulu | 雫るる |  |
-| rumia tingel | 露米娅·汀洁尔 | ![](https://ehgt.org/w/01/803/72579-37xpolj3.webp)<br>所属作品: `p:rokudenashi majutsu koushi to akashic records`<br>日语：ルミア＝ティンジェル | [萌娘百科](https://zh.moegirl.org.cn/露米娅·汀洁尔) |
+| rumia tingel | 露米娅·汀洁尔 | ![](https://static.wikia.nocookie.net/fantasia-rebuild/images/0/0a/041_1.png)<br>日语：ルミア＝ティンジェル<br>所属作品: `p:rokudenashi majutsu koushi to akashic records` | [萌娘百科](https://zh.moegirl.org.cn/露米娅·汀洁尔) |
 | sistine fibel | 希丝缇娜·菲伊贝鲁 | ![](https://static.wikia.nocookie.net/rokuaka/images/e/ef/Character_Anime-Sistine.png)<br>所属作品: `p:rokudenashi majutsu koushi to akashic records`<br>日语：システィーナ＝フィーベル | [萌娘百科](https://zh.moegirl.org.cn/希丝缇娜·菲伊贝鲁) |
 | akame | 赤瞳 | ![](https://static.wikia.nocookie.net/akamegakill/images/d/df/Akame_main.png)<br>所属作品：`akame ga kill` |  |
 | erza scarlet | 艾露莎·舒卡勒托 | ![](https://static.wikia.nocookie.net/fairytail/images/9/9c/Erza_2018.png)<br>所属作品：`fairy tail`<br>日文：(エルザ・スカーレット |  |
