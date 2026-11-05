@@ -2190,7 +2190,7 @@ example:
 | natsuiro kiseki | 夏色奇迹 |  |  |
 | slam dunk | 灌篮高手 | 《灌篮高手》是日本漫画家井上雄彦创作的以高中篮球为题材的励志型漫画，是《周刊少年Jump》全白金时代（20世纪90年代上半叶）三大台柱漫画之一，也是日本历史上销量最高的漫画之一。上世纪90年代，《灌篮高手》被引进中国，成为在中国影响最深远的动漫作品之一。 | [维基百科](https://zh.wikipedia.org/wiki/灌篮高手) [萌娘百科](https://zh.moegirl.org.cn/灌篮高手) |
 | tenshi souzou re-boot | 天使☆嚣嚣 RE-BOOT! | 《天使☆嚣嚣 RE-BOOT!》是由`yuzu soft`制作的Galgame，于2023年4月28日发售。 | [萌娘百科](https://zh.moegirl.org.cn/天使嚣嚣) [维基百科](https://zh.wikipedia.org/wiki/天使☆囂囂_RE-BOOT!) [HP](https://www.yuzu-soft.com/products/ten_sz/) |
-| 2.5-jigen no yuuwaku | 2.5次元的诱惑 | 《2.5次元的诱惑》（日语：2.5次元の誘惑）是由桥本悠创作的一部漫画。<br>2022年12月10日，宣布TV动画制作决定。于2024年7月5日播出。<br>![](https://img.moegirl.org.cn/common/thumb/6/6b/Ririsa_KV3.jpg/450px-Ririsa_KV3.jpg) | [萌娘百科](https://zh.moegirl.org.cn/2.5次元的诱惑) |
+| 2.5-jigen no yuuwaku | 2.5次元的诱惑 | ![](https://lain.bgm.tv/r/400/pic/cover/l/53/13/410346_MmQCm.jpg)<br>日语：2.5次元の誘惑 | [萌娘百科](https://zh.moegirl.org.cn/2.5次元的诱惑) |
 | golden boy | 黄金小子 | ![黄金小子](https://upload.wikimedia.org/wikipedia/en/a/ac/Golden_Boy_volume_1_cover_jap.png)<br>作者：日本漫画家江川达也 | [维基百科](https://zh.wikipedia.org/wiki/黃金小子) |
 | valorant | 无畏契约 | 《无畏契约》又名瓦罗兰特，是由Riot Games开发及营运的第一人称射击游戏。<br>是基于团队的射击游戏以及第一人称射击游戏，经典玩法采取五打五的爆破模式，亦有其他原创模式供玩家选择。 | [官网](https://val.qq.com/main.html) |
 | zom 100 zombie ni naru made ni shitai 100 no koto | 僵尸百分百 | 《僵尸百分百～变成僵尸前想做的100件事～》（ゾン100～ゾンビになるまでにしたい100のこと～）是麻生羽吕（原作）、高田康太郎（作画）合著的漫画。 | [萌娘百科](https://zh.moegirl.org.cn/僵尸百分百～变成僵尸前想做的100件事～) |
