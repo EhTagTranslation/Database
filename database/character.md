@@ -10538,7 +10538,7 @@ example:
 | byakuya mimori | 深森白夜 | ![](https://mahoaku-anime.com/assets/img/character/img_chara_stand2.png)<br>出自作品:`katsute mahou shoujo to aku wa tekitai shite ita.` |  |
 | konomi fujimiya | 富士宫木实 | ![](https://lain.bgm.tv/r/400/pic/crt/l/11/3a/22304_crt_04400.jpg?r=1551370422)<br>日语：富士宮このみ<br>出自作品:`non non biyori` |  |
 | futaba kuroe | 黑江双叶 | ![](https://static.wikia.nocookie.net/worldtrigger/images/c/c2/Futaba_Kuroe_%28manga%29_2.png)<br>出自作品:`world trigger` |  |
-| reliared silver | 蕾莉亚萝德·席尔瓦 | ![](https://static.wikia.nocookie.net/kyoranreijo/images/b/bc/Reliared_Silver.png)<br>日语：レリアレッド・シルヴァー<br>出自作品:`kyouran reijou nia liston` |  |
+| reliared silver | 蕾莉亚萝德·席尔瓦 | ![](https://static.tvtropes.org/pmwiki/pub/images/reliared_silver.png)<br>日语：レリアレッド・シルヴァー<br>出自作品:`kyouran reijou nia liston` |  |
 | hildetaura altoire | 希尔德朵菈·阿鲁特瓦尔 | ![](https://static.tvtropes.org/pmwiki/pub/images/hildetaura_altoire.png)<br>出自作品:`kyouran reijou nia liston` |  |
 
 <!--TEMPLATE: 
