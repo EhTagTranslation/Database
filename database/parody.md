@@ -1208,7 +1208,7 @@ example:
 | golden axe | 战斧 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Golden_Axe) |
 | popful mail | 啵咕物语 | ぽっぷるメイル，英文名：Popful Mail，又名啵咕物语、国内译名：美少女剑士梅尔。是FALCOM古早时期著名的横版ARPG游戏，素质优良，机种繁多，最初平台为PC88，是法老控迷必备的入门游戏。 | [维基百科（日语）](https://ja.wikipedia.org/wiki/ぽっぷるメイル) |
 | the wing of madoola | 玛多拉之翼 | 《玛多拉之翼》（日语：マドゥーラの翼）是一款由Sun电子制作和发行的动作冒险游戏。本游戏于1986年12月18日在日本地区FC游戏机发行。 | [维基百科](https://zh.wikipedia.org/wiki/玛多拉之翼) (\*) |
-| gakusen toshi asterisk | 学战都市Asterisk | 《学战都市Asterisk》（日语：学戦都市アスタリスク）是三屋咲悠撰写，okiura绘制插画的日本轻小说，MF文库J（Media Factory）出版。繁体中文版由尖端出版代理，译者陈冠安；简体中文版预定由天闻角川代理发行，湖南美术出版社出版。目前日本已推出至第十一卷。2015年10月至12月首播电视动画。 | [维基百科](https://zh.wikipedia.org/wiki/學戰都市Asterisk) (\*) |
+| gakusen toshi asterisk | 学战都市Asterisk | ![](https://lain.bgm.tv/r/400/pic/cover/l/fa/05/130250_V5992.jpg)<br>![](https://lain.bgm.tv/r/400/pic/cover/l/34/95/147613_1nZ10.jpg)<br>日语：学戦都市アスタリスク | [维基百科](https://zh.wikipedia.org/wiki/學戰都市Asterisk) (\*) |
 | tokyo ghoul | 东京食尸鬼 | 《东京食尸鬼》（東京喰種トーキョーグール，Tokyo Ghoul）是日本漫画家石田翠的青年漫画作品，刊载于集英社旗下漫画杂志《周刊Young Jump》。单行本标题为“东京食尸鬼 Tokyo Ghoul”（日版名：東京喰種トーキョーグール）。台湾中文版由尖端出版代理，香港中文版由玉皇朝代理。 | [维基百科](https://zh.wikipedia.org/wiki/東京喰種) (\*) |
 | doki doki literature club | 心跳文学俱乐部！ | 《心跳文学俱乐部！》（英语：Doki Doki Literature Club!，港台译作“心跳文学部！”，台湾又译作“心跳文艺部”、“心跳文艺社”），简称《DDLC》，是Team Salvato在2017年9月22日发表在Microsoft Windows、Linux和macOS上的独立游戏，后来于2017年10月6日登陆游戏平台Steam。 | [维基百科](https://zh.wikipedia.org/wiki/心跳文學部！) [Steam](http://store.steampowered.com/app/698780) [萌娘百科](https://zh.moegirl.org.cn/心跳文学部) |
 | regalia the three sacred stars | 雷加利亚三圣星 | 《雷加利亚三圣星》是永谷敬之担任制作人，QP:flapper担当角色原案，Actas制作的原创动画，电视动画于2016年7月7日开始播出。 | [维基百科](https://zh.wikipedia.org/wiki/Regalia_三聖星) (\*) |
