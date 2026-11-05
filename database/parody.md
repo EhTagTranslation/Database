@@ -2028,7 +2028,7 @@ example:
 | aragami | 荒神 | ![](https://p.sda1.dev/7/c30ca40aaad814798684c8ba13bf3613/image.png) | [维基百科（英语）](https://en.wikipedia.org/wiki/Aragami_%28video_game%29) |
 | owari no chronicle | 终焉的年代记 |  | [维基百科](https://zh.wikipedia.org/wiki/終焉的年代記) |
 | les miserables | 悲惨世界 | 维克多雨果的著名著作 |  |
-| isekai ojisan | 异世界舅舅 | 《异世界舅舅》（日语：異世界おじさん，简称“いせおじ”）是殆ど死んでいる创作的日本漫画，<br>由2018年6月29日起于KADOKAWA旗下的漫画网站ComicWalker连载至今。<br>故事讲述在现实世界昏迷17年的舅舅从异世界归来后，外甥敬文听舅舅口述在异世界的回忆。 | [wiki](https://zh.wikipedia.org/wiki/異世界歸來的舅舅) |
+| isekai ojisan | 异世界舅舅 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1a/75/339326_v466V.jpg)<br>日语：異世界おじさん | [wiki](https://zh.wikipedia.org/wiki/異世界歸來的舅舅) |
 | star ocean | 星之海洋 | 银河游侠系列（日语：スターオーシャン，英语：Star Ocean，香港和台湾译作“银河游侠”，又译“星之海洋”）是由tri-Ace开发、史克威尔艾尼克斯（原艾尼克斯）发售的角色扮演游戏系列。 | [维基百科](https://zh.wikipedia.org/wiki/星海遊俠系列) |
 | kami no rhapsody | 神之狂想曲 |  | [Fandom](https://eushully.fandom.com/zh/wiki/神のラプソディ) [Fandom](https://eushully.fandom.com/wiki/Rhapsody_of_God) |
 | nintama rantarou | 落第忍者乱太郎 |  | [维基百科](https://zh.wikipedia.org/wiki/落第忍者亂太郎) |
