@@ -7130,7 +7130,7 @@ example:
 | chloe mansfield | 克劳尔·曼斯菲尔德 | ![](https://ehgt.org/w/01/944/86660-dzb8s82a.webp)<br>所属作品：`shuumatsu no harem` |  |
 | yuzuki hanyuu | 羽生柚希 | ![](https://ehgt.org/w/01/934/79458-k4fha9k5.webp)<br>所属作品：`shuumatsu no harem` |  |
 | natsu ichijou | 一条奈都 | 所属作品：`shuumatsu no harem` |  |
-| shion hoshino | 星野汐音 | 所属作品：`shuumatsu no harem` |  |
+| shion hoshino | 星野汐音 | ![](https://lain.bgm.tv/r/400/pic/crt/l/34/7f/106902_crt_rxQl8.jpg?r=1646276755)<br>所属作品：`shuumatsu no harem` |  |
 | nidhoggr | 尼德霍格 | ![](https://ehgt.org/w/01/879/93022-4wjv1yz5.webp)<br>所属作品：`fire emblem heroes` |  |
 | nate argente loup mitotsudaira | 奈特·弥托黛拉 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b3/f2/13201_crt_gC33I.jpg)<br>所属作品：`kyoukai senjou no horizon` |  |
 | utahime iori | 庵歌姬 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/b/b0/Utahime_Iori_%28Anime_2%29.png)<br>所属作品：`jujutsu kaisen` |  |
