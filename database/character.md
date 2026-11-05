@@ -10534,6 +10534,7 @@ example:
 | marino hanamura | 花邑毬乃 | ![](https://static.wikia.nocookie.net/magiex/images/1/1a/Magicalexplorer-chara-marino-anime.png)<br>出自作品:`magical explorer` |  |
 | yuuka sonobe | 园部优花 | ![](https://ehgt.org/w/02/218/95828-bnm2b19j.webp)<br>日语：園部優花<br>出自作品:`arifureta shokugyou de sekai saikyou` |  |
 | towa | 飞羽 | ![](https://static.wikia.nocookie.net/tenshitsuki/images/6/6f/Towa.png)<br>出自作品:`one room hiatari futsuu tenshi-tsuki` |  |
+| miyabi hotaka | 穗高雅 | ![](https://static.wikia.nocookie.net/absoluteduo/images/b/b3/Miyabi_Hotaka_Character_Design.png)<br>日语：穂高 みやび<br>出自作品:`absolute duo` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
