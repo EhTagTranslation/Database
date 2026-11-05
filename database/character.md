@@ -10532,6 +10532,7 @@ example:
 | mimi | 米米 | ![](https://lain.bgm.tv/r/400/pic/crt/l/88/04/206255_crt_O41d4.jpg)<br>日语：ミミ<br>出自作品:`mezametara saikyou soubi to uchuusenmochi` |  |
 | ludivine marie-ange de la trefle | 琉迪薇努·玛莉·安洁·多·拉·多雷弗尔 | ![](https://static.wikia.nocookie.net/magiex/images/8/83/Magicalexplorer-chara-ludie-anime.png)<br>日语：リュディヴィーヌ・マリー＝アンジュ・ド・ラ・トレーフル<br>出自作品:`magical explorer` |  |
 | marino hanamura | 花邑毬乃 | ![](https://static.wikia.nocookie.net/magiex/images/1/1a/Magicalexplorer-chara-marino-anime.png)<br>出自作品:`magical explorer` |  |
+| yuuka sonobe | 园部优花 | ![](https://ehgt.org/w/02/218/95828-bnm2b19j.webp)<br>日语：園部優花<br>出自作品:`arifureta shokugyou de sekai saikyou` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
