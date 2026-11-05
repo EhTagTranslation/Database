@@ -937,7 +937,7 @@ example:
 | tales of asteria | 星彩传说 |  |  |
 |  | ↑传说 系列 |  |  |
 | little witch academia | 小魔女学园 |  |  |
-| rokudenashi majutsu koushi to akashic records | 不正经的魔术讲师与禁忌教典 |  |  |
+| rokudenashi majutsu koushi to akashic records | 不正经的魔术讲师与禁忌教典 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b2/af/174138_0BOO7.jpg)<br>日语：ロクでなし魔術講師と禁忌教典 |  |
 | martial champion | 武术冠军 |  |  |
 | virtua fighter | VR战士 |  |  |
 | muscle bomber | 摔跤霸王 |  |  |
