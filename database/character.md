@@ -1329,7 +1329,7 @@ example:
 | kurumi tokisaki | 时崎狂三 | ![](https://i2.hdslb.com/bfs/new_dyn/e81b747beb5e02e45339d22d77f65351262400697.png)<br>所属作品：`date a live` | [萌娘百科](https://zh.moegirl.org.cn/时崎狂三) |
 | yoshino himekawa | 冰芽川四糸乃 | ![](https://i2.hdslb.com/bfs/new_dyn/c0cd0ed552e6ae970a0975b5bb59ff9b262400697.png)<br>所属作品：`date a live` | [萌娘百科](https://zh.moegirl.org.cn/冰芽川四糸乃) |
 | kotori itsuka | 五河琴里 | ![](https://i2.hdslb.com/bfs/new_dyn/79b17c4839e1ebe8981fc9742508fd37262400697.png)<br>所属作品：`date a live` | [萌娘百科](https://zh.moegirl.org.cn/五河琴里) |
-| kaguya yamai | 八舞耶俱矢 | ![](https://i2.hdslb.com/bfs/new_dyn/5775a6031e6bb0f410284d2ed1202214262400697.png)<br>![](https://img.moegirl.org.cn/common/6/6f/Kaguya_Mizugi.png)<br>所属作品：`date a live`<br>八舞本是一个精灵，然而在某次现界（成为精灵）的时候，一个精灵分成了两个，各自拥有独立的人格，能力也被分为了两部分。其中之一就是耶俱矢。 | [萌娘百科](https://zh.moegirl.org.cn/八舞耶俱矢) |
+| kaguya yamai | 八舞耶俱矢 | ![](https://img.moegirl.org.cn/common/6/6f/Kaguya_Mizugi.png)<br>所属作品：`date a live` | [萌娘百科](https://zh.moegirl.org.cn/八舞耶俱矢) |
 | yuzuru yamai | 八舞夕弦 | ![](https://i2.hdslb.com/bfs/new_dyn/5775a6031e6bb0f410284d2ed1202214262400697.png)<br>所属作品：`date a live` | [萌娘百科](https://zh.moegirl.org.cn/八舞夕弦) |
 | miku izayoi | 诱宵美九 | ![](https://static.wikia.nocookie.net/date-a-live/images/6/60/Miku_spirit_ver.png)<br>所属作品：`date a live` | [萌娘百科](https://zh.moegirl.org.cn/诱宵美九) |
 | tohka yatogami | 夜刀神十香 | ![](https://i2.hdslb.com/bfs/new_dyn/6f45dd76563a74ecbfcd53c5ab987d87262400697.png)<br>所属作品：`date a live` | [萌娘百科](https://zh.moegirl.org.cn/夜刀神十香) |
