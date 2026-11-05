@@ -2154,7 +2154,7 @@ example:
 | soukyuu no fafner | 苍穹之法芙娜 |  | [萌娘百科](https://zh.moegirl.org.cn/苍穹之法芙娜) |
 | heaven burns red | ![](https://heaven-burns-red.com/assets/images/common/img_appicon.png) 炽焰天穹 | ![](https://heaven-burns-red.com/assets/images/common/img_appicon.png)<br>《Heaven Burns Red》（日语：ヘブンバーンズレッド）是由WFS和Key共同制作的手机游戏。这是麻枝准睽违15年有参与制作的新作游戏。<br>备注：最初没有官方中文译名时有人机翻为天堂红烧，对调后为红烧天堂，至今仍有很多人使用该非官方译名，绯染天空为繁中官方译名，简中为炽焰天穹。 | [官网](https://heaven-burns-red.com/)<br>[萌娘百科](https://zh.moegirl.org.cn/绯染天空)<br>[维基百科](https://zh.wikipedia.org/wiki/緋染天空_Heaven_Burns_Red) |
 | watashi no yuri wa oshigoto desu | 我的百合乃工作是也！ | ![](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885535679.webp)<br>《百合是我的工作！》是日本画家未幡创作的漫画，并有改编同名动画。 | [萌娘百科](https://zh.moegirl.org.cn/我的百合乃工作是也！) |
-| sekai saikou no ansatsusha isekai kizoku ni tensei suru | 世界顶尖的暗杀者转生为异世界贵族 |  | [萌娘百科](https://zh.moegirl.org.cn/世界顶尖的暗杀者转生为异世界贵族) |
+| sekai saikou no ansatsusha isekai kizoku ni tensei suru | 世界顶尖的暗杀者转生为异世界贵族 | ![](https://lain.bgm.tv/r/400/pic/cover/l/49/32/328313_oQlyW.jpg)<br>日语：世界最高の暗殺者、異世界貴族に転生する | [萌娘百科](https://zh.moegirl.org.cn/世界顶尖的暗杀者转生为异世界贵族) |
 | sengoku bushouki muramasa | 战国武将姬 | 戦国武将姫-MURAMASA- |  |
 | idola phantasy star saga | 梦幻之星·伊多拉传说 | 梦幻之星：伊多拉传说是为了纪念知名角色扮演游戏《`p:phantasy star`》30周年推出的系列最新作。于2018年11月27日上线，2022 年 1 月 12 日停服。<br><br>![](https://p2.bahamut.com.tw/B/2KU/74/3f2df37e33381a664843e1a7ff11nay5.JPG) |  |
 | golden time | 青春纪行 | 《青春纪行》（又译：金色时光，日文：ゴールデンタイム）是由竹宫悠由子创作、驹都英二负责插画的一部轻小说，并有漫画、广播剧、动画和游戏等衍生作品。此作品是竹宫悠由子继《`p:toradora`》后的又一长篇小说。 | [维基百科](https://zh.wikipedia.org/wiki/青春紀行) [萌娘百科](https://zh.moegirl.org.cn/青春纪行) |
