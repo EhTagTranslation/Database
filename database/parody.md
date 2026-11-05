@@ -2896,7 +2896,7 @@ example:
 | yuusha party wo tsuihou sareta shiromadoushi s-rank boukensha ni hirowareru | 被驱逐出勇者队伍的白魔导师 | ![](https://lain.bgm.tv/r/400/pic/cover/l/19/38/505793_HF3Ug.jpg)<br>全名：被驱逐出勇者队伍的白魔导师，被S级冒险者捡到 ～这个白魔导师超规格～<br>日语：勇者パーティーを追放された白魔導師、Sランク冒険者に拾われる ～この白魔導師が規格外すぎる～ |  |
 | tenmaku no jaadugar | 穹庐下的魔女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg)<br>日语：天幕のジャードゥーガル |  |
 | shoushimin series | 小市民系列 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e2/f4/474906_z0h44.jpg)<br>日语：小市民シリーズ<br>作者：米澤穂信 |  |
-| hitoribocchi no isekai kouryaku | 独自一人的异世界攻略 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d2/66/476129_q83DE.jpg)<br>日本作家五示正司创作的网络小说，并有改编动画。 |  |
+| hitoribocchi no isekai kouryaku | 独自一人的异世界攻略 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d2/66/476129_q83DE.jpg)<br>日语：ひとりぼっちの異世界攻略 |  |
 | koori zokusei danshi to cool na douryou joshi | 冰属性男子和酷酷女同事 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8a/27/388993_gdLGU.jpg)<br>殿谷美由记创作的漫画作品，并有改编动画。 |  |
 | yasei no last boss ga arawareta | 野生的大魔王出现了！ | ![](https://lain.bgm.tv/r/400/pic/cover/l/7f/7f/509355_pL64P.jpg)<br>日语：野生のラスボスが現れた！<br>日本作家炎头创作的轻小说，并有改编动画。 |  |
 | aikatsu planet | 偶像活动 Planet! | ![](https://lain.bgm.tv/r/400/pic/cover/l/2f/e7/321289_1M1GJ.jpg) |  |
