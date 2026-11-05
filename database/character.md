@@ -1332,7 +1332,7 @@ example:
 | kaguya yamai | 八舞耶俱矢 | ![](https://i2.hdslb.com/bfs/new_dyn/5775a6031e6bb0f410284d2ed1202214262400697.png)<br>![](https://img.moegirl.org.cn/common/6/6f/Kaguya_Mizugi.png)<br>所属作品：`date a live`<br>八舞本是一个精灵，然而在某次现界（成为精灵）的时候，一个精灵分成了两个，各自拥有独立的人格，能力也被分为了两部分。其中之一就是耶俱矢。 | [萌娘百科](https://zh.moegirl.org.cn/八舞耶俱矢) |
 | yuzuru yamai | 八舞夕弦 | ![](https://i2.hdslb.com/bfs/new_dyn/5775a6031e6bb0f410284d2ed1202214262400697.png)<br>![](https://pic.cangku.moe/images/2025/09/04/1ylBp.md.webp)<br>所属作品：`date a live`<br>八舞本是一个精灵，然而在某次现界（成为精灵）的时候，一个精灵分成了两个，各自拥有独立的人格，能力也被分为了两部分，其中之一就是夕弦。 | [萌娘百科](https://zh.moegirl.org.cn/八舞夕弦) |
 | miku izayoi | 诱宵美九 | ![](https://static.wikia.nocookie.net/date-a-live/images/6/60/Miku_spirit_ver.png)<br>所属作品：`date a live` | [萌娘百科](https://zh.moegirl.org.cn/诱宵美九) |
-| tohka yatogami | 夜刀神十香 | ![](https://i2.hdslb.com/bfs/new_dyn/6f45dd76563a74ecbfcd53c5ab987d87262400697.png)<br>所属作品：`date a live`<br>天真单纯，非常喜欢吃东西，超级难养的大胃王。士道高二时第一位遇到的精灵，名字是士道起的。 | [萌娘百科](https://zh.moegirl.org.cn/夜刀神十香) |
+| tohka yatogami | 夜刀神十香 | ![](https://i2.hdslb.com/bfs/new_dyn/6f45dd76563a74ecbfcd53c5ab987d87262400697.png)<br>所属作品：`date a live` | [萌娘百科](https://zh.moegirl.org.cn/夜刀神十香) |
 | shido itsuka | 五河士道 |  |  |
 | reine murasame | 村雨令音 | ![](https://static.wikia.nocookie.net/date-a-live/images/5/55/Reine_Spirit.png)<br>所属作品：`date a live` | [萌娘百科](https://zh.moegirl.org.cn/村雨令音) |
 |  | ▼ 腹黑妹妹控兄记 角色 |  |  |
