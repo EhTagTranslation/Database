@@ -1334,7 +1334,7 @@ example:
 | miku izayoi | 诱宵美九 | ![](https://static.wikia.nocookie.net/date-a-live/images/6/60/Miku_spirit_ver.png)<br>所属作品：`date a live` | [萌娘百科](https://zh.moegirl.org.cn/诱宵美九) |
 | tohka yatogami | 夜刀神十香 | ![](https://i2.hdslb.com/bfs/new_dyn/6f45dd76563a74ecbfcd53c5ab987d87262400697.png)<br>所属作品：`date a live`<br>天真单纯，非常喜欢吃东西，超级难养的大胃王。士道高二时第一位遇到的精灵，名字是士道起的。 | [萌娘百科](https://zh.moegirl.org.cn/夜刀神十香) |
 | shido itsuka | 五河士道 |  |  |
-| reine murasame | 村雨令音 | ![](https://pic.cangku.moe/images/2025/09/04/1yhli.md.webp)<br>![](https://img.moegirl.org.cn/common/5/5c/Reine_.png)<br>所属作品：`date a live` | [萌娘百科](https://zh.moegirl.org.cn/村雨令音) |
+| reine murasame | 村雨令音 | ![](https://static.wikia.nocookie.net/date-a-live/images/5/55/Reine_Spirit.png)<br>所属作品：`date a live` | [萌娘百科](https://zh.moegirl.org.cn/村雨令音) |
 |  | ▼ 腹黑妹妹控兄记 角色 |  |  |
 | mayuka kondou | 近藤茧佳 |  |  |
 | nao takanashi | 高梨奈绪 |  |  |
