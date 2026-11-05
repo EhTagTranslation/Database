@@ -10535,6 +10535,7 @@ example:
 | yuuka sonobe | 园部优花 | ![](https://ehgt.org/w/02/218/95828-bnm2b19j.webp)<br>日语：園部優花<br>出自作品:`arifureta shokugyou de sekai saikyou` |  |
 | towa | 飞羽 | ![](https://static.wikia.nocookie.net/tenshitsuki/images/6/6f/Towa.png)<br>出自作品:`one room hiatari futsuu tenshi-tsuki` |  |
 | miyabi hotaka | 穗高雅 | ![](https://static.wikia.nocookie.net/absoluteduo/images/b/b3/Miyabi_Hotaka_Character_Design.png)<br>日语：穂高 みやび<br>出自作品:`absolute duo` |  |
+| byakuya mimori | 深森白夜 | ![](https://mahoaku-anime.com/assets/img/character/img_chara_stand2.png)<br>出自作品:`katsute mahou shoujo to aku wa tekitai shite ita.` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
