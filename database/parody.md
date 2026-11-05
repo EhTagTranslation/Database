@@ -2493,7 +2493,7 @@ example:
 | gakuen alice | 爱丽丝学园 |  | [维基百科](https://zh.wikipedia.org/wiki/學園愛麗絲) |
 | a hat in time | 时光之帽 |  | [维基百科](https://zh.wikipedia.org/wiki/时光之帽) |
 | invader zim | 外星入侵者ZIM |  | [萌娘百科](https://zh.moegirl.org.cn/外星入侵者Zim) |
-| tower of god | 神之塔 |  |  |
+| tower of god | 神之塔 | ![](https://lain.bgm.tv/r/400/pic/cover/l/24/04/300839_Tv41q.jpg)<br>![](https://lain.bgm.tv/r/400/pic/cover/l/de/86/394996_p2P3w.jpg) |  |
 | kick buttowski suburban daredevil | 冒险王奇克 | 《冒险王奇克》（英语：Kick Buttowski: Suburban Daredevil），是一部美国电视动画片，由桑德罗·柯沙罗创作，迪士尼电视动画公司制作。该剧讲述了一个名叫奇克·巴斯基的小男孩在他忠诚的朋友甘特的帮助下立志成为世界上最伟大的冒险者的故事。 | [维基百科](https://zh.wikipedia.org/wiki/冒險王奇克) |
 | watashi ga koibito ni nareru wake nai jan muri muri muri ja nakatta | 我们不可能成为恋人，绝对不行！ | ![](https://img.moegirl.org.cn/common/thumb/8/83/Wata-nare_cover_01.jpg/420px-Wata-nare_cover_01.jpg)<br>由みかみてれん创作、竹嶋えく负责角色原案和插画的一部轻小说，并有漫画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/我怎么可能成为你的恋人，不行不行！（※不是不可能！？）)<br>[维基百科](https://zh.wikipedia.org/wiki/我們不可能成為戀人！絕對不行。（※似乎可行？）) |
 | mamahaha no tsurego ga motokano datta | 继母的拖油瓶是我的前女友 | ![](https://lain.bgm.tv/r/400/pic/cover/l/49/54/343106_cT6ZV.jpg)<br>日语：継母の連れ子が元カノだった |  |
