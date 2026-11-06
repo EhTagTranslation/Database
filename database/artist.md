@@ -15873,6 +15873,7 @@ example:
 | topu | トプ |  |  |
 | kotamatimo | こたまちも |  |  |
 | akifn | AkiFn |  |  |
+| shikoutsubo | シコウツボ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
