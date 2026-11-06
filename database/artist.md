@@ -15871,6 +15871,7 @@ example:
 | pro shimin | プロ市民 | プロ市民 |  |
 | donguri iifz kai | どんぐりIIFZ改 |  | [X](https://x.com/wisemanbarney3) [pixiv](https://www.pixiv.net/users/15383728) [Pawoo](https://pawoo.net/oauth_authentications/15383728?provider=pixiv) [Fantia](https://fantia.jp/fanclubs/510323) |
 | topu | トプ |  |  |
+| kotamatimo | こたまちも |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
