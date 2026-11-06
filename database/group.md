@@ -14403,6 +14403,7 @@ example:
 | kurukuru ponzu | くるくるポン酢 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57930.html) |
 | syrup | シロップ | ![](https://www.syrup-soft.com/mm/img/logo.png) | [官网](https://www.syrup-soft.com/) |
 | pantsu hakanai | パンツ儚い |  |  |
+| shikoutsubo | シコウツボ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
