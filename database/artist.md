@@ -327,7 +327,7 @@ example:
 | manami tatsuya | 真未たつや |  |  |
 | miharu | 美春 \| ミハル | FAKESTAR<br>TTT |  |
 | mush | むっしゅ |  |  |
-| haneinu | 跳犬 |  |  |
+| haneinu | 跳犬 |  | [X](https://x.com/haneinu11) |
 | misaki takahiro | はぶらえる |  |  |
 | sada ko-ji | さだこーじ |  |  |
 | mikami mika | 三上ミカ |  |  |
