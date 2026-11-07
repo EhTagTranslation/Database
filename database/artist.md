@@ -15874,6 +15874,7 @@ example:
 | kotamatimo | こたまちも |  |  |
 | akifn | AkiFn |  |  |
 | shikoutsubo | シコウツボ |  |  |
+| furry | オルトロスは恋がしたい | [TACOON] オルトロスは恋がしたい [Japanese] [Digital] | [https://e-hentai.org/g/4202853/7905bb2779/](https://e-hentai.org/g/4202853/7905bb2779/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
