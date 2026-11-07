@@ -1746,7 +1746,7 @@ example:
 | pandora box | ぱんどらぼっくす |  |  |
 | jekyll and hyde | Jekyll and Hyde |  |  |
 | roentgen | Roentgen |  |  |
-| puchimaple | ぷちめいぷる |  |  |
+| puchimaple | ぷちめいぷる |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45231.html) |
 | aratoya | あらと屋 |  |  |
 | mapler | MAPLER |  |  |
 | yuribatake bokujou | 百合畑牧場 |  |  |
