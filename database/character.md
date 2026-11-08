@@ -2693,7 +2693,7 @@ example:
 | momoko akatsutsumi | 赤提和美子 |  |  |
 | kougyoku ren | 练红玉 |  |  |
 | masrur | 马斯鲁尔 |  |  |
-| morgiana | 摩尔迦娜 |  |  |
+| morgiana | 摩尔迦娜 | ![](https://bkimg.cdn.bcebos.com/pic/ae51f3deb48f8c5494ee9a1d2a703af5e0fe9925d1f2)<br>日语：モルジアナ<br>出自作品:`magi the labyrinth of magic` |  |
 | sharrkan | 迦尔鲁卡 |  |  |
 | sinbad | 辛巴德 |  |  |
 | yamuraiha | 雅姆莱哈 |  |  |
