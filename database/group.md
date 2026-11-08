@@ -13542,7 +13542,7 @@ example:
 | yamashima echichi | やましまえちち |  |  |
 | omusubi koubou | おむすび工房 |  |  |
 | sato no maccha | 里ノ抹茶 |  |  |
-| mochinchi | もちんち |  |  |
+| mochinchi | もちんち |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203663/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG62391.html) |
 | meganeya honpo | 眼镜屋本铺 | 眼鏡屋本舗 |  |
 | papyrus | ぱぴるす |  |  |
 | tarobaumu | たろバウム |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76196/) |
