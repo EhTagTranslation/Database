@@ -6785,7 +6785,7 @@ example:
 | latifa | 拉蒂法 | ![](https://seireigensouki.com/1st/wp-content/themes/seirei_honban/assets/img/page/chara-pic04.png)<br>所属作品: `p:seirei gensouki` |  |
 | liselotte cretia | 莉赛萝黛·库雷提雅 | ![](https://img.moegirl.org.cn/common/thumb/0/0c/Liselotte_Cretia.webp/225px-Liselotte_Cretia.webp.png)<br>所属作品: `p:seirei gensouki`<br>卡尔亚克王国的公爵女儿，阿曼多地方官，六花商会的年轻会长，年龄15岁。 | [萌娘百科](https://zh.moegirl.org.cn/精灵幻想记) |
 | dahlia | 塔利雅 | 塔利雅<br>所属作品：`genshin impact`<br>![](https://patchwiki.biligame.com/images/ys/3/3c/3mi7zyr0yem3c1i6ap77y3k915xuhdb.gif) | [萌娘百科](https://zh.moegirl.org.cn/塔利雅#) |
-| osaragi | 大佛 | 所属作品：`sakamoto days`<br>![](https://sakamotodays.jp/en/assets/img/character/chara9_main1.png?v=241113) | [Bangumi](https://bgm.tv/character/130756) |
+| osaragi | 大佛 | ![](https://static.wikia.nocookie.net/sakamoto-days/images/d/de/Osaragi_anime_design.png)<br>所属作品：`sakamoto days` | [Bangumi](https://bgm.tv/character/130756) |
 | esil radiru | 艾希尔·拉迪鲁 | ![](https://static.wikia.nocookie.net/solo-leveling-arise/images/3/32/Esil_Radiru.png)<br>所属作品：`solo leveling` |  |
 | nitocris alter | 尼托克丽丝〔Alter〕 |  |  |
 | nemo professor | 尼莫教授 |  |  |
