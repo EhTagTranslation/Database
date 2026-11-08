@@ -10544,7 +10544,7 @@ example:
 | alexandra tamsanqa | 亚历珊德拉 | ![](https://cdn.fireemblemwiki.org/thumb/8/88/FEFW_Alexandra_portrait.png)<br>日语：アレキサンドラ・タムサンカ<br>出自作品:`fire emblem`万缕千丝 |  |
 | yashiro | 社 | ![](https://static.wikia.nocookie.net/kancolle/images/c/cd/Yashiro_Full.png)<br>出自作品:`kantai collection` |  |
 | elza | 艾莎 |  |  |
-| jinako carigiri | 吉娜可·加里吉利 |  |  |
+| jinako carigiri | 吉娜可·加里吉利 | ![](https://static.wikia.nocookie.net/typemoon/images/a/a6/Jinako.png)<br>日语：ジナコ＝カリギリ<br>出自作品:`fate extra` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
