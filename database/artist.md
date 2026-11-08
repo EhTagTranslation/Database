@@ -1252,7 +1252,7 @@ example:
 | magatama | マガタマ |  |  |
 | mako kujira | まこくじら |  |  |
 | uesugi kyoushirou | 上杉响士郎 |  |  |
-| kai hiroyuki | 甲斐ひろゆき |  |  |
+| kai hiroyuki | 甲斐ひろゆき |  | [pixiv](https://www.pixiv.net/users/40011196) |
 | kihiru | きひる |  |  |
 | kogaku kazuya | 虎顎かずや |  |  |
 | kokonoki nao | ここのき奈緒 |  |  |
