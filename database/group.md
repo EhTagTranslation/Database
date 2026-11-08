@@ -1980,7 +1980,7 @@ example:
 | jagabata | じゃがバター |  |  |
 | ryuuseidou honpo | 龍正堂本舗 |  |  |
 | tonzura douchuu | とんずら道中 |  |  |
-| kuromahou kenkyuujo | 黑魔法研究所 |  |  |
+| kuromahou kenkyuujo | 黑魔法研究所 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG37712.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74809/media=comic/) |
 | hotel negresco | Hotel Negresco |  |  |
 | kuzunoha | 屑乃葉 |  |  |
 | moni | moni |  |  |
