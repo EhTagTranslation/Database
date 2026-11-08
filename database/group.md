@@ -14404,6 +14404,7 @@ example:
 | syrup | シロップ | ![](https://www.syrup-soft.com/mm/img/logo.png) | [官网](https://www.syrup-soft.com/) |
 | pantsu hakanai | パンツ儚い |  |  |
 | shikoutsubo | シコウツボ |  |  |
+| wolf wan | うるふわん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
