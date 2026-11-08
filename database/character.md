@@ -5801,7 +5801,7 @@ example:
 | whip | 薇普 |  |  |
 | bocchi hitori | 一里波知 | ![](https://img.moegirl.org.cn/common/2/29/Bocchi_T.JPG)<br>一里波知（日語：一里（ひとり） ぼっち）是由カツヲ所創作的漫畫《一個人的OO小日子》及其衍生作品的登場角色。名字意為「一個人」（一人ぼっち） | [萌娘百科](https://zh.moegirl.org.cn/一里波知) |
 | esdeath | 艾斯德斯 | ![](https://ehgt.org/w/02/211/89931-srr4i0tp.webp)<br>日語：エスデス<br>所属作品：`akame ga kill` | [萌娘百科](https://zh.moegirl.org.cn/艾斯德斯) |
-| noel niihashi | 新桥诺艾尔 | 日本漫画《burn the witch》及其衍生作品中的女主角<br>新桥诺艾尔（新橋のえる Noel Niihashi），日本漫画《burn the witch》及其衍生作品中的女主角之一，“Wing Bind”的1等保护官，所属于笛吹队。被前辈的妮内称为“尼哈”。 |  |
+| noel niihashi | 新桥诺艾尔 | ![](https://static.wikia.nocookie.net/bleach/images/0/0c/BTWFNoel_profile.png/revision/latest/scale-to-width-down/268?cb=20201004085439&path-prefix=en)<br>出自作品：`p:burn the witch`<br>新桥诺艾尔（新橋のえる Noel Niihashi），日本漫画《burn the witch》及其衍生作品中的女主角之一，“Wing Bind”的1等保护官，所属于笛吹队。被前辈的妮内称为“尼哈”。 | [百度百科](https://baike.baidu.com/item/新桥诺艾尔/24630169) \| [Fandom](https://bleach.fandom.com/wiki/Noel_Niihashi) |
 | alma armas | 阿尔玛·阿玛斯 |  |  |
 | bambietta basterbine | 邦比爱塔·芭丝塔拜姻 | ![](https://ehgt.org/w/02/077/69784-81i1i4k2.webp)<br>所属作品：`bleach` |  |
 | midnight | 午夜 | ![](https://static.wikia.nocookie.net/p__/images/e/e8/Screenshot_2025-06-11_223948-Photoroom.png/revision/latest/scale-to-width-down/238?cb=20250611104223&path-prefix=protagonist)<br>出自作品：`p:my hero academia`<br><br>午夜是日本漫画《我的英雄学院》及其衍生作品中的角色。 | [百度百科](https://baike.baidu.com/item/午夜/19691316) \| [Fandom](https://hero.fandom.com/wiki/Midnight_%28My_Hero_Academia%29) |
