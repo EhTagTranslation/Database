@@ -15427,7 +15427,7 @@ example:
 | tereshima | テレシマ |  | [pixiv](https://www.pixiv.net/users/83722650) \| [X](https://x.com/tereshimar18) \| [FANBOX](https://www.fanbox.cc/@tereshima) |
 | def atsu | デフアツ |  |  |
 | lemi | おはぎ |  |  |
-| sasanoki panda | 笹ノ木ぱんだ |  |  |
+| sasanoki panda | 笹ノ木ぱんだ |  | [pixiv](https://www.pixiv.net/users/16584519) \| [X](https://x.com/pan_926) \| [Pawoo](https://pawoo.net/@ij926) \| [FANBOX](https://sasabogipanda.fanbox.cc/) \| [Skeb](https://skeb.jp/@pan_926) |
 | kigome | きごみー |  |  |
 | chinpoki | ちんぽき |  |  |
 | nuibara | ぬいばら |  |  |
