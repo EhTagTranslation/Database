@@ -1725,7 +1725,7 @@ example:
 |  | ▼ 龙珠系列 |  |  |
 | yamcha | 雅木茶 | ![](https://static.wikia.nocookie.net/dragonball/images/f/f3/Yamcha_manga.PNG)<br>雅木茶是由鸟山明所创作的漫画《龙珠》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/雅木茶) |
 | bulma briefs | 布尔玛 | ![](https://static.wikia.nocookie.net/xianb/images/7/71/13bul.PNG)<br><br>布尔玛（日语：ブルマ；英语：Bulma）是由鸟山明所创作的漫画《龙珠》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/布尔玛) \| [Fandom](https://animated-character-database.fandom.com/wiki/Bulma_Briefs) |
-| chi chi | 琪琪 | ![](https://ehgt.org/w/01/752/92597-brbdfl94.webp)<br>出自作品：`p:dragon ball`<br><br>琪琪（チチ、Chichi），女，日本漫画《龙珠》及其衍生作品中的角色。其首次登场于漫画《龙珠》第137话 。 | [百度百科](https://baike.baidu.com/item/琪琪/10204) |
+| chi chi | 琪琪 | ![](https://static.wikia.nocookie.net/p__/images/6/6e/Chi-Chi_Cell_Saga.png)<br>![](https://static.wikia.nocookie.net/p__/images/9/9c/Kid_Chi_Chi.png)<br>日语：チチ<br>出自作品：`p:dragon ball` | [百度百科](https://baike.baidu.com/item/琪琪/10204) |
 | son gohan | 孙悟饭 |  |  |
 | son goten | 孙悟天 |  |  |
 | android 16 | 人造人16号 |  |  |
