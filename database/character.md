@@ -4353,7 +4353,7 @@ example:
 | revy | 莱薇 | ![](https://static.wikia.nocookie.net/lagooncompany/images/6/68/1662629676388.png)<br>出自作品：`p:black lagoon`<br>本名蕾贝卡·李（英文：Rebecca Lee）。 | [萌娘百科](https://zh.moegirl.org.cn/莱薇%28黑礁%29#) \| [Fandom](https://lagooncompany.fandom.com/wiki/Revy) |
 | natsumi kurobe | 黑部夏美 | ![](https://lain.bgm.tv/r/400/pic/crt/l/91/37/99535_crt_lHfHf.jpg?r=1628707687)<br>出自作品:`senpai ga uzai kouhai no hanashi` | [萌娘百科](https://zh.moegirl.org.cn/黑部夏美) |
 | assaultron | 突袭者机器人 | 突袭者（Assaultron）是单机RPG游戏《辐射系列》中的一种机器人。 | [萌娘百科](https://zh.moegirl.org.cn/突袭者机器人) |
-| satoru gojo | 五条悟 |  |  |
+| satoru gojo | 五条悟 | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/e/ef/Satoru_Gojo_%28Anime_2%29.png)<br>出自作品:`jujutsu kaisen` |  |
 | aki hayakawa | 早川秋 | 早川秋是由藤本树所创作的漫画《电锯人》及其衍生作品的登场角色。 |  |
 | annie leonhart | 阿尼·利昂纳德 | ![](https://ehgt.org/w/01/915/63078-fw033jwi.webp)<br>出自作品：`p:shingeki no kyojin`<br><br>阿尼·利昂纳德是谏山创创作的漫画《进击的巨人》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/阿尼·利昂纳德) |
 | nekomiya hinata | 猫宫日向 | 猫宮 ひなた 是从2018年2月开始活动的日本虚拟YouTuber。<br>![塑料袋战神](https://img.moegirl.org.cn/common/9/9c/Nekomiya_Hinata_Creator002.png) | [萌娘百科](https://zh.moegirl.org.cn/猫宫日向) |
