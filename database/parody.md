@@ -2292,7 +2292,7 @@ example:
 | seitokai ni mo ana wa aru | 脑洞学生会 | ![](https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_oPitO.jpg)<br>日语：生徒会にも穴はある！ | [萌娘百科](https://zh.moegirl.org.cn/脑洞学生会) |
 | wan sheng jie | 万圣街 |  |  |
 | make heroine ga oosugiru | 败犬女主太多了！ | ![](https://lain.bgm.tv/r/400/pic/cover/l/e4/dc/464376_NsZRw.jpg)<br>日语：負けヒロインが多すぎる！<br>作者：雨森焚火 | [维基百科](https://zh.wikipedia.org/wiki/敗北女角太多了！) [萌娘百科](https://zh.moegirl.org.cn/败犬女主也太多了！) |
-| tokidoki bosotto russia-go de dereru tonari no alya-san | 不时轻声地以俄语遮羞的邻座艾莉同学 | 《不时轻声地以俄语遮羞的邻座艾莉同学》（日语：時々ボソッとロシア語でデレる隣のアーリャさん，简称ろしでれ）是由燦々SUN所撰写， ももこ负责插画，KADOKAWA出版的一部小说，并有动画等衍生作品。<br>![](https://img.moegirl.org.cn/common/3/35/Roshidere.jpg) | [萌娘百科](https://zh.moegirl.org.cn/不时轻声地以俄语遮羞的邻座艾莉同学) |
+| tokidoki bosotto russia-go de dereru tonari no alya-san | 不时轻声地以俄语遮羞的邻座艾莉同学 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7c/8e/424883_BpzVb.jpg)<br>![](https://lain.bgm.tv/r/400/pic/cover/l/d6/5b/513725_t273R.jpg)<br>日语：時々ボソッとロシア語でデレる隣のアーリャさん | [萌娘百科](https://zh.moegirl.org.cn/不时轻声地以俄语遮羞的邻座艾莉同学) |
 | doupo cangqiong | 斗破苍穹 | ![](https://static.wikia.nocookie.net/battle-through-the-heavens/images/a/a5/Battle_Through_The_Heavens_Donghua.png)<br>天蚕土豆创作的网络小说，并有同名改编漫画和动画。 |  |
 | nige jouzu no wakagimi | 擅长逃跑的殿下 | 《擅长逃跑的殿下》(逃げ上手の若君，又译少主溜得快) | [官网地址](https://www.shonenjump.com/j/rensai/nigejozu.html)<br>[维基百科](https://zh.wikipedia.org/wiki/擅長逃跑的殿下)<br>[萌娘百科](https://zh.moegirl.org.cn/擅长逃跑的殿下) |
 | the flash | 闪电侠 |  |  |
