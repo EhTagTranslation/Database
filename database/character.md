@@ -7998,7 +7998,7 @@ example:
 | julie sigtuna | 茱莉·西格图纳 | ![](https://ehgt.org/w/02/004/05661-n39okdn2.webp)<br>所属作品：`absolute duo` |  |
 | sora ikushima | 郁岛空 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/4d/郁岛空.jpg)<br>所属作品：`tokyo xanadu` | [萌娘百科](https://zh.moegirl.org.cn/郁岛空) |
 | aila jyrkiainen | 艾拉‧尤基艾宁 | ![](https://ehgt.org/w/01/915/61327-0yrv7nll.webp)<br>所属作品：`gundam build fighters`<br>（アイラ・ユルキアイネン） |  |
-| mahiru shigure | 时雨真昼 | ![](https://ehgt.org/w/01/965/78973-0zvil3ol.webp)<br>所属作品：`gundam build fighters try` |  |
+| mahiru shigure | 时雨真昼 | ![](https://gundam-official.com/media/_dd26ac992b/_dd26ac992b.png)<br>所属作品：`gundam build fighters try` |  |
 | shamna | 夏姆娜 | ![](https://ehgt.org/w/01/849/75965-6gwvbr58.webp)<br>所属作品：`code geass`<br>剧场版动画《Code Geass 复活的鲁路修》中的角色。 |  |
 | mabui | 麻布衣 | ![](https://ehgt.org/w/02/092/53315-nd6flwx9.webp)<br>所属作品：`naruto`<br>雷之国·云隐村的女上忍，四代目雷影的秘书。 |  |
 | rerir | 雷利尔 | ![](https://patchwiki.biligame.com/images/ys/7/75/opnf0rzqwwcvlmlo4nbfrjzt9d0uxlb.png)<br>所属作品：`genshin impact`<br>被称为「猎月人」，是坎瑞亚「五罪人」之一，犯下了「渎死之罪」。 |  |
