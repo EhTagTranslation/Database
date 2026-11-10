@@ -10546,6 +10546,7 @@ example:
 | elza | 艾莎 |  |  |
 | jinako carigiri | 吉娜可·加里吉利 | ![](https://static.wikia.nocookie.net/typemoon/images/a/a6/Jinako.png)<br>日语：ジナコ＝カリギリ<br>出自作品:`fate extra` |  |
 | elletear lou nebulis ix | 伊莉蒂雅·露·涅比利斯九世 | ![](https://static.wikia.nocookie.net/kimisen/images/1/11/Elletear.png)<br>日语：イリーティア・ルゥ・ネビュリス9世<br>出自作品:`kimi to boku no saigo no senjou aruiwa sekai ga hajimaru seisen` |  |
+| sisbell lou nebulis ix | 希丝贝尔·露·涅比利斯九世 | ![](https://static.wikia.nocookie.net/kimisen/images/4/4d/Sisbell.png)<br>日语：シスベル・ルゥ・ネビュリス9世<br>出自作品:`kimi to boku no saigo no senjou aruiwa sekai ga hajimaru seisen` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
