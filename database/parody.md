@@ -147,7 +147,7 @@ example:
 | he is my master | 我的主人爱作怪 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4e/ab/6389_WieXm.jpg)<br>日语：これが私の御主人様<br>别译：这就是我的主人 |  |
 | code geass | 叛逆的鲁鲁修 | ![](https://lain.bgm.tv/r/400/pic/cover/l/da/8c/793_3y432.jpg)<br>《Code Geass 反叛的鲁路修》<br>日语：コードギアス 反逆のルルーシュ | [萌娘百科](https://zh.moegirl.org.cn/CODE_GEASS) \| [维基百科](https://zh.wikipedia.org/wiki/Code_Geass_反叛的魯路修) |
 | naruto | 火影忍者 | ![](https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg)<br>《火影忍者》（日语：NARUTO -ナルト-），为日本漫画家岸本齐史创作的少年漫画，并有改编动画。 | [维基百科](https://zh.wikipedia.org/wiki/火影忍者)<br>[百度百科](https://baike.baidu.com/item/火影忍者/8702) |
-| school rumble | 校园迷糊大王 | ![图](# "https://ehgt.org/99/a6/99a6540c2f25f5dc98b2f1132d653fbe4bc437b1-2416658-1658-2338-jpg_l.jpg")![图](https://ehgt.org/40/63/4063a57712188f2180cbfb8ac11032e46556cd7e-623674-1073-1500-jpg_l.jpg) |  |
+| school rumble | 校园迷糊大王 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a8/ab/440_u01nF.jpg)<br>日语：スクールランブル |  |
 | mahou sensei negima | 魔法老师 | ![图](# "https://ehgt.org/df/d9/dfd98ed6b16847abf801eea4808bcd53a951cbff-1232496-2139-3040-jpg_l.jpg")![图](https://ehgt.org/f7/2a/f72a3eeaf14168631eeef64bbf21f641eba48d21-288643-1024-744-jpg_l.jpg) |  |
 | uq holder | 悠久持有者！ | 《UQ HOLDER！ 悠久持有者！》（UQ Holder!）是日本漫画家赤松健的漫画作品，也是《魔法老师》的衍生作品。时空背景以《魔法老师》完结80年后的近未来为主。 | [维基百科](https://zh.wikipedia.org/wiki/悠久持有者) (\*) |
 | neon genesis evangelion | 新世纪福音战士 | ![](https://ehgt.org/36/bc/36bc297b5931d32502b99f850ff7073aa77416dc-841515-1200-1719-jpg_l.jpg)<br>日语： 新世紀エヴァンゲリオン | [百度百科](https://baike.baidu.com/item/新世纪福音战士/55458) |
