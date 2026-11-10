@@ -10551,6 +10551,7 @@ example:
 | millavair lou nebulis viii | 米拉贝亚·露·涅比利斯八世 | ![](https://static.wikia.nocookie.net/kimisen/images/c/c5/Millavair.png)<br>日语：ミラベア・ルゥ・ネビュリス8世<br>出自作品:`kimi to boku no saigo no senjou aruiwa sekai ga hajimaru seisen` |  |
 | miki hosokawa | 细川美树 | ![](https://static.wikia.nocookie.net/hell-teacher-nube/images/9/9c/Miki_Hosokawa_%282025%29.webp)<br>出自作品:`hell teacher nube` |  |
 | shia kijima | 木岛西亚 | ![](https://gundam-official.com/media/_5ca4123fd0/_5ca4123fd0.png)<br>出自作品:`gundam build fighters try` |  |
+| china kousaka | ‌高坂千奈 | ![](https://gundam-official.com/media/_7639af4879/_7639af4879.png)<br>出自作品:`gundam build fighters` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
