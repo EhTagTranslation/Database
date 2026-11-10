@@ -15881,6 +15881,7 @@ example:
 | kanekokun | かねこくん |  |  |
 | sisukowon | 死すこをん |  |  |
 | mattari yufi | まったりユフィ |  |  |
+| arakige tanji | 荒木出丹治 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
