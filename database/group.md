@@ -14407,6 +14407,7 @@ example:
 | wolf wan | うるふわん |  |  |
 | nibiiro nostalgia | 鈍色ノスタルジア |  |  |
 | seki o shite mo shikori | 咳をしても、しこり |  |  |
+| mattari gozen | まったり御膳 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
