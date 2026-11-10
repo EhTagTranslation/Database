@@ -3829,7 +3829,7 @@ example:
 | yoriko nikaido | 二阶堂赖子 | ![](https://static.wikia.nocookie.net/yua/images/c/c2/Yoriko_Nikaidou.jpg) |  |
 | kyousuke natsume | 枣恭介 | 枣恭介，是Visual Art's旗下品牌`key`创作的游戏《`little busters`》及其衍生系列作品的登场角色。<br><br>本作的真·男主，在主要线路中几乎都是核心人物。<br>![](https://static.wikia.nocookie.net/littlebusters/images/e/e2/Kyousuke_Icon.png) |  |
 | rin natsume | 枣铃 | 枣铃（なつめ りん），是Visual Art's旗下品牌`key`创作的游戏《`little busters`》系列及其衍生作品的登场角色，女主角之一。<br>![](https://static.wikia.nocookie.net/littlebusters/images/4/43/Rin_Icon.png) |  |
-| kobeni yonomori | 夜之森小红 | 夜之森小红是漫画《未确认进行式》及其衍生的动画作品的登场角色，女主角。<br>![夜之森小红](https://lain.bgm.tv/pic/crt/l/61/12/21418_crt_cqedS.jpg)<br>拥有巨乳安产型的身材，但本人相当介意这种体型，体质虚弱。<br>小时候就已经见过白夜，但之后因为发生事故，而遗忘了这件事。<br>家事万能，并负责制作三餐。 | [Bangumi](https://bgm.tv/character/21418) [萌娘百科](https://zh.moegirl.org.cn/夜之森小红) |
+| kobeni yonomori | 夜之森小红 | ![](https://bkimg.cdn.bcebos.com/pic/9345d688d43f8794a4c25deb454319f41bd5ac6e8ce4)<br>出自作品:`mikakunin de shinkoukei` | [Bangumi](https://bgm.tv/character/21418) [萌娘百科](https://zh.moegirl.org.cn/夜之森小红) |
 | sheryl nome | 雪露·诺姆 | 所属作品：`macross frontier`<br>![](https://static.wikia.nocookie.net/macross/images/1/18/Sherylsan3.jpg) |  |
 | iori shiromi | 银镜伊织 | ![](https://patchwiki.biligame.com/images/ba/5/5c/f7coz94tvkhvfuw7ovu1zv0g6d8y51k.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Iori)<br>[萌娘百科](https://zh.moegirl.org.cn/银镜伊织) |
 | barbara | 芭芭菈 | 所属作品：`p:hai to gensou no grimgar`<br><br>盗贼公会教官，热情奔放、举止大胆野蛮，穿着性感劲装、短发、戴着眼镜的抖S美人。 |  |
