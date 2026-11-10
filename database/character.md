@@ -952,7 +952,7 @@ example:
 | chiwa harusaki | 春咲千和 | ![](https://bkimg.cdn.bcebos.com/pic/63d9f2d3572c11dff2154c27642762d0f603c2ea)<br>出自作品:`ore no kanojo to osananajimi ga shuraba sugiru` |  |
 | eita kidou | 季堂锐太 | ![](https://bkimg.cdn.bcebos.com/pic/80cb39dbb6fd5266d0162d97344e802bd40734fa98a0)<br>出自作品:`ore no kanojo to osananajimi ga shuraba sugiru` |  |
 | masuzu natsukawa | 夏川真凉 | ![](https://static.wikia.nocookie.net/charactah-account/images/b/b3/Masuzu_Natsukawa_Render_01.png)<br>出自作品:`ore no kanojo to osananajimi ga shuraba sugiru` |  |
-| himeka akishino | 秋篠姬香 | ![秋篠姬香](# "https://ehgt.org/c1/4b/c14b838eeb2e3b6c8e9b9fc1e1fd5104d6d968e7-785787-1280-1024-jpg_l.jpg") |  |
+| himeka akishino | 秋篠姬香 | ![](https://bkimg.cdn.bcebos.com/pic/d1160924ab18972b429c7283e5cd7b899f510ad0)<br>出自作品:`ore no kanojo to osananajimi ga shuraba sugiru` |  |
 | ai fuyuumi | 冬海爱衣 | ![](https://bkimg.cdn.bcebos.com/pic/c83d70cf3bc79f3df8dcd9771af7da11728b47108364)<br>出自作品:`ore no kanojo to osananajimi ga shuraba sugiru` |  |
 |  | ▼ 我的妹妹不可能那么可爱 角色 |  |  |
 | kyousuke kousaka | 高坂京介 | ![高坂京介](https://ehgt.org/88/3a/883a07dfca2577c54c01d0a92be2d72d5240b136-2180731-2521-3600-jpg_l.jpg) |  |
