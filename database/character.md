@@ -10552,6 +10552,7 @@ example:
 | miki hosokawa | 细川美树 | ![](https://static.wikia.nocookie.net/hell-teacher-nube/images/9/9c/Miki_Hosokawa_%282025%29.webp)<br>出自作品:`hell teacher nube` |  |
 | shia kijima | 木岛西亚 | ![](https://gundam-official.com/media/_5ca4123fd0/_5ca4123fd0.png)<br>出自作品:`gundam build fighters try` |  |
 | china kousaka | ‌高坂千奈 | ![](https://gundam-official.com/media/_7639af4879/_7639af4879.png)<br>出自作品:`gundam build fighters` |  |
+| keiko sano | 佐野启子 | ![](https://gundam-official.com/media/_8dd62d7e96/_8dd62d7e96.png)<br>出自作品:`gundam build fighters try` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
