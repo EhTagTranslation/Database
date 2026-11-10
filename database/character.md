@@ -10549,6 +10549,7 @@ example:
 | sisbell lou nebulis ix | 希丝贝尔·露·涅比利斯九世 | ![](https://static.wikia.nocookie.net/kimisen/images/4/4d/Sisbell.png)<br>日语：シスベル・ルゥ・ネビュリス9世<br>出自作品:`kimi to boku no saigo no senjou aruiwa sekai ga hajimaru seisen` |  |
 | nene alkastone | 音音·阿卡斯通 | ![](https://static.wikia.nocookie.net/kimisen/images/5/57/Nene.png)<br>日语：音々・アルカストーネ<br>出自作品:`kimi to boku no saigo no senjou aruiwa sekai ga hajimaru seisen` |  |
 | millavair lou nebulis viii | 米拉贝亚·露·涅比利斯八世 | ![](https://static.wikia.nocookie.net/kimisen/images/c/c5/Millavair.png)<br>日语：ミラベア・ルゥ・ネビュリス8世<br>出自作品:`kimi to boku no saigo no senjou aruiwa sekai ga hajimaru seisen` |  |
+| miki hosokawa | 细川美树 | ![](https://static.wikia.nocookie.net/hell-teacher-nube/images/9/9c/Miki_Hosokawa_%282025%29.webp)<br>出自作品:`hell teacher nube` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
