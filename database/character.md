@@ -4687,7 +4687,7 @@ example:
 | kouta oyamada | 小山田耕太 |  | [萌娘百科](https://zh.moegirl.org.cn/我的狐仙女友) |
 | chizuru minamoto | 源千鹤 |  | [萌娘百科](https://zh.moegirl.org.cn/我的狐仙女友) |
 | nozomu ezomori | 犹守望 |  | [萌娘百科](https://zh.moegirl.org.cn/我的狐仙女友) |
-| anisphia wynn palettia | 艾妮丝菲亚·温·帕雷提亚 | ![](https://img.moegirl.org.cn/common/3/3f/艾尼斯菲亚.png)<br>所属作品：`tensei oujo to tensai reijou no mahou kakumei`<br>帕雷提亚王国的王女。五岁时觉醒了前世在现代社会的记忆，十分憧憬现在的世界所特有的魔法。 | [萌娘百科](https://zh.moegirl.org.cn/艾妮丝菲亚·温·帕雷提亚) |
+| anisphia wynn palettia | 艾妮丝菲亚·温·帕雷提亚 | ![](https://img.moegirl.org.cn/common/3/3f/艾尼斯菲亚.png)<br>所属作品：`tensei oujo to tensai reijou no mahou kakumei` | [萌娘百科](https://zh.moegirl.org.cn/艾妮丝菲亚·温·帕雷提亚) |
 | euphyllia magenta | 尤菲莉亚·玛赞塔 | ![](https://img.moegirl.org.cn/common/thumb/b/b1/尤菲莉亚.png/420px-尤菲莉亚.png)<br>所属作品：`tensei oujo to tensai reijou no mahou kakumei` | [萌娘百科](https://zh.moegirl.org.cn/尤菲莉亚·玛赞塔) |
 | gobuta | 哥布塔 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/c/ce/Gobta_Anime.png)<br>所属作品:`p:tensei shitara slime datta ken` | [萌娘百科](https://zh.moegirl.org.cn/哥布塔) |
 | hakos baelz | 哈珂斯·贝尔丝 | 哈珂斯·贝尔丝（英语：Hakos Baelz；日语：ハコス・ベールズ）所属社团:`p:hololive`<br>是一名VTuber<br>![](https://img.moegirl.org.cn/common/1/1a/Bae出道贺图.png) | [萌娘百科](https://zh.moegirl.org.cn/哈珂斯·贝尔丝) |
