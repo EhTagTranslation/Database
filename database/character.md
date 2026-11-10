@@ -10545,6 +10545,7 @@ example:
 | yashiro | 社 | ![](https://static.wikia.nocookie.net/kancolle/images/c/cd/Yashiro_Full.png)<br>出自作品:`kantai collection` |  |
 | elza | 艾莎 |  |  |
 | jinako carigiri | 吉娜可·加里吉利 | ![](https://static.wikia.nocookie.net/typemoon/images/a/a6/Jinako.png)<br>日语：ジナコ＝カリギリ<br>出自作品:`fate extra` |  |
+| elletear lou nebulis ix | 伊莉蒂雅·露·涅比利斯九世 | ![](https://static.wikia.nocookie.net/kimisen/images/1/11/Elletear.png)<br>日语：イリーティア<br>出自作品:`kimi to boku no saigo no senjou aruiwa sekai ga hajimaru seisen` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
