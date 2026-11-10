@@ -1226,7 +1226,7 @@ example:
 | avatar the last airbender | 降世神通：最后的气宗 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f2/70/4607_zzEOq.jpg)<br>降卋神通：最后的气宗（“卋”为“世”的古字，一般表达时直接将其转换为现代用字，又称为降世神通：安昂传说） | [维基百科](https://zh.wikipedia.org/wiki/降世神通：最後的氣宗) |
 | coppelion | 核爆末世录 | 《核爆末世录》（日语：COPPELION）是井上智德的SF漫画作品。于《周刊Young Magazine》（讲谈社）2008年28号开始连载至2012年23号。其后转至同出版社的《月刊Young Magazine》2012年6月号开始连载，至2016年3月号完结。共226话，26卷。台湾已由尖端出版出版11本单行本。 | [维基百科](https://zh.wikipedia.org/wiki/核爆末世錄) (\*) |
 | maison ikkoku | 相聚一刻 | 《相聚一刻》又译《一刻馆》，是高桥留美子的漫画作品。该作于1980年在小学馆青年漫画杂志《Big Comic Spirits》创刊号上开始连载，后来改编成电视动画，全96话。 | [维基百科](https://zh.wikipedia.org/wiki/相聚一刻) (\*) |
-| mikakunin de shinkoukei | 未确认进行式 | 《未确认进行式》（日语：未確認で進行形），是日本漫画家荒井切利（荒井チェリー）的四格漫画作品，在一迅社旗下发行的杂志《漫画4格 Palette》2009年6月号中开始连载。 | [维基百科](https://zh.wikipedia.org/wiki/未確認進行式) (\*) |
+| mikakunin de shinkoukei | 未确认进行式 | ![](https://lain.bgm.tv/r/400/pic/cover/l/4a/80/83869_vIW6y.jpg)<br>日语：未確認で進行形 | [维基百科](https://zh.wikipedia.org/wiki/未確認進行式) (\*) |
 | tasogare otome x amnesia | 黄昏少女×失忆 | 《黄昏少女×失忆》（日语：黄昏乙女×アムネジア），是日本漫画作品。作者为めいびい。在2012年1月的杂志“GANGAN JOKER”上宣布正式动画化，2012年4月8日开始播出。 | [维基百科](https://zh.wikipedia.org/wiki/黃昏乙女×失憶幽靈) (\*) |
 | guild wars | 激战 | 激战（Guildwars，又称“行会战争”）是ArenaNet所制作的3D奇幻类型大型多人线上角色扮演游戏。 | [维基百科](https://zh.wikipedia.org/wiki/激战_%28游戏%29) (\*) |
 | battle girl high school | 战斗女子高校 | 《战斗女子高校》（日语：バトルガールハイスクール 台版译名：战斗女子学园）是由COLOPL制作的一款智能手机游戏，简称《战女》。 | [萌娘百科](https://zh.moegirl.org.cn/战斗女子高校) (\*\*) |
