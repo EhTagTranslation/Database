@@ -14406,6 +14406,7 @@ example:
 | shikoutsubo | シコウツボ |  |  |
 | wolf wan | うるふわん |  |  |
 | nibiiro nostalgia | 鈍色ノスタルジア |  |  |
+| seki o shite mo shikori | 咳をしても、しこり |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
