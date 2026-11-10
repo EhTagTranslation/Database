@@ -14405,6 +14405,7 @@ example:
 | pantsu hakanai | パンツ儚い |  |  |
 | shikoutsubo | シコウツボ |  |  |
 | wolf wan | うるふわん |  |  |
+| nibiiro nostalgia | 鈍色ノスタルジア |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
