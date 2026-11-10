@@ -14409,6 +14409,7 @@ example:
 | seki o shite mo shikori | 咳をしても、しこり |  |  |
 | mattari gozen | まったり御膳 |  |  |
 | strekoza | ストレコ座 |  |  |
+| teruism | 照イズム |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
