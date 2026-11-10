@@ -15879,6 +15879,7 @@ example:
 | ninoji | にのじ |  |  |
 | rinon9 | riNon9 |  | [pixiv](https://www.pixiv.net/users/3919298) |
 | kanekokun | かねこくん |  |  |
+| sisukowon | 死すこをん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
