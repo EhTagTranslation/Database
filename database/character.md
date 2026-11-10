@@ -7901,7 +7901,7 @@ example:
 | rose marbleheart | 萝丝·玛波哈特 | ![](https://static.wikia.nocookie.net/from-old-country-bumpkin-to-master-swordsman/images/7/7b/Rose_Marblehart_Anime_Render.png)<br>所属作品：`katainaka no ossan kensei ni naru` |  |
 | surena lysandra | 斯蕾娜·利桑德拉 | ![](https://ossan-kensei.com/core_sys/images/main/cont/chara/surena.png)<br>所属作品：`katainaka no ossan kensei ni naru`<br>拥有“龙双剑的利桑德拉”称号的双剑使用者。 |  |
 | lucy diamond | 露西·戴亚蒙德 | ![](https://ossan-kensei.com/core_sys/images/main/cont/chara/lucy.png)<br>所属作品：`katainaka no ossan kensei ni naru`<br>莱贝里斯王国魔法师团的团长，外表看起来不过像个小孩，实际上年龄远远超过贝利尔。 |  |
-| mewi freya | 缪伊·芙蕾雅 | ![](https://ossan-kensei.com/core_sys/images/main/cont/chara/mewi.png)<br>所属作品：`katainaka no ossan kensei ni naru`<br>与唯一的血亲——姐姐相依为命，在贫民街中艰难度日。 |  |
+| mewi freya | 缪伊·芙蕾雅 | ![](https://ossan-kensei.com/core_sys/images/main/cont/chara/mewi.png)<br>所属作品：`katainaka no ossan kensei ni naru` |  |
 | ficelle harbeller | 菲赛尔·哈维拉 | ![](https://ossan-kensei.com/core_sys/images/main/cont/chara/ficelle.png)<br>所属作品：`katainaka no ossan kensei ni naru`<br>王国魔法师团的王牌魔术师。 |  |
 | krulcifer einfolk | 库露露席法·恩芙尔克 | ![](https://saijaku.jp/img/character_image03.jpg)<br>所属作品：`saijaku muhai no bahamut`<br>クルルシファー·エインフォルク<br>本作女主角之一，从北方的优密尔教国前来王立士官学园就读的留学生，就读二年级，恩芙尔克伯爵家的大小姐，神装机龙〈法夫纳 Fafnir〉的使用者。 |  |
 | yoruka kirihime | 切姬夜架 | ![](https://static.wikia.nocookie.net/saijakumuhainobahamut/images/d/d0/Yoruka.jpg)<br>所属作品：`saijaku muhai no bahamut`<br>日语：きりひめ よるか<br>被帝国所灭的东方岛国“古都国”的公主，同时是该国最强的机龙使，神装机龙〈夜刀神 Yato no Kami〉的操纵者。 |  |
