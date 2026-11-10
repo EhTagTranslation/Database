@@ -106,7 +106,7 @@ example:
 | mobile suit gundam tekketsu no orphans | 机动战士高达 铁血的孤儿 |  |  |
 | gundam wing | 新机动战记高达W |  |  |
 | gundam build fighters | 高达创战者 | ![](https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2242237041.webp) |  |
-| gundam build fighters try | 高达创战者TRY |  |  |
+| gundam build fighters try | 高达创战者TRY | ![](https://lain.bgm.tv/r/400/pic/cover/l/34/c6/105875_HsCsc.jpg)<br>日语：ガンダムビルドファイターズトライ |  |
 | gundam build divers | 高达创形者 |  |  |
 | gundam g no reconguista | 高达G之复国运动 | ![](https://upload.wikimedia.org/wikipedia/en/4/46/GnoReconguista1.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original)<br>日语名：《ガンダム Gのレコンギスタ》<br>由富野由悠季编剧、执导，SUNRISE制作的日本原创电视动画作品。 |  |
 | gundam x | 机动新世纪高达X |  |  |
