@@ -15878,6 +15878,7 @@ example:
 | un equals shokutarou | うん＝食太郎 |  | [X](https://x.com/unktbtr) |
 | ninoji | にのじ |  |  |
 | rinon9 | riNon9 |  | [pixiv](https://www.pixiv.net/users/3919298) |
+| kanekokun | かねこくん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
