@@ -15880,6 +15880,7 @@ example:
 | rinon9 | riNon9 |  | [pixiv](https://www.pixiv.net/users/3919298) |
 | kanekokun | かねこくん |  |  |
 | sisukowon | 死すこをん |  |  |
+| mattari yufi | まったりユフィ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
