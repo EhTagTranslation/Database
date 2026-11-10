@@ -950,7 +950,7 @@ example:
 | furano yukihira | 雪平富良野 | ![雪平富良野](# "https://ehgt.org/62/9f/629ffe5201a513686c2bac5451efe326b87f59be-297757-1000-1407-jpg_l.jpg") |  |
 |  | ▼ 我女友与青梅竹马的惨烈修罗场 角色 |  |  |
 | chiwa harusaki | 春咲千和 | ![](https://bkimg.cdn.bcebos.com/pic/63d9f2d3572c11dff2154c27642762d0f603c2ea)<br>出自作品:`ore no kanojo to osananajimi ga shuraba sugiru` |  |
-| eita kidou | 季堂锐太 | ![季堂锐太](# "https://ehgt.org/f9/aa/f9aaffd09dabe9085a2bef2a2fc4c1b17b967e42-556245-1280-1024-jpg_l.jpg") |  |
+| eita kidou | 季堂锐太 | ![](https://bkimg.cdn.bcebos.com/pic/80cb39dbb6fd5266d0162d97344e802bd40734fa98a0)<br>出自作品:`ore no kanojo to osananajimi ga shuraba sugiru` |  |
 | masuzu natsukawa | 夏川真凉 | ![](https://static.wikia.nocookie.net/charactah-account/images/b/b3/Masuzu_Natsukawa_Render_01.png)<br>出自作品:`ore no kanojo to osananajimi ga shuraba sugiru` |  |
 | himeka akishino | 秋篠姬香 | ![秋篠姬香](# "https://ehgt.org/c1/4b/c14b838eeb2e3b6c8e9b9fc1e1fd5104d6d968e7-785787-1280-1024-jpg_l.jpg") |  |
 | ai fuyuumi | 冬海爱衣 | ![冬海爱衣](# "https://ehgt.org/2d/23/2d2392bd2c85b3685a03a08a4461797fe36e6bd5-884316-1280-1024-jpg_l.jpg") |  |
