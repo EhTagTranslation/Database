@@ -2709,7 +2709,7 @@ example:
 | magical taruruuto-kun | 幻法小魔星 |  |  |
 | reibaishi izuna | 灵媒师东名 |  |  |
 | yotaka futatabi | 夜鹰再临 | 日文：夜鷹ふたたび |  |
-| ninja to koroshiya no futarigurashi | 忍者与杀手的同住日常 | 《忍者×杀手二人组的日常生活》（日语：忍者と殺し屋のふたりぐらし）是由ハンバーガー创作的一部漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/忍者×杀手二人组的日常生活) |
+| ninja to koroshiya no futarigurashi | 忍者与杀手的同住日常 | ![](https://lain.bgm.tv/r/400/pic/cover/l/15/a3/491569_R42i0.jpg)<br>日语：忍者と殺し屋のふたりぐらし | [萌娘百科](https://zh.moegirl.org.cn/忍者×杀手二人组的日常生活) |
 | project kv | Project KV | ![](https://lain.bgm.tv/r/400/pic/cover/l/bd/47/509035_heggl.jpg)<br>“Project KV”是Dynamis One以及Studio Alaya共同打造的游戏项目。该项目因涉嫌抄袭Nexon游戏《Blue Archive》且事实上不正当利用《Blue Archive》未公开的素材，在公开仅8天后中止游戏开发。 | [萌娘百科](https://zh.moegirl.org.cn/Project_KV) |
 | bishoujo kamen poitrine | 美少女假面珀怀特琳 |  |  |
 | doki doki majo shinpan | 心跳魔女神判 |  |  |
