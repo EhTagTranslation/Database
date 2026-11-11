@@ -2790,7 +2790,7 @@ example:
 | may | 小遥 \| 梅伊 | ①所属作品：`guilty gear`<br>![](https://static.wikia.nocookie.net/guilty-gear/images/d/d7/May_Guilty_Gear_Strive.png)<br>——————————<br>②所属作品：`pokemon`<br>![](https://archives.bulbagarden.net/media/upload/thumb/a/a0/Omega_Ruby_Alpha_Sapphire_May.png/270px-Omega_Ruby_Alpha_Sapphire_May.png)<br><br>日文︰ハルカ | [神奇宝贝百科](https://wiki.52poke.com/wiki/小遙（動畫）) |
 | dawn | 小光 | ![](https://s1.52poke.com/wiki/thumb/b/bb/小光_Pt.png/223px-小光_Pt.png)<br>所属作品：`pokemon`<br>日文︰ヒカリ | [神奇宝贝百科](https://wiki.52poke.com/wiki/小光（动画）)<br>[萌娘百科](https://zh.moegirl.org.cn/小光%28宝可梦%29#) |
 | kyaru | 凯露 | ![](https://static.wikia.nocookie.net/princess-connect/images/a/a7/Kyaru_%28game%29.png)<br>所属作品：`princess connect`<br>美食殿成员。 | [萌娘百科](https://zh.moegirl.org.cn/百地希留耶) |
-| mai sakurajima | 樱岛麻衣 | ![](https://img.moegirl.org.cn/common/3/36/Sakuraji_Mai02.png)<br>所属作品：`seishun buta yarou wa bunny girl senpai no yume o minai`<br>峰原高中三年级。咲太的学姐，以童星出道的人气女演员。于两年前初中毕业时，因不明原因退出演艺圈。 | [萌娘百科](https://zh.moegirl.org.cn/樱岛麻衣) |
+| mai sakurajima | 樱岛麻衣 | ![](https://img.moegirl.org.cn/common/3/36/Sakuraji_Mai02.png)<br>所属作品：`seishun buta yarou wa bunny girl senpai no yume o minai` | [萌娘百科](https://zh.moegirl.org.cn/樱岛麻衣) |
 | ai mizuno | 水野爱 | ![水野爱](# "https://ehgt.org/39/e1/39e1a12210420aa8b6763c4d989c946c38b0ff5c-271185-573-1118-png_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/水野爱) |
 | yuuma kuga | 空闲游真 | 空闲游真，日本漫画《境界触发者》中的主人公之一。 | [百度百科](https://baike.baidu.com/item/空闲游真) |
 | kokkoro | 可可萝 | ![](https://static.wikia.nocookie.net/princess-connect/images/5/5c/Coccoro_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/枣可萝) |
