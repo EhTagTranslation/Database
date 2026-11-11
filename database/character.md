@@ -4343,7 +4343,7 @@ example:
 | chen hai | 镇海 | 所属作品：`p:azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/9159d88deb077fb566ded926e8a9ac1c262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/3da30709206fdb016856f0f4e6780c92262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/9d37e945849f9c64c16c35dafd090cad262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/ab08a4c88ddfa936a94a47d75eec576b262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/81930700ab204c118e940f3db1f1657b262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:镇海) |
 | leeloo minai lekatariba-lamina-tchai ekbat de sebat | Leeloo | 所属作品：`p:the fifth element` | [Fandom](https://fifth-element.fandom.com/wiki/Leeloo) |
 | hasshaku-sama | 八尺大人 |  |  |
-| ushio kofune | 小舟潮 | ![](https://static.wikia.nocookie.net/summer-time-rendering/images/5/54/Ushio_Kofune.png) | [萌娘百科](https://zh.moegirl.org.cn/小舟潮) [Fandom](https://summer-time-rendering.fandom.com/wiki/Ushio_Kofune) |
+| ushio kofune | 小舟潮 | ![](https://static.wikia.nocookie.net/summer-time-rendering/images/5/54/Ushio_Kofune.png)<br>出自作品:`summertime render` | [萌娘百科](https://zh.moegirl.org.cn/小舟潮) [Fandom](https://summer-time-rendering.fandom.com/wiki/Ushio_Kofune) |
 | moe kazekura | 风仓萌绘 | ![](https://patchwiki.biligame.com/images/ba/0/02/9enodw442ovojdhxdeurikxrokd3157.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Moe) |
 | eiko tsukimi | 月见英子 | 月见英子（日语：月見（つきみ） 英子（えいこ））是由四叶夕卜原作及原案、小川亮作画的一部漫画《派对浪客诸葛孔明》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/月见英子) |
 | hitori gotou | 后藤一里 | ![](https://bocchi.rocks/omnibus/assets/img/page/character/hitori/image_movienew.png)<br>所属作品：`bocchi the rock`<br>后藤一里（日语：後藤（ごとう）ひとり） | [萌娘百科](https://zh.moegirl.org.cn/后藤一里) |
