@@ -3588,7 +3588,7 @@ example:
 | washington | 华盛顿 | ![](https://i0.hdslb.com/bfs/new_dyn/5fb3a145299207a3e1e0ba4a856d1e2c262400697.png)<br>![](https://azurlane.netojuu.com/images/thumb/d/d9/WashingtonHospitalWithoutBG.png/1798px-WashingtonHospitalWithoutBG.png)<br>所属作品：`azur lane` | [碧蓝航线:华盛顿](https://zh.moegirl.org.cn/碧蓝航线:华盛顿) |
 | essex | 埃塞克斯 | ![](https://i2.hdslb.com/bfs/new_dyn/c3f8e26dc045887a386f9e36a9882b4e262400697.png)<br>所属作品：`azur lane` | [碧蓝航线:埃塞克斯](https://zh.moegirl.org.cn/碧蓝航线:埃塞克斯) |
 | indianapolis | 印第安纳波利斯 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/ed4ab424e1a56b847a407603b499a90f262400697.png) | [碧蓝航线:印第安纳波利斯](https://zh.moegirl.org.cn/碧蓝航线:印第安纳波利斯) |
-| albacore | 大青花鱼 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/c88a93ddd1a952c663d7747d2591f233262400697.png) | [碧蓝航线:大青花鱼](https://zh.moegirl.org.cn/碧蓝航线:大青花鱼) |
+| albacore | 大青花鱼 | ![](https://i0.hdslb.com/bfs/new_dyn/c88a93ddd1a952c663d7747d2591f233262400697.png)<br>![](https://azurlane.netojuu.com/images/1/13/AlbacoreMaidWithoutBG.png)<br>所属作品：`azur lane` | [碧蓝航线:大青花鱼](https://zh.moegirl.org.cn/碧蓝航线:大青花鱼) |
 | new jersey | 新泽西 | ![](https://i0.hdslb.com/bfs/new_dyn/3fc5836ba42d37b9870ecfba6317e662262400697.png)<br>![](https://azurlane.netojuu.com/images/thumb/a/a2/New_JerseySummerWithoutBG.png/1781px-New_JerseySummerWithoutBG.png)<br>所属作品: `p:azur lane` | [碧蓝航线:新泽西](https://zh.moegirl.org.cn/碧蓝航线:新泽西) |
 | jean bart | 让·巴尔 | 法国海军黎塞留级战列舰2号舰让·巴尔号战列舰 | [碧蓝航线:让·巴尔](https://zh.moegirl.org.cn/碧蓝航线:让·巴尔) |
 | kokomi sangonomiya | 珊瑚宫心海 | ![](https://patchwiki.biligame.com/images/ys/f/ff/ta826fezuettywytichxu0hslvzvyxy.gif)<br>所属作品:`p:genshin impact`<br>海衹岛的「现人神巫女」，统管海祇岛各项事宜的少女。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=467821) |
