@@ -1823,7 +1823,7 @@ example:
 |  | TYPE-MOON > Fate > Stay Night（第五次圣杯战争） |  |  |
 |  | TYPE-MOON > Fate > Stay Night（第五次圣杯战争）> 英灵 |  |  |
 | saber | Saber | ![](https://mahjongsoul.wiki.gg/images/thumb/Saber-default.png/600px-Saber-default.png?2546b0)<br>本名阿尔托莉雅·潘德拉贡<br>所属作品：`fate stay night` | [萌娘百科](https://zh.moegirl.org.cn/阿尔托莉雅·潘德拉贡)<br>[更多Saber](https://zh.moegirl.org.cn/Saber) |
-| archer | Archer | ![](https://pic.cangku.moe/images/2025/11/22/42cav.png)<br>所属作品：`fate stay night`<br>指第五次圣杯战争中的 Archer，英灵卫宫。其他情况使用真名。 |  |
+| archer | Archer | ![](https://mahjongsoul.wiki.gg/images/Archer-default.png?5ddec9)<br>所属作品：`fate stay night` |  |
 | lancer | Lancer | 指第五次圣杯战争中的 Lancer，库·丘林。其他情况使用真名。<br>![图](https://ehgt.org/3f/13/3f13a3d0d1f1fdd8d72b28432f077e33d260b3cc-2425361-1024-1448-png_l.jpg)![图](https://ehgt.org/09/90/0990ab50cbab3804c8e965b2b05d08d7832854b9-2233444-1024-1448-png_l.jpg) |  |
 |  | Rider | （重复项）指第五次圣杯战争中的 Rider，美杜莎。其他情况使用真名。 |  |
 | caster | Caster | ![](https://static.wikia.nocookie.net/typemoon/images/e/e6/Caster.png)<br>日语：メデイア<br>所属作品：`fate grand order`<br>仅指第五次圣杯战争中的 Caster，美狄亚。其他Caster用其真名。 | [萌娘百科](https://zh.moegirl.org.cn/美狄亚%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/美狄亚) |
