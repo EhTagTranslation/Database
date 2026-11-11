@@ -10554,6 +10554,7 @@ example:
 | china kousaka | ‌高坂千奈 | ![](https://gundam-official.com/media/_7639af4879/_7639af4879.png)<br>出自作品:`gundam build fighters` |  |
 | keiko sano | 佐野启子 | ![](https://gundam-official.com/media/_8dd62d7e96/_8dd62d7e96.png)<br>出自作品:`gundam build fighters try` |  |
 | yomi sakashita | 阪下夜未 | ![](https://gundam-official.com/media/_a0584a2da0/_a0584a2da0.png)<br>出自作品:`gundam build fighters try` |  |
+| erina niki | 二木艾莉娜 | ![](https://static.wikia.nocookie.net/blue-archive/images/7/7e/Erina_Portrait.png)<br>日语：二木エリナ<br>出自作品:`blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
