@@ -1950,7 +1950,7 @@ example:
 | paripi koumei | 派对浪客诸葛孔明 |  | [萌娘百科](https://zh.moegirl.org.cn/派对浪客诸葛孔明) [维基百科](https://zh.wikipedia.org/wiki/派對咖孔明) |
 | sore ga seiyuu | 那就是声优！ |  | [萌娘百科](https://zh.moegirl.org.cn/那就是声优) |
 | advance of zeta | ADVANCE OF Ζ 提坦斯的旗下 |  | [维基百科](https://ja.wikipedia.org/wiki/ADVANCE_OF_Ζ_ティターンズの旗のもとに) [维基百科](https://zh.wikipedia.org/wiki/ADVANCE_OF_Ζ_提坦斯的旗下) |
-| summertime render | 夏日重现 | 《夏日重现》（日语：サマータイムレンダ，英语：Summer Time Rendering）是田中靖规连载的漫画。<br>![图](https://ehgt.org/f6/cd/f6cd44cae2a42d239df505d3ff3b33498ef87218-8215054-1960-2774-png_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/夏日時光_%28漫畫%29) [萌娘百科](https://zh.moegirl.org.cn/夏日重现) |
+| summertime render | 夏日重现 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d9/f5/326895_j1S2n.jpg)<br>日语：サマータイムレンダ | [维基百科](https://zh.wikipedia.org/wiki/夏日時光_%28漫畫%29) [萌娘百科](https://zh.moegirl.org.cn/夏日重现) |
 | kiteretsu daihyakka | 奇天烈大百科 |  | [维基百科](https://zh.wikipedia.org/wiki/奇天烈大百科) |
 | perman | 飞人 |  | [维基百科](https://zh.wikipedia.org/wiki/小超人帕門) |
 | danshi koukousei de urekko light novel sakka o shiteiru keredo | 身为男高中生兼当红轻小说作家的我，正被年纪比我小且从事声优工作的女同学掐住脖子 |  | [维基百科](https://zh.wikipedia.org/wiki/身為男高中生兼當紅輕小說作家的我，正被年紀比我小且從事聲優工作的女同學掐住脖子) |
