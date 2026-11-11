@@ -421,7 +421,7 @@ example:
 | akashi | 明石 | 旧日本帝国海军的明石号维修舰（明石(工作艦)） | [碧蓝航线:明石](https://zh.moegirl.org.cn/碧蓝航线:明石) [舰队Collection:明石](https://zh.moegirl.org.cn/舰队Collection:明石) |
 | ooyodo | 大淀 |  | [战舰少女:大淀](https://zh.moegirl.org.cn/战舰少女:大淀) [舰队Collection:大淀](https://zh.moegirl.org.cn/舰队Collection:大淀) |
 | taigei | 大鲸 |  | [舰队Collection:大鲸](https://zh.moegirl.org.cn/舰队Collection:大鲸) |
-| ryuuhou | 龙凤 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/d36f9db52c961d5cff7e9c0c76aa4241262400697.png) | [碧蓝航线:龙凤](https://zh.moegirl.org.cn/碧蓝航线:龙凤) [舰队Collection:龙凤](https://zh.moegirl.org.cn/舰队Collection:龙凤) |
+| ryuuhou | 龙凤 | ![](https://azurlane.netojuu.com/images/thumb/e/e7/Ryuuhou.png/1482px-Ryuuhou.png)<br>![](https://azurlane.netojuu.com/images/thumb/2/27/RyuuhouNew_Year.png/839px-RyuuhouNew_Year.png)<br>所属作品：`azur lane` | [碧蓝航线:龙凤](https://zh.moegirl.org.cn/碧蓝航线:龙凤) [舰队Collection:龙凤](https://zh.moegirl.org.cn/舰队Collection:龙凤) |
 | tokitsukaze | 时津风 |  | [舰队Collection:时津风](https://zh.moegirl.org.cn/舰队Collection:时津风) |
 | unryuu | 云龙 |  | [舰队Collection:云龙](https://zh.moegirl.org.cn/舰队Collection:云龙) |
 | amagi | 天城 \| 鳐 | ①鳐<br>![](https://azurlane.netojuu.com/images/thumb/c/c8/Amagi.png/1137px-Amagi.png)<br>所属作品：`azur lane`<br>——————————<br>②天城<br>![](https://seikankokka-anime.com/_astro/body.B9SQ6utK_1Rr05p.webp)<br>出自作品:`ore wa seikan kokka no akutoku ryoushu` | [碧蓝航线:天城](https://zh.moegirl.org.cn/碧蓝航线:天城) [舰队Collection:天城](https://zh.moegirl.org.cn/舰队Collection:天城) |
