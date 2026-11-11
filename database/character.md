@@ -3888,7 +3888,7 @@ example:
 | caitlyn | 凯特琳（皮城女警） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/1/18/8cgeiu1rj2jn4jvh4q0y3aj2patcmbt.jpg) | [百度百科](https://baike.baidu.com/item/皮城女警/7770355) |
 | nikaido | 二阶堂 |  |  |
 | reno | 里诺 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/504a1bd65673f2b3ef34fd97fa54af15262400697.png) |  |
-| aegir | 埃吉尔 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/article/ca6b38eaadcc36706c08f778b2ac37bcf7b1911d.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/bf791a8f472a1e50ac3bb9b7932e2fa5262400697.png) |  |
+| aegir | 埃吉尔 | ![](https://azurlane.netojuu.com/images/thumb/3/38/ÄgirWithoutBG.png/1302px-ÄgirWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/8/8b/ÄgirHome_RelaxationWithoutBG.png/1149px-ÄgirHome_RelaxationWithoutBG.png)<br>所属作品：`azur lane` |  |
 | shinano | 信浓 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/a7bd62853a5879c5fe787731980ae622262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/信浓) |
 | foxhound | 狐提 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/5b5fe9946c3e0e31d45876563a6422c1262400697.png) |  |
 | pamiat merkuria | 水星纪念 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/564de2d073edea4e2757b15962268ba6262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/a90048c33b2a91cbfe867f458dcfe9d6262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/c6cb3aa6ed857f84b1d47b0d0412c4b5262400697.png) |  |
