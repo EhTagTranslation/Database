@@ -1984,7 +1984,7 @@ example:
 | yolko | 夜子 | 刀剑神域黄金苹果工会成员<br>![](https://tva1.sinaimg.cn/large/6c84b2d6ly1g236coy05jj208p0bpadn.jpg)![图](# "https://ehgt.org/0b/14/0b14f133f9bcf99c1abc24aed8410c520f355fbb-197858-600-800-jpg_l.jpg") |  |
 | suguha kirigaya | 桐谷直叶 | ![](https://static.wikia.nocookie.net/swordartonline/images/1/13/Kirigaya_Suguha_Real_Life_Appearance_Full_Body.png)<br>所属作品：`sword art online`<br>日语：桐ヶ谷直葉（きりがや すぐは）<br>和`lyfa`是两个不同的Tag |  |
 | lyfa | 莉法 | ![](https://mahjongsoul.wiki.gg/images/thumb/Leafa-default.png/600px-Leafa-default.png?4b9f01)<br>日语：リーファ<br>所属作品：`sword art online` | [Fandom](https://swordartonline.fandom.com/wiki/Kirigaya_Suguha) |
-| shino asada | 朝田诗乃 | ![](https://static.wikia.nocookie.net/swordartonline/images/a/ad/Sinon%27s_GGO_Avatar_Full_Body.png)<br>所属作品：`sword art online` |  |
+| shino asada | 朝田诗乃 | ![](https://mahjongsoul.wiki.gg/images/thumb/Sinon-default.png/600px-Sinon-default.png?117c53)<br>所属作品：`sword art online` |  |
 | yuuki konno | 绀野木棉季（有纪） | ![](https://static.wikia.nocookie.net/swordartonline/images/0/02/Yuuki%27s_ALO_Avatar_Full_Body.png)<br>所属作品：`sword art online`<br>日语：紺野木綿季 | [Fandom](https://swordartonline.fandom.com/wiki/Konno_Yuuki) |
 | nagata shinichi | 长田伸一（雷根） | ![](https://tva1.sinaimg.cn/large/6c84b2d6ly1g235xiuf43j20f60ixn0w.jpg) |  |
 | alicia rue | 亚丽莎·露 | ![图](https://ehgt.org/0c/75/0c75f246c8d3bbad5bcf3aef6e7d82e850da37e9-550241-624-717-png_l.jpg)![图](https://ehgt.org/00/b8/00b83e961cbec01b8fec6e2e667866377f0f0956-190994-700-700-jpg_l.jpg) |  |
