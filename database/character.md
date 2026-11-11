@@ -10557,6 +10557,7 @@ example:
 | erina niki | 二木艾莉娜 | ![](https://static.wikia.nocookie.net/blue-archive/images/7/7e/Erina_Portrait.png)<br>日语：二木エリナ<br>出自作品:`blue archive` |  |
 | yukino sakurai | 樱井雪乃 |  |  |
 | kanade sakurai | 樱井奏 |  |  |
+| mio kofune | 小舟澪 | ![](https://static.wikia.nocookie.net/summer-time-rendering/images/8/88/Mio_Kofune.png)<br>出自作品:`summertime render` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
