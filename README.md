@@ -115,6 +115,8 @@
  一个将 E 站标签翻译成中文并分组展示，方便搜索的油猴脚本。
 </details>
 
+更多项目参见 [ISSUES](https://github.com/EhTagTranslation/Database/issues?q=is%3Aissue+label%3A%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BD%BF%E7%94%A8)。
+
 ## 开发指南
 
 参见 [Wiki/开发指南](../../wiki/开发指南)。
