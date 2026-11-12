@@ -3090,7 +3090,7 @@ example:
 | akizuki mac | 秋月まく |  |  |
 | fujii jun | 藤伊洵 |  |  |
 | morino bambi | 森乃ばんび |  |  |
-| nekoi mie | 猫井ミィ |  |  |
+| nekoi mie | 猫井ミィ | ねこいみぃ | [pixiv](https://www.pixiv.net/users/5483) \| [Lit.Link](https://lit.link/en/minneko) \| [X](https://x.com/yapon0) |
 | ikujinashi no fetishist | いくじなしのフェティシスト |  |  |
 | chomikuplus | Chomikuplus |  | [pixiv](https://www.pixiv.net/users/7621567) [X](https://x.com/Chomikuplus) |
 | fuzui | 不随 |  |  |
