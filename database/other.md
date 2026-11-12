@@ -48,7 +48,9 @@ example:
 |  | == 技术 == |  |  |
 | 3d | 3D | 计算机生成的 3D 图像。不应与`stereoscopic`和`anaglyph`混淆。 |  |
 | 3d imageset | 3D图片集 | 不构成漫画或 CG 集的 3D 内容（即松散的图像、屏幕截图等）。这些图片最好有一个单一的主题（例如，单一的艺术家，系列，角色，或恋物癖）。<br>只适用于`misc`分类。需要`3d`标签。 |  |
+| 3d non-h | 3D非H | 3D 制作的非色情内容。只要包含一张明确描绘性行为的图片，就不符合此标签。允许少量非色情性质的裸露（如意外漏点）。需要`3d`标签。 | [EHWiki](https://ehwiki.org/wiki/3d_non-h) [中文](https://ehwiki.org/wiki/3d_non-h/Chinese) |
 | ai generated | AI生成 | 标题中包含“[AI生成]”指示的图库。无法直接投票，当指示包含在标题中或重命名为包含在标题中时自动应用。当重命名图库以删除指示时，标签会自动删除。重命名必须遵循 [EHWiki](https://ehwiki.org/wiki/ai_generated) 的要求和格式。 |  |
+| ai non-h | AI非H | AI 生成的非色情内容。只要包含一张明确描绘性行为的图片，就不符合此标签。允许少量非色情性质的裸露（如意外漏点）。需要`ai generated`标签。 | [EHWiki](https://ehwiki.org/wiki/ai_non-h) [中文](https://ehwiki.org/wiki/ai_non-h/Chinese) |
 | anaglyph | 红蓝3D | 使用双色产生 3D 效果的图片。不应与`3d`和`stereoscopic`混淆。 |  |
 | animated | 动图 | 包含 GIF 动图的图库。 |  |
 | comic | 西方漫画 | 一种西方色情作品，利用一系列格子来说明故事。通常包含文本气球。仅用于`western`与`misc`作品，非色情内容不算。对于西方非色情内容，请使用`o:western non-h`。 |  |
