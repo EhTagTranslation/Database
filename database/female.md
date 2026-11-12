@@ -25,8 +25,7 @@ copyright: >
 
   本文的其他内容，遵循知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议提供。
 rules:
-  - >-
-    为方便查找理解同类性癖的标签，请尽量按[恋物标签分类](https://ehwiki.org/wiki/Fetish_Listing)归类存放，将类别写成注释。
+  - 为方便查找理解同类性癖的标签，请尽量按[恋物标签分类](https://ehwiki.org/wiki/Fetish_Listing)归类存放，将类别写成注释。
   - 若有属于多个分类的，放入最相关的那一个分类。
   - 为提高图片可用性，以及减轻萌娘百科服务器压力，引用来自萌娘百科的图片时请使用图床，如[流浪图床](https://p.sda1.dev/)。
 example:
@@ -561,7 +560,7 @@ example:
 | pillory | 枷具 | 限制头部和手运动的装置，一般是木制的。需要`bondage`标签。<br>![图](# "https://ehgt.org/a4/ec/a4ec4c1731063293af9a3159e3d3cafc6e334daa-935587-1024-768-png_l.jpg") |  |
 | pole dancing | 钢管舞 | 与一根垂直杆一起跳舞，用于色情目的。 |  |
 | real doll | 充气娃娃 | 现实世界中的用于性目的的等身大玩偶。不应与`animegao`混淆。 |  |
-| sex toys | 性玩具 | 用于性目的的玩具。不包括`strap-on`和`onahole`。<br>![图](# "https://ehgt.org/53/c6/53c63041248903b18d5746bda548caf4b0b386db-740020-850-1200-jpg_l.jpg")![图](# "https://ehgt.org/99/c9/99c93fc367b85cf8a6142d9abd0694f84d77b3a8-580677-1171-1200-png_l.jpg")![图](# "https://ehgt.org/90/43/904373ce7034b105e0995fe4b073c63fe5a9ea9a-469984-700-1022-jpg_l.jpg")![图](# "https://ehgt.org/ed/fe/edfe96680b95c587226b22868cbb193a579cbbe8-1066845-1280-1862-jpg_l.jpg")![图](# "https://ehgt.org/36/5b/365be88703cd52c406044e676261f6ff193eeedb-1242441-1280-1869-jpg_l.jpg") |  |
+| sex toys | 性玩具 | 任何用于性目的的玩具。<br>![图](# "https://ehgt.org/53/c6/53c63041248903b18d5746bda548caf4b0b386db-740020-850-1200-jpg_l.jpg")![图](# "https://ehgt.org/99/c9/99c93fc367b85cf8a6142d9abd0694f84d77b3a8-580677-1171-1200-png_l.jpg")![图](# "https://ehgt.org/90/43/904373ce7034b105e0995fe4b073c63fe5a9ea9a-469984-700-1022-jpg_l.jpg")![图](# "https://ehgt.org/ed/fe/edfe96680b95c587226b22868cbb193a579cbbe8-1066845-1280-1862-jpg_l.jpg")![图](# "https://ehgt.org/36/5b/365be88703cd52c406044e676261f6ff193eeedb-1242441-1280-1869-jpg_l.jpg") |  |
 | speculum | 扩张器 | 用于扩张诸如肛门或阴道等体腔的医疗装置。<br>![图](# "https://ehgt.org/5e/22/5e22062c47dd9112c63c996a5e1b79f25320c1f9-248686-579-819-jpg_l.jpg")![图](# "https://ehgt.org/19/70/19705183385b0ccba4f219aef6028c898534a64c-1070313-2124-3000-jpg_250.jpg")![图](# "https://ehgt.org/cb/90/cb90dd58fefb28fc15a653424e8ded29c26239ad-154666-800-600-jpg_l.jpg") |  |
 | strap-on | 穿戴式阳具 | 可以附着的阳具。很可能是`pegging`或`yuri`的环节。不应与`sex toys`混淆。<br>![图](# "https://ehgt.org/0c/5e/0c5efc72727134e49ffc504f5271b417e1ccd814-568217-776-1000-jpg_l.jpg")![全身是屌](https://i.ebayimg.com/images/g/nssAAOSwUvVcocrl/s-l500.jpg) |  |
 | syringe | 注射器 | 由管、柱塞和连接的针组成的工具。用于注射液体。常与`drugs`或`breast expansion`一起使用。 |  |
