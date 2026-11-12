@@ -14410,6 +14410,7 @@ example:
 | mattari gozen | まったり御膳 |  |  |
 | strekoza | ストレコ座 |  |  |
 | teruism | 照イズム |  |  |
+| shuuchi no jijitsu | シュウチのジジツ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203049/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG59166.html) \| [Ci-en](https://ci-en.dlsite.com/creator/11361) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
