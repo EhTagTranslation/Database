@@ -15884,6 +15884,7 @@ example:
 | arakige tanji | 荒木出丹治 |  |  |
 | ueumi elio | 上海エリオ |  |  |
 | takamura | タカムラ |  | [pixiv](https://www.pixiv.net/users/63683372) \| [X](https://x.com/takamura_ch) |
+| shouko | 消弧 |  | [FANBOX](https://i2331esh.fanbox.cc/) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203167/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG60019.html) |
 
 <!--TEMPLATE:
 |  |  |  |  |
