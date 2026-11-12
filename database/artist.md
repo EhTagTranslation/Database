@@ -15883,6 +15883,7 @@ example:
 | mattari yufi | まったりユフィ |  |  |
 | arakige tanji | 荒木出丹治 |  |  |
 | ueumi elio | 上海エリオ |  |  |
+| takamura | タカムラ |  | [pixiv](https://www.pixiv.net/users/63683372) \| [X](https://x.com/takamura_ch) |
 
 <!--TEMPLATE:
 |  |  |  |  |
