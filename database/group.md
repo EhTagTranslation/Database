@@ -7446,7 +7446,7 @@ example:
 | mandoragora striker | まんどらごらすとらいかー |  |  |
 | mandrill | まんドリル |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG12616.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=25873/) |
 | manga jigoku | マンガジゴク |  |  |
-| manga super | マンガスーパー |  |  |
+| manga super | マンガスーパー |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57009.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71129/) |
 | mangan | マンガン |  |  |
 | mangana | 漫画な。 |  |  |
 | manganiku | 幡芽にく |  |  |
