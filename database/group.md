@@ -651,7 +651,7 @@ example:
 | yuubin basha | 邮便马车 |  |  |
 | m.macabre | M.MACABRE |  |  |
 | ohkura bekkan | 大藏别馆 |  |  |
-| the dungeon in yarn | The Dungeon In Yarn |  |  |
+| the dungeon in yarn | The Dungeon In Yarn |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG03312.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=20584/) |
 | white datura | White Datura |  |  |
 | hanekaze | HANEKAZE |  |  |
 | stardust cradle | すたーだすとくれいどる | 星尘摇篮, **女性**原画师`a:nagayama yuunon`的同人社团口巴. |  |
