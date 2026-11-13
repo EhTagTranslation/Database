@@ -364,7 +364,7 @@ example:
 | big balls | 大睾丸 | 不正常的巨大睾丸，至少与手的大小相当。 |  |
 | big penis | 大根 | 异常大的阴茎，至少要和其主人的前臂一样大。是`huge penis`的前置标签。 |  |
 | cloaca insertion | 泄殖腔插入 | 将任何东西插入泄殖腔。可能援引`retractable penis`标签。不用于插入阴道。 |  |
-| cockphagia | 阴茎吞食 | 被阴茎整个吞食，可能会导致`big penis`。需要`urethra insertion`标签，不要与`vore`或`unbirth`混淆。 |  |
+| cockphagia | 阴茎吞食 | 被阴茎整个吞食。很可能唤起`big penis`和`urethra insertion`。不要与`vore`或`unbirth`混淆。 |  |
 | cock ring | 锁精环 | 戴在阴茎和/或阴囊轴周围的环。不应与`chastity belt`混淆，但二者可以共存。用作`wormhole`的环不符合条件。 |  |
 | frottage | 阴茎摩擦🤺 | 两根及以上的阴茎相互摩擦。<br>![图](# "https://ehgt.org/a5/71/a571dee39168c1e3297eaf6a55d2d4fe2c9de446-1172542-1200-1694-jpg_l.jpg") |  |
 | horse cock | 马根 | 马形状的阴茎，很可能是`big penis`。不用于`centaur`、`horse`、`horse boy`或`sex toys`。 |  |
