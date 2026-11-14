@@ -10562,6 +10562,7 @@ example:
 | rin ooyama | 大山凛 | ![](https://static.wikia.nocookie.net/powerinstinct/images/2/21/Rin_Oyama.png)<br>![](https://static.wikia.nocookie.net/powerinstinct/images/1/1e/Rin_Oyama_46067.gif)<br>出自作品:`power instinct` |  |
 | krasia annerose | 克拉西亚·安涅萝洁 | ![](https://static.wikia.nocookie.net/hojomaho/images/f/f4/Clasia_Annerose.png)<br>出自作品:`mikata ga yowasugite hojo mahou ni tesshiteita kyuutei mahoushi` |  |
 | ceras yanagida lilienfeld | 塞拉斯·柳田·利林费尔德 | ![](https://bkimg.cdn.bcebos.com/pic/5d6034a85edf8db1cb133eab0779ca54564e9358def0)<br>日语：セラス やなぎだ リリエンフェルト<br>出自作品:`love live hasunosora jogakuin school idol club` |  |
+| chronoa | 克罗诺亚 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/8/8e/Chronoa_%28Armor%29_Anime.png)<br>日语：クロノア<br>出自作品:`tensei shitara slime datta ken` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
