@@ -14413,6 +14413,7 @@ example:
 | shuuchi no jijitsu | シュウチのジジツ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203049/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG59166.html) \| [Ci-en](https://ci-en.dlsite.com/creator/11361) |
 | ganzenankokukan | 眼前暗黒感 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG12092.html) |
 | kenin | 嫌淫 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53774.html) |
+| otonano omochiya | 大人のおもちや |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
