@@ -6868,7 +6868,7 @@ example:
 | gawain | 高文 |  |  |
 | indra | 因陀罗 | ![](https://patchwiki.biligame.com/images/arknights/7/7f/5ozsy60r2kmx79jjjn909uply3g1a7z.png)<br>出自作品：`p:arknights`<br><br>因陀罗，本名汉娜·“因陀罗”·杰克森，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/因陀罗%28明日方舟%29#) \| [BILIGAME WIKI](https://wiki.biligame.com/arknights/因陀罗) |
 | ordinary woman | 一般女性 |  |  |
-| scarlet el vandimion | 斯嘉丽·艾尔·范迪米昂 | ![](https://img.moegirl.org.cn/common/f/f2/斯卡蕾特·艾尔·班迪米昂.png)<br>所属作品：`saigo ni hitotsu dake onegai shite mo yoroshii deshou ka`<br>作为范迪米昂公爵家的千金，她因冷艳的外貌获称'冰之蔷薇'。 | [萌娘百科](https://zh.moegirl.org.cn/斯卡蕾特·艾尔·班迪米昂) |
+| scarlet el vandimion | 斯嘉丽·艾尔·范迪米昂 | ![](https://img.moegirl.org.cn/common/f/f2/斯卡蕾特·艾尔·班迪米昂.png)<br>所属作品：`saigo ni hitotsu dake onegai shite mo yoroshii deshou ka` | [萌娘百科](https://zh.moegirl.org.cn/斯卡蕾特·艾尔·班迪米昂) |
 | isabel | 伊莎贝尔 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/98/Isabel_%28Honeymoon_Party%29_FB.png)<br>所属作品：`goddess of victory nikke` | [https://www.gamekee.com/nikke/tj/170852.html](https://www.gamekee.com/nikke/tj/170852.html) |
 | nihilister | 尼希利斯塔 | ![](https://pic.cangku.moe/images/2025/11/13/1uzZo.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/tj/156441.html) |
 | mermaid | 小美人鱼 | 丹麦作家汉斯·克里斯汀·安徒生创作的童话《海的女儿》中的女主角 |  |
