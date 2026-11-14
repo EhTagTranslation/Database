@@ -910,7 +910,7 @@ example:
 | fosters home for imaginary friends | 亲亲麻吉 |  |  |
 | futurama | 飞出个未来 |  |  |
 | kimi ga yobu megiddo no oka de | 你在米吉多之丘的呼唤 |  |  |
-| kuroko no basuke | 黑子的篮球 |  |  |
+| kuroko no basuke | 黑子的篮球 | ![](https://lain.bgm.tv/r/400/pic/cover/l/09/07/23684_6OrHi.jpg)<br>日语：黒子のバスケ |  |
 | boku to maou | 魔王与我 |  |  |
 | cerberus | 刻耳柏洛斯 |  |  |
 | robot girls z | 机器人少女Z |  |  |
