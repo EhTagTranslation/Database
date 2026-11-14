@@ -213,7 +213,7 @@ example:
 | fate stay night | Fate/stay night | ![](https://lain.bgm.tv/r/400/pic/cover/l/b2/e7/109386_q20wy.jpg)<br>简称FSN<br>日语：フェイト/ステイナイト | [萌娘百科](https://zh.moegirl.org.cn/Fate/stay_night) [维基百科](https://zh.wikipedia.org/wiki/Fate/stay_night) |
 | fate apocrypha | Fate/Apocrypha | ![](https://ehgt.org/43/dc/43dc39bdc54c843b8a806b3f2f71069d316e04e8-3794023-2147-3018-jpg_l.jpg) |  |
 | fate zero | Fate/Zero | Fate/stay night前传<br>![图](https://ehgt.org/ef/f6/eff66d2ba324dc440abd2690fa3bd2682f9b3610-1123388-1472-2217-jpg_l.jpg) |  |
-| fate hollow ataraxia | Fate/hollow ataraxia | ![](https://ehgt.org/02/6c/026c56bf07fb5fee1f5ee3ed00f71cf29f70e544-1269878-1200-1686-jpg_l.jpg) |  |
+| fate hollow ataraxia | Fate/hollow ataraxia | ![](https://lain.bgm.tv/r/400/pic/cover/l/b5/6a/911_9ZJq2.jpg) |  |
 | fate extra | Fate/EXTRA | 《Fate/EXTRA》（日语：フェイト/エクストラ）是由TYPE-MOON和IMAGEEPOCH开发，Marvelous Entertainment发售的一款角色扮演游戏。是根据TYPE-MOON的文字冒险游戏《Fate/stay night》改编而成的。其后推出本作后续作品《Fate/EXTRA CCC》、《Fate/EXTELLA》、《Fate/EXTELLA LINK》。 ![](https://ehgt.org/54/5e/545ed878365815aeb2bf105f851a86cf887e8167-423633-1268-1827-jpg_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/Fate/EXTRA) |
 | fate kaleid liner prisma illya | 魔法少女☆伊莉雅 | ![](https://lain.bgm.tv/r/400/pic/cover/l/1f/c3/43951_TJfCH.jpg)<br>由TYPE-MOON原案、广山弘作画的漫画，并有动画、轻小说、游戏等衍生作品。<br>全名：Fate/kaleid liner 魔法少女☆伊莉雅 | [萌娘百科](https://zh.moegirl.org.cn/Fate/kaleid_liner_魔法少女伊莉雅) |
 | mahou tsukai no yoru | 魔法使之夜 | 《魔法使之夜》（日语：魔法使いの夜／まほうつかいのよる Mahōtsukai no Yoru），是日本TYPE-MOON公司制作并发售的视觉小说类型游戏。简称为“魔夜”（「まほよ」）。 |  |
