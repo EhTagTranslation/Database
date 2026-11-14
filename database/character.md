@@ -10558,6 +10558,7 @@ example:
 | yukino sakurai | 樱井雪乃 |  |  |
 | kanade sakurai | 樱井奏 |  |  |
 | mio kofune | 小舟澪 | ![](https://static.wikia.nocookie.net/summer-time-rendering/images/8/88/Mio_Kofune.png)<br>出自作品:`summertime render` |  |
+| leilidahna guillermo cohendia | Leda（待编辑） | ![](https://static.wikia.nocookie.net/villains/images/b/bb/LedaFE.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
