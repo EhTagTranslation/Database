@@ -6689,7 +6689,7 @@ example:
 | haruka shino | 遥（紫野遥） | ![](https://patchwiki.biligame.com/images/arknights/e/e8/nfbi953jxvx16lnsgjfr5p1rxxmrw5q.png)<br>遥，在东国南院有相当名气的艺人。本名紫野遥，艺名羽生萌萌香。 | [BILIGAME WIKI](https://wiki.biligame.com/arknights/遥) |
 | mulberry | 桑葚 | ![](https://patchwiki.biligame.com/images/arknights/f/f4/l5gy69ekq7qi6tdzksu1dxphh0uptps.png)<br>所属作品`p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/桑葚) |
 | nicole watterson | 妮蔻·沃特森 | 甘宝、达尔文和安安的妈妈，是一只蓝色的猫。在镇上的彩虹工厂上班。 |  |
-| tina howard | 蒂娜·霍华德 | ![](https://koujodenka-anime.com/_astro/body.BxSYonlJ_1qjs2V.webp)<br>所属作品：`koujo denka no kateikyoushi`<br>ティナ・ハワード<br>虽出生在四大公爵家，却无法使用任何魔法，而被当成“霍华德家的禁忌之子”蔑视。 |  |
+| tina howard | 蒂娜·霍华德 | ![](https://koujodenka-anime.com/_astro/body.BxSYonlJ_1qjs2V.webp)<br>日语：ティナ・ハワード<br>所属作品：`koujo denka no kateikyoushi` |  |
 | lisara restall | 莉萨拉·雷斯托 | ![](https://lain.bgm.tv/r/400/pic/crt/l/cd/8c/16397_crt_95aAK.jpg?r=1551006265) |  |
 | eve 07 | 伊芙（剑星） | ![](https://static.wikia.nocookie.net/stellarblade/images/6/6c/Stellar_Blade_Countdown_00.png)<br>出自作品:`stellar blade` |  |
 | nowa sugaya | 菅谷乃羽 | ![](https://i.pixiv.cat/img-master/img/2025/08/28/22/18/03/134435132_p0_master1200.jpg)<br>所属作品：`sono bisque doll wa koi o suru`<br>性格开朗，绑着双马尾的少女，发色为内层红色挑染。<br>海梦等人的同班同学。海梦的好友之一。 | [萌娘百科](https://zh.moegirl.org.cn/菅谷乃羽) |
