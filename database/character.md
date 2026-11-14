@@ -3197,7 +3197,7 @@ example:
 | leaf | 叶子 | ![](https://s1.52poke.com/wiki/thumb/6/60/葉子_FRLG.png/146px-葉子_FRLG.png)<br>所属作品：`pokemon`<br>日文︰リーフ | [神奇宝贝百科](https://wiki.52poke.com/wiki/葉子) |
 | diablo | 迪亚波罗 | ①迪亚波罗<br>![](https://bkimg.cdn.bcebos.com/pic/a8014c086e061d950a7ba53c1ba41dd162d9f2d35c2c)<br>出自作品:`tensei shitara slime datta ken`<br><br>‌②坂本拓真<br>![](https://bkimg.cdn.bcebos.com/pic/6f061d950a7b02087bf4413bdc91e5d3572c10df629a)<br>出自作品:`isekai maou to shoukan shoujo no dorei majutsu` |  |
 | rem galleu | 蕾姆·嘉蕾邬 | ![](https://bkimg.cdn.bcebos.com/pic/267f9e2f0708283835f70b78b599a9014d08f1e0)<br>所属作品：`isekai maou to shoukan shoujo no dorei majutsu` |  |
-| shera l. greenwood | 雪拉·L·古林伍德 | ![](https://static.wikia.nocookie.net/isekai-maou-to-shoukan-shoujo-dorei-majutstu/images/6/66/Shera_L._Greenwood_Anime.webp)<br>所属作品：`isekai maou to shoukan shoujo no dorei majutsu` |  |
+| shera l. greenwood | 雪拉·L·古林伍德 | ![](https://bkimg.cdn.bcebos.com/pic/7aec54e736d12f2e4a64183843c2d56285356801)<br>所属作品：`isekai maou to shoukan shoujo no dorei majutsu` |  |
 | alicia crystella | 艾莉西亚·库里斯特拉 |  |  |
 | edelgard | 艾德尔卡特 |  |  |
 | krebskulm | 库尔姆 |  |  |
