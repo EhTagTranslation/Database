@@ -2562,7 +2562,7 @@ example:
 | kowloon generic romance | 九龙大众浪漫 | 《九龙大众浪漫》（日语：九龍ジェネリックロマンス，英语：Kowloon Generic Romance）是由眉月じゅん创作的一部漫画，并有电影、动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/九龙大众浪漫) |
 | ninpuu sentai hurricaneger | 忍风战队破里剑者 | 《忍风战队破里剑者》（日语：忍風戦隊ハリケンジャー），是由日本东映制作的《超级战队系列》第26部特摄作品。 | [维基百科](https://zh.wikipedia.org/wiki/忍風戰隊破裏劍者) |
 | mashin sentai kiramager | 魔进战队煌辉者 |  |  |
-| saigo ni hitotsu dake onegai shite mo yoroshii deshou ka | 最后可以再拜托您一件事吗？ | ![](https://img.moegirl.org.cn/common/6/6d/最后拜托1.jpg)<br>日语：最後にひとつだけお願いしてもよろしいでしょうか<br>作者：凤ナナ | [萌娘百科](https://zh.moegirl.org.cn/最后可以再拜托您一件事吗？) |
+| saigo ni hitotsu dake onegai shite mo yoroshii deshou ka | 最后可以再拜托您一件事吗？ | ![](https://lain.bgm.tv/r/400/pic/cover/l/e9/4c/513348_jJYyy.jpg)<br>日语：最後にひとつだけお願いしてもよろしいでしょうか<br>作者：凤ナナ | [萌娘百科](https://zh.moegirl.org.cn/最后可以再拜托您一件事吗？) |
 | hikaru ga shinda natsu | 光死去的夏天 |  |  |
 | class no daikirai na joshi to kekkon suru koto ni natta. | ‌我和班上最讨厌的女生结婚了 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a3/f5/501023_yl6U2.jpg)<br>日语：クラスの大嫌いな女子と結婚することになった<br>英语：I Got Married to the Girl I Hate Most in Class | [萌娘百科](https://zh.moegirl.org.cn/我决定和班上最讨厌的女生结婚了) |
 | maou 2099 | 魔王2099 | ![](https://img.moegirl.org.cn/common/thumb/2/21/魔王2099_1.webp/704px-魔王2099_1.webp.png)<br>《魔王2099》是由紫大悟创作、クレタ绘制插画的一部轻小说，有漫画、动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/魔王2099) |
