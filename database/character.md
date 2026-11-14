@@ -10409,7 +10409,7 @@ example:
 | nue | 鵺 | ![](https://lain.bgm.tv/r/400/pic/crt/l/7d/8e/160059_crt_8Zvvd.jpg)<br>出自作品:`nue no onmyouji` |  |
 | kazusa suou | 周防七咲 | ![](https://lain.bgm.tv/r/400/pic/crt/l/9b/1e/190361_crt_z7JFT.jpg)<br>出自作品:`nue no onmyouji` |  |
 | makoto tsujita | 辻田诚乙 | 日语：辻田誠乙<br>出自作品:`nue no onmyouji` |  |
-| natsuki kuniruri | 国瑠璃拿月 | 出自作品:`nue no onmyouji` |  |
+| natsuki kuniruri | 国瑠璃拿月 | ![](https://ehgt.org/w/02/793/08008-ney844ed.webp)<br>出自作品:`nue no onmyouji` |  |
 | ishu aramine | 新峰维朱 | 日语：新峰維朱<br>出自作品:`nue no onmyouji` |  |
 | reina machida | 町田莉那 | 出自作品:`nue no onmyouji` |  |
 | shitotsu tomesode | 留袖四衲 | 出自作品:`nue no onmyouji` |  |
