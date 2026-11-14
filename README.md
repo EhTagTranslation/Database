@@ -46,13 +46,13 @@
   ![UWP][plat-uwp] ![GitHub Release Date](https://img.shields.io/github/release-date/OpportunityLiu/E-Viewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   An UWP Client for <https://e-hentai.org>.
 
-- [EhViewer-Overhauled（仅维护）](https://github.com/FooIbar/EhViewer)（[EhViewer-Overhauled](https://github.com/Ehviewer-Overhauled/Ehviewer) 停更后的仅维护版本）  
-  ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/FooIbar/Ehviewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
-  The project is in maintenance mode, will only receive bugfixes.
+- [EhViewer-Overhauled](https://codeberg.org/EhViewer/EhViewer)（[@FooIbar/EhViewer](https://github.com/FooIbar/EhViewer) DMCA 后迁移的版本）  
+  ![Android][plat-android] ![Release Date](https://img.shields.io/badge/dynamic/json?label=release&query=%24.published_at&color=blue&url=https%3A%2F%2Fcodeberg.org%2Fapi%2Fv1%2Frepos%2FEhViewer%2FEhViewer%2Freleases%2Flatest)  
+  [彩 E] EhViewer overhauled with Material Design 3 and more.
 
 - [EhViewer-NekoInverter](https://github.com/EhViewer-NekoInverter/EhViewer)（[@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer) 的分支版本）  
   ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/EhViewer-NekoInverter/EhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
-  🥥 EhViewer-NekoInverter [白 E]
+  [白 E] 🥥 EhViewer-NekoInverter
 
 - [EhViewer Mod version by Epix](https://github.com/exzhawk/EhViewer)（[EhViewer](https://github.com/seven332/EhViewer) 的分支版本）  
   ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/exzhawk/EhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
@@ -109,6 +109,9 @@
 - [EhViewer-Overhauled](https://github.com/Ehviewer-Overhauled/Ehviewer)（[@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer) 的分支版本）  
   ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/Ehviewer-Overhauled/Ehviewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   EhViewer overhauled with Material Design 3 and more.
+
+- [@FooIbar/EhViewer](https://github.com/FooIbar/EhViewer)（[EhViewer-Overhauled](https://github.com/Ehviewer-Overhauled/Ehviewer) 停更后的仅维护版本）  
+  ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/FooIbar/Ehviewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
 
 - [ExHentai 中文标签助手](https://github.com/SunBrook/EHentai.Tags.CN)  
  ![WEB][plat-web] ![UserScript][plat-userscript] ![GitHub Release Date](https://img.shields.io/github/release-date/SunBrook/EHentai.Tags.CN?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
