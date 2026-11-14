@@ -10559,6 +10559,7 @@ example:
 | kanade sakurai | 樱井奏 |  |  |
 | mio kofune | 小舟澪 | ![](https://static.wikia.nocookie.net/summer-time-rendering/images/8/88/Mio_Kofune.png)<br>出自作品:`summertime render` |  |
 | leilidahna guillermo cohendia | Leda（待编辑） | ![](https://static.wikia.nocookie.net/villains/images/b/bb/LedaFE.png) |  |
+| rin ooyama | 大山凛 | ![](https://static.wikia.nocookie.net/powerinstinct/images/2/21/Rin_Oyama.png)<br>![](https://static.wikia.nocookie.net/powerinstinct/images/1/1e/Rin_Oyama_46067.gif)<br>出自作品:`power instinct` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
