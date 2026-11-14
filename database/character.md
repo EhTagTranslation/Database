@@ -4159,7 +4159,7 @@ example:
 | eleonora viltaria | 艾蕾欧诺拉·维尔塔利亚 | ![](https://static.wikia.nocookie.net/madannooutovanadis/images/d/d4/Elen_anime_pre.png)<br>日语：エレオノーラ=ヴィルターリア<br>所属作品: `p:madan no ou to vanadis` | [维基百科](https://zh.wikipedia.org/wiki/魔彈之王與戰姬角色列表) |
 | limalisha | 莉姆亚莉夏 | ![](https://static.wikia.nocookie.net/madannooutovanadis/images/3/37/Lim_anime_pre.png)<br>所属作品: `p:madan no ou to vanadis` | [维基百科](https://zh.wikipedia.org/wiki/魔彈之王與戰姬角色列表) |
 | ludmila lourie | 琉德米拉·露利叶 | 所属作品: `p:madan no ou to vanadis` | [维基百科](https://zh.wikipedia.org/wiki/魔彈之王與戰姬角色列表) |
-| sofya obertas | 苏菲亚·欧贝达斯 | 所属作品: `p:madan no ou to vanadis` | [维基百科](https://zh.wikipedia.org/wiki/魔彈之王與戰姬角色列表) |
+| sofya obertas | 苏菲亚·欧贝达斯 | ![](https://static.wikia.nocookie.net/madannooutovanadis/images/f/fd/Sofya_anime_pre.png)<br>日语：ソフィーヤ・オベルタス<br>所属作品: `p:madan no ou to vanadis` | [维基百科](https://zh.wikipedia.org/wiki/魔彈之王與戰姬角色列表) |
 | tigrevurmud vorn | 堤格尔维尔穆德·冯伦 | 所属作品: `p:madan no ou to vanadis` | [维基百科](https://zh.wikipedia.org/wiki/魔彈之王與戰姬角色列表) |
 | kobeni higashiyama | 东山小红 | 所属作品: `p:chainsaw man`<br>![](https://static.wikia.nocookie.net/chainsaw-man/images/a/ab/Kobeniscarownercolored.png) | [萌娘百科](https://zh.moegirl.org.cn/东山小红) |
 | hildegarde | 希尔迪嘉露塔 | 所属作品: `p:beelzebub` | [维基百科](https://zh.wikipedia.org/wiki/魔B爸B角色列表) |
