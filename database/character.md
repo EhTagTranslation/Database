@@ -1857,7 +1857,7 @@ example:
 |  | TYPE-MOON > Fate > Zero（第四次圣杯战争）> 其他人物 |  |  |
 | irisviel von einzbern | 爱丽丝菲尔·冯·爱因兹贝伦 | ![图](https://ehgt.org/0b/66/0b66a43926d206b891d2610b46496e9278760131-32573-280-479-jpg_l.jpg)![图](https://ehgt.org/dc/d4/dcd4368c7a66ccbbc8f8f283eeeb8012477350b0-6697828-4064-5168-jpg_l.jpg)![图](https://ehgt.org/e4/73/e473e4e884a083e32b17ff306a2fdfb9dbe233c1-2128092-1024-1448-png_l.jpg) |  |
 |  | 我也不知道怎么排分类了 |  |  |
-| caren ortensia | 卡莲·奥尔黛西亚 | 言峰绮礼之女<br>![图](https://ehgt.org/c2/e0/c2e0c1595223f170576d635ad7a17da0723964c8-31953-280-479-jpg_l.jpg) |  |
+| caren ortensia | 卡莲·奥尔黛西亚 | ![](https://static.wikia.nocookie.net/typemoon/images/1/19/Caren_exocist.png)<br>出自作品:`fate hollow ataraxia` |  |
 | bazett fraga mcremitz | 巴洁特·法迦·克米兹 | 第五次圣杯战争，召唤 Lancer 的御主，后被言峰绮礼夺走<br>![图](https://ehgt.org/f5/3d/f53d636a602137d1df6f6b9b56c80fd1c2d26c8b-19682-280-479-jpg_l.jpg)![图](https://ehgt.org/a3/9b/a39ba8a7c4fcb00feb1c953b5da3d3cb25899ee5-7020527-4122-5161-jpg_l.jpg) |  |
 | sitonai | 志度内 |  |  |
 | ishtar | 伊什塔尔 | ①<br>![](https://static.wikia.nocookie.net/typemoon/images/3/39/ArcherIshtarStage2.png/revision/latest?cb=20210109110056)<br>伊什塔尔是TYPE-MOON旗下《Fate系列》及其衍生作品的登场角色，在《Fate/Prototype》《Fate/EXTRA CCC》作为背景人物出现，在游戏《`p:fate grand order`》中凭依人类作为拟似从者登场，在《Fate/strange Fake》凭依人造人登场。<br><br>②<br>![](https://static.wikia.nocookie.net/fireemblem/images/2/2e/Ishtar_%28FE_Treasure%29.png/revision/latest?cb=20160810125114)<br>日文：イシュタル<br>所属作品：`fire emblem genealogy of the holy war` | ①[伊什塔尔(fate)](https://zh.moegirl.org.cn/伊什塔尔%28Fate%29)<br>②[伊什塔尔(`fire emblem genealogy of the holy war`)](https://fireemblem.fandom.com/wiki/Ishtar) |
