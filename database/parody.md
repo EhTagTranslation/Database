@@ -3062,6 +3062,7 @@ example:
 | vtuber nandaga haishin kiriwasuretara densetsu ni natteta | 身为VTuber的我因为忘记关台而成了传说 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7a/e6/347013_nZo1d.jpg)<br>日语：VTuberなんだが配信切り忘れたら伝説になってた |  |
 | party kara tsuiho sareta sono chiyushi jitsu wa saikyo ni tsuki | 被队伍驱逐的治愈师，其实是最强的 | ![](https://lain.bgm.tv/r/400/pic/cover/l/44/56/472673_DW15U.jpg)<br>日语：パーティーから追放されたその治癒師、実は最強につき |  |
 | astrae oratio | 阿索拉：星之祈愿 | ![](https://bkimg.cdn.bcebos.com/pic/8718367adab44aed2e73669dba419001a18b87d64d0e)<br>日语：アストラエ・オラティオ |  |
+| power instinct | 豪血寺一族 | ![](https://lain.bgm.tv/r/400/pic/cover/l/28/a6/79423_1XLVs.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
