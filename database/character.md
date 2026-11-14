@@ -3204,7 +3204,7 @@ example:
 | chocola | 巧克力 | ![](https://bkimg.cdn.bcebos.com/pic/37d3d539b6003af33a874b6f947cd15c10385343183f)<br>所属作品：`p:nekopara` | [萌娘百科](https://zh.moegirl.org.cn/巧克力%28NEKO_WORKs%29) |
 | cinnamon | 桂 | ![](https://bkimg.cdn.bcebos.com/pic/a8ec8a13632762d0f703e5453fb11ffa513d27976881)<br>出自作品:`nekopara` | [萌娘百科](https://zh.moegirl.org.cn/桂%28NEKO_WORKs%29) |
 | coconut | 椰子 | ![](https://bkimg.cdn.bcebos.com/pic/1b4c510fd9f9d72a60598a0c53603f34349b033b0dc5)<br>出自作品:`nekopara` | [萌娘百科](https://zh.moegirl.org.cn/椰子%28NEKO_WORKs%29) |
-| vanilla | 香草 \| 香子兰 | ①香子兰<br>![](https://nekopara.com/img/character/van/pc/character_a.png)<br>出自作品：`nekopara`<br>——————————<br>②香草<br>![](https://patchwiki.biligame.com/images/arknights/c/c4/fabw1tw980sb0z59cc19g44lp45wl9r.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/香草%28NEKO_WORKs%29) |
+| vanilla | 香草 \| 香子兰 | ①香子兰<br>![](https://bkimg.cdn.bcebos.com/pic/0824ab18972bd407c47707a474899e510fb30933)<br>出自作品：`nekopara`<br>——————————<br>②香草<br>![](https://patchwiki.biligame.com/images/arknights/c/c4/fabw1tw980sb0z59cc19g44lp45wl9r.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/香草%28NEKO_WORKs%29) |
 | shinku nikaidou | 二阶堂真红 |  | [萌娘百科](https://zh.moegirl.org.cn/二阶堂真红) |
 | shiori kashiwazaki | 柏崎栞 | ![](https://static.wikia.nocookie.net/princess-connect/images/7/7c/Shiori_%28game%29.png)<br>![](https://static.wikia.nocookie.net/princess-connect/images/b/b9/Shiori-magicalgirl-sprite-normal.png)<br>所属作品：`princess connect`<br>本属于自卫团，跟铃一样也是被派往伊丽莎白牧场驻守的成员。 | [萌娘百科](https://zh.moegirl.org.cn/柏崎栞) |
 | link | 林克 | ![](https://thumbsnap.com/i/DoWT8jvR.jpg)<br>林克是任天堂旗下作品《塞尔达传说》系列的主要角色，在任天堂旗下的其他系列如《马力欧卡丁车系列》《任天堂明星大乱斗》等亦有出场。 | [萌娘百科](https://zh.moegirl.org.cn/林克) |
