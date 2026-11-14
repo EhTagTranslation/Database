@@ -5225,7 +5225,7 @@ example:
 | jack power | 杰克·鲍尔 |  |  |
 | katie power | 凯瑟琳·鲍尔 |  |  |
 | julie power | 朱莉·鲍尔 |  |  |
-| yukina himeragi | 姬柊雪菜 | ![](https://ehgt.org/w/01/948/67763-v9amajyg.webp)<br>所属作品：`strike the blood` | [萌娘百科](https://zh.moegirl.org.cn/姬柊雪菜) |
+| yukina himeragi | 姬柊雪菜 | ![](https://static.tvtropes.org/pmwiki/pub/images/himeragi_yukina.png)<br>所属作品：`strike the blood` | [萌娘百科](https://zh.moegirl.org.cn/姬柊雪菜) |
 | muimi sonoue | 园上矛依未 | ![](https://storage.moegirl.org.cn/moegirl/commons/7/7b/Muimi.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/园上矛依未) |
 | minori yasumori | 安守实梨 | 红冬联邦学园所属，工务部的部长。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_908/h_1210/829/43758/2025/5/13/920266.png) |  |
 | kikyou kushida | 栉田桔梗 | ![](https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/b/b0/Kikyō_Kushida_LN_2nd_Year_Arc_visual.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e` | [萌娘百科](https://zh.moegirl.org.cn/栉田桔梗) |
