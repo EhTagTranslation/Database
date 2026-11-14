@@ -6520,7 +6520,7 @@ example:
 | erika amano | 天野艾丽嘉 |  |  |
 | sachi umino | 海野凪 |  |  |
 | banri shiunji | 紫云寺万里 | ![](https://static.wikia.nocookie.net/shiunjike-no-kodomotachi/images/5/51/Banri_Shiunji_Anime.png)<br>所属作品:`shiunji-ke no kodomotachi` | [Bangumi](https://bgm.tv/character/161345) |
-| la folia rihavein | 拉·芙利亚·利哈瓦因 | ![](https://lain.bgm.tv/r/400/pic/crt/l/1b/83/23111_crt_3pPRW.jpg)<br>所属作品：`strike the blood`<br>北欧阿尔迪基亚国王卢卡斯·利哈瓦因的长女，身居公主之位，白银皇女，叶濑夏音的侄女。 | [萌娘百科](https://zh.moegirl.org.cn/拉·法利亚·利哈瓦因) |
+| la folia rihavein | 拉·芙利亚·利哈瓦因 | ![](https://static.tvtropes.org/pmwiki/pub/images/la_folia_rihavein_1.png)<br>日语：ラ・フォリア・リハヴァイン<br>所属作品：`strike the blood` | [萌娘百科](https://zh.moegirl.org.cn/拉·法利亚·利哈瓦因) |
 | mydei | 万敌 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/6/67/Character_Mydei_Splash_Art.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/万敌) |
 | chisa | 朽叶千咲 | ![](https://patchwiki.biligame.com/images/wutheringwaves/f/f1/0js5t58l15sh8owhlf0qzwtd42wzqz6.png)<br>所属作品：`wuthering waves` |  |
 | baizhi | 白芷 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/5/5b/r0wr4fjaqwv1pv5a48nzk9a0hwfueq4.png/524px-Mc_wiki_role_baizhi_x1500.png)<br>兼具条理性和执行力的华胥研究员。<br>看似冷淡疏离，实则不难接近，只是理性思维主导，习惯了严谨而精准地采取行动。<br>求知之路未有止境，在人类彻底解开”回音”的谜题前，白芷绝不会停下研究的步伐，哪怕这将耗费她的一生。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/白芷) |
