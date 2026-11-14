@@ -3201,7 +3201,7 @@ example:
 | alicia crystella | 艾莉西亚·库里斯特拉 |  |  |
 | edelgard | 艾德尔卡特 |  |  |
 | krebskulm | 库尔姆 |  |  |
-| chocola | 巧克力 | ![](https://static.wikia.nocookie.net/charactah-account/images/3/3a/Chocola_%28Nekopara%29_Render_02.png)<br>所属作品：`p:nekopara` | [萌娘百科](https://zh.moegirl.org.cn/巧克力%28NEKO_WORKs%29) |
+| chocola | 巧克力 | ![](https://bkimg.cdn.bcebos.com/pic/37d3d539b6003af33a874b6f947cd15c10385343183f)<br>所属作品：`p:nekopara` | [萌娘百科](https://zh.moegirl.org.cn/巧克力%28NEKO_WORKs%29) |
 | cinnamon | 桂 | ![](https://bkimg.cdn.bcebos.com/pic/a8ec8a13632762d0f703e5453fb11ffa513d27976881)<br>出自作品:`nekopara` | [萌娘百科](https://zh.moegirl.org.cn/桂%28NEKO_WORKs%29) |
 | coconut | 椰子 | ![](https://bkimg.cdn.bcebos.com/pic/1b4c510fd9f9d72a60598a0c53603f34349b033b0dc5)<br>出自作品:`nekopara` | [萌娘百科](https://zh.moegirl.org.cn/椰子%28NEKO_WORKs%29) |
 | vanilla | 香草 \| 香子兰 | ①香子兰<br>![](https://nekopara.com/img/character/van/pc/character_a.png)<br>出自作品：`nekopara`<br>——————————<br>②香草<br>![](https://patchwiki.biligame.com/images/arknights/c/c4/fabw1tw980sb0z59cc19g44lp45wl9r.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/香草%28NEKO_WORKs%29) |
