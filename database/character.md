@@ -9712,7 +9712,7 @@ example:
 | allen the alien | 外星人艾伦 | ![](https://static.wikia.nocookie.net/amazon-invincible/images/c/cd/BuffAllen.png)<br>所属作品：`invincible` |  |
 | kate cha | 分身凯特 | ![](https://static.wikia.nocookie.net/amazon-invincible/images/8/80/Dupli-KateProfile.png)<br>本名：凯特·查<br>所属作品：`invincible` |  |
 | mark grayson | 无敌少侠 | ![](https://static.wikia.nocookie.net/amazon-invincible/images/a/a3/Invincible_%28Mark_Grayson%29.png)<br>本名：马克·格雷森<br>所属作品：`invincible` |  |
-| amanda | 阿曼达 \| 怪兽女孩 | ①阿曼达<br>![](https://tenken-anime.com/s1/assets/character/n3.png)<br>出自作品:`tensei shitara ken deshita`<br>————————<br>②怪兽女孩<br>![](https://static.wikia.nocookie.net/amazon-invincible/images/2/29/Amanda.png)<br>所属作品：`invincible` |  |
+| amanda | 阿曼达 | ①阿曼达<br>![](https://tenken-anime.com/s1/assets/character/n3.png)<br>出自作品:`tensei shitara ken deshita`<br>————————<br>②怪兽女孩<br>![](https://static.wikia.nocookie.net/amazon-invincible/images/2/29/Amanda.png)<br>所属作品：`invincible` |  |
 | vill-v | 维尔薇 | ![](https://static.wikia.nocookie.net/hoducks/images/1/18/Helical_Contraption.png)<br>所属作品：`honkai gakuen` |  |
 | deedlit | 蒂德莉特 | ![](https://patchwiki.biligame.com/images/langrisser/thumb/f/f0/t7m8sw8sfle1v5dipkdyrso94dnodpy.png/1536px-立绘_蒂德莉特.png)<br>所属作品：`lodoss-tou senki`<br>日语：ディードリット |  |
 | welt yang | 瓦尔特•杨 | ![](https://patchwiki.biligame.com/images/sr/thumb/2/23/fvhf6r7z5iecu1n0zs1qb6yeuqi2fds.png/1350px-瓦尔特立绘.png)<br>所属作品：`honkai star rail` |  |
