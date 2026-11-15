@@ -14416,6 +14416,7 @@ example:
 | otonano omochiya | 大人のおもちや |  |  |
 | buchiyama melon peach | ぶちやまメロンピーチ |  |  |
 | lyrical seeki | リリカルセーキ |  |  |
+| oden ohgan | おでんオーガン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
