@@ -15891,6 +15891,7 @@ example:
 | buchiyama buchio | ぶちやまぶちお |  |  |
 | godou kotarou | 悟道琥太郎 |  |  |
 | hayaa ruki | 早亜ルキ |  |  |
+| koshian | こしあん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
