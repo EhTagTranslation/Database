@@ -10564,6 +10564,7 @@ example:
 | ceras yanagida lilienfeld | 塞拉斯·柳田·利林费尔德 | ![](https://bkimg.cdn.bcebos.com/pic/5d6034a85edf8db1cb133eab0779ca54564e9358def0)<br>日语：セラス やなぎだ リリエンフェルト<br>出自作品:`love live hasunosora jogakuin school idol club` |  |
 | chronoa | 克罗诺亚 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/8/8e/Chronoa_%28Armor%29_Anime.png)<br>日语：クロノア<br>出自作品:`tensei shitara slime datta ken` |  |
 | azuki | 红豆 | ![](https://bkimg.cdn.bcebos.com/pic/94cad1c8a786c9177f3e64cf566067cf3bc79e3df98a)<br>出自作品:`nekopara` |  |
+| fran | 芙兰 | ![](https://tenken-anime.com/assets/character/2n.webp)<br>日语：フラン<br>出自作品:`tensei shitara ken deshita` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
