@@ -15889,6 +15889,7 @@ example:
 | guluco | GuLuco |  |  |
 | ico plus | ICO+ |  | [pixiv](https://www.pixiv.net/users/39789/) \| [pixiv](https://www.pixiv.net/users/28571469)<br>[X](https://x.com/Green_Bullet7) |
 | buchiyama buchio | ぶちやまぶちお |  |  |
+| godou kotarou | 悟道琥太郎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
