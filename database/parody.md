@@ -897,7 +897,7 @@ example:
 | lost universe | 宇宙刑警 |  |  |
 | amanchu | 蓝海少女！ |  |  |
 | mangaka-san to assistant-san to | 漫画家与助手 |  |  |
-| sisters natsu no saigo no hi | SISTERS～夏最后之日～ |  |  |
+| sisters natsu no saigo no hi | SISTERS～夏最后之日～ | ![](https://bkimg.cdn.bcebos.com/pic/f9dcd100baa1cd11830f823bb612c8fcc3ce2d74) |  |
 | tokyo 7th sisters | 东京七姐妹 | ![](https://static.wikia.nocookie.net/tokyo7thsister/images/f/fc/Top01_pc.png)<br>由Donuts Co. Ltd.开发的偶像养成与音乐节奏类手机游戏 |  |
 | 7th dragon | 第七龙神 |  |  |
 | project blue earth sos | 蓝色计划-地球SOS |  |  |
