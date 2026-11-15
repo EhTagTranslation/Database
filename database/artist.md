@@ -15888,6 +15888,7 @@ example:
 | tinp0ginginmaru | 珍宝銀銀丸 |  | [pixiv](https://www.pixiv.net/users/55414140) \| [X](https://x.com/tinp0ginginmaru) |
 | guluco | GuLuco |  |  |
 | ico plus | ICO+ |  | [pixiv](https://www.pixiv.net/users/39789/) \| [pixiv](https://www.pixiv.net/users/28571469)<br>[X](https://x.com/Green_Bullet7) |
+| buchiyama buchio | ぶちやまぶちお |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
