@@ -4373,7 +4373,7 @@ example:
 | maou | 魔王（红玉之瞳） | ![](https://lain.bgm.tv/r/400/pic/crt/l/de/4d/17203_crt_SwRiz.jpg?r=1675138305)<br>出自作品:`maoyuu maou yuusha` | [萌娘百科](https://zh.moegirl.org.cn/红玉之瞳) |
 | tabitha helene orleans de gallia | 塔巴萨 | 塔巴萨是由山口升所创作/制作的《`p:zero no tsukaima`》和《塔巴萨的冒险》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/thefamiliarofzero/images/9/9e/Tabitha.png) | [萌娘百科](https://zh.moegirl.org.cn/塔巴萨) [Fandom](https://thefamiliarofzero.fandom.com/wiki/Charlotte_de_Gallia) |
 | suguru geto | 夏油杰 |  |  |
-| selvaria bles | 塞贝莉雅·布雷斯 | ![](https://ehgt.org/w/01/906/67175-agvbynyb.webp)<br>所属作品：`valkyria chronicles` | [萌娘百科](https://zh.moegirl.org.cn/塞贝莉雅·布雷斯) |
+| selvaria bles | 塞贝莉雅·布雷斯 | ![](https://bkimg.cdn.bcebos.com/pic/0824ab18972bd40735fa763843dc89510fb30e24a3e3)<br>所属作品：`valkyria chronicles` | [萌娘百科](https://zh.moegirl.org.cn/塞贝莉雅·布雷斯) |
 | arisa eloise beau-regard | 亚里砂·艾洛伊丝·博勒加德 | 所属作品: `p:raramagi honyarara magic` | [萌娘百科](https://zh.moegirl.org.cn/亚里砂·艾洛伊丝·博勒加德) |
 | wakamo kosaka | 狐坂若藻 | ![](https://patchwiki.biligame.com/images/ba/3/3d/pv2y4xspaqy6h699jel8g7yd8qxndxs.png)<br>![](https://patchwiki.biligame.com/images/ba/e/eb/b1pgsr95gheryknnhx488ycep77gzjn.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/狐坂若藻)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Wakamo) |
 | high elf archer | 妖精弓手 | ![](https://static.wikia.nocookie.net/goblin-slayer/images/f/fd/High_Elf_Archer_Full_Body_II.png)<br>所属作品：`goblin slayer` | [萌娘百科](https://zh.moegirl.org.cn/妖精弓手) |
