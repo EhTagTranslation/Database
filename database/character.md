@@ -2993,7 +2993,7 @@ example:
 | junichi tachibana | 橘纯一 |  |  |
 | mafuyu kirisu | 桐须真冬 | ![](https://static.wikia.nocookie.net/bokutachi-study/images/0/06/20190803_194047.png)<br>所属作品：`bokutachi wa benkyou ga dekinai` | [萌娘百科](https://zh.moegirl.org.cn/桐须真冬) |
 | nariyuki yuiga | 唯我成幸 |  |  |
-| alice zuberg | 爱丽丝·滋贝鲁库 | ![](https://img.moegirl.org.cn/common/7/7a/Alice9.jpg)<br>所属作品：`sword art online` | [萌娘百科](https://zh.moegirl.org.cn/爱丽丝·滋贝鲁库) |
+| alice zuberg | 爱丽丝·滋贝鲁库 | ![](https://bkimg.cdn.bcebos.com/pic/267f9e2f0708283888e89cb2b599a9014d08f1ab)<br>所属作品：`sword art online` | [萌娘百科](https://zh.moegirl.org.cn/爱丽丝·滋贝鲁库) |
 | selka zuberg | 赛鲁卡·滋贝鲁库 | 赛鲁卡·滋贝鲁库（セルカ·ツーベルク）是由川原砾所创作的小说《`sword art online`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/赛鲁卡·滋贝鲁库) |
 | haruhiro | 哈尔希洛 |  |  |
 | yume | 梦儿 | ![](https://static.wikia.nocookie.net/hai-to-gensou-no-grimgal/images/8/83/Yume_ch.png)<br>出自作品:`hai to gensou no grimgar` |  |
