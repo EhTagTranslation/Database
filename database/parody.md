@@ -2877,7 +2877,7 @@ example:
 | natsu no arashi | 夏之岚！ | ![](https://lain.bgm.tv/r/400/pic/cover/l/3b/bf/1454_47lsn.jpg)<br>小林尽创作的日本漫画作品，并有改编动画。 | [Bangumi](https://bgm.tv/subject/1454) |
 | yomi no tsugai | 黄泉使者 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f4/19/568572_z7obB.jpg)<br>日语：黄泉のツガイ<br>荒川弘所编绘的日本漫画作品，并有改编动画。 | [Bangumi](https://bgm.tv/subject/568572) |
 | nue no onmyouji | 鵺之阴阳师 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0c/3a/712066_x6ipj.jpg)<br>日语：鵺の陰陽師 | [百度百科](https://baike.baidu.com/item/鵺之阴阳师/63022911) \| [Fandom](https://nue-no-onmyouji.fandom.com/wiki/Nue%27s_Exorcist) |
-| yanineko | 尼古喵喵 | ![](https://storage.moegirl.tw/moegirl/commons/5/5d/Yanineko_01.jpg)<br>《尼古喵喵》（日语：ヤニねこ，英语：Yani Neko）是由NyanNyanFactory（にゃんにゃんファクトリー）创作的日本漫画系列。 | [维基百科](https://zh.wikipedia.org/wiki/尼古喵喵) |
+| yanineko | 尼古喵喵 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg)<br>《尼古喵喵》（日语：ヤニねこ，英语：Yani Neko）是由NyanNyanFactory（にゃんにゃんファクトリー）创作的日本漫画系列。 | [维基百科](https://zh.wikipedia.org/wiki/尼古喵喵) |
 | koori no jouheki | 冰之城墙 | ![](https://lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg)<br><br>![](https://lain.bgm.tv/r/400/pic/cover/l/e4/41/665390_qlbrR.jpg) |  |
 | akane-banashi | 落语朱音 | ![](https://lain.bgm.tv/r/400/pic/cover/l/71/03/576121_sqqIH.jpg) |  |
 | seito kaichou hikaru | 圣徒会长小光 | ![](https://t.vndb.org/cv.t/14/131214.jpg) | [VNDB](https://vndb.org/v2190) |
