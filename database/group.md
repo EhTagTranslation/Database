@@ -14415,6 +14415,7 @@ example:
 | kenin | 嫌淫 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53774.html) |
 | otonano omochiya | 大人のおもちや |  |  |
 | buchiyama melon peach | ぶちやまメロンピーチ |  |  |
+| lyrical seeki | リリカルセーキ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
