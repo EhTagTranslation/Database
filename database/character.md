@@ -4534,7 +4534,7 @@ example:
 | toki asuma | 飞鸟马时 | ![](https://static.wikia.nocookie.net/blue-archive/images/b/b6/Toki_Schoolgirl_Portrait.png)<br>所属作品: `p:blue archive` | [Fandom](https://bluearchive.fandom.com/wiki/Asuma_Toki) \| [Gamekee](https://www.gamekee.com/ba/tj/584417.html) |
 | carol olston | 卡洛儿·奥尔斯顿 | ![](https://ehgt.org/w/02/124/36461-kii6igku.webp)<br>出自作品：`p:tomo-chan wa onnanoko`<br><br>漫画《智酱是女生！》的登场角色。 |  |
 | shiroko terror | 白子\*恐怖 | ![](https://static.wikia.nocookie.net/blue-archive/images/a/a1/Shiroko_Terror_Portrait.png)<br>所属作品: `p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/砂狼白子)<br>[基沃托斯古书馆](https://kivo.wiki/data/character/135) |
-| dia viekone | 蒂雅·维科尼 | ![](https://static.wikia.nocookie.net/the-world-finest-assassin/images/2/24/Dia_Anime.png)<br>所属作品: `p:sekai saikou no ansatsusha isekai kizoku ni tensei suru`<br>卢各·图哈德的表姐、魔法启蒙老师、初恋。 | [萌娘百科](https://zh.moegirl.org.cn/蒂雅·维科尼) |
+| dia viekone | 蒂雅·维科尼 | ![](https://static.wikia.nocookie.net/the-world-finest-assassin/images/2/24/Dia_Anime.png)<br>所属作品: `p:sekai saikou no ansatsusha isekai kizoku ni tensei suru` | [萌娘百科](https://zh.moegirl.org.cn/蒂雅·维科尼) |
 | ezio auditore | 艾吉奥·奥迪托雷 |  |  |
 | sofia sartor | 索菲亚·萨尔托 |  |  |
 | tang wutong | 唐舞桐 | ![](https://ehgt.org/w/01/982/77283-4duv440k.webp)<br>所属作品: `p:douluo continent` |  |
