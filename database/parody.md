@@ -2149,7 +2149,7 @@ example:
 | dead by daylight | 黎明杀机 | 《黎明杀机》是一款由比哈维尔互动公司开发，星风工作室发行的非对称竞技生存恐怖游戏。<br>于2016年6月14日以Microsoft Windows版在Steam上首次发售。 |  |
 | sakuna of rice and ruin | 天穗之咲稻姬 |  |  |
 | oshi no ko | 我推的孩子 | ![](https://lain.bgm.tv/r/400/pic/cover/l/98/5e/386809_1yR81.jpg)<br>日语：推しの子 | [萌娘百科](https://zh.moegirl.org.cn/【我推的孩子】) |
-| tensei shitara ken deshita | 转生就是剑 |  | [萌娘百科](https://zh.moegirl.org.cn/转生就是剑) [维基百科](https://zh.wikipedia.org/wiki/轉生就是劍) |
+| tensei shitara ken deshita | 转生成为魔剑了 | ![](https://lain.bgm.tv/r/400/pic/cover/l/e5/10/350224_GkByG.jpg)<br>日语：転生したら剣でした | [萌娘百科](https://zh.moegirl.org.cn/转生就是剑) [维基百科](https://zh.wikipedia.org/wiki/轉生就是劍) |
 | juuou mujin no fafnir | 铳皇无尽的法夫纳 |  | [萌娘百科](https://zh.moegirl.org.cn/铳皇无尽的法夫纳) |
 | soukyuu no fafner | 苍穹之法芙娜 |  | [萌娘百科](https://zh.moegirl.org.cn/苍穹之法芙娜) |
 | heaven burns red | ![](https://heaven-burns-red.com/assets/images/common/img_appicon.png) 炽焰天穹 | ![](https://heaven-burns-red.com/assets/images/common/img_appicon.png)<br>《Heaven Burns Red》（日语：ヘブンバーンズレッド）是由WFS和Key共同制作的手机游戏。这是麻枝准睽违15年有参与制作的新作游戏。<br>备注：最初没有官方中文译名时有人机翻为天堂红烧，对调后为红烧天堂，至今仍有很多人使用该非官方译名，绯染天空为繁中官方译名，简中为炽焰天穹。 | [官网](https://heaven-burns-red.com/)<br>[萌娘百科](https://zh.moegirl.org.cn/绯染天空)<br>[维基百科](https://zh.wikipedia.org/wiki/緋染天空_Heaven_Burns_Red) |
