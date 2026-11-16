@@ -3430,7 +3430,7 @@ example:
 | eugeo | 尤吉欧 |  |  |
 | quinella | 葵妮拉 | ![](https://static.wikia.nocookie.net/swordartonline/images/1/16/Quinella_Full_Body.png)<br>所属作品：`sword art online`<br>日语：クィネラ | [Fandom](https://swordartonline.fandom.com/wiki/Quinella) |
 | makima | 玛奇玛 | ![](https://ehgt.org/w/02/175/72970-81398m3d.webp)<br>所属作品：`chainsaw man` |  |
-| denji | 电次 | ![](https://thumbsnap.com/i/LYbiMS9c.jpg)<br>电次（日语：デンジ）是由藤本树所创作漫画《`p:chainsaw man`》及其衍生作品的登场角色，本作第一部的主角及第二部的男主角。 | [萌娘百科](https://zh.moegirl.org.cn/电次%28电锯人%29#) |
+| denji | 电次 | ![](https://bkimg.cdn.bcebos.com/pic/500fd9f9d72a6059252d735ab861239b033b5bb50c6f)<br>日语：デンジ<br>出自作品:`chainsaw man` | [萌娘百科](https://zh.moegirl.org.cn/电次%28电锯人%29#) |
 | angel devil | 天使恶魔 |  |  |
 | yanfei | 烟绯 | ![](https://patchwiki.biligame.com/images/ys/e/ef/t7mlw6ms8041z8f03gd4n96s5hwz5nt.gif)<br>所属作品:`p:genshin impact` | [萌娘百科](https://zh.moegirl.org.cn/烟绯) |
 | gawr gura | 噶呜·古拉 | ![](https://ehgt.org/w/01/185/10710-efec8kqk.webp)<br><br>噶呜·古拉（英语：Gawr Gura，日语：がうる・ぐら Gauru・Gura ）是一位英语`vtuber`，隶属`hololive`。其人物设计由`amashiro natsuki`创作。 | [YouTube](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g) [X](https://x.com/gawrgura) |
