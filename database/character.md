@@ -6701,7 +6701,7 @@ example:
 | akari watanabe | 渡边星 | ![](https://static.wikia.nocookie.net/more-than-a-married-couple-but-not-lovers/images/d/dc/Akari_Watanabe_Anime_Infobox.png)<br>出自作品:`fuufu ijou koibito miman.` | [萌娘百科](https://zh.moegirl.org.cn/渡边星) |
 | vermouth | 贝尔摩得（苦艾酒） | ![](https://static.wikia.nocookie.net/caseclosed/images/3/30/Vermouth_Detective_Conan.png)<br>日语：クリス・ヴィンヤード<br>所属作品：`detective conan` |  |
 | kiyotaka ayanokouji | 绫小路清隆 | ![](https://img.moegirl.org.cn/common/8/86/Ayanokoji_2nd_side.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>凡事欠缺积极性，且没有对未来的展望，自称是“多一事不如少一事主义者”。入学考试的笔试与实技测验成绩均在平均水准之下，被分配到最底层的D班。 | [萌娘百科](https://zh.moegirl.org.cn/绫小路清隆) |
-| touka kirishima | 霧嶋董香 | ![](https://ehgt.org/w/01/951/73827-nuku5qva.webp)<br>出自作品：`p:tokyo ghoul`<br><br>日本漫画《东京食尸鬼》及其衍生作品中的女主角，金木研的妻子。咖啡店“古董”的服务员，同时也是20区食尸鬼中的一员。 | [萌娘百科](https://zh.moegirl.org.cn/雾岛董香) |
+| touka kirishima | 雾岛董香 | ![](https://bkimg.cdn.bcebos.com/pic/4610b912c8fcc3cec3fdd5f51a13c188d43f86948ae5)<br>出自作品：`p:tokyo ghoul` | [萌娘百科](https://zh.moegirl.org.cn/雾岛董香) |
 | mini yaemori | 八重森弥妮 | ![](https://ehgt.org/w/01/952/87120-8h6jixij.webp)<br>所属作品：`p:kanojo okarishimasu`<br>练马大学的一年级生，是和也等人的学妹。住在公寓202室，是和也和千鹤的邻居。 | [萌娘百科](https://zh.moegirl.org.cn/八重森弥妮) |
 | angelina | 安洁莉娜 | 注意，明日方舟中的安洁莉娜请使用tag安心院安洁莉娜（ `angelina ajimu`） |  |
 | ban | 班 | `p:nanatsu no taizai` |  |
