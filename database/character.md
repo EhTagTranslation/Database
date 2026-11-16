@@ -1440,7 +1440,7 @@ example:
 | chief bogo | 蛮牛局长 |  |  |
 | bonnie hopps | 兔邦妮 |  |  |
 |  | ▼ 神薙 |  |  |
-| nagi | 薙 |  |  |
+| nagi | 薙 \| 凪 | ![](https://static.wikia.nocookie.net/charactah-account/images/9/9f/Nagi_%28Kannagi%29_Render_02.png)<br>出自作品:`kannagi` |  |
 | zange | 忏悔 |  |  |
 | jin mikuriya | 御厨仁 |  |  |
 | tsugumi aoba | 青叶鸫 |  |  |
