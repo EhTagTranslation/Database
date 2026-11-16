@@ -3268,7 +3268,7 @@ example:
 | makoto kowata | 木幡真琴 | 所属作品: `p:flying witch` | [萌娘百科](https://zh.moegirl.org.cn/木幡真琴) |
 | elaina | 伊蕾娜 | ![](https://static.wikia.nocookie.net/majo-no-tabitabi/images/a/a2/ElainaAnimeDesign.png)<br>日语：イレイナ<br>所属作品：`majo no tabitabi` |  |
 | ganyu | 甘雨 | ![](https://patchwiki.biligame.com/images/ys/d/d4/3s7dc0nth0m43tv29jimts3whaz7xgl.gif)<br>所属作品：`genshin impact` | [萌娘百科](https://zh.moegirl.org.cn/甘雨) |
-| jean gunnhildr | 琴·古恩希尔德 | 琴·古恩希尔德（英语：jean gunnhildr）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b7/Genshin_Jean_intro.jpg) | [萌娘百科](https://zh.moegirl.org.cn/琴·古恩希尔德) |
+| jean gunnhildr | 琴·古恩希尔德 | ![](https://bkimg.cdn.bcebos.com/pic/b58f8c5494eef01f3a294dd8fcb28e25bc315c60d7d0)<br>所属作品:`p:genshin impact` | [萌娘百科](https://zh.moegirl.org.cn/琴·古恩希尔德) |
 | jean | 琴 | ![](https://patchwiki.biligame.com/images/ys/2/27/r5wsqozq60ykxpyc29d6wc69lckrg8s.gif)<br>所属作品：`genshin impact`<br>正直严谨的蒲公英骑士，蒙德西风骑士团的代理团长。 | [BILIGAME WIKI](https://wiki.biligame.com/ys/琴) |
 | midori fuse | 布施翠 |  |  |
 | roxy migurdia | 洛琪希·米格路迪亚 | ![](https://static.wikia.nocookie.net/mushokutensei/images/4/49/MT-AN-S3P1v2-Roxy-FullBody.png)<br>出自作品：`p:mushoku tensei`<br>日语：ロキシー・ミグルディア | [萌娘百科](https://zh.moegirl.org.cn/洛琪希·米格路迪亚) |
