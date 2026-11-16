@@ -2067,7 +2067,7 @@ example:
 | mikuru asahina | 朝比奈实玖瑠 |  |  |
 | ryoko asakura | 朝仓凉子 |  |  |
 | tsuruya | 鹤屋 | 所属作品: `p:the melancholy of haruhi suzumiya` | [萌娘百科](https://zh.moegirl.org.cn/鹤屋) |
-| yuki nagato | 长门有希 |  |  |
+| yuki nagato | 长门有希 | ![](https://static.wikia.nocookie.net/all-worlds-alliance/images/b/bd/Nagato-Yuki-1.png)<br>出自作品:`the melancholy of haruhi suzumiya` |  |
 | itsuki koizumi | 古泉一树 |  |  |
 | kunikida | 国木田 |  |  |
 | taniguchi | 谷口 |  |  |
