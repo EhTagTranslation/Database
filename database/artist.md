@@ -10097,7 +10097,7 @@ example:
 | shioko shou | 塩胡しょう |  |  |
 | shiomeshi | 塩飯 |  |  |
 | shiomi yuusuke | 士臣佑介 |  |  |
-| shion | しおん |  |  |
+| shion | しおん | 紫おん | [pixiv](https://www.pixiv.net/users/95219463) \| [FANBOX](https://shion985530.fanbox.cc/) \| [X](https://x.com/shion985530) \| [Skeb](https://skeb.jp/@shion985530) |
 | shiono etorouji | 塩野干支郎次 |  |  |
 | shiono maki | 塩野まき |  |  |
 | shiory | shiory |  |  |
