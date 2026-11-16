@@ -5099,7 +5099,7 @@ example:
 | hook | 虎克 | ![](https://patchwiki.biligame.com/images/sr/thumb/7/7b/r9xxridfr6rm7jmcpjcfcrzd8o2e0s4.png/1050px-虎克立绘.png)<br>所属作品：`honkai star rail`<br>冒险集团「鼹鼠党」的头头，自称「漆黑的虎克大人」。 | [萌娘百科](https://zh.moegirl.org.cn/虎克) |
 | yukong | 驭空 | ![](https://patchwiki.biligame.com/images/sr/thumb/8/8e/6kxm4140x0o7pqvoi6f4welvlj7l72r.png/1050px-驭空立绘.png)<br>所属作品：`honkai star rail`<br>仙舟「罗浮」天舶司司舵，性情温和，处事老练。 | [萌娘百科](https://zh.moegirl.org.cn/驭空) |
 | guinaifen | 桂乃芬 | ![](https://patchwiki.biligame.com/images/sr/thumb/3/31/r1jc4xqpwenjsemnjmfyzclxi9yuy5m.png/1050px-桂乃芬立绘.png)<br>所属作品：`honkai star rail`<br>因机缘巧合留在仙舟的化外民，如今是热情烂漫的街头艺人。<br>本名「格妮薇儿」，「桂乃芬」是好友为她起的仙舟名。 | [萌娘百科](https://zh.moegirl.org.cn/桂乃芬) |
-| rumi usagiyama | 兔山留美 | 兎山ルミ。<br>《我的英雄学院》女英雄，英雄公告牌日本榜单 NO.5 “兔子英雄” 米尔科<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/1/13/Rumi_Usagiyama_Hero_Costume_Full_%28Anime%29.png) |  |
+| rumi usagiyama | 兔山留美 | ![](https://static.wikia.nocookie.net/bokunoheroacademia/images/1/13/Rumi_Usagiyama_Hero_Costume_Full_%28Anime%29.png)<br>日语：兎山ルミ。<br>出自作品:`my hero academia` |  |
 | ryuko tatsuma | 龙间龙子 | 《我的英雄学院》女英雄，英雄公告牌日本榜单 NO.10 “龙骑英雄” 龙九<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/2/20/Ryuko_Tatsuma_Hero_Costume_%28Anime%29.png) |  |
 | itsuka kendou | 拳藤一佳 | 《我的英雄学院》女英雄<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/0/0d/Itsuka_Kendo_Anime_Hero_Costume.png) |  |
 | nejire hado | 波动螺卷 | ![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/a/a9/Nejire_Hado_Hero_Costume_Anime_Action.png)<br>日语：波動ねじれ<br>出自作品:`my hero academia` | [萌娘百科](https://zh.moegirl.org.cn/波动螺卷) |
