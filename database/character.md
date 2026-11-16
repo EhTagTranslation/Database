@@ -3361,7 +3361,7 @@ example:
 | zhongli | 钟离 | 钟离（英语：zhongli）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/9/9b/钟离.jpg) | [萌娘百科](https://zh.moegirl.org.cn/钟离) |
 | ningguang | 凝光 | ![](https://patchwiki.biligame.com/images/ys/4/40/0nygxbl4z7350l8o0fxkx920ckorfrt.gif)<br>所属作品:`p:genshin impact` | [萌娘百科](https://zh.moegirl.org.cn/凝光) |
 | lappland | 拉普兰德 | ![](https://patchwiki.biligame.com/images/arknights/e/ef/bki1qocy5xla53tf3l93dxhbky2glk0.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:拉普兰德) |
-| amber | 安柏 | ![](https://patchwiki.biligame.com/images/ys/f/f7/lal821ax4l381cy4j09gw2axwntz1lz.gif)<br>所属作品:`p:genshin impact`<br>永远充满活力的女孩，骑士团最优秀，同时也是最后的侦察骑士。 | [萌娘百科](https://zh.moegirl.org.cn/安柏%28原神%29#) |
+| amber | 安柏 | ![](https://patchwiki.biligame.com/images/ys/f/f7/lal821ax4l381cy4j09gw2axwntz1lz.gif)<br>所属作品:`p:genshin impact` | [萌娘百科](https://zh.moegirl.org.cn/安柏%28原神%29#) |
 | beidou | 北斗 | ![](https://patchwiki.biligame.com/images/ys/b/b5/4e8ibrbcuhbtpxcyqq7eo2gebnd845y.gif)<br>所属作品:`p:genshin impact`<br>武装船队「南十字」的首领，豪快的大姐头。 | [萌娘百科](https://zh.moegirl.org.cn/北斗%28原神%29) |
 | hilichurl | 丘丘人 | ![](https://bkimg.cdn.bcebos.com/pic/77094b36acaf2edda3cc6cafc34316e93901213f3560)<br>出自作品:`genshin impact` | [萌娘百科](https://zh.moegirl.org.cn/丘丘人) |
 | lumine | 荧 | ![](https://patchwiki.biligame.com/images/ys/c/ce/8apija26jos517mbsr41eq886745oh0.gif)<br>所属作品：`genshin impact`<br>可作为玩家的代入角色。故国覆灭，与哥哥空一起在无数的世界之间漂流的旅行者。 | [萌娘百科](https://zh.moegirl.org.cn/荧) |
