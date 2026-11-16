@@ -14417,6 +14417,7 @@ example:
 | buchiyama melon peach | ぶちやまメロンピーチ |  |  |
 | lyrical seeki | リリカルセーキ |  |  |
 | oden ohgan | おでんオーガン |  |  |
+| favoritetrick | FavoriteTrick! |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG62412.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
