@@ -2637,7 +2637,7 @@ example:
 | misao shinohara | 筱原美纱绪 |  |  |
 | sasami iwakura | 岩仓砂沙美 |  |  |
 | maam | 玛姆 | ![](https://ehgt.org/w/01/747/29366-shtm1knd.webp)<br>出自作品：`p:dragon quest dai no daibouken`<br><br>武斗家玛姆是Kong Studios开发的手机游戏《坎特伯雷公主与骑士唤醒冠军之剑的奇幻冒险》中的登场角色。是《坎公骑冠剑》与《勇者斗恶龙 达伊的大冒险》的联动角色。 | [萌娘百科](https://zh.moegirl.org.cn/玛姆%28坎公骑冠剑%29#) |
-| momo yaoyorozu | 八百万百 | 《我的英雄学院》女英雄<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/e/eb/Momo_Yaoyorozu_Full_Body_School_Uniform.png)<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/a/ac/Momo_Yaoyorozu_Hero_Costume_Anime_Action.png) |  |
+| momo yaoyorozu | 八百万百 | ![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/a/ac/Momo_Yaoyorozu_Hero_Costume_Anime_Action.png)<br>出自作品:`my hero academia` |  |
 | ochako uraraka | 丽日御茶子 | ![](https://static.wikia.nocookie.net/bokunoheroacademia/images/f/f8/Ochaco_Uraraka_Action_5.png)<br>出自作品：`p:my hero academia` | [萌娘百科](https://zh.moegirl.org.cn/丽日御茶子) |
 | tsuyu asui | 蛙吹梅雨 | ![](https://static.wikia.nocookie.net/bokunoheroacademia/images/a/a9/Tsuyu_Asui_Action_4.png/revision/latest/scale-to-width-down/268?cb=20250602031715)<br>日语：蛙吹梅雨 / あすいつゆ<br>出自作品：`p:my hero academia` | [萌娘百科](https://zh.moegirl.org.cn/蛙吹梅雨) \|  [Fandom](https://myheroacademia.fandom.com/wiki/Tsuyu_Asui) |
 | izana shinatose | 科户濑伊札那 |  |  |
