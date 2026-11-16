@@ -2243,7 +2243,7 @@ example:
 | kanata izumi | 泉彼方 |  |  |
 | konata izumi | 泉此方 | ![](https://static.wikia.nocookie.net/luckystar/images/f/fe/Konata-san2.png)<br>所属作品：`lucky star` | [萌娘百科](https://zh.moegirl.org.cn/泉此方) \| [Fandom](https://luckystar.fandom.com/wiki/Konata_Izumi) |
 | miki hiiragi | 柊美纪 |  |  |
-| kagami hiiragi | 柊镜 |  |  |
+| kagami hiiragi | 柊镜 | ![](https://static.wikia.nocookie.net/p__/images/c/c9/Kagami-san.gif)<br>出自作品:`lucky star` |  |
 | tsukasa hiiragi | 柊司 |  |  |
 | miyuki takara | 高良美幸 |  |  |
 | misao kusakabe | 日下部美纱绪 |  |  |
