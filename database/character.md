@@ -4642,7 +4642,7 @@ example:
 | oswald | 奥兹华德 | 奥兹华德（オズワルド，Oswald）是游戏《奥丁领域》中的角色。<br>妖精之国林格佛尔德的冷酷战士。<br>![图](https://ehgt.org/76/58/765847d259bf5feeaad7dfb64da87a12189dc338-474085-669-992-png_l.jpg)<br>![图](https://ehgt.org/1c/77/1c77d4234e1c58112a8639a8d5e6adf92b1dba80-360186-1205-1671-jpg_l.jpg) | [官网介绍](https://asia.sega.com/osl/character/oswald.html) |
 | mabel rayveil | 梅贝露·蕾贝露 | ![](https://img.moegirl.org.cn/common/1/17/MabelStand.png)<br>出自作品:`isekai ojisan` | [萌娘百科](https://zh.moegirl.org.cn/梅贝露·蕾贝露) |
 | akane kurokawa | 黑川茜 | ![](https://static.wikia.nocookie.net/oshi_no_ko/images/5/58/Akane_Kurokawa_Anime_2.png)<br>所属作品：`oshi no ko` | [萌娘百科](https://zh.moegirl.org.cn/黑川茜) |
-| perona | 佩罗娜 | 佩罗娜是尾田荣一郎创作的漫画《海贼王》及其衍生作品的登场角色。<br>![](https://i.postimg.cc/NfJCbWvH/Perona-Anime-Post-Timeskip-Infobox.webp) |  |
+| perona | 佩罗娜 | ![](https://static.wikia.nocookie.net/characterprofile/images/8/86/PeronaPrTS.png)<br>出自作品:`one piece` |  |
 | suzume iwato | 岩户铃芽 | 岩户铃芽是日本动画监督新海诚所创作的动画电影《铃芽之旅》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/2/24/Iwado_Suzume.jpg) | [萌娘百科](https://zh.moegirl.org.cn/岩户铃芽) |
 | souta munakata | 宗像草太 | 宗像草太是日本动画监督新海诚所创作的动画电影《铃芽之旅》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/f/fa/Munakata_Sota.jpg) | [萌娘百科](https://zh.moegirl.org.cn/宗像草太) |
 | tsundere elf | 翠 | 翠，真名为苏扎伊尔吉拉泽加奈尔布泽基尔雷亚格朗塞尔加·艾尔加，是漫画《`p:isekai ojisan`》及其衍生作品的女主角。<br>![](https://img.moegirl.org.cn/common/8/89/Elf.png) | [萌娘百科](https://zh.moegirl.org.cn/翠%28异世界舅舅%29#) |
