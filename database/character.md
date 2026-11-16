@@ -1441,7 +1441,7 @@ example:
 | bonnie hopps | 兔邦妮 |  |  |
 |  | ▼ 神薙 |  |  |
 | nagi | 薙 \| 凪 | ![](https://static.wikia.nocookie.net/charactah-account/images/9/9f/Nagi_%28Kannagi%29_Render_02.png)<br>出自作品:`kannagi` |  |
-| zange | 忏悔 |  |  |
+| zange | 忏悔 | ![](https://bkimg.cdn.bcebos.com/pic/8718367adab44aed7ab33055b31c8701a08bfb86)<br>出自作品:`kannagi` |  |
 | jin mikuriya | 御厨仁 |  |  |
 | tsugumi aoba | 青叶鸫 |  |  |
 | shino ookouchi | 大河内紫乃 |  |  |
