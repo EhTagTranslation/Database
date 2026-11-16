@@ -4161,7 +4161,7 @@ example:
 | ludmila lourie | 琉德米拉·露利叶 | 所属作品: `p:madan no ou to vanadis` | [维基百科](https://zh.wikipedia.org/wiki/魔彈之王與戰姬角色列表) |
 | sofya obertas | 苏菲亚·欧贝达斯 | ![](https://static.wikia.nocookie.net/madannooutovanadis/images/f/fd/Sofya_anime_pre.png)<br>日语：ソフィーヤ・オベルタス<br>所属作品: `p:madan no ou to vanadis` | [维基百科](https://zh.wikipedia.org/wiki/魔彈之王與戰姬角色列表) |
 | tigrevurmud vorn | 堤格尔维尔穆德·冯伦 | 所属作品: `p:madan no ou to vanadis` | [维基百科](https://zh.wikipedia.org/wiki/魔彈之王與戰姬角色列表) |
-| kobeni higashiyama | 东山小红 | 所属作品: `p:chainsaw man`<br>![](https://static.wikia.nocookie.net/chainsaw-man/images/a/ab/Kobeniscarownercolored.png) | [萌娘百科](https://zh.moegirl.org.cn/东山小红) |
+| kobeni higashiyama | 东山小红 | ![](https://static.wikia.nocookie.net/chainsaw-man/images/3/3c/Kobeni_Reze_Arc_anime_design.png)<br>所属作品: `p:chainsaw man` | [萌娘百科](https://zh.moegirl.org.cn/东山小红) |
 | hildegarde | 希尔迪嘉露塔 | 所属作品: `p:beelzebub` | [维基百科](https://zh.wikipedia.org/wiki/魔B爸B角色列表) |
 | aoi kunieda | 邦枝葵 | 所属作品: `p:beelzebub` | [维基百科](https://zh.wikipedia.org/wiki/魔B爸B角色列表) |
 | sajuna inui | 乾纱寿叶 | ![](https://bkimg.cdn.bcebos.com/pic/242dd42a2834349b033bc43255b802ce36d3d5391073?)<br>所属作品: `p:sono bisque doll wa koi o suru` | [萌娘百科](https://zh.moegirl.org.cn/乾纱寿叶) |
