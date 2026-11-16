@@ -139,7 +139,7 @@ example:
 | zero no tsukaima | 零之使魔 | ![](https://lain.bgm.tv/r/400/pic/cover/l/32/14/1880_fsmcg.jpg)<br>![](https://lain.bgm.tv/r/400/pic/cover/l/aa/ce/1103_Gc1uq.jpg)<br>作者：山口昇（已故） |  |
 | shakugan no shana | 灼眼的夏娜 | ![图](https://ehgt.org/fc/2f/fc2fb0551dfaf85ed84a5766afd68dfba3c4ac5f-505542-1280-1280-jpg_l.jpg)![图](https://ehgt.org/c0/d3/c0d3764a66fa43c51f6d12b26ae35c6c7ccab754-2101793-1770-2500-jpg_l.jpg)![图](https://ehgt.org/2e/3b/2e3b64854752c3c2cd79fd9e564a85833c660e98-5637004-2134-3031-jpg_l.jpg) |  |
 | the melancholy of haruhi suzumiya | 凉宫春日的忧郁 | ![](https://lain.bgm.tv/r/400/pic/cover/l/21/8a/485_Et062.jpg)<br>日语：涼宮ハルヒの憂鬱 |  |
-| kannagi | 神薙 | ![图](# "https://ehgt.org/5c/0e/5c0e21f7e1d063c2601b192d0383a2c9b08085fc-355188-1050-1490-jpg_250.jpg") |  |
+| kannagi | 神薙 | ![图](https://bkimg.cdn.bcebos.com/pic/a08b87d6277f9e2f070874d3bd66fe24b899a80155eb)<br>日语：かんなぎ |  |
 | kashimashi | 女生爱女生 | ![图](https://ehgt.org/12/6e/126ebd4686fe7e6b643a9ff7e9e27e1e63a48337-302081-700-997-jpg_l.jpg)![图](# "https://ehgt.org/a0/0c/a00c04cc8908c059ad5ce5649c5351180ccbb788-384244-800-1133-jpg_250.jpg") |  |
 | to heart | 心之彼端 | 《To Heart》是由Leaf/AQUAPLUS在1997年出版的PC美少女游戏。 | [萌娘百科](https://zh.moegirl.org.cn/ToHeart) [维基百科](https://zh.wikipedia.org/wiki/To_Heart) |
 | toheart2 | ToHeart2 | ![图](https://ehgt.org/2a/50/2a505b55f08336e6a411f5387a7dc38c07f5f247-70604-320-452-jpg_l.jpg)![图](https://ehgt.org/e3/e8/e3e8326a98db36972b4b3e7f9a4043a567105a37-1216531-1024-1441-jpg_l.jpg) |  |
