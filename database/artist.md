@@ -10815,7 +10815,7 @@ example:
 | teru | てる |  |  |
 | terufuu | てるふう |  |  |
 | terujirou | 晃次郎 |  |  |
-| teruwi | てるうぃ |  |  |
+| teruwi | てるうぃ |  | [pixiv](https://www.pixiv.net/users/430635) \| [X](https://x.com/teruuiOwOv) |
 | teruyama momiji | 照山紅葉 |  |  |
 | tes | tes |  |  |
 | teshio | てしお |  |  |
