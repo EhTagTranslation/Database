@@ -15186,7 +15186,7 @@ example:
 | patsu patsu | ぱつぱつ |  | [X](https://x.com/patsu787) |
 | hoshikawa lange | 星川ランガ |  |  |
 | shikeida | しけいだ |  |  |
-| armjaw | アアムジョー |  |  |
+| armjaw | アアムジョー |  | [pixiv](https://www.pixiv.net/users/124904177) \| [X](https://x.com/armjawwork) \| [FANBOX](https://armjaw.fanbox.cc/) |
 | ozaki nira | 尾崎ニラ |  |  |
 | akachian | あかちあん |  |  |
 | minamoto kyunta | 源キュン太 |  |  |
