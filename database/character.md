@@ -3429,7 +3429,7 @@ example:
 | robin | 知更鸟 \| 鲁弗莱 \| 罗宾 | ①知更鸟<br>![](https://static.wikia.nocookie.net/p__/images/1/1e/ZZZ_Robin_Portrait.webp)<br>所属作品：`honkai star rail`<br>——————————<br>②鲁弗莱<br>![](https://static.wikia.nocookie.net/fireemblem/images/f/fd/Robin_Heroes.png/revision/latest?cb=20170122062316)<br>![](https://static.wikia.nocookie.net/fireemblem/images/d/dd/Robin_Heroes_F.png/revision/latest?cb=20170210061127)<br>日文：ルフレ<br>所属作品：`fire emblem awakening`<br>——————————<br>③罗宾<br>罗宾是DC漫画中的超级英雄，是`c:batman`的搭档及助手。又称“神奇小子”。 | [知更鸟](https://zh.moegirl.org.cn/知更鸟) [鲁弗莱](https://fireemblem.fandom.com/wiki/Robin) [达米安·韦恩<br>](https://zh.moegirl.org.cn/达米安·韦恩) |
 | eugeo | 尤吉欧 |  |  |
 | quinella | 葵妮拉 | ![](https://static.wikia.nocookie.net/swordartonline/images/1/16/Quinella_Full_Body.png)<br>所属作品：`sword art online`<br>日语：クィネラ | [Fandom](https://swordartonline.fandom.com/wiki/Quinella) |
-| makima | 玛奇玛 | ![](https://ehgt.org/w/02/175/72970-81398m3d.webp)<br>所属作品：`chainsaw man` |  |
+| makima | 玛奇玛 | ![](https://bkimg.cdn.bcebos.com/pic/8435e5dde71190ef76c65e23b64e8a16fdfaae51ca8b)<br>所属作品：`chainsaw man` |  |
 | denji | 电次 | ![](https://bkimg.cdn.bcebos.com/pic/500fd9f9d72a6059252d735ab861239b033b5bb50c6f)<br>日语：デンジ<br>出自作品:`chainsaw man` | [萌娘百科](https://zh.moegirl.org.cn/电次%28电锯人%29#) |
 | angel devil | 天使恶魔 |  |  |
 | yanfei | 烟绯 | ![](https://patchwiki.biligame.com/images/ys/e/ef/t7mlw6ms8041z8f03gd4n96s5hwz5nt.gif)<br>所属作品:`p:genshin impact` | [萌娘百科](https://zh.moegirl.org.cn/烟绯) |
