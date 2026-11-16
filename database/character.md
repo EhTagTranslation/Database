@@ -10568,6 +10568,7 @@ example:
 | akiko kamimura | 神村秋子 | ![](https://ami.animecharactersdatabase.com/uploads/chars/12602-1063641073.jpg)<br>出自作品:`sisters natsu no saigo no hi` |  |
 | xukong | 虚空 | ![](https://cdna.artstation.com/p/assets/images/images/103/973/344/large/-xukong-a1.jpg)<br>出自作品:`phantom blade` |  |
 | severus snape | 西弗勒斯·斯内普 | 小说《哈利·波特》及其衍生作品中的主要人物之一 |  |
+| sen no rikyuu | 千利休/驹姬 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
