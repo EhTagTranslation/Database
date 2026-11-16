@@ -10570,6 +10570,7 @@ example:
 | severus snape | 西弗勒斯·斯内普 | 小说《哈利·波特》及其衍生作品中的主要人物之一 |  |
 | sen no rikyuu | 千利休/驹姬 |  |  |
 | ado | Ado | ![](https://static.wikia.nocookie.net/ado/images/6/61/Stand-0d695b9c.png)<br>所属唱片公司：Virgin Music |  |
+| noa izumi | 泉野明 | ![](https://bkimg.cdn.bcebos.com/smart/4a36acaf2edda3cc7cd9ef84fcb02e01213fb80e3447-bkimg-process,v_1,rw_189,rh_274,maxl_549)<br>出自作品:`patlabor` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
