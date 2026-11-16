@@ -3063,6 +3063,7 @@ example:
 | party kara tsuiho sareta sono chiyushi jitsu wa saikyo ni tsuki | 被队伍驱逐的治愈师，其实是最强的 | ![](https://lain.bgm.tv/r/400/pic/cover/l/44/56/472673_DW15U.jpg)<br>日语：パーティーから追放されたその治癒師、実は最強につき |  |
 | astrae oratio | 阿索拉：星之祈愿 | ![](https://bkimg.cdn.bcebos.com/pic/8718367adab44aed2e73669dba419001a18b87d64d0e)<br>日语：アストラエ・オラティオ |  |
 | power instinct | 豪血寺一族 | ![](https://lain.bgm.tv/r/400/pic/cover/l/28/a6/79423_1XLVs.jpg) |  |
+| phantom blade | 影之刃 | ![](https://lain.bgm.tv/r/400/pic/cover/l/73/56/437526_rttT1.jpg)<br>包含影之刃零，影之刃1~3，雨血等IP。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
