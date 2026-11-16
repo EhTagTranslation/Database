@@ -2891,7 +2891,7 @@ example:
 | akiko yoshizawa | 吉泽明子 |  |  |
 | satomi niiyama | 新山聪美 | 泷昇同一大学的后辈，擅长长笛演奏。在管乐团暑假期间协助指导木管乐器。桥本与泷昇是同辈，但新山是后辈。对泷的亡妻千寻怀有超越同性朋友的情感 |  |
 | fuutarou uesugi | 上杉风太郎 | ![](https://bkimg.cdn.bcebos.com/pic/1f178a82b9014a9089cd0b31a4773912b21bee4f?)<br>所属作品：`gotoubun no hanayome` |  |
-| kanao tsuyuri | 栗花落香奈乎 | ![](https://thumbsnap.com/i/d4Y6rmc8.jpg)<br>日语：栗花落 カナヲ<br>出自作品：`p:kimetsu no yaiba` | [萌娘百科](https://zh.moegirl.org.cn/栗花落香奈乎) |
+| kanao tsuyuri | 栗花落香奈乎 | ![](https://static.wikia.nocookie.net/p__/images/a/a2/Kanao_Tsuyuri_Render_2.png)<br>日语：栗花落 カナヲ<br>出自作品：`p:kimetsu no yaiba` | [萌娘百科](https://zh.moegirl.org.cn/栗花落香奈乎) |
 | shinobu kochou | 蝴蝶忍 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/e5/Shinobu_anime.png)<br>日语：胡蝶 しのぶ<br>所属作品:`p:kimetsu no yaiba` | [萌娘百科](https://zh.moegirl.org.cn/胡蝶忍) |
 | giyuu tomioka | 富冈义勇 | ![](https://thumbsnap.com/i/q2mNZs3w.jpg)<br>富冈义勇（日语：冨岡（とみおか） 義勇（ぎゆう））是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的角色。 | [萌娘百科](https://zh.moegirl.org.cn/富冈义勇) |
 | mitsuri kanroji | 甘露寺蜜璃 | ![](https://img.moegirl.org.cn/common/9/98/Kanroji_Mitsuri.png)<br>甘露寺蜜璃（英语:Mitsuri Kanroji）<br>是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的角色。 | [萌娘百科](https://zh.moegirl.org.cn/甘露寺蜜璃) |
