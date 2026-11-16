@@ -522,7 +522,7 @@ example:
 | magukappu | 马克杯 |  | [pixiv](https://www.pixiv.net/users/75567) |
 | michiyon | みちよん |  |  |
 | hijiri tsukasa | 圣☆司 |  |  |
-| tsukino jyogi | 月野定规 |  |  |
+| tsukino jyogi | 月野定规 | 月野定規 | [X](https://x.com/moonruler) \| [IRODORI](https://irodoricomics.com/Tsukino-Jyogi?target=artist) |
 | gotou junji | 后藤润二 |  |  |
 | nogi makoto | のぎまこと |  |  |
 | shinonome ryu | 东云龙 |  |  |
