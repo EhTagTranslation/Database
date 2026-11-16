@@ -15892,6 +15892,7 @@ example:
 | godou kotarou | 悟道琥太郎 |  |  |
 | hayaa ruki | 早亜ルキ |  |  |
 | koshian | こしあん |  |  |
+| daien | 大焔 |  | [pixiv](https://www.pixiv.net/users/22524122) \| [X](https://x.com/New_Daien418) \| [Skeb](https://skeb.jp/@New_Daien418) |
 
 <!--TEMPLATE:
 |  |  |  |  |
