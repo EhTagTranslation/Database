@@ -5844,7 +5844,7 @@ example:
 | gloria martinez | 葛洛莉亚·马丁内斯 |  |  |
 | yato | 夜刀 |  |  |
 | noir corne | 黑角 |  |  |
-| nayuta | 娜由塔 \| 那由多 | ①<br>![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/30/Nayuta_%28Wu_Wei%29_FB.png)<br>所属作品：`goddess of victory nikke`<br><br>②<br>![](https://ehgt.org/w/02/197/26364-qg5p44ap.webp)<br>所属作品：`p:chainsaw man`<br>那由多（日语：ナユタ）是由藤本树所创作的漫画《电锯人》及其衍生作品的登场角色。 | [Gamekee](https://www.gamekee.com/nikke/tj/156441.html) |
+| nayuta | 娜由塔 \| 那由多 | ①娜由塔<br>![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/30/Nayuta_%28Wu_Wei%29_FB.png)<br>所属作品：`goddess of victory nikke`<br><br>②那由多<br>![](https://bkimg.cdn.bcebos.com/pic/58ee3d6d55fbb2fb431611f0ee1637a4462308f77686)<br>日语：ナユタ<br>出自作品:`chainsaw man` | [Gamekee](https://www.gamekee.com/nikke/tj/156441.html) |
 | saori kido | 城户沙织（雅典娜） | ![](https://static.wikia.nocookie.net/saintseiya/images/c/c5/Athena_1.png)<br>所属作品：`saint seiya` |  |
 | athena | 雅典娜 |  |  |
 | hades | 哈迪斯 |  |  |
