@@ -2677,7 +2677,7 @@ example:
 | hugo | 雨果 | ![](https://static.wikia.nocookie.net/streetfighter/images/c/ca/SFVHugo.jpg)<br>出自作品：`p:street fighter`<br>全名：Hugo Andore |  |
 | nel zelpher | 奈露 |  |  |
 | sadi-chan | 小萨蒂 |  |  |
-| mina ashido | 芦户三奈 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/0/05/Mina_Ashido_School_Uniform.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/89/Mina_Ashido_Hero_Costume_Anime_Action.png) |  |
+| mina ashido | 芦户三奈 | ![](https://static.wikia.nocookie.net/bokunoheroacademia/images/0/05/Mina_Ashido_School_Uniform.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/89/Mina_Ashido_Hero_Costume_Anime_Action.png)<br>出自作品:`my hero academia` |  |
 | rebecca | 蕾贝卡 | ![](https://ehgt.org/w/02/181/69170-8t5f68b9.webp)<br>所属作品：`one piece` |  |
 | amazon | 亚马逊 | 所属作品：`dragons crown` |  |
 | sorceress | 女巫 | 游戏《`dragons crown`》中的角色。<br>![图](https://ehgt.org/d4/9b/d49b2c756d3c7b929a8b3005a8bf7c4649cec001-127531-850-1050-jpg_l.jpg)<br>![图](https://ehgt.org/db/85/db857a5ee857ec6ba6c27ff7f2995140dc3259a6-118637-800-1260-jpg_l.jpg) |  |
