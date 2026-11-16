@@ -14264,7 +14264,7 @@ example:
 | kouguti | こうぐち |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53644.html) |
 | kouan | コーアン |  |  |
 | kasama shirou | 笠間しろう |  |  |
-| katsuyoshi | かつよし |  |  |
+| katsuyoshi | かつよし |  | [pixiv](https://www.pixiv.net/users/43677973) \| [X](https://x.com/katsuyoshi4278) \| [FANBOX](https://katsuyoshi.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/175947) |
 | kawasaki | かわさき |  | [pixiv](https://www.pixiv.net/users/93077362) \| [X](https://x.com/Studiokwsk) \| [Fantia](https://fantia.jp/fanclubs/495050) \| [FANBOX](https://studiokwsk.fanbox.cc/) |
 | kaniguruma | かにぐるま |  | [pixiv](https://www.pixiv.net/users/56072812) \| [X](https://x.com/kaniguruma) |
 | keibou | ケイボウ |  |  |
