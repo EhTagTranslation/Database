@@ -10569,6 +10569,7 @@ example:
 | xukong | 虚空 | ![](https://cdna.artstation.com/p/assets/images/images/103/973/344/large/-xukong-a1.jpg)<br>出自作品:`phantom blade` |  |
 | severus snape | 西弗勒斯·斯内普 | 小说《哈利·波特》及其衍生作品中的主要人物之一 |  |
 | sen no rikyuu | 千利休/驹姬 |  |  |
+| ado | Ado | ![](https://static.wikia.nocookie.net/ado/images/6/61/Stand-0d695b9c.png)<br>所属唱片公司：Virgin Music |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
