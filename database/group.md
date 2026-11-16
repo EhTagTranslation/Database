@@ -1880,7 +1880,7 @@ example:
 | nagaredamaya | 流弹屋 |  |  |
 | dschinghis khan no tamanegi wa ore no yome | ジンギスカンの玉葱は俺の嫁 |  |  |
 | usagi boss | 兔子老大 | ウサギBOSS | [plurk](https://www.plurk.com/usagibosu) [Facebook](https://www.facebook.com/usagibosu) |
-| popochichi | ぽぽちち |  |  |
+| popochichi | ぽぽちち |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=73004/) \|  [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG24047.html) |
 | g.y.more.l | G.Y.MORE.L |  |  |
 | nyoudou juunisei | 尿道十二世 |  |  |
 | hobukuro | ほおぶくろっ! |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76737/) |
