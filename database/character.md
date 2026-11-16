@@ -8040,7 +8040,7 @@ example:
 | rinze himenogi | 姬乃树凛世 | ![](https://static.wikia.nocookie.net/photo-kano/images/2/2b/Rinze_Himenogi.png)<br>所属作品：`lover` |  |
 | nanatsu higadera | 日向寺南夏 | ![](https://static.wikia.nocookie.net/photo-kano/images/2/2f/Nanatsu_Higadera.png)<br>所属作品：`lover` |  |
 | yumina | 优美菜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/bd/d8/66110_crt_3f2A3.jpg)<br>所属作品：`lover` |  |
-| elze silhoueska | 艾尔赛·希尔艾斯卡 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/41/Elze_Silhoueska.png)<br>所属作品：`isekai wa smartphone to tomo ni.`<br>琳赛·希尔艾斯卡的姐姐。望月冬夜的后宫之一。 |  |
+| elze silhoueska | 艾尔赛·希尔艾斯卡 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/41/Elze_Silhoueska.png)<br>所属作品：`isekai wa smartphone to tomo ni.` |  |
 | linze silhoueska | 琳赛·希尔艾斯卡 | ![](https://storage.moegirl.org.cn/moegirl/commons/d/d7/Linze_Silhoueska.png)<br>所属作品：`isekai wa smartphone to tomo ni.`<br>艾尔赛·希尔艾斯卡的妹妹。望月冬夜的后宫之一。 |  |
 | lucia rea regulus | 露西亚·蕾雅·雷古路斯 | ![](https://static.wikia.nocookie.net/isekai-smartphone/images/a/a0/Lucia_Rea_Regulus_Anime.png)<br>所属作品：`isekai wa smartphone to tomo ni.`<br>雷古路斯帝国第三王女，年龄比冬夜小四岁。 |  |
 | yae kokonoe | 九重八重 | ![](https://static.wikia.nocookie.net/isekai-smartphone/images/b/b3/Yae_Kokonoe_Anime.png)<br>所属作品：`isekai wa smartphone to tomo ni.`<br>来自逸仙的江户武士，年龄比冬夜小一岁。 |  |
