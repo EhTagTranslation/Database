@@ -10566,6 +10566,7 @@ example:
 | azuki | 红豆 | ![](https://bkimg.cdn.bcebos.com/pic/94cad1c8a786c9177f3e64cf566067cf3bc79e3df98a)<br>出自作品:`nekopara` |  |
 | fran | 芙兰 | ![](https://tenken-anime.com/assets/character/2n.webp)<br>日语：フラン<br>出自作品:`tensei shitara ken deshita` |  |
 | akiko kamimura | 神村秋子 | ![](https://ami.animecharactersdatabase.com/uploads/chars/12602-1063641073.jpg)<br>出自作品:`sisters natsu no saigo no hi` |  |
+| xukong | 虚空 | ![](https://cdna.artstation.com/p/assets/images/images/103/973/344/large/-xukong-a1.jpg)<br>出自作品:`phantom blade` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
