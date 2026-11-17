@@ -4123,7 +4123,7 @@ example:
 | chousen | 貂蝉 |  |  |
 | benkei musashibo | 武藏坊弁庆 |  |  |
 | genpou saji | 左慈元放 |  |  |
-| bunwa kaku | 贾诩文和 |  |  |
+| bunwa kaku | 贾诩文和 | ![](https://static.wikia.nocookie.net/ikkitousen/images/9/96/Bunwa_Kaku.jpg)<br>出自作品:`ikkitousen` |  |
 | ukitsu | 于吉 |  |  |
 | shifu choushou | 张昭子布 |  |  |
 | koshaji | 胡车儿 |  |  |
