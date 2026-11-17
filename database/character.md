@@ -10578,6 +10578,7 @@ example:
 | maho sakuramori | 樱森真帆 | ![](https://bkimg.cdn.bcebos.com/pic/b64543a98226cffc1e1785d961585d90f603738dbc1d)<br>出自作品:`class no daikirai na joshi to kekkon suru koto ni natta.` |  |
 | homura yamanobe | 山之边焰 | ![](https://t.vndb.org/ch/95/24495.jpg)<br>日语：山之辺焔<br>出自作品:`fukai ni nemuru oujo no abaddon` |  |
 | kippei kazama | 风间桔平 | ![](https://t.vndb.org/ch/96/24496.jpg)<br>日语：風間桔平<br>出自作品:`fukai ni nemuru oujo no abaddon` |  |
+| mia suzumori | 铃森未亚 | ![](https://t.vndb.org/ch/99/24499.jpg)<br>日语：鈴森未亜<br>出自作品:`fukai ni nemuru oujo no abaddon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
