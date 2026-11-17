@@ -2626,7 +2626,7 @@ example:
 | ramlethal valentine | 拉姆蕾萨尔·华伦泰 | ![](https://static.wikia.nocookie.net/guilty-gear/images/c/c2/Ramlethal_Guilty_Gear_Strive.png)<br>日语：ラムレザル＝ヴァレンタイン<br>所属作品：`guilty gear` |  |
 | alisa ilinichina amiella | 亚莉莎·伊莉妮提娜·阿米耶拉 | ![](https://ehgt.org/w/01/875/32829-ggj3f42h.webp)<br>所属作品：`god eater` |  |
 | lara croft | 劳拉·克罗夫特 | ![](https://ehgt.org/w/01/225/51426-tgk1dwea.webp)<br>出自作品：`p:tomb raider`<br><br>劳拉·克劳馥（劳拉·克罗夫特(官方简体)/萝拉·卡芙特(官方繁体)/Lara Croft）是水晶动力开发的动作冒险游戏《古墓丽影系列》（Tomb Raider）的主角。《古墓丽影》系列现由史克威尔艾尼克斯发行。 | [萌娘百科](https://zh.moegirl.org.cn/劳拉·克劳馥) |
-| naoto shirogane | 白钟直斗 | ![](https://img.moegirl.org.cn/common/5/5e/Naoto_Shirogane_render.png)<br>日语：しろがね なおと<br>出自作品:`persona 4` | [萌娘百科](https://zh.moegirl.org.cn/白钟直斗) |
+| naoto shirogane | 白钟直斗 | ![](https://bkimg.cdn.bcebos.com/pic/2e2eb9389b504fc2d5627b3c8b80f01190ef76c6c7ce)<br>日语：しろがね なおと<br>出自作品:`persona 4` | [萌娘百科](https://zh.moegirl.org.cn/白钟直斗) |
 | hajime ichinose | 一之濑初 |  |  |
 | rabi en rose | 拉比安露斯 |  |  |
 | lei fang | 雷芳 | ![](https://static.wikia.nocookie.net/deadoralive/images/4/4e/Img-leifang.png)<br>所属作品：`dead or alive` |  |
