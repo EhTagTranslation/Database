@@ -10590,6 +10590,7 @@ example:
 | lyme | 莱姆 | ![](https://azurlane.netojuu.com/images/thumb/d/d7/LymeRPGWithoutBG.png/1264px-LymeRPGWithoutBG.png)<br>出自作品:`azur lane` |  |
 | sayumi ootori | 鸿纱由美 | ![](https://cdn.donmai.us/original/a8/62/a8629cdf6ef5ca0251533df9927ba1b5.png) |  |
 | queen novo | 诺沃女王 | 出自作品:`my little pony friendship is magic` |  |
+| minato umiji | 海路凑 | ![](https://static.wikia.nocookie.net/blue-archive/images/4/47/Minato_Portrait.png)<br>日语：海路ミナト<br>出自作品:`blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
