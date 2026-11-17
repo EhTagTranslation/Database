@@ -10574,6 +10574,7 @@ example:
 | petra gurin | 佩特拉·古凛 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/d7/Petra_Gurin_Portrait.png)<br>日语：ペトラ グリン<br>所属社团:`nijisanji` |  |
 | leivinia birdway | ‌蕾薇妮雅·柏德蔚 | ![](https://bkimg.cdn.bcebos.com/pic/d058ccbf6c81800a19d84dbe106324fa828ba61ee97e)<br>日语：レイヴィニア＝バードウェイ<br>出自作品:`toaru project` |  |
 | sephiroth | 萨菲罗斯 | `p:final fantasy vii` |  |
+| himari ishikura | 石仓阳鞠 | ![](https://static.wikia.nocookie.net/wolrdscollideharem/images/b/b3/Himari_Ishikura.png)<br>出自作品:`class no daikirai na joshi to kekkon suru koto ni natta.` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
