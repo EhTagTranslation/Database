@@ -4462,7 +4462,7 @@ example:
 | miya tachibana | 橘美也 |  |  |
 | sae nakata | 中多纱江 | ![](https://ehgt.org/w/02/042/15671-6qk5s3xk.webp)<br>所属作品：`amagami` |  |
 | rihoko sakurai | 樱井梨穗子 | ![](https://ehgt.org/w/02/256/51002-ihpy4f0i.webp)<br>所属作品：`amagami` | [萌娘百科](https://zh.moegirl.org.cn/樱井梨穗子) |
-| yukiko amagi | 天城雪子 | ![](https://static.wikia.nocookie.net/megamitensei/images/c/ce/P4A_Yukiko_Render.png)<br>所属作品：`persona 4`<br>日语：天城 雪子（あまぎ ゆきこ） | [萌娘百科](https://zh.moegirl.org.cn/天城雪子) |
+| yukiko amagi | 天城雪子 | ![](https://bkimg.cdn.bcebos.com/pic/03087bf40ad162d9f2d3ac0d0082beec8a13632767d6)<br>日语：あまぎ ゆきこ<br>所属作品：`persona 4` | [萌娘百科](https://zh.moegirl.org.cn/天城雪子) |
 | hatsumi sega | 濑贺初美 | 濑贺初美（Segami，セガミ）是海王星系列外传作品《超次元大战 海王星VS世嘉主机女孩 梦幻合体特别版》（超次元大战 ネプテューヌＶＳセガ·ハード·ガールズ 梦の合体スペシャル）的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/濑贺初美) |
 | fujisaki yua | 藤崎由爱 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/3/39/Fujisaki_YUA_Original_Design.png) | [萌娘百科](https://zh.moegirl.org.cn/藤崎由爱) [Fandom](https://virtualyoutuber.fandom.com/wiki/Fujisaki_Yua) [Fandom](https://virtualyoutuber.fandom.com/zh-tw/wiki/藤崎由愛) |
 | dante | 但丁 | 卡普空旗下电子游戏鬼泣系列主角 |  |
