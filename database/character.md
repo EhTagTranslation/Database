@@ -8190,7 +8190,7 @@ example:
 | nekomaru nidai | 贰大猫丸 | 《超级弹丸论破2 再见绝望学园》登场角色，超高校级的经理人。 | [萌娘百科](https://zh.moegirl.org.cn/贰大猫丸) |
 | peko pekoyama | 边古山边古 | 《超级弹丸论破2 再见绝望学园》登场角色，超高校级的剑道家，也译作边古山佩子。 | [萌娘百科](https://zh.moegirl.org.cn/边古山边古) |
 | ruka rengoku | 炼狱瑠火 | ![](https://ehgt.org/w/01/632/71262-3vz67c3o.webp)<br>出自作品：`p:kimetsu no yaiba`<br>日语：煉獄瑠火（れんごくるか） | [萌娘百科](https://zh.moegirl.org.cn/炼狱瑠火) |
-| yuri briar | 尤里·布莱尔 | ![](https://static.wikia.nocookie.net/spy-x-family9171/images/7/77/Yuri_Briar_Colored_Full_Body.png)<br>所属作品：`spy x family`<br>约尔·福杰的弟弟，是一个极度姐控。 | [Fandom](https://spy-x-family.fandom.com/wiki/Yuri_Briar) |
+| yuri briar | 尤里·布莱尔 | ![](https://static.wikia.nocookie.net/spy-x-family9171/images/7/77/Yuri_Briar_Colored_Full_Body.png)<br>所属作品：`spy x family` | [Fandom](https://spy-x-family.fandom.com/wiki/Yuri_Briar) |
 | kana imai | 今井加奈 | ![](https://storage.moegirl.org.cn/moegirl/commons/2/27/ナチュラルブロッサム_今井加奈%2B.jpg)<br>所属作品：`the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/今井加奈) |
 | towa hanamaki | 花巻乙和 | ![](https://static.wikia.nocookie.net/d4dj/images/c/c1/Towa_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Hanamaki_Towa) |
 | saki izumo | 出云咲姬 | ![](https://static.wikia.nocookie.net/d4dj/images/d/d5/Saki_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Izumo_Saki) |
