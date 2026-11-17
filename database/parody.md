@@ -2713,7 +2713,7 @@ example:
 | project kv | Project KV | ![](https://lain.bgm.tv/r/400/pic/cover/l/bd/47/509035_heggl.jpg)<br>“Project KV”是Dynamis One以及Studio Alaya共同打造的游戏项目。该项目因涉嫌抄袭Nexon游戏《Blue Archive》且事实上不正当利用《Blue Archive》未公开的素材，在公开仅8天后中止游戏开发。 | [萌娘百科](https://zh.moegirl.org.cn/Project_KV) |
 | bishoujo kamen poitrine | 美少女假面珀怀特琳 |  |  |
 | doki doki majo shinpan | 心跳魔女神判 |  |  |
-| fate strange fake | 命运-奇异赝品 | ![](https://static.wikia.nocookie.net/typemoon/images/6/60/Fate_strange_fake_novel_Vol_1.png)<br>由TYPE-MOON原作、成田良悟执笔的系列轻小说《Fate/strange Fake》改编的TV动画。简称赝作。 |  |
+| fate strange fake | 命运-奇异赝品 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f0/51/443831_84ZQs.jpg)<br>简称：赝作 |  |
 | gameoverse | 通关失败 | Glitch Productions的原创动画剧集。 |  |
 | geobreeders | 魍魉游击队 | ![](https://static.wikia.nocookie.net/enanimanga/images/2/2f/Geobreeders.jpg) |  |
 | maburaho | 爱的魔法 | 筑地俊彦创作的轻小说。 |  |
