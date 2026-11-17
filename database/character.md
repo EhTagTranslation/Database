@@ -2091,7 +2091,7 @@ example:
 | miyuki irie | 入江美雪 | ![](https://static.wikia.nocookie.net/angelbeats/images/a/a8/Irie_visualnovel.png)<br>所属作品：`angel beats`<br>日语：入江みゆき |  |
 | shiori sekine | 关根诗织 | ![](https://static.wikia.nocookie.net/angelbeats/images/d/d8/Ab_character_sekine_image.png)<br>所属作品：`angel beats`<br>日语：関根しおり |  |
 |  | ▼ 干物妹！小埋 |  |  |
-| umaru doma | 土间埋 |  | [萌娘百科](https://zh.moegirl.org.cn/土间埋) |
+| umaru doma | 土间埋 | ![](https://static.wikia.nocookie.net/p__/images/0/0c/Umaru_Doma.png)<br>![](https://bkimg.cdn.bcebos.com/pic/cf1b9d16fdfaaf5114f8172f8a5494eef01f7a03)<br>出自作品:`himouto umaru-chan` | [萌娘百科](https://zh.moegirl.org.cn/土间埋) |
 | taihei doma | 土间大平 |  | [萌娘百科](https://zh.moegirl.org.cn/土间大平) |
 | kirie motoba | 本场切绘 |  | [萌娘百科](https://zh.moegirl.org.cn/本场切绘) |
 | nana ebina | 海老名菜菜 |  | [萌娘百科](https://zh.moegirl.org.cn/海老名菜菜) |
