@@ -10611,6 +10611,7 @@ example:
 | mebuki yamashi | 山师芽吹 | ![](https://static.wikia.nocookie.net/fxkurumi/images/c/c9/Main_mebuki.png)<br>出自作品:`fx senshi kurumi-chan` |  |
 | rune yamauchi | 山内瑠音 | ![](https://static.wikia.nocookie.net/sono-bisque-doll-wa-koi-wo-suru/images/e/e5/Rune.webp)<br>出自作品:`sono bisque doll wa koi o suru` |  |
 | daia yahiro | 八寻大空 | ![](https://static.wikia.nocookie.net/sono-bisque-doll-wa-koi-wo-suru/images/8/88/Daia.webp)<br>日语：八尋大空<br>出自作品:`sono bisque doll wa koi o suru` |  |
+| spritzee | 粉香香 | 出自作品:`pokemon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
