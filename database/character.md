@@ -10575,6 +10575,7 @@ example:
 | leivinia birdway | ‌蕾薇妮雅·柏德蔚 | ![](https://bkimg.cdn.bcebos.com/pic/d058ccbf6c81800a19d84dbe106324fa828ba61ee97e)<br>日语：レイヴィニア＝バードウェイ<br>出自作品:`toaru project` |  |
 | sephiroth | 萨菲罗斯 | `p:final fantasy vii` |  |
 | himari ishikura | 石仓阳鞠 | ![](https://static.wikia.nocookie.net/wolrdscollideharem/images/b/b3/Himari_Ishikura.png)<br>出自作品:`class no daikirai na joshi to kekkon suru koto ni natta.` |  |
+| maho sakuramori | 樱森真帆 | ![](https://bkimg.cdn.bcebos.com/pic/b64543a98226cffc1e1785d961585d90f603738dbc1d)<br>出自作品:`class no daikirai na joshi to kekkon suru koto ni natta.` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
