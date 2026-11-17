@@ -1504,7 +1504,7 @@ example:
 | endro | Endro! | 《Endro!》（日语：えんどろ〜！）是由なもり担当角色原案、Studio五组制作的一部原创TV动画，并有漫画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/Endro!) (\*\*) |
 | harukana receive | 遥的接球 | 《遥的接球》（日语：はるかなレシーブ）是由漫画家如意自在创作的一部漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/遥的接球) (\*\*) |
 | majo no tabitabi | 魔女之旅 |  |  |
-| chainsaw man | 电锯人 | ![](https://thumbsnap.com/i/XtdjHkyB.jpg)<br>《`p:chainsaw man`》是作者藤本树作画的漫画作品，2018年12月3日开始连载于《周刊少年JUMP》。 | [萌娘百科](https://zh.moegirl.org.cn/电锯人) |
+| chainsaw man | 电锯人 | ![](https://lain.bgm.tv/r/400/pic/cover/l/26/b4/321885_92uzU.jpg)<br>日语：チェンソーマン<br>作者：藤本树 | [萌娘百科](https://zh.moegirl.org.cn/电锯人) |
 | josou sanmyaku | 女装山脉 | 《女装山脉》（日语：女装山脈）为`nounai kanojo`于2011年6月17日发售的恋爱冒险类型成人游戏，2021年4月9由JAST USA发售英文版。作品以`tomgirl`为主题，其特征是作品中没有真正的女性登场（`males only`）。<br><br>![图](# "https://ehgt.org/74/2e/742e961cee17748095f21f8e57f546b6b07dc556-206428-1000-500-jpg_l.jpg") | [官方网站🇯🇵](http://www.noukano.com/3myaku/index.htm) [维基百科](https://zh.wikipedia.org/wiki/女裝山脈) [萌娘百科](https://zh.moegirl.org.cn/女装山脉) |
 | penguin highway | 企鹅公路 |  |  |
 | irotoridori no sekai | 五彩斑斓的世界 | ![sekai](https://t.vndb.org/cv/77/88277.jpg)<br>![hikari](https://t.vndb.org/cv/82/88282.jpg)<br>![fd](https://t.vndb.org/cv/50/88950.jpg) | [维基百科](https://zh.wikipedia.org/wiki/五彩斑斕的世界) [萌娘百科](https://zh.moegirl.org.cn/五彩斑斓的世界) |
