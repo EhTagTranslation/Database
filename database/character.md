@@ -10604,6 +10604,7 @@ example:
 | midorigaki | Midorigaki | Vtuber，暂无译名 | [X](https://x.com/midorigaki)<br>[YouTube](https://www.youtube.com/@midorigakii) |
 | kyoko tanaami | 田名京子 | ![](https://static.wikia.nocookie.net/cyberpunk/images/e/e5/Kyoko_Infobox_CPEDGEII.png)<br>出自作品:`cyberpunk` |  |
 | dr. hell | 地狱博士 | ![](https://static.wikia.nocookie.net/mazinger/images/6/65/Dr._Hell.png)<br>出自作品:`mazinger z` |  |
+| sayaka yumi | 弓沙也加 | ![](https://static.wikia.nocookie.net/mazinger/images/4/46/Sayaka_Yumi.png)<br>日语：弓さやか<br>出自作品:`mazinger z` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
