@@ -10610,6 +10610,7 @@ example:
 | yasuko takane | 高根康子 | ![](https://bkimg.cdn.bcebos.com/pic/6159252dd42a2834349bb4f2d8e8deea15ce37d3118e)<br>出自作品:`fx senshi kurumi-chan` |  |
 | mebuki yamashi | 山师芽吹 | ![](https://static.wikia.nocookie.net/fxkurumi/images/c/c9/Main_mebuki.png)<br>出自作品:`fx senshi kurumi-chan` |  |
 | rune yamauchi | 山内瑠音 | ![](https://static.wikia.nocookie.net/sono-bisque-doll-wa-koi-wo-suru/images/e/e5/Rune.webp)<br>出自作品:`sono bisque doll wa koi o suru` |  |
+| daia yahiro | 八寻大空 | ![](https://static.wikia.nocookie.net/sono-bisque-doll-wa-koi-wo-suru/images/8/88/Daia.webp)<br>日语：八尋大空<br>出自作品:`sono bisque doll wa koi o suru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
