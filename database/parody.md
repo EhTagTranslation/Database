@@ -3065,6 +3065,7 @@ example:
 | power instinct | 豪血寺一族 | ![](https://lain.bgm.tv/r/400/pic/cover/l/28/a6/79423_1XLVs.jpg) |  |
 | phantom blade | 影之刃 | ![](https://lain.bgm.tv/r/400/pic/cover/l/73/56/437526_rttT1.jpg)<br>包含影之刃零，影之刃1~3，雨血等IP。 |  |
 | fukai ni nemuru oujo no abaddon | 沉睡于腐界的王女 | ![](https://t.vndb.org/cv.t/00/83700.jpg)<br>日语：腐界に眠る王女のアバドーン |  |
+| aishiteruze baby | 爱你宝贝 | ![](https://lain.bgm.tv/r/400/pic/cover/l/54/7b/7354_8z8Hi.jpg)<br>日语：愛してるぜベイベ★★ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
