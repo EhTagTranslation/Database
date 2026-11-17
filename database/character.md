@@ -10597,6 +10597,7 @@ example:
 | migi | 右 | ![](https://static.wikia.nocookie.net/yomi-no-tsugai/images/0/06/Right_-_anime_design.png)<br>出自作品:`yomi no tsugai` |  |
 | jp | 约翰·彼德罗维奇 | ![](https://bkimg.cdn.bcebos.com/pic/6c224f4a20a4462309f780a58a75650e0cf3d6ca79e7)<br>全名：Johann Petrovich<br>出自作品:`street fighter` |  |
 | lucius malfoy | 卢修斯·马尔福 | ![](https://bkimg.cdn.bcebos.com/pic/09fa513d269759eeed8601d2bdfb43166c22dfd1)<br>出自作品:`harry potter` |  |
+| peritya | 佩里缇亚 | ![](https://bkimg.cdn.bcebos.com/pic/0b46f21fbe096b63f624574afd6f9044ebf81a4c062e)<br>出自作品:`girls frontline` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
