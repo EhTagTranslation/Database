@@ -3689,7 +3689,7 @@ example:
 | nozomi sumizome | 墨染希 | ![](https://bkimg.cdn.bcebos.com/pic/71cf3bc79f3df8dc9125c984c211728b4710288e)<br>![](https://bkimg.cdn.bcebos.com/smart/5243fbf2b211931353edb9a56a380cd791238d7d-bkimg-process,v_1,rw_3,rh_4,maxl_284)<br>出自作品:`cafe stella to shinigami no chou` |  |
 | mei hiuchidani | 火打谷爱衣 |  |  |
 | suzune shioyama | 汐山凉音 |  |  |
-| wakana gojou | 五条新菜 | ![](https://static.wikia.nocookie.net/sono-bisque-doll-wa-koi-wo-suru/images/a/a9/Wakana_Gojo.webp)<br>出自作品：`p:sono bisque doll wa koi o suru`<br>日语：ごじょうわかな | [萌娘百科](https://zh.moegirl.org.cn/五条新菜) \| [Fandom](https://sono-bisque-doll-wa-koi-wo-suru.fandom.com/wiki/Wakana_Gojo) |
+| wakana gojou | 五条新菜 | ![](https://static.wikia.nocookie.net/sono-bisque-doll-wa-koi-wo-suru/images/a/a9/Wakana_Gojo.webp)<br>日语：ごじょうわかな<br>出自作品：`p:sono bisque doll wa koi o suru` | [萌娘百科](https://zh.moegirl.org.cn/五条新菜) \| [Fandom](https://sono-bisque-doll-wa-koi-wo-suru.fandom.com/wiki/Wakana_Gojo) |
 | marin kitagawa | 喜多川海梦 | ![](https://static.wikia.nocookie.net/sono-bisque-doll-wa-koi-wo-suru/images/8/81/Marin_Kitagawa.webp)<br>所属作品：`sono bisque doll wa koi o suru` | [萌娘百科](https://zh.moegirl.org.cn/喜多川海梦) |
 | akeno himejima | 姬岛朱乃 | ![](https://haremking.tv/character/images/4s.png)<br>所属作品：`highschool dxd` | [萌娘百科](https://zh.moegirl.org.cn/姬岛朱乃) |
 | asia argento | 爱莎·阿尔杰特 | ![](https://static.wikia.nocookie.net/highschooldxd/images/7/72/Asia_Argento_by_Skodwarde.png)<br>日语：アーシア・アルジェント<br>所属作品：`highschool dxd` | [萌娘百科](https://zh.moegirl.org.cn/爱莎·阿尔杰特) |
