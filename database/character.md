@@ -10586,6 +10586,7 @@ example:
 | blanche devereaux | 布兰奇·德弗罗 | 出自作品:`the golden girls` |  |
 | victoria everglot | 维多利亚·埃弗格特 | 出自作品:`corpse bride` |  |
 | astromancer barbeloth trismegistus | 亚斯妥曼瑟 | ![](https://bkimg.cdn.bcebos.com/pic/6d81800a19d8bc3eb135181debd7b11ea8d3fc1fefea)<br>全名：亚斯妥曼瑟·芭比洛斯·崔斯梅姬斯图斯<br>出自作品:`genshin impact` |  |
+| yhwach | 友哈巴赫 | ![](https://bkimg.cdn.bcebos.com/pic/4bed2e738bd4b31c870198984781307f9e2f070852c2)<br>出自作品:`bleach` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
