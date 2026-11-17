@@ -5899,7 +5899,7 @@ example:
 | lucy heartfilia | 露西·哈特菲利亚 | ![](https://static.wikia.nocookie.net/fairytail/images/a/a0/Lucy_2018.png)<br>出自作品：`p:fairy tail`<br>日文：ルーシィ·ハートフィリア | [萌娘百科](https://zh.moegirl.org.cn/露西·哈特菲利亚) |
 | sakuya sumeragi | 皇咲夜 | ![](https://patchwiki.biligame.com/images/loststories/thumb/2/27/5tss0k5hhu06v21h55jr74f9sm4sqim.png/1616px-春柳宫樱-以「皇咲夜」的身份卡面2.png)<br>日语：皇サクヤ<br>所属作品：`code geass` |  |
 | the shorekeeper | 守岸人 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/5/56/101neg0k0er0rkh019ljtj5ev6jgac3.png/465px-角色_守岸人_立绘.png)<br>所属作品：`wuthering waves` | [萌娘百科](https://zh.moegirl.org.cn/守岸人)<br>[BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/守岸人) |
-| yuuki sakuna | 结城昨奈 | ![結城](https://img.moegirl.org.cn/common/thumb/b/b3/结城Sakuna信息栏.jpg/560px-结城Sakuna信息栏.jpg)<br>结城昨奈（日语：結城さくな/Yuuki Sakuna）是一名从2024年10月27日在YouTube开始活动的个人势Vtuber。 | [萌娘百科](https://zh.moegirl.org.cn/结城昨奈) |
+| yuuki sakuna | 结城昨奈 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/93/Yuuki_Sakuna_Key_Visual_Illustration.png)<br>日语：結城さくな | [萌娘百科](https://zh.moegirl.org.cn/结城昨奈) |
 | noko shikanoko | 鹿乃子乃子 |  |  |
 | torako koshi | 虎视虎子 |  |  |
 | shangri-la | 香格里拉 | 香格里拉是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品中的登场角色 | [维基百科](https://zh.wikipedia.org/wiki/香格里拉號航空母艦)<br>[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:香格里拉) |
