@@ -8579,7 +8579,7 @@ example:
 | nikukyu | nikukyu | nikukyu是画师`a:shinima`的同人社团名称，作品有漫画和RPG游戏 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG42199.html)<br>[https://www.melonbooks.co.jp/circle/index.php?circle\_id=48983](https://www.melonbooks.co.jp/circle/index.php?circle_id=48983) |
 | nikumanyaitimi | にくまん屋一味 |  |  |
 | nikumomu | ニクモム |  |  |
-| nikutai gengo club | 肉体言語倶楽部 |  |  |
+| nikutai gengo club | 肉体言語倶楽部 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200034/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG71684.html) |
 | nikutaiha | 肉体派 |  |  |
 | nikuyakitei | 肉焼き亭 |  |  |
 | nikuyoku boutarou | 肉欲棒太郎 |  |  |
