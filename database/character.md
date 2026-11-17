@@ -1183,7 +1183,7 @@ example:
 | yuka okitsu | 兴津由佳 | ![](https://bkimg.cdn.bcebos.com/pic/8644ebf81a4c510fd9f918de0513322dd42a29340f96)<br>出自作品:`shirobako` |  |
 | shun watanabe | 渡边隼 | ![渡边隼](https://ehgt.org/48/46/4846302b6c3c067290eda59e11b77bb6c63a23e1-645360-1045-1500-jpg_l.jpg) |  |
 | ai kunogi | 久乃木爱 | ![久乃木爱](# "https://ehgt.org/2d/0f/2d0f2df41fa0d462a73b08613a12c73afe1d50c3-567830-729-1032-jpg_l.jpg") |  |
-| yumi iguchi | 井口祐未 | ![井口祐未](# "https://ehgt.org/1d/14/1d14637ea90723c279f9028b967bb667a1296b99-162812-390-800-jpg_l.jpg") |  |
+| yumi iguchi | 井口祐未 | ![](https://bkimg.cdn.bcebos.com/pic/ae51f3deb48f8c54f37bd80c3e292df5e0fe7f6c)<br>出自作品:`shirobako` |  |
 |  | ▼ 少女编号 角色 |  |  |
 | chitose karasuma | 乌丸千岁 | ![乌丸千岁](# "https://ehgt.org/36/c8/36c82f316ec5b8ecaa7b6def15b0c265247a936f-5271025-2125-3032-jpg_l.jpg") |  |
 | momoka sono | 苑生百花 | ![苑生百花](# "https://ehgt.org/b2/48/b248457cc38e6aceb56d4cc9b73946e6ef61ab3b-132981-1050-1547-jpg_l.jpg") |  |
