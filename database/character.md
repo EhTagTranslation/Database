@@ -8254,7 +8254,7 @@ example:
 | harper | 诗婷 | ![](https://archives.bulbagarden.net/media/upload/1/15/Harper_and_Sarah.png)<br>诗婷（左）<br>所属作品：`pokemon`<br>水莲的两位妹妹。<br>日文︰ホウ，英文︰Harper | [神奇宝贝百科](https://wiki.52poke.com/wiki/詩婷和詩涵) |
 | sarah | 诗涵 | ![](https://archives.bulbagarden.net/media/upload/1/15/Harper_and_Sarah.png)<br>诗涵（右）<br>所属作品：`pokemon`<br>水莲的两位妹妹。<br>日文︰スイ，英文︰Sarah | [神奇宝贝百科](https://wiki.52poke.com/wiki/詩婷和詩涵) |
 | lanas dad | 水莲爸爸 | 所属作品：`pokemon` |  |
-| taunie | 塔霓 | ![](https://s1.52poke.com/wiki/thumb/7/7a/塔霓_ZA.png/249px-塔霓_ZA.png?20250227151131)<br>所属作品：`pokemon`<br>日文名：タウニー |  |
+| taunie | 塔霓 | ![](https://bkimg.cdn.bcebos.com/pic/9f510fb30f2442a7d933136e2518ba4bd11372f0a4fe)<br>日文名：タウニー<br>所属作品：`pokemon` |  |
 | urbain | 盖伊 | ![](https://s1.52poke.com/wiki/thumb/6/6a/蓋伊_ZA.png/199px-蓋伊_ZA.png?20250227151805)<br>所属作品：`pokemon`<br>日文名：ガイ |  |
 | mega lucario z | 路卡利欧 Mega Z |  |  |
 | mega charizard x | 喷火龙 Mega X |  |  |
