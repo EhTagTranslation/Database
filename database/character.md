@@ -10583,6 +10583,7 @@ example:
 | seijirou domon | 土门圣二郎 | ![](https://t.vndb.org/ch/00/24500.jpg)<br>日语：土門聖二郎<br>出自作品:`fukai ni nemuru oujo no abaddon` |  |
 | yachika hino | 日野八千花 | ![](https://t.vndb.org/ch/97/24497.jpg)<br>出自作品:`fukai ni nemuru oujo no abaddon` |  |
 | kanji tatsumi | 巽完二 | ![](https://bkimg.cdn.bcebos.com/pic/9a504fc2d5628535e5dde718feb261c6a7efce1bc5cf)<br>出自作品:`persona 4` |  |
+| blanche devereaux | 布兰奇·德弗罗 | 出自作品:`the golden girls` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
