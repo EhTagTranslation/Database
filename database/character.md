@@ -7051,7 +7051,7 @@ example:
 | chiho sasaki | 佐佐木千穗 | ![](https://maousama.jp/assets/img/character/character03_main.png)<br>所属作品：`hataraku maou-sama` |  |
 | emi yusa | 游佐惠美 | ![](https://maousama.jp/assets/img/character/character02_main.png)<br>所属作品：`hataraku maou-sama` |  |
 | okaa-san | 爱酱妈妈 | ![](https://ehgt.org/w/01/964/74341-0879plc1.webp)<br>所属作品：`getsuyoubi no tawawa`<br>爱酱的妈妈 |  |
-| machamp | 怪力 | ![](https://static.wikia.nocookie.net/espokemon/images/b/bf/Machamp.png)<br>格斗系宝可梦 |  |
+| machamp | 怪力 | ![](https://static.wikia.nocookie.net/espokemon/images/b/bf/Machamp.png)<br>出自作品:`pokemon` |  |
 | yukie mayuzumi | 黛由纪江 | ![](https://cdn.myanimelist.net/images/characters/4/316502.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
 | miyako shiina | 椎名京 | ![](https://cdn.myanimelist.net/images/characters/7/316504.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
 | riko ichinose | 一之濑莉子 | ![](https://ehgt.org/w/02/003/27330-ugkbkzcl.webp)<br>![](https://ehgt.org/w/02/006/30491-j79goews.webp) |  |
