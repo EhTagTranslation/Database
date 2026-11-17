@@ -1174,7 +1174,7 @@ example:
 |  | ▼ 白箱 角色 |  |  |
 | aoi miyamori | 宫森葵 | ![](https://bkimg.cdn.bcebos.com/pic/63d0f703918fa0ec54429aa92e9759ee3c6ddb89)<br>出自作品:`shirobako` |  |
 | ema yasuhara | 安原绘麻 | ![](https://static.wikia.nocookie.net/shirobako/images/f/fc/Ema_movie_kv.png)<br>出自作品:`shirobako` |  |
-| midori imai | 今井绿 | ![今井绿](https://ehgt.org/6b/95/6b955cdde296173a139ed41ad909710e8bb6fdaa-1132368-2500-3600-jpg_l.jpg) |  |
+| midori imai | 今井绿 | ![](https://bkimg.cdn.bcebos.com/pic/72f082025aafa40f132f6dc1a864034f79f019c4)<br>出自作品:`shirobako` |  |
 | shizuka sakaki | 坂木静香 | ![坂木静香](https://ehgt.org/dd/04/dd04c6153a9486b891a972a6385651ee15f25819-1134912-2517-3600-jpg_l.jpg) |  |
 | misa toudou | 藤堂美沙 | ![藤堂美沙](https://ehgt.org/84/3f/843ff87a0c00171ce96eaad056fe337bf50dfe38-525650-2853-4089-jpg_l.jpg) |  |
 | misato segawa | 濑川美里 | ![](https://bkimg.cdn.bcebos.com/pic/d50735fae6cd7b89e34f6c120b2442a7d9330e7b)<br>出自作品:`shirobako` |  |
