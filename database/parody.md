@@ -3067,6 +3067,7 @@ example:
 | fukai ni nemuru oujo no abaddon | 沉睡于腐界的王女 | ![](https://t.vndb.org/cv.t/00/83700.jpg)<br>日语：腐界に眠る王女のアバドーン |  |
 | aishiteruze baby | 爱你宝贝 | ![](https://lain.bgm.tv/r/400/pic/cover/l/54/7b/7354_8z8Hi.jpg)<br>日语：愛してるぜベイベ★★ |  |
 | les sisters | 花样姐妹 | ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_YhyRYD-EKAziRNs1ili758QPA4qUtmj7sEwyAKvSwKCYy8pjivCIYOD1&s=10) |  |
+| the golden girls | 黄金女郎 | ![](https://bkimg.cdn.bcebos.com/pic/267f9e2f070828381f30780cd7c0be014c086e065b2b) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
