@@ -8575,7 +8575,7 @@ example:
 | miss shamour | 夏慕尔小姐 | ![](https://static.wikia.nocookie.net/prettycure/images/f/fa/Tumblr_nirlm9yxER1u2vo2go1_500.png)<br>所属作品：`go princess precure`<br>日语：ミスシャムール | [Fandom](https://prettycure.fandom.com/wiki/Miss_Shamour) |
 | northa | 诺莎 | ![](https://static.wikia.nocookie.net/prettycure/images/c/ce/Northa_Profile_Toei.jpg)<br>所属作品：`fresh precure`<br>日语：ノーザ | [Fandom](https://prettycure.fandom.com/wiki/Northa) |
 | mon3tr | Mon3tr | ![](https://ehgt.org/w/02/234/76882-57rvsn0b.webp)<br>出自作品：`p:arknights` | [prts.wiki](https://prts.wiki/w/Mon3tr) |
-| chie satonaka | 里中千枝 | ![](https://ehgt.org/w/01/143/00714-me3t84vp.webp)<br>出自作品：`p:persona 4`<br><br>里中千枝（日语：里中千枝 \| さとなかちえ）是由Atlus旗下的游戏《女神异闻录》系列的正传作品《女神异闻录4》及其衍生作品的主要角色。 | [萌娘百科](https://zh.moegirl.org.cn/里中千枝) |
+| chie satonaka | 里中千枝 | ![](https://bkimg.cdn.bcebos.com/pic/72f082025aafa40f4bfb3cccba39144f78f0f736b3d7)<br>日语：さとなか ちえ<br>出自作品:`persona 4` | [萌娘百科](https://zh.moegirl.org.cn/里中千枝) |
 | kuniko hojo | 北条国子 |  |  |
 | pan | 小芳 | ![](https://static.wikia.nocookie.net/dragonball/images/4/46/Pan_Manga_Infobox_HQ.jpg/revision/latest/scale-to-width-down/268?cb=20241011203627)<br><br>小芳（日语：パン）是由鸟山明所创作的漫画《龙珠》及其衍生作品的登场角色。 | [百度百科](https://baike.baidu.com/item/小芳/7108893) \| [萌娘百科](https://mobile.moegirl.org.cn/小芳) \| [Fandom](https://dragonball.fandom.com/wiki/Pan) |
 | roccia | 洛可可 | ![](https://prod-alicdn-community.kurobbs.com/forum/e2094e3b397040cea99c9e8e5c5015c120250121.png?x-oss-process=image/format,webp)<br>所属作品：`wuthering waves` | [Fandom](https://wutheringwaves.fandom.com/wiki/Roccia) |
