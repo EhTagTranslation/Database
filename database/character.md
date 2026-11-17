@@ -10585,6 +10585,7 @@ example:
 | kanji tatsumi | 巽完二 | ![](https://bkimg.cdn.bcebos.com/pic/9a504fc2d5628535e5dde718feb261c6a7efce1bc5cf)<br>出自作品:`persona 4` |  |
 | blanche devereaux | 布兰奇·德弗罗 | 出自作品:`the golden girls` |  |
 | victoria everglot | 维多利亚·埃弗格特 | 出自作品:`corpse bride` |  |
+| astromancer barbeloth trismegistus | 亚斯妥曼瑟 | ![](https://bkimg.cdn.bcebos.com/pic/6d81800a19d8bc3eb135181debd7b11ea8d3fc1fefea)<br>全名：亚斯妥曼瑟·芭比洛斯·崔斯梅姬斯图斯<br>出自作品:`genshin impact` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
