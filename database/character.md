@@ -4339,7 +4339,7 @@ example:
 | ellen | 爱莲 | 出自TH03-东方梦时空<br>后面的女仆<br>![图](https://ehgt.org/a7/c8/a7c8413d68bac764b9247ee5382df92f4f28deff-859308-896-1262-png_l.jpg) |  |
 | kana anaberal | 卡娜·安娜贝拉尔 | 出自TH03-东方梦时空 |  |
 | misaki kagome | 笼目深沙希 | 所属作品: 机战少女Alice<br>(Alice Gear Aegis)<br>![](https://patchwiki.biligame.com/images/aga/4/42/nxom660pa7tuv77eirsk79r1hruw6eo.png) | [https://wikiwiki.jp/alicegear/籠目深沙希](https://wikiwiki.jp/alicegear/籠目深沙希)<br>[BWIKI](https://wiki.biligame.com/aga/籠目_深沙希) |
-| momo hinamori | 雏森桃 | ![](https://lain.bgm.tv/r/400/pic/crt/l/41/ed/7824_crt_VN3Ct.jpg?r=1779275707)<br>所属作品：`p:bleach`<br>日语：雛森桃 / ひなもりもも | [萌娘百科](https://zh.moegirl.org.cn/雏森桃) \| [Fandom](https://bleach.fandom.com/zh/wiki/雛森桃?variant=zh) |
+| momo hinamori | 雏森桃 | ![](https://bkimg.cdn.bcebos.com/pic/279759ee3d6d55fbb2fb2d3ec37e584a20a44623772c)<br>日语：雛森桃 / ひなもりもも<br>所属作品：`p:bleach` | [萌娘百科](https://zh.moegirl.org.cn/雏森桃) \| [Fandom](https://bleach.fandom.com/zh/wiki/雛森桃?variant=zh) |
 | chen hai | 镇海 | 所属作品：`p:azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/9159d88deb077fb566ded926e8a9ac1c262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/3da30709206fdb016856f0f4e6780c92262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/9d37e945849f9c64c16c35dafd090cad262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/ab08a4c88ddfa936a94a47d75eec576b262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/81930700ab204c118e940f3db1f1657b262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:镇海) |
 | leeloo minai lekatariba-lamina-tchai ekbat de sebat | Leeloo | 所属作品：`p:the fifth element` | [Fandom](https://fifth-element.fandom.com/wiki/Leeloo) |
 | hasshaku-sama | 八尺大人 |  |  |
