@@ -10541,7 +10541,7 @@ example:
 | reliared silver | 蕾莉亚萝德·席尔瓦 | ![](https://static.tvtropes.org/pmwiki/pub/images/reliared_silver.png)<br>日语：レリアレッド・シルヴァー<br>出自作品:`kyouran reijou nia liston` |  |
 | hildetaura altoire | 希尔德朵菈·阿鲁特瓦尔 | ![](https://static.tvtropes.org/pmwiki/pub/images/hildetaura_altoire.png)<br>出自作品:`kyouran reijou nia liston` |  |
 | calca bessarez | 卡尔嘉·贝萨雷斯 | ![](https://static.wikia.nocookie.net/overlordmaruyama/images/7/7a/Calca_%28Anime%29.png)<br>日语：カルカ・ベサーレス<br>出自作品:`overlord` |  |
-| alexandra tamsanqa | 亚历珊德拉 | ![](https://cdn.fireemblemwiki.org/thumb/8/88/FEFW_Alexandra_portrait.png)<br>日语：アレキサンドラ・タムサンカ<br>出自作品:`fire emblem`万缕千丝 |  |
+| alexandra tamsanqa | 亚历珊德拉 | ![](https://static.wikia.nocookie.net/fireemblem/images/d/df/AlexandraFE18Portrait.png)<br>日语：アレキサンドラ・タムサンカ<br>出自作品:`fire emblem`万缕千丝 |  |
 | yashiro | 社 | ![](https://static.wikia.nocookie.net/kancolle/images/c/cd/Yashiro_Full.png)<br>出自作品:`kantai collection` |  |
 | elza | 艾莎 |  |  |
 | jinako carigiri | 吉娜可·加里吉利 | ![](https://static.wikia.nocookie.net/typemoon/images/a/a6/Jinako.png)<br>日语：ジナコ＝カリギリ<br>出自作品:`fate extra` |  |
