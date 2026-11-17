@@ -1178,7 +1178,7 @@ example:
 | shizuka sakaki | 坂木静香 | ![坂木静香](https://ehgt.org/dd/04/dd04c6153a9486b891a972a6385651ee15f25819-1134912-2517-3600-jpg_l.jpg) |  |
 | misa toudou | 藤堂美沙 | ![藤堂美沙](https://ehgt.org/84/3f/843ff87a0c00171ce96eaad056fe337bf50dfe38-525650-2853-4089-jpg_l.jpg) |  |
 | misato segawa | 濑川美里 | ![濑川美里](https://ehgt.org/ca/f4/caf44f658143ea7205c989237fb46027890d6f0d-1361110-2492-3600-jpg_l.jpg) |  |
-| erika yano | 矢野艾莉卡 | ![矢野艾莉卡](https://pixiv.cat/55104908.jpg) |  |
+| erika yano | 矢野艾莉卡 | ![](https://bkimg.cdn.bcebos.com/pic/2934349b033b5bb5c9eacd3c5399c239b6003bf31694)<br>出自作品:`shirobako` |  |
 | rinko ogasawara | 小笠原纶子 | ![小笠原纶子](# "https://ehgt.org/53/1e/531e4d2515bacc159119d99b4f7473e2418befa9-293381-885-627-jpg_l.jpg") |  |
 | yuka okitsu | 兴津由佳 | ![兴津由佳](# "https://ehgt.org/f7/89/f789c40d3b153f69e70488b7f695bcdff6517d1b-6566190-2123-3000-jpg_l.jpg") |  |
 | shun watanabe | 渡边隼 | ![渡边隼](https://ehgt.org/48/46/4846302b6c3c067290eda59e11b77bb6c63a23e1-645360-1045-1500-jpg_l.jpg) |  |
