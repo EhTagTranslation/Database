@@ -10603,6 +10603,7 @@ example:
 | kuro-chan | 酷乐猫 | ![](https://static.wikia.nocookie.net/all-worlds-alliance/images/4/4a/Kuro_%28Cyborg_Kuro-chan%29_Render_01.png)<br>出自作品:`cyborg kuro-chan` |  |
 | midorigaki | Midorigaki | Vtuber，暂无译名 | [X](https://x.com/midorigaki)<br>[YouTube](https://www.youtube.com/@midorigakii) |
 | kyoko tanaami | 田名京子 | ![](https://static.wikia.nocookie.net/cyberpunk/images/e/e5/Kyoko_Infobox_CPEDGEII.png)<br>出自作品:`cyberpunk` |  |
+| dr. hell | 地狱博士 | ![](https://static.wikia.nocookie.net/mazinger/images/6/65/Dr._Hell.png)<br>出自作品:`mazinger z` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
