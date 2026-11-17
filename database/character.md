@@ -1175,7 +1175,7 @@ example:
 | aoi miyamori | 宫森葵 | ![](https://bkimg.cdn.bcebos.com/pic/63d0f703918fa0ec54429aa92e9759ee3c6ddb89)<br>出自作品:`shirobako` |  |
 | ema yasuhara | 安原绘麻 | ![](https://bkimg.cdn.bcebos.com/pic/2fdda3cc7cd98d10e027af2d223fb80e7bec903f)<br>出自作品:`shirobako` |  |
 | midori imai | 今井绿 | ![](https://bkimg.cdn.bcebos.com/pic/72f082025aafa40f132f6dc1a864034f79f019c4)<br>出自作品:`shirobako` |  |
-| shizuka sakaki | 坂木静香 | ![坂木静香](https://ehgt.org/dd/04/dd04c6153a9486b891a972a6385651ee15f25819-1134912-2517-3600-jpg_l.jpg) |  |
+| shizuka sakaki | 坂木静香 | ![](https://static.wikia.nocookie.net/shirobako/images/b/b0/Shizuka_movie_kv.png)<br>出自作品:`shirobako` |  |
 | misa toudou | 藤堂美沙 | ![藤堂美沙](https://ehgt.org/84/3f/843ff87a0c00171ce96eaad056fe337bf50dfe38-525650-2853-4089-jpg_l.jpg) |  |
 | misato segawa | 濑川美里 | ![](https://bkimg.cdn.bcebos.com/pic/d50735fae6cd7b89e34f6c120b2442a7d9330e7b)<br>出自作品:`shirobako` |  |
 | erika yano | 矢野艾莉卡 | ![](https://bkimg.cdn.bcebos.com/pic/2934349b033b5bb5c9eacd3c5399c239b6003bf31694)<br>出自作品:`shirobako` |  |
