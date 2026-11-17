@@ -10572,6 +10572,7 @@ example:
 | ado | Ado | ![](https://static.wikia.nocookie.net/ado/images/6/61/Stand-0d695b9c.png)<br>所属唱片公司：Virgin Music |  |
 | noa izumi | 泉野明 | ![](https://bkimg.cdn.bcebos.com/smart/4a36acaf2edda3cc7cd9ef84fcb02e01213fb80e3447-bkimg-process,v_1,rw_189,rh_274,maxl_549)<br>出自作品:`patlabor` |  |
 | petra gurin | 佩特拉·古凛 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/d7/Petra_Gurin_Portrait.png)<br>日语：ペトラ グリン<br>所属社团:`nijisanji` |  |
+| leivinia birdway | ‌蕾薇妮雅·柏德蔚 | ![](https://static.wikia.nocookie.net/to-aru-majutsu-no-index/images/f/f8/Leivinia_Birdway_%28Index_III_Anime_Design%29.png)<br>日语：レイヴィニア＝バードウェイ<br>出自作品:`toaru project` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
