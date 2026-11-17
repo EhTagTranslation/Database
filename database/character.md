@@ -10291,7 +10291,7 @@ example:
 | kumbhira | 库碧拉 | ![](https://gbf.wiki/images/thumb/9/91/Npc_profile_3040197000_81.png/585px-Npc_profile_3040197000_81.png.webp)<br>出自作品:`granblue fantasy` |  |
 | sakuya enjou | 円城咲耶 | ![](https://t.vndb.org/ch/43/84843.jpg)<br>出自作品:`matai toshi` |  |
 | godsworn alexiel | 布洛蒂亚 | ![](https://huiji-public.huijistatic.com/gbf/uploads/7/78/Profile_3040158000_01.png)<br>全名：神域守护·布洛蒂亚<br>出自作品:`granblue fantasy` |  |
-| lida | 玳萝 | ![](https://archives.bulbagarden.net/media/upload/thumb/4/4c/ZA_Lida.png/315px-ZA_Lida.png)<br>出自作品:`pokemon`-ZA | [百度百科](https://baike.baidu.com/item/玳萝/66974891) |
+| lida | 玳萝 | ![](https://bkimg.cdn.bcebos.com/pic/960a304e251f95cad1c80c7f3d4c683e6709c83df4fc)<br>出自作品:`pokemon`-ZA | [百度百科](https://baike.baidu.com/item/玳萝/66974891) |
 | shunran nishi | 西春兰 | ![](https://static.wikia.nocookie.net/chainsmoker-cat/images/2/2f/Shunran2.png/revision/latest?cb=20260725225550)<br>所属作品:`yanineko`<br>关西喵喵的弟弟 | [Fandom](https://chainsmoker-cat.fandom.com/wiki/Shunran_Nishi) |
 | anna niki | 仁木安娜 | ![](https://static.wikitide.net/bluearchivewiki/thumb/6/65/Anna_00.png/225px-Anna_00.png)<br>日语：仁木アンナ<br>出自作品:`blue archive` |  |
 | kana sakuragi | 樱木加奈 | ![](https://static.wikia.nocookie.net/master-takeshi/images/e/e4/Kana_main.webp)<br>![](https://static.wikia.nocookie.net/master-takeshi/images/0/05/Kana_main-changed.webp)<br>日语：桜木カナ<br>出自作品:`kabushiki gaisha majirumie` |  |
