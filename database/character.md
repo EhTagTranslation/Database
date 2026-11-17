@@ -10589,6 +10589,7 @@ example:
 | yhwach | 友哈巴赫 | ![](https://bkimg.cdn.bcebos.com/pic/4bed2e738bd4b31c870198984781307f9e2f070852c2)<br>出自作品:`bleach` |  |
 | lyme | 莱姆 | ![](https://azurlane.netojuu.com/images/thumb/d/d7/LymeRPGWithoutBG.png/1264px-LymeRPGWithoutBG.png)<br>出自作品:`azur lane` |  |
 | sayumi ootori | 鸿纱由美 | ![](https://cdn.donmai.us/original/a8/62/a8629cdf6ef5ca0251533df9927ba1b5.png) |  |
+| queen novo | 诺沃女王 | 出自作品:`my little pony friendship is magic` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
