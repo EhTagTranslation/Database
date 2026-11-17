@@ -10595,6 +10595,7 @@ example:
 | kanae miyauchi | 宫內加奈惠 | ![](https://static.wikia.nocookie.net/blue-archive/images/9/95/Kanae_Portrait.png)<br>日语：宮内カナエ<br>出自作品:`blue archive` |  |
 | jin kagemori | 影森仁 | ![](https://static.wikia.nocookie.net/yomi-no-tsugai/images/e/ef/Jin_Kagemori_-_anime_design.png)<br>日语：影森ジン<br>出自作品:`yomi no tsugai` |  |
 | migi | 右 | ![](https://static.wikia.nocookie.net/yomi-no-tsugai/images/0/06/Right_-_anime_design.png)<br>出自作品:`yomi no tsugai` |  |
+| jp | 约翰·彼德罗维奇 | ![](https://bkimg.cdn.bcebos.com/pic/6c224f4a20a4462309f780a58a75650e0cf3d6ca79e7)<br>全名：Johann Petrovich<br>出自作品:`street fighter` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
