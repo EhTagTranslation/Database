@@ -1402,7 +1402,7 @@ example:
 | motoharu tsuchimikado | 土御门元春 |  |  |
 | itsuwa | 五和 | ![](https://bkimg.cdn.bcebos.com/pic/6a63f6246b600c338744f6870917460fd9f9d72a0b73)<br>所属作品：`toaru project` |  |
 | lucia | 露西亚 | ![](https://patchwiki.biligame.com/images/zspms/thumb/a/ac/n8urfitp2nk5rhjqwsivmddtrwb4hsh.png/375px-角色_露西亚_红莲_立绘.png)<br>所属游戏：`punishing gray raven` |  |
-| agnese sanctis | 雅妮丝·桑提斯 |  |  |
+| agnese sanctis | 雅妮丝·桑提斯 | ![](https://bkimg.cdn.bcebos.com/pic/1f178a82b9014a90305c43e6a7773912b31bee0f)<br>日语：アニェーゼ=サンクティス<br>出自作品:`toaru project` |  |
 | angelene | 安洁莉娜 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/21/18/50/30/129551619_p0_master1200.jpg)<br>所属作品：`toaru project`<br>身高矮小、水蛇腰、有点驼背的金发辫子头修女 |  |
 | eiga kanmi | 甘味荣华 |  |  |
 | febrie | 菲布理 |  |  |
