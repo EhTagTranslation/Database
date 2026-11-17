@@ -6837,7 +6837,7 @@ example:
 | othinus | 欧提努斯（只眼） | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/12/03/48/24/136163495_p0_master1200.jpg)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/欧提努斯) |
 | awaki musujime | 结标淡希 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/11/08/11/00/13/137223569_p0_master1200.jpg)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/结标淡希) |
 | junko hokaze | 帆风润子 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2017/04/28/21/22/01/62618892_p0_master1200.jpg)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/帆风润子) |
-| lessar | 蕾莎 | ![](https://ehgt.org/w/02/023/03591-ej9ty7qh.webp)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/蕾莎) |
+| lessar | 蕾莎 | ![](https://bkimg.cdn.bcebos.com/pic/7e3e6709c93d70cf3bc7b720868ac600baa1cd11fdda)<br>日语：レッサー<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/蕾莎) |
 | laura stuart | 萝拉·斯图亚特 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2023/06/30/11/13/43/109468152_p0_master1200.jpg)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/萝拉·斯图亚特) |
 | rakko yumiya | 弓箭猎虎 | 漫画《某科学的超电磁炮》中登场的角色。<br>![6.webp](https://p.sda1.dev/28/ac9d896dc60413515de399a8eb20af86/6.webp) | [萌娘百科](https://zh.moegirl.org.cn/弓箭猎虎) |
 | mitori kouzaku | 警策看取 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/27/22/52/11/136775291_p0_master1200.jpg)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/警策看取) |
