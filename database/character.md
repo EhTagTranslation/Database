@@ -1345,7 +1345,7 @@ example:
 | mahiro yasaka | 八坂真寻 |  |  |
 | hastur | 哈斯塔（黄衣之主） | ![](https://patchwiki.biligame.com/images/dwrg/2/24/qn7ul5nb9sr5k8hv2aglicnuxhq0m6a.png)<br>所属作品：`identity v` |  |
 |  | ▼ 其中一个是妹妹 |  |  |
-| konoe tsuruma | 鹤真心乃枝 |  |  |
+| konoe tsuruma | 鹤真心乃枝 | ![](https://bkimg.cdn.bcebos.com/smart/c2fdfc039245d68818088503a4c27d1ed21b240a-bkimg-process,v_1,rw_403,rh_252,maxl_806)<br>出自作品:`kono naka ni hitori imouto ga iru` |  |
 | miyabi kannagi | 神凪雅 | ![](https://bkimg.cdn.bcebos.com/smart/2e2eb9389b504fc2397c1cf9e5dde71190ef6d2f-bkimg-process,v_1,rw_403,rh_252,maxl_806)<br>出自作品:`kono naka ni hitori imouto ga iru` |  |
 |  | ▼ 心灵链环 |  |  |
 | himeko inaba | 稻叶姬子 |  |  |
