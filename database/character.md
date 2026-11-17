@@ -10605,6 +10605,7 @@ example:
 | kyoko tanaami | 田名京子 | ![](https://static.wikia.nocookie.net/cyberpunk/images/e/e5/Kyoko_Infobox_CPEDGEII.png)<br>出自作品:`cyberpunk` |  |
 | dr. hell | 地狱博士 | ![](https://static.wikia.nocookie.net/mazinger/images/6/65/Dr._Hell.png)<br>出自作品:`mazinger z` |  |
 | sayaka yumi | 弓沙也加 | ![](https://static.wikia.nocookie.net/mazinger/images/4/46/Sayaka_Yumi.png)<br>日语：弓さやか<br>出自作品:`mazinger z` |  |
+| maribel rozzo | 玛莉安贝尔·罗素 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/2/2c/Mariabell_Anime.png)<br>日语：マリアベル・ロッゾ<br>出自作品:`tensei shitara slime datta ken` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
