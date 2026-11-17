@@ -4000,7 +4000,7 @@ example:
 | becky blackbell | 贝琪·布莱克贝尔 | ![](https://static.wikia.nocookie.net/spy-x-family9171/images/c/c7/Becky_Blackbell_Anime.png)<br>所属作品：`spy x family` | [Bangumi](https://bgm.tv/character/87548) |
 | warfarin | 华法琳 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:华法琳) |
 | platinum | 白金 | ![](https://patchwiki.biligame.com/images/arknights/5/55/2p8ew5b093p13pcho9ar1wkeu88jozd.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:白金) |
-| rise kujikawa | 久慈川理世 | ![](https://img.moegirl.org.cn/common/a/ab/P4A_Rise_Render.png)<br>久慈川理世（日语：くじかわ りせ）是由Atlus旗下的游戏《女神异闻录》系列的正传作品《`persona 4`》及其衍生作品的主要角色。 | [萌娘百科](https://zh.moegirl.org.cn/久慈川理世) |
+| rise kujikawa | 久慈川理世 | ![](https://bkimg.cdn.bcebos.com/pic/9a504fc2d5628535e5dddc43a3b261c6a7efce1bc506)<br>日语：久慈川りせ<br>出自作品:`persona 4` | [萌娘百科](https://zh.moegirl.org.cn/久慈川理世) |
 | yuu narukami | 鸣上悠 |  |  |
 | itaru hashida | 桥田至 | 东京电机大学一年级。凶真高中时代的友人，两人也在同一所大学上学。因为出色的编程和黑客技术，被冈伦称为「吾之右臂」（My favourite right arm）的未来道具研究所的主要战力之一。<br><br>典型肥宅，常常使用2ch用语，自称"变态绅士"，以不同的契机让天真的真由理说些不良语言。是个从2次元到3次元甚至到无机物都能萌上的家伙。最近萌的对象是在女仆咖啡厅『女仆皇后+喵 2』打工的菲利斯。<br><br>偶尔出现在句尾的"常考"是"请用常识去考虑"的意思。 | [萌娘百科](https://zh.moegirl.org.cn/桥田至) |
 | tenten | 天天 | ![](https://ehgt.org/w/02/121/87169-eotm07yr.webp)<br>天天是岸本齐史创作的漫画《火影忍者》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/天天%28火影忍者%29#) |
