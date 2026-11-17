@@ -3068,6 +3068,7 @@ example:
 | aishiteruze baby | 爱你宝贝 | ![](https://lain.bgm.tv/r/400/pic/cover/l/54/7b/7354_8z8Hi.jpg)<br>日语：愛してるぜベイベ★★ |  |
 | les sisters | 花样姐妹 | ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_YhyRYD-EKAziRNs1ili758QPA4qUtmj7sEwyAKvSwKCYy8pjivCIYOD1&s=10) |  |
 | the golden girls | 黄金女郎 | ![](https://bkimg.cdn.bcebos.com/pic/267f9e2f070828381f30780cd7c0be014c086e065b2b) |  |
+| corpse bride | 僵尸新娘 | ![](https://bkimg.cdn.bcebos.com/smart/b853d6fc3b767eb6fd037f21-bkimg-process,v_1,rw_3,rh_4,maxl_284) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
