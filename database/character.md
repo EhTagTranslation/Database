@@ -10573,6 +10573,7 @@ example:
 | noa izumi | 泉野明 | ![](https://bkimg.cdn.bcebos.com/smart/4a36acaf2edda3cc7cd9ef84fcb02e01213fb80e3447-bkimg-process,v_1,rw_189,rh_274,maxl_549)<br>出自作品:`patlabor` |  |
 | petra gurin | 佩特拉·古凛 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/d7/Petra_Gurin_Portrait.png)<br>日语：ペトラ グリン<br>所属社团:`nijisanji` |  |
 | leivinia birdway | ‌蕾薇妮雅·柏德蔚 | ![](https://bkimg.cdn.bcebos.com/pic/d058ccbf6c81800a19d84dbe106324fa828ba61ee97e)<br>日语：レイヴィニア＝バードウェイ<br>出自作品:`toaru project` |  |
+| sephiroth | 萨菲罗斯 | `p:final fantasy vii` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
