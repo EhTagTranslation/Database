@@ -5695,7 +5695,7 @@ example:
 | tsubasa kazanari | 风鸣翼 | ![](https://static.wikia.nocookie.net/senkizesshousymphogear/images/6/6d/Tsubasa_AXZ.png)<br>所属作品：`p:senki zesshou symphogear` | [萌娘百科](https://zh.moegirl.org.cn/风鸣翼) |
 | elon musk | 埃隆·马斯克 |  | [Wikipedia](https://zh.wikipedia.org/wiki/埃隆·马斯克) |
 | kearsarge | 奇尔沙治 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/b1af5b18cb7ce2bb0988069af725efdb262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:奇尔沙治) |
-| feixiao | 飞霄 | ![](https://patchwiki.biligame.com/images/sr/thumb/7/79/0vez7r8jr0vperakdhxgc1uxw0qh5wk.png/1050px-飞霄立绘.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/飞霄) |
+| feixiao | 飞霄 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/Enemy_Maddened_Feixiao.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/飞霄) |
 | caesar king | 凯撒·金 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/09/18/76099754/2997f69317554fefc854909753dcf271_6699774852879942097.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/凯撒·金) |
 | burnice white | 柏妮思·怀特 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/10/28/76099754/6d3e78f6bee852ea27b0a14403746548_424601202762741934.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/柏妮思·怀特) |
 | miyabi hoshimi | 星见雅 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/12/08/82500917/f6b4ae8f3e2106e33180e18ed87d4e8d_4325623899800859624.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/星见雅) |
