@@ -1180,7 +1180,7 @@ example:
 | misato segawa | 濑川美里 | ![](https://bkimg.cdn.bcebos.com/pic/d50735fae6cd7b89e34f6c120b2442a7d9330e7b)<br>出自作品:`shirobako` |  |
 | erika yano | 矢野艾莉卡 | ![](https://bkimg.cdn.bcebos.com/pic/2934349b033b5bb5c9eacd3c5399c239b6003bf31694)<br>出自作品:`shirobako` |  |
 | rinko ogasawara | 小笠原纶子 | ![](https://bkimg.cdn.bcebos.com/pic/3801213fb80e7bec1be01ac22b2eb9389b506bde)<br>出自作品:`shirobako` |  |
-| yuka okitsu | 兴津由佳 | ![兴津由佳](# "https://ehgt.org/f7/89/f789c40d3b153f69e70488b7f695bcdff6517d1b-6566190-2123-3000-jpg_l.jpg") |  |
+| yuka okitsu | 兴津由佳 | ![](https://bkimg.cdn.bcebos.com/pic/8644ebf81a4c510fd9f918de0513322dd42a29340f96)<br>出自作品:`shirobako` |  |
 | shun watanabe | 渡边隼 | ![渡边隼](https://ehgt.org/48/46/4846302b6c3c067290eda59e11b77bb6c63a23e1-645360-1045-1500-jpg_l.jpg) |  |
 | ai kunogi | 久乃木爱 | ![久乃木爱](# "https://ehgt.org/2d/0f/2d0f2df41fa0d462a73b08613a12c73afe1d50c3-567830-729-1032-jpg_l.jpg") |  |
 | yumi iguchi | 井口祐未 | ![井口祐未](# "https://ehgt.org/1d/14/1d14637ea90723c279f9028b967bb667a1296b99-162812-390-800-jpg_l.jpg") |  |
