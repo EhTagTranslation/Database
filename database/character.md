@@ -10614,6 +10614,7 @@ example:
 | spritzee | 粉香香 | 出自作品:`pokemon` |  |
 | toucannon | 铳嘴大鸟 | 出自作品:`pokemon` |  |
 | manaphy | 玛纳霏 | 出自作品:`pokemon` |  |
+| shadowcat | 凯蒂·普莱德（幻影猫） | ![](https://cdn.svc.asmodee.net/production-amgcom/uploads/2024/02/02212024-CP96_Transmission-Image_1-870x1024.png)<br>出自作品:`x-men` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
