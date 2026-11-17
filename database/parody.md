@@ -251,7 +251,7 @@ example:
 | persona | 女神异闻录 |  |  |
 | persona 2 | 女神异闻录2 |  |  |
 | persona 3 | 女神异闻录3 |  |  |
-| persona 4 | 女神异闻录4 |  |  |
+| persona 4 | 女神异闻录4 | ![](https://lain.bgm.tv/r/400/pic/cover/l/8a/11/103304_5e85P.jpg) |  |
 | persona 5 | 女神异闻录5 |  |  |
 |  | ▲女神转生 系列 |  |  |
 | monsters inc. | 怪兽电力公司 |  |  |
