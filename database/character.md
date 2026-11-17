@@ -10580,6 +10580,7 @@ example:
 | kippei kazama | 风间桔平 | ![](https://t.vndb.org/ch/96/24496.jpg)<br>日语：風間桔平<br>出自作品:`fukai ni nemuru oujo no abaddon` |  |
 | mia suzumori | 铃森未亚 | ![](https://t.vndb.org/ch/99/24499.jpg)<br>日语：鈴森未亜<br>出自作品:`fukai ni nemuru oujo no abaddon` |  |
 | rikana mizuishi | 水石里奏 | ![](https://t.vndb.org/ch/98/24498.jpg)<br>出自作品:`fukai ni nemuru oujo no abaddon` |  |
+| seijirou domon | 土门圣二郎 | ![](https://t.vndb.org/ch/00/24500.jpg)<br>日语：土門聖二郎<br>出自作品:`fukai ni nemuru oujo no abaddon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
