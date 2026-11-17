@@ -10600,6 +10600,7 @@ example:
 | peritya | 佩里缇亚 | ![](https://bkimg.cdn.bcebos.com/pic/0b46f21fbe096b63f624574afd6f9044ebf81a4c062e)<br>出自作品:`girls frontline` |  |
 | talo | 塔罗 | ![](https://cdn.wikimg.net/en/zeldawiki/images/thumb/6/6b/TPHD_Talo_Model.png/640px-TPHD_Talo_Model.png)<br>出自作品:`the legend of zelda` |  |
 | koi inui | 戌亥鲤 | ![](https://lain.bgm.tv/r/400/pic/crt/l/78/df/142801_crt_pDDDp.jpg)<br>出自作品：遥远的圆形世界（遥かなる円形世界） |  |
+| kuro-chan | 酷乐猫 | ![](https://static.wikia.nocookie.net/all-worlds-alliance/images/4/4a/Kuro_%28Cyborg_Kuro-chan%29_Render_01.png)<br>出自作品:`cyborg kuro-chan` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
