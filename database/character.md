@@ -6974,7 +6974,7 @@ example:
 | satsuki koto | 琴纱月 | ![](https://img.moegirl.org.cn/common/2/20/琴纱月stand.png)<br>所属作品：`watashi ga koibito ni nareru wake nai jan muri muri muri ja nakatta` |  |
 | hiromi shiota | 潮田广海 | 所属作品：`ansatsu kyoushitsu`<br>`nagisa shiota`的母亲。 |  |
 | nagisa shiota | 潮田渚 | ![](https://img.moegirl.org.cn/common/0/05/2018-Emerald-Pendant.png)<br>所属作品：`ansatsu kyoushitsu` |  |
-| paxton | 共熙 | 共熙（キョウヤ/Paxton），游戏《宝可梦传说 Z-A》的男主人公。 |  |
+| paxton | 共熙 | ![](https://bkimg.cdn.bcebos.com/pic/55e736d12f2eb9389b50a91451389235e5dde611c198)<br>日语：キョウヤ<br>出自作品:`pokemon` |  |
 | meica05 | Meica05 | Meica05是B站UP主，以翻唱Vocaloid歌曲为主‌，自称“最强兵器”，活跃于日本音乐圈。 |  |
 | ghostrick angel of mischief | 鬼计惰天使 | Ghostrick Angel of Mischief‌（鬼计惰天使）是《游戏王卡片游戏》中的暗属性4星超量怪兽卡，具有2000攻击力和2500防御力，属于鬼计卡组的核心卡之一。 |  |
 | ghostrick doll | 鬼计人偶 | Ghostick Doll（鬼计人偶）是《游戏王》卡牌中的一张魔法师族怪兽卡，具有特殊召唤条件和反转效果。 |  |
