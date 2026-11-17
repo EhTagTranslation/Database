@@ -10602,6 +10602,7 @@ example:
 | koi inui | 戌亥鲤 | ![](https://lain.bgm.tv/r/400/pic/crt/l/78/df/142801_crt_pDDDp.jpg)<br>出自作品：遥远的圆形世界（遥かなる円形世界） |  |
 | kuro-chan | 酷乐猫 | ![](https://static.wikia.nocookie.net/all-worlds-alliance/images/4/4a/Kuro_%28Cyborg_Kuro-chan%29_Render_01.png)<br>出自作品:`cyborg kuro-chan` |  |
 | midorigaki | Midorigaki | Vtuber，暂无译名 | [X](https://x.com/midorigaki)<br>[YouTube](https://www.youtube.com/@midorigakii) |
+| kyoko tanaami | 田名京子 | ![](https://static.wikia.nocookie.net/cyberpunk/images/e/e5/Kyoko_Infobox_CPEDGEII.png)<br>出自作品:`cyberpunk` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
