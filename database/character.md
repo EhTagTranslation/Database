@@ -1374,7 +1374,7 @@ example:
 | aisa himegami | 姬神秋沙 |  |  |
 | mii konori | 固法美伟 | ![](https://bkimg.cdn.bcebos.com/pic/c8ea15ce36d3d539b600f8c045d1fe50352ac65c1a23)<br>所属作品：`toaru project` |  |
 | seiri fukiyose | 吹寄制理 | ![](https://ehgt.org/w/02/038/07198-n0skyt6u.webp)<br>所属作品：`toaru project` |  |
-| kaori kanzaki | 神裂火织 | ![](https://ehgt.org/w/02/106/91465-m4tqy31f.webp)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/神裂火织) |
+| kaori kanzaki | 神裂火织 | ![](https://bkimg.cdn.bcebos.com/pic/cf1b9d16fdfaaf51a7629ae4825494eef11f7ae3)<br>日语：かんざきかおり<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/神裂火织) |
 | komoe tsukuyomi | 月咏小萌 |  |  |
 | misaka-imouto | 御坂妹妹 | ![10.webp](https://p.sda1.dev/28/86b806f9adf126e6fb3fcc4b9348477d/10.webp)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/御坂妹妹) |
 | last order | 最后之作 |  |  |
