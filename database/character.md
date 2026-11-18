@@ -4433,7 +4433,7 @@ example:
 | cure selene | 香久矢圆香（月神天使） | ![](https://static.wikia.nocookie.net/prettycure/images/d/db/Kaguya_Madoka_Selene_profile.png)<br>所属作品：`star twinkle precure`<br>日语：香久矢まどか | [Fandom](https://prettycure.fandom.com/wiki/Kaguya_Madoka) |
 | demeter | 狄蜜特 | ![](https://static.wikia.nocookie.net/dungeon-ni-deai-o-motomeru/images/6/63/Demeter_Colonel.png)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>日语：デメテル |  |
 | haruka yuzuhara | 柚原春夏 | ![](https://t.vndb.org/ch/37/19237.jpg)<br>所属作品: `p:toheart2` | [萌娘百科](https://zh.moegirl.org.cn/柚原春夏) |
-| matsuri kazamaki | 风卷祭里 | 漫画《`ayakashi triangle`》的主人公。男转女。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=437762) |
+| matsuri kazamaki | 风卷祭里 | ![](https://bkimg.cdn.bcebos.com/pic/4034970a304e251f95ca5007bad1de177f3e6609f58f)<br>出自作品:`ayakashi triangle` | [萌娘百科](https://zh.moegirl.org.cn/_?curid=437762) |
 | suzu kanade | 花奏铃 | ![](https://bkimg.cdn.bcebos.com/pic/dcc451da81cb39dbb6fdf6abcd411e24ab18962b9a8d)<br>出自作品:`ayakashi triangle` |  |
 | mahiro oyama | 绪山真寻 | 绪山真寻是猫豆腐创作的漫画《`p:onii-chan wa oshimai`》及其衍生作品的登场角色，故事的主人公，喜欢玩工口游戏的家里蹲废柴尼特族。<br>被妹妹灌了奇怪的药后变成了女孩子的“原”哥哥，虽然基本上是个吊儿郎当的人，但因为有来自大家的帮助，目前正努力作为一个女孩子生活着。<br>![绪山真寻](https://storage.moegirl.org.cn/moegirl/commons/1/1e/别当欧尼酱了！一迅社_第一卷.jpg)![绪山真寻](https://storage.moegirl.org.cn/moegirl/commons/2/21/Onimai_Teaser1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/绪山真寻) |
 | seiun sky | 青云天空 | ![](https://static.wikia.nocookie.net/umamusume/images/5/5a/Seiun_Sky_%28Race%29.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹セイウンスカイ（Seiun Sky）。 | [萌娘百科](https://zh.moegirl.org.cn/青云天空) |
