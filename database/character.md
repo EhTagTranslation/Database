@@ -10619,6 +10619,7 @@ example:
 | kisuke urahara | 浦原喜助‌ | ![](https://bkimg.cdn.bcebos.com/pic/e61190ef76c6a7efce1b587353a6b851f3deb48fc86b)<br>日语：うらはら きすけ<br>出自作品:`bleach` |  |
 | yang nari | 杨娜丽 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/0/09/Yang_Nari_-_Full_Illustration_%282%29.png)<br>日语：ヤン・ナリ<br>韩语：양나리<br>出自作品:`nijisanji` |  |
 | lucy tsukioka | 月丘露西 | ![](https://static.wikia.nocookie.net/anilist/images/f/f8/Lucy_Tsukioka.png)<br>日语：月丘ルーシー<br>出自作品:`ayakashi triangle` |  |
+| tiaplate | 蒂雅普雷特 | ![](https://ehgt.org/w/02/804/38303-kpbj0x6k.webp)<br>日语：ティアプレート<br>出自作品:`ishuzoku reviewers` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
