@@ -368,7 +368,7 @@ example:
 | zootopia | 疯狂动物城 |  |  |
 | umineko no naku koro ni | 海猫鸣泣之时 |  |  |
 | ah my goddess | 我的女神 | 《我的女神》（日语：ああっ女神さまっ；英语：Ah! My Goddess；台湾东立出版社：幸运女神）是由藤岛康介创作的一部漫画，并有动画、小说、游戏等衍生作品。<br>剧情简介：森里萤一是个被霉运之星眷顾的普通大学生，一日无意间拨通了女神事务所的电话，与女神贝露丹迪相遇并许下了“希望你这样的女神一直留在我身边的愿望”，被赶出了集体宿舍后两人的同居生活又会怎么样呢...... | [萌娘百科](https://zh.moegirl.org.cn/我的女神) |
-| denpa onna to seishun otoko | 电波女与青春男 |  |  |
+| denpa onna to seishun otoko | 电波女与青春男 | ![](https://lain.bgm.tv/r/400/pic/cover/l/29/4e/10377_2xnN5.jpg)<br>日语：電波女と青春男 |  |
 | mirai nikki | 未来日记 |  |  |
 | oshiete galko-chan | 告诉我！辣妹子酱 |  |  |
 | eureka 7 | 交响诗篇 艾蕾卡7 | ![](https://upload.wikimedia.org/wikipedia/zh/1/13/Eureka7bluray1.jpg)<br>日语：交響詩篇エウレカセブン |  |
