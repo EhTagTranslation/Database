@@ -997,7 +997,7 @@ example:
 | hayato hayama | 叶山隼人 | ![](https://static.wikia.nocookie.net/yahari/images/5/5a/Portal-hayato.png/revision/latest/scale-to-width-down/268?cb=20260103073353)<br>出自作品：`p:yahari ore no seishun love come wa machigatteiru`<br><br>叶山隼人是渡航所著轻小说《我的青春恋爱物语果然有问题》及衍生作品中登场的人物。 | [Fandom](https://oregairu.fandom.com/wiki/Hayato_Hayama) \| [萌娘百科](https://zh.moegirl.org.cn/叶山隼人) |
 | saika totsuka | 户冢彩加 | ![户冢彩加](https://ehgt.org/4d/b1/4db1072304b66f66fc8a641ecb908a7eefee63e7-854698-1920-2812-jpg_l.jpg) |  |
 | haruno yukinoshita | 雪之下阳乃 | ![](https://ehgt.org/w/02/054/46567-1v6tbybj.webp)<br>所属作品：`yahari ore no seishun love come wa machigatteiru` |  |
-| shizuka hiratsuka | 平冢静 | ![平冢静](https://ehgt.org/7a/1b/7a1bf96379495bd0188b2dc4f41d9ae38fa4ff5e-104471-960-544-jpg_l.jpg)<br>平冢静是渡航所创作的小说《我的青春恋爱喜剧果然有问题》及其衍生作品的登场角色。总武高中的国语教师，也担任大老师所在的2年F组的生活指导老师。尽管是一个多金美女，并且性格也很好；但是不知道为什么，至今单身。 | [萌娘百科](https://zh.moegirl.org.cn/平冢静) |
+| shizuka hiratsuka | 平冢静 | ![平冢静](https://bkimg.cdn.bcebos.com/pic/55e736d12f2eb9389b50bd62ad3b9235e5dde711c153)<br>出自作品:`yahari ore no seishun love come wa machigatteiru` | [萌娘百科](https://zh.moegirl.org.cn/平冢静) |
 |  | ▼ 中二病也要谈恋爱 角色 |  |  |
 | yuuta togashi | 富㭴勇太 | ![富㭴勇太](https://ehgt.org/d7/5a/d75af54a2ab9d2b44a5784c8f65a00ae66e6e80f-785783-2605-1750-jpg_l.jpg) |  |
 | yumeha togashi | 富㭴梦叶 |  |  |
