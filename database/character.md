@@ -7125,7 +7125,7 @@ example:
 | debora briscoletti | 黛波拉 | ![](https://ehgt.org/w/02/007/86148-4073d4cf.webp)<br>所属作品：勇者斗恶龙5 |  |
 | maika kamimura | 神村舞华 | ![](https://static.wikia.nocookie.net/taimanin/images/1/17/Kamimura_Maika_22.png)<br>所属作品：`taimanin rpg` |  |
 | salamandinay | 萨拉曼蒂妮 | ![](https://static.wikia.nocookie.net/crossange/images/2/2f/Cross_Ange_Sala_Concept_Art.png)<br>所属作品：`cross ange`<br>平行世界地球的龙族“奥拉之民”的巫女公主。 |  |
-| akira toudou | 东堂晶 | ![](https://ehgt.org/w/01/639/80027-18hkv8q2.webp)<br>所属作品：`shuumatsu no harem` |  |
+| akira toudou | 东堂晶 | ![](https://ami.animecharactersdatabase.com/uploads/chars/69407-843306579.png)<br>所属作品：`shuumatsu no harem` |  |
 | mira suou | 周防美来 | ![](https://ehgt.org/w/02/004/88362-q7pfrlzf.webp)<br>所属作品：`shuumatsu no harem` |  |
 | chloe mansfield | 克劳尔·曼斯菲尔德 | ![](https://ehgt.org/w/01/944/86660-dzb8s82a.webp)<br>所属作品：`shuumatsu no harem` |  |
 | yuzuki hanyuu | 羽生柚希 | ![](https://ehgt.org/w/01/934/79458-k4fha9k5.webp)<br>所属作品：`shuumatsu no harem` |  |
