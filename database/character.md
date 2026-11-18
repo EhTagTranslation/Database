@@ -6390,7 +6390,7 @@ example:
 | karen himemiya | 姬宫华恋 | ![](https://static.wikia.nocookie.net/makeine/images/c/c7/Karen_AN.png)<br>所属作品：`make heroine ga oosugiru` | [百度百科](https://baike.baidu.com/item/姬宫华恋/64464235) |
 | kaju nukumizu | 温水佳树 | ![](https://static.wikia.nocookie.net/makeine/images/c/cf/Kaju_Anime.jpg)<br>所属作品：`make heroine ga oosugiru` |  |
 | uzuki kou | 卯月光 | 卯月コウ（英譯：Uzuki Kou，中譯：卯月光）是一位日本男性虛擬Youtuber，為いちから株式会社旗下にじさんじSEEDs的虛擬Liver成員之一，於2018年6月6日在Mirrativ開始活動。 | [萌娘百科](https://zh.moegirl.org.cn/卯月光) [https://wikiwiki.jp/nijisanji/卯月コウ](https://wikiwiki.jp/nijisanji/卯月コウ) |
-| takane takamine | 鹰峰高岭 | ![](https://ehgt.org/w/02/227/20290-b0d2njjm.webp)<br>所属作品：`haite kudasai takamine-san` |  |
+| takane takamine | 鹰峰高岭 | ![](https://static.wikia.nocookie.net/p__/images/1/17/Takane_Takamine.webp)<br>所属作品：`haite kudasai takamine-san` |  |
 | yuuri kozukata | 不来方夕莉 | 《零：濡鸦之巫女》中的角色 |  |
 | shio koube | 神户盐 |  |  |
 | satou matsuzaka | 松板砂糖 |  |  |
