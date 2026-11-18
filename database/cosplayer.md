@@ -203,6 +203,7 @@ example:
 | qiuhe keji | 秋和柯基 |  |  |
 | tiny asa | Tiny Asa | Tiny Asa（アサ）是一位来自越南的人气 Cosplayer兼时尚写真模特。 | [Instagram](https://www.instagram.com/tiny_asa_/) |
 | qisikuai wii | 起司块wii |  |  |
+| cheese egg0v0 | 芝心蛋奶烧 |  | [X](https://x.com/cheese_egg0v0) |
 
 <!--
 Template: 
