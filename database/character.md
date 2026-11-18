@@ -3280,7 +3280,7 @@ example:
 | fie claussell | 菲·克劳赛尔 | ![](https://static.wikia.nocookie.net/kiseki/images/c/ca/Fie_Claussell_%28Kuro%29.png)<br>所属作品：`the legend of heroes` | [官网](https://trails-game.com/character/fie-claussell/) |
 | alfin reise arnor | 艾尔芬·莱泽·亚诺尔 | ![](https://static.wikia.nocookie.net/kiseki/images/0/08/Alfin_Reise_Arnor_%28Sen_III%29.png)<br>所属作品：`the legend of heroes` | [https://trails-game.com/character/alfin-reise-arnor/](https://trails-game.com/character/alfin-reise-arnor/) |
 | chen hui-chieh | 陈晖洁 | ![](https://patchwiki.biligame.com/images/arknights/5/56/35zxnoozj5d8nw8bdys30n9mydm2vc6.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:陈) |
-| hermione granger | 赫敏·格兰杰 | 《哈利·波特》系列女主角，生于1979年9月19日，出身于一个普通中产阶级家庭。 十一岁时，赫敏得知自己是一个女巫，需要去霍格沃茨魔法学校上学。 |  |
+| hermione granger | 赫敏·格兰杰 | ![](https://bkimg.cdn.bcebos.com/pic/a8773912b31bb051f81950782d21cdb44aed2e734a15)<br>出自作品:`harry potter` |  |
 | shizuru hoshino | 星野静流 | ![](https://static.wikia.nocookie.net/princess-connect/images/b/ba/Shizuru_%28game%29.png)<br>所属作品：`princess connect` |  |
 | mifuyu ogami | 大神美冬 | ![](https://storage.moegirl.org.cn/moegirl/commons/d/d7/Mifuyu.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/大神美冬) |
 | tamaki miyasaka | 宫坂珠希 | ![](https://storage.moegirl.org.cn/moegirl/commons/e/e1/Tamaki_prin_cone.png)<br>所属作品：`princess connect` | [萌娘百科](Dhttps://zh.moegirl.org.cn/宫坂珠希) |
