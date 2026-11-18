@@ -10373,7 +10373,7 @@ example:
 | love espada | 艾斯帕妲·拉芙 | ![](https://static.wikia.nocookie.net/makenki/images/d/df/Manga_Cover_Vol_16.jpg)<br>日语：エスパダ・ラブ<br>出自作品:`maken-ki` |  |
 | mireille grangeon | 米蕾耶·格兰吉恩 | ![](https://lain.bgm.tv/r/400/pic/crt/l/9c/54/152309_crt_33rRA.jpg?r=1707919896)<br>日语：ミレーユ・グランジオン<br>出自作品:`tensei kizoku kantei skill de nariagaru` |  |
 | kaede sakura | 沙仓枫 |  |  |
-| ultima | 乌尔缇玛 | ![](https://static.wikia.nocookie.net/p__/images/a/a7/Ultima_Anime.webp)<br>出自作品:`tensei shitara slime datta ken` |  |
+| ultima | 乌尔缇玛 | ![](https://bkimg.cdn.bcebos.com/pic/14ce36d3d539b6003af30baef808222ac65c10381928)<br>出自作品:`tensei shitara slime datta ken` |  |
 | rea himuro | 冰室玲爱 | ![](https://lain.bgm.tv/r/400/pic/crt/l/05/e5/27799_crt_2e279.jpg)<br>出自作品:`dies irae` |  |
 | bailu youyun | 白鹿游云 | ![](https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/4/48/Bailu_Youyun.png)<br>出自作品:`honkai gakuen` |  |
 | george weasley | 乔治·韦斯莱 | 出自作品:`harry potter` |  |
