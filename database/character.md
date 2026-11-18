@@ -3813,7 +3813,7 @@ example:
 | mutsumi otohime | 乙姬睦美 |  |  |
 | shinobu maehara | 前原忍 |  |  |
 | naru narusegawa | 成濑川奈留 |  |  |
-| meidri | 梅朵莉 | 《异种族风俗娘评鉴指南》中食酒亭的服务员 |  |
+| meidri | 梅朵莉 | ![](https://ehgt.org/w/01/902/25910-5n74y9we.webp)<br>日语：メイドリー<br>出自作品:`ishuzoku reviewers` |  |
 | crimvael | 克莉姆 | 《异种族风俗娘评鉴指南》中的天使 |  |
 | samus aran | 萨姆斯·亚兰 | ![](https://ehgt.org/w/02/188/64535-rxynf9ap.webp)<br>出自作品：`p:metroid` |  |
 | otome saotome | 早乙女乙女 | 早乙女乙女是赤城大空所创作的轻小说《`shimoneta to iu gainen ga sonzai shinai taikutsu na sekai`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/d8/eb/d8ebfe81ef5f9ce99c668c811edd0a9b385e3842-64942-775-523-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/早乙女乙女) |
