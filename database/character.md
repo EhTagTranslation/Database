@@ -10623,6 +10623,7 @@ example:
 | milky | 米尔琪 | ![](https://ehgt.org/w/02/377/95151-4c276lwu.webp)<br>日语：ミルキー<br>出自作品:`ishuzoku reviewers` |  |
 | demia duodectet | 迪米亚·杜欧德克特 | ![](https://ehgt.org/w/02/496/81984-amnqzl0c.webp)<br>日语 :デミア・デュオデクテット<br>出自作品:`ishuzoku reviewers` |  |
 | jahy | 迦希大人 | ![](https://bkimg.cdn.bcebos.com/pic/0b7b02087bf40ad162d94bc8056306dfa9ec8a1360c2)<br>日语：ジャヒー様<br>出自作品:`jahy-sama wa kujikenai` |  |
+| shikanosuke uehara | 上原鹿之助 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
