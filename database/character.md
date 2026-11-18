@@ -5183,7 +5183,7 @@ example:
 | takane miyoshi | 三善贵音 | ![](https://static.wikia.nocookie.net/blue-archive/images/7/70/Takane_Portrait.png)<br>所属作品：`p:blue archive` | [百度百科](https://baike.baidu.com/item/三善贵音/65687019) |
 | kiriko kamori | 家守雾子 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/16/OW2_Kiriko.png)<br>所属作品：`overwatch` | [萌娘百科](https://zh.moegirl.org.cn/家守雾子) |
 | genji | 源氏 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/17/OW2_Genji.png)<br>出自作品：`p:overwatch` | [萌娘百科](https://zh.moegirl.org.cn/岛田源氏) |
-| ichigo kurosaki | 黑崎一护 | ![](https://thumbsnap.com/i/xaU5iVwi.jpg)<br>出自作品：`p:bleach`<br><br>黑崎一护（日语：黒崎一护／くろさきいちご Kurosaki Ichigo）是日本漫画《BLEACH》中的主角。特征是遗传自母亲的橘色头发，棕色瞳孔。 | [Fandom](https://bleach.fandom.com/zh/wiki/黑崎一護?variant=zh-cn) |
+| ichigo kurosaki | 黑崎一护 | ![](https://bkimg.cdn.bcebos.com/pic/d043ad4bd11373f082024be8605b5cfbfbedab64ae32)<br>日语：くろさきいちご<br>出自作品：`p:bleach` | [Fandom](https://bleach.fandom.com/zh/wiki/黑崎一護?variant=zh-cn) |
 | retsu unohana | 卯之花烈 | ![](https://ehgt.org/w/02/009/23248-d9fh9rer.webp)<br>出自作品：`p:bleach`<br><br>卯之花烈（日语：うのはな れつ）是久保带人所创作的漫画《BLEACH》及其衍生作品的角色。 | [萌娘百科](https://zh.moegirl.org.cn/卯之花烈) |
 | rui yashio | 八潮瑠唯 | ![](https://static.wikia.nocookie.net/bandori/images/d/da/Yashio_Rui_-_Spring_Casual_%282023%29_Live2D_Model.png)<br>出自作品：`p:bang dream`<br><br>八潮瑠唯（日语：八潮瑠唯 / やしおるい）是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色，Morfonica的小提琴手。 | [萌娘百科](https://zh.moegirl.org.cn/八潮瑠唯) \| [Fandom](https://bandori.fandom.com/wiki/Yashio_Rui) |
 | miles morales | 迈尔斯·莫拉雷斯 | 漫威漫画系列登场角色 | [萌娘百科](https://zh.moegirl.org.cn/迈尔斯·莫拉雷斯) |
