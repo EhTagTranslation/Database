@@ -1240,7 +1240,7 @@ example:
 | shizu murasame | 村雨静 | 所属作品：`to love-ru` |  |
 |  | ▼ 食戟之灵 角色 |  |  |
 | erina nakiri | 薙切绘理奈 | ![](https://img.moegirl.org.cn/common/3/3b/Nakiri_erina_side.png)<br>所属作品：`shokugeki no soma` | [萌娘百科](https://zh.moegirl.org.cn/薙切绘里奈) |
-| alice nakiri | 薙切爱丽丝 | ![](https://img.moegirl.org.cn/common/0/0d/Nakirialice.png)<br>所属作品：`shokugeki no soma`<br>远月学园高等部一年,远月学园总帅薙切仙左卫门的孙女，薙切绘里奈的表姐 [1]，有着“分子美食学的神之子”的称号。 | [萌娘百科](https://zh.moegirl.org.cn/薙切爱丽丝) |
+| alice nakiri | 薙切爱丽丝 | ![](https://img.moegirl.org.cn/common/0/0d/Nakirialice.png)<br>所属作品：`shokugeki no soma` | [萌娘百科](https://zh.moegirl.org.cn/薙切爱丽丝) |
 | azami nakiri | 薙切蓟 |  |  |
 | ikumi mito | 水户郁魅 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/03/26/12/02/45/128620766_p0_master1200.jpg)<br>所属作品：`shokugeki no soma`<br>远月学园高等部1年级女生，登场时是绘里奈派成员，因食戟输给创真而被绘里奈抛弃。 | [萌娘百科](https://zh.moegirl.org.cn/水户郁魅) |
 | megumi tadokoro | 田所惠 | ![](https://img.moegirl.org.cn/common/d/db/Tadokoro_megumi.png)<br>所属作品：`shokugeki no soma`<br>蓝发双麻花的天然少女。右侧刘海有一银色的发夹。上学时穿正式的校服，料理课时穿白色的厨师服。 | [萌娘百科](https://zh.moegirl.org.cn/田所惠) |
