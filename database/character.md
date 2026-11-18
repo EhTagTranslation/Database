@@ -4187,7 +4187,7 @@ example:
 | shinn asuka | 真·飞鸟 |  | [萌娘百科](https://zh.moegirl.org.cn/真·飞鸟) [Fandom](https://gundam.fandom.com/wiki/Shinn_Asuka) |
 | yuzuki seo | 濑尾结月 |  |  |
 | saki yoshida | 吉田咲 |  | [hmoegirl](https://web.archive.org/web/20220617145907/https://www.hmoegirl.com/变身-emergence-) |
-| nahida | 纳西妲 | ![](https://patchwiki.biligame.com/images/ys/8/8f/931ai2cmf11k82qt272abhbg6s7icqn.gif)<br>所属作品:`p:genshin impact`<br>深居净善宫的笼中之鸟，只能在梦中将世界尽收眼底。 | [萌娘百科](https://zh.moegirl.org.cn/纳西妲) |
+| nahida | 纳西妲 | ![](https://patchwiki.biligame.com/images/ys/8/8f/931ai2cmf11k82qt272abhbg6s7icqn.gif)<br>所属作品:`p:genshin impact` | [萌娘百科](https://zh.moegirl.org.cn/纳西妲) |
 | mitsuru kirijo | 桐条美鹤 | ![](https://static.wikia.nocookie.net/megamitensei/images/e/e4/Mitsuru_Kirijo_Reload.png)<br>出自作品：`p:persona 3`<br>日语：桐条美鶴 /きりじょうみつる | [萌娘百科](https://zh.moegirl.org.cn/桐条美鹤) \| [百度百科](https://baike.baidu.com/item/桐条美鹤/2335288) |
 | kaguya otonashi | 音无辉夜 | 所属作品: `p:magika no kenshi to basileus` | [Fandom](https://magikanokenshitoshoukanvasreus.fandom.com/wiki/Otonashi_Kaguya) |
 | kaoru tanamachi | 棚町薰 | 所属作品: `p:amagami`<br><br>![](https://static.wikia.nocookie.net/amagami/images/d/d2/Kaoru_Tanamachi.jpg/revision/latest?cb=20210214162041) | [萌娘百科](https://zh.moegirl.org.cn/棚町薰) [Fandom](https://amagami.fandom.com/wiki/Kaoru_Tanamachi) |
