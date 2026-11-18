@@ -4066,7 +4066,7 @@ example:
 | azusa hanai | 花井梓 |  |  |
 | maria momoe | 百枝麻里亚 |  |  |
 | kraft lawrence | 克拉福·罗伦斯 | ![](https://static.wikia.nocookie.net/spiceandwolf/images/e/e4/Kraft_Lawrence.jpg)<br>出自作品：`p:spice and wolf`<br><br>克拉福·罗伦斯（日语：クラフト・ロレンス）是由日本作家支仓冻砂创作的轻小说《狼与香辛料》及其衍生作品的登场角色，男主角。 | [萌娘百科](https://zh.moegirl.org.cn/克拉福·罗伦斯) \| [Fandom](https://spiceandwolf.fandom.com/wiki/Kraft_Lawrence) |
-| orihime inoue | 井上织姬 | ![](https://static.wikia.nocookie.net/p__/images/d/d1/Bleach_TYBW_Anime_Render.png)<br>![](https://static.wikia.nocookie.net/p__/images/a/a0/TYBW_Orihime_Render.png)<br>所属作品: `p:bleach` | [萌娘百科](https://zh.moegirl.org.cn/井上织姬) [维基百科](https://zh.wikipedia.org/wiki/井上織姬) [Fandom](https://bleach.fandom.com/wiki/Orihime_Inoue) |
+| orihime inoue | 井上织姬 | ![](https://static.wikia.nocookie.net/base-breaking-character/images/a/a0/TYBW_Orihime_Render.png)<br>出自作品:`bleach` | [萌娘百科](https://zh.moegirl.org.cn/井上织姬) [维基百科](https://zh.wikipedia.org/wiki/井上織姬) [Fandom](https://bleach.fandom.com/wiki/Orihime_Inoue) |
 | elysia | 爱莉希雅 | ![](https://uploadstatic.mihoyo.com/bh3-wiki/2021/10/25/50494840/630e22081a6ed459a2b6729e29f5e6db_3282802628295683754.png)<br>![](https://uploadstatic.mihoyo.com/bh3-wiki/2022/10/12/50494840/94c4eb83f845d7e28659514277188c0b_7169555457918615319.gif)<br>所属作品：`honkai gakuen` |  |
 | kayoko onikata | 鬼方佳代子 | ![](https://static.wikia.nocookie.net/blue-archive/images/1/10/Kayoko_Portrait.png)<br>所属作品：`blue archive` | [萌娘百科](https://zh.moegirl.org.cn/鬼方佳世子) [Fandom](https://bluearchive.fandom.com/wiki/Onikata_Kayoko)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Kayoko) |
 | aoi tosaka | 远坂葵 |  |  |
