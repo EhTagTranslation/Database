@@ -3070,6 +3070,7 @@ example:
 | the golden girls | 黄金女郎 | ![](https://bkimg.cdn.bcebos.com/pic/267f9e2f070828381f30780cd7c0be014c086e065b2b) |  |
 | corpse bride | 僵尸新娘 | ![](https://bkimg.cdn.bcebos.com/smart/b853d6fc3b767eb6fd037f21-bkimg-process,v_1,rw_3,rh_4,maxl_284) |  |
 | fire emblem fortunes weave | 火焰之纹章 万紫千红 | ![](https://lain.bgm.tv/r/400/pic/cover/l/be/f5/584745_kXXxA.jpg)<br>别译：火焰之纹章 万缕千丝 |  |
+| robokko beaton | 百宝星君 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/ee/107441_wWUiP.jpg)<br>日语：ろぼっ子ビートン |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
