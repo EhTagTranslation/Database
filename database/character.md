@@ -10047,7 +10047,7 @@ example:
 | sora vinsmoke | 文斯莫克·索拉 | ![](https://lain.bgm.tv/r/400/pic/crt/l/73/71/105271_crt_922vs.jpg)<br>出自作品:`one piece` |  |
 | tao fa | 桃花 | ![](https://static.wikia.nocookie.net/jigokuraku/images/5/5b/Tao_Fa_Anime_Concept_Art.png)<br>日语别称：ラトナ大聖<br>出自作品:`jigokuraku` |  |
 | shiduka mimiduka | 耳冢志津香 | ![](https://lain.bgm.tv/r/400/pic/crt/l/19/d4/170190_crt_ZBbUC.jpg)<br>日语：耳塚シヅカ<br>出自作品:`ushiro no shoumen kamui-san` |  |
-| odette spessiva | 奥黛塔·苏佩茜娃 | ![](https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Odette_Card.png)<br>出自作品:`genshin impact` |  |
+| odette spessiva | 奥黛塔·苏佩茜娃 | ![](https://static.wikia.nocookie.net/p__/images/6/65/Odette_Spessiva.png)<br>出自作品:`genshin impact` |  |
 | hikari koshino | 越野光 | ![](https://neoapo.com/images/character/49661/b1165a3b590fbbb4d3e93e638c0a6e58.webp)<br>日语：越野ひかり<br>出自作品:`komekami girls` |  |
 | honoka koshino | 越野穗乃花 | ![](https://neoapo.com/images/character/49665/cdeaaa36c37ae675af87c7ece2bdae5a.webp)<br>日语：越野ほのか<br>出自作品:`komekami girls` |  |
 | mai koshino | 越野舞 | ![](https://neoapo.com/images/character/49664/535227b6fa61b3de040166464f4cb2a8.webp)<br>日语：越野まい<br>出自作品:`komekami girls` |  |
