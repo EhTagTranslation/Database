@@ -7235,7 +7235,7 @@ example:
 | misaki ayuzawa | 鲇泽美咲 | ![](https://ehgt.org/w/01/704/00494-dovfjsjl.webp)<br>所属作品：`kaichou wa maid-sama` |  |
 | noel anderson | 诺埃尔·安德森 | 所属作品：`mobile suit gundam lost war chronicles`<br>诺埃尔·安德森 外文 Noel Anderson/ノエル・アンダーソン |  |
 | margit eberbach | 玛吉特埃贝·巴赫 | ![](https://ehgt.org/36/7e/367ef16bb7e881028fe5b57818f6da733e54cd00-235368-526-838-jpg_250.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
-| vanessa enoteca | 巴纳莎·艾诺泰卡 | ![](https://ehgt.org/w/02/022/76965-luti97e4.webp)<br>所属作品：`black clover` |  |
+| vanessa enoteca | 巴纳莎·艾诺泰卡 | ![](https://static.wikia.nocookie.net/blackclover/images/a/aa/Vanessa_movie_concept.png)<br>所属作品：`black clover` |  |
 | mimosa vermillion | 米莫萨·凡米里欧 | ![](https://bkimg.cdn.bcebos.com/pic/96dda144ad345982b2b79f3c0aa826adcbef76092e53)<br>所属作品：`black clover` |  |
 | mereoleona vermillion | 梅列欧蕾欧娜·凡米里欧 | ![](https://static.wikia.nocookie.net/blackclover/images/b/bb/Mereoleona_movie_concept.png)<br>所属作品：`black clover`<br>日语：メレオレオナ・ヴァーミリオン |  |
 | lily aquaria | 莉莉·阿克阿丽亚 | ![](https://ehgt.org/w/02/050/44210-7hzg2xr8.webp)<br>所属作品：`black clover` |  |
