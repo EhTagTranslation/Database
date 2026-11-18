@@ -2100,7 +2100,7 @@ example:
 | onii-chan wa oshimai | 别当欧尼酱了！ | 《别当欧尼酱了！》（日语：お兄ちゃんはおしまい！），简称《别酱了》（日语：おにまい），其他译名《不当哥哥了！》、《别当哥哥了！》<br>是由日本漫画家猫豆腐创作的同人性转喜剧漫画，作品最初在日本插画网站pixiv连载，更新时间一般是每月的最后一个周六，后niconico静画也同步更新。<br>2018年1月27日作者自费出版繁体中文电子版，也曾授权布卡漫画连载简体中文电子版，布卡漫画破产后改在哔哩哔哩漫画继续连载。<br>2018年6月27日起由一迅社出版商业化的单行本，2019年6月号开始在《月刊ComicREX》连载，截止2022年12月，商业版累计发行册数突破100万部。<br>改编电视动画于2023年1月5日开始播映，动画制作公司为Studio Bind。<br>![cover](https://img.moegirl.org.cn/common/2/28/别当欧尼酱了_同人本_二.png)![anime cover](https://img.moegirl.org.cn/common/7/7c/Onimai_KV.jpg) | [萌娘百科](https://zh.moegirl.org.cn/别当欧尼酱了！) |
 | shiki | 尸鬼 |  |  |
 | shikabane hime | 尸姬 |  |  |
-| ayakashi triangle | 妖幻三重奏 | 《妖幻三重奏》（あやかしトライアングル），又译《妖三角》，是`yabuki kentarou`创作的性转题材漫画作品，已动画化。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=407996) |
+| ayakashi triangle | 妖幻三重奏 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f6/2b/363026_191za.jpg)<br>日语：あやかしトライアングル<br>作者：矢吹健太朗 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=407996) |
 | tensei oujo to tensai reijou no mahou kakumei | 转生公主与天才千金的魔法革命 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fd/3c/395714_5EeZx.jpg)<br>日语：転生王女と天才令嬢の魔法革命 | [萌娘百科](https://zh.moegirl.org.cn/转生王女与天才千金的魔法革命) |
 | summer camp island | 幽灵与莫莉·麦琪 | 《幽灵与莫莉·麦琪》（英语：The Ghost and Molly McGee）是一部由美国迪士尼电视动画公司制作的恐怖喜剧动画剧集，作者为比尔·莫兹与鲍伯·罗斯，于2021年10月在迪士尼频道与Disney+播映。 | [维基百科](https://zh.wikipedia.org/wiki/幽灵与莫莉·麦琪) |
 | luca | 夏日友晴天 | 《夏日友晴天》（英语：Luca，中国大陆译《夏日友晴天》，香港译《盛夏友晴天》，台湾译《路卡的夏天》）是一部2021年美国3D计算机动画奇幻喜剧片，由皮克斯动画工作室制作，并由迪士尼平台发行负责流媒体发行，华特迪士尼工作室电影负责院线发行。故事的舞台设定于西元1959年的意大利滨海港口城镇，描述居住在附近海域的海怪男孩卢卡伪装成人类探索陆地世界，为了实现梦想与当地居民建立的羁绊和经历的各类事件。 | [维基百科](https://zh.wikipedia.org/wiki/路卡的夏天) |
