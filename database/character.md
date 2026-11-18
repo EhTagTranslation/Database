@@ -10617,7 +10617,7 @@ example:
 | shadowcat | 凯蒂·普莱德（幻影猫） | ![](https://cdn.svc.asmodee.net/production-amgcom/uploads/2024/02/02212024-CP96_Transmission-Image_1-870x1024.png)<br>出自作品:`x-men` |  |
 | isshin kurosaki | 黑崎一心 | ![](https://bkimg.cdn.bcebos.com/pic/203fb80e7bec54e736d1883d796f8c504fc2d5623cc2)<br>日语：くろさき いっしん<br>出自作品:`bleach` |  |
 | kisuke urahara | 浦原喜助‌ | ![](https://bkimg.cdn.bcebos.com/pic/e61190ef76c6a7efce1b587353a6b851f3deb48fc86b)<br>日语：うらはら きすけ<br>出自作品:`bleach` |  |
-| yang nari | 杨娜丽 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/f/f9/Yang_Nari_Portrait_%282%29.png)<br>日语：ヤン・ナリ<br>韩语：양나리<br>出自作品:`nijisanji` |  |
+| yang nari | 杨娜丽 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/0/09/Yang_Nari_-_Full_Illustration_%282%29.png)<br>日语：ヤン・ナリ<br>韩语：양나리<br>出自作品:`nijisanji` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
