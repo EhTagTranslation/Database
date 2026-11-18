@@ -4166,7 +4166,7 @@ example:
 | aoi kunieda | 邦枝葵 | 所属作品: `p:beelzebub` | [维基百科](https://zh.wikipedia.org/wiki/魔B爸B角色列表) |
 | sajuna inui | 乾纱寿叶 | ![](https://bkimg.cdn.bcebos.com/pic/242dd42a2834349b033bc43255b802ce36d3d5391073?)<br>所属作品: `p:sono bisque doll wa koi o suru` | [萌娘百科](https://zh.moegirl.org.cn/乾纱寿叶) |
 | toushirou hitsugaya | 日番谷冬狮郎 |  |  |
-| soi fon | 碎蜂 | ![](https://ehgt.org/w/02/092/55989-d1uinvr3.webp)<br>所属作品：`bleach` |  |
+| soi fon | 碎蜂 | ![](https://bkimg.cdn.bcebos.com/pic/a8773912b31bb051f819c5449826cdb44aed2e734a10)<br>所属作品：`bleach` |  |
 | guan yinping | 关银屏 | ![](https://static.wikia.nocookie.net/dynastywarriors/images/8/88/Guan_Yinping_Artwork_%28DW9%29.png)<br>所属作品：`dynasty warriors` |  |
 | xing cai | 张星彩 | 《真·三国无双》及其衍生产品的女角色之一。 |  |
 | zhen ji | 甄姬 |  |  |
