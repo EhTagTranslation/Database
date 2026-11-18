@@ -14418,6 +14418,7 @@ example:
 | lyrical seeki | リリカルセーキ |  |  |
 | oden ohgan | おでんオーガン |  |  |
 | favoritetrick | FavoriteTrick! |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG62412.html) |
+| denki zenzai | 電気ぜんざい |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
