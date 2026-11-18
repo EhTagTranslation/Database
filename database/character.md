@@ -10621,6 +10621,7 @@ example:
 | lucy tsukioka | 月丘露西 | ![](https://static.wikia.nocookie.net/anilist/images/f/f8/Lucy_Tsukioka.png)<br>日语：月丘ルーシー<br>出自作品:`ayakashi triangle` |  |
 | tiaplate | 蒂雅普雷特 | ![](https://ehgt.org/w/02/804/38303-kpbj0x6k.webp)<br>日语：ティアプレート<br>出自作品:`ishuzoku reviewers` |  |
 | milky | 米尔琪 | ![](https://ehgt.org/w/02/377/95151-4c276lwu.webp)<br>日语：ミルキー<br>出自作品:`ishuzoku reviewers` |  |
+| demia duodectet | 迪米亚·杜欧德克特 | ![](https://ehgt.org/w/02/496/81984-amnqzl0c.webp)<br>日语 :デミア・デュオデクテット<br>出自作品:`ishuzoku reviewers` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
