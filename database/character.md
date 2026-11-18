@@ -8132,7 +8132,7 @@ example:
 | paffy pafuricia | 帕菲·帕弗里西亚 | ![](https://cdn.myanimelist.net/images/characters/14/213183.jpg)<br>所属作品：`lord of lords ryu knight`<br>魔法王国的公主。 |  |
 | lieselotte w. dorssia | 莉泽露蒂·W·多西亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d7/1d/21791_crt_9yQh4.jpg)<br>所属作品：`valvrave the liberator`<br>多西亚的公主。 |  |
 | melida angel | 梅莉达·安杰尔 | ![](https://assassinspride-anime.com/en/assets/img/character/list/1.png)<br>日语：メリダ＝アンジェル<br>所属作品：`assassins pride` | [Fandom](https://assassinspride.fandom.com/wiki/Melida_Angel) |
-| elise angel | 爱丽丝·安杰尔 | ![](https://static.wikia.nocookie.net/assassinspride/images/2/2a/EliseAngel.png)<br>所属作品：`assassins pride`<br>梅莉达的堂妹，位阶为“圣骑士”的玛那能力者，就读“圣弗立戴斯威德女子学院”。 | [Fandom](https://assassinspride.fandom.com/wiki/Elise_Angel) |
+| elise angel | 爱丽丝·安杰尔 | ![](https://assassinspride-anime.com/en/assets/img/character/list/2.png)<br>日语：エリーゼ＝アンジェル<br>所属作品：`assassins pride` | [Fandom](https://assassinspride.fandom.com/wiki/Elise_Angel) |
 | wei yenwu | 魏彦吾 | ![](https://storage.moegirl.org.cn/moegirl/commons/8/8a/Ak_char_2005_weiyw_1.png)<br>所属游戏:`arknights` | [萌娘百科](https://zh.moegirl.org.cn/魏彦吾) |
 | davi artman | 妲维·阿特曼 |  | [Fandom](https://virtualyoutuber.fandom.com/wiki/Davi_Artman) |
 | tamayo | 珠世 | ![](https://ehgt.org/w/02/196/32009-domsb8ks.webp)<br>所属作品：`kimetsu no yaiba` | [百度百科](https://baike.baidu.com/item/珠世/22390348) |
