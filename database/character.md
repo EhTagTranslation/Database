@@ -6536,7 +6536,7 @@ example:
 | agnes | 阿妮埃斯 |  |  |
 | hanako-san | 花子小姐 |  |  |
 | kitarou | 鬼太郎 |  |  |
-| cyrene | 昔涟 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/Cyrene_Gift_of_Odyssey_3.7.png)<br>![](https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Character_Cyrene_Portrait.png)<br>所属作品：`honkai star rail`<br>往昔的涟漪，岁月的半神。 |  |
+| cyrene | 昔涟 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/1/19/Cyrene_Gift_of_Odyssey_3.7.png)<br>![](https://static.wikia.nocookie.net/houkai-star-rail/images/f/f8/Character_Cyrene_Portrait.png)<br>所属作品：`honkai star rail` |  |
 | mukuro hoshimiya | 星宫六喰 | ![](https://static.wikia.nocookie.net/date-a-live/images/4/46/Mukuro.png)<br>所属作品：`date a live` | [萌娘百科](https://zh.moegirl.org.cn/星宫六喰) |
 | sophia valentine | 索菲娅•瓦伦丁 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2023/02/09/12/42/40/105215340_p0_master1200.jpg)<br>所属社团：`nijisanji` |  |
 | phrolova | 弗洛洛 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/9/99/0bbzw7afgtwtu2rz5lx6h7400u324mr.png/585px-角色_弗洛洛_立绘.png)<br>所属作品：`p:wuthering waves` | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/弗洛洛) |
