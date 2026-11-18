@@ -3324,7 +3324,7 @@ example:
 | kotoko iwanaga | 岩永琴子 | ![](https://img.moegirl.org.cn/common/thumb/d/d5/Img_kotoko_stand_pc.png/300px-Img_kotoko_stand_pc.png)<br>所属作品：`kyokou suiri`<br>手杖及贝雷帽是其标志，身材小巧可爱的大学生。<br>11岁时，遭到被人们称作“怪异”“妖怪”一类的怪物所诱拐，以失去单眼单脚为代价，成为了他们的“智慧之神”。 |  |
 | meme touwa | 藤和女女 |  | [萌娘百科](https://zh.moegirl.org.cn/藤和女女) |
 | makoto niwa | 丹羽真 |  | [百度百科](https://baike.baidu.com/item/丹羽真/750418) |
-| erio touwa | 藤和艾莉欧 | 入间人间所创作的轻小说《电波女与青春男》及其衍生作品的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/藤和艾莉欧) |
+| erio touwa | 藤和艾莉欧 | ![](https://lain.bgm.tv/r/400/pic/crt/l/32/39/11922_crt_c066b.jpg)<br>出自作品:`denpa onna to seishun otoko` | [萌娘百科](https://zh.moegirl.org.cn/藤和艾莉欧) |
 | langa hasegawa | 驰河兰加 | 动画《SK8 无限滑板》男主角之一。配音为小林千晃。 |  |
 | reki kyan | 喜屋武历 | 动画《SK8 无限滑板》男主角之一。配音为畠中祐。 |  |
 | myne | 梅茵 |  | [萌娘百科](https://zh.moegirl.org.cn/梅茵) |
