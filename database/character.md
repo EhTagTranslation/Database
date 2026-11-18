@@ -3814,7 +3814,7 @@ example:
 | shinobu maehara | 前原忍 |  |  |
 | naru narusegawa | 成濑川奈留 |  |  |
 | meidri | 梅朵莉 | ![](https://ehgt.org/w/01/902/25910-5n74y9we.webp)<br>日语：メイドリー<br>出自作品:`ishuzoku reviewers` |  |
-| crimvael | 克莉姆 | 《异种族风俗娘评鉴指南》中的天使 |  |
+| crimvael | 可利姆 | ![](https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f7905211aee8531bf3d7ca7bcb7843)<br>日语：クリムヴェール<br>出自作品:`ishuzoku reviewers` |  |
 | samus aran | 萨姆斯·亚兰 | ![](https://ehgt.org/w/02/188/64535-rxynf9ap.webp)<br>出自作品：`p:metroid` |  |
 | otome saotome | 早乙女乙女 | 早乙女乙女是赤城大空所创作的轻小说《`shimoneta to iu gainen ga sonzai shinai taikutsu na sekai`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/d8/eb/d8ebfe81ef5f9ce99c668c811edd0a9b385e3842-64942-775-523-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/早乙女乙女) |
 | melusine | 美露莘(梅柳齐娜) | ![](https://static.wikia.nocookie.net/typemoon/images/e/e3/LancerFairyKnightLancelotStage1.png)<br>所属作品：`fate grand order`<br>日语：メリュジーヌ<br>别称：妖精骑士兰斯洛特 | [萌娘百科](https://zh.moegirl.org.cn/梅柳齐娜) |
