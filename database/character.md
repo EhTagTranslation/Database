@@ -10615,6 +10615,7 @@ example:
 | toucannon | 铳嘴大鸟 | 出自作品:`pokemon` |  |
 | manaphy | 玛纳霏 | 出自作品:`pokemon` |  |
 | shadowcat | 凯蒂·普莱德（幻影猫） | ![](https://cdn.svc.asmodee.net/production-amgcom/uploads/2024/02/02212024-CP96_Transmission-Image_1-870x1024.png)<br>出自作品:`x-men` |  |
+| isshin kurosaki | 黑崎一心 | ![](https://bkimg.cdn.bcebos.com/pic/203fb80e7bec54e736d1883d796f8c504fc2d5623cc2)<br>日语：くろさき いっしん<br>出自作品:`bleach` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
