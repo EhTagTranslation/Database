@@ -10232,7 +10232,7 @@ example:
 | togawa nonoha | 十河野乃花 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/d4/Togawa_Nonoha_Portrait.png)<br>日语：十河ののは<br>所属社团:`nijisanji` |  |
 | flora sakutou | 芙萝拉·萨克多 | ![](https://static.wikia.nocookie.net/isekai-nonbiri-nouka-manga-wiki/images/7/77/Flora_Sakutou_Anime_Full.png)<br>日语：フローラ＝サクトゥ<br>出自作品:`isekai nonbiri nouka` |  |
 | lastismoon | 拉丝蒂丝姆 | ![](https://static.wikia.nocookie.net/isekai-nonbiri-nouka-manga-wiki/images/2/28/Lastismum_Anime_Full.png)<br>日语：ラスティスムー<br>出自作品:`isekai nonbiri nouka` |  |
-| typhoeus | 堤丰 | ![](https://endfield.wiki.gg/images/thumb/Typhoeus_Splash_Art.png/1280px-Typhoeus_Splash_Art.png?6d0283)<br>出自作品:`arknights endfield` |  |
+| typhoeus | 提弗洛斯 | ![](https://endfield.wiki.gg/images/thumb/Typhoeus_Splash_Art.png/1280px-Typhoeus_Splash_Art.png?6d0283)<br>出自作品:`arknights endfield` | [终末地 WIKI](https://www.fz.wiki/wiki/干员/提弗洛斯) |
 | lindverne sunbringer | 林德薇恩·挽昼 | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/5/50/NPC_Lindverne_Sunbringer.png)<br>出自作品:`zenless zone zero` |  |
 | finne von kleinert | 菲妮·冯·克莱纳特 | ![](https://static.wikia.nocookie.net/dull-prince/images/2/27/Finne_no_bg.png)<br>日语：フィーネ・フォン・クライネルト<br>出自作品:`saikyou degarashi ouji no anyaku teii arasoi` |  |
 | kyoka kitahara | 北原镜华 | ![](https://static.wikia.nocookie.net/maebashi-witches/images/4/4b/Kyoka_Kitahara_Design_3.png)<br>日语：北原キョウカ<br>出自作品:`maebashi witches` |  |
