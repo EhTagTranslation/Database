@@ -10625,6 +10625,7 @@ example:
 | jahy | 迦希大人 | ![](https://bkimg.cdn.bcebos.com/pic/0b7b02087bf40ad162d94bc8056306dfa9ec8a1360c2)<br>日语：ジャヒー様<br>出自作品:`jahy-sama wa kujikenai` |  |
 | shikanosuke uehara | 上原鹿之助 | ![](https://static.wikia.nocookie.net/taimanin/images/e/ef/Uehara_Shikanosuke_3.png)<br>出自作品:`taimanin rpg` |  |
 | chess belle | 琪丝·贝尔 | ![](https://static.wikia.nocookie.net/villains/images/7/7a/Chess_Belle_anime_render.webp)<br>日语：チェス・ベル<br>出自作品:`owari no seraph` |  |
+| clive rosfield | 克莱夫·罗兹菲尔德 | ![](https://bkimg.cdn.bcebos.com/pic/0df3d7ca7bcb0a46f21f1455eb35e1246b600c33011a)<br>出自作品:`final fantasy xvi` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
