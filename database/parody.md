@@ -2096,7 +2096,7 @@ example:
 | nanami to konomi no oshiete a-b-c | ななみとこのみのおしえてA・B・C | 属于`p:hajimete no orusuban`系列 | [维基百科（日语）](https://ja.wikipedia.org/wiki/ななみとこのみのおしえてA・B・C) [Bangumi](https://bgm.tv/subject/43962) |
 | hajimete no oishasan | はじめてのおいしゃさん | `p:hajimete no orusuban`续集 | [https://vndb.org/v1619](https://vndb.org/v1619) [维基百科（日语）](https://ja.wikipedia.org/wiki/はじめてのおいしゃさん) |
 | hajimete no otetsudai | はじめてのおてつだい | 属于`p:hajimete no orusuban`系列 | [https://vndb.org/v1618](https://vndb.org/v1618) [Bangumi](https://bgm.tv/subject/88300) |
-| otonari no tenshi-sama ni itsunomanika dame ningen ni sareteita ken | 关于我在无意间被隔壁的天使变成废柴这件事 |  | [维基百科](https://zh.wikipedia.org/wiki/關於我在無意間被隔壁的天使變成廢柴這件事) [萌娘百科](https://zh.moegirl.org.cn/关于我在无意间被隔壁的天使变成废柴这件事) |
+| otonari no tenshi-sama ni itsunomanika dame ningen ni sareteita ken | 关于我在无意间被隔壁的天使变成废柴这件事 | ![](https://lain.bgm.tv/r/400/pic/cover/l/37/d1/364822_y0BAy.jpg)<br>日语：お隣の天使様にいつの間にか駄目人間にされていた件 | [维基百科](https://zh.wikipedia.org/wiki/關於我在無意間被隔壁的天使變成廢柴這件事) [萌娘百科](https://zh.moegirl.org.cn/关于我在无意间被隔壁的天使变成废柴这件事) |
 | onii-chan wa oshimai | 别当欧尼酱了！ | 《别当欧尼酱了！》（日语：お兄ちゃんはおしまい！），简称《别酱了》（日语：おにまい），其他译名《不当哥哥了！》、《别当哥哥了！》<br>是由日本漫画家猫豆腐创作的同人性转喜剧漫画，作品最初在日本插画网站pixiv连载，更新时间一般是每月的最后一个周六，后niconico静画也同步更新。<br>2018年1月27日作者自费出版繁体中文电子版，也曾授权布卡漫画连载简体中文电子版，布卡漫画破产后改在哔哩哔哩漫画继续连载。<br>2018年6月27日起由一迅社出版商业化的单行本，2019年6月号开始在《月刊ComicREX》连载，截止2022年12月，商业版累计发行册数突破100万部。<br>改编电视动画于2023年1月5日开始播映，动画制作公司为Studio Bind。<br>![cover](https://img.moegirl.org.cn/common/2/28/别当欧尼酱了_同人本_二.png)![anime cover](https://img.moegirl.org.cn/common/7/7c/Onimai_KV.jpg) | [萌娘百科](https://zh.moegirl.org.cn/别当欧尼酱了！) |
 | shiki | 尸鬼 |  |  |
 | shikabane hime | 尸姬 |  |  |
