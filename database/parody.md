@@ -1675,7 +1675,7 @@ example:
 | emil chronicle online | 艾米尔编年史 | 官方译名	<br>港台：伊希欧之梦、埃米尔物语<br>大陆：艾米尔编年史<br><br>《艾米尔编年史》（日语：エミル・クロニクル・オンライン）是由Headlock、GungHo与Broccoli共同制作的大型多人在线角色扮演游戏（MMORPG），并有漫画、声优广播剧等衍生作品。 | [维基百科](https://zh.wikipedia.org/wiki/伊希歐之夢) [萌娘百科](https://zh.moegirl.org.cn/艾米尔编年史) |
 | megido 72 | 恶魔72 | 《恶魔72》（日语：メギド72，又译作“米吉多72”）是由DeNA开发并运营的电子角色扮演游戏，于2017年12月面向日本Android和iOS使用者推出。游戏讲述主人公所罗门利用传说戒指之力率领72柱恶魔，从孤岛危机“哈米吉多顿”的危机中拯救世界的故事。 | [Bangumi](https://bgm.tv/subject/286485) [维基百科](https://zh.wikipedia.org/wiki/惡魔72) |
 | umihara kawase | 海腹川背 | 《海腹川背》（umihara kawase）是一款1994年发布于SFC平台的横板过关游戏，女主角名字也叫海腹川背。该游戏后来移植到了DS、PS、NS平台。 | [百度百科](https://baike.baidu.com/item/海腹川背/4995214) [维基百科](https://ja.wikipedia.org/wiki/海腹川背) |
-| owari no seraph | 终结的炽天使 | 《终结的炽天使》（日语：終わりのセラフ;英语：Seraph of the End）是一部由日本作家镜贵也及漫画家山本大和所合作的漫画作品。自2012年起于《JUMP SQUARE》开始连载；电视动画则于2015年播出。作品分别有小说及漫画。 | [维基百科](https://zh.wikipedia.org/wiki/終結的熾天使) [萌娘百科](https://zh.moegirl.org.cn/终结的炽天使) (\*) |
+| owari no seraph | 终结的炽天使 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3c/bd/112151_qJg8v.jpg)<br>日语：終わりのセラフ | [维基百科](https://zh.wikipedia.org/wiki/終結的熾天使) [萌娘百科](https://zh.moegirl.org.cn/终结的炽天使) (\*) |
 | starless | STARLESS | 《STARLESS》是由日本成人游戏制作公司WillPlus旗下的Empress制作的成人游戏，在2011年5月27日发售。 | [维基百科](https://zh.wikipedia.org/wiki/STARLESS) |
 | smite | 神之浩劫 | 《神之浩劫》（英语：Smite），是由美国独立游戏开发商Hi-Rez Studios开发及发行的一款Windows平台下的多人在线战斗竞技场游戏，世界上7大文化宗教的神魔英雄为角色。 | [维基百科](https://zh.wikipedia.org/wiki/神之浩劫) |
 | takopii no genzai | 章鱼噼的原罪 | 《章鱼噼的原罪》（日语：タコピーの原罪）是日本漫画家タイザン5所创作的短篇漫画作品，于2021年12月10日至2022年3月25日在少年Jump+上连载，逢星期五更新。 | [维基百科](https://zh.wikipedia.org/wiki/章魚嗶的原罪) [myanimelist](https://myanimelist.net/manga/142600/Takopii_no_Genzai) |
