@@ -15895,6 +15895,7 @@ example:
 | daien | 大焔 |  | [pixiv](https://www.pixiv.net/users/22524122) \| [X](https://x.com/New_Daien418) \| [Skeb](https://skeb.jp/@New_Daien418) |
 | taki jawa | たきじゃわ |  | [pixiv](https://www.pixiv.net/users/94064861) \| [X](https://x.com/jawawa_taki) |
 | akipeko | あきぺこ | ![あきぺこ头像](https://pbs.twimg.com/profile_images/1874705049768857602/S9i6xcBQ_400x400.jpg) | [X](https://x.com/akipeko)<br>[pixiv](https://www.pixiv.net/users/65882780/artworks) |
+| makosho | まこしょ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
