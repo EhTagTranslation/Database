@@ -538,7 +538,7 @@ example:
 | pole dancing | 钢管舞 | 与一根垂直杆一起跳舞，用于色情目的。 |  |
 | sex toys | 性玩具 | 任何用于性目的的玩具。<br>![图](# "https://ehgt.org/8a/7e/8a7e0b42d4bf07933b7046199a7420e5f02fb795-599401-1059-1500-jpg_l.jpg") |  |
 | speculum | 扩张器 | 用于扩张诸如肛门或阴道等体腔的医疗装置。<br>![图](# "https://ehgt.org/5e/22/5e22062c47dd9112c63c996a5e1b79f25320c1f9-248686-579-819-jpg_l.jpg")![图](# "https://ehgt.org/19/70/19705183385b0ccba4f219aef6028c898534a64c-1070313-2124-3000-jpg_250.jpg")![图](# "https://ehgt.org/cb/90/cb90dd58fefb28fc15a653424e8ded29c26239ad-154666-800-600-jpg_l.jpg") |  |
-| strap-on | 穿戴式阳具 | 可以附着的阳具。很可能是`pegging`或`yuri`的环节。不应与`sex toys`混淆。 |  |
+| strap-on | 穿戴式阳具 | 可以附着的阳具。很可能是`pegging`或`yuri`的一部分。 |  |
 | syringe | 注射器 | 由管、柱塞和连接的针组成的工具。用于注射液体。常与`drugs`或`breast expansion`一起使用。 |  |
 | tail plug | 尾塞 | 任何尾部性玩具。需要`sex toys`和`anal`标签。 |  |
 | tube | 插管 | 插入口中的任何圆柱形管子，用于供给流体或营养物质。 |  |
