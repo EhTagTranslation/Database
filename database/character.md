@@ -10631,6 +10631,7 @@ example:
 | jezzi | 杰西 | ![](https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f790520215fb541bf3d7ca7bcb783b)<br>出自作品:`mobile suit gundam gquuuuuux` |  |
 | black rose dragon | 黑蔷薇龙 | 出自作品:`yu-gi-oh 5ds` |  |
 | dupin | 拉比耶尔 | ![](https://static.wikia.nocookie.net/palworld/images/7/79/Dupin.png)<br>出自作品:`palworld` |  |
+| mit3uri | 三理Mit3uri |  | [哔哩哔哩](https://space.bilibili.com/2030198123) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
