@@ -10647,6 +10647,7 @@ example:
 | hitoka yachi | 谷地仁花 | ![](https://ehgt.org/w/01/965/72168-48hg1xk3.webp)<br>出自作品:`haikyuu` |  |
 | senjumaru shutara | 修多罗千手丸 | ![](https://bkimg.cdn.bcebos.com/pic/8644ebf81a4c510fd9f951e9ce05322dd42a29340f89)<br>出自作品:`bleach` |  |
 | nika nanaura | 尼卡·七浦 | ![](https://bkimg.cdn.bcebos.com/pic/8cb1cb1349540923dd54af751d0fc609b3de9c82e33a)<br>出自作品:`mobile suit gundam the witch from mercury` |  |
+| chuatury panlunch | ‌雀丘利·潘兰杞 | ![](https://bkimg.cdn.bcebos.com/pic/960a304e251f95cad1c8b3864240683e6709c93df4fe)<br>出自作品:`mobile suit gundam the witch from mercury` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
