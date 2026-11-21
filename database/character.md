@@ -10637,6 +10637,7 @@ example:
 | i-36 | 伊-36 | ![](https://yksk.kancollewiki.net/images/6/6e/Ship_Card_I-36_Kai_Damaged.png)<br>出自作品:`kantai collection` |  |
 | rumi kang | 鲁米·康 | ![](https://lain.bgm.tv/r/400/pic/crt/l/89/66/209176_crt_k6kpR.jpg)<br>出自作品:`kpop demon hunters` |  |
 | abyssal lagiacrus | 冥海龙‌ | 出自作品:`monster hunter` |  |
+| meowstic | 超能妙喵 | 出自作品:`pokemon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
