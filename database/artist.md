@@ -15897,6 +15897,7 @@ example:
 | akipeko | あきぺこ | ![あきぺこ头像](https://pbs.twimg.com/profile_images/1874705049768857602/S9i6xcBQ_400x400.jpg) | [X](https://x.com/akipeko)<br>[pixiv](https://www.pixiv.net/users/65882780/artworks) |
 | makosho | まこしょ |  |  |
 | kota maru | こーた。 |  |  |
+| ishikawa hideyuki | 石川秀幸 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
