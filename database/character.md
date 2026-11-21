@@ -10638,6 +10638,7 @@ example:
 | rumi kang | 鲁米·康 | ![](https://lain.bgm.tv/r/400/pic/crt/l/89/66/209176_crt_k6kpR.jpg)<br>出自作品:`kpop demon hunters` |  |
 | abyssal lagiacrus | 冥海龙‌ | 出自作品:`monster hunter` |  |
 | meowstic | 超能妙喵 | 出自作品:`pokemon` |  |
+| mega meowstic | Mega超能妙喵 | 出自作品:`pokemon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
