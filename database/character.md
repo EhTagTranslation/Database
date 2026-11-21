@@ -10630,6 +10630,7 @@ example:
 | stygian zinogre | 狱狼龙 | ![](https://bkimg.cdn.bcebos.com/pic/a6efce1b9d16fdfaaf5198d9bfd29b5494eef01fcdcd)<br>出自作品:`monster hunter` |  |
 | jezzi | 杰西 | ![](https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f790520215fb541bf3d7ca7bcb783b)<br>出自作品:`mobile suit gundam gquuuuuux` |  |
 | black rose dragon | 黑蔷薇龙 | 出自作品:`yu-gi-oh 5ds` |  |
+| dupin | 拉比耶尔 | ![](https://static.wikia.nocookie.net/palworld/images/7/79/Dupin.png)<br>出自作品:`palworld` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
