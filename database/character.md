@@ -10635,6 +10635,7 @@ example:
 | tracey de santa | 崔西·迪圣塔 | 出自作品:`grand theft auto` |  |
 | nerona imu | 奈罗纳·伊姆圣 | ![](https://bkimg.cdn.bcebos.com/pic/b8014a90f603738da97716040d47a751f819861846da)<br>日语：ネロナ・イム聖<br>出自作品:`one piece` |  |
 | i-36 | 伊-36 | ![](https://yksk.kancollewiki.net/images/6/6e/Ship_Card_I-36_Kai_Damaged.png)<br>出自作品:`kantai collection` |  |
+| rumi kang | 鲁米·康 | ![](https://lain.bgm.tv/r/400/pic/crt/l/89/66/209176_crt_k6kpR.jpg)<br>出自作品:`kpop demon hunters` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
