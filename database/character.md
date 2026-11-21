@@ -5240,7 +5240,7 @@ example:
 | leonora nakiri | 薙切蕾欧诺拉 | ![](https://static.wikia.nocookie.net/shokugekinosoma/images/a/a7/Leonora_Nakiri.png)<br>所属作品：`shokugeki no soma`<br>日文：薙切レオノーラ |  |
 | ibuki tanga | 丹花伊吹 | ![](https://static.wikia.nocookie.net/blue-archive/images/c/ce/Ibuki_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/丹花伊吹) |
 | shinobu kudo | 工藤忍 | ![](https://patchwiki.biligame.com/images/imascg/thumb/f/f1/ehfviwtlf5pxd3hrkhpkajte0tcmwyr.png/960px-CGSS-Shinobu-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
-| gwen | 格温（灵罗娃娃） | 所属作品：`league of legends`<br>![](https://ehgt.org/w/01/942/96922-ev84ses5.webp) |  |
+| gwen | 格温（灵罗娃娃） | ![](https://bkimg.cdn.bcebos.com/pic/caef76094b36acaf2edd7f01fd899a1001e9380136b7)<br>所属作品：`league of legends` |  |
 | princess bubblegum | 泡泡糖公主 |  | [维基百科](https://zh.wikipedia.org/wiki/泡泡糖公主) |
 | plume | 翎羽 | ![](https://patchwiki.biligame.com/images/arknights/6/67/7ukxywn197qwschcvw1dxyje2askzj2.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/翎羽) |
 | catapult | 空爆 | ![](https://patchwiki.biligame.com/images/arknights/7/78/k85gb6yi1jna21d0p7whxz5vvnqojt4.png)<br>所属作品`p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/空爆) |
