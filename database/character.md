@@ -10641,6 +10641,7 @@ example:
 | mega meowstic | Mega超能妙喵 | 出自作品:`pokemon` |  |
 | karen myouraku | 明乐可怜 | ![](https://static.wikia.nocookie.net/blue-archive/images/9/9d/Karen_Portrait.png)<br>出自作品:`blue archive` |  |
 | tsubasa hanemoto | 羽咋翼 | ![](https://static.wikia.nocookie.net/blue-archive/images/f/f3/Tsubasa_Portrait.png)<br>出自作品:`blue archive` |  |
+| bennington | 本宁顿 | ![](https://azurlane.netojuu.com/images/thumb/6/67/BenningtonWithoutBG.png/1900px-BenningtonWithoutBG.png)<br>出自作品:`azur lane` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
