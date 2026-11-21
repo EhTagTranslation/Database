@@ -3072,6 +3072,7 @@ example:
 | fire emblem fortunes weave | 火焰之纹章 万紫千红 | ![](https://lain.bgm.tv/r/400/pic/cover/l/be/f5/584745_kXXxA.jpg)<br>别译：火焰之纹章 万缕千丝 |  |
 | robokko beaton | 百宝星君 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b9/ee/107441_wWUiP.jpg)<br>日语：ろぼっ子ビートン |  |
 | yadamon | 小讨厌 | ![](https://lain.bgm.tv/r/400/pic/cover/l/69/c4/10561_A2gGI.jpg)<br>日语：ヤダモン |  |
+| ninja to gokudou | 忍者与极道 | ![](https://lain.bgm.tv/r/400/pic/cover/l/aa/68/539341_Vp64n.jpg)<br>日语：忍者と極道 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
