@@ -10632,6 +10632,7 @@ example:
 | black rose dragon | 黑蔷薇龙 | 出自作品:`yu-gi-oh 5ds` |  |
 | dupin | 拉比耶尔 | ![](https://static.wikia.nocookie.net/palworld/images/7/79/Dupin.png)<br>出自作品:`palworld` |  |
 | mit3uri | 三理Mit3uri |  | [哔哩哔哩](https://space.bilibili.com/2030198123) |
+| tracey de santa | 崔西·迪圣塔 | 出自作品:`grand theft auto` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
