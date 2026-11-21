@@ -10629,6 +10629,7 @@ example:
 | kanaut nishe | 银海渡尼采 | ![](https://pbs.twimg.com/profile_images/1928838265794342916/DFVHg7H1_200x200.jpg)<br>画师鹈饲沙树的虚拟形象<br>日语：銀海渡ニシェ/鵜飼沙樹 | [X](https://x.com/ukaisaki) |
 | stygian zinogre | 狱狼龙 | ![](https://bkimg.cdn.bcebos.com/pic/a6efce1b9d16fdfaaf5198d9bfd29b5494eef01fcdcd)<br>出自作品:`monster hunter` |  |
 | jezzi | 杰西 | ![](https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f790520215fb541bf3d7ca7bcb783b)<br>出自作品:`mobile suit gundam gquuuuuux` |  |
+| black rose dragon | 黑蔷薇龙 | 出自作品:`yu-gi-oh 5ds` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
