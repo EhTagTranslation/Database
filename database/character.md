@@ -10651,6 +10651,7 @@ example:
 | nareko michigami | 道神驯子 | ![](https://static.wikia.nocookie.net/burngoberrietvseries/images/5/5c/Michigami_nareko_touhou_drawn_by_dairi_fae6e1448e45140affb2c71686917cb4.png)<br>出自作品:`touhou project` |  |
 | linna yamazaki | 山崎莉娜 | 出自作品:`bubblegum crisis` |  |
 | iseria | 伊赛丽亚 | ![](https://static.wikia.nocookie.net/epic-seven/images/5/58/Iseria_su.png)<br>出自作品:`epic seven` |  |
+| maron | 玛伦 | ![](https://ehgt.org/w/02/588/66074-vbk0dhpb.webp)<br>日语：マロン<br>出自作品:`dragon ball z` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
