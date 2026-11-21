@@ -4320,7 +4320,7 @@ example:
 | zeraora | 捷拉奥拉 | ![](https://s1.52poke.com/wiki/thumb/a/a7/807Zeraora.png/300px-807Zeraora.png)<br>所属作品：`pokemon` | [神奇宝贝百科](https://wiki.52poke.com/wiki/捷拉奥拉) |
 | iono | 奇树 | ![](https://img.moegirl.org.cn/common/6/6f/Iono.png)<br>所属作品:`p:pokemon`<br>日文︰ナンジャモ | [萌娘百科](https://zh.moegirl.org.cn/奇树) |
 | maho himemiya | 姬宫真步 | ![](https://patchwiki.biligame.com/images/pcr/thumb/7/7a/3aqzjj6o4ksqo3mp5p4t33hars34lsh.png/409px-真步.png)<br>所属作品：`princess connect`<br>外号咕噜灵波。 | [BILIGAME WIKI](https://wiki.biligame.com/pcr/真步) |
-| ahri | 阿狸（九尾妖狐） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/9/91/juh2d2gmf8urksg7486c3ngwbulpq1s.jpg)<br>![](https://patchwiki.biligame.com/images/lol/f/fc/1jsfnots1ju8ixbhwmy7t8kqsst4sm7.jpg)<br>星之守护者皮肤 | [萌娘百科](https://zh.moegirl.org.cn/阿狸%28英雄联盟%29#) |
+| ahri | 阿狸（九尾妖狐） | ![](https://patchwiki.biligame.com/images/lol/9/91/juh2d2gmf8urksg7486c3ngwbulpq1s.jpg)<br>![星之守护者皮肤](https://patchwiki.biligame.com/images/lol/f/fc/1jsfnots1ju8ixbhwmy7t8kqsst4sm7.jpg)<br>所属作品：`league of legends` | [萌娘百科](https://zh.moegirl.org.cn/阿狸%28英雄联盟%29#) |
 | lillia | 莉莉娅（含羞蓓蕾） | 所属作品：`league of legends`<br>![](https://wiki.leagueoflegends.com/en-us/images/Lillia_OriginalSkin.jpg?ababd) |  |
 | thresh | 锤石（魂锁典狱长） | ![](https://static.wikia.nocookie.net/doblaje/images/5/56/Thresh.jpg)<br>出自作品:`league of legends` |  |
 | sophia nishikinomiya | 苏菲亚·锦之宫 | `anna nishikinomiya`的母亲，时冈学园家长会会长。 |  |
