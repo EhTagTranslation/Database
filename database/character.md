@@ -10626,6 +10626,7 @@ example:
 | shikanosuke uehara | 上原鹿之助 | ![](https://static.wikia.nocookie.net/taimanin/images/e/ef/Uehara_Shikanosuke_3.png)<br>出自作品:`taimanin rpg` |  |
 | chess belle | 琪丝·贝尔 | ![](https://static.wikia.nocookie.net/villains/images/7/7a/Chess_Belle_anime_render.webp)<br>日语：チェス・ベル<br>出自作品:`owari no seraph` |  |
 | clive rosfield | 克莱夫·罗兹菲尔德 | ![](https://bkimg.cdn.bcebos.com/pic/0df3d7ca7bcb0a46f21f1455eb35e1246b600c33011a)<br>出自作品:`final fantasy xvi` |  |
+| kanaut nishe | 银海渡尼采 | ![](https://pbs.twimg.com/profile_images/1928838265794342916/DFVHg7H1_200x200.jpg)<br>画师鹈饲沙树的虚拟形象<br>日语：銀海渡ニシェ/鵜飼沙樹 | [X](https://x.com/ukaisaki) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
