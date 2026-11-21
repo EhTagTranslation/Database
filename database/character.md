@@ -10645,6 +10645,7 @@ example:
 | flasher | 松鲷 | ![](https://azurlane.netojuu.com/images/thumb/2/2b/FlasherMaidWithoutBG.png/501px-FlasherMaidWithoutBG.png)<br>出自作品:`azur lane` |  |
 | jarnbaroinn | 铁角号 | ![](https://azurlane.netojuu.com/images/thumb/d/d2/JárnbarðinnWithoutBG.png/1228px-JárnbarðinnWithoutBG.png)<br>出自作品:`azur lane` |  |
 | hitoka yachi | 谷地仁花 | ![](https://ehgt.org/w/01/965/72168-48hg1xk3.webp)<br>出自作品:`haikyuu` |  |
+| senjumaru shutara | 修多罗千手丸 | ![](https://bkimg.cdn.bcebos.com/pic/8644ebf81a4c510fd9f951e9ce05322dd42a29340f89)<br>出自作品:`bleach` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
