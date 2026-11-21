@@ -10649,6 +10649,7 @@ example:
 | nika nanaura | 尼卡·七浦 | ![](https://bkimg.cdn.bcebos.com/pic/8cb1cb1349540923dd54af751d0fc609b3de9c82e33a)<br>出自作品:`mobile suit gundam the witch from mercury` |  |
 | chuatury panlunch | ‌雀丘利·潘兰杞 | ![](https://bkimg.cdn.bcebos.com/pic/960a304e251f95cad1c8b3864240683e6709c93df4fe)<br>出自作品:`mobile suit gundam the witch from mercury` |  |
 | nareko michigami | 道神驯子 | ![](https://static.wikia.nocookie.net/burngoberrietvseries/images/5/5c/Michigami_nareko_touhou_drawn_by_dairi_fae6e1448e45140affb2c71686917cb4.png)<br>出自作品:`touhou project` |  |
+| linna yamazaki | 山崎莉娜 | 出自作品:`bubblegum crisis` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
