@@ -3861,7 +3861,7 @@ example:
 | loid forger | 劳埃德·福杰 | ![](https://static.wikia.nocookie.net/spy-x-family9171/images/9/9c/Loid_Forger_Colored_Full_Body.png)<br>所属作品：`spy x family`<br>西人民共和国的一名间谍，代号黄昏。 | [维基百科](https://zh.wikipedia.org/wiki/SPY×FAMILY間諜家家酒) |
 | anna yamada | 山田杏奈 | ![](https://ehgt.org/w/02/236/92484-sv7kiwr6.webp)<br>所属作品 `p:boku no kokoro no yabai yatsu` |  |
 | kyoutarou ichikawa | 市川京太郎 | 所属作品 `p:boku no kokoro no yabai yatsu` |  |
-| pramanix | 初雪 (明日方舟) | ![](https://patchwiki.biligame.com/images/arknights/7/72/f6cnedmrg2wji26n88u8cyx4hmmbs73.png)<br>所属作品`p:arknights` | [gamepress](https://gamepress.gg/arknights/operator/pramanix) [萌娘百科](https://zh.moegirl.org.cn/明日方舟:初雪) |
+| pramanix | 初雪 | ![](https://patchwiki.biligame.com/images/arknights/7/72/f6cnedmrg2wji26n88u8cyx4hmmbs73.png)<br>所属作品`p:arknights` | [gamepress](https://gamepress.gg/arknights/operator/pramanix) [萌娘百科](https://zh.moegirl.org.cn/明日方舟:初雪) |
 | medaka kurokami | 黑神目泷 | ![](https://ehgt.org/w/01/916/21225-v4fhynyr.webp)<br>所属作品：`medaka box` |  |
 | miss crane | 鹤小姐 |  |  |
 | mordred | 莫德雷德 |  |  |
