@@ -6213,7 +6213,7 @@ example:
 | officer jenny | 君莎小姐 | ![](https://archives.bulbagarden.net/media/upload/thumb/b/bb/Officer_Jenny_JN.png/375px-Officer_Jenny_JN.png)<br>日语︰ジュンサー<br>所属作品：`pokemon` |  |
 | james | 小次郎 |  |  |
 | jessie | 武藏 | ![](https://s1.52poke.com/wiki/thumb/a/a9/武藏_SS.png/220px-武藏_SS.png)<br>所属作品：`pokemon`<br>日文︰ムサシ |  |
-| varesa | 瓦雷莎 | ![](https://patchwiki.biligame.com/images/ys/7/75/jmvo9mzwnbjspgq506kqg496bd6pyd8.gif)<br><br>所属作品：`genshin impact`<br>悠悠哉哉，无比松弛的「沃陆之邦」战士兼果园主，喜欢充满力量的英雄，还有巨量美食！ | [萌娘百科](https://zh.moegirl.org.cn/瓦雷莎)<br>[BILIGAME WIKI](https://wiki.biligame.com/ys/瓦雷莎) |
+| varesa | 瓦雷莎 | ![](https://patchwiki.biligame.com/images/ys/7/75/jmvo9mzwnbjspgq506kqg496bd6pyd8.gif)<br>所属作品：`genshin impact` | [萌娘百科](https://zh.moegirl.org.cn/瓦雷莎)<br>[BILIGAME WIKI](https://wiki.biligame.com/ys/瓦雷莎) |
 | land | 兰托 | ![](https://img.moegirl.org.cn/common/thumb/1/15/Frieren_anime_兰托.png/280px-Frieren_anime_兰托.png)<br>日语：ラント<br>出自作品:`sousou no frieren` | [萌娘百科](https://zh.moegirl.org.cn/兰托) |
 | iselda | 伊塞尔达 |  |  |
 | iansan | 伊安珊 | ![](https://patchwiki.biligame.com/images/ys/b/be/sriygawkmkmmf3jcj94tsdqd7po56vx.gif)<br><br>所属作品：`genshin impact`<br>沃陆之邦健身俱乐部的总教练，闻名纳塔的营养师。 | [萌娘百科](https://zh.moegirl.org.cn/伊安珊) |
