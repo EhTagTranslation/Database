@@ -1126,7 +1126,7 @@ example:
 | riko saikawa | 才川莉子 |  |  |
 | elma | 艾尔玛 | ![](https://static.wikia.nocookie.net/maid-dragon/images/1/16/Elmainfo.png)<br>所属作品：`kobayashi-san-chi no maid dragon` |  |
 |  | ▼ 星期一的丰满 角色 |  |  |
-| ai-chan | 小爱 | ![](https://ehgt.org/w/01/115/24435-olqdqcdq.webp)<br>出自作品：`p:getsuyoubi no tawawa`<br><br>小爱是由`a:himura kiseki`所创作的漫画《星期一的丰满》及其衍生作品的登场角色。<br><br>胸部原本是I罩杯，最近向大人的阶梯迈进一步，升级为J罩杯了。<br>在最新的更新中已经升级为K，胸围达到1m。 | [萌娘百科](https://zh.moegirl.org.cn/小爱%28星期一的丰满%29) |
+| ai-chan | 小爱 | ![](https://bkimg.cdn.bcebos.com/pic/8ad4b31c8701a18b87d6b2d0f878100828381e3050ae)<br>出自作品：`p:getsuyoubi no tawawa` | [萌娘百科](https://zh.moegirl.org.cn/小爱%28星期一的丰满%29) |
 | kouhai-chan | 后辈酱 | ![](https://ehgt.org/w/02/105/93928-gsw8wow2.webp)<br>所属作品：`getsuyoubi no tawawa`<br>日语：後輩ちゃん |  |
 |  | ▼ 变态王子与不笑猫 角色 |  |  |
 | azusa azuki | 小豆梓 |  |  |
