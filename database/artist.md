@@ -15901,6 +15901,7 @@ example:
 | shigureni | とりのしぐれに | ![とりのしぐれに头像](https://i.pixiv.cat/user-profile/img/2026/03/31/12/43/00/28701507_a1e07158d9c64784e95983611279ff0a_170.jpg) | [X](https://x.com/celestial417)<br>[pixiv](https://www.pixiv.net/users/23849702) |
 | vchan | Vchan |  | [画师作品网站](https://vchan3d.com) |
 | pen | pen姉 |  | [pixiv](https://www.pixiv.net/users/111917024) \| [X](https://x.com/pensis_x) |
+| satou teigi | 佐藤ていぎ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
