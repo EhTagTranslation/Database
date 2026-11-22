@@ -10665,6 +10665,7 @@ example:
 | rie nishina | 仁科理惠 | ![](https://lain.bgm.tv/r/400/pic/crt/l/0c/29/1017_crt_Iaal0.jpg)<br>日语：仁科りえ<br>出自作品:`clannad` |  |
 | sugisaka | 杉坂 | ![](https://lain.bgm.tv/r/400/pic/crt/l/cb/60/10328_crt_8cmJJ.jpg?r=1465128383)<br>出自作品:`clannad` |  |
 | entelechia | 隐德来希 | ![](https://bkimg.cdn.bcebos.com/pic/0df431adcbef76094b3614018d84b4cc7cd98c1030a1)<br>出自作品:`arknights` |  |
+| mochiko kogane | 小金萌智子 | ![](https://static.wikia.nocookie.net/fxkurumi/images/f/fa/Main_mochiko.png)<br>出自作品:`fx senshi kurumi-chan` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
