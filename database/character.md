@@ -1138,7 +1138,7 @@ example:
 |  | ▼ CLANNAD 角色 |  |  |
 | tomoya okazaki | 冈崎朋也 | ![](https://static.wikia.nocookie.net/c__/images/5/54/Tomoya_Okazaki.png)<br>出自作品:`clannad` |  |
 | fuko ibuki | 伊吹风子 |  |  |
-| kotomi ichinose | 一之濑琴美 |  |  |
+| kotomi ichinose | 一之濑琴美 | ![](https://static.wikia.nocookie.net/c__/images/3/33/Kotomi_Ichinose.png)<br>出自作品:`clannad` |  |
 | ryou fujibayashi | 藤林椋 | ![](https://static.wikia.nocookie.net/c__/images/9/9a/Fujibayashi_ryo.png)<br>出自作品:`clannad` |  |
 | kyou fujibayashi | 藤林杏 | ![](https://static.wikia.nocookie.net/umineko/images/b/b2/Kyou_smile_open.png)<br>出自作品:`clannad` |  |
 | nagisa furukawa | 古河渚 | ![](https://static.wikia.nocookie.net/umineko/images/c/cb/Nagisa_mei_%282%29.png)<br>出自作品:`clannad` |  |
