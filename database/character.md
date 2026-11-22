@@ -10657,6 +10657,7 @@ example:
 | senri ayumu | 千凛步 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/3/34/Senri_Ayumu_Full_Body.png)<br>日语：千凛あゆむ<br>所属社团:`nijisanji` |  |
 | urara haruhina | 春雏丽 | ![](https://static.wikitide.net/alicesoftwiki/thumb/f/fb/BWEH-Urara_Haruhina.png/188px-BWEH-Urara_Haruhina.png)<br>日语：エスカ・トパーズ<br>出自作品:`beat blades haruka` |  |
 | haine ichimiya | 一宫灰音 | ![](https://static.wikia.nocookie.net/summer-time-rendering/images/6/63/Heine.png)<br>日语：ハイネ<br>出自作品:`beat blades haruka` |  |
+| shirika gokokuin | 希莉卡·护国院 | ![](https://static.wikitide.net/alicesoftwiki/5/5f/BWEH-Shirika_the_Light.png)<br>日语：シリカ・ゴコクイン<br>出自作品:`beat blades haruka` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
