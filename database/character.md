@@ -5219,7 +5219,7 @@ example:
 | shion karanomori | 唐之杜志恩 | CV：泽城美雪<br>安全局刑事课综合分析室的分析官。<br>利用各种各样的情报分析数据来支援并辅佐执行官、监视官们的搜查行动，曾被狡啮慎也称为“情报女神”。<br>是一位健谈的魔鬼身材美女，同时自己也是一名潜在犯。<br>与六合冢弥生是一对女同恋人。<br>![](https://cdn.suruga-ya.com/database/pics_light/game/gl836198.jpg) |  |
 | sagiri yamada asaemon | 山田浅卫门佐切 | ![](https://static.wikia.nocookie.net/jigokuraku/images/c/c9/Grand_Summoners_Sagiri.png)<br>所属作品：`jigokuraku` |  |
 | garan no gabimaru | 画眉丸 | ![](https://static.wikia.nocookie.net/jigokuraku/images/a/a5/Gabimaru_Anime_Concept_Art.png)<br>所属作品：`jigokuraku` | [Fandom](https://jigokuraku.fandom.com/wiki/Gabimaru) |
-| azki | AZKi | ![](https://ehgt.org/w/01/951/78628-iq53g476.webp)<br>所属团体：`hololive` |  |
+| azki | AZKi | ![](https://bkimg.cdn.bcebos.com/pic/b2de9c82d158ccbf6c81c2545781ab3eb13533faeb1e)<br>所属团体：`hololive` |  |
 | jade chan | 小玉 | 《成龙历险记》中的小玉 | [Fandom](https://hero.fandom.com/wiki/Jade_Chan) |
 | alex power | 亚历山大·鲍尔 |  |  |
 | jack power | 杰克·鲍尔 |  |  |
