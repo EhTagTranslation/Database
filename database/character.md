@@ -10652,6 +10652,7 @@ example:
 | linna yamazaki | 山崎莉娜 | 出自作品:`bubblegum crisis` |  |
 | iseria | 伊赛丽亚 | ![](https://static.wikia.nocookie.net/epic-seven/images/5/58/Iseria_su.png)<br>出自作品:`epic seven` |  |
 | maron | 玛伦 | ![](https://ehgt.org/w/02/588/66074-vbk0dhpb.webp)<br>日语：マロン<br>出自作品:`dragon ball z` |  |
+| sorashina sopia | 宙科索菲亚 | ![](https://hololive.hololivepro.com/wp-content/uploads/2023/09/bg_Sorashina-Sopia_01.webp)<br>日语：宙科そぴあ<br>所属团体:`hololive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
