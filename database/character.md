@@ -10654,6 +10654,7 @@ example:
 | maron | 玛伦 | ![](https://ehgt.org/w/02/588/66074-vbk0dhpb.webp)<br>日语：マロン<br>出自作品:`dragon ball z` |  |
 | sorashina sopia | 宙科索菲亚 | ![](https://hololive.hololivepro.com/wp-content/uploads/2023/09/bg_Sorashina-Sopia_01.webp)<br>日语：宙科そぴあ<br>所属团体:`hololive` |  |
 | bloody queen | 贝拉夫人 | ![](https://bkimg.cdn.bcebos.com/smart/0823dd54564e9258d109011145cbc658ccbf6d81e0b0-bkimg-process,v_1,rw_189,rh_267,maxl_534)<br>出自作品:`identity v` |  |
+| senri ayumu | 千凛步 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/3/34/Senri_Ayumu_Full_Body.png)<br>日语：千凛あゆむ<br>所属社团:`nijisanji` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
