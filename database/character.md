@@ -1701,7 +1701,7 @@ example:
 | saber tiger | 剑齿虎 |  |  |
 | japanese crested ibis | 朱鹮 |  |  |
 |  | ▼ 缘之空 |  |  |
-| sora kasugano | 春日野穹 | 《缘之空》中登场的女性角色。 |  |
+| sora kasugano | 春日野穹 | ![](https://static.wikia.nocookie.net/all-worlds-alliance/images/8/8c/Sora_Kasugano_Render.png)<br>出自作品:`yosuga no sora` |  |
 | haruka kasugano | 春日野悠 |  |  |
 |  | ▼ 电锯甜心 |  |  |
 | juliet starling | 朱丽叶·斯塔林 |  |  |
