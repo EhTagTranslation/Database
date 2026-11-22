@@ -1144,7 +1144,7 @@ example:
 | nagisa furukawa | 古河渚 | ![](https://static.wikia.nocookie.net/umineko/images/c/cb/Nagisa_mei_%282%29.png)<br>出自作品:`clannad` |  |
 | tomoyo sakagami | 坂上智代 | ![](https://static.wikia.nocookie.net/umineko/images/6/6d/Tomoyo_mei_%282%29.png)<br>出自作品:`clannad` |  |
 | yukine miyazawa | 宫泽有纪宁 |  |  |
-| mei sunohara | 春原芽衣 |  |  |
+| mei sunohara | 春原芽衣 | ![](https://static.wikia.nocookie.net/c__/images/c/c0/Sunohara_mei.png)<br>出自作品:`clannad` |  |
 | youhei sunohara | 春原阳平 |  |  |
 | misae sagara | 相乐美佐枝 |  |  |
 | sanae furukawa | 古河早苗 | ![](https://static.wikia.nocookie.net/mudae/images/0/01/SanaeFurukawa_3.png)<br>出自作品:`clannad` |  |
