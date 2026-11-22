@@ -5706,7 +5706,7 @@ example:
 | manticore | 狮蝎 | ![](https://patchwiki.biligame.com/images/arknights/d/dc/7urao9pg3puittts6yqagfqajtipwfx.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/狮蝎](https://prts.wiki/w/狮蝎) |
 | mogador | 莫加多尔 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/4/48/fgr1rdjw1akjva4dcr1g04xfoto4nbc.jpg/525px-莫加多尔立绘.jpg) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:莫加多尔) |
 | kinich | 基尼奇 |  | [BILIGAME WIKI](https://wiki.biligame.com/ys/基尼奇) |
-| xilonen | 希诺宁 | ![](https://patchwiki.biligame.com/images/ys/4/4c/0o7jza7x470ab84h3l1nb8nu84vfrz7.gif)<br><br>所属作品：`genshin impact`<br>纳茨卡延的铸名师，善于在工作的重担与舒适的生活之间找到平衡点。 | [萌娘百科](https://zh.moegirl.org.cn/希诺宁) |
+| xilonen | 希诺宁 | ![](https://patchwiki.biligame.com/images/ys/4/4c/0o7jza7x470ab84h3l1nb8nu84vfrz7.gif)<br>所属作品：`genshin impact` | [萌娘百科](https://zh.moegirl.org.cn/希诺宁) |
 | citlali | 茜特菈莉 | ![](https://patchwiki.biligame.com/images/ys/9/98/ni7bu65xsu73rq8cujuccynsuk3qjeq.gif)<br><br>所属作品: `genshin impact` | [萌娘百科](https://zh.moegirl.org.cn/茜特菈莉)<br>[BILIGAME WIKI](https://wiki.biligame.com/ys/茜特菈莉) |
 | neo universe | 新宇宙 | ![](https://static.wikia.nocookie.net/umamusume/images/d/da/Neo_Universe_%28Race%29.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹ネオユニヴァース（Neo Universe）。 | [萌娘百科](https://zh.moegirl.org.cn/新宇宙%28赛马娘_Pretty_Derby%29#) |
 | koleda belobog | 珂蕾妲·贝洛伯格 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/07/29/76099754/327186c5a35f01f64c3f987af5c10823_3042825403141923601.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/珂蕾妲·贝洛伯格) |
