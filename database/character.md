@@ -10661,6 +10661,7 @@ example:
 | mahiru shirota | 城田真昼 | ![](https://bkimg.cdn.bcebos.com/pic/a8773912b31bb051fdbd78e8317adab44bede051)<br>出自作品:`servamp` |  |
 | sleepy ash | 小黑 | ![](https://bkimg.cdn.bcebos.com/pic/902397dda144ad343e0f4d47d7a20cf430ad85ba)<br>出自作品:`servamp` |  |
 | marguerite breuil | 玛格丽特·布雷伊 | ![](https://static.wikia.nocookie.net/shinzabansho/images/8/8c/Marie_%28Pantheon%29.png)<br>出自作品:`dies irae` |  |
+| akio furukawa | 古河秋生 | ![](https://static.wikia.nocookie.net/c__/images/a/a2/Furukawa_akio.png)<br>出自作品:`clannad` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
