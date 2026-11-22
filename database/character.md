@@ -1136,7 +1136,7 @@ example:
 | mai maimaki | 舞牧麻衣 |  |  |
 | emanuella porlallora | 艾米（艾玛努艾勒·波鲁勒劳拉） |  |  |
 |  | ▼ CLANNAD 角色 |  |  |
-| tomoya okazaki | 冈崎朋也 |  |  |
+| tomoya okazaki | 冈崎朋也 | ![](https://static.wikia.nocookie.net/c__/images/5/54/Tomoya_Okazaki.png)<br>出自作品:`clannad` |  |
 | fuko ibuki | 伊吹风子 |  |  |
 | kotomi ichinose | 一之濑琴美 |  |  |
 | ryou fujibayashi | 藤林椋 |  |  |
