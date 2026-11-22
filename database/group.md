@@ -84,7 +84,7 @@ example:
 | abhar | ABHAR |  |  |
 | abhar tronc | ABHAR Tronc |  |  |
 | incarose | インカローズ | ![](http://incarose-soft.com/image/incarose1.png) | [官方网站](http://incarose-soft.com) |
-| nutaku | Nutaku |  |  |
+| nutaku | Nutaku | ![](https://www.nutaku.net/images/nutaku-logo-text.svg?t=0917b1f0)<br>成人游戏网站 | [官网](https://www.nutaku.net/zh/) |
 | etude | etude | エチュード |  |
 | eufonie | eufonie | etude 的姐妹品牌 |  |
 | eushully | Eushully | 日语：エウシュリー<br>日本专注于开发RPG、SLG类游戏的厂商 | [官网](https://www.eukleia.co.jp/eushully/) |
