@@ -3739,7 +3739,7 @@ example:
 | izuku midoriya | 绿谷出久 | ![](https://static.wikia.nocookie.net/bokunoheroacademia/images/2/2b/Izuku_Midoriya_Costume_Databook.png)<br>出自作品：`p:my hero academia`<br><br>绿谷出久（日语：緑谷出久 / みどりやいず）是堀越耕平所创作的漫画《我的英雄学院》及其衍生作品的主人公。 | [萌娘百科](https://zh.moegirl.org.cn/绿谷出久) \| [Fandom](https://myheroacademia.fandom.com/wiki/Izuku_Midoriya) |
 | mitsuki bakugou | 爆豪光己 | 爆豪光己(火爆猴的母亲)<br>啊嘿颜式眼睛+爆乳+假小子式短发<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/b/b7/Mitsuki_Bakugo.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/0/02/Bakugo_family_approves.png) |  |
 | prushka | 普鲁修卡 |  |  |
-| hakui koyori | 博衣小夜璃 | 博衣小夜璃（日语：博衣こより／はくい こより）是一名于2021年11月26日开始活动的VTuber，所属日本业界团体hololive－『秘密结社holoX』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/博衣小夜璃) |
+| hakui koyori | 博衣小夜璃 | ![](https://hololive.hololivepro.com/wp-content/uploads/2020/07/Hakui-Koyori_pr-img_01.webp)<br>日语：博衣こより／はくい こより<br>所属团体：`hololive` | [萌娘百科](https://zh.moegirl.org.cn/博衣小夜璃) |
 | satoko houjou | 北条沙都子 |  | [萌娘百科](https://zh.moegirl.org.cn/北条沙都子) |
 | siesta | 谢丝塔 | ![](https://static.wikia.nocookie.net/the-detective-is-already-dead/images/9/94/Siesta_Anime_2.png)<br>日语：シエスタ<br>出自作品:`tantei wa mou shindeiru.` | [萌娘百科](https://zh.moegirl.org.cn/谢丝塔) |
 | rebecca bluegarden | 蕾贝卡·布鲁加甸 | 蕾贝卡·布鲁加甸是日本漫画家真岛浩创作之漫画《伊甸星原》及其衍生作品的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/蕾贝卡·布鲁加甸) |
