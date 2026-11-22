@@ -10663,6 +10663,7 @@ example:
 | marguerite breuil | 玛格丽特·布雷伊 | ![](https://static.wikia.nocookie.net/shinzabansho/images/8/8c/Marie_%28Pantheon%29.png)<br>出自作品:`dies irae` |  |
 | akio furukawa | 古河秋生 | ![](https://static.wikia.nocookie.net/c__/images/a/a2/Furukawa_akio.png)<br>出自作品:`clannad` |  |
 | rie nishina | 仁科理惠 | ![](https://lain.bgm.tv/r/400/pic/crt/l/0c/29/1017_crt_Iaal0.jpg)<br>日语：仁科りえ<br>出自作品:`clannad` |  |
+| sugisaka | 杉坂 | ![](https://lain.bgm.tv/r/400/pic/crt/l/cb/60/10328_crt_8cmJJ.jpg?r=1465128383)<br>出自作品:`clannad` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
