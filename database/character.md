@@ -7725,7 +7725,7 @@ example:
 | mei yoneme | 米女芽衣 | ![](https://storage.moegirl.org.cn/moegirl/commons/8/8b/米女芽衣_立绘.png)<br>所属作品: `p:love live superstar`<br>结丘女子高等学校学生，学园偶像组合Liella!成员。是2022年4月28日新公布加入Liella!的四名二期生成员之一，从生日推算是二期生成员中最小的。 | [萌娘百科](https://zh.moegirl.org.cn/米女芽衣)<br>[Fandom](https://love-live.fandom.com/wiki/Mei_Yoneme) |
 | cure friendly | 犬饲彩羽 (友好天使) | ![](https://static.wikia.nocookie.net/prettycure/images/1/10/Cure_Friendy_Iroha_Profile.png/revision/latest?cb=20240107125354)<br>所属作品：`wonderful precure` | [Fandom](https://prettycure.fandom.com/wiki/Inukai_Iroha) |
 | cure wonderful | 犬饲小麦 (奇迹天使) | ![](https://static.wikia.nocookie.net/prettycure/images/8/8b/Komugi_Cure_Wonderful_Profile.png/revision/latest?cb=20240107124417)<br>所属作品：`wonderful precure`<br>犬饲彩羽的宠物狗，其变身形态为“奇迹天使”（Cure Wonderful‌）。 | [萌娘百科](https://zh.moegirl.org.cn/犬饲小麦)<br>[Fandom](https://prettycure.fandom.com/wiki/Inukai_Komugi) |
-| chasca | 恰斯卡 | ![](https://patchwiki.biligame.com/images/ys/5/54/jvf6yx7ksu9di76207qhj4dhhqyen1g.gif)<br>所属作品：`genshin impact`<br>特拉洛坎的「调停人」，万千争端的终结者。 |  |
+| chasca | 恰斯卡 | ![](https://patchwiki.biligame.com/images/ys/5/54/jvf6yx7ksu9di76207qhj4dhhqyen1g.gif)<br>所属作品：`genshin impact` |  |
 | maegami-chan | 前发酱 | ![](https://ehgt.org/w/01/964/73542-8fohld51.webp)<br>所属作品：`getsuyoubi no tawawa` |  |
 | tsumugi shirogane | 白银纺 | ![](https://ehgt.org/w/01/923/48293-epiva947.webp)<br>所属作品：`danganronpa`<br>《新弹丸论破V3 大家的相互厮杀新学期》游戏中登场的虚拟角色。 |  |
 | ena ibarada | 棘田惠那 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e1/ba/71633_crt_4fS3p.jpg?r=1579397289)<br>所属作品：`rikei ga koi ni ochita no de shuomei shite mita.`<br>国立彩玉大学理工学研究科大学院2年生。 |  |
