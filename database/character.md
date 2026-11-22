@@ -10655,6 +10655,7 @@ example:
 | sorashina sopia | 宙科索菲亚 | ![](https://hololive.hololivepro.com/wp-content/uploads/2023/09/bg_Sorashina-Sopia_01.webp)<br>日语：宙科そぴあ<br>所属团体:`hololive` |  |
 | bloody queen | 贝拉夫人 | ![](https://bkimg.cdn.bcebos.com/smart/0823dd54564e9258d109011145cbc658ccbf6d81e0b0-bkimg-process,v_1,rw_189,rh_267,maxl_534)<br>出自作品:`identity v` |  |
 | senri ayumu | 千凛步 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/3/34/Senri_Ayumu_Full_Body.png)<br>日语：千凛あゆむ<br>所属社团:`nijisanji` |  |
+| urara haruhina | 春雏丽 | ![](https://static.wikitide.net/alicesoftwiki/thumb/f/fb/BWEH-Urara_Haruhina.png/188px-BWEH-Urara_Haruhina.png)<br>日语：エスカ・トパーズ<br>出自作品:`beat blades haruka` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
