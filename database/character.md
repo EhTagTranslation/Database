@@ -6035,7 +6035,7 @@ example:
 | wendy marvell | 温蒂·玛贝尔 | ![](https://ehgt.org/w/02/317/01975-24a40vtr.webp)<br>日文：ウェンディ・マーベル<br>所属作品: `p:fairy tail` | [萌娘百科](https://zh.moegirl.org.cn/温蒂·玛贝尔) |
 | helia | 赫丽雅 | 崩坏三第二部女主角之一 |  |
 | genichiro ashina | 苇名弦一郎 |  |  |
-| kuro | 神子九郎 |  |  |
+| kuro | 库洛 | ![](https://static.wikia.nocookie.net/isekaishokudo/images/8/8c/Kuro_visual.png)<br>日语：クロ<br>出自作品:`isekai shokudou` |  |
 | nobeta | 诺贝塔 | ![](https://static.wikia.nocookie.net/little-witch-nobeta/images/8/8a/Nobeta.png/revision/latest?cb=20221228111809)<br>![](https://img.moegirl.org.cn/common/2/21/Little_Witch_Nobeta_Nobeta%27s_character_design_2.jpg)<br>所属作品：《`little witch nobeta`》 | [Fandom](https://little-witch-nobeta.fandom.com/wiki/Nobeta) |
 | rachel alucard | 雷其儿·阿尔卡特 | 所属作品: `p:blazblue` | [萌娘百科](https://zh.moegirl.org.cn/雷其儿·阿尔卡特) |
 | sakura ritsuki | 樱凛月 | ![](https://thumbsnap.com/i/PvSgJXwc.jpg)<br>出自作品：`p:nijisanji`<br><br>樱凛月( 日语：桜凛月 / さくら りつきSakura Ritsuki )是一名从2018年8月31日在YouTube开始活动的VTuber，隶属于彩虹社的虚拟YouTuber。原SEEDs二期生。 | [萌娘百科](https://zh.moegirl.org.cn/樱凛月) |
