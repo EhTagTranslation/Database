@@ -1051,7 +1051,7 @@ example:
 | eriri spencer sawamura | 泽村·斯宾塞·英梨梨 | ![](https://static.wikia.nocookie.net/saekano/images/7/71/Content_chara01.png)<br>所属作品：`saenai heroine no sodatekata` |  |
 | izumi hashima | 波岛出海 | ![](https://static.wikia.nocookie.net/saekano/images/4/42/Body_%282%29.png)<br>所属作品：`saenai heroine no sodatekata` |  |
 |  | ▼ 我的朋友很少 角色 |  |  |
-| kobato hasegawa | 羽濑川小鸠 | ![羽濑川小鸠](https://ehgt.org/11/e7/11e759c8412af65520dc1f60395d7830090d80a7-50943-315-640-jpg_l.jpg)<br>出自作品：`p:boku wa tomodachi ga sukunai`<br><br>羽濑川小鸠是平坂读创作的轻小说《我的朋友很少》及其衍生的动画等作品的登场角色，女主角之一。 | [萌娘百科](https://zh.moegirl.org.cn/羽濑川小鸠) |
+| kobato hasegawa | 羽濑川小鸠 | ![](https://static.wikia.nocookie.net/all-worlds-alliance/images/2/25/BhTDbLbCMAAhU-4.png)<br>出自作品：`p:boku wa tomodachi ga sukunai` | [萌娘百科](https://zh.moegirl.org.cn/羽濑川小鸠) |
 | kodaka hasegawa | 羽濑川小鹰 | ![羽濑川小鹰](https://ehgt.org/d4/1a/d41a9e7e7dd679e39b475793fbcfdf16dc208eb9-74031-550-777-jpg_l.jpg) |  |
 | rika shiguma | 志熊理科 | ![志熊理科](https://ehgt.org/21/df/21dfe1c979d457e0e4aef377c6fd3d897a551dd1-41856-279-640-jpg_l.jpg) |  |
 | sena kashiwazaki | 柏崎星奈 | ![](https://static.wikia.nocookie.net/all-worlds-alliance/images/6/69/Kashiwazaki_sena_by_okumuraann-d5wzon5.png)<br>出自作品:`boku wa tomodachi ga sukunai` | [萌娘百科](https://zh.moegirl.org.cn/柏崎星奈) |
