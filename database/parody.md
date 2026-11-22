@@ -258,7 +258,7 @@ example:
 | hai to gensou no grimgar | 灰与幻想的格林姆迦尔 | ![](https://lain.bgm.tv/r/400/pic/cover/l/0c/20/148726_nj2ww.jpg)<br>日语：灰と幻想のグリムガル | [维基百科](https://zh.wikipedia.org/wiki/灰與幻想的格林姆迦爾) [萌娘百科](https://zh.moegirl.org.cn/灰与幻想的格林姆迦尔) [Fandom](https://grimgar.fandom.com/wiki/Hai_to_Gensou_no_Grimgar_Wikia) |
 | pretty rhythm | 美妙旋律 |  |  |
 | mamono musume zukan | 魔物娘图鉴 |  |  |
-| getsuyoubi no tawawa | 星期一的丰满 |  |  |
+| getsuyoubi no tawawa | 星期一的丰满 | ![](https://lain.bgm.tv/r/400/pic/cover/l/3c/68/349616_073dJ.jpg)<br>日语：月曜日のたわわ |  |
 |  | ▼梦幻之星 系列 |  |  |
 | phantasy star | 梦幻之星 |  |  |
 | phantasy star 2 | 梦幻之星II 不归的终点 |  |  |
