@@ -1142,7 +1142,7 @@ example:
 | aikatsu | 偶活学园！ | 《Aikatsu！偶像活动！》是BANDAI发售的DATA CARDDASS游戏。2012年10月25日开始推出游戏为先驱，2012年10月8日动画开始播放。宣传口号为“国民的偶像试镜游戏”。 | [维基百科](https://zh.wikipedia.org/wiki/Aikatsu！偶像活動！) [萌娘百科](https://zh.moegirl.org.cn/偶活学园!系列) (\*) |
 | aho-girl | 笨女孩 | 《笨女孩》（日语：アホガール）是自称清纯派所作的日本漫画。于2012年11月28日发售的《周刊少年Magazine》2012年52号开始连载直到2015年12号，现在连载于别册少年Magazine上，刊载的作品是四格漫画的形式。本作是描写冷酷高中生阿久津明与笨蛋女高中生花畑佳子的学校日常生活的搞笑喜剧作品。电视动画于2017年7月4日起由东京都会电视台、AT-X等电视台播出。 | [维基百科](https://zh.wikipedia.org/wiki/單蠢女孩) (\*) |
 | azur lane | ![](https://lain.bgm.tv/r/400/pic/cover/l/56/33/208559_6jzc1.jpg) 碧蓝航线 | ![](https://lain.bgm.tv/r/400/pic/cover/l/97/2a/260677_P5Z3f.jpg)<br>《碧蓝航线》是一款由中国上海蛮啾网络科技与厦门勇仕网络技术制作的智能手机游戏。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线) [维基百科](https://zh.wikipedia.org/wiki/碧藍航線) |
-| isekai shokudou | 异世界食堂 | 《异世界食堂》（異世界食堂），日本轻小说作家犬冢惇平的轻小说作品，发表于小说投稿网站成为小说家吧的网络连载小说。由主妇之友社出版，插画为榎波克己（エナミカツミ）。2016年9月28日宣布动画化，于2017年7月3日起由东京电视台、AT-X等电视台播放。台湾中文版由四季出版发行。 | [维基百科](https://zh.wikipedia.org/wiki/異世界食堂) (\*) |
+| isekai shokudou | 异世界食堂 | ![](https://bkimg.cdn.bcebos.com/pic/d439b6003af33a87e9506159360907385343fbf21f60)<br>作者：犬冢惇平 | [维基百科](https://zh.wikipedia.org/wiki/異世界食堂) |
 | baccano | 永生之酒 | 《永生之酒》（バッカーノ!，Baccano!）是由成田良悟创作的一部轻小说，并有漫画、动画、游戏等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/永生之酒) (\*\*) |
 | berserk | 剑风传奇 | 《剑风传奇》（日语：ベルセルク，英语：Berserk）是日本漫画家三浦建太郎所作的奇幻漫画，现时在白泉社出版的双周刊杂志《YOUNG ANIMAL》不定期连载中。 | [维基百科](https://zh.wikipedia.org/wiki/烙印勇士) (\*) |
 | isekai wa smartphone to tomo ni. | 带着智能手机闯荡异世界 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2450372216.webp)<br>《带着智能手机闯荡异世界。》是冬原パトラ所作的日本轻小说作品，并有同名改编动画。 | [维基百科](https://zh.wikipedia.org/wiki/帶著智慧型手機闖蕩異世界。) |
