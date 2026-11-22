@@ -1127,7 +1127,7 @@ example:
 | elma | 艾尔玛 | ![](https://static.wikia.nocookie.net/maid-dragon/images/1/16/Elmainfo.png)<br>所属作品：`kobayashi-san-chi no maid dragon` |  |
 |  | ▼ 星期一的丰满 角色 |  |  |
 | ai-chan | 小爱 | ![](https://bkimg.cdn.bcebos.com/pic/8ad4b31c8701a18b87d6b2d0f878100828381e3050ae)<br>出自作品：`p:getsuyoubi no tawawa` | [萌娘百科](https://zh.moegirl.org.cn/小爱%28星期一的丰满%29) |
-| kouhai-chan | 后辈酱 | ![](https://ehgt.org/w/02/105/93928-gsw8wow2.webp)<br>所属作品：`getsuyoubi no tawawa`<br>日语：後輩ちゃん |  |
+| kouhai-chan | 后辈酱 | ![](https://bkimg.cdn.bcebos.com/pic/faf2b2119313b07eca808d856980862397dda04426bc)<br>日语：後輩ちゃん<br>所属作品：`getsuyoubi no tawawa` |  |
 |  | ▼ 变态王子与不笑猫 角色 |  |  |
 | azusa azuki | 小豆梓 |  |  |
 | youto yokodera | 横寺阳人 |  |  |
