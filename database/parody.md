@@ -2622,7 +2622,7 @@ example:
 | gen 13 | 创世13 | 《创世13》是由Kevin Altieri执导的动画科幻动作电影，于2000年10月31日在美国上映，片长90分钟。 | [百度百科](https://baike.baidu.com/item/创世13/65206068)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/Gen13) |
 | kaze no stigma | 风之圣痕 |  | [萌娘百科](https://zh.moegirl.org.cn/风之圣痕) |
 | rin x sen hakudaku onna kyoushi to yaroudomo | Rin X Sen 白浊女教师和男同事们 | ![](https://ehgt.org/d9/86/d986aad0e137b75898f9ea3525276f69490e6d70-100510-389-560-jpg_250.jpg) |  |
-| keikenzumi na kimi to keiken zero na ore ga otsukiai suru hanashi. | 位于恋爱光谱极端的我们 | ![](https://img9.doubanio.com/view/subject/s/public/s33998145.jpg)<br>《位于恋爱光谱极端的我们》是日本作家长冈マキ子创作、magako负责插画的校园恋爱轻小说。<br>原作名: 経験済みなキミと、 経験ゼロなオレが、 お付き合いする話 |  |
+| keikenzumi na kimi to keiken zero na ore ga otsukiai suru hanashi. | 位于恋爱光谱极端的我们 | ![](https://bkimg.cdn.bcebos.com/pic/37d12f2eb9389b504fc21d952662f2dde71191efc0e6)<br>作者：长冈マキ子<br>日语: 経験済みなキミと、 経験ゼロなオレが、 お付き合いする話 |  |
 | dispatch | 超英派遣中心 | 由AdHoc Studio开发的章回体互动式文字冒险电子游戏 | [维基百科](https://zh.wikipedia.org/wiki/超英派遣中心) |
 | cue | 指名！ | ![](https://storage.moegirl.org.cn/moegirl/commons/f/f3/Cue_Forever_Friends_KV.jpg)<br>《CUE!》是由Liber Entertainment推出的配音演员养成类手机游戏，并有同名改编动画。 |  |
 | gogo sentai boukenger | 轰轰战队冒险者 |  | [萌娘百科](https://zh.moegirl.org.cn/轰轰战队冒险者) |
