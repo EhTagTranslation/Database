@@ -3602,7 +3602,7 @@ example:
 | ako saotome | 早乙女亚子 |  |  |
 | misogi hodaka | 穗高未奏希 | ![](https://static.wikia.nocookie.net/princess-connect/images/4/4a/Misogi_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/穗高未奏希) |
 | yuni shingyouji | 优妮 | ![](https://static.wikia.nocookie.net/princess-connect/images/c/c4/Yuni-astrum-sprite-normal.png)<br>所属作品：`princess connect`<br>真名为真行寺由仁 | [萌娘百科](https://zh.moegirl.org.cn/真行寺由仁) |
-| takagi | 高木同学 | 高木同学是由山本崇一朗创作的漫画《擅长捉弄人的高木同学》及其衍生作品的登场角色。![](https://img.moegirl.org.cn/common/thumb/6/61/Takagi_BD2.jpg/800px-Takagi_BD2.jpg) | [萌娘百科](https://zh.moegirl.org.cn/高木同学) |
+| takagi | 高木同学 | ![](https://static.wikia.nocookie.net/karakai-jouzu-no-takagi-san/images/0/05/Takagi_Anime_Design.jpg)<br>日语：高木さん<br>出自作品:`karakai jouzu no takagi-san` | [萌娘百科](https://zh.moegirl.org.cn/高木同学) |
 | stella unibell | 史黛拉·尤尼贝尔 | 史黛拉·尤尼贝尔是游戏《灵魂行者》（Soul Worker）中的角色，她性格天真烂漫，超级我行我素，不论周围的情况如何都以自己的心情优先。有在意的事就忍不住，会说出出乎意料的话。喜欢唱起幽灵和歌来说话，欠缺常识，对“气”很敏感。因为别人的死而有着无法承受的悲伤，有倾向于凭依状态回避状况的倾向。 | [百度百科](https://baike.baidu.com/item/灵魂武器/4950731) |
 | hotaru futaba | 双叶萤 | 饿狼MARK OF THE WOLVES中的人物，是一个喜爱拳法的可爱率真少女。 |  |
 | keke tang | 唐可可 | ![](https://static.wikia.nocookie.net/love-live/images/7/74/Tang_Keke.png/revision/latest?cb=20240615145356)<br>所属作品: `p:love live superstar`<br>来自中国上海，结丘女子高等学校第一届学生，学园偶像组合Liella!成员。 | [萌娘百科](https://zh.moegirl.org.cn/唐可可)<br>[Fandom](https://love-live.fandom.com/wiki/Keke_Tang) |
