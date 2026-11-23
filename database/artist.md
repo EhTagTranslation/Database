@@ -15904,6 +15904,7 @@ example:
 | satou teigi | 佐藤ていぎ |  |  |
 | rapapa | らぱぱ |  |  |
 | sazanami wasabi | 漣和寂 |  |  |
+| hanput | ハンプt |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
