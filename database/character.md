@@ -4224,7 +4224,7 @@ example:
 | chigusa kisaragi | 如月千种 |  |  |
 | dobrynya nikitich | 多布雷尼亚·尼基季奇 | ![](https://static.wikia.nocookie.net/fategrandorder/images/4/46/Dobrynya_Render.png)<br>日语：ドブルイニャ・ニキチッチ<br>出自作品：`p:fate grand order` | [萌娘百科](https://zh.moegirl.org.cn/多布雷尼亚·尼基季奇%28Fate%29#) \| [Fandom](https://typemoon.fandom.com/wiki/Dobrynya_Nikitich) |
 | aratsuka ogami | 荒塚オガミ |  | [Fandom](https://youtube.fandom.com/wiki/Ogami_Aratsuka) [X](https://x.com/aratsuka_ogami) |
-| nishikata | 西片 |  |  |
+| nishikata | 西片 | ![](https://static.wikia.nocookie.net/karakai-jouzu-no-takagi-san/images/5/5c/Nishikata_Anime_Design.jpg)<br>日语：にしかたくん<br>出自作品:`karakai jouzu no takagi-san` |  |
 | nezha | 哪吒 |  |  |
 | carol malus dienheim | 卡萝·玛尔斯·丁海姆 | ![](https://static.wikia.nocookie.net/senkizesshousymphogear/images/0/00/CarolNormalClothes.png)<br>所属作品：`p:senki zesshou symphogear` | [萌娘百科](https://zh.moegirl.org.cn/卡萝·玛尔斯·丁海姆) |
 | dori | 多莉 | 所属作品:`p:utawarerumono` |  |
