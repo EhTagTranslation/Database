@@ -15903,6 +15903,7 @@ example:
 | pen | pen姉 |  | [pixiv](https://www.pixiv.net/users/111917024) \| [X](https://x.com/pensis_x) |
 | satou teigi | 佐藤ていぎ |  |  |
 | rapapa | らぱぱ |  |  |
+| sazanami wasabi | 漣和寂 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
