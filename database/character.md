@@ -10666,6 +10666,7 @@ example:
 | sugisaka | 杉坂 | ![](https://lain.bgm.tv/r/400/pic/crt/l/cb/60/10328_crt_8cmJJ.jpg?r=1465128383)<br>出自作品:`clannad` |  |
 | entelechia | 隐德来希 | ![](https://bkimg.cdn.bcebos.com/pic/0df431adcbef76094b3614018d84b4cc7cd98c1030a1)<br>出自作品:`arknights` |  |
 | mochiko kogane | 小金萌智子 | ![](https://static.wikia.nocookie.net/fxkurumi/images/f/fa/Main_mochiko.png)<br>出自作品:`fx senshi kurumi-chan` |  |
+| suzunami | 凉波 | ![](https://azurlane.netojuu.com/images/thumb/f/fc/SuzunamiWithoutBG.png/1006px-SuzunamiWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/c/c6/SuzunamiTheme_ParkWithoutBG.png/542px-SuzunamiTheme_ParkWithoutBG.png)<br>出自作品:`azur lane` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
