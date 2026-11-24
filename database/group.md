@@ -14420,6 +14420,7 @@ example:
 | favoritetrick | FavoriteTrick! |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG62412.html) |
 | denki zenzai | 電気ぜんざい |  |  |
 | katanashi apollo | かたなし・アポロ | かたなし・アポロ （かたなしあぽろ） | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG24362.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29921/) |
+| ntr kyoudan | NTR教团 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
