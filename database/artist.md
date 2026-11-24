@@ -15905,6 +15905,7 @@ example:
 | rapapa | らぱぱ |  |  |
 | sazanami wasabi | 漣和寂 |  |  |
 | hanput | ハンプt |  |  |
+| sy 3-gou | えすわい3号 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
