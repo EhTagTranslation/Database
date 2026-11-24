@@ -14422,6 +14422,7 @@ example:
 | katanashi apollo | かたなし・アポロ | かたなし・アポロ （かたなしあぽろ） | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG24362.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29921/) |
 | ntr kyoudan | NTR教团 |  |  |
 | nakayoshi okashidou | 仲よしおかし堂 |  |  |
+| kiraku no hoshi | 喜楽の星 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
