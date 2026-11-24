@@ -7694,7 +7694,7 @@ example:
 | syuen | 苏恩 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c3/Syuen_FB.png)<br>所属作品：`goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Syuen) |
 | akemi soryuin | 奏流院朱美 | ![](https://lain.bgm.tv/r/400/pic/crt/l/38/fb/69509_crt_nr5qq.jpg?r=1589888359)<br>所属作品：`dumbbell nan kilo moteru` |  |
 | gina boyd | 吉娜·波特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/96/cc/69511_crt_h529x.jpg?r=1556531327)<br>所属作品：`dumbbell nan kilo moteru`<br>日语名：ジーナ・ボイド |  |
-| satomi tachibana | 立花里美 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e7/71/69512_crt_aCote.jpg?r=1556531365)<br>所属作品：`dumbbell nan kilo moteru` |  |
+| satomi tachibana | 立花里美 | ![](https://bkimg.cdn.bcebos.com/pic/962bd40735fae6cda25b621b01b30f2443a70fd9)<br>所属作品：`dumbbell nan kilo moteru` |  |
 | ye shunguang | 叶瞬光 | ![](https://patchwiki.biligame.com/images/zzz/b/bb/r9bbu7d0xedka8y881eagyhpyxgv9pg.png)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/叶瞬光) |
 | piper | 佩佩 | ![](https://static.wikia.nocookie.net/brawlstars/images/5/5d/Piper_Skin-Default.png)<br>出自作品:`brawl stars` |  |
 | napoli | 那不勒斯 | ![](https://patchwiki.biligame.com/images/blhx/thumb/b/b4/joz3ahzlavryrlmn0s5rtl3pmtikbsg.jpg/525px-那不勒斯立绘.jpg)<br>所属作品：`azur lane` |  |
