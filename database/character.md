@@ -9826,7 +9826,7 @@ example:
 | isolte cruel | 伊泽露缇·克露艾尔 | ![](https://static.wikia.nocookie.net/mushokutensei/images/b/bd/Isolde-Anime-FullBody.png)<br>出自作品:`mushoku tensei`<br>日语：イゾルテ・クルーエル |  |
 | gabia | 加维亚 | ![](https://lootandwaifus.com/characters/trickcal/gabia.webp)<br>出自作品:`trickcal revive` |  |
 | aia | 阿伊阿 | 出自作品:`blue dragon` |  |
-| kuroageha | 奈阿 | ![](https://static.wikia.nocookie.net/mushibugyo/images/b/bc/Kuroageha_anime.png)<br>出自作品：`p:mushibugyo`<br><br>本名：奈阿（お奈阿 / Princess Naa） | [Fandom](https://mushibugyo.fandom.com/wiki/Kuroageha) |
+| kuroageha | 奈阿 | ![](https://static.wikia.nocookie.net/mushibugyo/images/b/bc/Kuroageha_anime.png)<br>日语：お奈阿<br>出自作品：`p:mushibugyo` | [Fandom](https://mushibugyo.fandom.com/wiki/Kuroageha) |
 | olga | 奥尔嘉 | ![](https://static.wikia.nocookie.net/asuraswrath/images/6/6c/Olga3.jpg/revision/latest/scale-to-width-down/268?cb=20150125185707)<br>出自作品：`p:asuras wrath` | [Fandom](https://asuraswrath.fandom.com/wiki/Olga) |
 | takashi komuro | 小室孝 | ![](https://lain.bgm.tv/r/400/pic/crt/l/dd/40/26393_crt_rR0kR.jpg)<br>出自作品:`highschool of the dead`<br>日语：こむろ たかし |  |
 | kirika misono | 御园雾香 | ![](https://static.wikia.nocookie.net/eiken/images/0/0a/1000133222.png)<br>出自作品:`eiken` |  |
