@@ -10667,7 +10667,7 @@ example:
 | entelechia | 隐德来希 | ![](https://bkimg.cdn.bcebos.com/pic/0df431adcbef76094b3614018d84b4cc7cd98c1030a1)<br>出自作品:`arknights` |  |
 | mochiko kogane | 小金萌智子 | ![](https://static.wikia.nocookie.net/fxkurumi/images/f/fa/Main_mochiko.png)<br>出自作品:`fx senshi kurumi-chan` |  |
 | suzunami | 凉波 | ![](https://azurlane.netojuu.com/images/thumb/f/fc/SuzunamiWithoutBG.png/1006px-SuzunamiWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/c/c6/SuzunamiTheme_ParkWithoutBG.png/542px-SuzunamiTheme_ParkWithoutBG.png)<br>出自作品:`azur lane` |  |
-| ayame nanakado | 七棱菖蒲 | ![](https://static.wikia.nocookie.net/blue-archive/images/5/55/Ayame_Portrait.png)<br>出自作品:`blue archive` |  |
+| ayame nanakado | 七棱菖蒲 | ![](https://static.wikia.nocookie.net/blue-archive/images/5/55/Ayame_Portrait.png)<br>![](https://static.wikia.nocookie.net/blue-archive/images/3/38/Ayame_Twilight_Enhanced_Portrait.png)<br>出自作品:`blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
