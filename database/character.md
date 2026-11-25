@@ -10669,6 +10669,7 @@ example:
 | suzunami | 凉波 | ![](https://azurlane.netojuu.com/images/thumb/f/fc/SuzunamiWithoutBG.png/1006px-SuzunamiWithoutBG.png)<br>![](https://azurlane.netojuu.com/images/thumb/c/c6/SuzunamiTheme_ParkWithoutBG.png/542px-SuzunamiTheme_ParkWithoutBG.png)<br>出自作品:`azur lane` |  |
 | ayame nanakado | 七棱菖蒲 | ![](https://static.wikia.nocookie.net/blue-archive/images/5/55/Ayame_Portrait.png)<br>![](https://static.wikia.nocookie.net/blue-archive/images/3/38/Ayame_Twilight_Enhanced_Portrait.png)<br>出自作品:`blue archive` |  |
 | shinei nouzen | 辛耶·诺赞 | ![](https://static.wikia.nocookie.net/86-eighty-six/images/3/3b/Shin_Full_Body.png)<br>日语：シンエイ・ノウゼン<br>出自作品:`86` |  |
+| absalom | 阿布萨罗姆 | ![](https://bkimg.cdn.bcebos.com/pic/9c16fdfaaf51f3deb48f55090bb8e71f3a292df5d31d)<br>出自作品:`one piece` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
