@@ -15907,6 +15907,7 @@ example:
 | hanput | ハンプt |  |  |
 | sy 3-gou | えすわい3号 |  |  |
 | shigushiro | しぐしろ |  |  |
+| tebasaki nobuo | てばさきのぶお |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
