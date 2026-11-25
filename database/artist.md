@@ -15910,6 +15910,7 @@ example:
 | tebasaki nobuo | てばさきのぶお |  |  |
 | kentie | ケンティ |  |  |
 | neriyume yuna | 練り夢ゆな |  |  |
+| tsutsuji | 筒蒔 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
