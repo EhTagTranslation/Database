@@ -3852,7 +3852,7 @@ example:
 | nanana ryuugajou | 龙娘七七七 |  |  |
 | nanami arihara | 在原七海 | 所属作品：`riddle joker`<br>![图](https://ehgt.org/0d/4f/0d4f6450f1803cf1317824d626da19efb0d5c20f-16458-250-300-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/在原七海) |
 | mai kawasumi | 川澄舞 | 所属作品：`p:kanon`<br>![图](https://ehgt.org/64/56/64566838dca0404b27f807916369ac353d0964b2-372444-1600-1000-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/川澄舞) [Fandom](https://kanon.fandom.com/wiki/Mai_Kawasumi) |
-| yelan | 夜兰 | ![](https://patchwiki.biligame.com/images/ys/5/53/2zdtnu4axo2r34twhu7r1i2ityh2e0x.gif)<br>所属作品:`p:genshin impact`<br>自称供职于总务司的神秘人士，却又是总务司名录里的「不存在之人」。 | [萌娘百科](https://zh.moegirl.org.cn/夜兰) |
+| yelan | 夜兰 | ![](https://patchwiki.biligame.com/images/ys/5/53/2zdtnu4axo2r34twhu7r1i2ityh2e0x.gif)<br>所属作品:`p:genshin impact` | [萌娘百科](https://zh.moegirl.org.cn/夜兰) |
 | baki hanma | 范马刃牙 | 所属作品 `grappler baki` | [Fandom](https://baki.fandom.com/wiki/Baki_Hanma) |
 | mana inuyama | 犬山真名 | 所属作品 `p:gegege no kitarou`<br>![图](https://ehgt.org/3d/f9/3df99a587b6ca07508581a39287a94689356dfaf-29336-478-860-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/犬山真名) [Fandom](https://gegegenokitaro.fandom.com/wiki/Mana_Inuyama) |
 | megumi | 惠美 | ![](https://static.wikia.nocookie.net/gup/images/2/25/Megumiofficial.png)<br>所属作品：`girls und panzer`<br>日语：メグミ | [萌娘百科](https://zh.moegirl.org.cn/惠美%28少女与战车%29#) |
