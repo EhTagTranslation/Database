@@ -4220,7 +4220,7 @@ example:
 | serika kuromi | 黑见芹香 | ![](https://patchwiki.biligame.com/images/ba/c/cd/qw92noipsp5pncuaceslzys3g9tp6ar.png)<br>![](https://patchwiki.biligame.com/images/ba/9/9c/hlkn8lkqd9fxmo155iik5gzye32mm2u.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/黑见茜香)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Serika) |
 | ayane okusora | 奥空绫音 | ![](https://patchwiki.biligame.com/images/ba/6/60/rglrvrv124fnn8ha1v3ixnnnozltn71.png)<br>所属作品: `p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Ayane) |
 | mikan hinatsuki | 阳夏木蜜柑 | ![](https://static.wikia.nocookie.net/machikado-mazoku/images/d/db/Hinamikan.png) | [Fandom](https://machikado-mazoku.fandom.com/wiki/Mikan_Hinatsuki) |
-| sword maiden | 剑之圣女 | ![](https://ehgt.org/w/02/052/64387-higwmy2c.webp)<br>所属作品：`goblin slayer`<br>十年前将复活的魔王之一战胜的金级冒险者们其中的一人，至高神的仆人。 | [萌娘百科](https://zh.moegirl.org.cn/剑之圣女) |
+| sword maiden | 剑之圣女 | ![](https://ehgt.org/w/02/052/64387-higwmy2c.webp)<br>所属作品：`goblin slayer` | [萌娘百科](https://zh.moegirl.org.cn/剑之圣女) |
 | chigusa kisaragi | 如月千种 |  |  |
 | dobrynya nikitich | 多布雷尼亚·尼基季奇 | ![](https://static.wikia.nocookie.net/fategrandorder/images/4/46/Dobrynya_Render.png)<br>日语：ドブルイニャ・ニキチッチ<br>出自作品：`p:fate grand order` | [萌娘百科](https://zh.moegirl.org.cn/多布雷尼亚·尼基季奇%28Fate%29#) \| [Fandom](https://typemoon.fandom.com/wiki/Dobrynya_Nikitich) |
 | aratsuka ogami | 荒塚オガミ |  | [Fandom](https://youtube.fandom.com/wiki/Ogami_Aratsuka) [X](https://x.com/aratsuka_ogami) |
