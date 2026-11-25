@@ -15909,6 +15909,7 @@ example:
 | shigushiro | しぐしろ |  |  |
 | tebasaki nobuo | てばさきのぶお |  |  |
 | kentie | ケンティ |  |  |
+| neriyume yuna | 練り夢ゆな |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
