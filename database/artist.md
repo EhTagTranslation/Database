@@ -15912,6 +15912,7 @@ example:
 | neriyume yuna | 練り夢ゆな |  |  |
 | tsutsuji | 筒蒔 |  |  |
 | maya | まや |  |  |
+| kaiman | カイマン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
