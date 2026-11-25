@@ -15911,6 +15911,7 @@ example:
 | kentie | ケンティ |  |  |
 | neriyume yuna | 練り夢ゆな |  |  |
 | tsutsuji | 筒蒔 |  |  |
+| maya | まや |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
