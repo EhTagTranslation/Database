@@ -2250,7 +2250,7 @@ example:
 | yu-gi-oh go rush | 游戏王GO RUSH | 《游戏王GO RUSH》（日语：遊☆戯☆王ゴーラッシュ!!）是一部于2022年开播的日本电视动画，《游戏王》系列的第八部作品，由Bridge制作；2022年4月3日东京电视台首播，接档前作《游戏王SEVENS》。本作为《游戏王SEVENS》的续篇，采用同班人马制作。 | [维基百科](https://zh.wikipedia.org/wiki/遊戲王GO_RUSH) [萌娘百科](https://zh.moegirl.org.cn/游戏王GORUSH!!) |
 | tearmoon teikoku monogatari | 堤亚穆帝国物语～从断头台开始，公主重生后的逆转人生～ |  | [萌娘百科](https://zh.moegirl.org.cn/堤亚穆帝国物语～从断头台开始，公主重生后的逆转人生～) |
 | invincible | 无敌少侠 | ![](https://lain.bgm.tv/r/400/pic/cover/l/61/61/337023_3qdVq.jpg)<br>《无敌少侠》是美国超级英雄成人系列动画片，故事改编自罗伯特·柯克曼和科瑞·沃克共同创作的同名超级英雄角色。 | [维基百科](https://zh.wikipedia.org/wiki/無敵少俠_%28動畫%29) |
-| urotsukidoji | 超神传说 | 《超神传说》（日语：超神伝説うろつき童子）是由前田俊夫创作的色情恐怖类型日本漫画[1]。该作品在1986年至1989年在《漫画色情乌托邦》上连载，作品风格充斥情色、黑暗幽默、超自然现象。1987年起，这部作品被改编成一系列原创动画录像带。<br><br>《超神传说》被认为是促使触手强奸逐渐普及的原因，1999年出版的《色情动画电影指南》（The Erotic Anime Movie Guide）里将这部作品称为变态类型在发展期的作品之一，2005年时，该作品被英国第四台选入百大最佳动画。 | [维基百科](https://zh.wikipedia.org/wiki/超神傳說) |
+| urotsukidoji | 超神传说 | ![](https://lain.bgm.tv/r/400/pic/cover/l/19/b0/425276_MqBye.jpg)<br>日语：超神伝説 | [维基百科](https://zh.wikipedia.org/wiki/超神傳說) |
 | shutsudou minisuka police | 出动！迷你裙警察 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/出動!ミニスカポリス) |
 | engage kiss | 契约之吻 | ![](https://upload.wikimedia.org/wikipedia/en/0/0e/Engage_Kiss_key_visual.jpg)<br>丸户史明创作的原创动画。 | [萌娘百科](https://zh.moegirl.org.cn/Project_Engage) |
 | 86 | 86 -不存在的战区- | 圣格诺利亚共和国为了对抗邻国的无人机武装“军团”，研发出了同等的无人机力量，勉勉强强地在没有人员伤亡的情况下，化解了邻国对自己的威胁。然而隐藏于背后的，却是不被承认的“86战区”中，被剥夺了公民权的少年少女们驾驶“有人操控的无人机”战斗的凄景。<br>率领着年轻士兵昂首迈向黄泉的少年——辛 与 身处遥远的后方、通过同步装置指挥作战的指挥官`c:vladilena milize`，两人的聚散离合，伴随着壮烈而又悲伤的战斗，在此拉开序幕 | [萌娘百科](https://zh.moegirl.org.cn/86_-不存在的战区-) [维基百科](https://zh.wikipedia.org/wiki/86－不存在的戰區－) |
