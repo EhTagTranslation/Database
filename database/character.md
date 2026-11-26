@@ -10672,6 +10672,7 @@ example:
 | absalom | 阿布萨罗姆 | ![](https://bkimg.cdn.bcebos.com/pic/9c16fdfaaf51f3deb48f55090bb8e71f3a292df5d31d)<br>出自作品:`one piece` |  |
 | mirio togata | 通行百万 |  |  |
 | thirty-seven | 37（赫尔墨斯之星） | ![](https://bkimg.cdn.bcebos.com/pic/4ec2d5628535e5dde711f083799db0efce1b9d16c46e)<br>出自作品:`reverse 1999` |  |
+| eagle | 小春雀儿 | ![](https://bkimg.cdn.bcebos.com/pic/0dd7912397dda144ad34411789e0c7a20cf431ad2845)<br>本名伊戈<br>出自作品:`reverse 1999` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
