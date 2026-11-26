@@ -1199,7 +1199,7 @@ example:
 | nano core | 纳米核心 | 《纳米核心》是一部由心动游戏投资，海岸线动画工作室制作的科幻冒险题材网络动画，是心动游戏投资的首部全3D动画。计划中该系列一共会有三季，每季10集，官方网站亦于2013年6月20日上线。故事舞台设在一个完全架空的星球——元星（英语：Birthigin），并围绕着各方阵营的人类以及“亚人”之间的矛盾与争斗展开。第二季在2016年4月8日于乐视动漫独家播出。第三季于2017年8月播出。 | [维基百科](https://zh.wikipedia.org/wiki/纳米核心) (\*) |
 | elsword | 艾尔之光 | 《艾尔之光》（韩语：엘소드，英语：Elsword）是韩国游戏公司KOG Studios研发的一款奇幻历险大型多人在线角色扮演游戏，主打赛璐璐风格横向卷轴的动作游戏，同时也是《永恒冒险》的重制版及姊妹作。 | [维基百科](https://zh.wikipedia.org/wiki/艾爾之光) (\*) |
 | betterman | 进化战记 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f1/5f/10417_jmLwl.jpg)<br>日语：ベターマン | [维基百科](https://zh.wikipedia.org/wiki/进化战记) (\*) |
-| tenshi ni narumon | 天使不设防！ | 《天使不设防！》（天使になるもんっ!）是日本电视动画，于1999年播出共26话，监督为锦织博。漫画全2集，原作为HEAVEN PROJECT，漫画由大野哲也所作，角川书店1999年出版。 | [维基百科](https://zh.wikipedia.org/wiki/天使不設防！) (\*) |
+| tenshi ni narumon | 天使不设防！ | ![](https://lain.bgm.tv/r/400/pic/cover/l/86/e8/77939_g6ptd.jpg)<br>日语：天使になるもんっ! | [维基百科](https://zh.wikipedia.org/wiki/天使不設防！) (\*) |
 | kamen no maid guy | 假面男仆 | 《假面男仆》是赤衣丸步郎的漫画作品。自2004年在富士见书房《月刊Dragon Age》上连载以来，系列累积销售突破110万本。台湾是由长鸿出版社代理发售繁体中文版。2008年4月5日开始播放电视动画共12话。 | [维基百科](https://zh.wikipedia.org/wiki/假面男僕) (\*) |
 | etrian odyssey | 世界树的迷宫 | 《世界树的迷宫》是ATLUS将于2007年1月18日发售的NDS用3D迷宫RPG游戏。此次公开的情报是介绍能让玩家用自己的手来绘制地图的制图系统。NDS便利的机能使得通过制图系统绘制出来的迷宫充满乐趣及挑战！ |  |
 | in search of the lost future | 寻找失去的未来 | 《寻找失去的未来》（日语原名：失われた未来を求めて，简称：われめて，法语：À la recherche du futur perdu）是由日本游戏公司TRUMPLE于2010年11月26日发售的Windows用十八禁恋爱冒险游戏。标题来自法国作家马塞尔·普鲁斯特的作品《追忆似水年华》。本作改编的2部漫画各连载于《月刊Comp Ace》和《月刊Comic Alive》上。由细田直人担任导演的电视动画于2014年10月4日起在AT-X、TOKYO MX等日本电视台播出。 | [维基百科](https://zh.wikipedia.org/wiki/尋找失去的未來) (\*) |
