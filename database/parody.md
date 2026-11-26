@@ -2271,7 +2271,7 @@ example:
 | helluva boss | 极恶老大 | 《极恶老大》（英语：Helluva Boss）是由薇薇安•梅德拉诺主创、纺锤之马工作室制作的歌舞喜剧动画。 | [萌娘百科](https://zh.moegirl.org.cn/极恶老大) |
 | power pack | 超能小队 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Power_Pack) |
 | the amazing digital circus | 神奇数字马戏团 | 《神奇数字马戏团》是一部电脑动画黑色喜剧网络剧集。该系列于2023年10月13日首播在GLITCH的YouTube频道上。该作品受到了普遍好评，并成为该频道在YouTube上最多观看的影片，并在两个月内累积超过2亿次观看。短片还获得了安妮奖提名。 | [维基百科](https://zh.wikipedia.org/wiki/驚奇數位馬戲團) |
-| night shift nurses | 夜勤病栋 | 由Mink公司从1999年12月22日开始制作发售的日本成人游戏，主要描叙发生在医院里关于里面护士的鬼畜调教的故事。<br>除了电脑游戏外，另有OVA版本的发行。Mink解散后改由FG REMAKE于2024年2月22日发售重制版《夜勤病栋Remake》。 |  |
+| night shift nurses | 夜勤病栋 | ![](https://bkimg.cdn.bcebos.com/pic/37d3d539b6003af357420b4a382ac65c1038b624)<br>日语：やきんびょうとう |  |
 | library of ruina | 废墟图书馆 | 《废墟图书馆》（英文：Library of Ruina）是由Project Moon制作并发行的一款以“图书馆战斗模拟”为概念的模拟策略卡牌游戏。 | [萌娘百科](https://zh.moegirl.org.cn/废墟图书馆)<br>[维基百科](https://zh.wikipedia.org/wiki/廢墟圖書館) |
 | dark gathering | 黑暗集会 | ![](https://m.media-amazon.com/images/M/MV5BNjFjZjRiMDYtZWNkZC00YmYxLWIyZDQtYWFjYzI4M2Q3YjE0XkEyXkFqcGc@._V1_.jpg)<br>日本漫画家近藤宪一创作的恐怖漫画 |  |
 | reverse 1999 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_192/h_192/50036/160127/2023/5/6/703473.png?x-image-process=image/resize,m_lfit,h_200,w_200/ignore-error,1&image_process=resize,mid,w_200,h_200) 重返未来：1999 | 《重返未来：1999》（英语：Reverse:1999）是由广州深蓝互动网络科技有限公司开发的策略RPG及收集养成游戏。 | [萌娘百科](https://zh.moegirl.org.cn/重返未来：1999) |
