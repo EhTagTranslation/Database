@@ -1987,7 +1987,7 @@ example:
 | waccha primagi | 绫镜魔法 |  | [维基百科](https://zh.wikipedia.org/wiki/星光魔法) |
 | sonic soldier borgman | 超音战士 | ![](https://upload.wikimedia.org/wikipedia/zh/5/5d/Borgman_LOVERS_RAIN.jpg) | [维基百科](https://zh.wikipedia.org/wiki/超音戰士) |
 | brave girl ravens | Brave Girl Ravens | ![](https://static.wikia.nocookie.net/bravegirlravens/images/b/b3/Title.png)<br>已停服 | [介绍](https://home.gamer.com.tw/creationDetail.php?sn=3371539) |
-| tsukuyomi moon phase | 月咏 | ![](https://lain.bgm.tv/r/400/pic/cover/l/14/ea/23702_rrbCT.jpg) | [萌娘百科](https://zh.moegirl.org.cn/月咏%28有马启太郎%29) [维基百科（英语）](https://en.wikipedia.org/wiki/Tsukuyomi:_Moon_Phase) |
+| tsukuyomi moon phase | 月咏 | ![](https://lain.bgm.tv/r/400/pic/cover/l/14/ea/23702_rrbCT.jpg) | [萌娘百科](https://zh.moegirl.org.cn/月咏%28有马启太郎%29) |
 | punishing gray raven | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_270/h_270/215/40405/2023/11/25/208706.webp?x-image-process=image/resize,m_lfit,h_200,w_200/ignore-error,1&image_process=resize,mid,w_200,h_200) 战双帕弥什 |  | [萌娘百科](https://zh.moegirl.org.cn/战双帕弥什) |
 | guardian tales | ![](https://cdnimg-v2.gamekee.com/images/www/1614844195761_59139361.png?x-image-process=image/resize,m_lfit,h_200,w_200/ignore-error,1&image_process=resize,mid,w_200,h_200) 坎公骑冠剑 | 《坎特伯雷公主与骑士唤醒冠军之剑的奇幻冒险》（英文：Guardian Tales；国际服译作：《守望傳說》）是Kong Studios快速编辑开发的一款像素风冒险RPG手游。游戏中，玩家将扮演一名骑士，穿梭于不同世界保护小公主不受威胁，拯救被黑暗力量侵蚀的王国。 | [萌娘百科](https://zh.moegirl.org.cn/坎特伯雷公主与骑士唤醒冠军之剑的奇幻冒险) |
 | otome game sekai wa mob ni kibishii sekai desu | 乙女游戏世界对路人角色很不友好 | ![](https://lain.bgm.tv/r/400/pic/cover/l/38/2b/359980_JRjE0.jpg)<br>![](https://lain.bgm.tv/r/400/pic/cover/l/16/a8/412144_39HJH.jpg)<br>日语：乙女ゲー世界はモブに厳しい世界です<br>作者：三岛与梦 | [萌娘百科](https://zh.moegirl.org.cn/乙女游戏世界对路人角色很不友好) |
