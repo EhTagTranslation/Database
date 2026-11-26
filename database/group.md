@@ -14424,6 +14424,7 @@ example:
 | nakayoshi okashidou | 仲よしおかし堂 |  |  |
 | kiraku no hoshi | 喜楽の星 |  |  |
 | kaiman sb | カイマンSB |  |  |
+| nigbwenomori | ニベクヴェの森 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
