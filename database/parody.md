@@ -628,7 +628,7 @@ example:
 | gad guard | 钢铁守护者 |  |  |
 | tears to tiara | 提亚拉之泪 |  |  |
 | tenshi no inai 12-gatsu | 天使不在的12月 |  |  |
-| comic party | 漫画同人会 | ![](https://upload.wikimedia.org/wikipedia/zh/9/98/ComicParty.jpg)<br>「こみっくパーティー」(COMIC PARTY)是Leaf制作的一部Galgame作品，最早于1999年发布于Windows平台。2001年4月改编为TV动画，是Galgame史上第二部改编为TV动画的作品。2005年移植到PSP平台，是第一部登上PSP的原R-18游戏。此外还有漫画等衍生作品。 | [维基百科](https://zh.wikipedia.org/wiki/漫畫派對_%28遊戲%29) \| [萌娘百科](https://zh.moegirl.org.cn/COMIC_PARTY) |
+| comic party | 漫画同人会 | ![](https://lain.bgm.tv/r/400/pic/cover/l/65/4a/2079_52605.jpg)<br>日语：こみっくパーティー | [维基百科](https://zh.wikipedia.org/wiki/漫畫派對_%28遊戲%29) \| [萌娘百科](https://zh.moegirl.org.cn/COMIC_PARTY) |
 | kizuato | 痕 |  |  |
 | sentimental graffiti | 青涩宝贝 |  |  |
 | bleach | 死神 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b7/58/302286_s3o3E.jpg)<br>![](https://lain.bgm.tv/r/400/pic/cover/l/9e/98/1600_dLcNL.jpg)<br>作者：久保带人 | [维基百科](https://zh.wikipedia.org/wiki/BLEACH) |
