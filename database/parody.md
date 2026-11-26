@@ -1004,7 +1004,7 @@ example:
 | konjiki no gash | 金色的卡修 | 金童卡修、魔法少年贾修 |  |
 | super doll licca-chan | 丽佳公主 | 《丽佳公主》（スーパードール★リカちゃん），又译《超级娃娃战士》、《丽佳娃娃》或《梦幻娃娃》，是一部日本电视动画，共52集。 |  |
 | kasumin | 妙妙魔法屋 |  |  |
-| di gi charat | 铃铛猫娘 | 《Di Gi Charat》（日文：デ・ジ・キャラット 中译：滴骰孖妹/铃铛猫娘/叮当小魔女等）是1999年Broccoli公司为动漫周边连锁Gamers所创作的角色企画，是现役店铺吉祥物。并有动画、漫画、小说等周边作品。 |  |
+| di gi charat | 铃铛猫娘 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ba/0c/38072_S330H.jpg)<br>别译：滴骰孖妹/铃铛猫娘/叮当小魔女等<br>日文：デ・ジ・キャラット |  |
 | lamento | 挽歌 |  |  |
 | dexters laboratory | 德克斯特的实验室 |  |  |
 | mahoujin guru guru | 咕噜咕噜魔法阵 |  |  |
