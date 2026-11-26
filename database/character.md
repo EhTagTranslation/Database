@@ -6630,7 +6630,7 @@ example:
 | rin onigawara | 鬼瓦轮 | ![](https://static.wikia.nocookie.net/all-worlds-alliance/images/3/3a/RinOnigawara2.png)<br>所属作品：`busou shoujo machiavellianism` | [萌娘百科](https://zh.moegirl.org.cn/鬼瓦轮) |
 | yukana yame | 八女由佳奈 | ![](https://static.wikia.nocookie.net/hajimete-no-gal/images/d/df/25a17b4cce29ff34ae2a7ff12206c28b.png)<br>所属作品：`hajimete no gal` | [萌娘百科](https://zh.moegirl.org.cn/八女由佳奈) |
 | mylene rapha holfort | 米莲努·拉法·霍尔佛特 | ![](https://static.wikia.nocookie.net/otome-games-is-tough-for-mobs/images/6/6e/Mylene-00_Anime_2nd.png)<br>出自作品:`otome game sekai wa mob ni kibishii sekai desu` | [百度百科](https://baike.baidu.com/item/米莲努·拉法·霍尔佛特/60243238) |
-| arcana | 阿尔卡纳 | 手机游戏《重返未来：1999》中的角色，重塑之手首领，芝加哥事件、维也纳事件、阿派朗事件的罪魁祸首，第一次大决战中在遭受真空弹轰炸后一度被重塑之手各分支尊为“受苦者”，在南极事件中被成功复活。 | [百度百科](https://baike.baidu.com/item/阿尔卡纳/63393022) |
+| arcana | 阿尔卡纳 | ![](https://bkimg.cdn.bcebos.com/pic/2f738bd4b31c8701a18b84cdd025892f0708283851df)<br>出自作品:`reverse 1999` | [百度百科](https://baike.baidu.com/item/阿尔卡纳/63393022) |
 | shushu suruga | 骏河朱朱 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/2/20/Shushu_Suruga_S2.webp)<br>所属作品：`mato seihei no slave`<br>七番组成员，好奇心旺盛的少女，能力为“玉体革命”。 | [萌娘百科](https://zh.moegirl.org.cn/骏河朱朱) |
 | yuuki wakura | 和仓优希 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/4/41/Yuuki_Wakura_S2.webp)<br>所属作品：`mato seihei no slave` | [萌娘百科](https://zh.moegirl.org.cn/和仓优希) |
 | yumina urnea belfast | 由美娜·艾尔涅雅·贝尔法斯特 | ![](https://img.moegirl.org.cn/common/thumb/2/2f/Yumina_Ernea_Belfast_Anime.png/364px-Yumina_Ernea_Belfast_Anime.png)<br>所属作品：`isekai wa smartphone to tomo ni.`<br>贝尔法斯特王国的公主。 | [萌娘百科](https://zh.moegirl.org.cn/由美娜·艾尔涅雅·贝尔法斯特) |
