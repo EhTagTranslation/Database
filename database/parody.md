@@ -1243,7 +1243,7 @@ example:
 | fantasy earth zero | 幻想大陆 | 《幻想大陆》（日语：ファンタジーアース ゼロ，英语：Fantasy Earth Zero，港台译作“幻想战记”）是一款大型多人线上角色扮演游戏。游戏动作因素强烈，并且加入了即时战略的要素而融合成独具一格的多人（最大50对50）国战系统，作为游戏的卖点。直到2013年4月的如今，北美、日本、中国大陆、台湾及香港都曾开设服务器，分别由不同的代理商代理运营。现在开发公司为FenixSoft，版权提供史克威尔艾尼克斯，企划史克威尔艾尼克斯第10开发部，原开发公司マルチターム。 | [维基百科](https://zh.wikipedia.org/wiki/幻想戰記) (\*) |
 | fantastic four | 神奇四侠 | 神奇四侠（英语：Fantastic Four）是漫威漫画旗下的超级英雄，由四名具有超能力的人组成。台湾在早期译为四异人。 | [维基百科](https://zh.wikipedia.org/wiki/神奇四侠) (\*) |
 | wonder woman | 神奇女侠 |  | [维基百科](https://zh.wikipedia.org/wiki/神奇女俠) |
-| family guy | 恶搞之家 | 《恶搞之家》（Family Guy），是一部由塞思·迈克尔法兰创作的动画电视剧。自1999年起在美国福斯广播公司播出，另在其他电视台也有播映。 | [维基百科](https://zh.wikipedia.org/wiki/蓋酷家庭) (\*) |
+| family guy | 恶搞之家 | ![](https://bkimg.cdn.bcebos.com/pic/c995d143ad4bd1130946f1dd5aafa40f4afb0551)<br>由塞思·迈克尔法兰创作的动画电视剧。 | [维基百科](https://zh.wikipedia.org/wiki/蓋酷家庭) (\*) |
 | galaxy angel | 银河天使 | 《银河天使》是日本Broccoli公司的一个跨媒体制作企划。这套作品正朝着动画、漫画、小说、游戏及角色商品的方向发展。 | [维基百科](https://zh.wikipedia.org/wiki/銀河天使) (\*) |
 | nurse witch komugi | 魔法护士小麦 | 《魔法护士小麦》是电视动画《The Soul Taker ～魂狩～》的外传作品，并有游戏、漫画、小说、网络广播等衍生作品。作品以OVA动画的形式发售，正篇《魔法护士小麦》6话、续篇《魔法护士小麦Z》2话。2015年10月宣布制作续篇动画《魔法护士小麦R》，电视动画在2016年1月首播。 | [维基百科](https://zh.wikipedia.org/wiki/魔法護士小麥) (\*) |
 | popotan | 蒲公英之恋 | 《蒲公英之恋》（日语：ぽぽたん）是日本的ぷちフェレット于2002年12月13日发售的恋爱冒险类型成人游戏，2004年3月11日由WellMADE发售PlayStation 2版《おしえて! ぽぽたん》，2003年7月11日发售Fan disc《ぽぽたんファンディスク いっしょにA・SO・BO》。2003年播放电视动画版共12集，另外也改编成漫画、小说。 | [维基百科](https://zh.wikipedia.org/wiki/蒲公英之戀) (\*) |
