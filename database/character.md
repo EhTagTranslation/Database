@@ -5483,7 +5483,7 @@ example:
 | saint cecilia | 塞西莉亚 | 塞西莉亚（日语：セシリア；英语：Cecilia）是由和武叶佐乃所创作的漫画《白圣女与黑牧师》及其衍生作品的登场角色，为本作女主角。<br><br>![](https://img.moegirl.org.cn/common/0/0c/塞西莉亚_白圣女与黑牧师.jpg) | [萌娘百科](https://zh.moegirl.org.cn/塞西莉亚%28白圣女与黑牧师%29#) |
 | sona buvelle | 娑娜（琴瑟仙女） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/0/09/j3yzy03xlqb7xp168i7vmdxxh2kutmw.jpg)<br>![](https://patchwiki.biligame.com/images/lol/a/a2/06kmsmcxe393r20hb9qmhx85sb4aly6.jpg)<br>DJ皮肤 | [萌娘百科](https://zh.moegirl.org.cn/娑娜·布维尔) |
 | dokibird | Dokibird | Dokibird是一名从2020年5月4日开始在Twitch与YouTube活动的个人势虚拟UP主。2021年5月16日宣布毕业后，在2024年2月5日宣布再次开始活动。<br>![](https://img.moegirl.org.cn/common/thumb/1/18/Dokibird立绘1.jpg/800px-Dokibird立绘1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/Dokibird) |
-| navia caspar | 娜维娅·卡萨帕 | ![](https://patchwiki.biligame.com/images/ys/0/07/ia8tl8fk7ngdtbhepvlb0mz1oqygvwh.gif)<br>所属作品：`genshin impact`<br>刺玫会现任会长，一位可爱、尽责的好老板。 | [萌娘百科](https://zh.moegirl.org.cn/娜维娅·卡萨帕) |
+| navia caspar | 娜维娅·卡萨帕 | ![](https://patchwiki.biligame.com/images/ys/0/07/ia8tl8fk7ngdtbhepvlb0mz1oqygvwh.gif)<br>所属作品：`genshin impact` | [萌娘百科](https://zh.moegirl.org.cn/娜维娅·卡萨帕) |
 | shizuru kousaka | 高坂静流 | ![](https://static.wikia.nocookie.net/taimanin/images/8/85/Kousaka_Shizuru_22.png)<br>所属作品：`taimanin yukikaze`<br>高坂静流是一位专注于单独执行危险潜入任务的经验丰富的对魔忍。 | [https://www.lilith-soft.com/chara/detail/261](https://www.lilith-soft.com/chara/detail/261) |
 | krystal | 克莉斯塔尔 | 出自作品:`star fox` | [维基百科](https://zh.wikipedia.org/wiki/星際火狐系列角色列表#克莉斯塔爾) |
 | fox mccloud | 火狐·麦克劳德 | 出自作品:`star fox` | [维基百科](https://zh.wikipedia.org/wiki/星際火狐系列角色列表#火狐·麥克勞德) |
