@@ -2274,7 +2274,7 @@ example:
 | night shift nurses | 夜勤病栋 | ![](https://bkimg.cdn.bcebos.com/pic/37d3d539b6003af357420b4a382ac65c1038b624)<br>日语：やきんびょうとう |  |
 | library of ruina | 废墟图书馆 | 《废墟图书馆》（英文：Library of Ruina）是由Project Moon制作并发行的一款以“图书馆战斗模拟”为概念的模拟策略卡牌游戏。 | [萌娘百科](https://zh.moegirl.org.cn/废墟图书馆)<br>[维基百科](https://zh.wikipedia.org/wiki/廢墟圖書館) |
 | dark gathering | 黑暗集会 | ![](https://m.media-amazon.com/images/M/MV5BNjFjZjRiMDYtZWNkZC00YmYxLWIyZDQtYWFjYzI4M2Q3YjE0XkEyXkFqcGc@._V1_.jpg)<br>日本漫画家近藤宪一创作的恐怖漫画 |  |
-| reverse 1999 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_192/h_192/50036/160127/2023/5/6/703473.png?x-image-process=image/resize,m_lfit,h_200,w_200/ignore-error,1&image_process=resize,mid,w_200,h_200) 重返未来：1999 | 《重返未来：1999》（英语：Reverse:1999）是由广州深蓝互动网络科技有限公司开发的策略RPG及收集养成游戏。 | [萌娘百科](https://zh.moegirl.org.cn/重返未来：1999) |
+| reverse 1999 | 重返未来：1999 | ![](https://bkimg.cdn.bcebos.com/pic/d009b3de9c82d158ccbf79adfa5c0ed8bc3eb135e42b)<br>广州深蓝互动网络科技有限公司开发的策略RPG及收集养成游戏。 | [萌娘百科](https://zh.moegirl.org.cn/重返未来：1999) |
 | peanuts | 花生 | 《花生》（英语：Peanuts）是一部美国报纸连环漫画，作者为查尔斯·舒尔茨（Charles M. Schulz）。《花生》是漫画发展史上首部多个角色系列漫画，从1950年10月2日开始发行，到2000年2月13日作者病逝为止，共连载17,897幅。漫画中以`c:snoopy`、`c:charlie brown`、`c:sally brown`、`c:linus van pelt`、`c:lucy van pelt`、施洛德（Schroeder）、`c:patricia reichardt`、`c:marcie`、和富兰克林（Franklin）等几位小学生为主要角色，以小孩生活为题材，观察这个简单又复杂的世界。 | [维基百科](https://zh.wikipedia.org/wiki/花生漫畫) |
 | fortnite | 堡垒之夜 |  | [维基百科](https://zh.wikipedia.org/wiki/堡垒之夜) |
 | doom | 毁灭战士 | 毁灭战士系列（Doom），是由id Software开发的第一人称射击电子游戏系列，在电子游戏界中被普遍视作第一人称射击游戏的开拓者之一。 |  |
