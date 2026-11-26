@@ -15913,6 +15913,7 @@ example:
 | tsutsuji | 筒蒔 |  |  |
 | maya | まや |  |  |
 | kaiman | カイマン |  |  |
+| hippotam | ひぽたむ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
