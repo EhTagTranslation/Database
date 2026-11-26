@@ -10671,6 +10671,7 @@ example:
 | shinei nouzen | 辛耶·诺赞 | ![](https://static.wikia.nocookie.net/86-eighty-six/images/3/3b/Shin_Full_Body.png)<br>日语：シンエイ・ノウゼン<br>出自作品:`86` |  |
 | absalom | 阿布萨罗姆 | ![](https://bkimg.cdn.bcebos.com/pic/9c16fdfaaf51f3deb48f55090bb8e71f3a292df5d31d)<br>出自作品:`one piece` |  |
 | mirio togata | 通行百万 |  |  |
+| thirty-seven | 37（赫尔墨斯之星） | ![](https://bkimg.cdn.bcebos.com/pic/4ec2d5628535e5dde711f083799db0efce1b9d16c46e)<br>出自作品:`reverse 1999` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
