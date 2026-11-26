@@ -15914,6 +15914,7 @@ example:
 | maya | まや |  |  |
 | kaiman | カイマン |  |  |
 | hippotam | ひぽたむ |  |  |
+| qiushu | 囚书 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
