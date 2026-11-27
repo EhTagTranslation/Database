@@ -14426,6 +14426,7 @@ example:
 | kaiman sb | カイマンSB |  |  |
 | nigbwenomori | ニベクヴェの森 |  |  |
 | akane soft | あかねそふと |  |  |
+| cosken | コス研 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
