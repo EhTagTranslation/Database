@@ -132,7 +132,7 @@ example:
 | disgaea | 魔界战记 | 游戏，不了解<br>![图](https://ehgt.org/de/9a/de9ae23da8309e14526c36df93ff1774c92995c7-2989024-2454-3486-jpg_l.jpg)![图](https://ehgt.org/c0/73/c0735817f0aea167758d9ff102d45ac338687e07-2405201-2428-3483-jpg_l.jpg) |  |
 | chuunibyou demo koi ga shitai | 中二病也要谈恋爱！ | ![图](# "https://ehgt.org/49/a8/49a8751f9a444456a25139ebd0a2dc7c3f179fae-2180129-1393-2000-jpg_l.jpg")![图](# "https://ehgt.org/ca/ac/caac4ca2b6f0750cac39acad1512a5e0f808a021-937875-2131-3000-jpg_250.jpg") |  |
 | ano hi mita hana no namae wo bokutachi wa mada shiranai | 我们仍未知道那天所看见的花的名字。 | 又译为“未闻花名”，日本官方简称“那朵花”<br>![图](https://ehgt.org/b9/82/b982e8d3a269a0a2aec6706368054b49e41aa83e-1003852-2000-1417-jpg_l.jpg)![图](https://ehgt.org/82/69/826926e8c503e92084baaff53688aa4bc5acc1c7-2122976-2115-3031-jpg_l.jpg) |  |
-| amagi brilliant park | 甘城光辉游乐园 | ![](https://img.moegirl.org.cn/common/b/bf/Amagi_Brilliant_Park.jpg)<br>贺东招二著作、中岛有华负责插画、富士见Fantasia文库所属的一部轻小说，并有外传小说、漫画、动画等衍生作。 | [萌娘百科](https://zh.moegirl.org.cn/甘城光辉游乐园) |
+| amagi brilliant park | 甘城光辉游乐园 | ![](https://img.moegirl.org.cn/common/b/bf/Amagi_Brilliant_Park.jpg)<br>日语：甘城ブリリアントパーク | [萌娘百科](https://zh.moegirl.org.cn/甘城光辉游乐园) |
 | hidan no aria | 绯弹的亚里亚 | ![](https://img.moegirl.org.cn/common/6/60/Aria_the_Scarlet_Ammo_01%282%29.jpg)<br>《绯弹的亚里亚》是赤松中学创作、MF文库J发行的轻小说系列，并有漫画、动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/绯弹的亚里亚) |
 | steinsgate | 命运石之门 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a9/79/10380_YwP4R.jpg) |  |
 | lucky star | 幸运星 | ![](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2262328669.webp)<br>又名：幸运☆星<br>《幸运星》是美水镜自2004年1月起在杂志Comptiq上连载的日本四格漫画作品，并有同名改编动画。 |  |
