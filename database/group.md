@@ -14425,6 +14425,7 @@ example:
 | kiraku no hoshi | 喜楽の星 |  |  |
 | kaiman sb | カイマンSB |  |  |
 | nigbwenomori | ニベクヴェの森 |  |  |
+| akane soft | あかねそふと |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
