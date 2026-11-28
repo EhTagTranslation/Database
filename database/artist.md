@@ -15916,6 +15916,7 @@ example:
 | hippotam | ひぽたむ |  |  |
 | qiushu | 囚书 |  |  |
 | wazuchi nao | わづち直 |  |  |
+| setsunai | せつない |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
