@@ -15917,6 +15917,7 @@ example:
 | qiushu | 囚书 |  |  |
 | wazuchi nao | わづち直 |  |  |
 | setsunai | せつない |  |  |
+| harukaze setsuna | 春风刹那 (はるかぜせつな) |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
