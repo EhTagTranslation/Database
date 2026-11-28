@@ -6452,7 +6452,7 @@ example:
 | karibian | かりび庵 |  |  |
 | karikari bacon | カリカリベーコン |  |  |
 | karin | Karin |  |  |
-| karintou | かりん党 |  |  |
+| karintou | カリン糖 |  |  |
 | karitara kaesu | かりたらかえす |  |  |
 | karma laboratory | 業-karma-Laboratory |  |  |
 | karoyaka step | かろやかステップ |  |  |
