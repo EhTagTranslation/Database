@@ -15915,6 +15915,7 @@ example:
 | kaiman | カイマン |  |  |
 | hippotam | ひぽたむ |  |  |
 | qiushu | 囚书 |  |  |
+| wazuchi nao | わづち直 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
