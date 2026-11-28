@@ -14427,6 +14427,7 @@ example:
 | nigbwenomori | ニベクヴェの森 |  |  |
 | akane soft | あかねそふと |  |  |
 | cosken | コス研 |  |  |
+| ryoumusubi enmusubi | 两结缘结 (両結縁結) |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
